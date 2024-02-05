@@ -14,12 +14,15 @@ for (const filename of filenames) {
 }
 
 // apps directory に存在する app 一覧を API 経由で登録する
+const body = JSON.stringify(apps)
+console.debug(body)
 const response = await fetch(`${API_ENDPOINT}/v1/private/app`, {
   method: 'POST',
   headers: {
     Authorization: `Basic ${btoa(`${USERNAME}:${PASSWORD}`)}`,
+    'Content-Type': 'application/json',
   },
-  body: JSON.stringify(apps),
+  body,
 })
 if (!response.ok) {
   throw new Error(

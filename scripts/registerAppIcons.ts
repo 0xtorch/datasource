@@ -15,13 +15,16 @@ for (const filename of filenames) {
     continue
   }
   const fileStream = Bun.file(`./apps/icons/${filename}`).stream()
-  const uploadResponse = await fetch(`${API_ENDPOINT}/app/icon/${filename}`, {
-    method: 'PUT',
-    headers: {
-      Authorization: `Basic ${btoa(`${USERNAME}:${PASSWORD}`)}`,
+  const uploadResponse = await fetch(
+    `${API_ENDPOINT}/v1/private/app/icon/${filename}`,
+    {
+      method: 'PUT',
+      headers: {
+        Authorization: `Basic ${btoa(`${USERNAME}:${PASSWORD}`)}`,
+      },
+      body: fileStream,
     },
-    body: fileStream,
-  })
+  )
   if (!uploadResponse.ok) {
     throw new Error(
       `Failed to upload ${filename}: ${uploadResponse.status} ${uploadResponse.statusText}`,
