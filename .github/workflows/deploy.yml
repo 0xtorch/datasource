@@ -1,0 +1,94 @@
+name: Deploy
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  test:
+    name: Test
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v3
+
+      - name: Install Bun
+        uses: oven-sh/setup-bun@v1
+        with:
+          bun-version: latest
+
+      - name: Install Dependencies
+        run: bun install
+
+      - name: Run Tests
+        run: bun test
+
+  changes:
+    needs: test
+    runs-on: ubuntu-latest
+    outputs:
+      app: ${{ steps.filter.outputs.app }}
+      app_icon: ${{ steps.filter.outputs.app_icon }}
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v3
+
+      - name: Find Changed Files
+        uses: dorny/paths-filter@v2
+        id: filter
+        with:
+          filters: |
+            app:
+              - 'apps/**'
+            app_icon:
+              - 'apps/icons/**'
+
+  register_app:
+    name: Register App
+    needs: changes
+    if: ${{ needs.changes.outputs.app == 'true' }}
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v3
+
+      - name: Install Bun
+        uses: oven-sh/setup-bun@v1
+        with:
+          bun-version: latest
+
+      - name: Install Dependencies
+        run: bun install
+
+      - name: Register Services & Tokens
+        run: bun run scripts/registerApps.ts
+        env:
+          API_ENDPOINT: ${{ secrets.API_ENDPOINT }}
+          USERNAME: ${{ secrets.USERNAME }}
+          PASSWORD: ${{ secrets.PASSWORD }}
+
+  register_app_icon:
+    name: Register App Icon
+    needs: changes
+    if: ${{ needs.changes.outputs.app_icon == 'true' }}
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v3
+
+      - name: Install Bun
+        uses: oven-sh/setup-bun@v1
+        with:
+          bun-version: latest
+
+      - name: Install Dependencies
+        run: bun install
+
+      - name: Register Services & Tokens
+        run: bun run scripts/registerAppIcons.ts
+        env:
+          API_ENDPOINT: ${{ secrets.API_ENDPOINT }}
+          USERNAME: ${{ secrets.USERNAME }}
+          PASSWORD: ${{ secrets.PASSWORD }}
+          BUCKET_ENDPOINT: ${{ secrets.BUCKET_ENDPOINT }}
