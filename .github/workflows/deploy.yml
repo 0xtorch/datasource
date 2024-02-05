@@ -61,7 +61,7 @@ jobs:
       - name: Install Dependencies
         run: bun install
 
-      - name: Register Services & Tokens
+      - name: Register Apps
         run: bun run scripts/registerApps.ts
         env:
           API_ENDPOINT: ${{ secrets.API_ENDPOINT }}
@@ -85,7 +85,7 @@ jobs:
       - name: Install Dependencies
         run: bun install
 
-      - name: Register Services & Tokens
+      - name: Register App Icons
         run: bun run scripts/registerAppIcons.ts
         env:
           API_ENDPOINT: ${{ secrets.API_ENDPOINT }}
