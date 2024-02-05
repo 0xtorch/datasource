@@ -21,6 +21,9 @@ for (const filename of filenames) {
       method: 'PUT',
       headers: {
         Authorization: `Basic ${btoa(`${USERNAME}:${PASSWORD}`)}`,
+        'Content-Type': filename.endsWith('.png')
+          ? 'image/png'
+          : 'image/svg+xml',
       },
       body: fileStream,
     },
