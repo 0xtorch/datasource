@@ -5,6 +5,11 @@ const filePathes = (process.env.FILES ?? '')
   .split(',')
   .filter((v) => /^evms\/chains\/\d+\/0x[\dA-Fa-f]{40}\.json$/.test(v))
 
+console.log('Registering evm addresses:')
+for (const filePath of filePathes) {
+  console.log(`  ${filePath}`)
+}
+
 const evmAddresses: EvmAddress[] = []
 for (const filePath of filePathes) {
   const chainId = Number(filePath.split('evms/chains/')[1].split('/')[0])
