@@ -53,6 +53,10 @@ jobs:
     if: ${{ needs.changes.outputs.app == 'true' }}
     runs-on: ubuntu-latest
     steps:
+      - name: Checkout Before
+        uses: actions/checkout@v4
+        with:
+          ref: ${{github.event.before}}
       - name: Checkout
         uses: actions/checkout@v4
 
@@ -80,6 +84,10 @@ jobs:
     if: ${{ needs.changes.outputs.app_icon == 'true' }}
     runs-on: ubuntu-latest
     steps:
+      - name: Checkout Before
+        uses: actions/checkout@v4
+        with:
+          ref: ${{github.event.before}}
       - name: Checkout
         uses: actions/checkout@v4
 
@@ -107,6 +115,10 @@ jobs:
     if: ${{ needs.changes.outputs.evm_chain == 'true' }}
     runs-on: ubuntu-latest
     steps:
+      - name: Checkout Before
+        uses: actions/checkout@v4
+        with:
+          ref: ${{github.event.before}}
       - name: Checkout
         uses: actions/checkout@v4
 
