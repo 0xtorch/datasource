@@ -11,7 +11,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
 
       - name: Install Bun
         uses: oven-sh/setup-bun@v1
@@ -30,9 +30,10 @@ jobs:
     outputs:
       app: ${{ steps.filter.outputs.app }}
       app_icon: ${{ steps.filter.outputs.app_icon }}
+      evm_chain: ${{ steps.filter.outputs.evm_chain }}
     steps:
       - name: Checkout
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
 
       - name: Find Changed Files
         uses: dorny/paths-filter@v2
@@ -43,6 +44,8 @@ jobs:
               - 'apps/**'
             app_icon:
               - 'apps/icons/**'
+            evm_chain:
+              - 'evms/chains/**'
 
   register_app:
     name: Register App
@@ -51,7 +54,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
 
       - name: Install Bun
         uses: oven-sh/setup-bun@v1
@@ -62,7 +65,10 @@ jobs:
         run: bun install
 
       - name: Register Apps
-        run: bun run scripts/registerApps.ts
+        run: |
+          for file in $(git diff ${{github.event.before}}..${{github.event.after}} --name-only --diff-filter=AM -- 'apps/*.json') ; do
+            FILES=$file bun run scripts/registerApps.ts
+          done
         env:
           API_ENDPOINT: ${{ secrets.API_ENDPOINT }}
           USERNAME: ${{ secrets.USERNAME }}
@@ -75,7 +81,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
 
       - name: Install Bun
         uses: oven-sh/setup-bun@v1
@@ -86,9 +92,38 @@ jobs:
         run: bun install
 
       - name: Register App Icons
-        run: bun run scripts/registerAppIcons.ts
+        run: |
+          for file in $(git diff ${{github.event.before}}..${{github.event.after}} --name-only --diff-filter=AM -- 'apps/icons/*') ; do
+            FILES=$file bun run scripts/registerAppIcons.ts
+          done
         env:
           API_ENDPOINT: ${{ secrets.API_ENDPOINT }}
           USERNAME: ${{ secrets.USERNAME }}
           PASSWORD: ${{ secrets.PASSWORD }}
-          BUCKET_ENDPOINT: ${{ secrets.BUCKET_ENDPOINT }}
+
+  register_evm_chain:
+    name: Register EVM Chain Address
+    needs: changes
+    if: ${{ needs.changes.outputs.evm_chain == 'true' }}
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Install Bun
+        uses: oven-sh/setup-bun@v1
+        with:
+          bun-version: latest
+
+      - name: Install Dependencies
+        run: bun install
+
+      - name: Register EVM Chain Address
+        run: |
+          for file in $(git diff ${{github.event.before}}..${{github.event.after}} --name-only --diff-filter=AM -- 'evms/chains/**/*.json') ; do
+            FILES=$file bun run scripts/registerEvmAddresses.ts
+          done
+        env:
+          API_ENDPOINT: ${{ secrets.API_ENDPOINT }}
+          USERNAME: ${{ secrets.USERNAME }}
+          PASSWORD: ${{ secrets.PASSWORD }}
