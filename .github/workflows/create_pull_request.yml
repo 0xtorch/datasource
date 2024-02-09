@@ -19,6 +19,8 @@ jobs:
       - name: CreateFile
         run: |
           rm -rf ${{ github.event.client_payload.path }}
+          mkdir -p ${{ github.event.client_payload.path }}
+          rm -rf ${{ github.event.client_payload.path }}
           touch ${{ github.event.client_payload.path }}
           echo '${{ github.event.client_payload.file }}' > ${{ github.event.client_payload.path }}
 
