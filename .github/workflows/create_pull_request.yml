@@ -20,7 +20,7 @@ jobs:
         run: |
           rm -rf ${{ github.event.client_payload.path }}
           touch ${{ github.event.client_payload.path }}
-          echo "${{ github.event.client_payload.file }}" > ${{ github.event.client_payload.path }}
+          echo '${{ github.event.client_payload.file }}' > ${{ github.event.client_payload.path }}
 
       - name: Create Pull Request
         uses: peter-evans/create-pull-request@v6
