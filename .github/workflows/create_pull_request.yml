@@ -18,14 +18,14 @@ jobs:
 
       - name: CreateFile
         run: |
-          rm -rf ${{ toJSON(github.event.client_payload).path }}
-          touch ${{ toJSON(github.event.client_payload).path }}
-          echo "${{ toJSON(github.event.client_payload).file }}" > ${{ toJSON(github.event.client_payload).path }}
+          rm -rf ${{ github.event.client_payload.path }}
+          touch ${{ github.event.client_payload.path }}
+          echo "${{ github.event.client_payload.file }}" > ${{ github.event.client_payload.path }}
 
       - name: Create Pull Request
         uses: peter-evans/create-pull-request@v6
         with:
-          commit-message: Create ${{ toJSON(github.event.client_payload).path }}
+          commit-message: Create ${{ github.event.client_payload.path }}
           delete-branch: true
-          title: Create ${{ toJSON(github.event.client_payload).path }}
-          branch: create/${{ toJSON(github.event.client_payload).path }}
+          title: Create ${{ github.event.client_payload.path }}
+          branch: create/${{ github.event.client_payload.path }}
