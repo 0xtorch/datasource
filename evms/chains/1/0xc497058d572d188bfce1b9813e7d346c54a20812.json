@@ -1,0 +1,5 @@
+{
+  "address": "0xc497058d572d188bfce1b9813e7d346c54a20812",
+  "label": "PendingBalanceWithdrawer",
+  "abi": "[{\"inputs\":[{\"components\":[{\"internalType\":\"address payable\",\"name\":\"owner\",\"type\":\"address\"},{\"internalType\":\"address\",\"name\":\"token\",\"type\":\"address\"},{\"internalType\":\"uint256\",\"name\":\"gas\",\"type\":\"uint256\"}],\"internalType\":\"struct PendingBalanceWithdrawer.RequestWithdrawFT[]\",\"name\":\"_FTRequests\",\"type\":\"tuple[]\"},{\"components\":[{\"internalType\":\"uint32\",\"name\":\"tokenId\",\"type\":\"uint32\"},{\"internalType\":\"uint256\",\"name\":\"gas\",\"type\":\"uint256\"}],\"internalType\":\"struct PendingBalanceWithdrawer.RequestWithdrawNFT[]\",\"name\":\"_NFTRequests\",\"type\":\"tuple[]\"}],\"name\":\"withdrawPendingBalances\",\"outputs\":[],\"stateMutability\":\"nonpayable\",\"type\":\"function\"}]"
+}
