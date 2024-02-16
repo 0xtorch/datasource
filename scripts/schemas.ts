@@ -1,4 +1,5 @@
 import { z } from 'zod'
+import { isHex, toLowerHex } from './hex'
 
 export const appSchema = z.object({
   id: z.string(),
@@ -34,28 +35,39 @@ const logArgumentPatternToLowerCaseValueSchema = z.object({
   value: z.string().transform((x) => x.toLowerCase()),
 })
 
-const logsPatternPartialSchema = z.object({
-  matchType: z.literal('partial'),
-  signature: z
-    .string()
-    .regex(/^0x[\dA-Fa-f]{64}$/)
-    .transform((x) => x.toLowerCase()),
-  indexedCount: z.number().int(),
-  logCount: z.number().int().optional(),
-  args: z.array(logArgumentPatternToLowerCaseValueSchema).optional(),
-})
+const logsPatternPartialSchema = z
+  .object({
+    matchType: z.literal('partial'),
+    signature: z
+      .string()
+      .regex(/^0x[\dA-Fa-f]{64}$/)
+      .transform((x) => (isHex(x) ? toLowerHex(x) : '0x')),
+    indexedCount: z.number().int(),
+    logCount: z.number().int().optional(),
+    args: z.array(logArgumentPatternToLowerCaseValueSchema).optional(),
+  })
+  .transform((x) => ({
+    ...x,
+    logCount: x.logCount,
+    args: x.args,
+  }))
 
 const logsPatternExactSchema = z.object({
   matchType: z.literal('exact'),
   items: z.array(
-    z.object({
-      signature: z
-        .string()
-        .regex(/^0x[\dA-Fa-f]{64}$/)
-        .transform((x) => x.toLowerCase()),
-      indexedCount: z.number().int(),
-      args: z.array(logArgumentPatternToLowerCaseValueSchema).optional(),
-    }),
+    z
+      .object({
+        signature: z
+          .string()
+          .regex(/^0x[\dA-Fa-f]{64}$/)
+          .transform((x) => (isHex(x) ? toLowerHex(x) : '0x')),
+        indexedCount: z.number().int(),
+        args: z.array(logArgumentPatternToLowerCaseValueSchema).optional(),
+      })
+      .transform((x) => ({
+        ...x,
+        args: x.args,
+      })),
   ),
 })
 
@@ -63,6 +75,94 @@ const logsPatternSchema = z.union([
   logsPatternPartialSchema,
   logsPatternExactSchema,
 ])
+
+const internalsPatternPartialSchema = z
+  .object({
+    type: z.literal('partial'),
+    from: z
+      .string()
+      .regex(/^0x[\dA-Fa-f]{40}$/)
+      .transform((x) => (isHex(x) ? toLowerHex(x) : '0x'))
+      .optional(),
+    to: z
+      .string()
+      .regex(/^0x[\dA-Fa-f]{40}$/)
+      .transform((x) => (isHex(x) ? toLowerHex(x) : '0x'))
+      .optional(),
+    value: z.union([z.literal('plus'), z.literal('zero')]).optional(),
+    count: z.number().int().optional(),
+  })
+  .transform((x) => ({
+    ...x,
+    from: x.from,
+    to: x.to,
+    value: x.value,
+    count: x.count,
+  }))
+
+const internalsPatternSchema = internalsPatternPartialSchema
+
+const parameterDefaultSchema = z.object({
+  type: z.union([z.literal('from'), z.literal('to'), z.literal('value')]),
+})
+
+const parameterFunctionSchema = z.object({
+  type: z.literal('function'),
+  argIndex: z.number().int(),
+})
+
+const parameterLogSchema = z.object({
+  type: z.literal('log'),
+  signature: z
+    .string()
+    .regex(/^0x[\dA-Fa-f]{64}$/)
+    .transform((x) => (isHex(x) ? toLowerHex(x) : '0x')),
+  indexedCount: z.number().int(),
+  index: z.union([z.literal('some'), z.literal('every'), z.number().int()]),
+  argIndex: z.number().int(),
+})
+
+const parameterBaseLogSchema = z.object({
+  type: z.literal('log'),
+  signature: z
+    .string()
+    .regex(/^0x[\dA-Fa-f]{64}$/)
+    .transform((x) => (isHex(x) ? toLowerHex(x) : '0x')),
+  indexedCount: z.number().int(),
+  index: z.number().int(),
+  argIndex: z.number().int(),
+})
+
+const parameterInternalSchema = z.object({
+  type: z.literal('internal'),
+  index: z.union([z.literal('some'), z.literal('every'), z.number().int()]),
+  key: z.union([z.literal('from'), z.literal('to'), z.literal('value')]),
+})
+
+const parameterBaseInternalSchema = z.object({
+  type: z.literal('internal'),
+  index: z.number().int(),
+  key: z.union([z.literal('from'), z.literal('to'), z.literal('value')]),
+})
+
+const parameterSchema = z.union([
+  parameterDefaultSchema,
+  parameterFunctionSchema,
+  parameterLogSchema,
+  parameterInternalSchema,
+])
+
+const parameterBaseSchema = z.union([
+  parameterDefaultSchema,
+  parameterFunctionSchema,
+  parameterBaseLogSchema,
+  parameterBaseInternalSchema,
+])
+
+const parameterMatchPatternSchema = z.object({
+  base: parameterBaseSchema,
+  compare: parameterSchema,
+})
 
 const actionSchema = z.union([
   z.literal('atomic-arbitrage'),
@@ -74,17 +174,22 @@ const actionSchema = z.union([
   z.literal('transfer'),
 ])
 
-const actionGeneratorAnyTokenTransferSchema = z.object({
-  type: z.literal('any-token-transfer'),
-  token: z.union([
-    z.literal('erc20'),
-    z.literal('erc721'),
-    z.literal('erc1155'),
-  ]),
-  action: actionSchema,
-  comment: z.string().optional(),
-  target: z.union([z.literal('from'), z.literal('to'), z.literal('none')]),
-})
+const actionGeneratorAnyTokenTransferSchema = z
+  .object({
+    type: z.literal('any-token-transfer'),
+    token: z.union([
+      z.literal('erc20'),
+      z.literal('erc721'),
+      z.literal('erc1155'),
+    ]),
+    action: actionSchema,
+    comment: z.string().optional(),
+    target: z.union([z.literal('from'), z.literal('to'), z.literal('none')]),
+  })
+  .transform((x) => ({
+    ...x,
+    comment: x.comment,
+  }))
 
 const actionTransferGeneratorFromTokenTransferSchema = z.object({
   type: z.literal('token-transfer'),
@@ -92,48 +197,69 @@ const actionTransferGeneratorFromTokenTransferSchema = z.object({
     z.literal('erc20'),
     z.literal('erc721'),
     z.literal('erc1155'),
+    z.literal('value'),
+    z.literal('internal'),
   ]),
-  transferIndex: z.number().int(),
+  transferIndex: z.union([z.literal('any'), z.number().int()]),
   target: z.union([z.literal('from'), z.literal('to'), z.literal('none')]),
 })
 
-const actionGeneratorSpecificTokenTransferSchema = z.object({
-  type: z.literal('specific-token-transfer'),
-  action: actionSchema,
-  comment: z.string().optional(),
-  transfers: z.array(actionTransferGeneratorFromTokenTransferSchema),
-})
+const actionGeneratorSpecificTokenTransferSchema = z
+  .object({
+    type: z.literal('specific-token-transfer'),
+    action: actionSchema,
+    comment: z.string().optional(),
+    transfers: z.array(actionTransferGeneratorFromTokenTransferSchema),
+  })
+  .transform((x) => ({
+    ...x,
+    comment: x.comment,
+  }))
 
 const actionGeneratorSchema = z.union([
   actionGeneratorAnyTokenTransferSchema,
   actionGeneratorSpecificTokenTransferSchema,
 ])
 
-const evmAnalyzerSchema = z.object({
-  chainId: z.number().int().optional(),
-  from: z
-    .array(
-      z
-        .string()
-        .regex(/^0x[\dA-Fa-f]{40}$/)
-        .transform((x) => x.toLowerCase()),
-    )
-    .optional(),
-  to: z
-    .array(
-      z
-        .string()
-        .regex(/^0x[\dA-Fa-f]{40}$/)
-        .transform((x) => x.toLowerCase()),
-    )
-    .optional(),
-  functionSignature: z
-    .string()
-    .regex(/^0x[\dA-Fa-f]{8}$/)
-    .transform((x) => x.toLowerCase()),
-  functionInterface: z.string().optional(),
-  logsPatterns: z.array(logsPatternSchema),
-  generators: z.array(actionGeneratorSchema),
-})
+const evmAnalyzerSchema = z
+  .object({
+    chainId: z.number().int().optional(),
+    from: z
+      .array(
+        z
+          .string()
+          .regex(/^0x[\dA-Fa-f]{40}$/)
+          .transform((x) => (isHex(x) ? toLowerHex(x) : '0x')),
+      )
+      .optional(),
+    to: z
+      .array(
+        z
+          .string()
+          .regex(/^0x[\dA-Fa-f]{40}$/)
+          .transform((x) => (isHex(x) ? toLowerHex(x) : '0x')),
+      )
+      .optional(),
+    value: z.union([z.literal('plus'), z.literal('zero')]).optional(),
+    functionSignature: z
+      .string()
+      .regex(/^0x[\dA-Fa-f]{8}$/)
+      .transform((x) => (isHex(x) ? toLowerHex(x) : '0x')),
+    functionInterface: z.string().optional(),
+    logsPatterns: z.array(logsPatternSchema),
+    internalsPatterns: z.array(internalsPatternSchema).optional(),
+    parameterMatchPatterns: z.array(parameterMatchPatternSchema).optional(),
+    generators: z.array(actionGeneratorSchema),
+  })
+  .transform((x) => ({
+    ...x,
+    chainId: x.chainId,
+    from: x.from,
+    to: x.to,
+    value: x.value,
+    functionInterface: x.functionInterface,
+    internalsPatterns: x.internalsPatterns,
+    parameterMatchPatterns: x.parameterMatchPatterns,
+  }))
 
 export const evmAnalyzersSchema = z.array(evmAnalyzerSchema)
