@@ -1,6 +1,6 @@
 import { describe, expect, test } from 'bun:test'
 import { readdir } from 'node:fs/promises'
-import { evmAddressSchema } from '../scripts/schemas'
+import { evmAddressSchema, evmAnalyzersSchema } from '../scripts/schemas'
 
 describe('Should valid evm chain address json', async () => {
   const chainDirs = await readdir('./evms/chains')
@@ -18,5 +18,19 @@ describe('Should valid evm chain address json', async () => {
         expect(result.success).toBe(true)
       })
     }
+  }
+})
+
+describe('Should valid evm analyzers json', async () => {
+  const filenames = await readdir('./evms/analyzers')
+  for (const filename of filenames) {
+    if (!filename.endsWith('.json')) {
+      continue
+    }
+    test(`evms/analyzers/${filename}`, async () => {
+      const json = await Bun.file(`./evms/analyzers/${filename}`).json()
+      const result = evmAnalyzersSchema.safeParse(json)
+      expect(result.success).toBe(true)
+    })
   }
 })
