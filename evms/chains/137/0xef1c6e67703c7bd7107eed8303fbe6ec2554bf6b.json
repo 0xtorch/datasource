@@ -1,0 +1,6 @@
+{
+  "address": "0xef1c6e67703c7bd7107eed8303fbe6ec2554bf6b",
+  "label": "Uniswap: UnsupportedProtocol",
+  "app": "uniswap",
+  "abi": "[{\"inputs\":[],\"name\":\"UnsupportedProtocolError\",\"type\":\"error\"},{\"stateMutability\":\"nonpayable\",\"type\":\"fallback\"}]"
+}
