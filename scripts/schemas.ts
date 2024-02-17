@@ -9,6 +9,7 @@ export const appSchema = z.object({
       z.literal('cex'),
       z.literal('cross-chain'),
       z.literal('dex'),
+      z.literal('nft-marketplace'),
       z.literal('other'),
     ]),
   ),
