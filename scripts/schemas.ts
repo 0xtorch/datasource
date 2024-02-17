@@ -4,7 +4,13 @@ import { isHex, toLowerHex } from './hex'
 export const appSchema = z.object({
   id: z.string(),
   categories: z.array(
-    z.union([z.literal('cex'), z.literal('dex'), z.literal('other')]),
+    z.union([
+      z.literal('bridge'),
+      z.literal('cex'),
+      z.literal('cross-chain'),
+      z.literal('dex'),
+      z.literal('other'),
+    ]),
   ),
   name: z.string(),
   description: z.string().optional(),
