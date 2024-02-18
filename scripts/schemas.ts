@@ -176,6 +176,7 @@ const actionSchema = z.union([
   z.literal('buy-nft'),
   z.literal('deposit'),
   z.literal('free-mint-nft'),
+  z.literal('spam'),
   z.literal('trade'),
   z.literal('transaction-fee'),
   z.literal('transfer'),
