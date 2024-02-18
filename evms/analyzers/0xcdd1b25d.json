@@ -1,0 +1,127 @@
+[
+  {
+    "functionSignature": "0xcdd1b25d",
+    "functionInterface": "relay(bytes, bytes[], address[], uint256[])",
+    "logsPatterns": [
+      {
+        "matchType": "partial",
+        "name": "Transfer",
+        "signature": "0xddf252ad1be2c89b69c2b068fc378daa952ba7f163c4a11628f55a4df523b3ef",
+        "indexedCount": 2,
+        "logCount": 1
+      },
+      {
+        "matchType": "partial",
+        "name": "Relay",
+        "signature": "0x79fa08de5149d912dce8e5e8da7a7c17ccdf23dd5d3bfe196802e6eb86347c7c",
+        "indexedCount": 0,
+        "logCount": 1
+      }
+    ],
+    "parameterMatchPatterns": [
+      {
+        "base": {
+          "type": "log",
+          "signature": "0xddf252ad1be2c89b69c2b068fc378daa952ba7f163c4a11628f55a4df523b3ef",
+          "indexedCount": 2,
+          "index": 0,
+          "argIndex": 2
+        },
+        "compare": {
+          "type": "log",
+          "signature": "0x79fa08de5149d912dce8e5e8da7a7c17ccdf23dd5d3bfe196802e6eb86347c7c",
+          "indexedCount": 0,
+          "index": 0,
+          "argIndex": 4
+        }
+      },
+      {
+        "base": {
+          "type": "log",
+          "signature": "0xddf252ad1be2c89b69c2b068fc378daa952ba7f163c4a11628f55a4df523b3ef",
+          "indexedCount": 2,
+          "index": 0,
+          "argIndex": 1
+        },
+        "compare": {
+          "type": "log",
+          "signature": "0x79fa08de5149d912dce8e5e8da7a7c17ccdf23dd5d3bfe196802e6eb86347c7c",
+          "indexedCount": 0,
+          "index": 0,
+          "argIndex": 2
+        }
+      }
+    ],
+    "generators": [
+      {
+        "type": "specific-token-transfer",
+        "action": "bridge-to",
+        "transfers": [
+          {
+            "type": "token-transfer",
+            "token": "erc20",
+            "transferIndex": 0,
+            "target": "to"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "functionSignature": "0xcdd1b25d",
+    "functionInterface": "relay(bytes, bytes[], address[], uint256[])",
+    "logsPatterns": [
+      {
+        "matchType": "partial",
+        "name": "Relay",
+        "signature": "0x79fa08de5149d912dce8e5e8da7a7c17ccdf23dd5d3bfe196802e6eb86347c7c",
+        "indexedCount": 0,
+        "logCount": 1
+      }
+    ],
+    "parameterMatchPatterns": [
+      {
+        "base": {
+          "type": "log",
+          "signature": "0x79fa08de5149d912dce8e5e8da7a7c17ccdf23dd5d3bfe196802e6eb86347c7c",
+          "indexedCount": 0,
+          "index": 0,
+          "argIndex": 4
+        },
+        "compare": {
+          "type": "internal",
+          "index": "every",
+          "key": "value"
+        }
+      },
+      {
+        "base": {
+          "type": "log",
+          "signature": "0x79fa08de5149d912dce8e5e8da7a7c17ccdf23dd5d3bfe196802e6eb86347c7c",
+          "indexedCount": 0,
+          "index": 0,
+          "argIndex": 2
+        },
+        "compare": {
+          "type": "internal",
+          "index": "some",
+          "key": "to"
+        }
+      }
+    ],
+    "generators": [
+      {
+        "type": "specific-token-transfer",
+        "action": "bridge-to",
+        "transfers": [
+          {
+            "type": "token-transfer",
+            "token": "internal",
+            "transferIndex": "any",
+            "target": "to"
+          }
+        ]
+      }
+    ]
+  }
+]
