@@ -173,6 +173,8 @@ const parameterMatchPatternSchema = z.object({
 
 const actionSchema = z.union([
   z.literal('atomic-arbitrage'),
+  z.literal('bridge-from'),
+  z.literal('bridge-to'),
   z.literal('buy-nft'),
   z.literal('deposit'),
   z.literal('free-mint-nft'),
