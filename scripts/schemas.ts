@@ -172,16 +172,21 @@ const parameterMatchPatternSchema = z.object({
 })
 
 const actionSchema = z.union([
+  z.literal('add-liquidity'),
   z.literal('atomic-arbitrage'),
   z.literal('bridge-from'),
   z.literal('bridge-to'),
   z.literal('buy-nft'),
   z.literal('deposit'),
+  z.literal('deposit-with-bond'),
   z.literal('free-mint-nft'),
+  z.literal('remove-liquidity'),
   z.literal('spam'),
   z.literal('trade'),
   z.literal('transaction-fee'),
   z.literal('transfer'),
+  z.literal('withdraw'),
+  z.literal('withdraw-with-bond'),
 ])
 
 const actionGeneratorAnyTokenTransferSchema = z

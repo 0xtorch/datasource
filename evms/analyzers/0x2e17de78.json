@@ -1,0 +1,104 @@
+[
+  {
+    "functionSignature": "0x2e17de78",
+    "functionInterface": "unstake(uint256)",
+    "logsPatterns": [
+      {
+        "matchType": "partial",
+        "name": "Transfer",
+        "signature": "0xddf252ad1be2c89b69c2b068fc378daa952ba7f163c4a11628f55a4df523b3ef",
+        "indexedCount": 2,
+        "logCount": 2
+      },
+      {
+        "matchType": "partial",
+        "name": "Unstaked",
+        "signature": "0xba19705c2dcdd553670a4465b6ba6e77105f039d1c090202e4780e008165b4f6",
+        "indexedCount": 2,
+        "logCount": 1
+      }
+    ],
+    "parameterMatchPatterns": [
+      {
+        "base": {
+          "type": "log",
+          "signature": "0xba19705c2dcdd553670a4465b6ba6e77105f039d1c090202e4780e008165b4f6",
+          "indexedCount": 2,
+          "index": 0,
+          "argIndex": 2
+        },
+        "compare": {
+          "type": "log",
+          "signature": "0xddf252ad1be2c89b69c2b068fc378daa952ba7f163c4a11628f55a4df523b3ef",
+          "indexedCount": 2,
+          "index": "every",
+          "argIndex": 2
+        }
+      },
+      {
+        "base": {
+          "type": "log",
+          "signature": "0xba19705c2dcdd553670a4465b6ba6e77105f039d1c090202e4780e008165b4f6",
+          "indexedCount": 2,
+          "index": 0,
+          "argIndex": 0
+        },
+        "compare": {
+          "type": "from"
+        }
+      },
+      {
+        "base": {
+          "type": "log",
+          "signature": "0xba19705c2dcdd553670a4465b6ba6e77105f039d1c090202e4780e008165b4f6",
+          "indexedCount": 2,
+          "index": 0,
+          "argIndex": 0
+        },
+        "compare": {
+          "type": "log",
+          "signature": "0xddf252ad1be2c89b69c2b068fc378daa952ba7f163c4a11628f55a4df523b3ef",
+          "indexedCount": 2,
+          "index": 0,
+          "argIndex": 0
+        }
+      },
+      {
+        "base": {
+          "type": "log",
+          "signature": "0xba19705c2dcdd553670a4465b6ba6e77105f039d1c090202e4780e008165b4f6",
+          "indexedCount": 2,
+          "index": 0,
+          "argIndex": 0
+        },
+        "compare": {
+          "type": "log",
+          "signature": "0xddf252ad1be2c89b69c2b068fc378daa952ba7f163c4a11628f55a4df523b3ef",
+          "indexedCount": 2,
+          "index": 1,
+          "argIndex": 1
+        }
+      }
+    ],
+    "generators": [
+      {
+        "type": "specific-token-transfer",
+        "action": "withdraw-with-bond",
+        "transfers": [
+          {
+            "type": "token-transfer",
+            "token": "erc20",
+            "transferIndex": 0,
+            "target": "from"
+          },
+          {
+            "type": "token-transfer",
+            "token": "erc20",
+            "transferIndex": 1,
+            "target": "to"
+          }
+        ]
+      }
+    ]
+  }
+]
