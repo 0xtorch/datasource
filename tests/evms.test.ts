@@ -30,6 +30,9 @@ describe('Should valid evm analyzers json', async () => {
     test(`evms/analyzers/${filename}`, async () => {
       const json = await Bun.file(`./evms/analyzers/${filename}`).json()
       const result = evmAnalyzersSchema.safeParse(json)
+      if (!result.success) {
+        console.log(result.error)
+      }
       expect(result.success).toBe(true)
     })
   }
