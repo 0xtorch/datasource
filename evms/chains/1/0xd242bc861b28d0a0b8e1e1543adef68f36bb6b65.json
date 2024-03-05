@@ -1,0 +1,5 @@
+{
+  "address": "0xd242bc861b28d0a0b8e1e1543adef68f36bb6b65",
+  "label": "USDCMysterybox",
+  "abi": "[{\"inputs\":[{\"internalType\":\"string\",\"name\":\"name\",\"type\":\"string\"},{\"internalType\":\"string\",\"name\":\"symbol\",\"type\":\"string\"},{\"internalType\":\"string\",\"name\":\"metadataUri\",\"type\":\"string\"},{\"internalType\":\"uint256\",\"name\":\"supply\",\"type\":\"uint256\"},{\"internalType\":\"address\",\"name\":\"addressFrom\",\"type\":\"address\"},{\"internalType\":\"uint256\",\"name\":\"balanceOfUsers\",\"type\":\"uint256\"}],\"stateMutability\":\"nonpayable\",\"type\":\"constructor\"},{\"stateMutability\":\"payable\",\"type\":\"fallback\"}]"
+}
