@@ -1,0 +1,5 @@
+{
+  "address": "0x9a84adf4aef630cf6de93fbf096e8f44e57e475b",
+  "label": "MaverickIncentiveReward",
+  "abi": "[{\"inputs\":[],\"stateMutability\":\"nonpayable\",\"type\":\"constructor\"},{\"stateMutability\":\"payable\",\"type\":\"fallback\"},{\"stateMutability\":\"payable\",\"type\":\"receive\"}]"
+}
