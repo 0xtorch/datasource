@@ -1,0 +1,5 @@
+{
+  "address": "0x0be7ddaef159c94f33d083e79b8ed96143b6b7b7",
+  "label": "UnisocksNFT",
+  "abi": "[{\"inputs\":[],\"stateMutability\":\"nonpayable\",\"type\":\"constructor\"},{\"stateMutability\":\"payable\",\"type\":\"fallback\"},{\"stateMutability\":\"payable\",\"type\":\"receive\"}]"
+}
