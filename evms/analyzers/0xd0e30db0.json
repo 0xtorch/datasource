@@ -1,0 +1,40 @@
+[
+  {
+    "description": "Wrapped Token deposit",
+    "value": "plus",
+    "functionSignature": "0xd0e30db0",
+    "functionInterface": "deposit()",
+    "logsPatterns": [
+      {
+        "matchType": "exact",
+        "items": [
+          {
+            "name": "Deposit",
+            "signature": "0xe1fffcc4923d04b559f4d29a8bfc6cda04eb5b0d3c460751c2402c5c5cc9109c",
+            "indexedCount": 1
+          }
+        ]
+      }
+    ],
+    "generators": [
+      {
+        "type": "specific-token-transfer",
+        "action": "trade",
+        "transfers": [
+          {
+            "type": "token-transfer",
+            "token": "erc20",
+            "transferIndex": "any",
+            "target": "to"
+          },
+          {
+            "type": "token-transfer",
+            "token": "value",
+            "transferIndex": "any",
+            "target": "from"
+          }
+        ]
+      }
+    ]
+  }
+]
