@@ -1,0 +1,5 @@
+{
+  "address": "0x538fd47b0b9ff4156b4d6ea1f684893a51648942",
+  "label": "BlurAirdropPackage",
+  "abi": "[{\"inputs\":[],\"stateMutability\":\"nonpayable\",\"type\":\"constructor\"},{\"stateMutability\":\"payable\",\"type\":\"fallback\"},{\"stateMutability\":\"payable\",\"type\":\"receive\"}]"
+}
