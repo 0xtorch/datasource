@@ -1,7 +1,7 @@
 [
   {
     "description": "Wrapped Token withdraw",
-    "value": "plus",
+    "value": "zero",
     "functionSignature": "0x2e1a7d4d",
     "functionInterface": "withdraw(uint256)",
     "logsPatterns": [
