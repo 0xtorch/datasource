@@ -1,0 +1,40 @@
+[
+  {
+    "description": "Wrapped Token withdraw",
+    "value": "plus",
+    "functionSignature": "0x2e1a7d4d",
+    "functionInterface": "withdraw(uint256)",
+    "logsPatterns": [
+      {
+        "matchType": "exact",
+        "items": [
+          {
+            "name": "Withdrawal",
+            "signature": "0x7fcf532c15f0a6db0bd6d0e038bea71d30d808c7d98cb3bf7268a95bf5081b65",
+            "indexedCount": 1
+          }
+        ]
+      }
+    ],
+    "generators": [
+      {
+        "type": "specific-token-transfer",
+        "action": "trade",
+        "transfers": [
+          {
+            "type": "token-transfer",
+            "token": "internal",
+            "transferIndex": "any",
+            "target": "to"
+          },
+          {
+            "type": "token-transfer",
+            "token": "erc20",
+            "transferIndex": "any",
+            "target": "from"
+          }
+        ]
+      }
+    ]
+  }
+]
