@@ -1,0 +1,63 @@
+[
+  {
+    "description": "Ronin bridge request withdraw function on Ronin",
+    "chainId": 2020,
+    "to": ["0x0cf8ff40a508bdbc39fbe1bb679dcba64e65c7df"],
+    "value": "zero",
+    "functionSignature": "0x0b1ff17f",
+    "functionInterface": "requestWithdrawalFor(tuple, uint256)",
+    "logsPatterns": [
+      {
+        "matchType": "exact",
+        "items": [
+          {
+            "name": "Transfer",
+            "signature": "0xddf252ad1be2c89b69c2b068fc378daa952ba7f163c4a11628f55a4df523b3ef",
+            "indexedCount": 2
+          },
+          {
+            "name": "WithdrawalRequested",
+            "signature": "0xf313c253a5be72c29d0deb2c8768a9543744ac03d6b3cafd50cc976f1c2632fc",
+            "indexedCount": 0
+          }
+        ]
+      }
+    ],
+    "internalsPatterns": [
+      {
+        "type": "partial",
+        "value": "plus",
+        "count": 0
+      }
+    ],
+    "parameterMatchPatterns": [
+      {
+        "description": "from === Transfer[0].from",
+        "base": {
+          "type": "from"
+        },
+        "compare": {
+          "type": "log",
+          "signature": "0xddf252ad1be2c89b69c2b068fc378daa952ba7f163c4a11628f55a4df523b3ef",
+          "indexedCount": 2,
+          "index": 0,
+          "argIndex": 0
+        }
+      }
+    ],
+    "generators": [
+      {
+        "type": "specific-token-transfer",
+        "action": "bridge-from",
+        "transfers": [
+          {
+            "type": "token-transfer",
+            "token": "erc20",
+            "transferIndex": 0,
+            "target": "from"
+          }
+        ]
+      }
+    ]
+  }
+]
