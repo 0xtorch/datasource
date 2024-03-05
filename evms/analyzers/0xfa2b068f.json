@@ -1,0 +1,126 @@
+[
+  {
+    "description": "Manifold NFT free mint",
+    "value": "zero",
+    "functionSignature": "0xfa2b068f",
+    "functionInterface": "mint(address, uint256, uint32, bytes32[], address)",
+    "logsPatterns": [
+      {
+        "matchType": "exact",
+        "items": [
+          {
+            "name": "TransferSingle",
+            "signature": "0xc3d58168c5ae7397731d063d5bbf3d657854427343f4c083240f7aacaa2d0f62",
+            "indexedCount": 3,
+            "args": [
+              {
+                "type": "to-lower-string-value",
+                "index": 1,
+                "value": "0x0000000000000000000000000000000000000000"
+              }
+            ]
+          },
+          {
+            "name": "ClaimMint",
+            "signature": "0x5d404f369772cfab2b65717fca9bc2077efeab89a0dbec036bf0c13783154eb1",
+            "indexedCount": 2
+          }
+        ]
+      }
+    ],
+    "parameterMatchPatterns": [
+      {
+        "description": "from == TransferSingle[0].to",
+        "base": {
+          "type": "from"
+        },
+        "compare": {
+          "type": "log",
+          "signature": "0xc3d58168c5ae7397731d063d5bbf3d657854427343f4c083240f7aacaa2d0f62",
+          "indexedCount": 3,
+          "index": 0,
+          "argIndex": 2
+        }
+      }
+    ],
+    "generators": [
+      {
+        "type": "specific-token-transfer",
+        "action": "free-mint-nft",
+        "transfers": [
+          {
+            "type": "token-transfer",
+            "token": "erc1155",
+            "transferIndex": "any",
+            "target": "to"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "description": "Manifold NFT mint",
+    "value": "plus",
+    "functionSignature": "0xfa2b068f",
+    "functionInterface": "mint(address, uint256, uint32, bytes32[], address)",
+    "logsPatterns": [
+      {
+        "matchType": "exact",
+        "items": [
+          {
+            "name": "TransferSingle",
+            "signature": "0xc3d58168c5ae7397731d063d5bbf3d657854427343f4c083240f7aacaa2d0f62",
+            "indexedCount": 3,
+            "args": [
+              {
+                "type": "to-lower-string-value",
+                "index": 1,
+                "value": "0x0000000000000000000000000000000000000000"
+              }
+            ]
+          },
+          {
+            "name": "ClaimMint",
+            "signature": "0x5d404f369772cfab2b65717fca9bc2077efeab89a0dbec036bf0c13783154eb1",
+            "indexedCount": 2
+          }
+        ]
+      }
+    ],
+    "parameterMatchPatterns": [
+      {
+        "description": "from == TransferSingle[0].to",
+        "base": {
+          "type": "from"
+        },
+        "compare": {
+          "type": "log",
+          "signature": "0xc3d58168c5ae7397731d063d5bbf3d657854427343f4c083240f7aacaa2d0f62",
+          "indexedCount": 3,
+          "index": 0,
+          "argIndex": 2
+        }
+      }
+    ],
+    "generators": [
+      {
+        "type": "specific-token-transfer",
+        "action": "buy-nft",
+        "transfers": [
+          {
+            "type": "token-transfer",
+            "token": "erc1155",
+            "transferIndex": "any",
+            "target": "to"
+          },
+          {
+            "type": "token-transfer",
+            "token": "value",
+            "transferIndex": "any",
+            "target": "from"
+          }
+        ]
+      }
+    ]
+  }
+]
