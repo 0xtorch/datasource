@@ -1,0 +1,5 @@
+{
+  "address": "0x0d2b09f6295dcfbfc09236d3496f765947313ba9",
+  "label": "UniNFT",
+  "abi": "[{\"inputs\":[],\"stateMutability\":\"nonpayable\",\"type\":\"constructor\"},{\"stateMutability\":\"payable\",\"type\":\"fallback\"},{\"stateMutability\":\"payable\",\"type\":\"receive\"}]"
+}
