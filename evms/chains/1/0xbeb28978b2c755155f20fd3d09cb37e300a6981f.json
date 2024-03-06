@@ -1,5 +1,6 @@
 {
   "address": "0xbeb28978b2c755155f20fd3d09cb37e300a6981f",
-  "label": "Proxy",
+  "label": "Goldfinch: Protocol Treasury",
+  "app": "goldfinch",
   "abi": "[{\"inputs\":[{\"internalType\":\"address\",\"name\":\"_masterCopy\",\"type\":\"address\"}],\"payable\":false,\"stateMutability\":\"nonpayable\",\"type\":\"constructor\"},{\"payable\":true,\"stateMutability\":\"payable\",\"type\":\"fallback\"}]"
 }

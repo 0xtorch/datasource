@@ -1,5 +1,6 @@
 {
   "address": "0x19bfbf921d48279391c7445303d89cb4a6066b71",
-  "label": "ConfigOptions",
+  "label": "Goldfinch: ConfigOptions",
+  "app": "goldfinch",
   "abi": "[{\"inputs\":[{\"internalType\":\"uint256\",\"name\":\"addressKey\",\"type\":\"uint256\"}],\"name\":\"getAddressName\",\"outputs\":[{\"internalType\":\"string\",\"name\":\"\",\"type\":\"string\"}],\"stateMutability\":\"pure\",\"type\":\"function\"},{\"inputs\":[{\"internalType\":\"uint256\",\"name\":\"number\",\"type\":\"uint256\"}],\"name\":\"getNumberName\",\"outputs\":[{\"internalType\":\"string\",\"name\":\"\",\"type\":\"string\"}],\"stateMutability\":\"pure\",\"type\":\"function\"}]"
 }
