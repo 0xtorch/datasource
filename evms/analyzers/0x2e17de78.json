@@ -100,5 +100,56 @@
         ]
       }
     ]
+  },
+  {
+    "description": "Unstake ERC20 Token",
+    "value": "zero",
+    "functionSignature": "0x2e17de78",
+    "functionInterface": "unstake(uint256)",
+    "logsPatterns": [
+      {
+        "matchType": "exact",
+        "items": [
+          {
+            "name": "PoolSynced",
+            "signature": "0xd247cac827464dafee8ef292281a2959c39bb57f4cfe99c6e4bde901bfff5781",
+            "indexedCount": 0
+          },
+          {
+            "name": "Transfer",
+            "signature": "0xddf252ad1be2c89b69c2b068fc378daa952ba7f163c4a11628f55a4df523b3ef",
+            "indexedCount": 2
+          },
+          {
+            "name": "Unstaked",
+            "signature": "0xd8654fcc8cf5b36d30b3f5e4688fc78118e6d68de60b9994e09902268b57c3e3",
+            "indexedCount": 3
+          }
+        ]
+      }
+    ],
+    "parameterMatchPatterns": [
+      {
+        "description": "from === Transfer[0].to",
+        "base": {
+          "type": "from"
+        },
+        "compare": {
+          "type": "log",
+          "signature": "0xddf252ad1be2c89b69c2b068fc378daa952ba7f163c4a11628f55a4df523b3ef",
+          "indexedCount": 2,
+          "index": 0,
+          "argIndex": 1
+        }
+      }
+    ],
+    "generators": [
+      {
+        "type": "any-token-transfer",
+        "token": "erc20",
+        "action": "withdraw",
+        "target": "to"
+      }
+    ]
   }
 ]

@@ -1,6 +1,6 @@
 [
   {
-    "description": "Stake",
+    "description": "Stake ERC20 Token",
     "value": "zero",
     "functionSignature": "0xa694fc3a",
     "functionInterface": "stake(uint256)",
