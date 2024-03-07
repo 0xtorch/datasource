@@ -1,0 +1,59 @@
+[
+  {
+    "description": "Claim RON Staking Reward",
+    "value": "zero",
+    "functionSignature": "0xf9f031df",
+    "functionInterface": "claimRewards(address[])",
+    "logsPatterns": [
+      {
+        "matchType": "partial",
+        "name": "RewardClaimed",
+        "signature": "0x0aa4d283470c904c551d18bb894d37e17674920f3261a7f854be501e25f421b7",
+        "indexedCount": 2
+      },
+      {
+        "matchType": "partial",
+        "name": "UserRewardUpdated",
+        "signature": "0xaa7c29611027fd4be148712bb54960253b7a7d5998c17769bfc424c2f5f185ad",
+        "indexedCount": 2
+      }
+    ],
+    "parameterMatchPatterns": [
+      {
+        "description": "from === RewardClaimed[every].user",
+        "base": {
+          "type": "from"
+        },
+        "compare": {
+          "type": "log",
+          "signature": "0x0aa4d283470c904c551d18bb894d37e17674920f3261a7f854be501e25f421b7",
+          "indexedCount": 2,
+          "index": "every",
+          "argIndex": 1
+        }
+      }
+    ],
+    "generators": [
+      {
+        "type": "any-log",
+        "action": "transfer",
+        "target": "none",
+        "signature": "0x0aa4d283470c904c551d18bb894d37e17674920f3261a7f854be501e25f421b7",
+        "indexedCount": 2,
+        "token": {
+          "token": "native"
+        },
+        "from": {
+          "type": "to"
+        },
+        "to": {
+          "type": "from"
+        },
+        "amount": {
+          "type": "target",
+          "argIndex": 2
+        }
+      }
+    ]
+  }
+]
