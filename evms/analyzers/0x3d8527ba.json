@@ -1,0 +1,99 @@
+[
+  {
+    "description": "Restake ERC20 Token",
+    "value": "zero",
+    "functionSignature": "0x3d8527ba",
+    "functionInterface": "restakeRewards()",
+    "logsPatterns": [
+      {
+        "matchType": "exact",
+        "items": [
+          {
+            "name": "PoolSynced",
+            "signature": "0xd247cac827464dafee8ef292281a2959c39bb57f4cfe99c6e4bde901bfff5781",
+            "indexedCount": 0
+          },
+          {
+            "name": "UserRewardUpdated",
+            "signature": "0x027f73145bb86dfcdffa5fae931b3cab5ab93c376099cc84b6d2e4985f10e14b",
+            "indexedCount": 0
+          },
+          {
+            "name": "Transfer",
+            "signature": "0xddf252ad1be2c89b69c2b068fc378daa952ba7f163c4a11628f55a4df523b3ef",
+            "indexedCount": 2
+          },
+          {
+            "name": "RewardClaimed",
+            "signature": "0x0aa4d283470c904c551d18bb894d37e17674920f3261a7f854be501e25f421b7",
+            "indexedCount": 3
+          },
+          {
+            "name": "Transfer",
+            "signature": "0xddf252ad1be2c89b69c2b068fc378daa952ba7f163c4a11628f55a4df523b3ef",
+            "indexedCount": 2
+          },
+          {
+            "name": "Staked",
+            "signature": "0x5dac0c1b1112564a045ba943c9d50270893e8e826c49be8e7073adc713ab7bd7",
+            "indexedCount": 3
+          }
+        ]
+      }
+    ],
+    "parameterMatchPatterns": [
+      {
+        "description": "from === Transfer[0].to",
+        "base": {
+          "type": "from"
+        },
+        "compare": {
+          "type": "log",
+          "signature": "0xddf252ad1be2c89b69c2b068fc378daa952ba7f163c4a11628f55a4df523b3ef",
+          "indexedCount": 2,
+          "index": 0,
+          "argIndex": 1
+        }
+      },
+      {
+        "description": "from === Transfer[1].from",
+        "base": {
+          "type": "from"
+        },
+        "compare": {
+          "type": "log",
+          "signature": "0xddf252ad1be2c89b69c2b068fc378daa952ba7f163c4a11628f55a4df523b3ef",
+          "indexedCount": 2,
+          "index": 1,
+          "argIndex": 0
+        }
+      }
+    ],
+    "generators": [
+      {
+        "type": "specific-token-transfer",
+        "action": "transfer",
+        "transfers": [
+          {
+            "type": "token-transfer",
+            "token": "erc20",
+            "transferIndex": 0,
+            "target": "none"
+          }
+        ]
+      },
+      {
+        "type": "specific-token-transfer",
+        "action": "deposit",
+        "transfers": [
+          {
+            "type": "token-transfer",
+            "token": "erc20",
+            "transferIndex": 1,
+            "target": "from"
+          }
+        ]
+      }
+    ]
+  }
+]
