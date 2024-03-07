@@ -208,6 +208,100 @@ const actionGeneratorAnyTokenTransferSchema = z
     comment: x.comment,
   }))
 
+const actionGeneratorAnyLogTokenNativeSchema = z.object({
+  token: z.literal('native'),
+})
+
+const actionGeneratorAnyLogTokenSchema = actionGeneratorAnyLogTokenNativeSchema
+
+const actionGeneratorAnyLogAddressDefaultSchema = z.object({
+  type: z.union([z.literal('from'), z.literal('to')]),
+})
+
+const actionGeneratorAnyLogAddressFixValueSchema = z.object({
+  type: z.literal('fix-value'),
+  value: z
+    .string()
+    .regex(/^0x[\dA-Fa-f]{40}$/)
+    .transform((x) => (isHex(x) ? toLowerHex(x) : '0x')),
+})
+
+const actionGeneratorAnyLogAddressTargetSchema = z.object({
+  type: z.literal('target'),
+  argIndex: z.number().int(),
+})
+
+const actionGeneratorAnyLogAddressLogSchema = z.object({
+  type: z.literal('log'),
+  signature: z
+    .string()
+    .regex(/^0x[\dA-Fa-f]{64}$/)
+    .transform((x) => (isHex(x) ? toLowerHex(x) : '0x')),
+  indexedCount: z.number().int(),
+  index: z.number().int(),
+  argIndex: z.number().int(),
+})
+
+const actionGeneratorAnyLogAddressSchema = z.union([
+  actionGeneratorAnyLogAddressDefaultSchema,
+  actionGeneratorAnyLogAddressFixValueSchema,
+  actionGeneratorAnyLogAddressTargetSchema,
+  actionGeneratorAnyLogAddressLogSchema,
+])
+
+const actionGeneratorAnyLogAmountDefaultSchema = z.object({
+  type: z.literal('value'),
+})
+
+const actionGeneratorAnyLogAmountFixValueSchema = z.object({
+  type: z.literal('fix-value'),
+  value: z.string().regex(/^\d+$/).transform(BigInt),
+})
+
+const actionGeneratorAnyLogAmountTargetSchema = z.object({
+  type: z.literal('target'),
+  argIndex: z.number().int(),
+})
+
+const actionGeneratorAnyLogAmountLogSchema = z.object({
+  type: z.literal('log'),
+  signature: z
+    .string()
+    .regex(/^0x[\dA-Fa-f]{64}$/)
+    .transform((x) => (isHex(x) ? toLowerHex(x) : '0x')),
+  indexedCount: z.number().int(),
+  index: z.number().int(),
+  argIndex: z.number().int(),
+})
+
+const actionGeneratorAnyLogAmountSchema = z.union([
+  actionGeneratorAnyLogAmountDefaultSchema,
+  actionGeneratorAnyLogAmountFixValueSchema,
+  actionGeneratorAnyLogAmountTargetSchema,
+  actionGeneratorAnyLogAmountLogSchema,
+])
+
+const actionGeneratorAnyLogSchema = z
+  .object({
+    type: z.literal('any-log'),
+    action: actionSchema,
+    comment: z.string().optional(),
+    target: z.union([z.literal('from'), z.literal('to'), z.literal('none')]),
+    signature: z
+      .string()
+      .regex(/^0x[\dA-Fa-f]{64}$/)
+      .transform((x) => (isHex(x) ? toLowerHex(x) : '0x')),
+    indexedCount: z.number().int(),
+    token: actionGeneratorAnyLogTokenSchema,
+    from: actionGeneratorAnyLogAddressSchema,
+    to: actionGeneratorAnyLogAddressSchema,
+    amount: actionGeneratorAnyLogAmountSchema,
+  })
+  .transform((x) => ({
+    ...x,
+    comment: x.comment,
+  }))
+
 const actionTransferGeneratorFromTokenTransferSchema = z.object({
   type: z.literal('token-transfer'),
   token: z.union([
@@ -235,6 +329,7 @@ const actionGeneratorSpecificTokenTransferSchema = z
 
 const actionGeneratorSchema = z.union([
   actionGeneratorAnyTokenTransferSchema,
+  actionGeneratorAnyLogSchema,
   actionGeneratorSpecificTokenTransferSchema,
 ])
 
