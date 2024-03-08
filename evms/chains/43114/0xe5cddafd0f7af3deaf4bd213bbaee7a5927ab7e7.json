@@ -1,0 +1,5 @@
+{
+  "address": "0xe5cddafd0f7af3deaf4bd213bbaee7a5927ab7e7",
+  "label": "Maximillion",
+  "abi": "[{\"inputs\":[{\"internalType\":\"contract JWrappedNative\",\"name\":\"jAvax_\",\"type\":\"address\"}],\"payable\":false,\"stateMutability\":\"nonpayable\",\"type\":\"constructor\"},{\"constant\":true,\"inputs\":[],\"name\":\"jAvax\",\"outputs\":[{\"internalType\":\"contract JWrappedNative\",\"name\":\"\",\"type\":\"address\"}],\"payable\":false,\"stateMutability\":\"view\",\"type\":\"function\"},{\"constant\":false,\"inputs\":[{\"internalType\":\"address\",\"name\":\"borrower\",\"type\":\"address\"}],\"name\":\"repayBehalf\",\"outputs\":[],\"payable\":true,\"stateMutability\":\"payable\",\"type\":\"function\"},{\"constant\":false,\"inputs\":[{\"internalType\":\"address\",\"name\":\"borrower\",\"type\":\"address\"},{\"internalType\":\"contract JWrappedNative\",\"name\":\"jAvax_\",\"type\":\"address\"}],\"name\":\"repayBehalfExplicit\",\"outputs\":[],\"payable\":true,\"stateMutability\":\"payable\",\"type\":\"function\"}]"
+}
