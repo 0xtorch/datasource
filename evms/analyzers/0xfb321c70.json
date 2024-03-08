@@ -1,0 +1,114 @@
+[
+  {
+    "description": "Trader Joe Swap",
+    "value": "zero",
+    "functionSignature": "0xfb321c70",
+    "functionInterface": "swapExactTokensForAVAX(uint256, uint256, uint256[], address[], address, uint256)",
+    "logsPatterns": [
+      {
+        "matchType": "partial",
+        "name": "Transfer",
+        "signature": "0xddf252ad1be2c89b69c2b068fc378daa952ba7f163c4a11628f55a4df523b3ef",
+        "indexedCount": 2
+      },
+      {
+        "matchType": "partial",
+        "name": "Swap",
+        "signature": "0xc528cda9e500228b16ce84fadae290d9a49aecb17483110004c5af0a07f6fd73",
+        "indexedCount": 3
+      },
+      {
+        "matchType": "partial",
+        "name": "Withdrawal",
+        "signature": "0x7fcf532c15f0a6db0bd6d0e038bea71d30d808c7d98cb3bf7268a95bf5081b65",
+        "indexedCount": 1
+      }
+    ],
+    "parameterMatchPatterns": [
+      {
+        "description": "from == Transfer[some].from",
+        "base": {
+          "type": "from"
+        },
+        "compare": {
+          "type": "log",
+          "signature": "0xddf252ad1be2c89b69c2b068fc378daa952ba7f163c4a11628f55a4df523b3ef",
+          "indexedCount": 2,
+          "index": "some",
+          "argIndex": 0
+        }
+      },
+      {
+        "description": "from == internal[some].to",
+        "base": {
+          "type": "from"
+        },
+        "compare": {
+          "type": "internal",
+          "index": "some",
+          "key": "to"
+        }
+      }
+    ],
+    "generators": [
+      {
+        "type": "specific-token-transfer",
+        "action": "trade",
+        "transfers": [
+          {
+            "type": "token-transfer-with-condition",
+            "token": "erc20",
+            "conditions": [
+              {
+                "type": "to",
+                "condition": {
+                  "type": "from"
+                }
+              }
+            ],
+            "target": "to"
+          },
+          {
+            "type": "token-transfer-with-condition",
+            "token": "internal",
+            "conditions": [
+              {
+                "type": "to",
+                "condition": {
+                  "type": "from"
+                }
+              }
+            ],
+            "target": "to"
+          },
+          {
+            "type": "token-transfer-with-condition",
+            "token": "erc20",
+            "conditions": [
+              {
+                "type": "from",
+                "condition": {
+                  "type": "from"
+                }
+              }
+            ],
+            "target": "from"
+          },
+          {
+            "type": "token-transfer-with-condition",
+            "token": "internal",
+            "conditions": [
+              {
+                "type": "from",
+                "condition": {
+                  "type": "from"
+                }
+              }
+            ],
+            "target": "from"
+          }
+        ]
+      }
+    ]
+  }
+]
