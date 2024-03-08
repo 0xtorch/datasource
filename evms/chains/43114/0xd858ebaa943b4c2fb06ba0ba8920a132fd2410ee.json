@@ -1,5 +1,6 @@
 {
   "address": "0xd858ebaa943b4c2fb06ba0ba8920a132fd2410ee",
-  "label": "GnosisSafeProxy",
+  "label": "Trader Joe: Multi-sig Wallet 1",
+  "app": "trader-joe",
   "abi": "[{\"inputs\":[{\"internalType\":\"address\",\"name\":\"_singleton\",\"type\":\"address\"}],\"stateMutability\":\"nonpayable\",\"type\":\"constructor\"},{\"stateMutability\":\"payable\",\"type\":\"fallback\"}]"
 }
