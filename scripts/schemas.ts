@@ -315,12 +315,42 @@ const actionTransferGeneratorFromTokenTransferSchema = z.object({
   target: z.union([z.literal('from'), z.literal('to'), z.literal('none')]),
 })
 
+const conditionAddressSchema = z.union([
+  actionGeneratorAnyLogAddressDefaultSchema,
+  actionGeneratorAnyLogAddressFixValueSchema,
+  actionGeneratorAnyLogAddressLogSchema,
+])
+
+const tokenTransferConditionAddressSchema = z.object({
+  type: z.union([z.literal('from'), z.literal('to')]),
+  condition: conditionAddressSchema,
+})
+
+const tokenTransferConditionSchema = tokenTransferConditionAddressSchema
+
+const actionTransferGeneratorFromTokenTransferWithConditionSchema = z.object({
+  type: z.literal('token-transfer-with-condition'),
+  token: z.union([
+    z.literal('erc20'),
+    z.literal('erc721'),
+    z.literal('erc1155'),
+    z.literal('internal'),
+  ]),
+  conditions: z.array(tokenTransferConditionSchema),
+  target: z.union([z.literal('from'), z.literal('to'), z.literal('none')]),
+})
+
+const actionTransferGeneratorSchema = z.union([
+  actionTransferGeneratorFromTokenTransferSchema,
+  actionTransferGeneratorFromTokenTransferWithConditionSchema,
+])
+
 const actionGeneratorSpecificTokenTransferSchema = z
   .object({
     type: z.literal('specific-token-transfer'),
     action: actionSchema,
     comment: z.string().optional(),
-    transfers: z.array(actionTransferGeneratorFromTokenTransferSchema),
+    transfers: z.array(actionTransferGeneratorSchema),
   })
   .transform((x) => ({
     ...x,
