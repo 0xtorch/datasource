@@ -1,5 +1,6 @@
 {
   "address": "0x011f2a82846a4e9c62c2fc4fd6fdbad19147d94a",
-  "label": "RevenueSharingPoolGateway",
+  "label": "PancakeSwap: RevenueSharingPoolGateway",
+  "app": "pancakeswap",
   "abi": "[{\"inputs\":[{\"internalType\":\"address[]\",\"name\":\"_revenueSharingPools\",\"type\":\"address[]\"},{\"internalType\":\"address\",\"name\":\"_for\",\"type\":\"address\"}],\"name\":\"claimMultiple\",\"outputs\":[],\"stateMutability\":\"nonpayable\",\"type\":\"function\"},{\"inputs\":[{\"internalType\":\"address[]\",\"name\":\"_revenueSharingPools\",\"type\":\"address[]\"},{\"internalType\":\"address\",\"name\":\"_for\",\"type\":\"address\"}],\"name\":\"claimMultipleWithoutProxy\",\"outputs\":[],\"stateMutability\":\"nonpayable\",\"type\":\"function\"}]"
 }
