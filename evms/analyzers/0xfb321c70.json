@@ -52,60 +52,39 @@
     ],
     "generators": [
       {
-        "type": "specific-token-transfer",
         "action": "trade",
         "transfers": [
           {
-            "type": "token-transfer-with-condition",
-            "token": "erc20",
-            "conditions": [
-              {
-                "type": "to",
-                "condition": {
-                  "type": "from"
-                }
-              }
-            ],
-            "target": "to"
+            "type": "erc20",
+            "to": {
+              "type": "from"
+            },
+            "index": "any",
+            "direction": "in"
           },
           {
-            "type": "token-transfer-with-condition",
-            "token": "internal",
-            "conditions": [
-              {
-                "type": "to",
-                "condition": {
-                  "type": "from"
-                }
-              }
-            ],
-            "target": "to"
+            "type": "internal",
+            "to": {
+              "type": "from"
+            },
+            "index": "any",
+            "direction": "in"
           },
           {
-            "type": "token-transfer-with-condition",
-            "token": "erc20",
-            "conditions": [
-              {
-                "type": "from",
-                "condition": {
-                  "type": "from"
-                }
-              }
-            ],
-            "target": "from"
+            "type": "erc20",
+            "from": {
+              "type": "from"
+            },
+            "index": "any",
+            "direction": "out"
           },
           {
-            "type": "token-transfer-with-condition",
-            "token": "internal",
-            "conditions": [
-              {
-                "type": "from",
-                "condition": {
-                  "type": "from"
-                }
-              }
-            ],
-            "target": "from"
+            "type": "internal",
+            "from": {
+              "type": "from"
+            },
+            "index": "any",
+            "direction": "out"
           }
         ]
       }

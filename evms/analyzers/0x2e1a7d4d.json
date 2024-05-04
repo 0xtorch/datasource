@@ -18,20 +18,17 @@
     ],
     "generators": [
       {
-        "type": "specific-token-transfer",
-        "action": "trade",
+        "action": "unwrap",
         "transfers": [
           {
-            "type": "token-transfer",
-            "token": "internal",
-            "transferIndex": "any",
-            "target": "to"
+            "type": "internal",
+            "index": "any",
+            "direction": "in"
           },
           {
-            "type": "token-transfer",
-            "token": "erc20",
-            "transferIndex": "any",
-            "target": "from"
+            "type": "erc20",
+            "index": "any",
+            "direction": "out"
           }
         ]
       }

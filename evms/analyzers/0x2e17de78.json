@@ -1,5 +1,6 @@
 [
   {
+    "example": "https://polygonscan.com/tx/0xa7586bd3862086fd6fc892742423ffcd4f510c035ff5a6c4296649658d18295b",
     "functionSignature": "0x2e17de78",
     "functionInterface": "unstake(uint256)",
     "logsPatterns": [
@@ -82,20 +83,18 @@
     ],
     "generators": [
       {
-        "type": "specific-token-transfer",
         "action": "withdraw-with-bond",
+        "loanId": ["evm_", { "type": "chainId" }, "_", { "type": "to" }],
         "transfers": [
           {
-            "type": "token-transfer",
-            "token": "erc20",
-            "transferIndex": 0,
-            "target": "from"
+            "type": "erc20",
+            "index": 0,
+            "direction": "out"
           },
           {
-            "type": "token-transfer",
-            "token": "erc20",
-            "transferIndex": 1,
-            "target": "to"
+            "type": "erc20",
+            "index": 1,
+            "direction": "in"
           }
         ]
       }
@@ -145,10 +144,21 @@
     ],
     "generators": [
       {
-        "type": "any-token-transfer",
-        "token": "erc20",
+        "target": [
+          {
+            "type": "erc20"
+          }
+        ],
         "action": "withdraw",
-        "target": "to"
+        "loanId": ["evm_", { "type": "chainId" }, "_", { "type": "to" }],
+        "transfers": [
+          {
+            "type": "erc20",
+            "target": true,
+            "index": 0,
+            "direction": "in"
+          }
+        ]
       }
     ]
   }

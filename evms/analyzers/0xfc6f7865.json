@@ -141,14 +141,25 @@
     ],
     "generators": [
       {
-        "type": "specific-token-transfer",
         "action": "remove-liquidity",
+        "loanId": [
+          "evm_",
+          { "type": "chainId" },
+          "_",
+          {
+            "type": "log",
+            "signature": "0xddf252ad1be2c89b69c2b068fc378daa952ba7f163c4a11628f55a4df523b3ef",
+            "indexedCount": 2,
+            "index": 1,
+            "argIndex": 0,
+            "valueType": "address"
+          }
+        ],
         "transfers": [
           {
-            "type": "token-transfer",
-            "token": "erc20",
-            "transferIndex": "any",
-            "target": "to"
+            "type": "erc20",
+            "index": "any",
+            "direction": "in"
           }
         ]
       }

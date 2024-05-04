@@ -46,14 +46,23 @@
     ],
     "generators": [
       {
-        "type": "specific-token-transfer",
         "action": "bridge-from",
+        "crossId": [
+          "cbridge_",
+          {
+            "type": "log",
+            "signature": "0x89d8051e597ab4178a863a5190407b98abfeff406aa8db90c59af76612e58f01",
+            "indexedCount": 0,
+            "index": 0,
+            "argIndex": 0,
+            "valueType": "other"
+          }
+        ],
+        "crossType": "start",
         "transfers": [
           {
-            "type": "token-transfer",
-            "token": "value",
-            "transferIndex": 0,
-            "target": "from"
+            "type": "value",
+            "direction": "out"
           }
         ]
       }

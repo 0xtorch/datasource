@@ -30,14 +30,12 @@
     ],
     "generators": [
       {
-        "type": "specific-token-transfer",
-        "action": "transfer",
+        "action": "income",
         "transfers": [
           {
-            "type": "token-transfer",
-            "token": "erc20",
-            "transferIndex": 0,
-            "target": "none"
+            "type": "erc20",
+            "index": 0,
+            "direction": "in"
           }
         ]
       }

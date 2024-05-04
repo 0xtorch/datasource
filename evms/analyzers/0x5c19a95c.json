@@ -46,14 +46,12 @@
     ],
     "generators": [
       {
-        "type": "specific-token-transfer",
         "action": "deposit",
+        "loanId": ["evm_", { "type": "chainId" }, "_", { "type": "to" }],
         "transfers": [
           {
-            "type": "token-transfer",
-            "token": "value",
-            "transferIndex": "any",
-            "target": "from"
+            "type": "value",
+            "direction": "out"
           }
         ]
       }

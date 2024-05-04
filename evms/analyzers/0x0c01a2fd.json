@@ -36,14 +36,12 @@
     ],
     "generators": [
       {
-        "type": "specific-token-transfer",
         "action": "free-mint-nft",
         "transfers": [
           {
-            "type": "token-transfer",
-            "token": "erc1155",
-            "transferIndex": 0,
-            "target": "to"
+            "type": "erc1155",
+            "index": 0,
+            "direction": "in"
           }
         ]
       }

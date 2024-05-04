@@ -43,10 +43,21 @@
     ],
     "generators": [
       {
-        "type": "any-token-transfer",
-        "token": "erc20",
+        "target": [
+          {
+            "type": "erc20"
+          }
+        ],
         "action": "deposit",
-        "target": "from"
+        "loanId": ["evm_", { "type": "chainId" }, "_", { "type": "to" }],
+        "transfers": [
+          {
+            "type": "erc20",
+            "target": true,
+            "index": 0,
+            "direction": "out"
+          }
+        ]
       }
     ]
   }

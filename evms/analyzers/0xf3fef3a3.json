@@ -44,14 +44,14 @@
     ],
     "generators": [
       {
-        "type": "specific-token-transfer",
         "action": "bridge-from",
+        "crossId": ["polygon-fx-portal_", { "type": "to" }],
+        "crossType": "start",
         "transfers": [
           {
-            "type": "token-transfer",
-            "token": "erc20",
-            "transferIndex": "any",
-            "target": "from"
+            "type": "erc20",
+            "index": "any",
+            "direction": "out"
           }
         ]
       }

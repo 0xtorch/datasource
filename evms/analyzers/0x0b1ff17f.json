@@ -1,6 +1,7 @@
 [
   {
     "description": "Ronin bridge request withdraw function on Ronin",
+    "example": "https://app.roninchain.com/tx/0x3eeff7efad7494049e9fa19f40bacf9ee10540bb373033841b238e00288cbbe7",
     "chainId": 2020,
     "to": ["0x0cf8ff40a508bdbc39fbe1bb679dcba64e65c7df"],
     "value": "zero",
@@ -47,14 +48,24 @@
     ],
     "generators": [
       {
-        "type": "specific-token-transfer",
         "action": "bridge-from",
+        "crossId": [
+          "ronin-bridge_",
+          {
+            "type": "log",
+            "signature": "0xf313c253a5be72c29d0deb2c8768a9543744ac03d6b3cafd50cc976f1c2632fc",
+            "indexedCount": 0,
+            "index": 0,
+            "argIndex": 0,
+            "valueType": "other"
+          }
+        ],
+        "crossType": "start",
         "transfers": [
           {
-            "type": "token-transfer",
-            "token": "erc20",
-            "transferIndex": 0,
-            "target": "from"
+            "type": "erc20",
+            "index": 0,
+            "direction": "out"
           }
         ]
       }

@@ -52,14 +52,24 @@
     ],
     "generators": [
       {
-        "type": "specific-token-transfer",
         "action": "bridge-to",
+        "crossId": [
+          "ronin-bridge_",
+          {
+            "type": "log",
+            "signature": "0x8d20d8121a34dded9035ff5b43e901c142824f7a22126392992c353c37890524",
+            "indexedCount": 0,
+            "index": 0,
+            "argIndex": 0,
+            "valueType": "other"
+          }
+        ],
+        "crossType": "end",
         "transfers": [
           {
-            "type": "token-transfer",
-            "token": "erc20",
-            "transferIndex": 0,
-            "target": "to"
+            "type": "erc20",
+            "index": 0,
+            "direction": "in"
           }
         ]
       }
@@ -156,14 +166,24 @@
     ],
     "generators": [
       {
-        "type": "specific-token-transfer",
         "action": "bridge-to",
+        "crossId": [
+          "ronin-bridge_",
+          {
+            "type": "log",
+            "signature": "0x8d20d8121a34dded9035ff5b43e901c142824f7a22126392992c353c37890524",
+            "indexedCount": 0,
+            "index": 0,
+            "argIndex": 0,
+            "valueType": "other"
+          }
+        ],
+        "crossType": "end",
         "transfers": [
           {
-            "type": "token-transfer",
-            "token": "erc20",
-            "transferIndex": 1,
-            "target": "to"
+            "type": "erc20",
+            "index": 1,
+            "direction": "in"
           }
         ]
       }

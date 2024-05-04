@@ -66,26 +66,22 @@
     ],
     "generators": [
       {
-        "type": "specific-token-transfer",
         "action": "transfer",
         "transfers": [
           {
-            "type": "token-transfer",
-            "token": "erc20",
-            "transferIndex": 0,
-            "target": "none"
+            "type": "erc20",
+            "index": 0,
+            "direction": "none"
           }
         ]
       },
       {
-        "type": "specific-token-transfer",
         "action": "transfer",
         "transfers": [
           {
-            "type": "token-transfer",
-            "token": "erc20",
-            "transferIndex": 1,
-            "target": "none"
+            "type": "erc20",
+            "index": 1,
+            "direction": "none"
           }
         ]
       }

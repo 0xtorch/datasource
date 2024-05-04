@@ -35,24 +35,39 @@
     ],
     "generators": [
       {
-        "type": "any-log",
-        "action": "transfer",
-        "target": "none",
-        "signature": "0x0aa4d283470c904c551d18bb894d37e17674920f3261a7f854be501e25f421b7",
-        "indexedCount": 2,
-        "token": {
-          "token": "native"
-        },
-        "from": {
-          "type": "to"
-        },
-        "to": {
-          "type": "from"
-        },
-        "amount": {
-          "type": "target",
-          "argIndex": 2
-        }
+        "target": [
+          {
+            "type": "log",
+            "signature": "0x0aa4d283470c904c551d18bb894d37e17674920f3261a7f854be501e25f421b7",
+            "indexedCount": 2
+          }
+        ],
+        "action": "income",
+        "transfers": [
+          {
+            "type": "custom",
+            "from": {
+              "type": "to"
+            },
+            "to": {
+              "type": "from"
+            },
+            "asset": "native",
+            "amount": [
+              {
+                "plus": true,
+                "value": {
+                  "type": "log",
+                  "target": true,
+                  "index": 0,
+                  "argIndex": 2,
+                  "valueType": "bigint"
+                }
+              }
+            ],
+            "direction": "in"
+          }
+        ]
       }
     ]
   }

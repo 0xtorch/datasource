@@ -1,5 +1,5 @@
+import { evmAnalyzersSchema } from '@0xtorch/evm'
 import { API_ENDPOINT, PASSWORD, USERNAME } from './constants'
-import { evmAnalyzersSchema } from './schemas'
 
 const filePathes = (process.env.FILES ?? '')
   .split(',')

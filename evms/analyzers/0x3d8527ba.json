@@ -1,6 +1,7 @@
 [
   {
     "description": "Restake ERC20 Token",
+    "example": "https://app.roninchain.com/tx/0x04de5bc64cbf3acd3fb53837b986fc57c32c9970b048e480342d43657b329127",
     "value": "zero",
     "functionSignature": "0x3d8527ba",
     "functionInterface": "restakeRewards()",
@@ -71,26 +72,35 @@
     ],
     "generators": [
       {
-        "type": "specific-token-transfer",
-        "action": "transfer",
+        "action": "income",
         "transfers": [
           {
-            "type": "token-transfer",
-            "token": "erc20",
-            "transferIndex": 0,
-            "target": "none"
+            "type": "erc20",
+            "index": 0,
+            "direction": "in"
           }
         ]
       },
       {
-        "type": "specific-token-transfer",
         "action": "deposit",
+        "loanId": [
+          "evm_",
+          { "type": "chainId" },
+          "_",
+          {
+            "type": "log",
+            "signature": "0xddf252ad1be2c89b69c2b068fc378daa952ba7f163c4a11628f55a4df523b3ef",
+            "indexedCount": 2,
+            "index": 1,
+            "argIndex": 1,
+            "valueType": "address"
+          }
+        ],
         "transfers": [
           {
-            "type": "token-transfer",
-            "token": "erc20",
-            "transferIndex": 1,
-            "target": "from"
+            "type": "erc20",
+            "index": 1,
+            "direction": "out"
           }
         ]
       }

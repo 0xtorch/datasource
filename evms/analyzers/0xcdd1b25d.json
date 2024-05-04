@@ -54,14 +54,24 @@
     ],
     "generators": [
       {
-        "type": "specific-token-transfer",
         "action": "bridge-to",
+        "crossId": [
+          "cbridge_",
+          {
+            "type": "log",
+            "signature": "0x79fa08de5149d912dce8e5e8da7a7c17ccdf23dd5d3bfe196802e6eb86347c7c",
+            "indexedCount": 0,
+            "index": 0,
+            "argIndex": 0,
+            "valueType": "other"
+          }
+        ],
+        "crossType": "end",
         "transfers": [
           {
-            "type": "token-transfer",
-            "token": "erc20",
-            "transferIndex": 0,
-            "target": "to"
+            "type": "erc20",
+            "index": 0,
+            "direction": "in"
           }
         ]
       }
@@ -111,14 +121,24 @@
     ],
     "generators": [
       {
-        "type": "specific-token-transfer",
         "action": "bridge-to",
+        "crossId": [
+          "cbridge_",
+          {
+            "type": "log",
+            "signature": "0x79fa08de5149d912dce8e5e8da7a7c17ccdf23dd5d3bfe196802e6eb86347c7c",
+            "indexedCount": 0,
+            "index": 0,
+            "argIndex": 0,
+            "valueType": "other"
+          }
+        ],
+        "crossType": "end",
         "transfers": [
           {
-            "type": "token-transfer",
-            "token": "internal",
-            "transferIndex": "any",
-            "target": "to"
+            "type": "internal",
+            "index": "any",
+            "direction": "in"
           }
         ]
       }

@@ -46,20 +46,16 @@
     ],
     "generators": [
       {
-        "type": "specific-token-transfer",
         "action": "buy-nft",
         "transfers": [
           {
-            "type": "token-transfer",
-            "token": "erc1155",
-            "transferIndex": "any",
-            "target": "to"
+            "type": "erc1155",
+            "index": "any",
+            "direction": "in"
           },
           {
-            "type": "token-transfer",
-            "token": "value",
-            "transferIndex": "any",
-            "target": "from"
+            "type": "value",
+            "direction": "out"
           }
         ]
       }

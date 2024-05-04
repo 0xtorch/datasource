@@ -1,6 +1,7 @@
+import { evmAnalyzersSchema } from '@0xtorch/evm'
 import { describe, expect, test } from 'bun:test'
 import { readdir } from 'node:fs/promises'
-import { evmAddressSchema, evmAnalyzersSchema } from '../scripts/schemas'
+import { evmAddressSchema } from '../scripts/schemas'
 
 describe('Should valid evm chain address json', async () => {
   const chainDirs = await readdir('./evms/chains')

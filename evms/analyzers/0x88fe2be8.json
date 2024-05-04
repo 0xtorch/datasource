@@ -82,20 +82,18 @@
     ],
     "generators": [
       {
-        "type": "specific-token-transfer",
         "action": "deposit-with-bond",
+        "loanId": ["evm_", { "type": "chainId" }, "_", { "type": "to" }],
         "transfers": [
           {
-            "type": "token-transfer",
-            "token": "erc20",
-            "transferIndex": 0,
-            "target": "from"
+            "type": "erc20",
+            "index": 0,
+            "direction": "out"
           },
           {
-            "type": "token-transfer",
-            "token": "erc20",
-            "transferIndex": 1,
-            "target": "to"
+            "type": "erc20",
+            "index": 1,
+            "direction": "in"
           }
         ]
       }
