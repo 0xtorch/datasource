@@ -1,0 +1,49 @@
+[
+  {
+    "description": "Erc20 revoke",
+    "value": "zero",
+    "functionSignature": "0x095ea7b3",
+    "logsPatterns": [
+      {
+        "matchType": "partial",
+        "name": "Approval",
+        "signature": "0x8c5be1e5ebec7d5bd14f71427d1e84f3dd0314c0f7b2291e5b200ac8c7c3b925",
+        "indexedCount": 2,
+        "args": [
+          {
+            "type": "to-lower-string-value",
+            "index": 2,
+            "value": "0"
+          }
+        ],
+        "logCount": 1
+      }
+    ],
+    "generators": [
+      {
+        "action": "revoke",
+        "transfers": []
+      }
+    ]
+  },
+  {
+    "description": "Erc20 approve",
+    "value": "zero",
+    "functionSignature": "0x095ea7b3",
+    "logsPatterns": [
+      {
+        "matchType": "partial",
+        "name": "Approval",
+        "signature": "0x8c5be1e5ebec7d5bd14f71427d1e84f3dd0314c0f7b2291e5b200ac8c7c3b925",
+        "indexedCount": 2,
+        "logCount": 1
+      }
+    ],
+    "generators": [
+      {
+        "action": "approve",
+        "transfers": []
+      }
+    ]
+  }
+]
