@@ -3,7 +3,7 @@
   "type": "module",
   "module": "index.ts",
   "dependencies": {
-    "@0xtorch/evm": "^0.0.17",
+    "@0xtorch/evm": "^0.0.19",
     "zod": "^3.22.4"
   },
   "devDependencies": {
