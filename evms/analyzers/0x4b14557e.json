@@ -58,24 +58,18 @@
     "functionInterface": "requestDepositFor(tuple)",
     "logsPatterns": [
       {
-        "matchType": "exact",
-        "items": [
-          {
-            "name": "Transfer",
-            "signature": "0xddf252ad1be2c89b69c2b068fc378daa952ba7f163c4a11628f55a4df523b3ef",
-            "indexedCount": 2
-          },
-          {
-            "name": "Approval",
-            "signature": "0x8c5be1e5ebec7d5bd14f71427d1e84f3dd0314c0f7b2291e5b200ac8c7c3b925",
-            "indexedCount": 2
-          },
-          {
-            "name": "DepositRequested",
-            "signature": "0xd7b25068d9dc8d00765254cfb7f5070f98d263c8d68931d937c7362fa738048b",
-            "indexedCount": 0
-          }
-        ]
+        "matchType": "partial",
+        "name": "Transfer",
+        "signature": "0xddf252ad1be2c89b69c2b068fc378daa952ba7f163c4a11628f55a4df523b3ef",
+        "indexedCount": 2,
+        "logCount": 1
+      },
+      {
+        "matchType": "partial",
+        "name": "DepositRequested",
+        "signature": "0xd7b25068d9dc8d00765254cfb7f5070f98d263c8d68931d937c7362fa738048b",
+        "indexedCount": 0,
+        "logCount": 1
       }
     ],
     "internalsPatterns": [
