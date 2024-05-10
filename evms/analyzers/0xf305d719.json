@@ -1,0 +1,71 @@
+[
+  {
+    "description": "Uniswap V2 Add Liquidity ETH",
+    "example": "https://etherscan.io/tx/0x5c982b623de83893ad463de80a2f510bb9d0d9836e03a431314bb81201c945ac",
+    "value": "plus",
+    "functionSignature": "0xf305d719",
+    "functionInterface": "addLiquidityETH(address, uint256, uint256, uint256, address, uint256)",
+    "logsPatterns": [
+      {
+        "matchType": "partial",
+        "name": "Transfer",
+        "signature": "0xddf252ad1be2c89b69c2b068fc378daa952ba7f163c4a11628f55a4df523b3ef",
+        "indexedCount": 2
+      },
+      {
+        "matchType": "partial",
+        "name": "Sync",
+        "signature": "0x1c411e9a96e071241c2f21f7726b17ae89e3cab4c78be50e062b03a9fffbbad1",
+        "indexedCount": 1,
+        "logCount": 1
+      },
+      {
+        "matchType": "partial",
+        "name": "Mint",
+        "signature": "0x4c209b5fc8ad50758f13e2e1088ba56a560dff690a1c6fef26394f4c03821c4f",
+        "indexedCount": 1,
+        "logCount": 1
+      }
+    ],
+    "generators": [
+      {
+        "action": "add-liquidity",
+        "loanId": [
+          "evm_",
+          { "type": "chainId" },
+          "_",
+          {
+            "type": "log",
+            "signature": "0x4c209b5fc8ad50758f13e2e1088ba56a560dff690a1c6fef26394f4c03821c4f",
+            "indexedCount": 1,
+            "index": 0,
+            "argIndex": "address",
+            "valueType": "address"
+          }
+        ],
+        "transfers": [
+          {
+            "type": "erc20",
+            "to": {
+              "type": "from"
+            },
+            "index": "any",
+            "direction": "in"
+          },
+          {
+            "type": "erc20",
+            "from": {
+              "type": "from"
+            },
+            "index": "any",
+            "direction": "out"
+          },
+          {
+            "type": "value",
+            "direction": "out"
+          }
+        ]
+      }
+    ]
+  }
+]
