@@ -1,0 +1,81 @@
+[
+  {
+    "description": "Uniswap V2 Remove Liquidity ETH",
+    "example": "https://etherscan.io/tx/0x8ee8b59eea29f71a09738d734fc11d5526ecc93c4ac972c1c52a6c3a2c942576",
+    "value": "zero",
+    "functionSignature": "0x02751cec",
+    "functionInterface": "removeLiquidityETH(address, uint256, uint256, uint256, address, uint256)",
+    "logsPatterns": [
+      {
+        "matchType": "partial",
+        "name": "Transfer",
+        "signature": "0xddf252ad1be2c89b69c2b068fc378daa952ba7f163c4a11628f55a4df523b3ef",
+        "indexedCount": 2
+      },
+      {
+        "matchType": "partial",
+        "name": "Sync",
+        "signature": "0x1c411e9a96e071241c2f21f7726b17ae89e3cab4c78be50e062b03a9fffbbad1",
+        "indexedCount": 0,
+        "logCount": 1
+      },
+      {
+        "matchType": "partial",
+        "name": "Burn",
+        "signature": "0xdccd412f0b1252819cb1fd330b93224ca42612892bb3f4f789976e6d81936496",
+        "indexedCount": 2,
+        "logCount": 1
+      }
+    ],
+    "internalsPatterns": [
+      {
+        "type": "partial",
+        "value": "plus"
+      }
+    ],
+    "generators": [
+      {
+        "action": "remove-liquidity",
+        "loanId": [
+          "evm_",
+          { "type": "chainId" },
+          "_",
+          {
+            "type": "log",
+            "signature": "0xdccd412f0b1252819cb1fd330b93224ca42612892bb3f4f789976e6d81936496",
+            "indexedCount": 2,
+            "index": 0,
+            "argIndex": "address",
+            "valueType": "address"
+          }
+        ],
+        "transfers": [
+          {
+            "type": "erc20",
+            "to": {
+              "type": "from"
+            },
+            "index": "any",
+            "direction": "in"
+          },
+          {
+            "type": "erc20",
+            "from": {
+              "type": "from"
+            },
+            "index": "any",
+            "direction": "out"
+          },
+          {
+            "type": "internal",
+            "to": {
+              "type": "from"
+            },
+            "index": 0,
+            "direction": "in"
+          }
+        ]
+      }
+    ]
+  }
+]
