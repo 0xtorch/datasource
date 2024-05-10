@@ -1,0 +1,50 @@
+[
+  {
+    "description": "Ronin bridge deposit ETH on Ethereum",
+    "chainId": 1,
+    "to": ["0xf9b5e1202ac637bcfed4eed026086531c5847d00"],
+    "value": "plus",
+    "functionSignature": "0xeee3f07a",
+    "functionInterface": "depositEthFor(address)",
+    "logsPatterns": [
+      {
+        "matchType": "exact",
+        "items": [
+          {
+            "name": "Deposit",
+            "signature": "0xe1fffcc4923d04b559f4d29a8bfc6cda04eb5b0d3c460751c2402c5c5cc9109c",
+            "indexedCount": 1
+          },
+          {
+            "name": "TokenDeposited",
+            "signature": "0x72848855a2461abf0dd243723dfcc9163eec2ea5215469d101c0d9c9ef58940d",
+            "indexedCount": 3
+          }
+        ]
+      }
+    ],
+    "generators": [
+      {
+        "action": "bridge-from",
+        "crossId": [
+          "ronin-bridge_",
+          {
+            "type": "log",
+            "signature": "0x72848855a2461abf0dd243723dfcc9163eec2ea5215469d101c0d9c9ef58940d",
+            "indexedCount": 3,
+            "index": 0,
+            "argIndex": 0,
+            "valueType": "other"
+          }
+        ],
+        "crossType": "start",
+        "transfers": [
+          {
+            "type": "value",
+            "direction": "out"
+          }
+        ]
+      }
+    ]
+  }
+]
