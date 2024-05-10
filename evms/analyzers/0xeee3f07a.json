@@ -2,7 +2,7 @@
   {
     "description": "Ronin bridge deposit ETH on Ethereum",
     "chainId": 1,
-    "to": ["0xf9b5e1202ac637bcfed4eed026086531c5847d00"],
+    "to": ["0x1a2a1c938ce3ec39b6d47113c7955baa9dd454f2"],
     "value": "plus",
     "functionSignature": "0xeee3f07a",
     "functionInterface": "depositEthFor(address)",
