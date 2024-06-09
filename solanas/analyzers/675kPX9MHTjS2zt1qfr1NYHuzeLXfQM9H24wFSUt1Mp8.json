@@ -130,6 +130,13 @@
             "index": "any",
             "direction": "out"
           }
+        ],
+        "loanId": [
+          "solana_",
+          {
+            "type": "accountKey",
+            "index": 1
+          }
         ]
       }
     ]
