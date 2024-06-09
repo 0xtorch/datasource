@@ -1,6 +1,6 @@
 [
   {
-    "description": "Jupiter Swap (SplToken -> SplToken)",
+    "description": "Jupiter Swap (SplToken <-> SplToken)",
     "example": "https://solscan.io/tx/C894aZ7dTndVe421tNMhNBq2vuVGFeE2Qx31ZyqgnM92c48rfGfnsJwZ1ugdJcZGzPBuzL5ZNhaPpafyscfP8NZ",
     "programId": "JUP4Fb2cqiRUcaTHdrPC8h2gNsA2ETXiPDD33WcGuJB",
     "instructions": {

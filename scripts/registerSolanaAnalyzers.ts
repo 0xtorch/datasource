@@ -3,7 +3,7 @@ import { API_ENDPOINT, PASSWORD, USERNAME } from './constants'
 
 const filePathes = (process.env.FILES ?? '')
   .split(',')
-  .filter((v) => /^evms\/analyzers\/0x[\dA-Fa-f]{8}\.json$/.test(v))
+  .filter((v) => /^solanas\/analyzers\/.+\.json$/.test(v))
 
 console.log('Registering solana analyzers:')
 for (const filePath of filePathes) {
