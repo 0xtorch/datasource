@@ -55,7 +55,235 @@
     ]
   },
   {
+    "description": "Raydium Liquidity Pool V4 Swap (SOL -> SplToken)",
+    "example": "https://solscan.io/tx/4CVLFpHKmdLSELWBT6pKBxJPxuJwsmhw95Z8WMJds95Ba33uRhSehKcFuhMBJDcofSgYBt5yT6ruAN7x4n9YpjvT",
+    "programId": "675kPX9MHTjS2zt1qfr1NYHuzeLXfQM9H24wFSUt1Mp8",
+    "instructions": {
+      "type": "exact",
+      "instructions": [
+        {
+          "programId": "11111111111111111111111111111111",
+          "instructionType": "createAccount"
+        },
+        {
+          "programId": "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA",
+          "instructionType": "initializeAccount"
+        },
+        {
+          "programId": "675kPX9MHTjS2zt1qfr1NYHuzeLXfQM9H24wFSUt1Mp8",
+          "data": "09"
+        },
+        {
+          "programId": "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA",
+          "instructionType": "closeAccount"
+        }
+      ]
+    },
+    "transfers": [
+      {
+        "tokenType": "native",
+        "from": {
+          "type": "signer"
+        },
+        "min": 2,
+        "max": 2
+      },
+      {
+        "tokenType": "native",
+        "to": {
+          "type": "signer"
+        },
+        "min": 1,
+        "max": 1
+      },
+      {
+        "tokenType": "spl",
+        "to": {
+          "type": "signer"
+        },
+        "min": 1,
+        "max": 1
+      }
+    ],
+    "generators": [
+      {
+        "action": "trade",
+        "transfers": [
+          {
+            "type": "spl",
+            "to": {
+              "type": "signer"
+            },
+            "index": "any",
+            "direction": "in"
+          },
+          {
+            "type": "native",
+            "from": {
+              "type": "signer"
+            },
+            "index": 1,
+            "direction": "out"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "description": "Raydium Liquidity Pool V4 Swap (SOL -> SplToken) with create token account",
+    "example": "https://solscan.io/tx/4VABQG6By3UaizJpJGKwjAhYKd218Aw5wDXZusgDeYch2gJRSwApebMWjuJWiDj8EUa2xsEqTXmUSME3HNyAunD6",
+    "programId": "675kPX9MHTjS2zt1qfr1NYHuzeLXfQM9H24wFSUt1Mp8",
+    "instructions": {
+      "type": "exact",
+      "instructions": [
+        {
+          "programId": "11111111111111111111111111111111",
+          "instructionType": "createAccount"
+        },
+        {
+          "programId": "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA",
+          "instructionType": "initializeAccount"
+        },
+        {
+          "programId": "ATokenGPvbdGVxr1b2hvZbsiqW5xWH25efTNsLJA8knL",
+          "instructionType": "create"
+        },
+        {
+          "programId": "675kPX9MHTjS2zt1qfr1NYHuzeLXfQM9H24wFSUt1Mp8",
+          "data": "09"
+        },
+        {
+          "programId": "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA",
+          "instructionType": "closeAccount"
+        }
+      ]
+    },
+    "transfers": [
+      {
+        "tokenType": "native",
+        "from": {
+          "type": "signer"
+        },
+        "min": 3,
+        "max": 3
+      },
+      {
+        "tokenType": "native",
+        "to": {
+          "type": "signer"
+        },
+        "min": 1,
+        "max": 1
+      },
+      {
+        "tokenType": "spl",
+        "to": {
+          "type": "signer"
+        },
+        "min": 1,
+        "max": 1
+      }
+    ],
+    "generators": [
+      {
+        "action": "fee",
+        "transfers": [
+          {
+            "type": "native",
+            "from": {
+              "type": "signer"
+            },
+            "index": 1,
+            "direction": "out"
+          }
+        ]
+      },
+      {
+        "action": "trade",
+        "transfers": [
+          {
+            "type": "spl",
+            "to": {
+              "type": "signer"
+            },
+            "index": "any",
+            "direction": "in"
+          },
+          {
+            "type": "native",
+            "from": {
+              "type": "signer"
+            },
+            "index": 2,
+            "direction": "out"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "description": "Raydium Liquidity Pool V4 Add-Liquidity",
+    "programId": "675kPX9MHTjS2zt1qfr1NYHuzeLXfQM9H24wFSUt1Mp8",
+    "instructions": {
+      "type": "exact",
+      "instructions": [
+        {
+          "programId": "675kPX9MHTjS2zt1qfr1NYHuzeLXfQM9H24wFSUt1Mp8",
+          "data": "03"
+        }
+      ]
+    },
+    "transfers": [
+      {
+        "tokenType": "spl",
+        "from": {
+          "type": "signer"
+        },
+        "min": 2,
+        "max": 2
+      },
+      {
+        "tokenType": "spl",
+        "to": {
+          "type": "signer"
+        },
+        "min": 1,
+        "max": 1
+      }
+    ],
+    "generators": [
+      {
+        "action": "add-liquidity",
+        "transfers": [
+          {
+            "type": "spl",
+            "to": {
+              "type": "signer"
+            },
+            "index": "any",
+            "direction": "in"
+          },
+          {
+            "type": "spl",
+            "from": {
+              "type": "signer"
+            },
+            "index": "any",
+            "direction": "out"
+          }
+        ],
+        "loanId": [
+          "solana_",
+          {
+            "type": "accountKey",
+            "index": 4
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "description": "Raydium Liquidity Pool V4 Add-Liquidity with create token account",
     "example": "https://solscan.io/tx/4d4LnPyJNiaZtE5DpTvqq3suyE6UAzxg42jAQvKfzfFZMdKvxTbzryVuaajoEkvKeoQoAGGuMfyUGk1ByXUGNm2C",
     "programId": "675kPX9MHTjS2zt1qfr1NYHuzeLXfQM9H24wFSUt1Mp8",
     "instructions": {
@@ -135,7 +363,69 @@
           "solana_",
           {
             "type": "accountKey",
-            "index": 1
+            "index": 4
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "description": "Raydium Liquidity Pool V4 Remove-Liquidity",
+    "example": "https://solscan.io/tx/iULZxy5m1KiKx1FypQDqbfSpF8V3qorLfBfPJS4yUgNUbm7jg1NC9vCe7FoJC1kgZs5kPpNCNKd7vBNaXS18p8Z",
+    "programId": "675kPX9MHTjS2zt1qfr1NYHuzeLXfQM9H24wFSUt1Mp8",
+    "instructions": {
+      "type": "exact",
+      "instructions": [
+        {
+          "programId": "675kPX9MHTjS2zt1qfr1NYHuzeLXfQM9H24wFSUt1Mp8",
+          "data": "04"
+        }
+      ]
+    },
+    "transfers": [
+      {
+        "tokenType": "spl",
+        "from": {
+          "type": "signer"
+        },
+        "min": 1,
+        "max": 1
+      },
+      {
+        "tokenType": "spl",
+        "to": {
+          "type": "signer"
+        },
+        "min": 2,
+        "max": 2
+      }
+    ],
+    "generators": [
+      {
+        "action": "remove-liquidity",
+        "transfers": [
+          {
+            "type": "spl",
+            "to": {
+              "type": "signer"
+            },
+            "index": "any",
+            "direction": "in"
+          },
+          {
+            "type": "spl",
+            "from": {
+              "type": "signer"
+            },
+            "index": "any",
+            "direction": "out"
+          }
+        ],
+        "loanId": [
+          "solana_",
+          {
+            "type": "accountKey",
+            "index": 4
           }
         ]
       }

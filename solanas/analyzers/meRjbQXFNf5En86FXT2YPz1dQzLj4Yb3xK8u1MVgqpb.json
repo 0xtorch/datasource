@@ -1,0 +1,87 @@
+[
+  {
+    "description": "Merkle Distributor Program: Claim",
+    "example": "https://solscan.io/tx/3vF8PZDVMzcDQXnHzbtbbauQ3ebFtsnEKghYSFZHMHr9nUVxjqH89vApygcjMiTAA2kr4gdzRNZfocm5yVcXPcNe",
+    "programId": "meRjbQXFNf5En86FXT2YPz1dQzLj4Yb3xK8u1MVgqpb",
+    "instructions": {
+      "type": "exact",
+      "instructions": [
+        {
+          "programId": "ATokenGPvbdGVxr1b2hvZbsiqW5xWH25efTNsLJA8knL",
+          "instructionType": "create"
+        },
+        {
+          "programId": "meRjbQXFNf5En86FXT2YPz1dQzLj4Yb3xK8u1MVgqpb",
+          "data": "4e"
+        },
+        {
+          "programId": "ComputeBudget111111111111111111111111111111",
+          "instructionType": "setComputeUnitLimit"
+        },
+        {
+          "programId": "ComputeBudget111111111111111111111111111111",
+          "instructionType": "setComputeUnitPrice"
+        }
+      ]
+    },
+    "transfers": [
+      {
+        "tokenType": "native",
+        "from": {
+          "type": "signer"
+        },
+        "min": 2,
+        "max": 2
+      },
+      {
+        "tokenType": "spl",
+        "to": {
+          "type": "signer"
+        },
+        "min": 1,
+        "max": 1
+      }
+    ],
+    "generators": [
+      {
+        "action": "fee",
+        "transfers": [
+          {
+            "type": "native",
+            "from": {
+              "type": "signer"
+            },
+            "index": 0,
+            "direction": "out"
+          }
+        ]
+      },
+      {
+        "action": "fee",
+        "transfers": [
+          {
+            "type": "native",
+            "from": {
+              "type": "signer"
+            },
+            "index": 1,
+            "direction": "out"
+          }
+        ]
+      },
+      {
+        "action": "income",
+        "transfers": [
+          {
+            "type": "spl",
+            "to": {
+              "type": "signer"
+            },
+            "index": "any",
+            "direction": "in"
+          }
+        ]
+      }
+    ]
+  }
+]
