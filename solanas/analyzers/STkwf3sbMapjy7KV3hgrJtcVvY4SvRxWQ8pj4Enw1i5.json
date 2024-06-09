@@ -57,7 +57,7 @@
         ]
       },
       {
-        "action": "deposit",
+        "action": "deposit-with-bond",
         "transfers": [
           {
             "type": "spl",
@@ -119,7 +119,7 @@
     ],
     "generators": [
       {
-        "action": "withdraw",
+        "action": "withdraw-with-bond",
         "transfers": [
           {
             "type": "spl",
