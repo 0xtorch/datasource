@@ -78,3 +78,13 @@ jobs:
           API_ENDPOINT: ${{ secrets.API_ENDPOINT }}
           USERNAME: ${{ secrets.USERNAME }}
           PASSWORD: ${{ secrets.PASSWORD }}
+
+      - name: Register Solana Analyzer
+        run: |
+          for file in $(git diff ${{github.event.before}}..${{github.event.after}} --name-only --diff-filter=AM -- 'solanas/analyzers/*.json') ; do
+            FILES=$file bun run scripts/registerSolanaAnalyzers.ts
+          done
+        env:
+          API_ENDPOINT: ${{ secrets.API_ENDPOINT }}
+          USERNAME: ${{ secrets.USERNAME }}
+          PASSWORD: ${{ secrets.PASSWORD }}
