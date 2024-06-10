@@ -1,0 +1,74 @@
+[
+  {
+    "description": "Raydium Stake with init",
+    "example": "https://solscan.io/tx/4BQy8oPhdCHBooXX2dFxESdJGV11MQFboMsSKJaRELrSYfrg8enyb2FUZaBoZzVMGMp75D3XEJJtEyq71rkh5oFc",
+    "programId": "EhhTKczWMGQt46ynNeRX1WfeagwwJd7ufHvCDjRxjo5Q",
+    "instructions": {
+      "type": "exact",
+      "instructions": [
+        {
+          "programId": "EhhTKczWMGQt46ynNeRX1WfeagwwJd7ufHvCDjRxjo5Q",
+          "data": "09"
+        },
+        {
+          "programId": "EhhTKczWMGQt46ynNeRX1WfeagwwJd7ufHvCDjRxjo5Q",
+          "data": "0a"
+        }
+      ]
+    },
+    "transfers": [
+      {
+        "tokenType": "native",
+        "from": {
+          "type": "signer"
+        },
+        "min": 1,
+        "max": 1
+      },
+      {
+        "tokenType": "spl",
+        "from": {
+          "type": "signer"
+        },
+        "min": 1,
+        "max": 1
+      }
+    ],
+    "generators": [
+      {
+        "action": "fee",
+        "transfers": [
+          {
+            "type": "native",
+            "from": {
+              "type": "signer"
+            },
+            "index": 0,
+            "direction": "out"
+          }
+        ]
+      },
+      {
+        "action": "deposit",
+        "transfers": [
+          {
+            "type": "spl",
+            "from": {
+              "type": "signer"
+            },
+            "index": 0,
+            "direction": "out"
+          }
+        ],
+        "loanId": [
+          "solana_",
+          {
+            "type": "instruction-account",
+            "instructionIndex": 1,
+            "accountIndex": 5
+          }
+        ]
+      }
+    ]
+  }
+]

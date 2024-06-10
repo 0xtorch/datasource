@@ -276,7 +276,7 @@
     ],
     "generators": [
       {
-        "action": "deposit",
+        "action": "withdraw",
         "transfers": [
           {
             "type": "spl",

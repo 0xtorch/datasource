@@ -1,0 +1,70 @@
+[
+  {
+    "description": "Stake",
+    "example": "https://solscan.io/tx/26sx8vadvnqfCqvpvD66vtMvrdhKUYdhd63hJ1oYudv1ycXz7j9bM5vfGJqgYApfpdEFMDQmUG1wMUhBimzgYZKD",
+    "programId": "StKLLTf7CQ9n5BgXPSDXENovLTCuNc7N2ehvTb6JZ5x",
+    "instructions": {
+      "type": "exact",
+      "instructions": [
+        {
+          "programId": "StKLLTf7CQ9n5BgXPSDXENovLTCuNc7N2ehvTb6JZ5x",
+          "data": "ce"
+        }
+      ]
+    },
+    "transfers": [
+      {
+        "tokenType": "native",
+        "from": {
+          "type": "signer"
+        },
+        "min": 1,
+        "max": 1
+      },
+      {
+        "tokenType": "spl",
+        "from": {
+          "type": "signer"
+        },
+        "min": 1,
+        "max": 1
+      }
+    ],
+    "generators": [
+      {
+        "action": "fee",
+        "transfers": [
+          {
+            "type": "native",
+            "from": {
+              "type": "signer"
+            },
+            "index": 0,
+            "direction": "out"
+          }
+        ]
+      },
+      {
+        "action": "deposit",
+        "transfers": [
+          {
+            "type": "spl",
+            "from": {
+              "type": "signer"
+            },
+            "index": 0,
+            "direction": "out"
+          }
+        ],
+        "loanId": [
+          "solana_",
+          {
+            "type": "instruction-account",
+            "instructionIndex": 0,
+            "accountIndex": 3
+          }
+        ]
+      }
+    ]
+  }
+]

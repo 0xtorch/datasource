@@ -118,6 +118,94 @@
     ]
   },
   {
+    "description": "Raydium Liquidity Pool AMM Add-Liquidity with create token account",
+    "example": "https://solscan.io/tx/4iAi1q2ELRSmoyC1EfoP8N7k9Gi4SktCeEvWNxM7Q5jk6bPwyxLnp58z1T34mDxtoWt7N1a9xgDuSxi4wjRFh1sK",
+    "programId": "5quBtoiQqxF9Jv6KYKctB59NT3gtJD2Y65kdnB1Uev3h",
+    "instructions": {
+      "type": "exact",
+      "instructions": [
+        {
+          "programId": "ATokenGPvbdGVxr1b2hvZbsiqW5xWH25efTNsLJA8knL",
+          "instructionType": "create"
+        },
+        {
+          "programId": "5quBtoiQqxF9Jv6KYKctB59NT3gtJD2Y65kdnB1Uev3h",
+          "data": "03"
+        }
+      ]
+    },
+    "transfers": [
+      {
+        "tokenType": "native",
+        "from": {
+          "type": "signer"
+        },
+        "min": 1,
+        "max": 1
+      },
+      {
+        "tokenType": "spl",
+        "from": {
+          "type": "signer"
+        },
+        "min": 2,
+        "max": 2
+      },
+      {
+        "tokenType": "spl",
+        "to": {
+          "type": "signer"
+        },
+        "min": 1,
+        "max": 1
+      }
+    ],
+    "generators": [
+      {
+        "action": "fee",
+        "transfers": [
+          {
+            "type": "native",
+            "from": {
+              "type": "signer"
+            },
+            "index": 0,
+            "direction": "out"
+          }
+        ]
+      },
+      {
+        "action": "add-liquidity",
+        "transfers": [
+          {
+            "type": "spl",
+            "to": {
+              "type": "signer"
+            },
+            "index": "any",
+            "direction": "in"
+          },
+          {
+            "type": "spl",
+            "from": {
+              "type": "signer"
+            },
+            "index": "any",
+            "direction": "out"
+          }
+        ],
+        "loanId": [
+          "solana_",
+          {
+            "type": "instruction-account",
+            "instructionIndex": 1,
+            "accountIndex": 5
+          }
+        ]
+      }
+    ]
+  },
+  {
     "description": "Raydium Liquidity Pool AMM Remove-Liquidity",
     "example": "https://solscan.io/tx/57gdz4oEGUHsJAugcGmUES25cYHX1ywDkkUBZQoLcyyocALBoWyXDpAAjwxp7RyvPiwpKdtn9SXo9G2i1cZYbYy2",
     "programId": "5quBtoiQqxF9Jv6KYKctB59NT3gtJD2Y65kdnB1Uev3h",
@@ -154,7 +242,7 @@
     ],
     "generators": [
       {
-        "action": "add-liquidity",
+        "action": "remove-liquidity",
         "transfers": [
           {
             "type": "spl",
