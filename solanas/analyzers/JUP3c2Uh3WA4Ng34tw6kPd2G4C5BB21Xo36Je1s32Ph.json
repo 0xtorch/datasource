@@ -1,0 +1,63 @@
+[
+  {
+    "description": "Jupiter Swap (SplToken -> SplToken / SplToken -> SplToken)",
+    "example": "https://solscan.io/tx/5SyNRbaeD8UtiTiCTPxw9JpJU9sUAmyBGCnLzfopUUFpw7BW1FGnhjc8HUy6epPV13i6NpqCTsRrhNwpUXs9CZJy",
+    "programId": "JUP3c2Uh3WA4Ng34tw6kPd2G4C5BB21Xo36Je1s32Ph",
+    "instructions": {
+      "type": "exact",
+      "instructions": [
+        {
+          "programId": "JUP3c2Uh3WA4Ng34tw6kPd2G4C5BB21Xo36Je1s32Ph",
+          "data": "e4"
+        },
+        {
+          "programId": "JUP3c2Uh3WA4Ng34tw6kPd2G4C5BB21Xo36Je1s32Ph"
+        },
+        {
+          "programId": "JUP3c2Uh3WA4Ng34tw6kPd2G4C5BB21Xo36Je1s32Ph"
+        }
+      ]
+    },
+    "transfers": [
+      {
+        "tokenType": "spl",
+        "from": {
+          "type": "signer"
+        },
+        "min": 2,
+        "max": 2
+      },
+      {
+        "tokenType": "spl",
+        "to": {
+          "type": "signer"
+        },
+        "min": 2,
+        "max": 2
+      }
+    ],
+    "generators": [
+      {
+        "action": "trade",
+        "transfers": [
+          {
+            "type": "spl",
+            "to": {
+              "type": "signer"
+            },
+            "index": 1,
+            "direction": "in"
+          },
+          {
+            "type": "spl",
+            "from": {
+              "type": "signer"
+            },
+            "index": 0,
+            "direction": "out"
+          }
+        ]
+      }
+    ]
+  }
+]

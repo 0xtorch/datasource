@@ -1,0 +1,301 @@
+[
+  {
+    "description": "Solend: Deposit",
+    "example": "https://solscan.io/tx/tJAuhJ4uZrzEbC6wZcceWecXANgMKRAj32sN5bTAL2GCYKR28kjvnt26KZmxFAdkEfgfQXwbH4kqPiNiLajqgj4",
+    "programId": "So1endDq2YkqhipRh3WViPa8hdiSpxWy6z3Z6tMCpAo",
+    "instructions": {
+      "type": "exact",
+      "instructions": [
+        {
+          "programId": "So1endDq2YkqhipRh3WViPa8hdiSpxWy6z3Z6tMCpAo",
+          "data": "0e"
+        }
+      ]
+    },
+    "transfers": [
+      {
+        "tokenType": "spl",
+        "from": {
+          "type": "signer"
+        },
+        "min": 2,
+        "max": 2
+      },
+      {
+        "tokenType": "spl",
+        "to": {
+          "type": "signer"
+        },
+        "min": 1,
+        "max": 1
+      }
+    ],
+    "generators": [
+      {
+        "action": "deposit",
+        "transfers": [
+          {
+            "type": "spl",
+            "from": {
+              "type": "signer"
+            },
+            "index": 0,
+            "direction": "out"
+          }
+        ],
+        "loanId": [
+          "solana_",
+          {
+            "type": "instruction-account",
+            "instructionIndex": 0,
+            "accountIndex": 6
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "description": "Solend: Deposit with create token account",
+    "example": "https://solscan.io/tx/4JEwT4WcV5bL48RZh8JU1oPNBQqvLFw8CGbsE7XMXk9XDN4oYaiGZxXbcHtWK6qohTLLDv8tiwvC4GNgfCHdcytT",
+    "programId": "So1endDq2YkqhipRh3WViPa8hdiSpxWy6z3Z6tMCpAo",
+    "instructions": {
+      "type": "exact",
+      "instructions": [
+        {
+          "programId": "ATokenGPvbdGVxr1b2hvZbsiqW5xWH25efTNsLJA8knL",
+          "instructionType": "create"
+        },
+        {
+          "programId": "So1endDq2YkqhipRh3WViPa8hdiSpxWy6z3Z6tMCpAo",
+          "data": "0e"
+        }
+      ]
+    },
+    "transfers": [
+      {
+        "tokenType": "native",
+        "from": {
+          "type": "signer"
+        },
+        "min": 1,
+        "max": 1
+      },
+      {
+        "tokenType": "spl",
+        "from": {
+          "type": "signer"
+        },
+        "min": 2,
+        "max": 2
+      },
+      {
+        "tokenType": "spl",
+        "to": {
+          "type": "signer"
+        },
+        "min": 1,
+        "max": 1
+      }
+    ],
+    "generators": [
+      {
+        "action": "fee",
+        "transfers": [
+          {
+            "type": "native",
+            "from": {
+              "type": "signer"
+            },
+            "index": 0,
+            "direction": "out"
+          }
+        ]
+      },
+      {
+        "action": "deposit",
+        "transfers": [
+          {
+            "type": "spl",
+            "from": {
+              "type": "signer"
+            },
+            "index": 0,
+            "direction": "out"
+          }
+        ],
+        "loanId": [
+          "solana_",
+          {
+            "type": "instruction-account",
+            "instructionIndex": 1,
+            "accountIndex": 6
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "description": "Solend: Deposit with init obligation & create token account",
+    "example": "https://solscan.io/tx/4mA7UfAVMhiqaWcVUPMJz2559czcebZt4GVKb9HbRHRug1T9TbbnyJdAEd2wUShjzxzL44vXQtSQ9u7SzJry1paM",
+    "programId": "So1endDq2YkqhipRh3WViPa8hdiSpxWy6z3Z6tMCpAo",
+    "instructions": {
+      "type": "exact",
+      "instructions": [
+        {
+          "programId": "11111111111111111111111111111111",
+          "instructionType": "createAccountWithSeed"
+        },
+        {
+          "programId": "So1endDq2YkqhipRh3WViPa8hdiSpxWy6z3Z6tMCpAo",
+          "data": "06"
+        },
+        {
+          "programId": "ATokenGPvbdGVxr1b2hvZbsiqW5xWH25efTNsLJA8knL",
+          "instructionType": "create"
+        },
+        {
+          "programId": "So1endDq2YkqhipRh3WViPa8hdiSpxWy6z3Z6tMCpAo",
+          "data": "0e"
+        }
+      ]
+    },
+    "transfers": [
+      {
+        "tokenType": "native",
+        "from": {
+          "type": "signer"
+        },
+        "min": 2,
+        "max": 2
+      },
+      {
+        "tokenType": "spl",
+        "from": {
+          "type": "signer"
+        },
+        "min": 2,
+        "max": 2
+      },
+      {
+        "tokenType": "spl",
+        "to": {
+          "type": "signer"
+        },
+        "min": 1,
+        "max": 1
+      }
+    ],
+    "generators": [
+      {
+        "action": "fee",
+        "transfers": [
+          {
+            "type": "native",
+            "from": {
+              "type": "signer"
+            },
+            "index": 0,
+            "direction": "out"
+          }
+        ]
+      },
+      {
+        "action": "fee",
+        "transfers": [
+          {
+            "type": "native",
+            "from": {
+              "type": "signer"
+            },
+            "index": 1,
+            "direction": "out"
+          }
+        ]
+      },
+      {
+        "action": "deposit",
+        "transfers": [
+          {
+            "type": "spl",
+            "from": {
+              "type": "signer"
+            },
+            "index": 0,
+            "direction": "out"
+          }
+        ],
+        "loanId": [
+          "solana_",
+          {
+            "type": "instruction-account",
+            "instructionIndex": 3,
+            "accountIndex": 6
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "description": "Solend: Withdraw",
+    "example": "https://solscan.io/tx/3yXLpJtAECZoAG7ug49zwS2KdWsJs8a58USPGia7TnTtPuMq8n4SY7E4FK4LNpH94Y6erNcdswmrqeL752xxgKry",
+    "programId": "So1endDq2YkqhipRh3WViPa8hdiSpxWy6z3Z6tMCpAo",
+    "instructions": {
+      "type": "exact",
+      "instructions": [
+        {
+          "programId": "So1endDq2YkqhipRh3WViPa8hdiSpxWy6z3Z6tMCpAo",
+          "data": "03"
+        },
+        {
+          "programId": "So1endDq2YkqhipRh3WViPa8hdiSpxWy6z3Z6tMCpAo",
+          "data": "07"
+        },
+        {
+          "programId": "So1endDq2YkqhipRh3WViPa8hdiSpxWy6z3Z6tMCpAo",
+          "data": "0f"
+        }
+      ]
+    },
+    "transfers": [
+      {
+        "tokenType": "spl",
+        "from": {
+          "type": "signer"
+        },
+        "min": 1,
+        "max": 1
+      },
+      {
+        "tokenType": "spl",
+        "to": {
+          "type": "signer"
+        },
+        "min": 2,
+        "max": 2
+      }
+    ],
+    "generators": [
+      {
+        "action": "deposit",
+        "transfers": [
+          {
+            "type": "spl",
+            "to": {
+              "type": "signer"
+            },
+            "index": 1,
+            "direction": "in"
+          }
+        ],
+        "loanId": [
+          "solana_",
+          {
+            "type": "instruction-account",
+            "instructionIndex": 2,
+            "accountIndex": 5
+          }
+        ]
+      }
+    ]
+  }
+]

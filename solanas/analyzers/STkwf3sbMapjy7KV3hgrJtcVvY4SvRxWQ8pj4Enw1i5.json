@@ -79,8 +79,9 @@
         "loanId": [
           "solana_",
           {
-            "type": "accountKey",
-            "index": 2
+            "type": "instruction-account",
+            "instructionIndex": 1,
+            "accountIndex": 1
           }
         ]
       }
@@ -141,8 +142,9 @@
         "loanId": [
           "solana_",
           {
-            "type": "accountKey",
-            "index": 1
+            "type": "instruction-account",
+            "instructionIndex": 0,
+            "accountIndex": 1
           }
         ]
       }

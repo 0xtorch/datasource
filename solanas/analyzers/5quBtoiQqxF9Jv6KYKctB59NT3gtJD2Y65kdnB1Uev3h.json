@@ -109,8 +109,76 @@
         "loanId": [
           "solana_",
           {
-            "type": "accountKey",
-            "index": 3
+            "type": "instruction-account",
+            "instructionIndex": 0,
+            "accountIndex": 5
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "description": "Raydium Liquidity Pool AMM Remove-Liquidity",
+    "example": "https://solscan.io/tx/57gdz4oEGUHsJAugcGmUES25cYHX1ywDkkUBZQoLcyyocALBoWyXDpAAjwxp7RyvPiwpKdtn9SXo9G2i1cZYbYy2",
+    "programId": "5quBtoiQqxF9Jv6KYKctB59NT3gtJD2Y65kdnB1Uev3h",
+    "instructions": {
+      "type": "exact",
+      "instructions": [
+        {
+          "programId": "ComputeBudget111111111111111111111111111111",
+          "data": "00"
+        },
+        {
+          "programId": "5quBtoiQqxF9Jv6KYKctB59NT3gtJD2Y65kdnB1Uev3h",
+          "data": "04"
+        }
+      ]
+    },
+    "transfers": [
+      {
+        "tokenType": "spl",
+        "from": {
+          "type": "signer"
+        },
+        "min": 1,
+        "max": 1
+      },
+      {
+        "tokenType": "spl",
+        "to": {
+          "type": "signer"
+        },
+        "min": 2,
+        "max": 2
+      }
+    ],
+    "generators": [
+      {
+        "action": "add-liquidity",
+        "transfers": [
+          {
+            "type": "spl",
+            "to": {
+              "type": "signer"
+            },
+            "index": "any",
+            "direction": "in"
+          },
+          {
+            "type": "spl",
+            "from": {
+              "type": "signer"
+            },
+            "index": "any",
+            "direction": "out"
+          }
+        ],
+        "loanId": [
+          "solana_",
+          {
+            "type": "instruction-account",
+            "instructionIndex": 1,
+            "accountIndex": 5
           }
         ]
       }

@@ -1,0 +1,54 @@
+[
+  {
+    "description": "Raydium: Unstake LP token",
+    "example": "https://solscan.io/tx/5wun7u7pwakn3YnFyhY9VaeCap5pU1N6QxpRfMg6hP5gvLt2rG14CdLZBq3V4XhnQPAkoVz7MVMw1GNNMEc3me3y",
+    "programId": "9KEPoZmtHUrBbhWN1v1KWLMkkvwY6WLtAVUCPRtRjP4z",
+    "instructions": {
+      "type": "exact",
+      "instructions": [
+        {
+          "programId": "9KEPoZmtHUrBbhWN1v1KWLMkkvwY6WLtAVUCPRtRjP4z",
+          "data": "0c"
+        }
+      ]
+    },
+    "transfers": [
+      {
+        "tokenType": "spl",
+        "to": {
+          "type": "signer"
+        },
+        "min": 2,
+        "max": 2
+      }
+    ],
+    "generators": [
+      {
+        "action": "income",
+        "transfers": [
+          {
+            "type": "spl",
+            "to": {
+              "type": "signer"
+            },
+            "index": 0,
+            "direction": "in"
+          }
+        ]
+      },
+      {
+        "action": "withdraw",
+        "transfers": [
+          {
+            "type": "spl",
+            "to": {
+              "type": "signer"
+            },
+            "index": 1,
+            "direction": "in"
+          }
+        ]
+      }
+    ]
+  }
+]
