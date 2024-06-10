@@ -297,5 +297,72 @@
         ]
       }
     ]
+  },
+  {
+    "description": "Solend: Withdraw",
+    "example": "https://solscan.io/tx/5yWunwHRPoiJe7wjLyjtSY3fFBh4euCfb2ESC2Q9ToaVLbr1iyi4eouz7dJPo8i3P1d6NsuxBVwMyoKfX7BMKHcD",
+    "programId": "So1endDq2YkqhipRh3WViPa8hdiSpxWy6z3Z6tMCpAo",
+    "instructions": {
+      "type": "exact",
+      "instructions": [
+        {
+          "programId": "So1endDq2YkqhipRh3WViPa8hdiSpxWy6z3Z6tMCpAo",
+          "data": "03"
+        },
+        {
+          "programId": "So1endDq2YkqhipRh3WViPa8hdiSpxWy6z3Z6tMCpAo",
+          "data": "03"
+        },
+        {
+          "programId": "So1endDq2YkqhipRh3WViPa8hdiSpxWy6z3Z6tMCpAo",
+          "data": "07"
+        },
+        {
+          "programId": "So1endDq2YkqhipRh3WViPa8hdiSpxWy6z3Z6tMCpAo",
+          "data": "0f"
+        }
+      ]
+    },
+    "transfers": [
+      {
+        "tokenType": "spl",
+        "from": {
+          "type": "signer"
+        },
+        "min": 1,
+        "max": 1
+      },
+      {
+        "tokenType": "spl",
+        "to": {
+          "type": "signer"
+        },
+        "min": 2,
+        "max": 2
+      }
+    ],
+    "generators": [
+      {
+        "action": "withdraw",
+        "transfers": [
+          {
+            "type": "spl",
+            "to": {
+              "type": "signer"
+            },
+            "index": 1,
+            "direction": "in"
+          }
+        ],
+        "loanId": [
+          "solana_",
+          {
+            "type": "instruction-account",
+            "instructionIndex": 3,
+            "accountIndex": 5
+          }
+        ]
+      }
+    ]
   }
 ]

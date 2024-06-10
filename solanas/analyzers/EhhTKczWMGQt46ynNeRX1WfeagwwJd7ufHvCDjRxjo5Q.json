@@ -70,5 +70,65 @@
         ]
       }
     ]
+  },
+  {
+    "description": "Raydium Unstake with reward claim",
+    "example": "https://solscan.io/tx/58FUrd42phD9USYLKJc6PRYL1vFiTyAqzxR7FjGyovP6DASL4mch7SHE7Ndjj9AUtKGvFqNcJemuFmYTVzXGiKAd",
+    "programId": "EhhTKczWMGQt46ynNeRX1WfeagwwJd7ufHvCDjRxjo5Q",
+    "instructions": {
+      "type": "exact",
+      "instructions": [
+        {
+          "programId": "EhhTKczWMGQt46ynNeRX1WfeagwwJd7ufHvCDjRxjo5Q",
+          "data": "0b"
+        }
+      ]
+    },
+    "transfers": [
+      {
+        "tokenType": "spl",
+        "to": {
+          "type": "signer"
+        },
+        "min": 2,
+        "max": 2
+      }
+    ],
+    "generators": [
+      {
+        "action": "income",
+        "transfers": [
+          {
+            "type": "spl",
+            "to": {
+              "type": "signer"
+            },
+            "index": 0,
+            "direction": "in"
+          }
+        ]
+      },
+      {
+        "action": "withdraw",
+        "transfers": [
+          {
+            "type": "spl",
+            "to": {
+              "type": "signer"
+            },
+            "index": 1,
+            "direction": "in"
+          }
+        ],
+        "loanId": [
+          "solana_",
+          {
+            "type": "instruction-account",
+            "instructionIndex": 0,
+            "accountIndex": 5
+          }
+        ]
+      }
+    ]
   }
 ]

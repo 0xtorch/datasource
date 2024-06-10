@@ -149,7 +149,7 @@
             "to": {
               "type": "signer"
             },
-            "index": 1,
+            "index": 0,
             "direction": "in"
           }
         ]
@@ -157,7 +157,7 @@
     ]
   },
   {
-    "description": "Raydium: Unstake LP token",
+    "description": "Raydium: Unstake LP token with reward claim",
     "example": "https://solscan.io/tx/5wun7u7pwakn3YnFyhY9VaeCap5pU1N6QxpRfMg6hP5gvLt2rG14CdLZBq3V4XhnQPAkoVz7MVMw1GNNMEc3me3y",
     "programId": "9KEPoZmtHUrBbhWN1v1KWLMkkvwY6WLtAVUCPRtRjP4z",
     "instructions": {
@@ -202,6 +202,79 @@
               "type": "signer"
             },
             "index": 1,
+            "direction": "in"
+          }
+        ],
+        "loanId": [
+          "solana_",
+          {
+            "type": "instruction-account",
+            "instructionIndex": 0,
+            "accountIndex": 5
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "description": "Raydium: Unstake LP token with 2reward claim",
+    "example": "https://solscan.io/tx/3K8CqELzMnMUo8aqRuQWbZd1h2iPTz5EmBQ7qsP61vWq22BL5n1z2SaQZZXEmQxmRkcSXcoP5KW8fn7NkQBzKwVv",
+    "programId": "9KEPoZmtHUrBbhWN1v1KWLMkkvwY6WLtAVUCPRtRjP4z",
+    "instructions": {
+      "type": "exact",
+      "instructions": [
+        {
+          "programId": "9KEPoZmtHUrBbhWN1v1KWLMkkvwY6WLtAVUCPRtRjP4z",
+          "data": "0c"
+        }
+      ]
+    },
+    "transfers": [
+      {
+        "tokenType": "spl",
+        "to": {
+          "type": "signer"
+        },
+        "min": 3,
+        "max": 3
+      }
+    ],
+    "generators": [
+      {
+        "action": "income",
+        "transfers": [
+          {
+            "type": "spl",
+            "to": {
+              "type": "signer"
+            },
+            "index": 0,
+            "direction": "in"
+          }
+        ]
+      },
+      {
+        "action": "income",
+        "transfers": [
+          {
+            "type": "spl",
+            "to": {
+              "type": "signer"
+            },
+            "index": 1,
+            "direction": "in"
+          }
+        ]
+      },
+      {
+        "action": "withdraw",
+        "transfers": [
+          {
+            "type": "spl",
+            "to": {
+              "type": "signer"
+            },
+            "index": 2,
             "direction": "in"
           }
         ],

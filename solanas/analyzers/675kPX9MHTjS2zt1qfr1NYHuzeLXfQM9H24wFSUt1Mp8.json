@@ -460,6 +460,105 @@
     ]
   },
   {
+    "description": "Raydium Liquidity Pool V4 Add-Liquidity (SOL & SplToken)",
+    "example": "https://solscan.io/tx/4yFbSvtmaTCGNGhw1WETq1Hxp5oFU1X5sG5YA3gzvFox7xRX53S3DgixjpcWgCbbAuaw1Q9Ph3SDAAecEHapnwiH",
+    "programId": "675kPX9MHTjS2zt1qfr1NYHuzeLXfQM9H24wFSUt1Mp8",
+    "instructions": {
+      "type": "exact",
+      "instructions": [
+        {
+          "programId": "11111111111111111111111111111111",
+          "instructionType": "createAccount"
+        },
+        {
+          "programId": "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA",
+          "instructionType": "initializeAccount"
+        },
+        {
+          "programId": "675kPX9MHTjS2zt1qfr1NYHuzeLXfQM9H24wFSUt1Mp8",
+          "data": "03"
+        },
+        {
+          "programId": "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA",
+          "instructionType": "closeAccount"
+        }
+      ]
+    },
+    "transfers": [
+      {
+        "tokenType": "native",
+        "from": {
+          "type": "signer"
+        },
+        "min": 2,
+        "max": 2
+      },
+      {
+        "tokenType": "native",
+        "to": {
+          "type": "signer"
+        },
+        "min": 1,
+        "max": 1
+      },
+      {
+        "tokenType": "spl",
+        "from": {
+          "type": "signer"
+        },
+        "min": 1,
+        "max": 1
+      },
+      {
+        "tokenType": "spl",
+        "to": {
+          "type": "signer"
+        },
+        "min": 1,
+        "max": 1
+      }
+    ],
+    "generators": [
+      {
+        "action": "add-liquidity",
+        "transfers": [
+          {
+            "type": "spl",
+            "to": {
+              "type": "signer"
+            },
+            "index": "any",
+            "direction": "in"
+          },
+          {
+            "type": "native",
+            "from": {
+              "type": "signer"
+            },
+            "index": 1,
+            "direction": "out"
+          },
+          {
+            "type": "spl",
+            "from": {
+              "type": "signer"
+            },
+            "index": "any",
+            "direction": "out"
+          }
+        ],
+        "loanId": [
+          "solana_",
+          {
+            "type": "instruction-account",
+            "instructionIndex": 2,
+            "accountIndex": 5
+          }
+        ]
+      }
+    ]
+  },
+  {
     "description": "Raydium Liquidity Pool V4 Add-Liquidity (SOL & SplToken) with init account & create token account",
     "example": "https://solscan.io/tx/2oSrErisK1mJCz7oexhtqNEwkKk6jnFELEnjCiVxZf29gfeKfUs9fZhQHGZvzmJ6zkCHMShDKu3CUZQRWNxhnRcB",
     "programId": "675kPX9MHTjS2zt1qfr1NYHuzeLXfQM9H24wFSUt1Mp8",
@@ -481,6 +580,10 @@
         {
           "programId": "675kPX9MHTjS2zt1qfr1NYHuzeLXfQM9H24wFSUt1Mp8",
           "data": "03"
+        },
+        {
+          "programId": "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA",
+          "instructionType": "closeAccount"
         }
       ]
     },
