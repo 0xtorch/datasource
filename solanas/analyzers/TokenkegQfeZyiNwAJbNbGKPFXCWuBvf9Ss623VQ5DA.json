@@ -1,0 +1,74 @@
+[
+  {
+    "description": "Burn & Close Token Account",
+    "example": "https://solscan.io/tx/5c83pJ5oUf4pg4vHBMHL9cjDTFfZafYwde2VixQV7yhn8cFBK89twujnUieh6s5XSwyqHz3HLG3ZFscF7GK9WzTS",
+    "programId": "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA",
+    "instructions": {
+      "type": "exact",
+      "instructions": [
+        {
+          "programId": "ComputeBudget111111111111111111111111111111",
+          "data": "03"
+        },
+        {
+          "programId": "ComputeBudget111111111111111111111111111111",
+          "data": "02"
+        },
+        {
+          "programId": "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA",
+          "instructionType": "burn"
+        },
+        {
+          "programId": "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA",
+          "instructionType": "closeAccount"
+        }
+      ]
+    },
+    "transfers": [
+      {
+        "tokenType": "spl",
+        "from": {
+          "type": "signer"
+        },
+        "min": 1,
+        "max": 1
+      },
+      {
+        "tokenType": "native",
+        "to": {
+          "type": "signer"
+        },
+        "min": 1,
+        "max": 1
+      }
+    ],
+    "generators": [
+      {
+        "action": "transfer",
+        "transfers": [
+          {
+            "type": "spl",
+            "from": {
+              "type": "signer"
+            },
+            "index": "any",
+            "direction": "out"
+          }
+        ]
+      },
+      {
+        "action": "income",
+        "transfers": [
+          {
+            "type": "native",
+            "to": {
+              "type": "signer"
+            },
+            "index": "any",
+            "direction": "in"
+          }
+        ]
+      }
+    ]
+  }
+]

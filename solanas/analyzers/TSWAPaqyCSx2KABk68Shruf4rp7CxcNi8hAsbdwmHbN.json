@@ -1,0 +1,170 @@
+[
+  {
+    "description": "Tensor Swap: Buy NFT",
+    "example": "https://solscan.io/tx/2tqChumBcKgNp4tmKNSucUvPF3mrHf3B4EtiLsA13a8TZQNBxWE8xZPEj73epvyCngQMHLQN491ZBskVxRxrMujd",
+    "programId": "TSWAPaqyCSx2KABk68Shruf4rp7CxcNi8hAsbdwmHbN",
+    "instructions": {
+      "type": "exact",
+      "instructions": [
+        {
+          "programId": "ComputeBudget111111111111111111111111111111",
+          "data": "02"
+        },
+        {
+          "programId": "ComputeBudget111111111111111111111111111111",
+          "data": "03"
+        },
+        {
+          "programId": "TSWAPaqyCSx2KABk68Shruf4rp7CxcNi8hAsbdwmHbN",
+          "data": "f5"
+        }
+      ]
+    },
+    "transfers": [
+      {
+        "tokenType": "native",
+        "from": {
+          "type": "signer"
+        },
+        "min": 1
+      },
+      {
+        "tokenType": "native",
+        "to": {
+          "type": "signer"
+        },
+        "min": 1
+      },
+      {
+        "tokenType": "spl",
+        "from": {
+          "type": "signer"
+        },
+        "max": 0
+      },
+      {
+        "tokenType": "spl",
+        "to": {
+          "type": "signer"
+        },
+        "min": 1,
+        "max": 1
+      }
+    ],
+    "generators": [
+      {
+        "action": "trade",
+        "transfers": [
+          {
+            "type": "spl",
+            "to": {
+              "type": "signer"
+            },
+            "index": "any",
+            "direction": "out"
+          },
+          {
+            "type": "native",
+            "to": {
+              "type": "signer"
+            },
+            "index": "any",
+            "direction": "in"
+          },
+          {
+            "type": "native",
+            "from": {
+              "type": "signer"
+            },
+            "index": "any",
+            "direction": "out"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "description": "Tensor Swap: Sell NFT",
+    "example": "https://solscan.io/tx/4EXgBJWf6qxhGGZXKFG3g7e8emJDe8jYHwHbcLTDt5bqcZ1ZDe9fQJNB3oDw85mP1X43QWQFPmsUFWChfa5gXsYP",
+    "programId": "TSWAPaqyCSx2KABk68Shruf4rp7CxcNi8hAsbdwmHbN",
+    "instructions": {
+      "type": "exact",
+      "instructions": [
+        {
+          "programId": "ComputeBudget111111111111111111111111111111",
+          "data": "02"
+        },
+        {
+          "programId": "ComputeBudget111111111111111111111111111111",
+          "data": "03"
+        },
+        {
+          "programId": "TSWAPaqyCSx2KABk68Shruf4rp7CxcNi8hAsbdwmHbN",
+          "data": "39"
+        }
+      ]
+    },
+    "transfers": [
+      {
+        "tokenType": "native",
+        "from": {
+          "type": "signer"
+        },
+        "min": 1
+      },
+      {
+        "tokenType": "native",
+        "to": {
+          "type": "signer"
+        },
+        "min": 1
+      },
+      {
+        "tokenType": "spl",
+        "from": {
+          "type": "signer"
+        },
+        "min": 1,
+        "max": 1
+      },
+      {
+        "tokenType": "spl",
+        "to": {
+          "type": "signer"
+        },
+        "max": 0
+      }
+    ],
+    "generators": [
+      {
+        "action": "trade",
+        "transfers": [
+          {
+            "type": "native",
+            "to": {
+              "type": "signer"
+            },
+            "index": "any",
+            "direction": "in"
+          },
+          {
+            "type": "native",
+            "from": {
+              "type": "signer"
+            },
+            "index": "any",
+            "direction": "out"
+          },
+          {
+            "type": "spl",
+            "from": {
+              "type": "signer"
+            },
+            "index": "any",
+            "direction": "out"
+          }
+        ]
+      }
+    ]
+  }
+]

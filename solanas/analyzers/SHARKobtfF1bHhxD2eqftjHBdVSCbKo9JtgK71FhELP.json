@@ -1,0 +1,205 @@
+[
+  {
+    "description": "SharkyFi: OfferLoan",
+    "example": "https://solscan.io/tx/3PzczqMAfU3g5VaBzPP6gYvcXEwQGVsbTZFWbxosBhxpUhXXXCbt1HK7hqGEDL6hAyVTx8xvPBJBR5Xiu6fTujdu",
+    "programId": "SHARKobtfF1bHhxD2eqftjHBdVSCbKo9JtgK71FhELP",
+    "instructions": {
+      "type": "exact",
+      "instructions": [
+        {
+          "programId": "SHARKobtfF1bHhxD2eqftjHBdVSCbKo9JtgK71FhELP",
+          "data": "2c"
+        }
+      ]
+    },
+    "transfers": [
+      {
+        "tokenType": "native",
+        "from": {
+          "type": "signer"
+        },
+        "min": 4,
+        "max": 4
+      }
+    ],
+    "generators": [
+      {
+        "action": "deposit",
+        "transfers": [
+          {
+            "type": "native",
+            "from": {
+              "type": "signer"
+            },
+            "index": "any",
+            "direction": "out"
+          }
+        ],
+        "loanId": [
+          "solana_",
+          {
+            "type": "instruction-account",
+            "instructionIndex": 0,
+            "accountIndex": 4
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "description": "SharkyFi: RescindLoan",
+    "example": "https://solscan.io/tx/3vPsxFUB6skz7PVvAHhxxyEXpbee5PTAtZLM1cuU6aetmduVVcBxf6AEbjSmuGhAgiVP4pCsRTo7bCkWU9TzYkHt",
+    "programId": "SHARKobtfF1bHhxD2eqftjHBdVSCbKo9JtgK71FhELP",
+    "instructions": {
+      "type": "exact",
+      "instructions": [
+        {
+          "programId": "ComputeBudget111111111111111111111111111111",
+          "data": "03"
+        },
+        {
+          "programId": "ComputeBudget111111111111111111111111111111",
+          "data": "02"
+        },
+        {
+          "programId": "SHARKobtfF1bHhxD2eqftjHBdVSCbKo9JtgK71FhELP",
+          "data": "40"
+        }
+      ]
+    },
+    "transfers": [
+      {
+        "tokenType": "native",
+        "to": {
+          "type": "signer"
+        },
+        "min": 1,
+        "max": 1
+      }
+    ],
+    "generators": [
+      {
+        "action": "withdraw",
+        "transfers": [
+          {
+            "type": "native",
+            "to": {
+              "type": "signer"
+            },
+            "index": "any",
+            "direction": "in"
+          }
+        ],
+        "loanId": [
+          "solana_",
+          {
+            "type": "instruction-account",
+            "instructionIndex": 2,
+            "accountIndex": 4
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "description": "SharkyFi: Buy NFT",
+    "example": "https://solscan.io/tx/371BnwKsh6LxJn5oAWWkpCavEdSV38oBpNEvWZWVkzUucS6dUuJdsoJyy9RzCQqnBdQBW4xE3Gc1XgW8sG5G1kkM",
+    "programId": "SHARKobtfF1bHhxD2eqftjHBdVSCbKo9JtgK71FhELP",
+    "instructions": {
+      "type": "exact",
+      "instructions": [
+        {
+          "programId": "ComputeBudget111111111111111111111111111111",
+          "data": "02"
+        },
+        {
+          "programId": "SHARKobtfF1bHhxD2eqftjHBdVSCbKo9JtgK71FhELP",
+          "data": "88"
+        }
+      ]
+    },
+    "transfers": [
+      {
+        "tokenType": "native",
+        "from": {
+          "type": "signer"
+        },
+        "min": 3,
+        "max": 3
+      },
+      {
+        "tokenType": "native",
+        "to": {
+          "type": "signer"
+        },
+        "min": 1,
+        "max": 1
+      },
+      {
+        "tokenType": "spl",
+        "to": {
+          "type": "signer"
+        },
+        "min": 1,
+        "max": 1
+      }
+    ],
+    "generators": [
+      {
+        "action": "fee",
+        "transfers": [
+          {
+            "type": "native",
+            "from": {
+              "type": "signer"
+            },
+            "index": 0,
+            "direction": "out"
+          }
+        ]
+      },
+      {
+        "action": "buy-nft",
+        "transfers": [
+          {
+            "type": "spl",
+            "to": {
+              "type": "signer"
+            },
+            "index": 0,
+            "direction": "in"
+          },
+          {
+            "type": "native",
+            "from": {
+              "type": "signer"
+            },
+            "index": 1,
+            "direction": "out"
+          },
+          {
+            "type": "native",
+            "from": {
+              "type": "signer"
+            },
+            "index": 2,
+            "direction": "out"
+          }
+        ]
+      },
+      {
+        "action": "income",
+        "transfers": [
+          {
+            "type": "native",
+            "to": {
+              "type": "signer"
+            },
+            "index": 0,
+            "direction": "in"
+          }
+        ]
+      }
+    ]
+  }
+]
