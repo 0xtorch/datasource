@@ -515,7 +515,7 @@
   },
   {
     "description": "MagicEden: Buy NFT",
-    "example": "https://solscan.io/tx/4VxqbsRGPQURqsvf4C1kMrrTy7vUEB5AGgmCDQES4N19PJGLAZqv5pPnvE9ab295QdGtibSevD2c1WfRPcTY1i6m",
+    "example": "https://solscan.io/tx/3p9wGKvbAY7VhRdz24g3HUF5WVWFmh3ftRo7AgntydTen3nQd6UwGQn5ftQ32bu7MGGBQka16PUdbsxXBHDhvCAf",
     "programId": "M2mx93ekt1fmXSVkTrUL9xVFHkmME8HTUi5Cyc5aF7K",
     "instructions": {
       "type": "exact",
@@ -578,7 +578,7 @@
               "type": "signer"
             },
             "index": "any",
-            "direction": "out"
+            "direction": "in"
           },
           {
             "type": "native",
