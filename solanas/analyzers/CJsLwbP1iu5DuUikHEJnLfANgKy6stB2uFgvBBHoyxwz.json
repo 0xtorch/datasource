@@ -1,0 +1,82 @@
+[
+  {
+    "description": "Solanart: Buy NFT",
+    "example": "https://solscan.io/tx/41JtydLcXESqu9pMuxpkHyMg9vZAPkdeA8TkhM1YGVDTEXao2kQjNsmhP778YvujMivrgohi6vP6KZCXq3HXLKcx",
+    "programId": "CJsLwbP1iu5DuUikHEJnLfANgKy6stB2uFgvBBHoyxwz",
+    "instructions": {
+      "type": "exact",
+      "instructions": [
+        {
+          "programId": "ATokenGPvbdGVxr1b2hvZbsiqW5xWH25efTNsLJA8knL",
+          "instructionType": "create"
+        },
+        {
+          "programId": "CJsLwbP1iu5DuUikHEJnLfANgKy6stB2uFgvBBHoyxwz",
+          "data": "05"
+        }
+      ]
+    },
+    "transfers": [
+      {
+        "tokenType": "native",
+        "from": {
+          "type": "signer"
+        },
+        "min": 3,
+        "max": 3
+      },
+      {
+        "tokenType": "spl",
+        "from": {
+          "type": "signer"
+        },
+        "min": 1,
+        "max": 1
+      }
+    ],
+    "generators": [
+      {
+        "action": "fee",
+        "transfers": [
+          {
+            "type": "native",
+            "from": {
+              "type": "signer"
+            },
+            "index": 0,
+            "direction": "out"
+          }
+        ]
+      },
+      {
+        "action": "buy-nft",
+        "transfers": [
+          {
+            "type": "spl",
+            "to": {
+              "type": "signer"
+            },
+            "index": 0,
+            "direction": "in"
+          },
+          {
+            "type": "native",
+            "from": {
+              "type": "signer"
+            },
+            "index": 1,
+            "direction": "out"
+          },
+          {
+            "type": "native",
+            "from": {
+              "type": "signer"
+            },
+            "index": 2,
+            "direction": "out"
+          }
+        ]
+      }
+    ]
+  }
+]
