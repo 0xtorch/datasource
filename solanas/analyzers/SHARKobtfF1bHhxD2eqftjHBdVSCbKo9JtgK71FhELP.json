@@ -48,6 +48,61 @@
   },
   {
     "description": "SharkyFi: RescindLoan",
+    "example": "https://solscan.io/tx/5xAh1QdvfKV3PKUm2yMLSgxBKemgrqmagi6Ea1YqoYYWdjoHR2kVBpqVPnkGmKKbAQ5FTcjaeQyN1xResZaTCMQ7",
+    "programId": "SHARKobtfF1bHhxD2eqftjHBdVSCbKo9JtgK71FhELP",
+    "instructions": {
+      "type": "exact",
+      "instructions": [
+        {
+          "programId": "SHARKobtfF1bHhxD2eqftjHBdVSCbKo9JtgK71FhELP",
+          "data": "40"
+        },
+        {
+          "programId": "ComputeBudget111111111111111111111111111111",
+          "data": "03"
+        },
+        {
+          "programId": "ComputeBudget111111111111111111111111111111",
+          "data": "02"
+        }
+      ]
+    },
+    "transfers": [
+      {
+        "tokenType": "native",
+        "to": {
+          "type": "signer"
+        },
+        "min": 1,
+        "max": 1
+      }
+    ],
+    "generators": [
+      {
+        "action": "withdraw",
+        "transfers": [
+          {
+            "type": "native",
+            "to": {
+              "type": "signer"
+            },
+            "index": "any",
+            "direction": "in"
+          }
+        ],
+        "loanId": [
+          "solana_",
+          {
+            "type": "instruction-account",
+            "instructionIndex": 0,
+            "accountIndex": 4
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "description": "SharkyFi: RescindLoan",
     "example": "https://solscan.io/tx/3vPsxFUB6skz7PVvAHhxxyEXpbee5PTAtZLM1cuU6aetmduVVcBxf6AEbjSmuGhAgiVP4pCsRTo7bCkWU9TzYkHt",
     "programId": "SHARKobtfF1bHhxD2eqftjHBdVSCbKo9JtgK71FhELP",
     "instructions": {

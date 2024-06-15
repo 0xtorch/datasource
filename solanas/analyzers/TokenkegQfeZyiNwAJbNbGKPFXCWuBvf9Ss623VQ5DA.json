@@ -70,5 +70,178 @@
         ]
       }
     ]
+  },
+  {
+    "description": "Burn & Close Token Account",
+    "example": "https://solscan.io/tx/5t6YPs1BhqKJAneBU5uU9ALsQ5BR5ixcuqwQgMcKVbr4CHXKTjH6EczmRbabHPVKFWdagozEe2d6KoDoLpz2jfvr",
+    "programId": "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA",
+    "instructions": {
+      "type": "exact",
+      "instructions": [
+        {
+          "programId": "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA",
+          "instructionType": "burn"
+        },
+        {
+          "programId": "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA",
+          "instructionType": "closeAccount"
+        },
+        {
+          "programId": "ComputeBudget111111111111111111111111111111",
+          "data": "03"
+        },
+        {
+          "programId": "ComputeBudget111111111111111111111111111111",
+          "data": "02"
+        }
+      ]
+    },
+    "transfers": [
+      {
+        "tokenType": "spl",
+        "from": {
+          "type": "signer"
+        },
+        "min": 1,
+        "max": 1
+      },
+      {
+        "tokenType": "native",
+        "to": {
+          "type": "signer"
+        },
+        "min": 1,
+        "max": 1
+      }
+    ],
+    "generators": [
+      {
+        "action": "transfer",
+        "transfers": [
+          {
+            "type": "spl",
+            "from": {
+              "type": "signer"
+            },
+            "index": "any",
+            "direction": "out"
+          }
+        ]
+      },
+      {
+        "action": "income",
+        "transfers": [
+          {
+            "type": "native",
+            "to": {
+              "type": "signer"
+            },
+            "index": "any",
+            "direction": "in"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "description": "Burn & Close Token Account with burn fee",
+    "example": "https://solscan.io/tx/253vLDwzx7Z6KNgxAtUSJtTHncDxaetUDZdEtvz798KXzCAAAeaQExpcgGEMoxp9dKuwGkGb26MoDsjkNTenbVSg",
+    "programId": "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA",
+    "instructions": {
+      "type": "exact",
+      "instructions": [
+        {
+          "programId": "F6fmDVCQfvnEq2KR8hhfZSEczfM9JK9fWbCsYJNbTGn7",
+          "data": "af"
+        },
+        {
+          "programId": "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA",
+          "instructionType": "burn"
+        },
+        {
+          "programId": "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA",
+          "instructionType": "closeAccount"
+        },
+        {
+          "programId": "11111111111111111111111111111111",
+          "instructionType": "transfer"
+        },
+        {
+          "programId": "ComputeBudget111111111111111111111111111111",
+          "data": "03"
+        },
+        {
+          "programId": "ComputeBudget111111111111111111111111111111",
+          "data": "02"
+        }
+      ]
+    },
+    "transfers": [
+      {
+        "tokenType": "spl",
+        "from": {
+          "type": "signer"
+        },
+        "min": 1,
+        "max": 1
+      },
+      {
+        "tokenType": "native",
+        "from": {
+          "type": "signer"
+        },
+        "min": 1,
+        "max": 1
+      },
+      {
+        "tokenType": "native",
+        "to": {
+          "type": "signer"
+        },
+        "min": 1,
+        "max": 1
+      }
+    ],
+    "generators": [
+      {
+        "action": "transfer",
+        "transfers": [
+          {
+            "type": "spl",
+            "from": {
+              "type": "signer"
+            },
+            "index": "any",
+            "direction": "out"
+          }
+        ]
+      },
+      {
+        "action": "income",
+        "transfers": [
+          {
+            "type": "native",
+            "to": {
+              "type": "signer"
+            },
+            "index": "any",
+            "direction": "in"
+          }
+        ]
+      },
+      {
+        "action": "fee",
+        "transfers": [
+          {
+            "type": "native",
+            "from": {
+              "type": "signer"
+            },
+            "index": "any",
+            "direction": "out"
+          }
+        ]
+      }
+    ]
   }
 ]
