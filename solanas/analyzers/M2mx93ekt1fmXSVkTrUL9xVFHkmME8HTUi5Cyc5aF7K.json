@@ -1,5 +1,214 @@
 [
   {
+    "description": "MagicEden: List Sell NFT Order",
+    "example": "https://solscan.io/tx/5CQFVdB9n2AxsyLnYzYxA6epAMevut11neHeYtCHKqREfwUD4KPu1YfVx4minEptXFAESLnff2gLWwfoQ39JeHXi",
+    "programId": "M2mx93ekt1fmXSVkTrUL9xVFHkmME8HTUi5Cyc5aF7K",
+    "instructions": {
+      "type": "exact",
+      "instructions": [
+        {
+          "programId": "M2mx93ekt1fmXSVkTrUL9xVFHkmME8HTUi5Cyc5aF7K",
+          "data": "33"
+        }
+      ]
+    },
+    "transfers": [
+      {
+        "tokenType": "native",
+        "from": {
+          "type": "signer"
+        },
+        "min": 1,
+        "max": 1
+      },
+      {
+        "tokenType": "spl",
+        "from": {
+          "type": "signer"
+        },
+        "min": 1,
+        "max": 1
+      }
+    ],
+    "generators": [
+      {
+        "action": "fee",
+        "transfers": [
+          {
+            "type": "native",
+            "from": {
+              "type": "signer"
+            },
+            "index": 0,
+            "direction": "out"
+          }
+        ]
+      },
+      {
+        "action": "deposit",
+        "transfers": [
+          {
+            "type": "spl",
+            "from": {
+              "type": "signer"
+            },
+            "index": 0,
+            "direction": "out"
+          }
+        ],
+        "loanId": [
+          "solana_",
+          {
+            "type": "instruction-account",
+            "instructionIndex": 0,
+            "accountIndex": 13
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "description": "MagicEden: Match Sell NFT Order",
+    "example": "https://solscan.io/tx/2JujUGSmyfo9Xj1Z3U7145cEDJzapsv6pPWSkVDMtB9Sk2HqoRgLGWC8L21xfuNNy8cpxWdKfBYJdYA2KMSAc6S5",
+    "programId": "M2mx93ekt1fmXSVkTrUL9xVFHkmME8HTUi5Cyc5aF7K",
+    "accounts": [
+      {
+        "type": "instruction-account",
+        "instructionIndex": 2,
+        "accountIndex": 1
+      }
+    ],
+    "instructions": {
+      "type": "exact",
+      "instructions": [
+        {
+          "programId": "M2mx93ekt1fmXSVkTrUL9xVFHkmME8HTUi5Cyc5aF7K",
+          "data": "f2"
+        },
+        {
+          "programId": "M2mx93ekt1fmXSVkTrUL9xVFHkmME8HTUi5Cyc5aF7K",
+          "data": "66"
+        },
+        {
+          "programId": "M2mx93ekt1fmXSVkTrUL9xVFHkmME8HTUi5Cyc5aF7K",
+          "data": "25"
+        }
+      ]
+    },
+    "transfers": [
+      {
+        "tokenType": "native",
+        "to": {
+          "type": "instruction-account",
+          "instructionIndex": 2,
+          "accountIndex": 1
+        },
+        "min": 3,
+        "max": 3
+      },
+      {
+        "tokenType": "spl",
+        "to": {
+          "type": "signer"
+        },
+        "min": 1,
+        "max": 1
+      }
+    ],
+    "generators": [
+      {
+        "action": "withdraw",
+        "transfers": [
+          {
+            "type": "custom",
+            "token": {
+              "type": "instruction-account",
+              "instructionIndex": 1,
+              "accountIndex": 2
+            },
+            "from": {
+              "type": "instruction-account",
+              "instructionIndex": 2,
+              "accountIndex": 18
+            },
+            "to": {
+              "type": "instruction-account",
+              "instructionIndex": 2,
+              "accountIndex": 1
+            },
+            "value": [
+              {
+                "plus": true,
+                "value": {
+                  "type": "spl",
+                  "to": {
+                    "type": "signer"
+                  },
+                  "index": 0,
+                  "direction": "in"
+                }
+              }
+            ],
+            "direction": "in"
+          }
+        ],
+        "loanId": [
+          "solana_",
+          {
+            "type": "instruction-account",
+            "instructionIndex": 2,
+            "accountIndex": 18
+          }
+        ]
+      },
+      {
+        "action": "sell-nft",
+        "transfers": [
+          {
+            "type": "native",
+            "to": {
+              "type": "instruction-account",
+              "instructionIndex": 2,
+              "accountIndex": 1
+            },
+            "index": "any",
+            "direction": "in"
+          },
+          {
+            "type": "custom",
+            "token": {
+              "type": "instruction-account",
+              "instructionIndex": 1,
+              "accountIndex": 2
+            },
+            "from": {
+              "type": "instruction-account",
+              "instructionIndex": 2,
+              "accountIndex": 1
+            },
+            "to": {
+              "type": "signer"
+            },
+            "value": [
+              {
+                "plus": true,
+                "value": {
+                  "type": "spl",
+                  "to": {
+                    "type": "signer"
+                  },
+                  "index": 0,
+                  "direction": "in"
+                }
+              }
+            ],
+            "direction": "out"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "description": "MagicEden: Buy NFT",
     "example": "https://solscan.io/tx/4VxqbsRGPQURqsvf4C1kMrrTy7vUEB5AGgmCDQES4N19PJGLAZqv5pPnvE9ab295QdGtibSevD2c1WfRPcTY1i6m",
     "programId": "M2mx93ekt1fmXSVkTrUL9xVFHkmME8HTUi5Cyc5aF7K",
@@ -72,45 +281,6 @@
               "type": "signer"
             },
             "index": 2,
-            "direction": "out"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "description": "MagicEden: List Sell NFT Order",
-    "example": "https://solscan.io/tx/5CQFVdB9n2AxsyLnYzYxA6epAMevut11neHeYtCHKqREfwUD4KPu1YfVx4minEptXFAESLnff2gLWwfoQ39JeHXi",
-    "programId": "M2mx93ekt1fmXSVkTrUL9xVFHkmME8HTUi5Cyc5aF7K",
-    "instructions": {
-      "type": "exact",
-      "instructions": [
-        {
-          "programId": "M2mx93ekt1fmXSVkTrUL9xVFHkmME8HTUi5Cyc5aF7K",
-          "data": "33"
-        }
-      ]
-    },
-    "transfers": [
-      {
-        "tokenType": "native",
-        "from": {
-          "type": "signer"
-        },
-        "min": 1,
-        "max": 1
-      }
-    ],
-    "generators": [
-      {
-        "action": "fee",
-        "transfers": [
-          {
-            "type": "native",
-            "from": {
-              "type": "signer"
-            },
-            "index": 0,
             "direction": "out"
           }
         ]
