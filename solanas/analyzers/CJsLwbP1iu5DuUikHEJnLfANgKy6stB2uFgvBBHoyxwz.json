@@ -27,7 +27,7 @@
       },
       {
         "tokenType": "spl",
-        "from": {
+        "to": {
           "type": "signer"
         },
         "min": 1,
