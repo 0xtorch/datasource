@@ -68,6 +68,74 @@
     ]
   },
   {
+    "description": "MagicEden: Delist Sell NFT Order",
+    "example": "https://solscan.io/tx/48cuSF1VxXDA9G2FSrtZZ6emjf8MPBgfujQikDtW6NDB6NBXmLjZmN79J9zb7jkHsPnr26yELKu3EcGGr85gU8jc",
+    "programId": "M2mx93ekt1fmXSVkTrUL9xVFHkmME8HTUi5Cyc5aF7K",
+    "instructions": {
+      "type": "exact",
+      "instructions": [
+        {
+          "programId": "M2mx93ekt1fmXSVkTrUL9xVFHkmME8HTUi5Cyc5aF7K",
+          "data": "c6"
+        }
+      ]
+    },
+    "transfers": [
+      {
+        "tokenType": "native",
+        "to": {
+          "type": "signer"
+        },
+        "min": 1,
+        "max": 1
+      },
+      {
+        "tokenType": "spl",
+        "to": {
+          "type": "signer"
+        },
+        "min": 1,
+        "max": 1
+      }
+    ],
+    "generators": [
+      {
+        "action": "income",
+        "transfers": [
+          {
+            "type": "native",
+            "to": {
+              "type": "signer"
+            },
+            "index": 0,
+            "direction": "in"
+          }
+        ]
+      },
+      {
+        "action": "withdraw",
+        "transfers": [
+          {
+            "type": "spl",
+            "to": {
+              "type": "signer"
+            },
+            "index": 0,
+            "direction": "in"
+          }
+        ],
+        "loanId": [
+          "solana_",
+          {
+            "type": "instruction-account",
+            "instructionIndex": 0,
+            "accountIndex": 9
+          }
+        ]
+      }
+    ]
+  },
+  {
     "description": "MagicEden: Match Sell NFT Order",
     "example": "https://solscan.io/tx/2JujUGSmyfo9Xj1Z3U7145cEDJzapsv6pPWSkVDMtB9Sk2HqoRgLGWC8L21xfuNNy8cpxWdKfBYJdYA2KMSAc6S5",
     "programId": "M2mx93ekt1fmXSVkTrUL9xVFHkmME8HTUi5Cyc5aF7K",
