@@ -514,6 +514,102 @@
     ]
   },
   {
+    "description": "MagicEden: Buy NFT with transfer SOL",
+    "example": "https://solscan.io/tx/4ASCDwZjK2VMSvor4hnwuXyekh7nZmCbEPhjz5f3gMdqiy933QzG83un1jkwk4erzLXzqa7ciu8ZNsTDkE7Dg8pN",
+    "programId": "M2mx93ekt1fmXSVkTrUL9xVFHkmME8HTUi5Cyc5aF7K",
+    "instructions": {
+      "type": "exact",
+      "instructions": [
+        {
+          "programId": "M2mx93ekt1fmXSVkTrUL9xVFHkmME8HTUi5Cyc5aF7K",
+          "data": "f2"
+        },
+        {
+          "programId": "M2mx93ekt1fmXSVkTrUL9xVFHkmME8HTUi5Cyc5aF7K",
+          "data": "66"
+        },
+        {
+          "programId": "M2mx93ekt1fmXSVkTrUL9xVFHkmME8HTUi5Cyc5aF7K",
+          "data": "25"
+        },
+        {
+          "programId": "11111111111111111111111111111111",
+          "instructionType": "transfer"
+        }
+      ]
+    },
+    "transfers": [
+      {
+        "tokenType": "native",
+        "from": {
+          "type": "signer"
+        },
+        "min": 4,
+        "max": 4
+      },
+      {
+        "tokenType": "native",
+        "to": {
+          "type": "signer"
+        },
+        "min": 1,
+        "max": 1
+      },
+      {
+        "tokenType": "spl",
+        "to": {
+          "type": "signer"
+        },
+        "min": 1,
+        "max": 1
+      }
+    ],
+    "generators": [
+      {
+        "action": "buy-nft",
+        "transfers": [
+          {
+            "type": "spl",
+            "to": {
+              "type": "signer"
+            },
+            "index": "any",
+            "direction": "in"
+          },
+          {
+            "type": "native",
+            "from": {
+              "type": "signer"
+            },
+            "index": 0,
+            "direction": "out"
+          },
+          {
+            "type": "native",
+            "from": {
+              "type": "signer"
+            },
+            "index": 2,
+            "direction": "out"
+          }
+        ]
+      },
+      {
+        "action": "fee",
+        "transfers": [
+          {
+            "type": "native",
+            "from": {
+              "type": "signer"
+            },
+            "index": 3,
+            "direction": "out"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "description": "MagicEden: Match Buy NFT Order",
     "example": "https://solscan.io/tx/5k6NmsWjuasQUYEaMpMpXvsN6dmemPj8BKFghKQeNWA4zqtgeCPb4fcgznxPg3CCQ8SHiUtz1cCj11eraSKAy84F",
     "programId": "M2mx93ekt1fmXSVkTrUL9xVFHkmME8HTUi5Cyc5aF7K",
