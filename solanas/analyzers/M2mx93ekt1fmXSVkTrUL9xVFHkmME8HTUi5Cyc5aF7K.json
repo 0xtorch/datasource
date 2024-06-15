@@ -512,5 +512,304 @@
         ]
       }
     ]
+  },
+  {
+    "description": "MagicEden: Match Buy NFT Order",
+    "example": "https://solscan.io/tx/5k6NmsWjuasQUYEaMpMpXvsN6dmemPj8BKFghKQeNWA4zqtgeCPb4fcgznxPg3CCQ8SHiUtz1cCj11eraSKAy84F",
+    "programId": "M2mx93ekt1fmXSVkTrUL9xVFHkmME8HTUi5Cyc5aF7K",
+    "accounts": [
+      {
+        "type": "instruction-account",
+        "instructionIndex": 1,
+        "accountIndex": 0
+      }
+    ],
+    "instructions": {
+      "type": "exact",
+      "instructions": [
+        {
+          "programId": "M2mx93ekt1fmXSVkTrUL9xVFHkmME8HTUi5Cyc5aF7K",
+          "data": "33"
+        },
+        {
+          "programId": "M2mx93ekt1fmXSVkTrUL9xVFHkmME8HTUi5Cyc5aF7K",
+          "data": "25"
+        }
+      ]
+    },
+    "transfers": [
+      {
+        "tokenType": "native",
+        "from": {
+          "type": "instruction-account",
+          "instructionIndex": 1,
+          "accountIndex": 6
+        },
+        "min": 3,
+        "max": 3
+      },
+      {
+        "tokenType": "native",
+        "to": {
+          "type": "instruction-account",
+          "instructionIndex": 1,
+          "accountIndex": 0
+        },
+        "min": 1,
+        "max": 1
+      },
+      {
+        "tokenType": "spl",
+        "to": {
+          "type": "instruction-account",
+          "instructionIndex": 1,
+          "accountIndex": 0
+        },
+        "min": 1,
+        "max": 1
+      }
+    ],
+    "generators": [
+      {
+        "action": "withdraw",
+        "transfers": [
+          {
+            "type": "custom",
+            "token": "native",
+            "from": {
+              "type": "instruction-account",
+              "instructionIndex": 1,
+              "accountIndex": 6
+            },
+            "to": {
+              "type": "instruction-account",
+              "instructionIndex": 1,
+              "accountIndex": 0
+            },
+            "value": [
+              {
+                "plus": true,
+                "value": {
+                  "type": "spl",
+                  "from": {
+                    "type": "instruction-account",
+                    "instructionIndex": 1,
+                    "accountIndex": 6
+                  },
+                  "index": "any"
+                }
+              }
+            ],
+            "direction": "in"
+          }
+        ],
+        "loanId": [
+          "solana_",
+          {
+            "type": "instruction-account",
+            "instructionIndex": 1,
+            "accountIndex": 6
+          }
+        ]
+      },
+      {
+        "action": "buy-nft",
+        "transfers": [
+          {
+            "type": "spl",
+            "to": {
+              "type": "instruction-account",
+              "instructionIndex": 1,
+              "accountIndex": 0
+            },
+            "index": "any",
+            "direction": "in"
+          },
+          {
+            "type": "custom",
+            "token": "native",
+            "from": {
+              "type": "instruction-account",
+              "instructionIndex": 1,
+              "accountIndex": 0
+            },
+            "value": [
+              {
+                "plus": true,
+                "value": {
+                  "type": "spl",
+                  "from": {
+                    "type": "instruction-account",
+                    "instructionIndex": 1,
+                    "accountIndex": 6
+                  },
+                  "index": "any"
+                }
+              }
+            ],
+            "direction": "out"
+          }
+        ]
+      },
+      {
+        "action": "income",
+        "transfers": [
+          {
+            "type": "native",
+            "to": {
+              "type": "instruction-account",
+              "instructionIndex": 1,
+              "accountIndex": 0
+            },
+            "index": 0,
+            "direction": "in"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "description": "MagicEden: Sell NFT",
+    "example": "https://solscan.io/tx/5k6NmsWjuasQUYEaMpMpXvsN6dmemPj8BKFghKQeNWA4zqtgeCPb4fcgznxPg3CCQ8SHiUtz1cCj11eraSKAy84F",
+    "programId": "M2mx93ekt1fmXSVkTrUL9xVFHkmME8HTUi5Cyc5aF7K",
+    "instructions": {
+      "type": "exact",
+      "instructions": [
+        {
+          "programId": "M2mx93ekt1fmXSVkTrUL9xVFHkmME8HTUi5Cyc5aF7K",
+          "data": "33"
+        },
+        {
+          "programId": "M2mx93ekt1fmXSVkTrUL9xVFHkmME8HTUi5Cyc5aF7K",
+          "data": "25"
+        }
+      ]
+    },
+    "transfers": [
+      {
+        "tokenType": "native",
+        "from": {
+          "type": "signer"
+        },
+        "min": 1,
+        "max": 1
+      },
+      {
+        "tokenType": "native",
+        "to": {
+          "type": "signer"
+        },
+        "min": 3,
+        "max": 3
+      },
+      {
+        "tokenType": "spl",
+        "from": {
+          "type": "instruction-account",
+          "instructionIndex": 0,
+          "accountIndex": 13
+        },
+        "min": 1,
+        "max": 1
+      }
+    ],
+    "generators": [
+      {
+        "action": "withdraw",
+        "transfers": [
+          {
+            "type": "custom",
+            "token": {
+              "type": "instruction-account",
+              "instructionIndex": 0,
+              "accountIndex": 4
+            },
+            "from": {
+              "type": "instruction-account",
+              "instructionIndex": 0,
+              "accountIndex": 13
+            },
+            "to": {
+              "type": "signer"
+            },
+            "value": [
+              {
+                "plus": true,
+                "value": {
+                  "type": "spl",
+                  "from": {
+                    "type": "instruction-account",
+                    "instructionIndex": 0,
+                    "accountIndex": 13
+                  },
+                  "index": 0
+                }
+              }
+            ],
+            "direction": "in"
+          }
+        ],
+        "loanId": [
+          "solana_",
+          {
+            "type": "instruction-account",
+            "instructionIndex": 0,
+            "accountIndex": 13
+          }
+        ]
+      },
+      {
+        "action": "sell-nft",
+        "transfers": [
+          {
+            "type": "native",
+            "to": {
+              "type": "signer"
+            },
+            "index": 0,
+            "direction": "in"
+          },
+          {
+            "type": "native",
+            "to": {
+              "type": "signer"
+            },
+            "index": 2,
+            "direction": "in"
+          },
+          {
+            "type": "custom",
+            "token": {
+              "type": "instruction-account",
+              "instructionIndex": 0,
+              "accountIndex": 4
+            },
+            "from": {
+              "type": "signer"
+            },
+            "to": {
+              "type": "instruction-account",
+              "instructionIndex": 1,
+              "accountIndex": 0
+            },
+            "value": [
+              {
+                "plus": true,
+                "value": {
+                  "type": "spl",
+                  "from": {
+                    "type": "instruction-account",
+                    "instructionIndex": 0,
+                    "accountIndex": 13
+                  },
+                  "index": 0
+                }
+              }
+            ],
+            "direction": "out"
+          }
+        ]
+      }
+    ]
   }
 ]
