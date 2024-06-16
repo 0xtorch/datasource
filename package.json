@@ -4,8 +4,8 @@
   "module": "index.ts",
   "dependencies": {
     "@0xtorch/csv": "^0.0.2",
-    "@0xtorch/evm": "^0.0.25",
-    "@0xtorch/solana": "^0.0.26",
+    "@0xtorch/evm": "^0.0.27",
+    "@0xtorch/solana": "^0.0.31",
     "zod": "^3.22.4"
   },
   "devDependencies": {
