@@ -1,0 +1,5 @@
+{
+  "address": "0xc9d128f88a8d97342a37680f0ce0f34598f289d0",
+  "label": "GenerativeSeries",
+  "abi": "[{\"inputs\":[{\"internalType\":\"address\",\"name\":\"implementation_\",\"type\":\"address\"},{\"internalType\":\"bytes\",\"name\":\"initializeData\",\"type\":\"bytes\"},{\"internalType\":\"bytes\",\"name\":\"mintVectorData\",\"type\":\"bytes\"},{\"internalType\":\"address\",\"name\":\"_observability\",\"type\":\"address\"}],\"stateMutability\":\"nonpayable\",\"type\":\"constructor\"},{\"stateMutability\":\"payable\",\"type\":\"fallback\"},{\"inputs\":[],\"name\":\"implementation\",\"outputs\":[{\"internalType\":\"address\",\"name\":\"\",\"type\":\"address\"}],\"stateMutability\":\"view\",\"type\":\"function\"},{\"inputs\":[],\"name\":\"standard\",\"outputs\":[{\"internalType\":\"string\",\"name\":\"\",\"type\":\"string\"}],\"stateMutability\":\"pure\",\"type\":\"function\"},{\"stateMutability\":\"payable\",\"type\":\"receive\"}]"
+}
