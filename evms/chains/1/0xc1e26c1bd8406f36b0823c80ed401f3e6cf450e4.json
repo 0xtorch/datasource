@@ -1,0 +1,5 @@
+{
+  "address": "0xc1e26c1bd8406f36b0823c80ed401f3e6cf450e4",
+  "label": "BurnAll",
+  "abi": "[{\"constant\":false,\"inputs\":[{\"name\":\"_contract\",\"type\":\"address\"},{\"name\":\"_from\",\"type\":\"address[]\"},{\"name\":\"_ids\",\"type\":\"uint256[]\"},{\"name\":\"_amounts\",\"type\":\"uint256[]\"}],\"name\":\"batchBurn\",\"outputs\":[],\"payable\":false,\"stateMutability\":\"nonpayable\",\"type\":\"function\"}]"
+}
