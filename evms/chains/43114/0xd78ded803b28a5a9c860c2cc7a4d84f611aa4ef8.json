@@ -1,0 +1,5 @@
+{
+  "address": "0xd78ded803b28a5a9c860c2cc7a4d84f611aa4ef8",
+  "label": "Maximillion",
+  "abi": "[{\"inputs\":[{\"internalType\":\"contract QiAvax\",\"name\":\"qiAvax_\",\"type\":\"address\"}],\"payable\":false,\"stateMutability\":\"nonpayable\",\"type\":\"constructor\"},{\"constant\":true,\"inputs\":[],\"name\":\"qiAvax\",\"outputs\":[{\"internalType\":\"contract QiAvax\",\"name\":\"\",\"type\":\"address\"}],\"payable\":false,\"stateMutability\":\"view\",\"type\":\"function\"},{\"constant\":false,\"inputs\":[{\"internalType\":\"address\",\"name\":\"borrower\",\"type\":\"address\"}],\"name\":\"repayBehalf\",\"outputs\":[],\"payable\":true,\"stateMutability\":\"payable\",\"type\":\"function\"},{\"constant\":false,\"inputs\":[{\"internalType\":\"address\",\"name\":\"borrower\",\"type\":\"address\"},{\"internalType\":\"contract QiAvax\",\"name\":\"qiAvax_\",\"type\":\"address\"}],\"name\":\"repayBehalfExplicit\",\"outputs\":[],\"payable\":true,\"stateMutability\":\"payable\",\"type\":\"function\"}]"
+}
