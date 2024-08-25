@@ -1,0 +1,63 @@
+[
+  {
+    "value": "plus",
+    "functionSignature": "0xf7a16963",
+    "functionInterface": "registerWithConfig(string, address, uint256, bytes32, address, address)",
+    "logsPatterns": [
+      {
+        "matchType": "exact",
+        "items": [
+          {
+            "signature": "0xddf252ad1be2c89b69c2b068fc378daa952ba7f163c4a11628f55a4df523b3ef",
+            "indexedCount": 3
+          },
+          {
+            "signature": "0xce0457fe73731f824cc272376169235128c118b49d344817417c6d108d155e82",
+            "indexedCount": 2
+          },
+          {
+            "signature": "0xb3d987963d01b2f68493b4bdb130988f157ea43070d4ad840fee0466ed9370d9",
+            "indexedCount": 2
+          },
+          {
+            "signature": "0x335721b01866dc23fbee8b6b2c7b1e14d6f05c28cd35a2c934239f94095602a0",
+            "indexedCount": 1
+          },
+          {
+            "signature": "0x65412581168e88a1e60c6459d7f44ae83ad0832e670826c05a4e2476b57af752",
+            "indexedCount": 1
+          },
+          {
+            "signature": "0x52d7d861f09ab3d26239d492e8968629f95e9e318cf0b73bfddc441522a15fd2",
+            "indexedCount": 1
+          },
+          {
+            "signature": "0xce0457fe73731f824cc272376169235128c118b49d344817417c6d108d155e82",
+            "indexedCount": 2
+          },
+          {
+            "signature": "0xddf252ad1be2c89b69c2b068fc378daa952ba7f163c4a11628f55a4df523b3ef",
+            "indexedCount": 3
+          },
+          {
+            "signature": "0xca6abbe9d7f11422cb6ca7629fbf6fe9efb1c621f71ce8f02b9f2a230097404f",
+            "indexedCount": 2
+          }
+        ]
+      }
+    ],
+    "generators": [
+      {
+        "action": "buy-nft",
+        "crossId": [
+          "evm_1_0xdd19a0f08fc02ff6f40f5517249ebf8d3e07a00bf6a2c673b66a7309e48640b2_1"
+        ],
+        "crossType": "middle",
+        "loanId": [
+          "evm_1_0xdd19a0f08fc02ff6f40f5517249ebf8d3e07a00bf6a2c673b66a7309e48640b2_1"
+        ],
+        "transfers": []
+      }
+    ]
+  }
+]
