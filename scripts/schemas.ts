@@ -28,6 +28,7 @@ export const evmAddressSchema = z.object({
     .regex(/^0x[\da-fA-F]{40}$/)
     .transform((x) => x.toLowerCase()),
   label: z.string().optional(),
+  isSpam: z.boolean().optional(),
   app: z.string().optional(),
   abi: z.string().optional(),
 })
