@@ -1,0 +1,31 @@
+[
+  {
+    "from": [
+      "0x3ddd9f109345c1a272b2d79e3b4e1f4d05f7f758"
+    ],
+    "functionSignature": "0x628a743d",
+    "logsPatterns": [],
+    "generators": [
+      {
+        "action": "spam",
+        "transfers": [
+          {
+            "type": "erc20",
+            "index": "any",
+            "direction": "none"
+          },
+          {
+            "type": "erc721",
+            "index": "any",
+            "direction": "none"
+          },
+          {
+            "type": "erc1155",
+            "index": "any",
+            "direction": "none"
+          }
+        ]
+      }
+    ]
+  }
+]
