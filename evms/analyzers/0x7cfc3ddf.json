@@ -1,0 +1,31 @@
+[
+  {
+    "value": "zero",
+    "functionSignature": "0x7cfc3ddf",
+    "functionInterface": "mint(address, uint256, string, address)",
+    "logsPatterns": [
+      {
+        "matchType": "exact",
+        "items": [
+          {
+            "signature": "0xddf252ad1be2c89b69c2b068fc378daa952ba7f163c4a11628f55a4df523b3ef",
+            "indexedCount": 3
+          }
+        ]
+      }
+    ],
+    "generators": [
+      {
+        "action": "free-mint-nft",
+        "crossId": [
+          "evm_1_0x6bc5fc0012cdde4bfdef7bbe27161cfcd15dcb40ca0c0c41d1cb40aa28265667_1"
+        ],
+        "crossType": "middle",
+        "loanId": [
+          "evm_1_0x6bc5fc0012cdde4bfdef7bbe27161cfcd15dcb40ca0c0c41d1cb40aa28265667_1"
+        ],
+        "transfers": []
+      }
+    ]
+  }
+]
