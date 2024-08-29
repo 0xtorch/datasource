@@ -27,5 +27,34 @@
         ]
       }
     ]
+  },
+  {
+    "from": [
+      "0x865ec0a9002e809ece93e48c826043c491879f87"
+    ],
+    "functionSignature": "0x441ff998",
+    "logsPatterns": [],
+    "generators": [
+      {
+        "action": "spam",
+        "transfers": [
+          {
+            "type": "erc20",
+            "index": "any",
+            "direction": "none"
+          },
+          {
+            "type": "erc721",
+            "index": "any",
+            "direction": "none"
+          },
+          {
+            "type": "erc1155",
+            "index": "any",
+            "direction": "none"
+          }
+        ]
+      }
+    ]
   }
 ]
