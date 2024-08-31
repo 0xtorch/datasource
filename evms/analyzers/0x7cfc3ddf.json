@@ -17,14 +17,13 @@
     "generators": [
       {
         "action": "free-mint-nft",
-        "crossId": [
-          "evm_1_0x6bc5fc0012cdde4bfdef7bbe27161cfcd15dcb40ca0c0c41d1cb40aa28265667_1"
-        ],
-        "crossType": "middle",
-        "loanId": [
-          "evm_1_0x6bc5fc0012cdde4bfdef7bbe27161cfcd15dcb40ca0c0c41d1cb40aa28265667_1"
-        ],
-        "transfers": []
+        "transfers": [
+          {
+            "direction": "in",
+            "type": "erc721",
+            "index": 0
+          }
+        ]
       }
     ]
   }
