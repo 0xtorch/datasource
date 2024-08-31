@@ -1,3 +1,4 @@
+import { evmAddressPremitiveSchema } from '@0xtorch/evm'
 import { z } from 'zod'
 
 export const appSchema = z.object({
@@ -22,18 +23,8 @@ export const appSchema = z.object({
 
 export type App = z.infer<typeof appSchema>
 
-export const evmAddressSchema = z.object({
-  address: z
-    .string()
-    .regex(/^0x[\da-fA-F]{40}$/)
-    .transform((x) => x.toLowerCase()),
-  label: z.string().optional(),
-  isSpam: z.boolean().optional(),
-  app: z.string().optional(),
-  abi: z.string().optional(),
-})
-
-export type EvmAddress = Omit<z.infer<typeof evmAddressSchema>, 'app'> & {
-  readonly appId: string | undefined
-  readonly chainId: number
-}
+export const evmAddressSchema = evmAddressPremitiveSchema
+  .extend({
+    app: z.string().optional(),
+  })
+  .omit({ chainId: true })

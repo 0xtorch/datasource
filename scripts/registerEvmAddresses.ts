@@ -1,5 +1,6 @@
+import { type EvmAddressPrimitive } from '@0xtorch/evm'
 import { API_ENDPOINT, PASSWORD, USERNAME } from './constants'
-import { evmAddressSchema, type EvmAddress } from './schemas'
+import { evmAddressSchema } from './schemas'
 
 const filePathes = (process.env.FILES ?? '')
   .split(',')
@@ -10,14 +11,14 @@ for (const filePath of filePathes) {
   console.log(`  ${filePath}`)
 }
 
-const evmAddresses: EvmAddress[] = []
+const evmAddresses: EvmAddressPrimitive[] = []
 for (const filePath of filePathes) {
   const chainId = Number(filePath.split('evms/chains/')[1].split('/')[0])
   const json = await Bun.file(filePath).json()
   const evmAddress = evmAddressSchema.parse(json)
   evmAddresses.push({
     ...evmAddress,
-    appId: evmAddress.app,
+    appId: evmAddress.appId ?? evmAddress.app,
     chainId,
   })
 }
