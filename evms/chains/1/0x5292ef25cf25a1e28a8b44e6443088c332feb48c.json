@@ -1,0 +1,5 @@
+{
+  "address": "0x5292ef25cf25a1e28a8b44e6443088c332feb48c",
+  "label": "EjectStETH",
+  "abi": "[{\"inputs\":[],\"stateMutability\":\"nonpayable\",\"type\":\"constructor\"},{\"inputs\":[],\"name\":\"ejectStETH\",\"outputs\":[],\"stateMutability\":\"nonpayable\",\"type\":\"function\"}]"
+}
