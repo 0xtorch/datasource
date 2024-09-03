@@ -1,0 +1,5 @@
+{
+  "address": "0x2e61751366b7e006f8d53becb4b697890b30144f",
+  "label": "StandardizedCallFacet",
+  "abi": "[{\"inputs\":[],\"name\":\"FunctionDoesNotExist\",\"type\":\"error\"},{\"inputs\":[{\"internalType\":\"bytes\",\"name\":\"callData\",\"type\":\"bytes\"}],\"name\":\"standardizedCall\",\"outputs\":[],\"stateMutability\":\"payable\",\"type\":\"function\"}]"
+}
