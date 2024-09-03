@@ -1,0 +1,5 @@
+{
+  "address": "0x7946a4bc596e0172c4f7fcc5a1da3a019ef85eb9",
+  "label": "ManifoldERC721Single",
+  "abi": "[{\"inputs\":[],\"name\":\"InvalidInput\",\"type\":\"error\"},{\"inputs\":[{\"internalType\":\"address\",\"name\":\"creatorCore\",\"type\":\"address\"},{\"internalType\":\"uint256\",\"name\":\"expectedTokenId\",\"type\":\"uint256\"},{\"internalType\":\"string\",\"name\":\"uri\",\"type\":\"string\"},{\"internalType\":\"address\",\"name\":\"recipient\",\"type\":\"address\"}],\"name\":\"mint\",\"outputs\":[],\"stateMutability\":\"nonpayable\",\"type\":\"function\"}]"
+}
