@@ -1,0 +1,5 @@
+{
+  "address": "0xe400dbf9684deb690c673617a4412dd79ffe90da",
+  "label": "HSendBatchTokens",
+  "abi": "[{\"inputs\":[{\"internalType\":\"contract IToken\",\"name\":\"token\",\"type\":\"address\"},{\"internalType\":\"uint256\",\"name\":\"tokenAmount\",\"type\":\"uint256\"},{\"internalType\":\"address[]\",\"name\":\"targets\",\"type\":\"address[]\"}],\"name\":\"sendBatchTokens\",\"outputs\":[],\"stateMutability\":\"nonpayable\",\"type\":\"function\"}]"
+}
