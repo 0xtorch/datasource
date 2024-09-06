@@ -1,0 +1,5 @@
+{
+  "address": "0xb8ee2cd0e210fac991e441dba767082d9cdceec3",
+  "label": "MultiTransfer",
+  "abi": "[{\"inputs\":[{\"components\":[{\"internalType\":\"address\",\"name\":\"target\",\"type\":\"address\"},{\"internalType\":\"uint256\",\"name\":\"amount\",\"type\":\"uint256\"}],\"internalType\":\"struct MultiTransfer.Transfer[]\",\"name\":\"actions\",\"type\":\"tuple[]\"},{\"internalType\":\"address\",\"name\":\"token\",\"type\":\"address\"}],\"name\":\"bulkTransfer\",\"outputs\":[],\"stateMutability\":\"nonpayable\",\"type\":\"function\"}]"
+}
