@@ -1,0 +1,261 @@
+{
+  "id": "cryptact-ledger-ja",
+  "service": "cryptact",
+  "formatter": {
+    "日時": ["datetime-jp"],
+    "ソース": ["blank", "string"],
+    "主軸通貨": ["blank", "string"],
+    "決済通貨": ["blank", "string"],
+    "種類": ["blank", "string"],
+    "取引量": ["big-decimal-positive"],
+    "価格": ["blank", "big-decimal-positive"],
+    "手数料": ["big-decimal-positive"],
+    "手数料通貨": ["blank", "string"],
+    "フィードバック": ["string"],
+    "コメント": ["string"]
+  },
+  "parsers": [
+    {
+      "conditions": [
+        {
+          "column": "種類",
+          "pattern": "買い"
+        },
+        {
+          "column": "主軸通貨",
+          "pattern": {
+            "type": "defined"
+          }
+        },
+        {
+          "column": "決済通貨",
+          "pattern": {
+            "type": "defined"
+          }
+        },
+        {
+          "column": "手数料通貨",
+          "pattern": {
+            "type": "defined"
+          }
+        }
+      ],
+      "action": "trade",
+      "source": [
+        "cryptact_",
+        {
+          "type": "column",
+          "column": "日時"
+        }
+      ],
+      "timestamp": "日時",
+      "comment": [
+        "ソース: ",
+        {
+          "type": "column",
+          "column": "ソース"
+        },
+        " / コメント: ",
+        {
+          "type": "column",
+          "column": "コメント"
+        }
+      ],
+      "transfers": [
+        {
+          "direction": "in",
+          "amount": "取引量",
+          "asset": {
+            "type": "column",
+            "column": "主軸通貨"
+          }
+        },
+        {
+          "direction": "out",
+          "amount": {
+            "type": "times",
+            "columns": ["取引量", "価格"]
+          },
+          "asset": {
+            "type": "column",
+            "column": "決済通貨"
+          }
+        },
+        {
+          "direction": "out",
+          "amount": "手数料",
+          "asset": {
+            "type": "column",
+            "column": "手数料通貨"
+          }
+        }
+      ]
+    },
+    {
+      "conditions": [
+        {
+          "column": "種類",
+          "pattern": "売り"
+        },
+        {
+          "column": "主軸通貨",
+          "pattern": {
+            "type": "defined"
+          }
+        },
+        {
+          "column": "決済通貨",
+          "pattern": {
+            "type": "defined"
+          }
+        },
+        {
+          "column": "手数料通貨",
+          "pattern": {
+            "type": "defined"
+          }
+        }
+      ],
+      "action": "trade",
+      "source": [
+        "cryptact_",
+        {
+          "type": "column",
+          "column": "日時"
+        }
+      ],
+      "timestamp": "日時",
+      "comment": [
+        "ソース: ",
+        {
+          "type": "column",
+          "column": "ソース"
+        },
+        " / コメント: ",
+        {
+          "type": "column",
+          "column": "コメント"
+        }
+      ],
+      "transfers": [
+        {
+          "direction": "in",
+          "amount": {
+            "type": "times",
+            "columns": ["取引量", "価格"]
+          },
+          "asset": {
+            "type": "column",
+            "column": "決済通貨"
+          }
+        },
+        {
+          "direction": "out",
+          "amount": "取引量",
+          "asset": {
+            "type": "column",
+            "column": "主軸通貨"
+          }
+        },
+        {
+          "direction": "out",
+          "amount": "手数料",
+          "asset": {
+            "type": "column",
+            "column": "手数料通貨"
+          }
+        }
+      ]
+    },
+    {
+      "conditions": [
+        {
+          "column": "種類",
+          "pattern": "ボーナス"
+        },
+        {
+          "column": "主軸通貨",
+          "pattern": {
+            "type": "defined"
+          }
+        }
+      ],
+      "action": "gift",
+      "source": [
+        "cryptact_",
+        {
+          "type": "column",
+          "column": "日時"
+        }
+      ],
+      "timestamp": "日時",
+      "comment": [
+        "ソース: ",
+        {
+          "type": "column",
+          "column": "ソース"
+        },
+        " / コメント: ",
+        {
+          "type": "column",
+          "column": "コメント"
+        }
+      ],
+      "transfers": [
+        {
+          "direction": "in",
+          "amount": "取引量",
+          "asset": {
+            "type": "column",
+            "column": "主軸通貨"
+          }
+        }
+      ]
+    },
+    {
+      "conditions": [
+        {
+          "column": "種類",
+          "pattern": "送金手数料"
+        },
+        {
+          "column": "主軸通貨",
+          "pattern": {
+            "type": "defined"
+          }
+        }
+      ],
+      "action": "fee",
+      "source": [
+        "cryptact_",
+        {
+          "type": "column",
+          "column": "日時"
+        }
+      ],
+      "timestamp": "日時",
+      "comment": [
+        "ソース: ",
+        {
+          "type": "column",
+          "column": "ソース"
+        },
+        " / コメント: ",
+        {
+          "type": "column",
+          "column": "コメント"
+        }
+      ],
+      "transfers": [
+        {
+          "direction": "out",
+          "amount": "取引量",
+          "asset": {
+            "type": "column",
+            "column": "主軸通貨"
+          }
+        }
+      ]
+    }
+  ]
+}
