@@ -7,9 +7,9 @@
     "主軸通貨": ["blank", "string"],
     "決済通貨": ["blank", "string"],
     "種類": ["blank", "string"],
-    "取引量": ["big-decimal-positive"],
-    "価格": ["blank", "big-decimal-positive"],
-    "手数料": ["big-decimal-positive"],
+    "取引量": ["big-decimal"],
+    "価格": ["blank", "big-decimal"],
+    "手数料": ["big-decimal"],
     "手数料通貨": ["blank", "string"],
     "フィードバック": ["string"],
     "コメント": ["string"]
