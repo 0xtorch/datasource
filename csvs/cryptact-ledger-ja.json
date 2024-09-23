@@ -2,7 +2,7 @@
   "id": "cryptact-ledger-ja",
   "service": "cryptact",
   "formatter": {
-    "日時": ["datetime-jp"],
+    "日時": ["iso8601-jp"],
     "ソース": ["blank", "string"],
     "主軸通貨": ["blank", "string"],
     "決済通貨": ["blank", "string"],
