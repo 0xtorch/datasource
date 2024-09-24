@@ -14,7 +14,10 @@
       "conditions": [
         {
           "column": "Status",
-          "pattern": "Successful"
+          "pattern": {
+            "type": "in",
+            "values": ["Successful"]
+          }
         },
         {
           "column": "Buy Coin",

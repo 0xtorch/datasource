@@ -16,7 +16,10 @@
       "conditions": [
         {
           "column": "Status",
-          "pattern": "Completed"
+          "pattern": {
+            "type": "in",
+            "values": ["Completed"]
+          }
         }
       ],
       "action": "fee",
