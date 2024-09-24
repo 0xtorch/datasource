@@ -1,0 +1,65 @@
+{
+  "id": "binance-withdraw",
+  "service": "binance",
+  "formatter": {
+    "Date(UTC)": ["iso8601"],
+    "Coin": ["blank", "string"],
+    "Network": ["string"],
+    "Amount": ["big-decimal-positive"],
+    "TransactionFee": ["big-decimal-positive"],
+    "Address": ["string"],
+    "TXID": ["string"],
+    "Status": ["string"]
+  },
+  "parsers": [
+    {
+      "conditions": [
+        {
+          "column": "Status",
+          "pattern": "Completed"
+        }
+      ],
+      "action": "fee",
+      "source": [
+        "binance_withdraw_",
+        {
+          "type": "column",
+          "column": "Network"
+        },
+        "_",
+        {
+          "type": "column",
+          "column": "TXID"
+        }
+      ],
+      "timestamp": "Date(UTC)",
+      "comment": [
+        "Withdraw to ",
+        {
+          "type": "column",
+          "column": "Address"
+        },
+        " on ",
+        {
+          "type": "column",
+          "column": "Network"
+        },
+        " Network | TXID: ",
+        {
+          "type": "column",
+          "column": "TXID"
+        }
+      ],
+      "transfers": [
+        {
+          "direction": "out",
+          "amount": "TransactionFee",
+          "asset": {
+            "type": "column",
+            "column": "Coin"
+          }
+        }
+      ]
+    }
+  ]
+}
