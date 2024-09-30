@@ -1,5 +1,6 @@
 import { csvFormatSchema } from '@0xtorch/csv'
 import { API_ENDPOINT, PASSWORD, USERNAME } from './constants'
+import { stringify } from '@0xtorch/core'
 
 const filePathes = (process.env.FILES ?? '')
   .split(',')
@@ -16,7 +17,7 @@ for (const filePath of filePathes) {
       Authorization: `Basic ${btoa(`${USERNAME}:${PASSWORD}`)}`,
       'Content-Type': 'application/json',
     },
-    body: JSON.stringify(csvFormat),
+    body: stringify(csvFormat),
   })
   if (!response.ok) {
     throw new Error(

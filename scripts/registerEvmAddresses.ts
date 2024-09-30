@@ -1,6 +1,7 @@
 import type { EvmAddress } from '@0xtorch/evm'
 import { API_ENDPOINT, PASSWORD, USERNAME } from './constants'
 import { evmAddressWithoutChainIdSchema } from './schemas'
+import { stringify } from '@0xtorch/core'
 
 const filePathes = (process.env.FILES ?? '')
   .split(',')
@@ -23,7 +24,7 @@ for (const filePath of filePathes) {
 }
 
 if (evmAddresses.length > 0) {
-  const body = JSON.stringify(evmAddresses)
+  const body = stringify(evmAddresses)
   const response = await fetch(`${API_ENDPOINT}/v1/private/evm`, {
     method: 'POST',
     headers: {

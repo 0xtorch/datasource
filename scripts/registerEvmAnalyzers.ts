@@ -1,6 +1,7 @@
 import { z } from 'zod'
 import { API_ENDPOINT, PASSWORD, USERNAME } from './constants'
 import { analyzerSchema } from '@0xtorch/evm'
+import { stringify } from '@0xtorch/core'
 
 const filePathes = (process.env.FILES ?? '')
   .split(',')
@@ -22,7 +23,7 @@ for (const filePath of filePathes) {
       Authorization: `Basic ${btoa(`${USERNAME}:${PASSWORD}`)}`,
       'Content-Type': 'application/json',
     },
-    body: JSON.stringify({
+    body: stringify({
       signature,
       data: evmAnalyzers,
     }),
