@@ -1,0 +1,144 @@
+{
+  "blockNumber": 38616818,
+  "chainId": 2020,
+  "effectiveGasPrice": "0",
+  "erc20Transfers": [
+    {
+      "address": "0x0b7007c13325c48911f73a2dad5fa5dcbf808adc",
+      "logIndex": 9,
+      "from": "0xb3626d17eef106ac791b6c7e15ae66b5894cf9a2",
+      "to": "0x0cf8ff40a508bdbc39fbe1bb679dcba64e65c7df",
+      "value": "576393661",
+      "token": {
+        "address": "0x0b7007c13325c48911f73a2dad5fa5dcbf808adc",
+        "name": "",
+        "symbol": "",
+        "decimals": 0,
+        "currency": {
+          "type": "CryptoCurrency",
+          "id": "evm_2020_0x0b7007c13325c48911f73a2dad5fa5dcbf808adc",
+          "name": "",
+          "symbol": "",
+          "updatedAt": 0
+        }
+      }
+    }
+  ],
+  "erc721Transfers": [],
+  "erc1155Transfers": [],
+  "from": {
+    "chainId": 2020,
+    "address": "0xb3626d17eef106ac791b6c7e15ae66b5894cf9a2"
+  },
+  "gasUsed": "276895",
+  "hash": "0x460633c8b55c77b3eebe5771f5d212d9fd3c05b9e1f725526ec335f016f0ff8b",
+  "input": "0x0b1ff17f000000000000000000000000b3626d17eef106ac791b6c7e15ae66b5894cf9a20000000000000000000000000b7007c13325c48911f73a2dad5fa5dcbf808adc0000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000225b11bd0000000000000000000000000000000000000000000000000000000000000001",
+  "internalTransactions": [],
+  "logs": [
+    {
+      "address": "0x0b7007c13325c48911f73a2dad5fa5dcbf808adc",
+      "data": "0x00000000000000000000000000000000000000000000000000000000225b11bd",
+      "logIndex": 9,
+      "topics": [
+        "0xddf252ad1be2c89b69c2b068fc378daa952ba7f163c4a11628f55a4df523b3ef",
+        "0x000000000000000000000000b3626d17eef106ac791b6c7e15ae66b5894cf9a2",
+        "0x0000000000000000000000000cf8ff40a508bdbc39fbe1bb679dcba64e65c7df"
+      ],
+      "transactionHash": "0x460633c8b55c77b3eebe5771f5d212d9fd3c05b9e1f725526ec335f016f0ff8b",
+      "eventName": "Transfer",
+      "args": [
+        {
+          "indexed": true,
+          "name": "from",
+          "type": "address",
+          "value": "0xb3626d17eef106ac791b6c7e15ae66b5894cf9a2"
+        },
+        {
+          "indexed": true,
+          "name": "to",
+          "type": "address",
+          "value": "0x0cf8ff40a508bdbc39fbe1bb679dcba64e65c7df"
+        },
+        {
+          "indexed": false,
+          "name": "value",
+          "type": "uint256",
+          "value": "576393661"
+        }
+      ]
+    },
+    {
+      "address": "0x0cf8ff40a508bdbc39fbe1bb679dcba64e65c7df",
+      "data": "0x123a9722678d0fa18b48fb02cf9a3178002bd88c5cb7c4f003750d22ab5aaa3b00000000000000000000000000000000000000000000000000000000000290bf0000000000000000000000000000000000000000000000000000000000000001000000000000000000000000b3626d17eef106ac791b6c7e15ae66b5894cf9a2000000000000000000000000a0b86991c6218b36c1d19d4a2e9eb0ce3606eb480000000000000000000000000000000000000000000000000000000000000001000000000000000000000000b3626d17eef106ac791b6c7e15ae66b5894cf9a20000000000000000000000000b7007c13325c48911f73a2dad5fa5dcbf808adc00000000000000000000000000000000000000000000000000000000000007e40000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000225b11bd",
+      "logIndex": 10,
+      "topics": [
+        "0xf313c253a5be72c29d0deb2c8768a9543744ac03d6b3cafd50cc976f1c2632fc"
+      ],
+      "transactionHash": "0x460633c8b55c77b3eebe5771f5d212d9fd3c05b9e1f725526ec335f016f0ff8b",
+      "eventName": "WithdrawalRequested",
+      "args": [
+        {
+          "indexed": false,
+          "name": "receiptHash",
+          "type": "bytes32",
+          "value": "0x123a9722678d0fa18b48fb02cf9a3178002bd88c5cb7c4f003750d22ab5aaa3b"
+        },
+        {
+          "indexed": false,
+          "name": "",
+          "type": "tuple",
+          "value": {
+            "id": "168127",
+            "kind": 1,
+            "mainchain": {
+              "addr": "0xb3626d17Eef106AC791b6c7E15AE66b5894Cf9A2",
+              "tokenAddr": "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",
+              "chainId": "1"
+            },
+            "ronin": {
+              "addr": "0xb3626d17Eef106AC791b6c7E15AE66b5894Cf9A2",
+              "tokenAddr": "0x0B7007c13325C48911F73A2daD5FA5dCBf808aDc",
+              "chainId": "2020"
+            },
+            "info": {
+              "erc": 0,
+              "id": "0",
+              "quantity": "576393661"
+            }
+          }
+        }
+      ]
+    }
+  ],
+  "status": "success",
+  "timestamp": 1727690151000,
+  "to": {
+    "chainId": 2020,
+    "address": "0x0cf8ff40a508bdbc39fbe1bb679dcba64e65c7df"
+  },
+  "value": "0",
+  "function": {
+    "args": [
+      {
+        "type": "tuple",
+        "name": "_request",
+        "value": {
+          "recipientAddr": "0xb3626d17Eef106AC791b6c7E15AE66b5894Cf9A2",
+          "tokenAddr": "0x0B7007c13325C48911F73A2daD5FA5dCBf808aDc",
+          "info": {
+            "erc": 0,
+            "id": "0",
+            "quantity": "576393661"
+          }
+        }
+      },
+      {
+        "type": "uint256",
+        "name": "_chainId",
+        "value": "1"
+      }
+    ],
+    "name": "requestWithdrawalFor",
+    "interface": "requestWithdrawalFor(tuple, uint256)"
+  }
+}

@@ -1,71 +1,75 @@
 [
   {
-    "description": "Ronin bridge request withdraw function on Ronin",
-    "example": "https://app.roninchain.com/tx/0x3eeff7efad7494049e9fa19f40bacf9ee10540bb373033841b238e00288cbbe7",
-    "chainId": 2020,
-    "to": ["0x0cf8ff40a508bdbc39fbe1bb679dcba64e65c7df"],
-    "value": "zero",
-    "functionSignature": "0x0b1ff17f",
-    "functionInterface": "requestWithdrawalFor(tuple, uint256)",
-    "logsPatterns": [
-      {
-        "matchType": "exact",
-        "items": [
+    "example": {
+      "chainId": 2020,
+      "hash": "0x460633c8b55c77b3eebe5771f5d212d9fd3c05b9e1f725526ec335f016f0ff8b",
+      "addresses": ["0xb3626d17eef106ac791b6c7e15ae66b5894cf9a2"]
+    },
+    "condition": {
+      "related": {
+        "type": "array-in",
+        "values": [
           {
-            "name": "Transfer",
+            "type": "from"
+          }
+        ]
+      },
+      "value": {
+        "type": "between",
+        "max": "0"
+      },
+      "function": {
+        "id": "0x0b1ff17f",
+        "interface": "requestWithdrawalFor(tuple, uint256)"
+      },
+      "logs": {
+        "type": "exact",
+        "patterns": [
+          {
             "signature": "0xddf252ad1be2c89b69c2b068fc378daa952ba7f163c4a11628f55a4df523b3ef",
             "indexedCount": 2
           },
           {
-            "name": "WithdrawalRequested",
             "signature": "0xf313c253a5be72c29d0deb2c8768a9543744ac03d6b3cafd50cc976f1c2632fc",
             "indexedCount": 0
           }
         ]
       }
-    ],
-    "internalsPatterns": [
-      {
-        "type": "partial",
-        "value": "plus",
-        "count": 0
-      }
-    ],
-    "parameterMatchPatterns": [
-      {
-        "description": "from === Transfer[0].from",
-        "base": {
-          "type": "from"
-        },
-        "compare": {
-          "type": "log",
-          "signature": "0xddf252ad1be2c89b69c2b068fc378daa952ba7f163c4a11628f55a4df523b3ef",
-          "indexedCount": 2,
-          "index": 0,
-          "argIndex": 0
-        }
-      }
-    ],
+    },
     "generators": [
       {
-        "action": "bridge-from",
-        "crossId": [
-          "ronin-bridge_",
-          {
-            "type": "log",
-            "signature": "0xf313c253a5be72c29d0deb2c8768a9543744ac03d6b3cafd50cc976f1c2632fc",
-            "indexedCount": 0,
-            "index": 0,
-            "argIndex": 0,
-            "valueType": "other"
-          }
-        ],
+        "type": "bridge-from",
+        "crossId": {
+          "type": "join",
+          "values": [
+            "ronin-bridge_",
+            {
+              "type": "log",
+              "signature": "0xf313c253a5be72c29d0deb2c8768a9543744ac03d6b3cafd50cc976f1c2632fc",
+              "indexedCount": 0,
+              "index": 0,
+              "value": 0
+            }
+          ]
+        },
         "crossType": "start",
         "transfers": [
           {
             "type": "erc20",
-            "index": 0,
-            "direction": "out"
+            "direction": "out",
+            "from": {
+              "type": "array-in",
+              "values": ["related"]
+            },
+            "to": {
+              "type": "array-in",
+              "not": true,
+              "values": ["related"]
+            },
+            "amount": {
+              "type": "between",
+              "min": "1"
+            }
           }
         ]
       }

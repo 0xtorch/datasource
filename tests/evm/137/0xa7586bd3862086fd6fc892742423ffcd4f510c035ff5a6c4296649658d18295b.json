@@ -1,0 +1,260 @@
+{
+  "blockNumber": 51533856,
+  "chainId": 137,
+  "effectiveGasPrice": "83000000000",
+  "erc20Transfers": [
+    {
+      "address": "0x73c39fd38a2486b35045d2853949fd7a49b8be48",
+      "logIndex": 88,
+      "from": "0x161619839ebbada5d3c279e1a79c50f7fc4274d6",
+      "to": "0x0000000000000000000000000000000000000000",
+      "value": "18768750000000000000000",
+      "token": {
+        "address": "0x73c39fd38a2486b35045d2853949fd7a49b8be48",
+        "name": "",
+        "symbol": "",
+        "decimals": 0,
+        "currency": {
+          "type": "CryptoCurrency",
+          "id": "evm_137_0x73c39fd38a2486b35045d2853949fd7a49b8be48",
+          "name": "",
+          "symbol": "",
+          "updatedAt": 0
+        }
+      }
+    },
+    {
+      "address": "0x341a6166a30b93ebc0c9a7a596aaca22b89b2f22",
+      "logIndex": 89,
+      "from": "0x73c39fd38a2486b35045d2853949fd7a49b8be48",
+      "to": "0x161619839ebbada5d3c279e1a79c50f7fc4274d6",
+      "value": "18768750000000000000000",
+      "token": {
+        "address": "0x341a6166a30b93ebc0c9a7a596aaca22b89b2f22",
+        "name": "",
+        "symbol": "",
+        "decimals": 0,
+        "currency": {
+          "type": "CryptoCurrency",
+          "id": "evm_137_0x341a6166a30b93ebc0c9a7a596aaca22b89b2f22",
+          "name": "",
+          "symbol": "",
+          "updatedAt": 0
+        }
+      }
+    }
+  ],
+  "erc721Transfers": [],
+  "erc1155Transfers": [],
+  "from": {
+    "chainId": 137,
+    "address": "0x161619839ebbada5d3c279e1a79c50f7fc4274d6"
+  },
+  "gasUsed": "112502",
+  "hash": "0xa7586bd3862086fd6fc892742423ffcd4f510c035ff5a6c4296649658d18295b",
+  "input": "0x2e17de78000000000000000000000000000000000000000000000000000000000000000d",
+  "internalTransactions": [],
+  "logs": [
+    {
+      "address": "0x73c39fd38a2486b35045d2853949fd7a49b8be48",
+      "data": "0x0000000000000000000000000000000000000000000003f974badbe690cb0000",
+      "logIndex": 88,
+      "topics": [
+        "0xddf252ad1be2c89b69c2b068fc378daa952ba7f163c4a11628f55a4df523b3ef",
+        "0x000000000000000000000000161619839ebbada5d3c279e1a79c50f7fc4274d6",
+        "0x0000000000000000000000000000000000000000000000000000000000000000"
+      ],
+      "transactionHash": "0xa7586bd3862086fd6fc892742423ffcd4f510c035ff5a6c4296649658d18295b",
+      "eventName": "Transfer",
+      "args": [
+        {
+          "indexed": true,
+          "name": "from",
+          "type": "address",
+          "value": "0x161619839ebbada5d3c279e1a79c50f7fc4274d6"
+        },
+        {
+          "indexed": true,
+          "name": "to",
+          "type": "address",
+          "value": "0x0000000000000000000000000000000000000000"
+        },
+        {
+          "indexed": false,
+          "name": "value",
+          "type": "uint256",
+          "value": "18768750000000000000000"
+        }
+      ]
+    },
+    {
+      "address": "0x341a6166a30b93ebc0c9a7a596aaca22b89b2f22",
+      "data": "0x0000000000000000000000000000000000000000000003f974badbe690cb0000",
+      "logIndex": 89,
+      "topics": [
+        "0xddf252ad1be2c89b69c2b068fc378daa952ba7f163c4a11628f55a4df523b3ef",
+        "0x00000000000000000000000073c39fd38a2486b35045d2853949fd7a49b8be48",
+        "0x000000000000000000000000161619839ebbada5d3c279e1a79c50f7fc4274d6"
+      ],
+      "transactionHash": "0xa7586bd3862086fd6fc892742423ffcd4f510c035ff5a6c4296649658d18295b",
+      "eventName": "Transfer",
+      "args": [
+        {
+          "indexed": true,
+          "name": "from",
+          "type": "address",
+          "value": "0x73c39fd38a2486b35045d2853949fd7a49b8be48"
+        },
+        {
+          "indexed": true,
+          "name": "to",
+          "type": "address",
+          "value": "0x161619839ebbada5d3c279e1a79c50f7fc4274d6"
+        },
+        {
+          "indexed": false,
+          "name": "value",
+          "type": "uint256",
+          "value": "18768750000000000000000"
+        }
+      ]
+    },
+    {
+      "address": "0x73c39fd38a2486b35045d2853949fd7a49b8be48",
+      "data": "0x0000000000000000000000000000000000000000000003f974badbe690cb00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000928ae4c1f4a9e89e3df0440000000000000000000000000000000000000000000004b86b7464e29fb67a0000000000000000000000000000000000000000002fbef1feb1dc4f75b61de9e4",
+      "logIndex": 90,
+      "topics": [
+        "0xba19705c2dcdd553670a4465b6ba6e77105f039d1c090202e4780e008165b4f6",
+        "0x000000000000000000000000161619839ebbada5d3c279e1a79c50f7fc4274d6",
+        "0x000000000000000000000000000000000000000000000000000000000000000d"
+      ],
+      "transactionHash": "0xa7586bd3862086fd6fc892742423ffcd4f510c035ff5a6c4296649658d18295b",
+      "eventName": "Unstaked",
+      "args": [
+        {
+          "indexed": true,
+          "name": "staker",
+          "type": "address",
+          "value": "0x161619839EBbADa5d3C279E1A79C50F7fc4274D6"
+        },
+        {
+          "indexed": true,
+          "name": "stakeIndex",
+          "type": "uint256",
+          "value": "13"
+        },
+        {
+          "indexed": false,
+          "name": "amount",
+          "type": "uint128",
+          "value": "18768750000000000000000"
+        },
+        {
+          "indexed": false,
+          "name": "penaltyAmount",
+          "type": "uint128",
+          "value": "0"
+        },
+        {
+          "indexed": false,
+          "name": "totalSupply",
+          "type": "uint128",
+          "value": "177159076072003036514218052"
+        },
+        {
+          "indexed": false,
+          "name": "shares",
+          "type": "uint192",
+          "value": "22291409765625000000000"
+        },
+        {
+          "indexed": false,
+          "name": "totalShares",
+          "type": "uint192",
+          "value": "14776634155941570086556264932"
+        }
+      ]
+    },
+    {
+      "address": "0x0000000000000000000000000000000000001010",
+      "data": "0x00000000000000000000000000000000000000000000000000157e4a18821002000000000000000000000000000000000000000000000025cf00239ef0bb44cc00000000000000000000000000000000000000000000032ac18868e4dac2ec95000000000000000000000000000000000000000000000025ceeaa554d83934ca00000000000000000000000000000000000000000000032ac19de72ef344fc97",
+      "logIndex": 91,
+      "topics": [
+        "0x4dfe1bbbcf077ddc3e01291eea2d5c70c2b422b415d95645b9adcfd678cb1d63",
+        "0x0000000000000000000000000000000000000000000000000000000000001010",
+        "0x000000000000000000000000161619839ebbada5d3c279e1a79c50f7fc4274d6",
+        "0x000000000000000000000000a8b52f02108aa5f4b675bdcc973760022d7c6020"
+      ],
+      "transactionHash": "0xa7586bd3862086fd6fc892742423ffcd4f510c035ff5a6c4296649658d18295b",
+      "eventName": "LogFeeTransfer",
+      "args": [
+        {
+          "indexed": true,
+          "name": "token",
+          "type": "address",
+          "value": "0x0000000000000000000000000000000000001010"
+        },
+        {
+          "indexed": true,
+          "name": "from",
+          "type": "address",
+          "value": "0x161619839EBbADa5d3C279E1A79C50F7fc4274D6"
+        },
+        {
+          "indexed": true,
+          "name": "to",
+          "type": "address",
+          "value": "0xa8B52F02108AA5F4B675bDcC973760022D7C6020"
+        },
+        {
+          "indexed": false,
+          "name": "amount",
+          "type": "uint256",
+          "value": "6049831214780418"
+        },
+        {
+          "indexed": false,
+          "name": "input1",
+          "type": "uint256",
+          "value": "697445491858655102156"
+        },
+        {
+          "indexed": false,
+          "name": "input2",
+          "type": "uint256",
+          "value": "14955808211283021589653"
+        },
+        {
+          "indexed": false,
+          "name": "output1",
+          "type": "uint256",
+          "value": "697439442027440321738"
+        },
+        {
+          "indexed": false,
+          "name": "output2",
+          "type": "uint256",
+          "value": "14955814261114236370071"
+        }
+      ]
+    }
+  ],
+  "status": "success",
+  "timestamp": 1703497569000,
+  "to": {
+    "chainId": 137,
+    "address": "0x73c39fd38a2486b35045d2853949fd7a49b8be48"
+  },
+  "value": "0",
+  "function": {
+    "args": [
+      {
+        "type": "uint256",
+        "name": "_stakeIndex",
+        "value": "13"
+      }
+    ],
+    "name": "unstake",
+    "interface": "unstake(uint256)"
+  }
+}

@@ -1,33 +1,73 @@
 [
   {
-    "description": "Wrapped Token deposit",
-    "value": "plus",
-    "functionSignature": "0xd0e30db0",
-    "functionInterface": "deposit()",
-    "logsPatterns": [
-      {
-        "matchType": "exact",
-        "items": [
+    "example": {
+      "chainId": 1,
+      "hash": "0xdef36c9d31d6f44ff76179d79503b4b283baff381d004ee4c1bf8cf9f4bf4027",
+      "addresses": ["0xd1eb5cac2105c33a7ab116b4dc14b1d274432d7d"]
+    },
+    "condition": {
+      "related": {
+        "type": "array-in",
+        "values": [
           {
-            "name": "Deposit",
+            "type": "from"
+          }
+        ]
+      },
+      "value": {
+        "type": "between",
+        "min": "1"
+      },
+      "function": {
+        "id": "0xd0e30db0"
+      },
+      "logs": {
+        "type": "exact",
+        "patterns": [
+          {
             "signature": "0xe1fffcc4923d04b559f4d29a8bfc6cda04eb5b0d3c460751c2402c5c5cc9109c",
             "indexedCount": 1
           }
         ]
       }
-    ],
+    },
     "generators": [
       {
-        "action": "wrap",
+        "type": "wrap",
         "transfers": [
           {
-            "type": "erc20",
-            "index": "any",
-            "direction": "in"
+            "type": "value",
+            "direction": "out",
+            "from": {
+              "type": "array-in",
+              "values": ["related"]
+            },
+            "to": {
+              "type": "array-in",
+              "not": true,
+              "values": ["related"]
+            },
+            "value": {
+              "type": "between",
+              "min": "1"
+            }
           },
           {
-            "type": "value",
-            "direction": "out"
+            "type": "erc20",
+            "direction": "in",
+            "from": {
+              "type": "array-in",
+              "not": true,
+              "values": ["related"]
+            },
+            "to": {
+              "type": "array-in",
+              "values": ["related"]
+            },
+            "amount": {
+              "type": "between",
+              "min": "1"
+            }
           }
         ]
       }

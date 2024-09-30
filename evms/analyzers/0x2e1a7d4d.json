@@ -1,34 +1,74 @@
 [
   {
-    "description": "Wrapped Token withdraw",
-    "value": "zero",
-    "functionSignature": "0x2e1a7d4d",
-    "functionInterface": "withdraw(uint256)",
-    "logsPatterns": [
-      {
-        "matchType": "exact",
-        "items": [
+    "example": {
+      "chainId": 1,
+      "hash": "0xd09046a3cfe0a3086e0b6ff8dc92f589c5b39a992bdfe2436451eaaa0b5d3538",
+      "addresses": ["0xb0bc4b04c22b321717b1e4eada87cb0bd4dde8ec"]
+    },
+    "condition": {
+      "related": {
+        "type": "array-in",
+        "values": [
           {
-            "name": "Withdrawal",
+            "type": "from"
+          }
+        ]
+      },
+      "value": {
+        "type": "between",
+        "max": "0"
+      },
+      "function": {
+        "id": "0x2e1a7d4d",
+        "interface": "withdraw(uint256)"
+      },
+      "logs": {
+        "type": "exact",
+        "patterns": [
+          {
             "signature": "0x7fcf532c15f0a6db0bd6d0e038bea71d30d808c7d98cb3bf7268a95bf5081b65",
             "indexedCount": 1
           }
         ]
       }
-    ],
+    },
     "generators": [
       {
-        "action": "unwrap",
+        "type": "unwrap",
         "transfers": [
           {
             "type": "internal",
-            "index": "any",
-            "direction": "in"
+            "direction": "in",
+            "from": {
+              "type": "array-in",
+              "not": true,
+              "values": ["related"]
+            },
+            "to": {
+              "type": "array-in",
+              "values": ["related"]
+            },
+            "value": {
+              "type": "between",
+              "min": "1"
+            }
           },
           {
             "type": "erc20",
-            "index": "any",
-            "direction": "out"
+            "direction": "out",
+            "from": {
+              "type": "array-in",
+              "values": ["related"]
+            },
+            "to": {
+              "type": "array-in",
+              "not": true,
+              "values": ["related"]
+            },
+            "amount": {
+              "type": "between",
+              "min": "1"
+            }
           }
         ]
       }

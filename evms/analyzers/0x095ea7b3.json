@@ -1,47 +1,125 @@
 [
   {
-    "description": "Erc20 revoke",
-    "value": "zero",
-    "functionSignature": "0x095ea7b3",
-    "logsPatterns": [
-      {
-        "matchType": "partial",
-        "name": "Approval",
-        "signature": "0x8c5be1e5ebec7d5bd14f71427d1e84f3dd0314c0f7b2291e5b200ac8c7c3b925",
-        "indexedCount": 2,
+    "example": {
+      "chainId": 1,
+      "hash": "0xd781f5399a11325d817caaac103316676cce0ccef811e5dde580087e14e997d4",
+      "addresses": ["0x1b2a5294a646ccb64d27351e2695ea3f4c7a018b"]
+    },
+    "condition": {
+      "related": {
+        "type": "array-in",
+        "values": [
+          {
+            "type": "from"
+          }
+        ]
+      },
+      "value": {
+        "type": "between",
+        "max": "0"
+      },
+      "function": {
+        "id": "0x095ea7b3",
+        "interface": "approve(address, uint256)",
         "args": [
           {
-            "type": "to-lower-string-value",
-            "index": 2,
-            "value": "0"
+            "index": 1,
+            "value": {
+              "type": "between",
+              "min": "1"
+            }
           }
-        ],
-        "logCount": 1
+        ]
+      },
+      "logs": {
+        "type": "some",
+        "patterns": [
+          {
+            "signature": "0x8c5be1e5ebec7d5bd14f71427d1e84f3dd0314c0f7b2291e5b200ac8c7c3b925",
+            "indexedCount": 2,
+            "count": {
+              "type": "between",
+              "min": "1",
+              "max": "1"
+            }
+          }
+        ]
       }
-    ],
+    },
     "generators": [
       {
-        "action": "revoke",
+        "type": "approve",
+        "comment": {
+          "type": "join",
+          "values": [
+            "Approved Token(",
+            { "type": "to" },
+            ") for ",
+            { "type": "function", "index": 0 },
+            " to use (amount: ",
+            { "type": "function", "index": 1 },
+            ")"
+          ]
+        },
         "transfers": []
       }
     ]
   },
   {
-    "description": "Erc20 approve",
-    "value": "zero",
-    "functionSignature": "0x095ea7b3",
-    "logsPatterns": [
-      {
-        "matchType": "partial",
-        "name": "Approval",
-        "signature": "0x8c5be1e5ebec7d5bd14f71427d1e84f3dd0314c0f7b2291e5b200ac8c7c3b925",
-        "indexedCount": 2,
-        "logCount": 1
+    "condition": {
+      "related": {
+        "type": "array-in",
+        "values": [
+          {
+            "type": "from"
+          }
+        ]
+      },
+      "value": {
+        "type": "between",
+        "max": "0"
+      },
+      "function": {
+        "id": "0x095ea7b3",
+        "interface": "approve(address, uint256)",
+        "args": [
+          {
+            "index": 1,
+            "value": {
+              "type": "between",
+              "max": "0"
+            }
+          }
+        ]
+      },
+      "logs": {
+        "type": "some",
+        "patterns": [
+          {
+            "signature": "0x8c5be1e5ebec7d5bd14f71427d1e84f3dd0314c0f7b2291e5b200ac8c7c3b925",
+            "indexedCount": 2,
+            "count": {
+              "type": "between",
+              "min": "1",
+              "max": "1"
+            }
+          }
+        ]
       }
-    ],
+    },
     "generators": [
       {
-        "action": "approve",
+        "type": "revoke",
+        "comment": {
+          "type": "join",
+          "values": [
+            "Revoke Token(",
+            { "type": "to" },
+            ") for ",
+            { "type": "function", "index": 0 },
+            " to use"
+          ]
+        },
         "transfers": []
       }
     ]

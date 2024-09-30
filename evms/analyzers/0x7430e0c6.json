@@ -1,547 +1,180 @@
 [
   {
-    "description": "Foundation: Finalize NFT Auction & Sell NFT",
-    "example": "https://etherscan.io/tx/0xbeb0c8f030cd92af5fe11f7962b9165901e883ba3f9f049538f0cf4527ddb465",
-    "value": "zero",
-    "functionSignature": "0x7430e0c6",
-    "functionInterface": "finalizeReserveAuction(uint256)",
-    "logsPatterns": [
-      {
-        "matchType": "exact",
-        "items": [
-          {
-            "name": "Approval",
-            "signature": "0x8c5be1e5ebec7d5bd14f71427d1e84f3dd0314c0f7b2291e5b200ac8c7c3b925",
-            "indexedCount": 2
-          },
-          {
-            "name": "Transfer",
-            "signature": "0xddf252ad1be2c89b69c2b068fc378daa952ba7f163c4a11628f55a4df523b3ef",
-            "indexedCount": 2
-          },
-          {
-            "name": "ReserveAuctionFinalized",
-            "signature": "0x2edb0e99c6ac35be6731dab554c1d1fa1b7beb675090dbb09fb14e615aca1c4a",
-            "indexedCount": 3
-          }
-        ]
-      }
-    ],
-    "accounts": [
-      {
-        "type": "log",
-        "signature": "0x2edb0e99c6ac35be6731dab554c1d1fa1b7beb675090dbb09fb14e615aca1c4a",
-        "indexedCount": 3,
-        "index": 0,
-        "argIndex": 1
-      }
-    ],
-    "generators": [
-      {
-        "action": "withdraw",
-        "loanId": [
-          "foundation_",
+    "example": {
+      "chainId": 1,
+      "hash": "0xbeb0c8f030cd92af5fe11f7962b9165901e883ba3f9f049538f0cf4527ddb465",
+      "addresses": ["0x06e9029d11bbfb137e816805e0a6d84ff57e8637"]
+    },
+    "condition": {
+      "related": {
+        "type": "array-in",
+        "values": [
           {
             "type": "log",
             "signature": "0x2edb0e99c6ac35be6731dab554c1d1fa1b7beb675090dbb09fb14e615aca1c4a",
             "indexedCount": 3,
             "index": 0,
-            "argIndex": 0,
-            "valueType": "bigint"
-          }
-        ],
-        "transfers": [
-          {
-            "type": "custom",
-            "from": {
-              "type": "erc721",
-              "index": 0,
-              "key": "from"
-            },
-            "to": {
-              "type": "log",
-              "signature": "0x2edb0e99c6ac35be6731dab554c1d1fa1b7beb675090dbb09fb14e615aca1c4a",
-              "indexedCount": 3,
-              "index": 0,
-              "argIndex": 1,
-              "valueType": "address"
-            },
-            "asset": {
-              "type": "erc721",
-              "index": 0
-            },
-            "amount": [
-              {
-                "plus": true,
-                "value": "1"
-              }
-            ],
-            "direction": "in"
+            "value": 2
           }
         ]
       },
-      {
-        "action": "sell-nft",
-        "transfers": [
+      "chainId": [1],
+      "to": {
+        "type": "array-in",
+        "values": ["0xcda72070e455bb31c7690a170224ce43623d0b6f"]
+      },
+      "value": {
+        "type": "between",
+        "max": "0"
+      },
+      "function": {
+        "id": "0x7430e0c6",
+        "interface": "finalizeReserveAuction(uint256)"
+      },
+      "logs": {
+        "type": "some",
+        "patterns": [
           {
-            "type": "internal",
-            "to": {
-              "type": "log",
-              "signature": "0x2edb0e99c6ac35be6731dab554c1d1fa1b7beb675090dbb09fb14e615aca1c4a",
-              "indexedCount": 3,
-              "index": 0,
-              "argIndex": 1,
-              "valueType": "address"
-            },
-            "index": "any",
-            "direction": "in"
-          },
-          {
-            "type": "custom",
-            "from": {
-              "type": "log",
-              "signature": "0x2edb0e99c6ac35be6731dab554c1d1fa1b7beb675090dbb09fb14e615aca1c4a",
-              "indexedCount": 3,
-              "index": 0,
-              "argIndex": 1,
-              "valueType": "address"
-            },
-            "to": {
-              "type": "erc721",
-              "index": 0,
-              "key": "to"
-            },
-            "asset": {
-              "type": "erc721",
-              "index": 0
-            },
-            "amount": [
-              {
-                "plus": true,
-                "value": "1"
-              }
-            ],
-            "direction": "out"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "description": "Foundation: Finalize NFT Auction & Sell NFT",
-    "example": "https://etherscan.io/tx/0xbeb0c8f030cd92af5fe11f7962b9165901e883ba3f9f049538f0cf4527ddb465",
-    "value": "zero",
-    "functionSignature": "0x7430e0c6",
-    "functionInterface": "finalizeReserveAuction(uint256)",
-    "logsPatterns": [
-      {
-        "matchType": "exact",
-        "items": [
-          {
-            "name": "Transfer",
             "signature": "0xddf252ad1be2c89b69c2b068fc378daa952ba7f163c4a11628f55a4df523b3ef",
-            "indexedCount": 2
+            "indexedCount": 3,
+            "count": {
+              "type": "between",
+              "min": "1",
+              "max": "1"
+            }
           },
           {
-            "name": "ReserveAuctionFinalized",
-            "signature": "0x2edb0e99c6ac35be6731dab554c1d1fa1b7beb675090dbb09fb14e615aca1c4a",
-            "indexedCount": 3
-          }
-        ]
-      }
-    ],
-    "accounts": [
-      {
-        "type": "log",
-        "signature": "0x2edb0e99c6ac35be6731dab554c1d1fa1b7beb675090dbb09fb14e615aca1c4a",
-        "indexedCount": 3,
-        "index": 0,
-        "argIndex": 1
-      }
-    ],
-    "generators": [
-      {
-        "action": "withdraw",
-        "loanId": [
-          "foundation_",
-          {
-            "type": "log",
             "signature": "0x2edb0e99c6ac35be6731dab554c1d1fa1b7beb675090dbb09fb14e615aca1c4a",
             "indexedCount": 3,
-            "index": 0,
-            "argIndex": 0,
-            "valueType": "bigint"
-          }
-        ],
-        "transfers": [
-          {
-            "type": "custom",
-            "from": {
-              "type": "erc721",
-              "index": 0,
-              "key": "from"
-            },
-            "to": {
-              "type": "log",
-              "signature": "0x2edb0e99c6ac35be6731dab554c1d1fa1b7beb675090dbb09fb14e615aca1c4a",
-              "indexedCount": 3,
-              "index": 0,
-              "argIndex": 1,
-              "valueType": "address"
-            },
-            "asset": {
-              "type": "erc721",
-              "index": 0
-            },
-            "amount": [
-              {
-                "plus": true,
-                "value": "1"
-              }
-            ],
-            "direction": "in"
-          }
-        ]
-      },
-      {
-        "action": "sell-nft",
-        "transfers": [
-          {
-            "type": "internal",
-            "to": {
-              "type": "log",
-              "signature": "0x2edb0e99c6ac35be6731dab554c1d1fa1b7beb675090dbb09fb14e615aca1c4a",
-              "indexedCount": 3,
-              "index": 0,
-              "argIndex": 1,
-              "valueType": "address"
-            },
-            "index": "any",
-            "direction": "in"
-          },
-          {
-            "type": "custom",
-            "from": {
-              "type": "log",
-              "signature": "0x2edb0e99c6ac35be6731dab554c1d1fa1b7beb675090dbb09fb14e615aca1c4a",
-              "indexedCount": 3,
-              "index": 0,
-              "argIndex": 1,
-              "valueType": "address"
-            },
-            "to": {
-              "type": "erc721",
-              "index": 0,
-              "key": "to"
-            },
-            "asset": {
-              "type": "erc721",
-              "index": 0
-            },
-            "amount": [
-              {
-                "plus": true,
-                "value": "1"
-              }
-            ],
-            "direction": "out"
+            "count": {
+              "type": "between",
+              "min": "1",
+              "max": "1"
+            }
           }
         ]
       }
-    ]
-  },
-  {
-    "description": "Foundation: Finalize NFT Auction & Buy NFT",
-    "example": "https://etherscan.io/tx/0xbeb0c8f030cd92af5fe11f7962b9165901e883ba3f9f049538f0cf4527ddb465",
-    "value": "zero",
-    "functionSignature": "0x7430e0c6",
-    "functionInterface": "finalizeReserveAuction(uint256)",
-    "logsPatterns": [
-      {
-        "matchType": "exact",
-        "items": [
-          {
-            "name": "Approval",
-            "signature": "0x8c5be1e5ebec7d5bd14f71427d1e84f3dd0314c0f7b2291e5b200ac8c7c3b925",
-            "indexedCount": 2
-          },
-          {
-            "name": "Transfer",
-            "signature": "0xddf252ad1be2c89b69c2b068fc378daa952ba7f163c4a11628f55a4df523b3ef",
-            "indexedCount": 2
-          },
-          {
-            "name": "ReserveAuctionFinalized",
-            "signature": "0x2edb0e99c6ac35be6731dab554c1d1fa1b7beb675090dbb09fb14e615aca1c4a",
-            "indexedCount": 3
-          }
-        ]
-      }
-    ],
-    "accounts": [
-      {
-        "type": "log",
-        "signature": "0x2edb0e99c6ac35be6731dab554c1d1fa1b7beb675090dbb09fb14e615aca1c4a",
-        "indexedCount": 3,
-        "index": 0,
-        "argIndex": 2
-      }
-    ],
+    },
     "generators": [
       {
-        "action": "withdraw",
-        "loanId": [
-          "foundation_",
-          {
-            "type": "log",
-            "signature": "0x2edb0e99c6ac35be6731dab554c1d1fa1b7beb675090dbb09fb14e615aca1c4a",
-            "indexedCount": 3,
-            "index": 0,
-            "argIndex": 0,
-            "valueType": "bigint"
-          }
-        ],
-        "transfers": [
-          {
-            "type": "custom",
-            "from": {
-              "type": "to"
-            },
-            "to": {
-              "type": "log",
-              "signature": "0x2edb0e99c6ac35be6731dab554c1d1fa1b7beb675090dbb09fb14e615aca1c4a",
-              "indexedCount": 3,
-              "index": 0,
-              "argIndex": 2,
-              "valueType": "address"
-            },
-            "asset": "native",
-            "amount": [
-              {
-                "plus": true,
-                "value": {
-                  "type": "log",
-                  "signature": "0x2edb0e99c6ac35be6731dab554c1d1fa1b7beb675090dbb09fb14e615aca1c4a",
-                  "indexedCount": 3,
-                  "index": 0,
-                  "argIndex": 3,
-                  "valueType": "bigint"
-                }
-              },
-              {
-                "plus": true,
-                "value": {
-                  "type": "log",
-                  "signature": "0x2edb0e99c6ac35be6731dab554c1d1fa1b7beb675090dbb09fb14e615aca1c4a",
-                  "indexedCount": 3,
-                  "index": 0,
-                  "argIndex": 4,
-                  "valueType": "bigint"
-                }
-              }
-            ],
-            "direction": "in"
-          }
-        ]
-      },
-      {
-        "action": "buy-nft",
+        "type": "cross-trade",
+        "crossId": {
+          "type": "join",
+          "values": ["foundation_", { "type": "function", "index": 0 }]
+        },
+        "crossType": "end",
         "transfers": [
           {
             "type": "erc721",
-            "index": 0,
-            "direction": "in"
-          },
-          {
-            "type": "custom",
+            "direction": "in",
             "from": {
-              "type": "log",
-              "signature": "0x2edb0e99c6ac35be6731dab554c1d1fa1b7beb675090dbb09fb14e615aca1c4a",
-              "indexedCount": 3,
-              "index": 0,
-              "argIndex": 2,
-              "valueType": "address"
+              "type": "array-in",
+              "not": true,
+              "values": ["related"]
             },
             "to": {
-              "type": "log",
-              "signature": "0x2edb0e99c6ac35be6731dab554c1d1fa1b7beb675090dbb09fb14e615aca1c4a",
-              "indexedCount": 3,
-              "index": 0,
-              "argIndex": 1,
-              "valueType": "address"
+              "type": "array-in",
+              "values": ["related"]
+            }
+          },
+          {
+            "type": "erc1155",
+            "direction": "in",
+            "from": {
+              "type": "array-in",
+              "not": true,
+              "values": ["related"]
             },
-            "asset": "native",
-            "amount": [
-              {
-                "plus": true,
-                "value": {
-                  "type": "log",
-                  "signature": "0x2edb0e99c6ac35be6731dab554c1d1fa1b7beb675090dbb09fb14e615aca1c4a",
-                  "indexedCount": 3,
-                  "index": 0,
-                  "argIndex": 3,
-                  "valueType": "bigint"
-                }
-              },
-              {
-                "plus": true,
-                "value": {
-                  "type": "log",
-                  "signature": "0x2edb0e99c6ac35be6731dab554c1d1fa1b7beb675090dbb09fb14e615aca1c4a",
-                  "indexedCount": 3,
-                  "index": 0,
-                  "argIndex": 4,
-                  "valueType": "bigint"
-                }
-              }
-            ],
-            "direction": "out"
+            "to": {
+              "type": "array-in",
+              "values": ["related"]
+            },
+            "amount": {
+              "type": "between",
+              "min": "1"
+            }
           }
         ]
       }
     ]
   },
   {
-    "description": "Foundation: Finalize NFT Auction & Buy NFT",
-    "example": "https://etherscan.io/tx/0xbeb0c8f030cd92af5fe11f7962b9165901e883ba3f9f049538f0cf4527ddb465",
-    "value": "zero",
-    "functionSignature": "0x7430e0c6",
-    "functionInterface": "finalizeReserveAuction(uint256)",
-    "logsPatterns": [
-      {
-        "matchType": "exact",
-        "items": [
-          {
-            "name": "Transfer",
-            "signature": "0xddf252ad1be2c89b69c2b068fc378daa952ba7f163c4a11628f55a4df523b3ef",
-            "indexedCount": 2
-          },
-          {
-            "name": "ReserveAuctionFinalized",
-            "signature": "0x2edb0e99c6ac35be6731dab554c1d1fa1b7beb675090dbb09fb14e615aca1c4a",
-            "indexedCount": 3
-          }
-        ]
-      }
-    ],
-    "accounts": [
-      {
-        "type": "log",
-        "signature": "0x2edb0e99c6ac35be6731dab554c1d1fa1b7beb675090dbb09fb14e615aca1c4a",
-        "indexedCount": 3,
-        "index": 0,
-        "argIndex": 2
-      }
-    ],
-    "generators": [
-      {
-        "action": "withdraw",
-        "loanId": [
-          "foundation_",
+    "example": {
+      "chainId": 1,
+      "hash": "0xbeb0c8f030cd92af5fe11f7962b9165901e883ba3f9f049538f0cf4527ddb465",
+      "addresses": ["0x695684881d525b241e4624be6d2dd4b43e857269"]
+    },
+    "condition": {
+      "related": {
+        "type": "array-in",
+        "values": [
           {
             "type": "log",
             "signature": "0x2edb0e99c6ac35be6731dab554c1d1fa1b7beb675090dbb09fb14e615aca1c4a",
             "indexedCount": 3,
             "index": 0,
-            "argIndex": 0,
-            "valueType": "bigint"
-          }
-        ],
-        "transfers": [
-          {
-            "type": "custom",
-            "from": {
-              "type": "to"
-            },
-            "to": {
-              "type": "log",
-              "signature": "0x2edb0e99c6ac35be6731dab554c1d1fa1b7beb675090dbb09fb14e615aca1c4a",
-              "indexedCount": 3,
-              "index": 0,
-              "argIndex": 2,
-              "valueType": "address"
-            },
-            "asset": "native",
-            "amount": [
-              {
-                "plus": true,
-                "value": {
-                  "type": "log",
-                  "signature": "0x2edb0e99c6ac35be6731dab554c1d1fa1b7beb675090dbb09fb14e615aca1c4a",
-                  "indexedCount": 3,
-                  "index": 0,
-                  "argIndex": 3,
-                  "valueType": "bigint"
-                }
-              },
-              {
-                "plus": true,
-                "value": {
-                  "type": "log",
-                  "signature": "0x2edb0e99c6ac35be6731dab554c1d1fa1b7beb675090dbb09fb14e615aca1c4a",
-                  "indexedCount": 3,
-                  "index": 0,
-                  "argIndex": 4,
-                  "valueType": "bigint"
-                }
-              }
-            ],
-            "direction": "in"
+            "value": 1
           }
         ]
       },
-      {
-        "action": "buy-nft",
-        "transfers": [
+      "chainId": [1],
+      "to": {
+        "type": "array-in",
+        "values": ["0xcda72070e455bb31c7690a170224ce43623d0b6f"]
+      },
+      "value": {
+        "type": "between",
+        "max": "0"
+      },
+      "function": {
+        "id": "0x7430e0c6",
+        "interface": "finalizeReserveAuction(uint256)"
+      },
+      "logs": {
+        "type": "some",
+        "patterns": [
           {
-            "type": "erc721",
-            "index": 0,
-            "direction": "in"
+            "signature": "0xddf252ad1be2c89b69c2b068fc378daa952ba7f163c4a11628f55a4df523b3ef",
+            "indexedCount": 3,
+            "count": {
+              "type": "between",
+              "min": "1",
+              "max": "1"
+            }
           },
           {
-            "type": "custom",
+            "signature": "0x2edb0e99c6ac35be6731dab554c1d1fa1b7beb675090dbb09fb14e615aca1c4a",
+            "indexedCount": 3,
+            "count": {
+              "type": "between",
+              "min": "1",
+              "max": "1"
+            }
+          }
+        ]
+      }
+    },
+    "generators": [
+      {
+        "type": "cross-trade",
+        "crossId": {
+          "type": "join",
+          "values": ["foundation_", { "type": "function", "index": 0 }]
+        },
+        "crossType": "end",
+        "transfers": [
+          {
+            "type": "internal",
+            "direction": "in",
             "from": {
-              "type": "log",
-              "signature": "0x2edb0e99c6ac35be6731dab554c1d1fa1b7beb675090dbb09fb14e615aca1c4a",
-              "indexedCount": 3,
-              "index": 0,
-              "argIndex": 2,
-              "valueType": "address"
+              "type": "array-in",
+              "not": true,
+              "values": ["related"]
             },
             "to": {
-              "type": "log",
-              "signature": "0x2edb0e99c6ac35be6731dab554c1d1fa1b7beb675090dbb09fb14e615aca1c4a",
-              "indexedCount": 3,
-              "index": 0,
-              "argIndex": 1,
-              "valueType": "address"
-            },
-            "asset": "native",
-            "amount": [
-              {
-                "plus": true,
-                "value": {
-                  "type": "log",
-                  "signature": "0x2edb0e99c6ac35be6731dab554c1d1fa1b7beb675090dbb09fb14e615aca1c4a",
-                  "indexedCount": 3,
-                  "index": 0,
-                  "argIndex": 3,
-                  "valueType": "bigint"
-                }
-              },
-              {
-                "plus": true,
-                "value": {
-                  "type": "log",
-                  "signature": "0x2edb0e99c6ac35be6731dab554c1d1fa1b7beb675090dbb09fb14e615aca1c4a",
-                  "indexedCount": 3,
-                  "index": 0,
-                  "argIndex": 4,
-                  "valueType": "bigint"
-                }
-              }
-            ],
-            "direction": "out"
+              "type": "array-in",
+              "values": ["related"]
+            }
           }
         ]
       }

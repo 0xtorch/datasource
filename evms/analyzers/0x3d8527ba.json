@@ -1,106 +1,102 @@
 [
   {
-    "description": "Restake ERC20 Token",
-    "example": "https://app.roninchain.com/tx/0x04de5bc64cbf3acd3fb53837b986fc57c32c9970b048e480342d43657b329127",
-    "value": "zero",
-    "functionSignature": "0x3d8527ba",
-    "functionInterface": "restakeRewards()",
-    "logsPatterns": [
-      {
-        "matchType": "exact",
-        "items": [
+    "example": {
+      "chainId": 2020,
+      "hash": "0x4fa326df4fb721f691adf2ee7b96a8663373226d59c623aad3675d857d3c10e6",
+      "addresses": ["0x1d209c1d242222ad25bf3b5855cd4768d10af797"]
+    },
+    "condition": {
+      "related": {
+        "type": "array-in",
+        "values": [
           {
-            "name": "PoolSynced",
+            "type": "from"
+          }
+        ]
+      },
+      "value": {
+        "type": "between",
+        "max": "0"
+      },
+      "function": {
+        "id": "0x3d8527ba"
+      },
+      "logs": {
+        "type": "exact",
+        "patterns": [
+          {
             "signature": "0xd247cac827464dafee8ef292281a2959c39bb57f4cfe99c6e4bde901bfff5781",
             "indexedCount": 0
           },
           {
-            "name": "UserRewardUpdated",
             "signature": "0x027f73145bb86dfcdffa5fae931b3cab5ab93c376099cc84b6d2e4985f10e14b",
             "indexedCount": 0
           },
           {
-            "name": "Transfer",
             "signature": "0xddf252ad1be2c89b69c2b068fc378daa952ba7f163c4a11628f55a4df523b3ef",
             "indexedCount": 2
           },
           {
-            "name": "RewardClaimed",
             "signature": "0x0aa4d283470c904c551d18bb894d37e17674920f3261a7f854be501e25f421b7",
             "indexedCount": 3
           },
           {
-            "name": "Transfer",
             "signature": "0xddf252ad1be2c89b69c2b068fc378daa952ba7f163c4a11628f55a4df523b3ef",
             "indexedCount": 2
           },
           {
-            "name": "Staked",
             "signature": "0x5dac0c1b1112564a045ba943c9d50270893e8e826c49be8e7073adc713ab7bd7",
             "indexedCount": 3
           }
         ]
       }
-    ],
-    "parameterMatchPatterns": [
-      {
-        "description": "from === Transfer[0].to",
-        "base": {
-          "type": "from"
-        },
-        "compare": {
-          "type": "log",
-          "signature": "0xddf252ad1be2c89b69c2b068fc378daa952ba7f163c4a11628f55a4df523b3ef",
-          "indexedCount": 2,
-          "index": 0,
-          "argIndex": 1
-        }
-      },
-      {
-        "description": "from === Transfer[1].from",
-        "base": {
-          "type": "from"
-        },
-        "compare": {
-          "type": "log",
-          "signature": "0xddf252ad1be2c89b69c2b068fc378daa952ba7f163c4a11628f55a4df523b3ef",
-          "indexedCount": 2,
-          "index": 1,
-          "argIndex": 0
-        }
-      }
-    ],
+    },
     "generators": [
       {
-        "action": "income",
+        "type": "staking-reward",
         "transfers": [
           {
             "type": "erc20",
-            "index": 0,
-            "direction": "in"
+            "direction": "in",
+            "from": {
+              "type": "array-in",
+              "not": true,
+              "values": ["related"]
+            },
+            "to": {
+              "type": "array-in",
+              "values": ["related"]
+            },
+            "amount": {
+              "type": "between",
+              "min": "1"
+            }
           }
         ]
       },
       {
-        "action": "deposit",
-        "loanId": [
-          "evm_",
-          { "type": "chainId" },
-          "_",
-          {
-            "type": "log",
-            "signature": "0xddf252ad1be2c89b69c2b068fc378daa952ba7f163c4a11628f55a4df523b3ef",
-            "indexedCount": 2,
-            "index": 1,
-            "argIndex": 1,
-            "valueType": "address"
-          }
-        ],
+        "type": "stake",
+        "loanId": {
+          "type": "join",
+          "values": ["evm_", { "type": "chain-id" }, "_", { "type": "to" }]
+        },
         "transfers": [
           {
             "type": "erc20",
-            "index": 1,
-            "direction": "out"
+            "direction": "out",
+            "from": {
+              "type": "array-in",
+              "values": ["related"]
+            },
+            "to": {
+              "type": "array-in",
+              "not": true,
+              "values": ["related"]
+            },
+            "amount": {
+              "type": "between",
+              "min": "1"
+            }
           }
         ]
       }

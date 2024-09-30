@@ -1,0 +1,73 @@
+{
+  "blockNumber": 20863345,
+  "chainId": 1,
+  "effectiveGasPrice": "10528631092",
+  "erc20Transfers": [],
+  "erc721Transfers": [],
+  "erc1155Transfers": [],
+  "from": {
+    "chainId": 1,
+    "address": "0x1b2a5294a646ccb64d27351e2695ea3f4c7a018b"
+  },
+  "gasUsed": "46304",
+  "hash": "0xd781f5399a11325d817caaac103316676cce0ccef811e5dde580087e14e997d4",
+  "input": "0x095ea7b3000000000000000000000000000000000022d473030f116ddee9f6b43ac78ba3ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff",
+  "internalTransactions": [],
+  "logs": [
+    {
+      "address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+      "data": "0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff",
+      "logIndex": 321,
+      "topics": [
+        "0x8c5be1e5ebec7d5bd14f71427d1e84f3dd0314c0f7b2291e5b200ac8c7c3b925",
+        "0x0000000000000000000000001b2a5294a646ccb64d27351e2695ea3f4c7a018b",
+        "0x000000000000000000000000000000000022d473030f116ddee9f6b43ac78ba3"
+      ],
+      "transactionHash": "0xd781f5399a11325d817caaac103316676cce0ccef811e5dde580087e14e997d4",
+      "eventName": "Approval",
+      "args": [
+        {
+          "indexed": true,
+          "name": "_owner",
+          "type": "address",
+          "value": "0x1B2a5294A646cCb64D27351E2695eA3F4C7a018b"
+        },
+        {
+          "indexed": true,
+          "name": "_spender",
+          "type": "address",
+          "value": "0x000000000022D473030F116dDEE9F6B43aC78BA3"
+        },
+        {
+          "indexed": false,
+          "name": "_value",
+          "type": "uint256",
+          "value": "115792089237316195423570985008687907853269984665640564039457584007913129639935"
+        }
+      ]
+    }
+  ],
+  "status": "success",
+  "timestamp": 1727697803000,
+  "to": {
+    "chainId": 1,
+    "address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+  },
+  "value": "0",
+  "function": {
+    "args": [
+      {
+        "type": "address",
+        "name": "_spender",
+        "value": "0x000000000022D473030F116dDEE9F6B43aC78BA3"
+      },
+      {
+        "type": "uint256",
+        "name": "_value",
+        "value": "115792089237316195423570985008687907853269984665640564039457584007913129639935"
+      }
+    ],
+    "name": "approve",
+    "interface": "approve(address, uint256)"
+  }
+}
