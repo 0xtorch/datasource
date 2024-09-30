@@ -1,5 +1,6 @@
 import { solanaAnalyzersJsonSchema } from '@0xtorch/solana'
 import { API_ENDPOINT, PASSWORD, USERNAME } from './constants'
+import { stringify } from '@0xtorch/core'
 
 const filePathes = (process.env.FILES ?? '')
   .split(',')
@@ -21,7 +22,7 @@ for (const filePath of filePathes) {
       Authorization: `Basic ${btoa(`${USERNAME}:${PASSWORD}`)}`,
       'Content-Type': 'application/json',
     },
-    body: JSON.stringify({
+    body: stringify({
       programId,
       data: solanaAnalyzers,
     }),

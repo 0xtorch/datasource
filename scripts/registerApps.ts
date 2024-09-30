@@ -1,3 +1,4 @@
+import { stringify } from '@0xtorch/core'
 import { API_ENDPOINT, PASSWORD, USERNAME } from './constants'
 import { appSchema, type App } from './schemas'
 
@@ -14,7 +15,7 @@ for (const filePath of filePathes) {
 
 // Register apps data
 if (apps.length > 0) {
-  const body = JSON.stringify(apps)
+  const body = stringify(apps)
   const response = await fetch(`${API_ENDPOINT}/v1/private/app`, {
     method: 'POST',
     headers: {
