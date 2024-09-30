@@ -49,44 +49,44 @@ describe('Should valid evm chain address json', async () => {
 
 const chains = [
   createArbitrumOneChain({
-    explorerApiKey: process.env.ARBITRUM_API_KEY,
+    explorerApiKey: '',
   }),
   createAstarChain(),
   createAvalancheCChain({
-    explorerApiKey: process.env.AVALANCHE_API_KEY,
+    explorerApiKey: '',
   }),
   createBaseChain({
-    explorerApiKey: process.env.BASE_API_KEY,
+    explorerApiKey: '',
   }),
   createBscChain({
-    explorerApiKey: process.env.BSC_API_KEY,
+    explorerApiKey: '',
   }),
   createEthereumChain({
-    explorerApiKey: process.env.ETHEREUM_API_KEY,
+    explorerApiKey: '',
   }),
   createFantomChain({
-    explorerApiKey: process.env.FANTOM_API_KEY,
+    explorerApiKey: '',
   }),
   createLineaChain({
-    explorerApiKey: process.env.LINEA_API_KEY,
+    explorerApiKey: '',
   }),
   createMantaPacificChain(),
   createMantleChain({
-    explorerApiKey: process.env.MANTLE_API_KEY,
+    explorerApiKey: '',
   }),
   createMetisChain(),
   createMoonbeamChain({
-    explorerApiKey: process.env.MOONBEAM_API_KEY,
+    explorerApiKey: '',
   }),
   createMoonriverChain({
-    explorerApiKey: process.env.MOONRIVER_API_KEY,
+    explorerApiKey: '',
   }),
   createOasysChain(),
   createOptimismChain({
-    explorerApiKey: process.env.OPTIMISM_API_KEY,
+    explorerApiKey: '',
   }),
   createPolygonPosChain({
-    explorerApiKey: process.env.POLYGON_API_KEY,
+    explorerApiKey: '',
   }),
   createRoninChain(),
 ]
