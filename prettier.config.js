@@ -1,5 +1,5 @@
 export default {
-  plugins: ['prettier-plugin-organize-imports', 'prettier-plugin-packagejson'],
+  plugins: ['prettier-plugin-packagejson'],
   semi: false,
   endOfLine: 'lf',
   singleQuote: true,

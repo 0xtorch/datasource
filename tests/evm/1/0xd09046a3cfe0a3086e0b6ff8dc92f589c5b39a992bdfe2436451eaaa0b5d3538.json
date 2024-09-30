@@ -1,0 +1,93 @@
+{
+  "blockNumber": 20863179,
+  "chainId": 1,
+  "effectiveGasPrice": "7914150473",
+  "erc20Transfers": [
+    {
+      "address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+      "logIndex": 256,
+      "from": "0xb0bc4b04c22b321717b1e4eada87cb0bd4dde8ec",
+      "to": "0x0000000000000000000000000000000000000000",
+      "value": "165750000000000000",
+      "token": {
+        "address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+        "name": "",
+        "symbol": "",
+        "decimals": 0,
+        "currency": {
+          "type": "CryptoCurrency",
+          "id": "evm_1_0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+          "name": "",
+          "symbol": "",
+          "updatedAt": 0
+        }
+      }
+    }
+  ],
+  "erc721Transfers": [],
+  "erc1155Transfers": [],
+  "from": {
+    "chainId": 1,
+    "address": "0xb0bc4b04c22b321717b1e4eada87cb0bd4dde8ec"
+  },
+  "gasUsed": "30416",
+  "hash": "0xd09046a3cfe0a3086e0b6ff8dc92f589c5b39a992bdfe2436451eaaa0b5d3538",
+  "input": "0x2e1a7d4d000000000000000000000000000000000000000000000000024cdcbf2f856000",
+  "internalTransactions": [
+    {
+      "blockNumber": 20863179,
+      "from": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+      "gas": "2300",
+      "isError": false,
+      "timestamp": 1727695811000,
+      "to": "0xb0bc4b04c22b321717b1e4eada87cb0bd4dde8ec",
+      "txHash": "0xd09046a3cfe0a3086e0b6ff8dc92f589c5b39a992bdfe2436451eaaa0b5d3538",
+      "value": "165750000000000000"
+    }
+  ],
+  "logs": [
+    {
+      "address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+      "data": "0x000000000000000000000000000000000000000000000000024cdcbf2f856000",
+      "logIndex": 256,
+      "topics": [
+        "0x7fcf532c15f0a6db0bd6d0e038bea71d30d808c7d98cb3bf7268a95bf5081b65",
+        "0x000000000000000000000000b0bc4b04c22b321717b1e4eada87cb0bd4dde8ec"
+      ],
+      "transactionHash": "0xd09046a3cfe0a3086e0b6ff8dc92f589c5b39a992bdfe2436451eaaa0b5d3538",
+      "eventName": "Withdrawal",
+      "args": [
+        {
+          "indexed": true,
+          "name": "src",
+          "type": "address",
+          "value": "0xb0bc4b04c22b321717b1e4eada87cb0bd4dde8ec"
+        },
+        {
+          "indexed": false,
+          "name": "wad",
+          "type": "uint256",
+          "value": "165750000000000000"
+        }
+      ]
+    }
+  ],
+  "status": "success",
+  "timestamp": 1727695811000,
+  "to": {
+    "chainId": 1,
+    "address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+  },
+  "value": "0",
+  "function": {
+    "args": [
+      {
+        "type": "uint256",
+        "name": "wad",
+        "value": "165750000000000000"
+      }
+    ],
+    "name": "withdraw",
+    "interface": "withdraw(uint256)"
+  }
+}

@@ -1,0 +1,260 @@
+{
+  "blockNumber": 38619023,
+  "chainId": 2020,
+  "effectiveGasPrice": "20000000000",
+  "erc20Transfers": [
+    {
+      "address": "0x97a9107c1793bc407d6f527b77e7fff4d812bece",
+      "logIndex": 91,
+      "from": "0x8bd81a19420bad681b7bfc20e703ebd8e253782d",
+      "to": "0x1d209c1d242222ad25bf3b5855cd4768d10af797",
+      "value": "559980793491879813",
+      "token": {
+        "address": "0x97a9107c1793bc407d6f527b77e7fff4d812bece",
+        "name": "",
+        "symbol": "",
+        "decimals": 0,
+        "currency": {
+          "type": "CryptoCurrency",
+          "id": "evm_2020_0x97a9107c1793bc407d6f527b77e7fff4d812bece",
+          "name": "",
+          "symbol": "",
+          "updatedAt": 0
+        }
+      }
+    },
+    {
+      "address": "0x97a9107c1793bc407d6f527b77e7fff4d812bece",
+      "logIndex": 93,
+      "from": "0x1d209c1d242222ad25bf3b5855cd4768d10af797",
+      "to": "0x05b0bb3c1c320b280501b86706c3551995bc8571",
+      "value": "559980793491879813",
+      "token": {
+        "address": "0x97a9107c1793bc407d6f527b77e7fff4d812bece",
+        "name": "",
+        "symbol": "",
+        "decimals": 0,
+        "currency": {
+          "type": "CryptoCurrency",
+          "id": "evm_2020_0x97a9107c1793bc407d6f527b77e7fff4d812bece",
+          "name": "",
+          "symbol": "",
+          "updatedAt": 0
+        }
+      }
+    }
+  ],
+  "erc721Transfers": [],
+  "erc1155Transfers": [],
+  "from": {
+    "chainId": 2020,
+    "address": "0x1d209c1d242222ad25bf3b5855cd4768d10af797"
+  },
+  "gasUsed": "164810",
+  "hash": "0x4fa326df4fb721f691adf2ee7b96a8663373226d59c623aad3675d857d3c10e6",
+  "input": "0x3d8527ba",
+  "internalTransactions": [],
+  "logs": [
+    {
+      "address": "0x8bd81a19420bad681b7bfc20e703ebd8e253782d",
+      "data": "0x00000000000000000000000005b0bb3c1c320b280501b86706c3551995bc8571000000000000000000000000000000000000000000000000167a1a94ddf4170500000000000000000000000000000000000000000000000000000000024d478f",
+      "logIndex": 89,
+      "topics": [
+        "0xd247cac827464dafee8ef292281a2959c39bb57f4cfe99c6e4bde901bfff5781"
+      ],
+      "transactionHash": "0x4fa326df4fb721f691adf2ee7b96a8663373226d59c623aad3675d857d3c10e6",
+      "eventName": "PoolSynced",
+      "args": [
+        {
+          "indexed": false,
+          "name": "_pool",
+          "type": "address",
+          "value": "0x05B0BB3c1c320b280501B86706C3551995BC8571"
+        },
+        {
+          "indexed": false,
+          "name": "_accumulatedPerShare",
+          "type": "uint256",
+          "value": "1619636242674358021"
+        },
+        {
+          "indexed": false,
+          "name": "_lastSyncedBlock",
+          "type": "uint256",
+          "value": "38619023"
+        }
+      ]
+    },
+    {
+      "address": "0x8bd81a19420bad681b7bfc20e703ebd8e253782d",
+      "data": "0x00000000000000000000000005b0bb3c1c320b280501b86706c3551995bc85710000000000000000000000001d209c1d242222ad25bf3b5855cd4768d10af79700000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000059bbc3723d1b780ce0000000000000000000000000000000000000000000000000000000066fa8f7e",
+      "logIndex": 90,
+      "topics": [
+        "0x027f73145bb86dfcdffa5fae931b3cab5ab93c376099cc84b6d2e4985f10e14b"
+      ],
+      "transactionHash": "0x4fa326df4fb721f691adf2ee7b96a8663373226d59c623aad3675d857d3c10e6",
+      "eventName": "UserRewardUpdated",
+      "args": [
+        {
+          "indexed": false,
+          "name": "_pool",
+          "type": "address",
+          "value": "0x05B0BB3c1c320b280501B86706C3551995BC8571"
+        },
+        {
+          "indexed": false,
+          "name": "_user",
+          "type": "address",
+          "value": "0x1D209C1d242222AD25BF3B5855Cd4768d10af797"
+        },
+        {
+          "indexed": false,
+          "name": "_rewardInfo",
+          "type": "tuple",
+          "value": {
+            "debitedRewards": "0",
+            "lastUpdatedBlock": "103455625367030038734",
+            "lastClaimedTimestamp": "1727696766"
+          }
+        }
+      ]
+    },
+    {
+      "address": "0x97a9107c1793bc407d6f527b77e7fff4d812bece",
+      "data": "0x00000000000000000000000000000000000000000000000007c57390951ff785",
+      "logIndex": 91,
+      "topics": [
+        "0xddf252ad1be2c89b69c2b068fc378daa952ba7f163c4a11628f55a4df523b3ef",
+        "0x0000000000000000000000008bd81a19420bad681b7bfc20e703ebd8e253782d",
+        "0x0000000000000000000000001d209c1d242222ad25bf3b5855cd4768d10af797"
+      ],
+      "transactionHash": "0x4fa326df4fb721f691adf2ee7b96a8663373226d59c623aad3675d857d3c10e6",
+      "eventName": "Transfer",
+      "args": [
+        {
+          "indexed": true,
+          "name": "from",
+          "type": "address",
+          "value": "0x8bd81a19420bad681b7bfc20e703ebd8e253782d"
+        },
+        {
+          "indexed": true,
+          "name": "to",
+          "type": "address",
+          "value": "0x1d209c1d242222ad25bf3b5855cd4768d10af797"
+        },
+        {
+          "indexed": false,
+          "name": "value",
+          "type": "uint256",
+          "value": "559980793491879813"
+        }
+      ]
+    },
+    {
+      "address": "0x05b0bb3c1c320b280501b86706c3551995bc8571",
+      "data": "0x",
+      "logIndex": 92,
+      "topics": [
+        "0x0aa4d283470c904c551d18bb894d37e17674920f3261a7f854be501e25f421b7",
+        "0x0000000000000000000000001d209c1d242222ad25bf3b5855cd4768d10af797",
+        "0x00000000000000000000000097a9107c1793bc407d6f527b77e7fff4d812bece",
+        "0x00000000000000000000000000000000000000000000000007c57390951ff785"
+      ],
+      "transactionHash": "0x4fa326df4fb721f691adf2ee7b96a8663373226d59c623aad3675d857d3c10e6",
+      "eventName": "RewardClaimed",
+      "args": [
+        {
+          "indexed": true,
+          "name": "_user",
+          "type": "address",
+          "value": "0x1D209C1d242222AD25BF3B5855Cd4768d10af797"
+        },
+        {
+          "indexed": true,
+          "name": "_token",
+          "type": "address",
+          "value": "0x97a9107C1793BC407d6F527b77e7fff4D812bece"
+        },
+        {
+          "indexed": true,
+          "name": "_tokenId",
+          "type": "uint256",
+          "value": "559980793491879813"
+        }
+      ]
+    },
+    {
+      "address": "0x97a9107c1793bc407d6f527b77e7fff4d812bece",
+      "data": "0x00000000000000000000000000000000000000000000000007c57390951ff785",
+      "logIndex": 93,
+      "topics": [
+        "0xddf252ad1be2c89b69c2b068fc378daa952ba7f163c4a11628f55a4df523b3ef",
+        "0x0000000000000000000000001d209c1d242222ad25bf3b5855cd4768d10af797",
+        "0x00000000000000000000000005b0bb3c1c320b280501b86706c3551995bc8571"
+      ],
+      "transactionHash": "0x4fa326df4fb721f691adf2ee7b96a8663373226d59c623aad3675d857d3c10e6",
+      "eventName": "Transfer",
+      "args": [
+        {
+          "indexed": true,
+          "name": "from",
+          "type": "address",
+          "value": "0x1d209c1d242222ad25bf3b5855cd4768d10af797"
+        },
+        {
+          "indexed": true,
+          "name": "to",
+          "type": "address",
+          "value": "0x05b0bb3c1c320b280501b86706c3551995bc8571"
+        },
+        {
+          "indexed": false,
+          "name": "value",
+          "type": "uint256",
+          "value": "559980793491879813"
+        }
+      ]
+    },
+    {
+      "address": "0x05b0bb3c1c320b280501b86706c3551995bc8571",
+      "data": "0x",
+      "logIndex": 94,
+      "topics": [
+        "0x5dac0c1b1112564a045ba943c9d50270893e8e826c49be8e7073adc713ab7bd7",
+        "0x0000000000000000000000001d209c1d242222ad25bf3b5855cd4768d10af797",
+        "0x00000000000000000000000097a9107c1793bc407d6f527b77e7fff4d812bece",
+        "0x00000000000000000000000000000000000000000000000007c57390951ff785"
+      ],
+      "transactionHash": "0x4fa326df4fb721f691adf2ee7b96a8663373226d59c623aad3675d857d3c10e6",
+      "eventName": "Staked",
+      "args": [
+        {
+          "indexed": true,
+          "name": "_user",
+          "type": "address",
+          "value": "0x1D209C1d242222AD25BF3B5855Cd4768d10af797"
+        },
+        {
+          "indexed": true,
+          "name": "_token",
+          "type": "address",
+          "value": "0x97a9107C1793BC407d6F527b77e7fff4D812bece"
+        },
+        {
+          "indexed": true,
+          "name": "_tokenId",
+          "type": "uint256",
+          "value": "559980793491879813"
+        }
+      ]
+    }
+  ],
+  "status": "success",
+  "timestamp": 1727696766000,
+  "to": {
+    "chainId": 2020,
+    "address": "0x05b0bb3c1c320b280501b86706c3551995bc8571"
+  },
+  "value": "0"
+}
