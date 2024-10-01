@@ -1,0 +1,64 @@
+[
+  {
+    "example": {
+      "chainId": 1,
+      "hash": "0x2a1376c12cdddcfafb60fe9d018aa7367c394759e94b4e643657f3301a2aaa4c",
+      "addresses": ["0x695684881d525b241e4624be6d2dd4b43e857269"]
+    },
+    "condition": {
+      "related": {
+        "type": "array-in",
+        "values": [
+          {
+            "type": "from"
+          }
+        ]
+      },
+      "value": {
+        "type": "between",
+        "max": "0"
+      },
+      "function": {
+        "id": "0x6933e79a",
+        "interface": "mintAndApprove(string, address)"
+      },
+      "logs": {
+        "type": "exact",
+        "patterns": [
+          {
+            "signature": "0xddf252ad1be2c89b69c2b068fc378daa952ba7f163c4a11628f55a4df523b3ef",
+            "indexedCount": 3
+          },
+          {
+            "signature": "0xe2406cfd356cfbe4e42d452bde96d27f48c423e5f02b5d78695893308399519d",
+            "indexedCount": 3
+          },
+          {
+            "signature": "0x17307eab39ab6107e8899845ad3d59bd9653f200f220920489ca2b5937696c31",
+            "indexedCount": 2
+          }
+        ]
+      }
+    },
+    "generators": [
+      {
+        "type": "free-mint",
+        "transfers": [
+          {
+            "type": "erc721",
+            "direction": "in",
+            "from": {
+              "type": "array-in",
+              "not": true,
+              "values": ["related"]
+            },
+            "to": {
+              "type": "array-in",
+              "values": ["related"]
+            }
+          }
+        ]
+      }
+    ]
+  }
+]
