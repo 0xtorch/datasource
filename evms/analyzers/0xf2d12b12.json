@@ -1,0 +1,102 @@
+[
+  {
+    "example": {
+      "chainId": 1,
+      "hash": "0xb8b6734708553fbe9dff9f285ebcc4ee9d63a9d9c346e15c5c931e5c7ec6f2ac",
+      "addresses": ["0x695684881d525b241e4624be6d2dd4b43e857269"]
+    },
+    "condition": {
+      "related": {
+        "type": "array-in",
+        "not": true,
+        "values": [
+          { "type": "from" },
+          { "type": "erc1155", "index": 0, "value": "from" },
+          { "type": "erc1155", "index": 0, "value": "to" }
+        ]
+      },
+      "value": {
+        "type": "between",
+        "max": "0"
+      },
+      "function": {
+        "id": "0xf2d12b12",
+        "interface": "matchAdvancedOrders(tuple[], tuple[], tuple[], address)"
+      },
+      "logs": {
+        "type": "exact",
+        "patterns": [
+          {
+            "signature": "0x9d9af8e38d66c62e2c12f0225249fd9d721c54b83f48d9352c97c6cacdcb6f31",
+            "indexedCount": 2
+          },
+          {
+            "signature": "0x9d9af8e38d66c62e2c12f0225249fd9d721c54b83f48d9352c97c6cacdcb6f31",
+            "indexedCount": 2
+          },
+          {
+            "signature": "0x4b9f2d36e1b4c93de62cc077b00b1a91d84b6c31b4a14e012718dcca230689e7",
+            "indexedCount": 0
+          },
+          {
+            "signature": "0xc3d58168c5ae7397731d063d5bbf3d657854427343f4c083240f7aacaa2d0f62",
+            "indexedCount": 3
+          },
+          {
+            "signature": "0xddf252ad1be2c89b69c2b068fc378daa952ba7f163c4a11628f55a4df523b3ef",
+            "indexedCount": 2
+          },
+          {
+            "signature": "0xddf252ad1be2c89b69c2b068fc378daa952ba7f163c4a11628f55a4df523b3ef",
+            "indexedCount": 2
+          },
+          {
+            "signature": "0xddf252ad1be2c89b69c2b068fc378daa952ba7f163c4a11628f55a4df523b3ef",
+            "indexedCount": 2
+          }
+        ]
+      }
+    },
+    "generators": [
+      {
+        "type": "nft-royalty",
+        "transfers": [
+          {
+            "type": "internal",
+            "direction": "in",
+            "from": {
+              "type": "array-in",
+              "not": true,
+              "values": ["related"]
+            },
+            "to": {
+              "type": "array-in",
+              "values": ["related"]
+            },
+            "value": {
+              "type": "between",
+              "min": "1"
+            }
+          },
+          {
+            "type": "erc20",
+            "direction": "in",
+            "from": {
+              "type": "array-in",
+              "not": true,
+              "values": ["related"]
+            },
+            "to": {
+              "type": "array-in",
+              "values": ["related"]
+            },
+            "amount": {
+              "type": "between",
+              "min": "1"
+            }
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,158 @@
+{
+  "blockNumber": 20849831,
+  "chainId": 1,
+  "effectiveGasPrice": "8345373138",
+  "erc20Transfers": [],
+  "erc721Transfers": [
+    {
+      "address": "0x089cf7445fad52da1736180571a8c3e7769fc64f",
+      "logIndex": 310,
+      "from": "0x0000000000000000000000000000000000000000",
+      "to": "0x695684881d525b241e4624be6d2dd4b43e857269",
+      "tokenId": "19",
+      "token": {
+        "type": "Nft",
+        "id": "evm_721_1_0x089cf7445fad52da1736180571a8c3e7769fc64f_19",
+        "updatedAt": 0
+      }
+    }
+  ],
+  "erc1155Transfers": [],
+  "from": {
+    "chainId": 1,
+    "address": "0x695684881d525b241e4624be6d2dd4b43e857269"
+  },
+  "gasUsed": "163573",
+  "hash": "0x2a1376c12cdddcfafb60fe9d018aa7367c394759e94b4e643657f3301a2aaa4c",
+  "input": "0x6933e79a0000000000000000000000000000000000000000000000000000000000000040000000000000000000000000cda72070e455bb31c7690a170224ce43623d0b6f000000000000000000000000000000000000000000000000000000000000003c516d656362574665644461644e58557767757864666e7077365948436147653956616431564b36374d3156784a4d2f6d657461646174612e6a736f6e00000000",
+  "internalTransactions": [],
+  "logs": [
+    {
+      "address": "0x089cf7445fad52da1736180571a8c3e7769fc64f",
+      "data": "0x",
+      "logIndex": 310,
+      "topics": [
+        "0xddf252ad1be2c89b69c2b068fc378daa952ba7f163c4a11628f55a4df523b3ef",
+        "0x0000000000000000000000000000000000000000000000000000000000000000",
+        "0x000000000000000000000000695684881d525b241e4624be6d2dd4b43e857269",
+        "0x0000000000000000000000000000000000000000000000000000000000000013"
+      ],
+      "transactionHash": "0x2a1376c12cdddcfafb60fe9d018aa7367c394759e94b4e643657f3301a2aaa4c",
+      "eventName": "Transfer",
+      "args": [
+        {
+          "indexed": true,
+          "name": "from",
+          "type": "address",
+          "value": "0x0000000000000000000000000000000000000000"
+        },
+        {
+          "indexed": true,
+          "name": "to",
+          "type": "address",
+          "value": "0x695684881d525b241e4624be6d2dd4b43e857269"
+        },
+        {
+          "indexed": true,
+          "name": "tokenId",
+          "type": "uint256",
+          "value": "19"
+        }
+      ]
+    },
+    {
+      "address": "0x089cf7445fad52da1736180571a8c3e7769fc64f",
+      "data": "0x0000000000000000000000000000000000000000000000000000000000000020000000000000000000000000000000000000000000000000000000000000003c516d656362574665644461644e58557767757864666e7077365948436147653956616431564b36374d3156784a4d2f6d657461646174612e6a736f6e00000000",
+      "logIndex": 311,
+      "topics": [
+        "0xe2406cfd356cfbe4e42d452bde96d27f48c423e5f02b5d78695893308399519d",
+        "0x000000000000000000000000695684881d525b241e4624be6d2dd4b43e857269",
+        "0x0000000000000000000000000000000000000000000000000000000000000013",
+        "0x26ada7ec74d8185a0af6d07ec5a641bd54211023a25f672d3e88a092d50c9414"
+      ],
+      "transactionHash": "0x2a1376c12cdddcfafb60fe9d018aa7367c394759e94b4e643657f3301a2aaa4c",
+      "eventName": "Minted",
+      "args": [
+        {
+          "indexed": true,
+          "name": "creator",
+          "type": "address",
+          "value": "0x695684881d525b241e4624BE6D2Dd4b43e857269"
+        },
+        {
+          "indexed": true,
+          "name": "tokenId",
+          "type": "uint256",
+          "value": "19"
+        },
+        {
+          "indexed": true,
+          "name": "indexedTokenCID",
+          "type": "string",
+          "value": "0x26ada7ec74d8185a0af6d07ec5a641bd54211023a25f672d3e88a092d50c9414"
+        },
+        {
+          "indexed": false,
+          "name": "tokenCID",
+          "type": "string",
+          "value": "QmecbWFedDadNXUwguxdfnpw6YHCaGe9Vad1VK67M1VxJM/metadata.json"
+        }
+      ]
+    },
+    {
+      "address": "0x089cf7445fad52da1736180571a8c3e7769fc64f",
+      "data": "0x0000000000000000000000000000000000000000000000000000000000000001",
+      "logIndex": 312,
+      "topics": [
+        "0x17307eab39ab6107e8899845ad3d59bd9653f200f220920489ca2b5937696c31",
+        "0x000000000000000000000000695684881d525b241e4624be6d2dd4b43e857269",
+        "0x000000000000000000000000cda72070e455bb31c7690a170224ce43623d0b6f"
+      ],
+      "transactionHash": "0x2a1376c12cdddcfafb60fe9d018aa7367c394759e94b4e643657f3301a2aaa4c",
+      "eventName": "ApprovalForAll",
+      "args": [
+        {
+          "indexed": true,
+          "name": "account",
+          "type": "address",
+          "value": "0x695684881d525b241e4624BE6D2Dd4b43e857269"
+        },
+        {
+          "indexed": true,
+          "name": "operator",
+          "type": "address",
+          "value": "0xcDA72070E455bb31C7690a170224Ce43623d0B6f"
+        },
+        {
+          "indexed": false,
+          "name": "approved",
+          "type": "bool",
+          "value": true
+        }
+      ]
+    }
+  ],
+  "status": "success",
+  "timestamp": 1727534903000,
+  "to": {
+    "chainId": 1,
+    "address": "0x089cf7445fad52da1736180571a8c3e7769fc64f"
+  },
+  "value": "0",
+  "function": {
+    "args": [
+      {
+        "type": "string",
+        "name": "tokenCID",
+        "value": "QmecbWFedDadNXUwguxdfnpw6YHCaGe9Vad1VK67M1VxJM/metadata.json"
+      },
+      {
+        "type": "address",
+        "name": "operator",
+        "value": "0xcDA72070E455bb31C7690a170224Ce43623d0B6f"
+      }
+    ],
+    "name": "mintAndApprove",
+    "interface": "mintAndApprove(string, address)"
+  }
+}
