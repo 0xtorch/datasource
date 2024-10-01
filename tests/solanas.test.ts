@@ -1,6 +1,6 @@
-import { solanaAnalyzersJsonSchema } from '@0xtorch/solana'
 import { describe, expect, test } from 'bun:test'
 import { readdir } from 'node:fs/promises'
+import { solanaAnalyzersJsonSchema } from '@0xtorch/solana'
 
 describe('Should valid solana analyzers json', async () => {
   const filenames = await readdir('./solanas/analyzers')

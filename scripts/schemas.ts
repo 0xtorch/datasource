@@ -23,5 +23,6 @@ export const appSchema = z.object({
 
 export type App = z.infer<typeof appSchema>
 
-export const evmAddressWithoutChainIdSchema = evmAddressSchema
-  .omit({ chainId: true })
+export const evmAddressWithoutChainIdSchema = evmAddressSchema.omit({
+  chainId: true,
+})

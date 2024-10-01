@@ -1,6 +1,6 @@
-import { csvFormatSchema } from '@0xtorch/csv'
 import { describe, expect, test } from 'bun:test'
 import { readdir } from 'node:fs/promises'
+import { csvFormatSchema } from '@0xtorch/csv'
 
 describe('Should valid csv format json', async () => {
   const filenames = await readdir('./csvs')

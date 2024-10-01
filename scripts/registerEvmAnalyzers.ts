@@ -1,7 +1,7 @@
+import { stringify } from '@0xtorch/core'
+import { analyzerSchema } from '@0xtorch/evm'
 import { z } from 'zod'
 import { API_ENDPOINT, PASSWORD, USERNAME } from './constants'
-import { analyzerSchema } from '@0xtorch/evm'
-import { stringify } from '@0xtorch/core'
 
 const filePathes = (process.env.FILES ?? '')
   .split(',')

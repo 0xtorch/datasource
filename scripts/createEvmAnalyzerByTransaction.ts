@@ -1,5 +1,12 @@
-import { actionTypes, stringify, type ActionType } from '@0xtorch/core'
+import { type ActionType, actionTypes, stringify } from '@0xtorch/core'
 import {
+  type Erc20Token,
+  type EvmAddress,
+  type InternalTransaction,
+  type JsonAnalyzer,
+  type LowerHex,
+  type TransactionDecoded,
+  type TransactionDetail,
   analyzerSchema,
   createArbitrumOneChain,
   createAstarChain,
@@ -22,13 +29,6 @@ import {
   getTransactionDetail,
   isHex,
   toLowerHex,
-  type Erc20Token,
-  type EvmAddress,
-  type InternalTransaction,
-  type JsonAnalyzer,
-  type LowerHex,
-  type TransactionDecoded,
-  type TransactionDetail,
 } from '@0xtorch/evm'
 import { z } from 'zod'
 

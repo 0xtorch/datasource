@@ -1,6 +1,6 @@
+import { stringify } from '@0xtorch/core'
 import { solanaAnalyzersJsonSchema } from '@0xtorch/solana'
 import { API_ENDPOINT, PASSWORD, USERNAME } from './constants'
-import { stringify } from '@0xtorch/core'
 
 const filePathes = (process.env.FILES ?? '')
   .split(',')

@@ -1,6 +1,6 @@
 import { stringify } from '@0xtorch/core'
 import { API_ENDPOINT, PASSWORD, USERNAME } from './constants'
-import { appSchema, type App } from './schemas'
+import { type App, appSchema } from './schemas'
 
 const filePathes = (process.env.FILES ?? '')
   .split(',')

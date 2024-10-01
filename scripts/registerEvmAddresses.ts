@@ -1,7 +1,7 @@
+import { stringify } from '@0xtorch/core'
 import type { EvmAddress } from '@0xtorch/evm'
 import { API_ENDPOINT, PASSWORD, USERNAME } from './constants'
 import { evmAddressWithoutChainIdSchema } from './schemas'
-import { stringify } from '@0xtorch/core'
 
 const filePathes = (process.env.FILES ?? '')
   .split(',')
