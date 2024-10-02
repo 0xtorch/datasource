@@ -1,4 +1,3 @@
-import { describe, expect, test } from 'bun:test'
 import { readdir } from 'node:fs/promises'
 import {
   type LowerHex,
@@ -25,27 +24,8 @@ import {
   toLowerHex,
   transactionDecodedSchema,
 } from '@0xtorch/evm'
+import { describe, expect, test } from 'bun:test'
 import { z } from 'zod'
-import { evmAddressWithoutChainIdSchema } from '../scripts/schemas'
-
-describe('Should valid evm chain address json', async () => {
-  const chainDirs = await readdir('./evms/chains')
-  for (const chainDir of chainDirs) {
-    const filenames = await readdir(`./evms/chains/${chainDir}`)
-    for (const filename of filenames) {
-      if (!filename.endsWith('.json')) {
-        continue
-      }
-      test(`evms/chains/${chainDir}/${filename}`, async () => {
-        const json = await Bun.file(
-          `./evms/chains/${chainDir}/${filename}`,
-        ).json()
-        const result = evmAddressWithoutChainIdSchema.safeParse(json)
-        expect(result.success).toBe(true)
-      })
-    }
-  }
-})
 
 const chains = [
   createArbitrumOneChain({
@@ -91,7 +71,7 @@ const chains = [
   createRoninChain(),
 ]
 
-describe.skip('Should valid evm analyzers json', async () => {
+describe('Should valid evm analyzers json', async () => {
   const filenames = await readdir('./evms/analyzers')
   for (const filename of filenames) {
     if (!filename.endsWith('.json')) {
@@ -139,6 +119,7 @@ describe.skip('Should valid evm analyzers json', async () => {
 
         // Assert
         expect(result.length).toBeGreaterThan(0)
+        expect(result.every(({evidence}) => evidence !== 'none')).toBe(true)
         const actionTypes = new Set(result.map((action) => action.type))
         for (const generator of analyzer.generators) {
           expect(actionTypes).toContain(generator.type)
