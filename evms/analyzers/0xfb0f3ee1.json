@@ -2,32 +2,32 @@
   {
     "example": {
       "chainId": 1,
-      "hash": "0x9e79a4ecee67ec9f67d9a85bc70b9c82b932b7439d9d13646402167426e7226c",
+      "hash": "0x1700ec09301adb23d1704f15869381cf53739d74c9ebc69ba8aa14012aa600a1",
       "addresses": ["0x695684881d525b241e4624be6d2dd4b43e857269"]
     },
     "condition": {
+      "related": {
+        "type": "array-in",
+        "not": true,
+        "values": [
+          {
+            "type": "from"
+          }
+        ]
+      },
       "function": {
-        "id": "0xd782d491",
-        "interface": "mintFromFixedPriceSaleWithEarlyAccessAllowlist(address, uint256, address, bytes32[])"
+        "id": "0xfb0f3ee1",
+        "interface": "fulfillBasicOrder(tuple)"
       },
       "logs": {
         "type": "some",
         "patterns": [
           {
-            "signature": "0xddf252ad1be2c89b69c2b068fc378daa952ba7f163c4a11628f55a4df523b3ef",
-            "indexedCount": 3,
+            "signature": "0x9d9af8e38d66c62e2c12f0225249fd9d721c54b83f48d9352c97c6cacdcb6f31",
+            "indexedCount": 2,
             "count": {
               "type": "between",
               "min": "1"
-            }
-          },
-          {
-            "signature": "0x05ebbb6b0ce7d564230ba625dd7a0e5108786b0852d6060de6099e1778203e34",
-            "indexedCount": 3,
-            "count": {
-              "type": "between",
-              "min": "1",
-              "max": "1"
             }
           }
         ]
@@ -35,7 +35,7 @@
     },
     "generators": [
       {
-        "type": "income",
+        "type": "nft-royalty",
         "transfers": [
           {
             "type": "internal",
@@ -53,77 +53,6 @@
               "type": "between",
               "min": "1"
             }
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "example": {
-      "chainId": 1,
-      "hash": "0x9e79a4ecee67ec9f67d9a85bc70b9c82b932b7439d9d13646402167426e7226c",
-      "addresses": ["0xf9898a8913b44e23fa21ea131983fd4a79efd41a"]
-    },
-    "condition": {
-      "related": {
-        "type": "array-in",
-        "values": [
-          {
-            "type": "from"
-          }
-        ]
-      },
-      "value": {
-        "type": "between",
-        "min": "1"
-      },
-      "function": {
-        "id": "0xd782d491",
-        "interface": "mintFromFixedPriceSaleWithEarlyAccessAllowlist(address, uint256, address, bytes32[])"
-      },
-      "logs": {
-        "type": "some",
-        "patterns": [
-          {
-            "signature": "0xddf252ad1be2c89b69c2b068fc378daa952ba7f163c4a11628f55a4df523b3ef",
-            "indexedCount": 3,
-            "count": {
-              "type": "between",
-              "min": "1"
-            }
-          },
-          {
-            "signature": "0x05ebbb6b0ce7d564230ba625dd7a0e5108786b0852d6060de6099e1778203e34",
-            "indexedCount": 3,
-            "count": {
-              "type": "between",
-              "min": "1",
-              "max": "1"
-            }
-          }
-        ]
-      }
-    },
-    "generators": [
-      {
-        "type": "mint-nft",
-        "transfers": [
-          {
-            "type": "value",
-            "direction": "out",
-            "from": {
-              "type": "array-in",
-              "values": ["related"]
-            },
-            "to": {
-              "type": "array-in",
-              "not": true,
-              "values": ["related"]
-            },
-            "value": {
-              "type": "between",
-              "min": "1"
-            }
           },
           {
             "from": {
@@ -135,7 +64,11 @@
               "type": "array-in",
               "values": ["related"]
             },
-            "type": "erc721",
+            "amount": {
+              "type": "between",
+              "min": "1"
+            },
+            "type": "erc20",
             "direction": "in"
           }
         ]
@@ -145,44 +78,23 @@
   {
     "example": {
       "chainId": 1,
-      "hash": "0x5cbc0ed211157d21e459d4ba30e6529282f28e149a008ccf0c99ece1ae9b845c",
-      "addresses": ["0x695684881d525b241e4624be6d2dd4b43e857269"]
+      "hash": "0x1700ec09301adb23d1704f15869381cf53739d74c9ebc69ba8aa14012aa600a1",
+      "addresses": ["0xcb1ec5d5c66cac9f457d3e299352560f96df8135"]
     },
     "condition": {
-      "related": {
-        "type": "array-in",
-        "values": [
-          {
-            "type": "from"
-          }
-        ]
-      },
-      "value": {
-        "type": "between",
-        "min": "1"
-      },
       "function": {
-        "id": "0xd782d491",
-        "interface": "mintFromFixedPriceSaleWithEarlyAccessAllowlist(address, uint256, address, bytes32[])"
+        "id": "0xfb0f3ee1",
+        "interface": "fulfillBasicOrder(tuple)"
       },
       "logs": {
         "type": "some",
         "patterns": [
           {
-            "signature": "0xddf252ad1be2c89b69c2b068fc378daa952ba7f163c4a11628f55a4df523b3ef",
-            "indexedCount": 3,
+            "signature": "0x9d9af8e38d66c62e2c12f0225249fd9d721c54b83f48d9352c97c6cacdcb6f31",
+            "indexedCount": 2,
             "count": {
               "type": "between",
               "min": "1"
-            }
-          },
-          {
-            "signature": "0x05ebbb6b0ce7d564230ba625dd7a0e5108786b0852d6060de6099e1778203e34",
-            "indexedCount": 3,
-            "count": {
-              "type": "between",
-              "min": "1",
-              "max": "1"
             }
           }
         ]
@@ -190,7 +102,7 @@
     },
     "generators": [
       {
-        "type": "mint-nft",
+        "type": "buy-nft",
         "transfers": [
           {
             "type": "value",
@@ -210,6 +122,23 @@
             }
           },
           {
+            "type": "erc20",
+            "direction": "out",
+            "from": {
+              "type": "array-in",
+              "values": ["related"]
+            },
+            "to": {
+              "type": "array-in",
+              "not": true,
+              "values": ["related"]
+            },
+            "amount": {
+              "type": "between",
+              "min": "1"
+            }
+          },
+          {
             "type": "erc721",
             "direction": "in",
             "from": {
@@ -221,11 +150,56 @@
               "type": "array-in",
               "values": ["related"]
             }
+          },
+          {
+            "type": "erc1155",
+            "direction": "in",
+            "from": {
+              "type": "array-in",
+              "not": true,
+              "values": ["related"]
+            },
+            "to": {
+              "type": "array-in",
+              "values": ["related"]
+            },
+            "amount": {
+              "type": "between",
+              "min": "1"
+            }
           }
         ]
+      }
+    ]
+  },
+  {
+    "example": {
+      "chainId": 1,
+      "hash": "0x1700ec09301adb23d1704f15869381cf53739d74c9ebc69ba8aa14012aa600a1",
+      "addresses": ["0x7162cc101e92722b96f01d242542142d3aff4f1c"]
+    },
+    "condition": {
+      "function": {
+        "id": "0xfb0f3ee1",
+        "interface": "fulfillBasicOrder(tuple)"
       },
+      "logs": {
+        "type": "some",
+        "patterns": [
+          {
+            "signature": "0x9d9af8e38d66c62e2c12f0225249fd9d721c54b83f48d9352c97c6cacdcb6f31",
+            "indexedCount": 2,
+            "count": {
+              "type": "between",
+              "min": "1"
+            }
+          }
+        ]
+      }
+    },
+    "generators": [
       {
-        "type": "income",
+        "type": "sell-nft",
         "transfers": [
           {
             "type": "internal",
@@ -240,6 +214,53 @@
               "values": ["related"]
             },
             "value": {
+              "type": "between",
+              "min": "1"
+            }
+          },
+          {
+            "type": "erc20",
+            "direction": "in",
+            "from": {
+              "type": "array-in",
+              "not": true,
+              "values": ["related"]
+            },
+            "to": {
+              "type": "array-in",
+              "values": ["related"]
+            },
+            "amount": {
+              "type": "between",
+              "min": "1"
+            }
+          },
+          {
+            "type": "erc721",
+            "direction": "out",
+            "from": {
+              "type": "array-in",
+              "values": ["related"]
+            },
+            "to": {
+              "type": "array-in",
+              "not": true,
+              "values": ["related"]
+            }
+          },
+          {
+            "type": "erc1155",
+            "direction": "out",
+            "from": {
+              "type": "array-in",
+              "values": ["related"]
+            },
+            "to": {
+              "type": "array-in",
+              "not": true,
+              "values": ["related"]
+            },
+            "amount": {
               "type": "between",
               "min": "1"
             }

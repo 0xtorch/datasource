@@ -2,7 +2,7 @@
   {
     "example": {
       "chainId": 1,
-      "hash": "0x799df9745e2f0e4927f263ab2485da541ea8fbde8d4873f12f3ec59e348d793b",
+      "hash": "0xe8a73a5f724d28c42825f85e0992fef0c307ecb9b343bddf6088db7999ae927e",
       "addresses": ["0x695684881d525b241e4624be6d2dd4b43e857269"]
     },
     "condition": {
@@ -19,19 +19,19 @@
         "min": "1"
       },
       "function": {
-        "id": "0xb4c5faa1",
-        "interface": "claim(address, uint256, uint256, address, uint256, bytes32[], uint256)"
+        "id": "0xed729388",
+        "interface": "mint(uint8, uint8, uint8, uint8, uint8, uint8)"
       },
       "logs": {
         "type": "exact",
         "patterns": [
           {
-            "signature": "0xc3d58168c5ae7397731d063d5bbf3d657854427343f4c083240f7aacaa2d0f62",
+            "signature": "0xddf252ad1be2c89b69c2b068fc378daa952ba7f163c4a11628f55a4df523b3ef",
             "indexedCount": 3
           },
           {
-            "signature": "0x4f72e6585331094d368e469f11198272039d08cbddfcda1577e192687a83afb6",
-            "indexedCount": 3
+            "signature": "0xcccf45135e1be7bf26a3320f96f1c8f1885b52b04535973d149251e87b73d208",
+            "indexedCount": 1
           }
         ]
       }
@@ -58,7 +58,7 @@
             }
           },
           {
-            "type": "erc1155",
+            "type": "erc721",
             "direction": "in",
             "from": {
               "type": "array-in",
@@ -68,10 +68,6 @@
             "to": {
               "type": "array-in",
               "values": ["related"]
-            },
-            "amount": {
-              "type": "between",
-              "min": "1"
             }
           }
         ]
