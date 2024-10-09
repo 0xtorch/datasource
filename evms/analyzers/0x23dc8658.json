@@ -28,23 +28,34 @@
         "interface": "upsertListing(address, uint256, uint256, uint256, bool, uint256, uint256, tuple)"
       },
       "logs": {
-        "type": "exact",
+        "type": "some",
         "patterns": [
           {
             "signature": "0x8c5be1e5ebec7d5bd14f71427d1e84f3dd0314c0f7b2291e5b200ac8c7c3b925",
-            "indexedCount": 3
+            "indexedCount": 3,
+            "count": {
+              "type": "between",
+              "min": "1",
+              "max": "1"
+            }
           },
           {
             "signature": "0xddf252ad1be2c89b69c2b068fc378daa952ba7f163c4a11628f55a4df523b3ef",
-            "indexedCount": 3
+            "indexedCount": 3,
+            "count": {
+              "type": "between",
+              "min": "1",
+              "max": "1"
+            }
           },
           {
             "signature": "0x1062dd3b35f12b4064331244d00f40c1d4831965e4285654157a2409c6217cff",
-            "indexedCount": 3
-          },
-          {
-            "signature": "0xfcc77ea8bdcce862f43b7fb00fe6b0eb90d6aeead27d3800d9257cf7a05f9d96",
-            "indexedCount": 3
+            "indexedCount": 3,
+            "count": {
+              "type": "between",
+              "min": "1",
+              "max": "1"
+            }
           }
         ]
       }
@@ -68,8 +79,6 @@
         "crossType": "start",
         "transfers": [
           {
-            "type": "erc721",
-            "direction": "out",
             "from": {
               "type": "array-in",
               "values": ["related"]
@@ -78,7 +87,9 @@
               "type": "array-in",
               "not": true,
               "values": ["related"]
-            }
+            },
+            "type": "erc721",
+            "direction": "out"
           }
         ]
       }
