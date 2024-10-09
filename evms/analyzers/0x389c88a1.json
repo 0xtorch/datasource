@@ -2,7 +2,7 @@
   {
     "example": {
       "chainId": 1,
-      "hash": "0x799df9745e2f0e4927f263ab2485da541ea8fbde8d4873f12f3ec59e348d793b",
+      "hash": "0xac99d45585a997feef01e015a1a7f8bd2cec64da8f446daaacd0800d163bdb18",
       "addresses": ["0x695684881d525b241e4624be6d2dd4b43e857269"]
     },
     "condition": {
@@ -19,19 +19,27 @@
         "min": "1"
       },
       "function": {
-        "id": "0xb4c5faa1",
-        "interface": "claim(address, uint256, uint256, address, uint256, bytes32[], uint256)"
+        "id": "0x389c88a1",
+        "interface": "publicMint(uint256[])"
       },
       "logs": {
-        "type": "exact",
+        "type": "some",
         "patterns": [
           {
-            "signature": "0xc3d58168c5ae7397731d063d5bbf3d657854427343f4c083240f7aacaa2d0f62",
-            "indexedCount": 3
+            "signature": "0xddf252ad1be2c89b69c2b068fc378daa952ba7f163c4a11628f55a4df523b3ef",
+            "indexedCount": 3,
+            "count": {
+              "type": "between",
+              "min": "3"
+            }
           },
           {
-            "signature": "0x4f72e6585331094d368e469f11198272039d08cbddfcda1577e192687a83afb6",
-            "indexedCount": 3
+            "signature": "0xaa4e7e49bf6cd11061ae8af50e7ebb0fc81d13c924708c11f9e3fa8121824a07",
+            "indexedCount": 3,
+            "count": {
+              "type": "between",
+              "min": "1"
+            }
           }
         ]
       }
@@ -58,7 +66,7 @@
             }
           },
           {
-            "type": "erc1155",
+            "type": "erc721",
             "direction": "in",
             "from": {
               "type": "array-in",
@@ -68,10 +76,6 @@
             "to": {
               "type": "array-in",
               "values": ["related"]
-            },
-            "amount": {
-              "type": "between",
-              "min": "1"
             }
           }
         ]

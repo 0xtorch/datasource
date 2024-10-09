@@ -1,0 +1,126 @@
+{
+  "blockNumber": 17525511,
+  "chainId": 1,
+  "effectiveGasPrice": "16732914964",
+  "erc20Transfers": [],
+  "erc721Transfers": [
+    {
+      "address": "0xf21c58aeee922495ff03f6f2b795b77ea96ac5d6",
+      "logIndex": 74,
+      "from": "0x0000000000000000000000000000000000000000",
+      "to": "0x695684881d525b241e4624be6d2dd4b43e857269",
+      "tokenId": "16",
+      "token": {
+        "type": "Nft",
+        "id": "evm_721_1_0xf21c58aeee922495ff03f6f2b795b77ea96ac5d6_16",
+        "updatedAt": 0
+      }
+    }
+  ],
+  "erc1155Transfers": [],
+  "from": {
+    "chainId": 1,
+    "address": "0x695684881d525b241e4624be6d2dd4b43e857269"
+  },
+  "gasUsed": "226312",
+  "hash": "0xe8a73a5f724d28c42825f85e0992fef0c307ecb9b343bddf6088db7999ae927e",
+  "input": "0xed7293880000000000000000000000000000000000000000000000000000000000000008000000000000000000000000000000000000000000000000000000000000003b0000000000000000000000000000000000000000000000000000000000000025000000000000000000000000000000000000000000000000000000000000000a000000000000000000000000000000000000000000000000000000000000003e000000000000000000000000000000000000000000000000000000000000004c",
+  "internalTransactions": [],
+  "logs": [
+    {
+      "address": "0xf21c58aeee922495ff03f6f2b795b77ea96ac5d6",
+      "data": "0x",
+      "logIndex": 74,
+      "topics": [
+        "0xddf252ad1be2c89b69c2b068fc378daa952ba7f163c4a11628f55a4df523b3ef",
+        "0x0000000000000000000000000000000000000000000000000000000000000000",
+        "0x000000000000000000000000695684881d525b241e4624be6d2dd4b43e857269",
+        "0x0000000000000000000000000000000000000000000000000000000000000010"
+      ],
+      "transactionHash": "0xe8a73a5f724d28c42825f85e0992fef0c307ecb9b343bddf6088db7999ae927e",
+      "eventName": "Transfer",
+      "args": [
+        {
+          "indexed": true,
+          "name": "from",
+          "type": "address",
+          "value": "0x0000000000000000000000000000000000000000"
+        },
+        {
+          "indexed": true,
+          "name": "to",
+          "type": "address",
+          "value": "0x695684881d525b241e4624be6d2dd4b43e857269"
+        },
+        {
+          "indexed": true,
+          "name": "tokenId",
+          "type": "uint256",
+          "value": "16"
+        }
+      ]
+    },
+    {
+      "address": "0xf21c58aeee922495ff03f6f2b795b77ea96ac5d6",
+      "data": "0x",
+      "logIndex": 75,
+      "topics": [
+        "0xcccf45135e1be7bf26a3320f96f1c8f1885b52b04535973d149251e87b73d208",
+        "0x000000000000000000000000695684881d525b241e4624be6d2dd4b43e857269"
+      ],
+      "transactionHash": "0xe8a73a5f724d28c42825f85e0992fef0c307ecb9b343bddf6088db7999ae927e",
+      "eventName": "MintEvent",
+      "args": [
+        {
+          "indexed": true,
+          "name": "sender",
+          "type": "address",
+          "value": "0x695684881d525b241e4624BE6D2Dd4b43e857269"
+        }
+      ]
+    }
+  ],
+  "status": "success",
+  "timestamp": 1687319879000,
+  "to": {
+    "chainId": 1,
+    "address": "0xf21c58aeee922495ff03f6f2b795b77ea96ac5d6"
+  },
+  "value": "7300000000000000",
+  "function": {
+    "args": [
+      {
+        "type": "uint8",
+        "name": "x",
+        "value": 8
+      },
+      {
+        "type": "uint8",
+        "name": "y",
+        "value": 59
+      },
+      {
+        "type": "uint8",
+        "name": "w",
+        "value": 37
+      },
+      {
+        "type": "uint8",
+        "name": "h",
+        "value": 10
+      },
+      {
+        "type": "uint8",
+        "name": "c",
+        "value": 62
+      },
+      {
+        "type": "uint8",
+        "name": "b",
+        "value": 76
+      }
+    ],
+    "name": "mint",
+    "interface": "mint(uint8, uint8, uint8, uint8, uint8, uint8)"
+  }
+}
