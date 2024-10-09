@@ -1,0 +1,102 @@
+{
+  "blockNumber": 18988800,
+  "chainId": 1,
+  "effectiveGasPrice": "14968994420",
+  "erc20Transfers": [],
+  "erc721Transfers": [
+    {
+      "address": "0x9589669e104aa22cbc4a6341870212f5685c5ed1",
+      "logIndex": 151,
+      "from": "0x0000000000000000000000000000000000000000",
+      "to": "0x695684881d525b241e4624be6d2dd4b43e857269",
+      "tokenId": "2000199",
+      "token": {
+        "type": "Nft",
+        "id": "evm_721_1_0x9589669e104aa22cbc4a6341870212f5685c5ed1_2000199",
+        "updatedAt": 0
+      }
+    }
+  ],
+  "erc1155Transfers": [],
+  "from": {
+    "chainId": 1,
+    "address": "0x695684881d525b241e4624be6d2dd4b43e857269"
+  },
+  "gasUsed": "181418",
+  "hash": "0x238629848c2c0d2fd6747ea44ece1449e30726144916f3ca058a6a7f30cd8243",
+  "input": "0x9bd02aa0000000000000000000000000000000000000000000000000000000000000000200000000000000000000000000000000000000000000000000000000000000a06cf4b49ab04e578cbff502197e9f91acf1db25df15e99dc761e3512199fe4e350a4b35278350ab7c88f61523050fe75b68457abd0fd2469a374bab68eeb1b7c000000000000000000000000000000000000000000000000000000000000000e0000000000000000000000000000000000000000000000000000000000000000e6f6e69676972696d616e313939380000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000041f0baa961dbbbf557423fff364783842932a253ce9fa5ac6e9a3b84a57aad28085a172681a1160198613a2e08c785154b6df5e08720cb3a5e711d2fa20d1207ed1b00000000000000000000000000000000000000000000000000000000000000",
+  "internalTransactions": [],
+  "logs": [
+    {
+      "address": "0x9589669e104aa22cbc4a6341870212f5685c5ed1",
+      "data": "0x",
+      "logIndex": 151,
+      "topics": [
+        "0xddf252ad1be2c89b69c2b068fc378daa952ba7f163c4a11628f55a4df523b3ef",
+        "0x0000000000000000000000000000000000000000000000000000000000000000",
+        "0x000000000000000000000000695684881d525b241e4624be6d2dd4b43e857269",
+        "0x00000000000000000000000000000000000000000000000000000000001e8547"
+      ],
+      "transactionHash": "0x238629848c2c0d2fd6747ea44ece1449e30726144916f3ca058a6a7f30cd8243",
+      "eventName": "Transfer",
+      "args": [
+        {
+          "indexed": true,
+          "name": "from",
+          "type": "address",
+          "value": "0x0000000000000000000000000000000000000000"
+        },
+        {
+          "indexed": true,
+          "name": "to",
+          "type": "address",
+          "value": "0x695684881d525b241e4624be6d2dd4b43e857269"
+        },
+        {
+          "indexed": true,
+          "name": "tokenId",
+          "type": "uint256",
+          "value": "2000199"
+        }
+      ]
+    }
+  ],
+  "status": "success",
+  "timestamp": 1705038143000,
+  "to": {
+    "chainId": 1,
+    "address": "0x9589669e104aa22cbc4a6341870212f5685c5ed1"
+  },
+  "value": "0",
+  "function": {
+    "args": [
+      {
+        "type": "uint16",
+        "name": "exhibitionIndex",
+        "value": 2
+      },
+      {
+        "type": "string",
+        "name": "name",
+        "value": "onigiriman1998"
+      },
+      {
+        "type": "bytes32",
+        "name": "mintCodeHash",
+        "value": "0x6cf4b49ab04e578cbff502197e9f91acf1db25df15e99dc761e3512199fe4e35"
+      },
+      {
+        "type": "bytes32",
+        "name": "hash",
+        "value": "0x0a4b35278350ab7c88f61523050fe75b68457abd0fd2469a374bab68eeb1b7c0"
+      },
+      {
+        "type": "bytes",
+        "name": "sig",
+        "value": "0xf0baa961dbbbf557423fff364783842932a253ce9fa5ac6e9a3b84a57aad28085a172681a1160198613a2e08c785154b6df5e08720cb3a5e711d2fa20d1207ed1b"
+      }
+    ],
+    "name": "mint",
+    "interface": "mint(uint16, string, bytes32, bytes32, bytes)"
+  }
+}

@@ -1,0 +1,139 @@
+{
+  "blockNumber": 17711697,
+  "chainId": 1,
+  "effectiveGasPrice": "17243263878",
+  "erc20Transfers": [],
+  "erc721Transfers": [
+    {
+      "address": "0xa684217eac2497186709f3f22a23ed83651f4506",
+      "logIndex": 177,
+      "from": "0x0000000000000000000000000000000000000000",
+      "to": "0x695684881d525b241e4624be6d2dd4b43e857269",
+      "tokenId": "50",
+      "token": {
+        "type": "Nft",
+        "id": "evm_721_1_0xa684217eac2497186709f3f22a23ed83651f4506_50",
+        "updatedAt": 0
+      }
+    }
+  ],
+  "erc1155Transfers": [],
+  "from": {
+    "chainId": 1,
+    "address": "0x695684881d525b241e4624be6d2dd4b43e857269"
+  },
+  "gasUsed": "168632",
+  "hash": "0x3256b979b66ba93cadce619adff36184d956cd2cd6abacb427b9f9141ea7716e",
+  "input": "0xfa2b068f000000000000000000000000a684217eac2497186709f3f22a23ed83651f4506000000000000000000000000000000000000000000000000000000003d9c10f0000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000a0000000000000000000000000695684881d525b241e4624be6d2dd4b43e8572690000000000000000000000000000000000000000000000000000000000000000",
+  "internalTransactions": [
+    {
+      "blockNumber": 17711697,
+      "from": "0x1eb73fee2090fb1c20105d5ba887e3c3ba14a17e",
+      "gas": "161697",
+      "isError": false,
+      "timestamp": 1689581375000,
+      "to": "0xd9b8703b6cf2251253624d024c6e5239398eff44",
+      "txHash": "0x3256b979b66ba93cadce619adff36184d956cd2cd6abacb427b9f9141ea7716e",
+      "value": "20000000000000000"
+    }
+  ],
+  "logs": [
+    {
+      "address": "0xa684217eac2497186709f3f22a23ed83651f4506",
+      "data": "0x",
+      "logIndex": 177,
+      "topics": [
+        "0xddf252ad1be2c89b69c2b068fc378daa952ba7f163c4a11628f55a4df523b3ef",
+        "0x0000000000000000000000000000000000000000000000000000000000000000",
+        "0x000000000000000000000000695684881d525b241e4624be6d2dd4b43e857269",
+        "0x0000000000000000000000000000000000000000000000000000000000000032"
+      ],
+      "transactionHash": "0x3256b979b66ba93cadce619adff36184d956cd2cd6abacb427b9f9141ea7716e",
+      "eventName": "Transfer",
+      "args": [
+        {
+          "indexed": true,
+          "name": "from",
+          "type": "address",
+          "value": "0x0000000000000000000000000000000000000000"
+        },
+        {
+          "indexed": true,
+          "name": "to",
+          "type": "address",
+          "value": "0x695684881d525b241e4624be6d2dd4b43e857269"
+        },
+        {
+          "indexed": true,
+          "name": "tokenId",
+          "type": "uint256",
+          "value": "50"
+        }
+      ]
+    },
+    {
+      "address": "0x1eb73fee2090fb1c20105d5ba887e3c3ba14a17e",
+      "data": "0x",
+      "logIndex": 178,
+      "topics": [
+        "0x5d404f369772cfab2b65717fca9bc2077efeab89a0dbec036bf0c13783154eb1",
+        "0x000000000000000000000000a684217eac2497186709f3f22a23ed83651f4506",
+        "0x000000000000000000000000000000000000000000000000000000003d9c10f0"
+      ],
+      "transactionHash": "0x3256b979b66ba93cadce619adff36184d956cd2cd6abacb427b9f9141ea7716e",
+      "eventName": "ClaimMint",
+      "args": [
+        {
+          "indexed": true,
+          "name": "creatorContract",
+          "type": "address",
+          "value": "0xA684217Eac2497186709f3F22a23ED83651F4506"
+        },
+        {
+          "indexed": true,
+          "name": "claimIndex",
+          "type": "uint256",
+          "value": "1033638128"
+        }
+      ]
+    }
+  ],
+  "status": "success",
+  "timestamp": 1689581375000,
+  "to": {
+    "chainId": 1,
+    "address": "0x1eb73fee2090fb1c20105d5ba887e3c3ba14a17e"
+  },
+  "value": "20500000000000000",
+  "function": {
+    "args": [
+      {
+        "type": "address",
+        "name": "creatorContractAddress",
+        "value": "0xA684217Eac2497186709f3F22a23ED83651F4506"
+      },
+      {
+        "type": "uint256",
+        "name": "claimIndex",
+        "value": "1033638128"
+      },
+      {
+        "type": "uint32",
+        "name": "mintIndex",
+        "value": 0
+      },
+      {
+        "type": "bytes32[]",
+        "name": "merkleProof",
+        "value": []
+      },
+      {
+        "type": "address",
+        "name": "mintFor",
+        "value": "0x695684881d525b241e4624BE6D2Dd4b43e857269"
+      }
+    ],
+    "name": "mint",
+    "interface": "mint(address, uint256, uint32, bytes32[], address)"
+  }
+}

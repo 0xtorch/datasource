@@ -2,7 +2,7 @@
   {
     "example": {
       "chainId": 1,
-      "hash": "0x648fa25cb1fa3ab82363781a394dd6486617811ce70e9748daa32882068c72fc",
+      "hash": "0x4eec465286dd503a26a5cb6faf956a01d03a3fdfbea04a6af62d15afcd658cce",
       "addresses": ["0x695684881d525b241e4624be6d2dd4b43e857269"]
     },
     "condition": {
@@ -19,8 +19,8 @@
         "min": "1"
       },
       "function": {
-        "id": "0x7bc9200e",
-        "interface": "allowlistMint(uint256, bytes32[])"
+        "id": "0xc67add3a",
+        "interface": "pubMint(uint256, address)"
       },
       "logs": {
         "type": "some",
@@ -31,6 +31,15 @@
             "count": {
               "type": "between",
               "min": "1"
+            }
+          },
+          {
+            "signature": "0xe46b50d0a0bf8b2bd44aa8a4e4dd346ba0e8b35d8a438c6ce48d1910401b3023",
+            "indexedCount": 3,
+            "count": {
+              "type": "between",
+              "min": "1",
+              "max": "1"
             }
           }
         ]

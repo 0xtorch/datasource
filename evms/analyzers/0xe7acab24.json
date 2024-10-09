@@ -2,7 +2,7 @@
   {
     "example": {
       "chainId": 1,
-      "hash": "0xb8b6734708553fbe9dff9f285ebcc4ee9d63a9d9c346e15c5c931e5c7ec6f2ac",
+      "hash": "0xff8f37fa54808bee4aeacfd209853fd61f5f7a5c2bcdc15a179a05caeb68f928",
       "addresses": ["0x695684881d525b241e4624be6d2dd4b43e857269"]
     },
     "condition": {
@@ -16,8 +16,8 @@
         ]
       },
       "function": {
-        "id": "0xf2d12b12",
-        "interface": "matchAdvancedOrders(tuple[], tuple[], tuple[], address)"
+        "id": "0xe7acab24",
+        "interface": "fulfillAdvancedOrder(tuple, tuple[], bytes32, address)"
       },
       "logs": {
         "type": "some",
@@ -78,106 +78,13 @@
   {
     "example": {
       "chainId": 1,
-      "hash": "0xb8b6734708553fbe9dff9f285ebcc4ee9d63a9d9c346e15c5c931e5c7ec6f2ac",
-      "addresses": ["0x51786fb160d85766faa76f056a08e771a94d7581"]
+      "hash": "0xff8f37fa54808bee4aeacfd209853fd61f5f7a5c2bcdc15a179a05caeb68f928",
+      "addresses": ["0xaffb9ad129e2966e60701c32d4028fdf6ffc27f9"]
     },
     "condition": {
       "function": {
-        "id": "0xf2d12b12",
-        "interface": "matchAdvancedOrders(tuple[], tuple[], tuple[], address)"
-      },
-      "logs": {
-        "type": "some",
-        "patterns": [
-          {
-            "signature": "0x9d9af8e38d66c62e2c12f0225249fd9d721c54b83f48d9352c97c6cacdcb6f31",
-            "indexedCount": 2,
-            "count": {
-              "type": "between",
-              "min": "1"
-            }
-          }
-        ]
-      }
-    },
-    "generators": [
-      {
-        "type": "sell-nft",
-        "transfers": [
-          {
-            "type": "internal",
-            "direction": "in",
-            "from": {
-              "type": "array-in",
-              "not": true,
-              "values": ["related"]
-            },
-            "to": {
-              "type": "array-in",
-              "values": ["related"]
-            },
-            "value": {
-              "type": "between",
-              "min": "1"
-            }
-          },
-          {
-            "from": {
-              "type": "array-in",
-              "not": true,
-              "values": ["related"]
-            },
-            "to": {
-              "type": "array-in",
-              "values": ["related"]
-            },
-            "type": "erc20",
-            "direction": "in"
-          },
-          {
-            "type": "erc721",
-            "direction": "out",
-            "from": {
-              "type": "array-in",
-              "values": ["related"]
-            },
-            "to": {
-              "type": "array-in",
-              "not": true,
-              "values": ["related"]
-            }
-          },
-          {
-            "from": {
-              "type": "array-in",
-              "values": ["related"]
-            },
-            "to": {
-              "type": "array-in",
-              "not": true,
-              "values": ["related"]
-            },
-            "amount": {
-              "type": "between",
-              "min": "1"
-            },
-            "type": "erc1155",
-            "direction": "out"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "example": {
-      "chainId": 1,
-      "hash": "0xb8b6734708553fbe9dff9f285ebcc4ee9d63a9d9c346e15c5c931e5c7ec6f2ac",
-      "addresses": ["0x57227fe96ded3ef450033de63eafb4550985cd83"]
-    },
-    "condition": {
-      "function": {
-        "id": "0xf2d12b12",
-        "interface": "matchAdvancedOrders(tuple[], tuple[], tuple[], address)"
+        "id": "0xe7acab24",
+        "interface": "fulfillAdvancedOrder(tuple, tuple[], bytes32, address)"
       },
       "logs": {
         "type": "some",
@@ -215,6 +122,212 @@
             }
           },
           {
+            "type": "erc20",
+            "direction": "out",
+            "from": {
+              "type": "array-in",
+              "values": ["related"]
+            },
+            "to": {
+              "type": "array-in",
+              "not": true,
+              "values": ["related"]
+            },
+            "amount": {
+              "type": "between",
+              "min": "1"
+            }
+          },
+          {
+            "type": "erc721",
+            "direction": "in",
+            "from": {
+              "type": "array-in",
+              "not": true,
+              "values": ["related"]
+            },
+            "to": {
+              "type": "array-in",
+              "values": ["related"]
+            }
+          },
+          {
+            "type": "erc1155",
+            "direction": "in",
+            "from": {
+              "type": "array-in",
+              "not": true,
+              "values": ["related"]
+            },
+            "to": {
+              "type": "array-in",
+              "values": ["related"]
+            },
+            "amount": {
+              "type": "between",
+              "min": "1"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "condition": {
+      "function": {
+        "id": "0xe7acab24",
+        "interface": "fulfillAdvancedOrder(tuple, tuple[], bytes32, address)"
+      },
+      "logs": {
+        "type": "some",
+        "patterns": [
+          {
+            "signature": "0x9d9af8e38d66c62e2c12f0225249fd9d721c54b83f48d9352c97c6cacdcb6f31",
+            "indexedCount": 2,
+            "count": {
+              "type": "between",
+              "min": "1"
+            }
+          }
+        ]
+      }
+    },
+    "generators": [
+      {
+        "type": "sell-nft",
+        "transfers": [
+          {
+            "type": "internal",
+            "direction": "in",
+            "from": {
+              "type": "array-in",
+              "not": true,
+              "values": ["related"]
+            },
+            "to": {
+              "type": "array-in",
+              "values": ["related"]
+            },
+            "value": {
+              "type": "between",
+              "min": "1"
+            }
+          },
+          {
+            "type": "erc20",
+            "direction": "in",
+            "from": {
+              "type": "array-in",
+              "not": true,
+              "values": ["related"]
+            },
+            "to": {
+              "type": "array-in",
+              "values": ["related"]
+            },
+            "amount": {
+              "type": "between",
+              "min": "1"
+            }
+          },
+          {
+            "type": "erc721",
+            "direction": "out",
+            "from": {
+              "type": "array-in",
+              "values": ["related"]
+            },
+            "to": {
+              "type": "array-in",
+              "not": true,
+              "values": ["related"]
+            }
+          },
+          {
+            "type": "erc1155",
+            "direction": "out",
+            "from": {
+              "type": "array-in",
+              "values": ["related"]
+            },
+            "to": {
+              "type": "array-in",
+              "not": true,
+              "values": ["related"]
+            },
+            "amount": {
+              "type": "between",
+              "min": "1"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "example": {
+      "chainId": 1,
+      "hash": "0xff8f37fa54808bee4aeacfd209853fd61f5f7a5c2bcdc15a179a05caeb68f928",
+      "addresses": ["0x4a84a25944c4c7dddfe418509bec937521210821"]
+    },
+    "condition": {
+      "function": {
+        "id": "0xe7acab24",
+        "interface": "fulfillAdvancedOrder(tuple, tuple[], bytes32, address)"
+      },
+      "logs": {
+        "type": "some",
+        "patterns": [
+          {
+            "signature": "0x9d9af8e38d66c62e2c12f0225249fd9d721c54b83f48d9352c97c6cacdcb6f31",
+            "indexedCount": 2,
+            "count": {
+              "type": "between",
+              "min": "1"
+            }
+          }
+        ]
+      }
+    },
+    "generators": [
+      {
+        "type": "trade",
+        "transfers": [
+          {
+            "type": "value",
+            "direction": "out",
+            "from": {
+              "type": "array-in",
+              "values": ["related"]
+            },
+            "to": {
+              "type": "array-in",
+              "not": true,
+              "values": ["related"]
+            },
+            "value": {
+              "type": "between",
+              "min": "1"
+            }
+          },
+          {
+            "type": "internal",
+            "direction": "in",
+            "from": {
+              "type": "array-in",
+              "not": true,
+              "values": ["related"]
+            },
+            "to": {
+              "type": "array-in",
+              "values": ["related"]
+            },
+            "value": {
+              "type": "between",
+              "min": "1"
+            }
+          },
+          {
             "type": "internal",
             "direction": "out",
             "from": {
@@ -232,32 +345,8 @@
             }
           },
           {
-            "from": {
-              "type": "array-in",
-              "values": ["related"]
-            },
-            "to": {
-              "type": "array-in",
-              "not": true,
-              "values": ["related"]
-            },
             "type": "erc20",
-            "direction": "out"
-          },
-          {
-            "type": "erc721",
             "direction": "in",
-            "from": {
-              "type": "array-in",
-              "not": true,
-              "values": ["related"]
-            },
-            "to": {
-              "type": "array-in",
-              "values": ["related"]
-            }
-          },
-          {
             "from": {
               "type": "array-in",
               "not": true,
@@ -270,9 +359,54 @@
             "amount": {
               "type": "between",
               "min": "1"
+            }
+          },
+          {
+            "type": "erc20",
+            "direction": "out",
+            "from": {
+              "type": "array-in",
+              "values": ["related"]
             },
+            "to": {
+              "type": "array-in",
+              "not": true,
+              "values": ["related"]
+            },
+            "amount": {
+              "type": "between",
+              "min": "1"
+            }
+          },
+          {
+            "type": "erc721",
+            "direction": "out",
+            "from": {
+              "type": "array-in",
+              "values": ["related"]
+            },
+            "to": {
+              "type": "array-in",
+              "not": true,
+              "values": ["related"]
+            }
+          },
+          {
             "type": "erc1155",
-            "direction": "in"
+            "direction": "out",
+            "from": {
+              "type": "array-in",
+              "values": ["related"]
+            },
+            "to": {
+              "type": "array-in",
+              "not": true,
+              "values": ["related"]
+            },
+            "amount": {
+              "type": "between",
+              "min": "1"
+            }
           }
         ]
       }

@@ -2,7 +2,7 @@
   {
     "example": {
       "chainId": 1,
-      "hash": "0x648fa25cb1fa3ab82363781a394dd6486617811ce70e9748daa32882068c72fc",
+      "hash": "0xe307efffec119c2c797bc7a3ef54b1791a1683d4fad8933db138947a384f3d2b",
       "addresses": ["0x695684881d525b241e4624be6d2dd4b43e857269"]
     },
     "condition": {
@@ -19,8 +19,8 @@
         "min": "1"
       },
       "function": {
-        "id": "0x7bc9200e",
-        "interface": "allowlistMint(uint256, bytes32[])"
+        "id": "0x2db11544",
+        "interface": "publicMint(uint256)"
       },
       "logs": {
         "type": "some",

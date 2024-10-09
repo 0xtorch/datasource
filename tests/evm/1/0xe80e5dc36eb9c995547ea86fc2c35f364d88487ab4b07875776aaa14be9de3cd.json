@@ -1,0 +1,84 @@
+{
+  "blockNumber": 17620673,
+  "chainId": 1,
+  "effectiveGasPrice": "13687486383",
+  "erc20Transfers": [],
+  "erc721Transfers": [],
+  "erc1155Transfers": [],
+  "from": {
+    "chainId": 1,
+    "address": "0x695684881d525b241e4624be6d2dd4b43e857269"
+  },
+  "gasUsed": "89791",
+  "hash": "0xe80e5dc36eb9c995547ea86fc2c35f364d88487ab4b07875776aaa14be9de3cd",
+  "input": "0xb6aff8c10000000000000000000000000000000000000000000000000000000000046c320000000000000000000000000000000000000000000000000214e8348c4f00000000000000000000000000000000000000000000000000000000000000000000",
+  "internalTransactions": [],
+  "logs": [
+    {
+      "address": "0xcda72070e455bb31c7690a170224ce43623d0b6f",
+      "data": "0x0000000000000000000000000000000000000000000000000214e8348c4f00000000000000000000000000000000000000000000000000000000000064a56733",
+      "logIndex": 168,
+      "topics": [
+        "0x26ea3ebbda62eb1baef13e1c237dddd956c87f80b2801f2616d806d52557b121",
+        "0x0000000000000000000000000000000000000000000000000000000000046c32",
+        "0x000000000000000000000000695684881d525b241e4624be6d2dd4b43e857269"
+      ],
+      "transactionHash": "0xe80e5dc36eb9c995547ea86fc2c35f364d88487ab4b07875776aaa14be9de3cd",
+      "eventName": "ReserveAuctionBidPlaced",
+      "args": [
+        {
+          "indexed": true,
+          "name": "auctionId",
+          "type": "uint256",
+          "value": "289842"
+        },
+        {
+          "indexed": true,
+          "name": "bidder",
+          "type": "address",
+          "value": "0x695684881d525b241e4624BE6D2Dd4b43e857269"
+        },
+        {
+          "indexed": false,
+          "name": "amount",
+          "type": "uint256",
+          "value": "150000000000000000"
+        },
+        {
+          "indexed": false,
+          "name": "endTime",
+          "type": "uint256",
+          "value": "1688561459"
+        }
+      ]
+    }
+  ],
+  "status": "success",
+  "timestamp": 1688475059000,
+  "to": {
+    "chainId": 1,
+    "address": "0xcda72070e455bb31c7690a170224ce43623d0b6f"
+  },
+  "value": "150000000000000000",
+  "function": {
+    "args": [
+      {
+        "type": "uint256",
+        "name": "auctionId",
+        "value": "289842"
+      },
+      {
+        "type": "uint256",
+        "name": "amount",
+        "value": "150000000000000000"
+      },
+      {
+        "type": "address",
+        "name": "referrer",
+        "value": "0x0000000000000000000000000000000000000000"
+      }
+    ],
+    "name": "placeBidV2",
+    "interface": "placeBidV2(uint256, uint256, address)"
+  }
+}
