@@ -1,0 +1,123 @@
+{
+  "blockNumber": 15043696,
+  "chainId": 1,
+  "effectiveGasPrice": "23031876757",
+  "erc20Transfers": [],
+  "erc721Transfers": [
+    {
+      "address": "0xd93206bd0062cc054e397ecccdb8436c3fa5700e",
+      "logIndex": 269,
+      "from": "0x0000000000000000000000000000000000000000",
+      "to": "0x695684881d525b241e4624be6d2dd4b43e857269",
+      "tokenId": "6747",
+      "token": {
+        "type": "Nft",
+        "id": "evm_721_1_0xd93206bd0062cc054e397ecccdb8436c3fa5700e_6747",
+        "updatedAt": 0
+      }
+    }
+  ],
+  "erc1155Transfers": [],
+  "from": {
+    "chainId": 1,
+    "address": "0x695684881d525b241e4624be6d2dd4b43e857269"
+  },
+  "gasUsed": "187183",
+  "hash": "0xec1a9b80eb3867db53518e6bfa743897dea459237306e1da97d33f3ea09f6bb3",
+  "input": "0x3779147e0000000000000000000000000000000000000000000000000000000000000020000000000000000000000000000000000000000000000000000000000000000eded8c30d2d57c989ffa4538f2e8fde35806044cbd56bfc09b7c52d84a13ba43c516ae2ee915c176bf5215b5fd3141094dfa0f636b6298b302431b5475e097220948348efc79e4e8d30c97ddb2290635125ca781b97b1d3b6f9c8509b7183b16b60fb0a26110b90ef464bf27077e19b22ba831aad34224eda200462a3600fec10ec7573fde323c41e52050e5ffe2dcbff6fbdc2d0c01e99365d75a76f2809e968fe9497998ca4427d07fe37c5b9a6ebb20536a2a8be111d84ec3474c2a5ef0a597c205cbac3df13844b56f34652317dc18f0759c5bd47cae6709be60da43b06e97b4a6a195db0819e22bfc0db7a69529815630a7a06c3fe2a14c01b4f7dc122026920d6794b2502bec909bc492f7745b7a04f6aa4ec143931a9a1342e22341cc0bce85edf183a0485909a8310bfe03a91f54620350844b815cf30b2457c9d5e6a59b9e23a5946fdb14e173ab0bdac69119a34151005e477fd916bee896ee62024d09375cc2f25424bf92d319e7e4c494a3beb80d514865849d5f4cea529e4cdd5cf8c6f0af9cc3581c3f463c52ed9d28f8be4c0107a914423946b93e10a1edaef9082037d00b2cb28a4a2e1edc94fd6a76fed8c74246142a1fb5b4b81d0faae87",
+  "internalTransactions": [],
+  "logs": [
+    {
+      "address": "0xd93206bd0062cc054e397ecccdb8436c3fa5700e",
+      "data": "0x",
+      "logIndex": 269,
+      "topics": [
+        "0xddf252ad1be2c89b69c2b068fc378daa952ba7f163c4a11628f55a4df523b3ef",
+        "0x0000000000000000000000000000000000000000000000000000000000000000",
+        "0x000000000000000000000000695684881d525b241e4624be6d2dd4b43e857269",
+        "0x0000000000000000000000000000000000000000000000000000000000001a5b"
+      ],
+      "transactionHash": "0xec1a9b80eb3867db53518e6bfa743897dea459237306e1da97d33f3ea09f6bb3",
+      "eventName": "Transfer",
+      "args": [
+        {
+          "indexed": true,
+          "name": "from",
+          "type": "address",
+          "value": "0x0000000000000000000000000000000000000000"
+        },
+        {
+          "indexed": true,
+          "name": "to",
+          "type": "address",
+          "value": "0x695684881d525b241e4624be6d2dd4b43e857269"
+        },
+        {
+          "indexed": true,
+          "name": "tokenId",
+          "type": "uint256",
+          "value": "6747"
+        }
+      ]
+    },
+    {
+      "address": "0xa3b92fe58563ce841f50df08293237e4c866e14e",
+      "data": "0x",
+      "logIndex": 270,
+      "topics": [
+        "0x600275bc3a309792283115dfb884cfc262977806bbf86a0cd92afdada40c960f",
+        "0x0000000000000000000000000000000000000000000000000000000000001a5b",
+        "0x5a868d87e93a468f2d7bc04df76b166b4089b66c4fe7fe55369f256866d4a2b8"
+      ],
+      "transactionHash": "0xec1a9b80eb3867db53518e6bfa743897dea459237306e1da97d33f3ea09f6bb3",
+      "eventName": "TokenHashSet",
+      "args": [
+        {
+          "indexed": true,
+          "name": "tokenId",
+          "type": "uint256",
+          "value": "6747"
+        },
+        {
+          "indexed": true,
+          "name": "tokenHash",
+          "type": "bytes32",
+          "value": "0x5a868d87e93a468f2d7bc04df76b166b4089b66c4fe7fe55369f256866d4a2b8"
+        }
+      ]
+    }
+  ],
+  "status": "success",
+  "timestamp": 1656484222000,
+  "to": {
+    "chainId": 1,
+    "address": "0xc4a748e668b5abf8055bf814091261251343c2e1"
+  },
+  "value": "0",
+  "function": {
+    "args": [
+      {
+        "type": "bytes32[]",
+        "name": "_merkleProof",
+        "value": [
+          "0xded8c30d2d57c989ffa4538f2e8fde35806044cbd56bfc09b7c52d84a13ba43c",
+          "0x516ae2ee915c176bf5215b5fd3141094dfa0f636b6298b302431b5475e097220",
+          "0x948348efc79e4e8d30c97ddb2290635125ca781b97b1d3b6f9c8509b7183b16b",
+          "0x60fb0a26110b90ef464bf27077e19b22ba831aad34224eda200462a3600fec10",
+          "0xec7573fde323c41e52050e5ffe2dcbff6fbdc2d0c01e99365d75a76f2809e968",
+          "0xfe9497998ca4427d07fe37c5b9a6ebb20536a2a8be111d84ec3474c2a5ef0a59",
+          "0x7c205cbac3df13844b56f34652317dc18f0759c5bd47cae6709be60da43b06e9",
+          "0x7b4a6a195db0819e22bfc0db7a69529815630a7a06c3fe2a14c01b4f7dc12202",
+          "0x6920d6794b2502bec909bc492f7745b7a04f6aa4ec143931a9a1342e22341cc0",
+          "0xbce85edf183a0485909a8310bfe03a91f54620350844b815cf30b2457c9d5e6a",
+          "0x59b9e23a5946fdb14e173ab0bdac69119a34151005e477fd916bee896ee62024",
+          "0xd09375cc2f25424bf92d319e7e4c494a3beb80d514865849d5f4cea529e4cdd5",
+          "0xcf8c6f0af9cc3581c3f463c52ed9d28f8be4c0107a914423946b93e10a1edaef",
+          "0x9082037d00b2cb28a4a2e1edc94fd6a76fed8c74246142a1fb5b4b81d0faae87"
+        ]
+      }
+    ],
+    "name": "mintAllowlistedDecagon",
+    "interface": "mintAllowlistedDecagon(bytes32[])"
+  }
+}

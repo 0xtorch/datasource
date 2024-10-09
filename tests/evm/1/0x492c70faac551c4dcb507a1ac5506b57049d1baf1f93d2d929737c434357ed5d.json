@@ -1,0 +1,82 @@
+{
+  "blockNumber": 14919717,
+  "chainId": 1,
+  "effectiveGasPrice": "21733343761",
+  "erc20Transfers": [],
+  "erc721Transfers": [
+    {
+      "address": "0xbf92a355c73de74969a75258e02a15a2764d4970",
+      "logIndex": 533,
+      "from": "0x0000000000000000000000000000000000000000",
+      "to": "0x695684881d525b241e4624be6d2dd4b43e857269",
+      "tokenId": "24215",
+      "token": {
+        "type": "Nft",
+        "id": "evm_721_1_0xbf92a355c73de74969a75258e02a15a2764d4970_24215",
+        "updatedAt": 0
+      }
+    }
+  ],
+  "erc1155Transfers": [],
+  "from": {
+    "chainId": 1,
+    "address": "0x695684881d525b241e4624be6d2dd4b43e857269"
+  },
+  "gasUsed": "89585",
+  "hash": "0x492c70faac551c4dcb507a1ac5506b57049d1baf1f93d2d929737c434357ed5d",
+  "input": "0x379607f50000000000000000000000000000000000000000000000000000000000000001",
+  "internalTransactions": [],
+  "logs": [
+    {
+      "address": "0xbf92a355c73de74969a75258e02a15a2764d4970",
+      "data": "0x",
+      "logIndex": 533,
+      "topics": [
+        "0xddf252ad1be2c89b69c2b068fc378daa952ba7f163c4a11628f55a4df523b3ef",
+        "0x0000000000000000000000000000000000000000000000000000000000000000",
+        "0x000000000000000000000000695684881d525b241e4624be6d2dd4b43e857269",
+        "0x0000000000000000000000000000000000000000000000000000000000005e97"
+      ],
+      "transactionHash": "0x492c70faac551c4dcb507a1ac5506b57049d1baf1f93d2d929737c434357ed5d",
+      "eventName": "Transfer",
+      "args": [
+        {
+          "indexed": true,
+          "name": "from",
+          "type": "address",
+          "value": "0x0000000000000000000000000000000000000000"
+        },
+        {
+          "indexed": true,
+          "name": "to",
+          "type": "address",
+          "value": "0x695684881d525b241e4624be6d2dd4b43e857269"
+        },
+        {
+          "indexed": true,
+          "name": "tokenId",
+          "type": "uint256",
+          "value": "24215"
+        }
+      ]
+    }
+  ],
+  "status": "success",
+  "timestamp": 1654589027000,
+  "to": {
+    "chainId": 1,
+    "address": "0xbf92a355c73de74969a75258e02a15a2764d4970"
+  },
+  "value": "0",
+  "function": {
+    "args": [
+      {
+        "type": "uint256",
+        "name": "amount",
+        "value": "1"
+      }
+    ],
+    "name": "claim",
+    "interface": "claim(uint256)"
+  }
+}
