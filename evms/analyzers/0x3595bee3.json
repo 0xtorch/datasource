@@ -1,0 +1,56 @@
+[
+  {
+    "example": {
+      "chainId": 1,
+      "hash": "0x98edaa246624cbc916a0136cf17668c26abdcf349f03406a2727431911ca6948",
+      "addresses": ["0x695684881d525b241e4624be6d2dd4b43e857269"]
+    },
+    "condition": {
+      "related": {
+        "type": "array-in",
+        "values": [
+          {
+            "type": "from"
+          }
+        ]
+      },
+      "value": {
+        "type": "between",
+        "max": "0"
+      },
+      "function": {
+        "id": "0x3595bee3",
+        "interface": "mintToken(address, address, string)"
+      },
+      "logs": {
+        "type": "exact",
+        "patterns": [
+          {
+            "signature": "0xddf252ad1be2c89b69c2b068fc378daa952ba7f163c4a11628f55a4df523b3ef",
+            "indexedCount": 3
+          }
+        ]
+      }
+    },
+    "generators": [
+      {
+        "type": "free-mint",
+        "transfers": [
+          {
+            "type": "erc721",
+            "direction": "in",
+            "from": {
+              "type": "array-in",
+              "not": true,
+              "values": ["related"]
+            },
+            "to": {
+              "type": "array-in",
+              "values": ["related"]
+            }
+          }
+        ]
+      }
+    ]
+  }
+]

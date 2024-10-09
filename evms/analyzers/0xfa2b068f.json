@@ -391,5 +391,67 @@
         ]
       }
     ]
+  },
+  {
+    "example": {
+      "chainId": 1,
+      "hash": "0xbc125e6f00fba7804adbd6702f9c31eeaacb109f59b5efe75dfbd0fbf0a87496",
+      "addresses": ["0x695684881d525b241e4624be6d2dd4b43e857269"]
+    },
+    "condition": {
+      "related": {
+        "type": "array-in",
+        "values": [
+          {
+            "type": "from"
+          }
+        ]
+      },
+      "value": {
+        "type": "between",
+        "max": "0"
+      },
+      "function": {
+        "id": "0xfa2b068f",
+        "interface": "mint(address, uint256, uint32, bytes32[], address)"
+      },
+      "logs": {
+        "type": "exact",
+        "patterns": [
+          {
+            "signature": "0xc3d58168c5ae7397731d063d5bbf3d657854427343f4c083240f7aacaa2d0f62",
+            "indexedCount": 3
+          },
+          {
+            "signature": "0x5d404f369772cfab2b65717fca9bc2077efeab89a0dbec036bf0c13783154eb1",
+            "indexedCount": 2
+          }
+        ]
+      }
+    },
+    "generators": [
+      {
+        "type": "free-mint",
+        "transfers": [
+          {
+            "type": "erc1155",
+            "direction": "in",
+            "from": {
+              "type": "array-in",
+              "not": true,
+              "values": ["related"]
+            },
+            "to": {
+              "type": "array-in",
+              "values": ["related"]
+            },
+            "amount": {
+              "type": "between",
+              "min": "1"
+            }
+          }
+        ]
+      }
+    ]
   }
 ]

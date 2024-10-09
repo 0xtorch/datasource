@@ -1,0 +1,233 @@
+[
+  {
+    "example": {
+      "chainId": 1,
+      "hash": "0x7383cbea36dd512d9c65c572eec3d36854069a684682a924dd81aadf6590968a",
+      "addresses": ["0x4343edfcc5b91937a161ad8f08ad3704bd960475"]
+    },
+    "condition": {
+      "related": {
+        "type": "array-in",
+        "values": [
+          {
+            "type": "from"
+          }
+        ]
+      },
+      "value": {
+        "type": "between",
+        "min": "1"
+      },
+      "function": {
+        "id": "0x70876c98",
+        "interface": "purchase(uint256, uint256)"
+      },
+      "logs": {
+        "type": "exact",
+        "patterns": [
+          {
+            "signature": "0xc3d58168c5ae7397731d063d5bbf3d657854427343f4c083240f7aacaa2d0f62",
+            "indexedCount": 3
+          }
+        ]
+      }
+    },
+    "generators": [
+      {
+        "type": "mint-nft",
+        "transfers": [
+          {
+            "type": "value",
+            "direction": "out",
+            "from": {
+              "type": "array-in",
+              "values": ["related"]
+            },
+            "to": {
+              "type": "array-in",
+              "not": true,
+              "values": ["related"]
+            },
+            "value": {
+              "type": "between",
+              "min": "1"
+            }
+          },
+          {
+            "from": {
+              "type": "array-in",
+              "not": true,
+              "values": ["related"]
+            },
+            "to": {
+              "type": "array-in",
+              "values": ["related"]
+            },
+            "amount": {
+              "type": "between",
+              "min": "1"
+            },
+            "type": "erc1155",
+            "direction": "in"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "example": {
+      "chainId": 1,
+      "hash": "0x7383cbea36dd512d9c65c572eec3d36854069a684682a924dd81aadf6590968a",
+      "addresses": ["0x695684881d525b241e4624be6d2dd4b43e857269"]
+    },
+    "condition": {
+      "related": {
+        "type": "array-in",
+        "not": true,
+        "values": [
+          {
+            "type": "from"
+          }
+        ]
+      },
+      "value": {
+        "type": "between",
+        "min": "1"
+      },
+      "function": {
+        "id": "0x70876c98",
+        "interface": "purchase(uint256, uint256)"
+      },
+      "logs": {
+        "type": "exact",
+        "patterns": [
+          {
+            "signature": "0xc3d58168c5ae7397731d063d5bbf3d657854427343f4c083240f7aacaa2d0f62",
+            "indexedCount": 3
+          }
+        ]
+      }
+    },
+    "generators": [
+      {
+        "type": "income",
+        "transfers": [
+          {
+            "type": "internal",
+            "direction": "in",
+            "from": {
+              "type": "array-in",
+              "not": true,
+              "values": ["related"]
+            },
+            "to": {
+              "type": "array-in",
+              "values": ["related"]
+            },
+            "value": {
+              "type": "between",
+              "min": "1"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "example": {
+      "chainId": 1,
+      "hash": "0x1cdf60df59ee5760daacc167eafd631a268ee05decdc1d3ee0091f31fffa41e9",
+      "addresses": ["0x695684881d525b241e4624be6d2dd4b43e857269"]
+    },
+    "condition": {
+      "related": {
+        "type": "array-in",
+        "values": [
+          {
+            "type": "from"
+          }
+        ]
+      },
+      "value": {
+        "type": "between",
+        "min": "1"
+      },
+      "function": {
+        "id": "0x70876c98",
+        "interface": "purchase(uint256, uint256)"
+      },
+      "logs": {
+        "type": "exact",
+        "patterns": [
+          {
+            "signature": "0xc3d58168c5ae7397731d063d5bbf3d657854427343f4c083240f7aacaa2d0f62",
+            "indexedCount": 3
+          }
+        ]
+      }
+    },
+    "generators": [
+      {
+        "type": "mint-nft",
+        "transfers": [
+          {
+            "type": "value",
+            "direction": "out",
+            "from": {
+              "type": "array-in",
+              "values": ["related"]
+            },
+            "to": {
+              "type": "array-in",
+              "not": true,
+              "values": ["related"]
+            },
+            "value": {
+              "type": "between",
+              "min": "1"
+            }
+          },
+          {
+            "from": {
+              "type": "array-in",
+              "not": true,
+              "values": ["related"]
+            },
+            "to": {
+              "type": "array-in",
+              "values": ["related"]
+            },
+            "amount": {
+              "type": "between",
+              "min": "1"
+            },
+            "type": "erc1155",
+            "direction": "in"
+          }
+        ]
+      },
+      {
+        "type": "income",
+        "transfers": [
+          {
+            "type": "internal",
+            "direction": "in",
+            "from": {
+              "type": "array-in",
+              "not": true,
+              "values": ["related"]
+            },
+            "to": {
+              "type": "array-in",
+              "values": ["related"]
+            },
+            "value": {
+              "type": "between",
+              "min": "1"
+            }
+          }
+        ]
+      }
+    ]
+  }
+]
