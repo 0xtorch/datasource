@@ -2,7 +2,7 @@
   {
     "example": {
       "chainId": 1,
-      "hash": "0xe4ffb5bada4ed87fcba191167d91be0ece5063af9e8b04e546adead6a8f14639",
+      "hash": "0x4faa1354b62bf18ba0d2527079c8768a8e4dc3a8ef778720ffe05580676dd5fc",
       "addresses": ["0x695684881d525b241e4624be6d2dd4b43e857269"]
     },
     "condition": {
@@ -16,47 +16,30 @@
       },
       "value": {
         "type": "between",
-        "min": "1"
+        "max": "0"
       },
       "function": {
-        "id": "0xd198cf79",
-        "interface": "PRIVATE_mint(uint256[], uint256[], uint256, bytes32[], uint256, bytes32[])"
+        "id": "0x36266211",
+        "interface": "exchangeMemories(string)"
       },
       "logs": {
-        "type": "some",
+        "type": "exact",
         "patterns": [
           {
             "signature": "0xddf252ad1be2c89b69c2b068fc378daa952ba7f163c4a11628f55a4df523b3ef",
-            "indexedCount": 3,
-            "count": {
-              "type": "between",
-              "min": "1"
-            }
+            "indexedCount": 3
+          },
+          {
+            "signature": "0xf4f18f8ebf8ae3ac6d808f4afe24808da95cf440fedce40e770c28e2b5f923dd",
+            "indexedCount": 0
           }
         ]
       }
     },
     "generators": [
       {
-        "type": "mint-nft",
+        "type": "free-mint",
         "transfers": [
-          {
-            "type": "value",
-            "direction": "out",
-            "from": {
-              "type": "array-in",
-              "values": ["related"]
-            },
-            "to": {
-              "type": "array-in",
-              "not": true,
-              "values": ["related"]
-            },
-            "value": {
-              "type": "between",
-              "min": "1"
-            }
-          },
           {
             "type": "erc721",
             "direction": "in",

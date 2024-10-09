@@ -2,7 +2,7 @@
   {
     "example": {
       "chainId": 1,
-      "hash": "0xa2b92d159671ba7a46cf25db26b0b8d3d7bfb6f281af15596617ebeee4bb8319",
+      "hash": "0xe074ab265f18120980a82ceeb9d00b647e34b69900ddae8bc6939e77fc88bafe",
       "addresses": ["0x695684881d525b241e4624be6d2dd4b43e857269"]
     },
     "condition": {
@@ -19,28 +19,15 @@
         "min": "1"
       },
       "function": {
-        "id": "0x84bb1e42",
-        "interface": "claim(address, uint256, address, uint256, tuple, bytes)"
+        "id": "0x4f88703c",
+        "interface": "mintSUN(uint256)"
       },
       "logs": {
-        "type": "some",
+        "type": "exact",
         "patterns": [
           {
             "signature": "0xddf252ad1be2c89b69c2b068fc378daa952ba7f163c4a11628f55a4df523b3ef",
-            "indexedCount": 3,
-            "count": {
-              "type": "between",
-              "min": "1"
-            }
-          },
-          {
-            "signature": "0xfa76a4010d9533e3e964f2930a65fb6042a12fa6ff5b08281837a10b0be7321e",
-            "indexedCount": 3,
-            "count": {
-              "type": "between",
-              "min": "1",
-              "max": "1"
-            }
+            "indexedCount": 3
           }
         ]
       }

@@ -1,0 +1,103 @@
+{
+  "blockNumber": 16266721,
+  "chainId": 1,
+  "effectiveGasPrice": "12152020042",
+  "erc20Transfers": [],
+  "erc721Transfers": [
+    {
+      "address": "0x2b709bde12ce759a1a5af45cd9bcc27cb05a6e14",
+      "logIndex": 105,
+      "from": "0x0000000000000000000000000000000000000000",
+      "to": "0x695684881d525b241e4624be6d2dd4b43e857269",
+      "tokenId": "1737",
+      "token": {
+        "type": "Nft",
+        "id": "evm_721_1_0x2b709bde12ce759a1a5af45cd9bcc27cb05a6e14_1737",
+        "updatedAt": 0
+      }
+    }
+  ],
+  "erc1155Transfers": [],
+  "from": {
+    "chainId": 1,
+    "address": "0x695684881d525b241e4624be6d2dd4b43e857269"
+  },
+  "gasUsed": "118648",
+  "hash": "0x87c666ac17295955afe95742b69588eb816b4a7b416ff03de6a2315144746090",
+  "input": "0x2b20419a000000000000000000000000000000000000000000000000000000000000000100000000000000000000000000000000000000000000000000000000000000600000000000000000000000000000000000000000000000000000000000000001000000000000000000000000000000000000000000000000000000000000000a49c517ab2ff285daf96b74052ccb72eaf420952feef36482f88d8159b88d4c92f4a5f7169f6ae5998371a718d8bf766774a77cd822d519d1d783f597ace4410dbd389d89c662d17716e80fbd8e578f3b916fe71991835d2c84e778c216431c39fc4b8841601e171470b3e2769fd610f50b667e245eaefb536fcb84f455003eed34aeb9e815cbb9a958b8ec0e8e363c92e4b2c31cc1ab44a7c1e77b4d850dbed3bbda3b0253639afb35813073a866ad63a1f969d1f76692f9b62bd859612c749f639d48ac8020612c91929d413d589493d049fcba271ddaca70216dd6bd6347cf7765dfddf421d6dcceb6add92daff3e392b50bdc47e6a9f5deeefe73f76966438541c30cb71a7981ecfc6cce1679ed48f5219efaa481a29a6f931af8d9f7d58fd825abcf5d91ff8b4f8686624622093b771e63606f9668d54a335f60cc972289",
+  "internalTransactions": [],
+  "logs": [
+    {
+      "address": "0x2b709bde12ce759a1a5af45cd9bcc27cb05a6e14",
+      "data": "0x",
+      "logIndex": 105,
+      "topics": [
+        "0xddf252ad1be2c89b69c2b068fc378daa952ba7f163c4a11628f55a4df523b3ef",
+        "0x0000000000000000000000000000000000000000000000000000000000000000",
+        "0x000000000000000000000000695684881d525b241e4624be6d2dd4b43e857269",
+        "0x00000000000000000000000000000000000000000000000000000000000006c9"
+      ],
+      "transactionHash": "0x87c666ac17295955afe95742b69588eb816b4a7b416ff03de6a2315144746090",
+      "eventName": "Transfer",
+      "args": [
+        {
+          "indexed": true,
+          "name": "from",
+          "type": "address",
+          "value": "0x0000000000000000000000000000000000000000"
+        },
+        {
+          "indexed": true,
+          "name": "to",
+          "type": "address",
+          "value": "0x695684881d525b241e4624be6d2dd4b43e857269"
+        },
+        {
+          "indexed": true,
+          "name": "tokenId",
+          "type": "uint256",
+          "value": "1737"
+        }
+      ]
+    }
+  ],
+  "status": "success",
+  "timestamp": 1672031111000,
+  "to": {
+    "chainId": 1,
+    "address": "0x2b709bde12ce759a1a5af45cd9bcc27cb05a6e14"
+  },
+  "value": "0",
+  "function": {
+    "args": [
+      {
+        "type": "uint256",
+        "name": "amount",
+        "value": "1"
+      },
+      {
+        "type": "bytes32[]",
+        "name": "proof",
+        "value": [
+          "0x49c517ab2ff285daf96b74052ccb72eaf420952feef36482f88d8159b88d4c92",
+          "0xf4a5f7169f6ae5998371a718d8bf766774a77cd822d519d1d783f597ace4410d",
+          "0xbd389d89c662d17716e80fbd8e578f3b916fe71991835d2c84e778c216431c39",
+          "0xfc4b8841601e171470b3e2769fd610f50b667e245eaefb536fcb84f455003eed",
+          "0x34aeb9e815cbb9a958b8ec0e8e363c92e4b2c31cc1ab44a7c1e77b4d850dbed3",
+          "0xbbda3b0253639afb35813073a866ad63a1f969d1f76692f9b62bd859612c749f",
+          "0x639d48ac8020612c91929d413d589493d049fcba271ddaca70216dd6bd6347cf",
+          "0x7765dfddf421d6dcceb6add92daff3e392b50bdc47e6a9f5deeefe73f7696643",
+          "0x8541c30cb71a7981ecfc6cce1679ed48f5219efaa481a29a6f931af8d9f7d58f",
+          "0xd825abcf5d91ff8b4f8686624622093b771e63606f9668d54a335f60cc972289"
+        ]
+      },
+      {
+        "type": "uint256",
+        "name": "maxMintableAmount",
+        "value": "1"
+      }
+    ],
+    "name": "wlMint",
+    "interface": "wlMint(uint256, bytes32[], uint256)"
+  }
+}

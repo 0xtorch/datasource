@@ -1,0 +1,98 @@
+{
+  "blockNumber": 16305546,
+  "chainId": 1,
+  "effectiveGasPrice": "16420030856",
+  "erc20Transfers": [],
+  "erc721Transfers": [
+    {
+      "address": "0xf7d1f4f8a7818ca3d92b1ca01b8051520b054d57",
+      "logIndex": 181,
+      "from": "0x0000000000000000000000000000000000000000",
+      "to": "0x695684881d525b241e4624be6d2dd4b43e857269",
+      "tokenId": "460",
+      "token": {
+        "type": "Nft",
+        "id": "evm_721_1_0xf7d1f4f8a7818ca3d92b1ca01b8051520b054d57_460",
+        "updatedAt": 0
+      }
+    }
+  ],
+  "erc1155Transfers": [],
+  "from": {
+    "chainId": 1,
+    "address": "0x695684881d525b241e4624be6d2dd4b43e857269"
+  },
+  "gasUsed": "184831",
+  "hash": "0x7243a8ceaf70c7283f96f6c7b383af4dfae75a61f47e263973e1da1de57de4b8",
+  "input": "0xb61c5e6900000000000000000000000000000000000000000000000000000000000000040000000000000000000000000000000000000000000000000000000000000040000000000000000000000000000000000000000000000000000000000000000a2e58d8930e8e8f2b0ac42cc0e180f69b8c034050e89944192cbe9cadec357b0d20db08d25491a59a043f442a284c3b574dec9b0e7db2191ecb9379f5259003761a64f2cbb2b0da342a77029a4e8599a40a60302d629939926b8d2bea335b6829157fb39248b26d3ad0f489358cfb04051dc14a94f7a7692f6b12087de24eb6f10f4d88ba6f1ce753fcc0467173f16796f1f1fd0224333ff5779359968fea15eab3690eb95d76e131eaecda7a4553f2e8b609cd115b0697e7223a8c3539b61b85dc860cb2807df8f67ff411eeb0a7c700dc9b6c9df37c6ae3b448b2f12a94594b4ded27b308d2bbd635f6c3f33b98c6de8421e5456ec5875cab2601934f8049be8211e370c056d70cc3941d1b8afe73dbb3924411fbd13bea0f31155b224b58ebce2c96a8f45b3c4e311ebf28ce231a5effe86a37bd55bed198f03e0752c72f36",
+  "internalTransactions": [],
+  "logs": [
+    {
+      "address": "0xf7d1f4f8a7818ca3d92b1ca01b8051520b054d57",
+      "data": "0x",
+      "logIndex": 181,
+      "topics": [
+        "0xddf252ad1be2c89b69c2b068fc378daa952ba7f163c4a11628f55a4df523b3ef",
+        "0x0000000000000000000000000000000000000000000000000000000000000000",
+        "0x000000000000000000000000695684881d525b241e4624be6d2dd4b43e857269",
+        "0x00000000000000000000000000000000000000000000000000000000000001cc"
+      ],
+      "transactionHash": "0x7243a8ceaf70c7283f96f6c7b383af4dfae75a61f47e263973e1da1de57de4b8",
+      "eventName": "Transfer",
+      "args": [
+        {
+          "indexed": true,
+          "name": "from",
+          "type": "address",
+          "value": "0x0000000000000000000000000000000000000000"
+        },
+        {
+          "indexed": true,
+          "name": "to",
+          "type": "address",
+          "value": "0x695684881d525b241e4624be6d2dd4b43e857269"
+        },
+        {
+          "indexed": true,
+          "name": "tokenId",
+          "type": "uint256",
+          "value": "460"
+        }
+      ]
+    }
+  ],
+  "status": "success",
+  "timestamp": 1672499387000,
+  "to": {
+    "chainId": 1,
+    "address": "0xf7d1f4f8a7818ca3d92b1ca01b8051520b054d57"
+  },
+  "value": "10000000000000000",
+  "function": {
+    "args": [
+      {
+        "type": "uint8",
+        "name": "mintType",
+        "value": 4
+      },
+      {
+        "type": "bytes32[]",
+        "name": "proof",
+        "value": [
+          "0x2e58d8930e8e8f2b0ac42cc0e180f69b8c034050e89944192cbe9cadec357b0d",
+          "0x20db08d25491a59a043f442a284c3b574dec9b0e7db2191ecb9379f525900376",
+          "0x1a64f2cbb2b0da342a77029a4e8599a40a60302d629939926b8d2bea335b6829",
+          "0x157fb39248b26d3ad0f489358cfb04051dc14a94f7a7692f6b12087de24eb6f1",
+          "0x0f4d88ba6f1ce753fcc0467173f16796f1f1fd0224333ff5779359968fea15ea",
+          "0xb3690eb95d76e131eaecda7a4553f2e8b609cd115b0697e7223a8c3539b61b85",
+          "0xdc860cb2807df8f67ff411eeb0a7c700dc9b6c9df37c6ae3b448b2f12a94594b",
+          "0x4ded27b308d2bbd635f6c3f33b98c6de8421e5456ec5875cab2601934f8049be",
+          "0x8211e370c056d70cc3941d1b8afe73dbb3924411fbd13bea0f31155b224b58eb",
+          "0xce2c96a8f45b3c4e311ebf28ce231a5effe86a37bd55bed198f03e0752c72f36"
+        ]
+      }
+    ],
+    "name": "mint",
+    "interface": "mint(uint8, bytes32[])"
+  }
+}

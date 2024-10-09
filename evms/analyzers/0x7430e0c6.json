@@ -60,13 +60,17 @@
         "type": "cross-trade",
         "crossId": {
           "type": "join",
-          "values": ["foundation_", { "type": "function", "index": 0 }]
+          "values": [
+            "foundation_",
+            {
+              "type": "function",
+              "index": 0
+            }
+          ]
         },
         "crossType": "end",
         "transfers": [
           {
-            "type": "erc721",
-            "direction": "in",
             "from": {
               "type": "array-in",
               "not": true,
@@ -75,11 +79,11 @@
             "to": {
               "type": "array-in",
               "values": ["related"]
-            }
+            },
+            "type": "erc721",
+            "direction": "in"
           },
           {
-            "type": "erc1155",
-            "direction": "in",
             "from": {
               "type": "array-in",
               "not": true,
@@ -92,7 +96,9 @@
             "amount": {
               "type": "between",
               "min": "1"
-            }
+            },
+            "type": "erc1155",
+            "direction": "in"
           }
         ]
       }
@@ -159,7 +165,13 @@
         "type": "cross-trade",
         "crossId": {
           "type": "join",
-          "values": ["foundation_", { "type": "function", "index": 0 }]
+          "values": [
+            "foundation_",
+            {
+              "type": "function",
+              "index": 0
+            }
+          ]
         },
         "crossType": "end",
         "transfers": [
@@ -174,6 +186,83 @@
             "to": {
               "type": "array-in",
               "values": ["related"]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "example": {
+      "chainId": 1,
+      "hash": "0x1095a0ef8c1ea22d07db6655dd08901d52c2c91f7f0a5b0f674c364ab4293dd1",
+      "addresses": ["0x695684881d525b241e4624be6d2dd4b43e857269"]
+    },
+    "condition": {
+      "related": {
+        "type": "array-in",
+        "not": true,
+        "values": [
+          {
+            "type": "log",
+            "signature": "0x2edb0e99c6ac35be6731dab554c1d1fa1b7beb675090dbb09fb14e615aca1c4a",
+            "indexedCount": 3,
+            "index": 0,
+            "value": 1
+          }
+        ]
+      },
+      "value": {
+        "type": "between",
+        "max": "0"
+      },
+      "function": {
+        "id": "0x7430e0c6",
+        "interface": "finalizeReserveAuction(uint256)"
+      },
+      "logs": {
+        "type": "some",
+        "patterns": [
+          {
+            "signature": "0xddf252ad1be2c89b69c2b068fc378daa952ba7f163c4a11628f55a4df523b3ef",
+            "indexedCount": 3,
+            "count": {
+              "type": "between",
+              "min": "1",
+              "max": "1"
+            }
+          },
+          {
+            "signature": "0x2edb0e99c6ac35be6731dab554c1d1fa1b7beb675090dbb09fb14e615aca1c4a",
+            "indexedCount": 3,
+            "count": {
+              "type": "between",
+              "min": "1",
+              "max": "1"
+            }
+          }
+        ]
+      }
+    },
+    "generators": [
+      {
+        "type": "nft-royalty",
+        "transfers": [
+          {
+            "type": "internal",
+            "direction": "in",
+            "from": {
+              "type": "array-in",
+              "not": true,
+              "values": ["related"]
+            },
+            "to": {
+              "type": "array-in",
+              "values": ["related"]
+            },
+            "value": {
+              "type": "between",
+              "min": "1"
             }
           }
         ]

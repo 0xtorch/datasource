@@ -2,7 +2,7 @@
   {
     "example": {
       "chainId": 1,
-      "hash": "0xa2b92d159671ba7a46cf25db26b0b8d3d7bfb6f281af15596617ebeee4bb8319",
+      "hash": "0xb3c2244fa8924db934f9215479de91a41fd8cadfcd25427971b5b502737d52c0",
       "addresses": ["0x695684881d525b241e4624be6d2dd4b43e857269"]
     },
     "condition": {
@@ -19,8 +19,8 @@
         "min": "1"
       },
       "function": {
-        "id": "0x84bb1e42",
-        "interface": "claim(address, uint256, address, uint256, tuple, bytes)"
+        "id": "0x2955a21d",
+        "interface": "mint(bytes, uint256, uint256, uint256, address)"
       },
       "logs": {
         "type": "some",
@@ -34,8 +34,17 @@
             }
           },
           {
-            "signature": "0xfa76a4010d9533e3e964f2930a65fb6042a12fa6ff5b08281837a10b0be7321e",
-            "indexedCount": 3,
+            "signature": "0x3d0ce9bfc3ed7d6862dbb28b2dea94561fe714a1b4d019aa8af39730d1ad7c3d",
+            "indexedCount": 1,
+            "count": {
+              "type": "between",
+              "min": "1",
+              "max": "1"
+            }
+          },
+          {
+            "signature": "0x4c209b5fc8ad50758f13e2e1088ba56a560dff690a1c6fef26394f4c03821c4f",
+            "indexedCount": 0,
             "count": {
               "type": "between",
               "min": "1",
