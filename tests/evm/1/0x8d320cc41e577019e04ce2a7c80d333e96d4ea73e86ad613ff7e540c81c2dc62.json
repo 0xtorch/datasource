@@ -1,0 +1,82 @@
+{
+  "blockNumber": 17008774,
+  "chainId": 1,
+  "effectiveGasPrice": "19408997133",
+  "erc20Transfers": [],
+  "erc721Transfers": [
+    {
+      "address": "0x4d5063a80eef4bc72dccb67f90ebd72883324844",
+      "logIndex": 245,
+      "from": "0x0000000000000000000000000000000000000000",
+      "to": "0x695684881d525b241e4624be6d2dd4b43e857269",
+      "tokenId": "476",
+      "token": {
+        "type": "Nft",
+        "id": "evm_721_1_0x4d5063a80eef4bc72dccb67f90ebd72883324844_476",
+        "updatedAt": 0
+      }
+    }
+  ],
+  "erc1155Transfers": [],
+  "from": {
+    "chainId": 1,
+    "address": "0x695684881d525b241e4624be6d2dd4b43e857269"
+  },
+  "gasUsed": "176788",
+  "hash": "0x8d320cc41e577019e04ce2a7c80d333e96d4ea73e86ad613ff7e540c81c2dc62",
+  "input": "0x5a5e5d580000000000000000000000000000000000000000000000000000000000000001",
+  "internalTransactions": [],
+  "logs": [
+    {
+      "address": "0x4d5063a80eef4bc72dccb67f90ebd72883324844",
+      "data": "0x",
+      "logIndex": 245,
+      "topics": [
+        "0xddf252ad1be2c89b69c2b068fc378daa952ba7f163c4a11628f55a4df523b3ef",
+        "0x0000000000000000000000000000000000000000000000000000000000000000",
+        "0x000000000000000000000000695684881d525b241e4624be6d2dd4b43e857269",
+        "0x00000000000000000000000000000000000000000000000000000000000001dc"
+      ],
+      "transactionHash": "0x8d320cc41e577019e04ce2a7c80d333e96d4ea73e86ad613ff7e540c81c2dc62",
+      "eventName": "Transfer",
+      "args": [
+        {
+          "indexed": true,
+          "name": "from",
+          "type": "address",
+          "value": "0x0000000000000000000000000000000000000000"
+        },
+        {
+          "indexed": true,
+          "name": "to",
+          "type": "address",
+          "value": "0x695684881d525b241e4624be6d2dd4b43e857269"
+        },
+        {
+          "indexed": true,
+          "name": "tokenId",
+          "type": "uint256",
+          "value": "476"
+        }
+      ]
+    }
+  ],
+  "status": "success",
+  "timestamp": 1681019183000,
+  "to": {
+    "chainId": 1,
+    "address": "0x3c38c0b63b1ac30287f9d2d3b7d6ff4d09319cdf"
+  },
+  "value": "36900000000000000",
+  "function": {
+    "args": [
+      {
+        "type": "uint256",
+        "name": "amount",
+        "value": "1"
+      }
+    ],
+    "name": "mintPublicSale",
+    "interface": "mintPublicSale(uint256)"
+  }
+}

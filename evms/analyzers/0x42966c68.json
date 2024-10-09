@@ -2,7 +2,7 @@
   {
     "example": {
       "chainId": 1,
-      "hash": "0xe4ffb5bada4ed87fcba191167d91be0ece5063af9e8b04e546adead6a8f14639",
+      "hash": "0xf4eccb2635b1a557cdac24f9336d588198e1df50615b2f90d1a838c5a163aeaf",
       "addresses": ["0x695684881d525b241e4624be6d2dd4b43e857269"]
     },
     "condition": {
@@ -16,32 +16,32 @@
       },
       "value": {
         "type": "between",
-        "min": "1"
+        "max": "0"
       },
       "function": {
-        "id": "0xd198cf79",
-        "interface": "PRIVATE_mint(uint256[], uint256[], uint256, bytes32[], uint256, bytes32[])"
+        "id": "0x42966c68",
+        "interface": "burn(uint256)"
       },
       "logs": {
-        "type": "some",
+        "type": "exact",
         "patterns": [
           {
+            "signature": "0x8c5be1e5ebec7d5bd14f71427d1e84f3dd0314c0f7b2291e5b200ac8c7c3b925",
+            "indexedCount": 3
+          },
+          {
             "signature": "0xddf252ad1be2c89b69c2b068fc378daa952ba7f163c4a11628f55a4df523b3ef",
-            "indexedCount": 3,
-            "count": {
-              "type": "between",
-              "min": "1"
-            }
+            "indexedCount": 3
           }
         ]
       }
     },
     "generators": [
       {
-        "type": "mint-nft",
+        "type": "burn",
         "transfers": [
           {
-            "type": "value",
+            "type": "erc721",
             "direction": "out",
             "from": {
               "type": "array-in",
@@ -50,23 +50,6 @@
             "to": {
               "type": "array-in",
               "not": true,
-              "values": ["related"]
-            },
-            "value": {
-              "type": "between",
-              "min": "1"
-            }
-          },
-          {
-            "type": "erc721",
-            "direction": "in",
-            "from": {
-              "type": "array-in",
-              "not": true,
-              "values": ["related"]
-            },
-            "to": {
-              "type": "array-in",
               "values": ["related"]
             }
           }

@@ -1,0 +1,211 @@
+{
+  "blockNumber": 16822695,
+  "chainId": 1,
+  "effectiveGasPrice": "21765788211",
+  "erc20Transfers": [],
+  "erc721Transfers": [],
+  "erc1155Transfers": [
+    {
+      "address": "0x66eaaa05c6ffc9c41f639a37eea6855ddbb61d05",
+      "logIndex": 209,
+      "from": "0x695684881d525b241e4624be6d2dd4b43e857269",
+      "to": "0x0000000000000000000000000000000000000000",
+      "tokenId": "1",
+      "value": "5",
+      "token": {
+        "type": "Nft",
+        "id": "evm_1155_1_0x66eaaa05c6ffc9c41f639a37eea6855ddbb61d05_1",
+        "updatedAt": 0
+      }
+    },
+    {
+      "address": "0x66eaaa05c6ffc9c41f639a37eea6855ddbb61d05",
+      "logIndex": 210,
+      "from": "0x0000000000000000000000000000000000000000",
+      "to": "0x695684881d525b241e4624be6d2dd4b43e857269",
+      "tokenId": "4",
+      "value": "1",
+      "token": {
+        "type": "Nft",
+        "id": "evm_1155_1_0x66eaaa05c6ffc9c41f639a37eea6855ddbb61d05_4",
+        "updatedAt": 0
+      }
+    }
+  ],
+  "from": {
+    "chainId": 1,
+    "address": "0x695684881d525b241e4624be6d2dd4b43e857269"
+  },
+  "gasUsed": "143929",
+  "hash": "0xedbf9323a4b73e08d7a112520da870a9f2f9f244a058bd25309b3ba0db624fd1",
+  "input": "0xc9dad69600000000000000000000000066eaaa05c6ffc9c41f639a37eea6855ddbb61d05000000000000000000000000000000000000000000000000000000003f0d60f000000000000000000000000000000000000000000000000000000000000000010000000000000000000000000000000000000000000000000000000000000080000000000000000000000000000000000000000000000000000000000000000100000000000000000000000000000000000000000000000000000000000000200000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000066eaaa05c6ffc9c41f639a37eea6855ddbb61d05000000000000000000000000000000000000000000000000000000000000000100000000000000000000000000000000000000000000000000000000000000a000000000000000000000000000000000000000000000000000000000000000010000000000000000000000000000000000000000000000000000000000000000",
+  "internalTransactions": [],
+  "logs": [
+    {
+      "address": "0x66eaaa05c6ffc9c41f639a37eea6855ddbb61d05",
+      "data": "0x00000000000000000000000000000000000000000000000000000000000000010000000000000000000000000000000000000000000000000000000000000005",
+      "logIndex": 209,
+      "topics": [
+        "0xc3d58168c5ae7397731d063d5bbf3d657854427343f4c083240f7aacaa2d0f62",
+        "0x000000000000000000000000fa1b15df09c2944a91a2f9f10a6133090d4119bd",
+        "0x000000000000000000000000695684881d525b241e4624be6d2dd4b43e857269",
+        "0x0000000000000000000000000000000000000000000000000000000000000000"
+      ],
+      "transactionHash": "0xedbf9323a4b73e08d7a112520da870a9f2f9f244a058bd25309b3ba0db624fd1",
+      "eventName": "TransferSingle",
+      "args": [
+        {
+          "indexed": true,
+          "name": "operator",
+          "type": "address",
+          "value": "0xfa1b15df09c2944a91a2f9f10a6133090d4119bd"
+        },
+        {
+          "indexed": true,
+          "name": "from",
+          "type": "address",
+          "value": "0x695684881d525b241e4624be6d2dd4b43e857269"
+        },
+        {
+          "indexed": true,
+          "name": "to",
+          "type": "address",
+          "value": "0x0000000000000000000000000000000000000000"
+        },
+        {
+          "indexed": false,
+          "name": "id",
+          "type": "uint256",
+          "value": "1"
+        },
+        {
+          "indexed": false,
+          "name": "value",
+          "type": "uint256",
+          "value": "5"
+        }
+      ]
+    },
+    {
+      "address": "0x66eaaa05c6ffc9c41f639a37eea6855ddbb61d05",
+      "data": "0x00000000000000000000000000000000000000000000000000000000000000040000000000000000000000000000000000000000000000000000000000000001",
+      "logIndex": 210,
+      "topics": [
+        "0xc3d58168c5ae7397731d063d5bbf3d657854427343f4c083240f7aacaa2d0f62",
+        "0x000000000000000000000000fa1b15df09c2944a91a2f9f10a6133090d4119bd",
+        "0x0000000000000000000000000000000000000000000000000000000000000000",
+        "0x000000000000000000000000695684881d525b241e4624be6d2dd4b43e857269"
+      ],
+      "transactionHash": "0xedbf9323a4b73e08d7a112520da870a9f2f9f244a058bd25309b3ba0db624fd1",
+      "eventName": "TransferSingle",
+      "args": [
+        {
+          "indexed": true,
+          "name": "operator",
+          "type": "address",
+          "value": "0xfa1b15df09c2944a91a2f9f10a6133090d4119bd"
+        },
+        {
+          "indexed": true,
+          "name": "from",
+          "type": "address",
+          "value": "0x0000000000000000000000000000000000000000"
+        },
+        {
+          "indexed": true,
+          "name": "to",
+          "type": "address",
+          "value": "0x695684881d525b241e4624be6d2dd4b43e857269"
+        },
+        {
+          "indexed": false,
+          "name": "id",
+          "type": "uint256",
+          "value": "4"
+        },
+        {
+          "indexed": false,
+          "name": "value",
+          "type": "uint256",
+          "value": "1"
+        }
+      ]
+    },
+    {
+      "address": "0xfa1b15df09c2944a91a2f9f10a6133090d4119bd",
+      "data": "0x",
+      "logIndex": 211,
+      "topics": [
+        "0xe728850e46a56a3fba2c081f2fd18bf58c36ed66ee183389e92b075910f2da09",
+        "0x00000000000000000000000066eaaa05c6ffc9c41f639a37eea6855ddbb61d05",
+        "0x000000000000000000000000000000000000000000000000000000003f0d60f0",
+        "0x0000000000000000000000000000000000000000000000000000000000000004"
+      ],
+      "transactionHash": "0xedbf9323a4b73e08d7a112520da870a9f2f9f244a058bd25309b3ba0db624fd1",
+      "eventName": "BurnRedeemMint",
+      "args": [
+        {
+          "indexed": true,
+          "name": "creatorContract",
+          "type": "address",
+          "value": "0x66eAAA05C6fFC9c41F639a37eEa6855DdBB61D05"
+        },
+        {
+          "indexed": true,
+          "name": "index",
+          "type": "uint256",
+          "value": "1057841392"
+        },
+        {
+          "indexed": true,
+          "name": "tokenId",
+          "type": "uint256",
+          "value": "4"
+        }
+      ]
+    }
+  ],
+  "status": "success",
+  "timestamp": 1678754483000,
+  "to": {
+    "chainId": 1,
+    "address": "0xfa1b15df09c2944a91a2f9f10a6133090d4119bd"
+  },
+  "value": "690000000000000",
+  "function": {
+    "args": [
+      {
+        "type": "address",
+        "name": "creatorContractAddress",
+        "value": "0x66eAAA05C6fFC9c41F639a37eEa6855DdBB61D05"
+      },
+      {
+        "type": "uint256",
+        "name": "index",
+        "value": "1057841392"
+      },
+      {
+        "type": "uint32",
+        "name": "burnRedeemCount",
+        "value": 1
+      },
+      {
+        "type": "tuple[]",
+        "name": "burnTokens",
+        "value": [
+          {
+            "groupIndex": 0,
+            "itemIndex": 0,
+            "contractAddress": "0x66eAAA05C6fFC9c41F639a37eEa6855DdBB61D05",
+            "id": "1",
+            "merkleProof": [
+              "0x0000000000000000000000000000000000000000000000000000000000000000"
+            ]
+          }
+        ]
+      }
+    ],
+    "name": "burnRedeem",
+    "interface": "burnRedeem(address, uint256, uint32, tuple[])"
+  }
+}

@@ -1,0 +1,100 @@
+{
+  "blockNumber": 16801144,
+  "chainId": 1,
+  "effectiveGasPrice": "36503836182",
+  "erc20Transfers": [],
+  "erc721Transfers": [],
+  "erc1155Transfers": [
+    {
+      "address": "0xb88110bad78d8d918e5bcbb20e17d5cfa233a25c",
+      "logIndex": 385,
+      "from": "0x0000000000000000000000000000000000000000",
+      "to": "0x695684881d525b241e4624be6d2dd4b43e857269",
+      "tokenId": "0",
+      "value": "1",
+      "token": {
+        "type": "Nft",
+        "id": "evm_1155_1_0xb88110bad78d8d918e5bcbb20e17d5cfa233a25c_0",
+        "updatedAt": 0
+      }
+    }
+  ],
+  "from": {
+    "chainId": 1,
+    "address": "0x695684881d525b241e4624be6d2dd4b43e857269"
+  },
+  "gasUsed": "83504",
+  "hash": "0x567519a0158dc74d5712c3b9b052a8f64f1c6e8c83909a280453991efe923c8a",
+  "input": "0x1b2ef1ca00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000001",
+  "internalTransactions": [],
+  "logs": [
+    {
+      "address": "0xb88110bad78d8d918e5bcbb20e17d5cfa233a25c",
+      "data": "0x00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000001",
+      "logIndex": 385,
+      "topics": [
+        "0xc3d58168c5ae7397731d063d5bbf3d657854427343f4c083240f7aacaa2d0f62",
+        "0x000000000000000000000000695684881d525b241e4624be6d2dd4b43e857269",
+        "0x0000000000000000000000000000000000000000000000000000000000000000",
+        "0x000000000000000000000000695684881d525b241e4624be6d2dd4b43e857269"
+      ],
+      "transactionHash": "0x567519a0158dc74d5712c3b9b052a8f64f1c6e8c83909a280453991efe923c8a",
+      "eventName": "TransferSingle",
+      "args": [
+        {
+          "indexed": true,
+          "name": "operator",
+          "type": "address",
+          "value": "0x695684881d525b241e4624be6d2dd4b43e857269"
+        },
+        {
+          "indexed": true,
+          "name": "from",
+          "type": "address",
+          "value": "0x0000000000000000000000000000000000000000"
+        },
+        {
+          "indexed": true,
+          "name": "to",
+          "type": "address",
+          "value": "0x695684881d525b241e4624be6d2dd4b43e857269"
+        },
+        {
+          "indexed": false,
+          "name": "id",
+          "type": "uint256",
+          "value": "0"
+        },
+        {
+          "indexed": false,
+          "name": "value",
+          "type": "uint256",
+          "value": "1"
+        }
+      ]
+    }
+  ],
+  "status": "success",
+  "timestamp": 1678492811000,
+  "to": {
+    "chainId": 1,
+    "address": "0xb88110bad78d8d918e5bcbb20e17d5cfa233a25c"
+  },
+  "value": "0",
+  "function": {
+    "args": [
+      {
+        "type": "uint256",
+        "name": "num",
+        "value": "0"
+      },
+      {
+        "type": "uint256",
+        "name": "metadata",
+        "value": "1"
+      }
+    ],
+    "name": "mint",
+    "interface": "mint(uint256, uint256)"
+  }
+}
