@@ -1,0 +1,95 @@
+{
+  "blockNumber": 17102211,
+  "chainId": 1,
+  "effectiveGasPrice": "33555093156",
+  "erc20Transfers": [],
+  "erc721Transfers": [],
+  "erc1155Transfers": [],
+  "from": {
+    "chainId": 1,
+    "address": "0xd7eb0bfe54d0b847ececd3f1263656b00c504c83"
+  },
+  "gasUsed": "59071",
+  "hash": "0x56c92a7e72bcda37e08bd53707b4e99a7a69134f3a5b8d588835b38307aa7577",
+  "input": "0xb6aff8c100000000000000000000000000000000000000000000000000000000000512de0000000000000000000000000000000000000000000000000186cc6acd4b00000000000000000000000000000000000000000000000000000000000000000000",
+  "internalTransactions": [
+    {
+      "blockNumber": 17102211,
+      "from": "0xcda72070e455bb31c7690a170224ce43623d0b6f",
+      "gas": "4589",
+      "isError": false,
+      "timestamp": 1682170487000,
+      "to": "0x695684881d525b241e4624be6d2dd4b43e857269",
+      "txHash": "0x56c92a7e72bcda37e08bd53707b4e99a7a69134f3a5b8d588835b38307aa7577",
+      "value": "100000000000000000"
+    }
+  ],
+  "logs": [
+    {
+      "address": "0xcda72070e455bb31c7690a170224ce43623d0b6f",
+      "data": "0x0000000000000000000000000000000000000000000000000186cc6acd4b000000000000000000000000000000000000000000000000000000000000644520d7",
+      "logIndex": 622,
+      "topics": [
+        "0x26ea3ebbda62eb1baef13e1c237dddd956c87f80b2801f2616d806d52557b121",
+        "0x00000000000000000000000000000000000000000000000000000000000512de",
+        "0x000000000000000000000000d7eb0bfe54d0b847ececd3f1263656b00c504c83"
+      ],
+      "transactionHash": "0x56c92a7e72bcda37e08bd53707b4e99a7a69134f3a5b8d588835b38307aa7577",
+      "eventName": "ReserveAuctionBidPlaced",
+      "args": [
+        {
+          "indexed": true,
+          "name": "auctionId",
+          "type": "uint256",
+          "value": "332510"
+        },
+        {
+          "indexed": true,
+          "name": "bidder",
+          "type": "address",
+          "value": "0xd7eb0bfe54d0B847ECECd3F1263656B00C504C83"
+        },
+        {
+          "indexed": false,
+          "name": "amount",
+          "type": "uint256",
+          "value": "110000000000000000"
+        },
+        {
+          "indexed": false,
+          "name": "endTime",
+          "type": "uint256",
+          "value": "1682251991"
+        }
+      ]
+    }
+  ],
+  "status": "success",
+  "timestamp": 1682170487000,
+  "to": {
+    "chainId": 1,
+    "address": "0xcda72070e455bb31c7690a170224ce43623d0b6f"
+  },
+  "value": "110000000000000000",
+  "function": {
+    "args": [
+      {
+        "type": "uint256",
+        "name": "auctionId",
+        "value": "332510"
+      },
+      {
+        "type": "uint256",
+        "name": "amount",
+        "value": "110000000000000000"
+      },
+      {
+        "type": "address",
+        "name": "referrer",
+        "value": "0x0000000000000000000000000000000000000000"
+      }
+    ],
+    "name": "placeBidV2",
+    "interface": "placeBidV2(uint256, uint256, address)"
+  }
+}

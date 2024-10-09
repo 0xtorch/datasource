@@ -2,7 +2,7 @@
   {
     "example": {
       "chainId": 1,
-      "hash": "0x648fa25cb1fa3ab82363781a394dd6486617811ce70e9748daa32882068c72fc",
+      "hash": "0x238629848c2c0d2fd6747ea44ece1449e30726144916f3ca058a6a7f30cd8243",
       "addresses": ["0x695684881d525b241e4624be6d2dd4b43e857269"]
     },
     "condition": {
@@ -16,47 +16,26 @@
       },
       "value": {
         "type": "between",
-        "min": "1"
+        "max": "0"
       },
       "function": {
-        "id": "0x7bc9200e",
-        "interface": "allowlistMint(uint256, bytes32[])"
+        "id": "0x9bd02aa0",
+        "interface": "mint(uint16, string, bytes32, bytes32, bytes)"
       },
       "logs": {
-        "type": "some",
+        "type": "exact",
         "patterns": [
           {
             "signature": "0xddf252ad1be2c89b69c2b068fc378daa952ba7f163c4a11628f55a4df523b3ef",
-            "indexedCount": 3,
-            "count": {
-              "type": "between",
-              "min": "1"
-            }
+            "indexedCount": 3
           }
         ]
       }
     },
     "generators": [
       {
-        "type": "mint-nft",
+        "type": "free-mint",
         "transfers": [
-          {
-            "type": "value",
-            "direction": "out",
-            "from": {
-              "type": "array-in",
-              "values": ["related"]
-            },
-            "to": {
-              "type": "array-in",
-              "not": true,
-              "values": ["related"]
-            },
-            "value": {
-              "type": "between",
-              "min": "1"
-            }
-          },
           {
             "type": "erc721",
             "direction": "in",

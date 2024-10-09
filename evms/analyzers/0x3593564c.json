@@ -14,10 +14,6 @@
           }
         ]
       },
-      "value": {
-        "type": "between",
-        "max": "0"
-      },
       "function": {
         "id": "0x3593564c",
         "interface": "execute(bytes, bytes[], uint256)"
@@ -83,8 +79,6 @@
             }
           },
           {
-            "type": "erc20",
-            "direction": "in",
             "from": {
               "type": "array-in",
               "not": true,
@@ -97,7 +91,9 @@
             "amount": {
               "type": "between",
               "min": "1"
-            }
+            },
+            "type": "erc20",
+            "direction": "in"
           },
           {
             "type": "value",
@@ -134,8 +130,6 @@
             }
           },
           {
-            "type": "erc20",
-            "direction": "out",
             "from": {
               "type": "array-in",
               "values": ["related"]
@@ -148,7 +142,9 @@
             "amount": {
               "type": "between",
               "min": "1"
-            }
+            },
+            "type": "erc20",
+            "direction": "out"
           }
         ]
       }

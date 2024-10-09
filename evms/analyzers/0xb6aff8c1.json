@@ -2,7 +2,7 @@
   {
     "example": {
       "chainId": 1,
-      "hash": "0xd12b7f8e2c24ad53f043bd1b18b615ca72e801bbafa21524538d1baf2df0ffec",
+      "hash": "0xe80e5dc36eb9c995547ea86fc2c35f364d88487ab4b07875776aaa14be9de3cd",
       "addresses": ["0x695684881d525b241e4624be6d2dd4b43e857269"]
     },
     "condition": {
@@ -19,18 +19,14 @@
         "min": "1"
       },
       "function": {
-        "id": "0xfa2b068f",
-        "interface": "mint(address, uint256, uint32, bytes32[], address)"
+        "id": "0xb6aff8c1",
+        "interface": "placeBidV2(uint256, uint256, address)"
       },
       "logs": {
         "type": "exact",
         "patterns": [
           {
-            "signature": "0xc3d58168c5ae7397731d063d5bbf3d657854427343f4c083240f7aacaa2d0f62",
-            "indexedCount": 3
-          },
-          {
-            "signature": "0x5d404f369772cfab2b65717fca9bc2077efeab89a0dbec036bf0c13783154eb1",
+            "signature": "0x26ea3ebbda62eb1baef13e1c237dddd956c87f80b2801f2616d806d52557b121",
             "indexedCount": 2
           }
         ]
@@ -38,7 +34,18 @@
     },
     "generators": [
       {
-        "type": "mint-nft",
+        "type": "cross-trade",
+        "crossId": {
+          "type": "join",
+          "values": [
+            "foundation_",
+            {
+              "type": "function",
+              "index": 0
+            }
+          ]
+        },
+        "crossType": "start",
         "transfers": [
           {
             "type": "value",
@@ -56,23 +63,6 @@
               "type": "between",
               "min": "1"
             }
-          },
-          {
-            "from": {
-              "type": "array-in",
-              "not": true,
-              "values": ["related"]
-            },
-            "to": {
-              "type": "array-in",
-              "values": ["related"]
-            },
-            "amount": {
-              "type": "between",
-              "min": "1"
-            },
-            "type": "erc1155",
-            "direction": "in"
           }
         ]
       }
@@ -81,12 +71,13 @@
   {
     "example": {
       "chainId": 1,
-      "hash": "0x3256b979b66ba93cadce619adff36184d956cd2cd6abacb427b9f9141ea7716e",
+      "hash": "0x56c92a7e72bcda37e08bd53707b4e99a7a69134f3a5b8d588835b38307aa7577",
       "addresses": ["0x695684881d525b241e4624be6d2dd4b43e857269"]
     },
     "condition": {
       "related": {
         "type": "array-in",
+        "not": true,
         "values": [
           {
             "type": "from"
@@ -98,18 +89,14 @@
         "min": "1"
       },
       "function": {
-        "id": "0xfa2b068f",
-        "interface": "mint(address, uint256, uint32, bytes32[], address)"
+        "id": "0xb6aff8c1",
+        "interface": "placeBidV2(uint256, uint256, address)"
       },
       "logs": {
         "type": "exact",
         "patterns": [
           {
-            "signature": "0xddf252ad1be2c89b69c2b068fc378daa952ba7f163c4a11628f55a4df523b3ef",
-            "indexedCount": 3
-          },
-          {
-            "signature": "0x5d404f369772cfab2b65717fca9bc2077efeab89a0dbec036bf0c13783154eb1",
+            "signature": "0x26ea3ebbda62eb1baef13e1c237dddd956c87f80b2801f2616d806d52557b121",
             "indexedCount": 2
           }
         ]
@@ -117,27 +104,21 @@
     },
     "generators": [
       {
-        "type": "mint-nft",
+        "type": "cross-trade",
+        "crossId": {
+          "type": "join",
+          "values": [
+            "foundation_",
+            {
+              "type": "function",
+              "index": 0
+            }
+          ]
+        },
+        "crossType": "end",
         "transfers": [
           {
-            "type": "value",
-            "direction": "out",
-            "from": {
-              "type": "array-in",
-              "values": ["related"]
-            },
-            "to": {
-              "type": "array-in",
-              "not": true,
-              "values": ["related"]
-            },
-            "value": {
-              "type": "between",
-              "min": "1"
-            }
-          },
-          {
-            "type": "erc721",
+            "type": "internal",
             "direction": "in",
             "from": {
               "type": "array-in",
@@ -147,6 +128,10 @@
             "to": {
               "type": "array-in",
               "values": ["related"]
+            },
+            "value": {
+              "type": "between",
+              "min": "1"
             }
           }
         ]

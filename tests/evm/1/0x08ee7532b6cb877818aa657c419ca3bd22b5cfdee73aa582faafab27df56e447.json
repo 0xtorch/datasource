@@ -1,0 +1,169 @@
+{
+  "blockNumber": 19075253,
+  "chainId": 1,
+  "effectiveGasPrice": "11972845205",
+  "erc20Transfers": [],
+  "erc721Transfers": [
+    {
+      "address": "0x769d8e5f869901b49458303f255ec5887e739974",
+      "logIndex": 218,
+      "from": "0x0000000000000000000000000000000000000000",
+      "to": "0x3ecd856067eddb504f3bbe757b668900299f67d9",
+      "tokenId": "16",
+      "token": {
+        "type": "Nft",
+        "id": "evm_721_1_0x769d8e5f869901b49458303f255ec5887e739974_16",
+        "updatedAt": 0
+      }
+    }
+  ],
+  "erc1155Transfers": [],
+  "from": {
+    "chainId": 1,
+    "address": "0x3ecd856067eddb504f3bbe757b668900299f67d9"
+  },
+  "gasUsed": "180341",
+  "hash": "0x08ee7532b6cb877818aa657c419ca3bd22b5cfdee73aa582faafab27df56e447",
+  "input": "0xd782d491000000000000000000000000769d8e5f869901b49458303f255ec5887e7399740000000000000000000000000000000000000000000000000000000000000001000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000800000000000000000000000000000000000000000000000000000000000000000",
+  "internalTransactions": [
+    {
+      "blockNumber": 19075253,
+      "from": "0x53f451165ba6fdbe39a134673d13948261b2334a",
+      "gas": "19730",
+      "isError": false,
+      "timestamp": 1706084291000,
+      "to": "0x695684881d525b241e4624be6d2dd4b43e857269",
+      "txHash": "0x08ee7532b6cb877818aa657c419ca3bd22b5cfdee73aa582faafab27df56e447",
+      "value": "9500000000000000"
+    },
+    {
+      "blockNumber": 19075253,
+      "from": "0x53f451165ba6fdbe39a134673d13948261b2334a",
+      "gas": "10175",
+      "isError": false,
+      "timestamp": 1706084291000,
+      "to": "0x67df244584b67e8c51b10ad610aaffa9a402fdb6",
+      "txHash": "0x08ee7532b6cb877818aa657c419ca3bd22b5cfdee73aa582faafab27df56e447",
+      "value": "500000000000000"
+    }
+  ],
+  "logs": [
+    {
+      "address": "0x769d8e5f869901b49458303f255ec5887e739974",
+      "data": "0x",
+      "logIndex": 218,
+      "topics": [
+        "0xddf252ad1be2c89b69c2b068fc378daa952ba7f163c4a11628f55a4df523b3ef",
+        "0x0000000000000000000000000000000000000000000000000000000000000000",
+        "0x0000000000000000000000003ecd856067eddb504f3bbe757b668900299f67d9",
+        "0x0000000000000000000000000000000000000000000000000000000000000010"
+      ],
+      "transactionHash": "0x08ee7532b6cb877818aa657c419ca3bd22b5cfdee73aa582faafab27df56e447",
+      "eventName": "Transfer",
+      "args": [
+        {
+          "indexed": true,
+          "name": "from",
+          "type": "address",
+          "value": "0x0000000000000000000000000000000000000000"
+        },
+        {
+          "indexed": true,
+          "name": "to",
+          "type": "address",
+          "value": "0x3ecd856067eddb504f3bbe757b668900299f67d9"
+        },
+        {
+          "indexed": true,
+          "name": "tokenId",
+          "type": "uint256",
+          "value": "16"
+        }
+      ]
+    },
+    {
+      "address": "0x53f451165ba6fdbe39a134673d13948261b2334a",
+      "data": "0x00000000000000000000000000000000000000000000000000000000000000010000000000000000000000000000000000000000000000000001c6bf526340000000000000000000000000000000000000000000000000000021c0331d5dc000",
+      "logIndex": 219,
+      "topics": [
+        "0x05ebbb6b0ce7d564230ba625dd7a0e5108786b0852d6060de6099e1778203e34",
+        "0x000000000000000000000000769d8e5f869901b49458303f255ec5887e739974",
+        "0x0000000000000000000000003ecd856067eddb504f3bbe757b668900299f67d9",
+        "0x0000000000000000000000000000000000000000000000000000000000000010"
+      ],
+      "transactionHash": "0x08ee7532b6cb877818aa657c419ca3bd22b5cfdee73aa582faafab27df56e447",
+      "eventName": "MintFromFixedPriceDrop",
+      "args": [
+        {
+          "indexed": true,
+          "name": "nftContract",
+          "type": "address",
+          "value": "0x769D8E5F869901B49458303F255eC5887e739974"
+        },
+        {
+          "indexed": true,
+          "name": "buyer",
+          "type": "address",
+          "value": "0x3ECd856067edDB504f3bBe757b668900299f67d9"
+        },
+        {
+          "indexed": true,
+          "name": "firstTokenId",
+          "type": "uint256",
+          "value": "16"
+        },
+        {
+          "indexed": false,
+          "name": "count",
+          "type": "uint256",
+          "value": "1"
+        },
+        {
+          "indexed": false,
+          "name": "totalFees",
+          "type": "uint256",
+          "value": "500000000000000"
+        },
+        {
+          "indexed": false,
+          "name": "creatorRev",
+          "type": "uint256",
+          "value": "9500000000000000"
+        }
+      ]
+    }
+  ],
+  "status": "success",
+  "timestamp": 1706084291000,
+  "to": {
+    "chainId": 1,
+    "address": "0x53f451165ba6fdbe39a134673d13948261b2334a"
+  },
+  "value": "10000000000000000",
+  "function": {
+    "args": [
+      {
+        "type": "address",
+        "name": "nftContract",
+        "value": "0x769D8E5F869901B49458303F255eC5887e739974"
+      },
+      {
+        "type": "uint256",
+        "name": "count",
+        "value": "1"
+      },
+      {
+        "type": "address",
+        "name": "buyReferrer",
+        "value": "0x0000000000000000000000000000000000000000"
+      },
+      {
+        "type": "bytes32[]",
+        "name": "proof",
+        "value": []
+      }
+    ],
+    "name": "mintFromFixedPriceSaleWithEarlyAccessAllowlist",
+    "interface": "mintFromFixedPriceSaleWithEarlyAccessAllowlist(address, uint256, address, bytes32[])"
+  }
+}

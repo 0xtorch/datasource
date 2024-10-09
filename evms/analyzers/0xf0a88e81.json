@@ -1,0 +1,105 @@
+[
+  {
+    "example": {
+      "chainId": 1,
+      "hash": "0x54fa0a33b390783b31adc3f4b0d2b05923d7b8c4235f8ce63c109944970466fa",
+      "addresses": ["0x695684881d525b241e4624be6d2dd4b43e857269"]
+    },
+    "condition": {
+      "related": {
+        "type": "array-in",
+        "values": [
+          {
+            "type": "from"
+          }
+        ]
+      },
+      "value": {
+        "type": "between",
+        "min": "1"
+      },
+      "function": {
+        "id": "0xf0a88e81",
+        "interface": "claimWawa(string, uint8, tuple, uint8, bytes32, uint256, tuple)"
+      },
+      "logs": {
+        "type": "exact",
+        "patterns": [
+          {
+            "signature": "0xd2d827dddfc9c9a02afc5fc68d3251684b36e213a7999ebd90a861f25df4077e",
+            "indexedCount": 1
+          },
+          {
+            "signature": "0x244abc17bb16e23a3ee639d6073482c75e12e4558e63315297d943a5069a4c27",
+            "indexedCount": 1
+          },
+          {
+            "signature": "0x004c5e1c84ee1e8e8c68bb3923b5bac01d414e523428cd17c97071fe708bb3d2",
+            "indexedCount": 1
+          },
+          {
+            "signature": "0xcaac45fba4e23f90b030fd084aae37534807ef6a7a5cc175509dc8783e4965b2",
+            "indexedCount": 1
+          },
+          {
+            "signature": "0x26b503995a8d5efb729ffb72be7bf3e8e617971c5bd2b5aa607f69ce07d36cd3",
+            "indexedCount": 1
+          },
+          {
+            "signature": "0x3d0ce9bfc3ed7d6862dbb28b2dea94561fe714a1b4d019aa8af39730d1ad7c3d",
+            "indexedCount": 1
+          },
+          {
+            "signature": "0xddf252ad1be2c89b69c2b068fc378daa952ba7f163c4a11628f55a4df523b3ef",
+            "indexedCount": 3
+          },
+          {
+            "signature": "0x619630faf26950690a64f88f2d01969f89952fbba16c9ee97e88d9c1073d7eba",
+            "indexedCount": 3
+          },
+          {
+            "signature": "0x60e7b7727644f23535af5d862c7af3ce415bcf206b529974acc4f66aef66a8e0",
+            "indexedCount": 2
+          }
+        ]
+      }
+    },
+    "generators": [
+      {
+        "type": "mint-nft",
+        "transfers": [
+          {
+            "type": "value",
+            "direction": "out",
+            "from": {
+              "type": "array-in",
+              "values": ["related"]
+            },
+            "to": {
+              "type": "array-in",
+              "not": true,
+              "values": ["related"]
+            },
+            "value": {
+              "type": "between",
+              "min": "1"
+            }
+          },
+          {
+            "type": "erc721",
+            "direction": "in",
+            "from": {
+              "type": "array-in",
+              "not": true,
+              "values": ["related"]
+            },
+            "to": {
+              "type": "array-in",
+              "values": ["related"]
+            }
+          }
+        ]
+      }
+    ]
+  }
+]
