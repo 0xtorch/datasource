@@ -1,0 +1,175 @@
+[
+  {
+    "example": {
+      "chainId": 1,
+      "hash": "0x9e79a4ecee67ec9f67d9a85bc70b9c82b932b7439d9d13646402167426e7226c",
+      "addresses": ["0x695684881d525b241e4624be6d2dd4b43e857269"]
+    },
+    "condition": {
+      "related": {
+        "type": "array-in",
+        "values": [
+          {
+            "type": "log",
+            "signature": "0x00516abd10b395e6c97f8299bd4a334d6b6e95b4be5c2b31f1ae4cd5bae07249",
+            "indexedCount": 3,
+            "index": 0,
+            "value": 2
+          }
+        ]
+      },
+      "value": {
+        "type": "between",
+        "min": "1"
+      },
+      "function": {
+        "id": "0xd782d491",
+        "interface": "mintFromFixedPriceSaleWithEarlyAccessAllowlist(address, uint256, address, bytes32[])"
+      },
+      "logs": {
+        "type": "exact",
+        "patterns": [
+          {
+            "signature": "0xddf252ad1be2c89b69c2b068fc378daa952ba7f163c4a11628f55a4df523b3ef",
+            "indexedCount": 3
+          },
+          {
+            "signature": "0x00516abd10b395e6c97f8299bd4a334d6b6e95b4be5c2b31f1ae4cd5bae07249",
+            "indexedCount": 3
+          },
+          {
+            "signature": "0x1445764fe3fdfc2a9812ff42e9b65c2e7896d5162851f78f7d4a5578f7346ff1",
+            "indexedCount": 1
+          },
+          {
+            "signature": "0x1445764fe3fdfc2a9812ff42e9b65c2e7896d5162851f78f7d4a5578f7346ff1",
+            "indexedCount": 1
+          },
+          {
+            "signature": "0x27a4dd4ff659a9e6354fb079b2208365e5b83f55c22a4150eee2bca89501cb98",
+            "indexedCount": 2
+          },
+          {
+            "signature": "0x05ebbb6b0ce7d564230ba625dd7a0e5108786b0852d6060de6099e1778203e34",
+            "indexedCount": 3
+          }
+        ]
+      }
+    },
+    "generators": [
+      {
+        "type": "income",
+        "transfers": [
+          {
+            "type": "internal",
+            "direction": "in",
+            "from": {
+              "type": "array-in",
+              "not": true,
+              "values": ["related"]
+            },
+            "to": {
+              "type": "array-in",
+              "values": ["related"]
+            },
+            "value": {
+              "type": "between",
+              "min": "1"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "example": {
+      "chainId": 1,
+      "hash": "0x9e79a4ecee67ec9f67d9a85bc70b9c82b932b7439d9d13646402167426e7226c",
+      "addresses": ["0xf9898a8913b44e23fa21ea131983fd4a79efd41a"]
+    },
+    "condition": {
+      "related": {
+        "type": "array-in",
+        "values": [
+          {
+            "type": "from"
+          }
+        ]
+      },
+      "value": {
+        "type": "between",
+        "min": "1"
+      },
+      "function": {
+        "id": "0xd782d491",
+        "interface": "mintFromFixedPriceSaleWithEarlyAccessAllowlist(address, uint256, address, bytes32[])"
+      },
+      "logs": {
+        "type": "exact",
+        "patterns": [
+          {
+            "signature": "0xddf252ad1be2c89b69c2b068fc378daa952ba7f163c4a11628f55a4df523b3ef",
+            "indexedCount": 3
+          },
+          {
+            "signature": "0x00516abd10b395e6c97f8299bd4a334d6b6e95b4be5c2b31f1ae4cd5bae07249",
+            "indexedCount": 3
+          },
+          {
+            "signature": "0x1445764fe3fdfc2a9812ff42e9b65c2e7896d5162851f78f7d4a5578f7346ff1",
+            "indexedCount": 1
+          },
+          {
+            "signature": "0x1445764fe3fdfc2a9812ff42e9b65c2e7896d5162851f78f7d4a5578f7346ff1",
+            "indexedCount": 1
+          },
+          {
+            "signature": "0x27a4dd4ff659a9e6354fb079b2208365e5b83f55c22a4150eee2bca89501cb98",
+            "indexedCount": 2
+          },
+          {
+            "signature": "0x05ebbb6b0ce7d564230ba625dd7a0e5108786b0852d6060de6099e1778203e34",
+            "indexedCount": 3
+          }
+        ]
+      }
+    },
+    "generators": [
+      {
+        "type": "mint-nft",
+        "transfers": [
+          {
+            "type": "value",
+            "direction": "out",
+            "from": {
+              "type": "array-in",
+              "values": ["related"]
+            },
+            "to": {
+              "type": "array-in",
+              "not": true,
+              "values": ["related"]
+            },
+            "value": {
+              "type": "between",
+              "min": "1"
+            }
+          },
+          {
+            "type": "erc721",
+            "direction": "in",
+            "from": {
+              "type": "array-in",
+              "not": true,
+              "values": ["related"]
+            },
+            "to": {
+              "type": "array-in",
+              "values": ["related"]
+            }
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -2,7 +2,7 @@
   {
     "example": {
       "chainId": 1,
-      "hash": "0xc2310f0ad6a32d24c8fef7a8d52f459558cecf7eeaa1927226688db2860555f4",
+      "hash": "0xf92523bd84ad819ca246156a8d2e8659cd38d1c275e1039987909042f4eae367",
       "addresses": ["0x695684881d525b241e4624be6d2dd4b43e857269"]
     },
     "condition": {
@@ -19,8 +19,8 @@
         "max": "0"
       },
       "function": {
-        "id": "0x7cfc3ddf",
-        "interface": "mint(address, uint256, string, address)"
+        "id": "0x7884af44",
+        "interface": "mintBase(address, string)"
       },
       "logs": {
         "type": "exact",

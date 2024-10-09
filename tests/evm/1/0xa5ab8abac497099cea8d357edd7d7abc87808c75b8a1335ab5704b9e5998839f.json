@@ -1,0 +1,211 @@
+{
+  "blockNumber": 19804001,
+  "chainId": 1,
+  "effectiveGasPrice": "5783335026",
+  "erc20Transfers": [],
+  "erc721Transfers": [
+    {
+      "address": "0x089cf7445fad52da1736180571a8c3e7769fc64f",
+      "logIndex": 188,
+      "from": "0x695684881d525b241e4624be6d2dd4b43e857269",
+      "to": "0xcda72070e455bb31c7690a170224ce43623d0b6f",
+      "tokenId": "18",
+      "token": {
+        "type": "Nft",
+        "id": "evm_721_1_0x089cf7445fad52da1736180571a8c3e7769fc64f_18",
+        "updatedAt": 0
+      }
+    }
+  ],
+  "erc1155Transfers": [],
+  "from": {
+    "chainId": 1,
+    "address": "0x695684881d525b241e4624be6d2dd4b43e857269"
+  },
+  "gasUsed": "238737",
+  "hash": "0xa5ab8abac497099cea8d357edd7d7abc87808c75b8a1335ab5704b9e5998839f",
+  "input": "0x23dc8658000000000000000000000000089cf7445fad52da1736180571a8c3e7769fc64f0000000000000000000000000000000000000000000000000000000000000012000000000000000000000000000000000000000000000000016345785d8a0000000000000000000000000000000000000000000000000000000000000001518000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000001000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000600000000000000000000000000000000000000000000000000000000000000000",
+  "internalTransactions": [],
+  "logs": [
+    {
+      "address": "0x089cf7445fad52da1736180571a8c3e7769fc64f",
+      "data": "0x",
+      "logIndex": 187,
+      "topics": [
+        "0x8c5be1e5ebec7d5bd14f71427d1e84f3dd0314c0f7b2291e5b200ac8c7c3b925",
+        "0x000000000000000000000000695684881d525b241e4624be6d2dd4b43e857269",
+        "0x0000000000000000000000000000000000000000000000000000000000000000",
+        "0x0000000000000000000000000000000000000000000000000000000000000012"
+      ],
+      "transactionHash": "0xa5ab8abac497099cea8d357edd7d7abc87808c75b8a1335ab5704b9e5998839f",
+      "eventName": "Approval",
+      "args": [
+        {
+          "indexed": true,
+          "name": "owner",
+          "type": "address",
+          "value": "0x695684881d525b241e4624BE6D2Dd4b43e857269"
+        },
+        {
+          "indexed": true,
+          "name": "approved",
+          "type": "address",
+          "value": "0x0000000000000000000000000000000000000000"
+        },
+        {
+          "indexed": true,
+          "name": "tokenId",
+          "type": "uint256",
+          "value": "18"
+        }
+      ]
+    },
+    {
+      "address": "0x089cf7445fad52da1736180571a8c3e7769fc64f",
+      "data": "0x",
+      "logIndex": 188,
+      "topics": [
+        "0xddf252ad1be2c89b69c2b068fc378daa952ba7f163c4a11628f55a4df523b3ef",
+        "0x000000000000000000000000695684881d525b241e4624be6d2dd4b43e857269",
+        "0x000000000000000000000000cda72070e455bb31c7690a170224ce43623d0b6f",
+        "0x0000000000000000000000000000000000000000000000000000000000000012"
+      ],
+      "transactionHash": "0xa5ab8abac497099cea8d357edd7d7abc87808c75b8a1335ab5704b9e5998839f",
+      "eventName": "Transfer",
+      "args": [
+        {
+          "indexed": true,
+          "name": "from",
+          "type": "address",
+          "value": "0x695684881d525b241e4624be6d2dd4b43e857269"
+        },
+        {
+          "indexed": true,
+          "name": "to",
+          "type": "address",
+          "value": "0xcda72070e455bb31c7690a170224ce43623d0b6f"
+        },
+        {
+          "indexed": true,
+          "name": "tokenId",
+          "type": "uint256",
+          "value": "18"
+        }
+      ]
+    },
+    {
+      "address": "0xcda72070e455bb31c7690a170224ce43623d0b6f",
+      "data": "0x00000000000000000000000000000000000000000000000000000000000151800000000000000000000000000000000000000000000000000000000000000078000000000000000000000000000000000000000000000000016345785d8a0000000000000000000000000000000000000000000000000000000000000005b52f",
+      "logIndex": 189,
+      "topics": [
+        "0x1062dd3b35f12b4064331244d00f40c1d4831965e4285654157a2409c6217cff",
+        "0x000000000000000000000000695684881d525b241e4624be6d2dd4b43e857269",
+        "0x000000000000000000000000089cf7445fad52da1736180571a8c3e7769fc64f",
+        "0x0000000000000000000000000000000000000000000000000000000000000012"
+      ],
+      "transactionHash": "0xa5ab8abac497099cea8d357edd7d7abc87808c75b8a1335ab5704b9e5998839f",
+      "eventName": "ReserveAuctionCreated",
+      "args": [
+        {
+          "indexed": true,
+          "name": "seller",
+          "type": "address",
+          "value": "0x695684881d525b241e4624BE6D2Dd4b43e857269"
+        },
+        {
+          "indexed": true,
+          "name": "nftContract",
+          "type": "address",
+          "value": "0x089Cf7445fAD52DA1736180571a8C3e7769Fc64f"
+        },
+        {
+          "indexed": true,
+          "name": "tokenId",
+          "type": "uint256",
+          "value": "18"
+        },
+        {
+          "indexed": false,
+          "name": "duration",
+          "type": "uint256",
+          "value": "86400"
+        },
+        {
+          "indexed": false,
+          "name": "extensionDuration",
+          "type": "uint256",
+          "value": "120"
+        },
+        {
+          "indexed": false,
+          "name": "reservePrice",
+          "type": "uint256",
+          "value": "100000000000000000"
+        },
+        {
+          "indexed": false,
+          "name": "auctionId",
+          "type": "uint256",
+          "value": "374063"
+        }
+      ]
+    }
+  ],
+  "status": "success",
+  "timestamp": 1714913411000,
+  "to": {
+    "chainId": 1,
+    "address": "0x762340b8a40cdd5bfc3edd94265899fda345d0e3"
+  },
+  "value": "0",
+  "function": {
+    "args": [
+      {
+        "type": "address",
+        "name": "nftContract",
+        "value": "0x089Cf7445fAD52DA1736180571a8C3e7769Fc64f"
+      },
+      {
+        "type": "uint256",
+        "name": "tokenId",
+        "value": "18"
+      },
+      {
+        "type": "uint256",
+        "name": "reservePrice",
+        "value": "100000000000000000"
+      },
+      {
+        "type": "uint256",
+        "name": "auctionDuration",
+        "value": "86400"
+      },
+      {
+        "type": "bool",
+        "name": "shouldSetBuyPrice",
+        "value": false
+      },
+      {
+        "type": "uint256",
+        "name": "buyPrice",
+        "value": "0"
+      },
+      {
+        "type": "uint256",
+        "name": "saleStartsAt",
+        "value": "0"
+      },
+      {
+        "type": "tuple",
+        "name": "worldAssociation",
+        "value": {
+          "worldId": "0",
+          "takeRateInBasisPoints": 0,
+          "worldsApprovalData": "0x"
+        }
+      }
+    ],
+    "name": "upsertListing",
+    "interface": "upsertListing(address, uint256, uint256, uint256, bool, uint256, uint256, tuple)"
+  }
+}
