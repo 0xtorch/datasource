@@ -1,0 +1,88 @@
+[
+  {
+    "example": {
+      "chainId": 1,
+      "hash": "0xad0335042e48f111c017fbafad1ab26604d5dd634e478e06856fa108d74bc069",
+      "addresses": ["0x695684881d525b241e4624be6d2dd4b43e857269"]
+    },
+    "condition": {
+      "related": {
+        "type": "array-in",
+        "values": [
+          {
+            "type": "from"
+          }
+        ]
+      },
+      "chainId": [1],
+      "to": {
+        "type": "array-in",
+        "values": ["0xcda72070e455bb31c7690a170224ce43623d0b6f"]
+      },
+      "value": {
+        "type": "between",
+        "max": "0"
+      },
+      "function": {
+        "id": "0x798bac8d",
+        "interface": "setBuyPrice(address, uint256, uint256)"
+      },
+      "logs": {
+        "type": "some",
+        "patterns": [
+          {
+            "signature": "0xfcc77ea8bdcce862f43b7fb00fe6b0eb90d6aeead27d3800d9257cf7a05f9d96",
+            "indexedCount": 3,
+            "count": {
+              "type": "between",
+              "min": "1",
+              "max": "1"
+            }
+          }
+        ]
+      }
+    },
+    "generators": [
+      {
+        "type": "cross-trade",
+        "crossId": {
+          "type": "join",
+          "values": [
+            "foundation_",
+            {
+              "type": "log",
+              "signature": "0xfcc77ea8bdcce862f43b7fb00fe6b0eb90d6aeead27d3800d9257cf7a05f9d96",
+              "indexedCount": 3,
+              "index": 0,
+              "value": 0
+            },
+            "_",
+            {
+              "type": "log",
+              "signature": "0xfcc77ea8bdcce862f43b7fb00fe6b0eb90d6aeead27d3800d9257cf7a05f9d96",
+              "indexedCount": 3,
+              "index": 0,
+              "value": 1
+            }
+          ]
+        },
+        "crossType": "start",
+        "transfers": [
+          {
+            "type": "erc721",
+            "direction": "out",
+            "from": {
+              "type": "array-in",
+              "values": ["related"]
+            },
+            "to": {
+              "type": "array-in",
+              "not": true,
+              "values": ["related"]
+            }
+          }
+        ]
+      }
+    ]
+  }
+]

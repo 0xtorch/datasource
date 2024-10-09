@@ -2,12 +2,13 @@
   {
     "example": {
       "chainId": 1,
-      "hash": "0x8a4f92f2a7c230183ca3dafa888d9e2b8cf5c601bf9001ed12d47ed844bd552e",
-      "addresses": ["0x695684881d525b241e4624be6d2dd4b43e857269"]
+      "hash": "0x04885230a321e2f9b8a9e44e88f777bfca98ffea6a144aea07da9c997d9f50dd",
+      "addresses": ["0x0000a26b00c1f0df003000390027140000faa719"]
     },
     "condition": {
       "related": {
         "type": "array-in",
+        "not": true,
         "values": [
           {
             "type": "from"
@@ -15,22 +16,14 @@
         ]
       },
       "function": {
-        "id": "0x5ae401dc",
-        "interface": "multicall(uint256, bytes[])"
+        "id": "0xb3a34c4c",
+        "interface": "fulfillOrder(tuple, bytes32)"
       },
       "logs": {
         "type": "some",
         "patterns": [
           {
-            "signature": "0xddf252ad1be2c89b69c2b068fc378daa952ba7f163c4a11628f55a4df523b3ef",
-            "indexedCount": 2,
-            "count": {
-              "type": "between",
-              "min": "2"
-            }
-          },
-          {
-            "signature": "0x19b47279256b2a23a1665c810c8d55a1758940ee09377d4f8d26497a3577dc83",
+            "signature": "0x9d9af8e38d66c62e2c12f0225249fd9d721c54b83f48d9352c97c6cacdcb6f31",
             "indexedCount": 2,
             "count": {
               "type": "between",
@@ -42,25 +35,8 @@
     },
     "generators": [
       {
-        "type": "trade",
+        "type": "nft-royalty",
         "transfers": [
-          {
-            "type": "value",
-            "direction": "out",
-            "from": {
-              "type": "array-in",
-              "values": ["related"]
-            },
-            "to": {
-              "type": "array-in",
-              "not": true,
-              "values": ["related"]
-            },
-            "value": {
-              "type": "between",
-              "min": "1"
-            }
-          },
           {
             "type": "internal",
             "direction": "in",
@@ -94,23 +70,6 @@
             },
             "type": "erc20",
             "direction": "in"
-          },
-          {
-            "from": {
-              "type": "array-in",
-              "values": ["related"]
-            },
-            "to": {
-              "type": "array-in",
-              "not": true,
-              "values": ["related"]
-            },
-            "amount": {
-              "type": "between",
-              "min": "1"
-            },
-            "type": "erc20",
-            "direction": "out"
           }
         ]
       }
@@ -119,35 +78,19 @@
   {
     "example": {
       "chainId": 1,
-      "hash": "0x4f5a4be79c8841a2c8f1a5c93bcdfd935eff75885cb234219acea8faba6113f7",
+      "hash": "0x04885230a321e2f9b8a9e44e88f777bfca98ffea6a144aea07da9c997d9f50dd",
       "addresses": ["0x695684881d525b241e4624be6d2dd4b43e857269"]
     },
     "condition": {
-      "related": {
-        "type": "array-in",
-        "values": [
-          {
-            "type": "from"
-          }
-        ]
-      },
       "function": {
-        "id": "0x5ae401dc",
-        "interface": "multicall(uint256, bytes[])"
+        "id": "0xb3a34c4c",
+        "interface": "fulfillOrder(tuple, bytes32)"
       },
       "logs": {
         "type": "some",
         "patterns": [
           {
-            "signature": "0xddf252ad1be2c89b69c2b068fc378daa952ba7f163c4a11628f55a4df523b3ef",
-            "indexedCount": 2,
-            "count": {
-              "type": "between",
-              "min": "2"
-            }
-          },
-          {
-            "signature": "0xc42079f94a6350d7e6235f29174924f928cc2ac818eb64fed8004e115fbcca67",
+            "signature": "0x9d9af8e38d66c62e2c12f0225249fd9d721c54b83f48d9352c97c6cacdcb6f31",
             "indexedCount": 2,
             "count": {
               "type": "between",
@@ -159,25 +102,8 @@
     },
     "generators": [
       {
-        "type": "trade",
+        "type": "sell-nft",
         "transfers": [
-          {
-            "type": "value",
-            "direction": "out",
-            "from": {
-              "type": "array-in",
-              "values": ["related"]
-            },
-            "to": {
-              "type": "array-in",
-              "not": true,
-              "values": ["related"]
-            },
-            "value": {
-              "type": "between",
-              "min": "1"
-            }
-          },
           {
             "type": "internal",
             "direction": "in",
@@ -196,7 +122,37 @@
             }
           },
           {
-            "type": "internal",
+            "type": "erc20",
+            "direction": "in",
+            "from": {
+              "type": "array-in",
+              "not": true,
+              "values": ["related"]
+            },
+            "to": {
+              "type": "array-in",
+              "values": ["related"]
+            },
+            "amount": {
+              "type": "between",
+              "min": "1"
+            }
+          },
+          {
+            "type": "erc721",
+            "direction": "out",
+            "from": {
+              "type": "array-in",
+              "values": ["related"]
+            },
+            "to": {
+              "type": "array-in",
+              "not": true,
+              "values": ["related"]
+            }
+          },
+          {
+            "type": "erc1155",
             "direction": "out",
             "from": {
               "type": "array-in",
@@ -207,81 +163,26 @@
               "not": true,
               "values": ["related"]
             },
-            "value": {
+            "amount": {
               "type": "between",
               "min": "1"
             }
-          },
-          {
-            "from": {
-              "type": "array-in",
-              "not": true,
-              "values": ["related"]
-            },
-            "to": {
-              "type": "array-in",
-              "values": ["related"]
-            },
-            "amount": {
-              "type": "between",
-              "min": "1"
-            },
-            "type": "erc20",
-            "direction": "in"
-          },
-          {
-            "from": {
-              "type": "array-in",
-              "values": ["related"]
-            },
-            "to": {
-              "type": "array-in",
-              "not": true,
-              "values": ["related"]
-            },
-            "amount": {
-              "type": "between",
-              "min": "1"
-            },
-            "type": "erc20",
-            "direction": "out"
           }
         ]
       }
     ]
   },
   {
-    "example": {
-      "chainId": 1,
-      "hash": "0x05f907a01c677fd11853e55bbbe5e7893df9f347e0084a52797ee8bc0f56db4d",
-      "addresses": ["0x695684881d525b241e4624be6d2dd4b43e857269"]
-    },
     "condition": {
-      "related": {
-        "type": "array-in",
-        "values": [
-          {
-            "type": "from"
-          }
-        ]
-      },
       "function": {
-        "id": "0x5ae401dc",
-        "interface": "multicall(uint256, bytes[])"
+        "id": "0xb3a34c4c",
+        "interface": "fulfillOrder(tuple, bytes32)"
       },
       "logs": {
         "type": "some",
         "patterns": [
           {
-            "signature": "0xddf252ad1be2c89b69c2b068fc378daa952ba7f163c4a11628f55a4df523b3ef",
-            "indexedCount": 2,
-            "count": {
-              "type": "between",
-              "min": "2"
-            }
-          },
-          {
-            "signature": "0xd78ad95fa46c994b6551d0da85fc275fe613ce37657fb8d5e3d130840159d822",
+            "signature": "0x9d9af8e38d66c62e2c12f0225249fd9d721c54b83f48d9352c97c6cacdcb6f31",
             "indexedCount": 2,
             "count": {
               "type": "between",
@@ -293,7 +194,7 @@
     },
     "generators": [
       {
-        "type": "trade",
+        "type": "buy-nft",
         "transfers": [
           {
             "type": "value",
@@ -313,24 +214,7 @@
             }
           },
           {
-            "type": "internal",
-            "direction": "in",
-            "from": {
-              "type": "array-in",
-              "not": true,
-              "values": ["related"]
-            },
-            "to": {
-              "type": "array-in",
-              "values": ["related"]
-            },
-            "value": {
-              "type": "between",
-              "min": "1"
-            }
-          },
-          {
-            "type": "internal",
+            "type": "erc20",
             "direction": "out",
             "from": {
               "type": "array-in",
@@ -341,12 +225,14 @@
               "not": true,
               "values": ["related"]
             },
-            "value": {
+            "amount": {
               "type": "between",
               "min": "1"
             }
           },
           {
+            "type": "erc721",
+            "direction": "in",
             "from": {
               "type": "array-in",
               "not": true,
@@ -355,30 +241,24 @@
             "to": {
               "type": "array-in",
               "values": ["related"]
-            },
-            "amount": {
-              "type": "between",
-              "min": "1"
-            },
-            "type": "erc20",
-            "direction": "in"
+            }
           },
           {
+            "type": "erc1155",
+            "direction": "in",
             "from": {
               "type": "array-in",
+              "not": true,
               "values": ["related"]
             },
             "to": {
               "type": "array-in",
-              "not": true,
               "values": ["related"]
             },
             "amount": {
               "type": "between",
               "min": "1"
-            },
-            "type": "erc20",
-            "direction": "out"
+            }
           }
         ]
       }

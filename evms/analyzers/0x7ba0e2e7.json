@@ -1,0 +1,85 @@
+[
+  {
+    "example": {
+      "chainId": 1,
+      "hash": "0x7a4ffc43c0007eb874d005564ba6fb6411efc758e6196ac966ae7ba9100fd0d5",
+      "addresses": ["0x695684881d525b241e4624be6d2dd4b43e857269"]
+    },
+    "condition": {
+      "related": {
+        "type": "array-in",
+        "values": [
+          {
+            "type": "from"
+          }
+        ]
+      },
+      "value": {
+        "type": "between",
+        "min": "1"
+      },
+      "function": {
+        "id": "0x7ba0e2e7",
+        "interface": "mint(bytes)"
+      },
+      "logs": {
+        "type": "exact",
+        "patterns": [
+          {
+            "signature": "0xddf252ad1be2c89b69c2b068fc378daa952ba7f163c4a11628f55a4df523b3ef",
+            "indexedCount": 3
+          },
+          {
+            "signature": "0xf3cea5493d790af0133817606f7350a91d7f154ea52eaa79d179d4d231e50102",
+            "indexedCount": 0
+          },
+          {
+            "signature": "0xd113c872a0d148e963f842767b1f364bf6d826e6cbbc9917c498a9b94f9c7280",
+            "indexedCount": 0
+          },
+          {
+            "signature": "0x8f796d1eb7cce787985987b272f228e01cd96a28a9d891fa204bf0cc97b615b1",
+            "indexedCount": 0
+          }
+        ]
+      }
+    },
+    "generators": [
+      {
+        "type": "mint-nft",
+        "transfers": [
+          {
+            "type": "value",
+            "direction": "out",
+            "from": {
+              "type": "array-in",
+              "values": ["related"]
+            },
+            "to": {
+              "type": "array-in",
+              "not": true,
+              "values": ["related"]
+            },
+            "value": {
+              "type": "between",
+              "min": "1"
+            }
+          },
+          {
+            "type": "erc721",
+            "direction": "in",
+            "from": {
+              "type": "array-in",
+              "not": true,
+              "values": ["related"]
+            },
+            "to": {
+              "type": "array-in",
+              "values": ["related"]
+            }
+          }
+        ]
+      }
+    ]
+  }
+]

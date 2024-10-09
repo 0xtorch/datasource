@@ -1,0 +1,92 @@
+{
+  "blockNumber": 15150626,
+  "chainId": 1,
+  "effectiveGasPrice": "17018303143",
+  "erc20Transfers": [],
+  "erc721Transfers": [
+    {
+      "address": "0xce6e3a14b5f8ce2b05af0f117dc922769779aa3b",
+      "logIndex": 359,
+      "from": "0x0000000000000000000000000000000000000000",
+      "to": "0x695684881d525b241e4624be6d2dd4b43e857269",
+      "tokenId": "880",
+      "token": {
+        "type": "Nft",
+        "id": "evm_721_1_0xce6e3a14b5f8ce2b05af0f117dc922769779aa3b_880",
+        "updatedAt": 0
+      }
+    }
+  ],
+  "erc1155Transfers": [],
+  "from": {
+    "chainId": 1,
+    "address": "0x695684881d525b241e4624be6d2dd4b43e857269"
+  },
+  "gasUsed": "132601",
+  "hash": "0xf7239f9d190f639ca18c230649ce849907b2ab6f960f4ff98c5ca25542972717",
+  "input": "0xb307005f0000000000000000000000000000000000000000000000000000000000000060000000000000000000000000000000000000000000000000000000000000000a000000000000000000000000000000000000000000000000000000000000037000000000000000000000000000000000000000000000000000000000000000417ef4611f62135662c2a689ffa8b8fbd52077030ba6bae1403b914fa0b25fe445721aee2e1ebbd8c8a0f732ab5ebc71916583f4e1016e00e085f0c819ad15baf01c00000000000000000000000000000000000000000000000000000000000000",
+  "internalTransactions": [],
+  "logs": [
+    {
+      "address": "0xce6e3a14b5f8ce2b05af0f117dc922769779aa3b",
+      "data": "0x",
+      "logIndex": 359,
+      "topics": [
+        "0xddf252ad1be2c89b69c2b068fc378daa952ba7f163c4a11628f55a4df523b3ef",
+        "0x0000000000000000000000000000000000000000000000000000000000000000",
+        "0x000000000000000000000000695684881d525b241e4624be6d2dd4b43e857269",
+        "0x0000000000000000000000000000000000000000000000000000000000000370"
+      ],
+      "transactionHash": "0xf7239f9d190f639ca18c230649ce849907b2ab6f960f4ff98c5ca25542972717",
+      "eventName": "Transfer",
+      "args": [
+        {
+          "indexed": true,
+          "name": "from",
+          "type": "address",
+          "value": "0x0000000000000000000000000000000000000000"
+        },
+        {
+          "indexed": true,
+          "name": "to",
+          "type": "address",
+          "value": "0x695684881d525b241e4624be6d2dd4b43e857269"
+        },
+        {
+          "indexed": true,
+          "name": "tokenId",
+          "type": "uint256",
+          "value": "880"
+        }
+      ]
+    }
+  ],
+  "status": "success",
+  "timestamp": 1657933232000,
+  "to": {
+    "chainId": 1,
+    "address": "0x6b81ba5272639267a9fdc087d91f005f5f36372f"
+  },
+  "value": "200000000000000000",
+  "function": {
+    "args": [
+      {
+        "type": "bytes",
+        "name": "signature",
+        "value": "0x7ef4611f62135662c2a689ffa8b8fbd52077030ba6bae1403b914fa0b25fe445721aee2e1ebbd8c8a0f732ab5ebc71916583f4e1016e00e085f0c819ad15baf01c"
+      },
+      {
+        "type": "uint8",
+        "name": "mlSpots",
+        "value": 10
+      },
+      {
+        "type": "uint256",
+        "name": "tokenId",
+        "value": "880"
+      }
+    ],
+    "name": "mintDA",
+    "interface": "mintDA(bytes, uint8, uint256)"
+  }
+}

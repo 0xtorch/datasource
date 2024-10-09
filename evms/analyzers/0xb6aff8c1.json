@@ -23,11 +23,16 @@
         "interface": "placeBidV2(uint256, uint256, address)"
       },
       "logs": {
-        "type": "exact",
+        "type": "some",
         "patterns": [
           {
             "signature": "0x26ea3ebbda62eb1baef13e1c237dddd956c87f80b2801f2616d806d52557b121",
-            "indexedCount": 2
+            "indexedCount": 2,
+            "count": {
+              "type": "between",
+              "min": "1",
+              "max": "1"
+            }
           }
         ]
       }
@@ -93,11 +98,16 @@
         "interface": "placeBidV2(uint256, uint256, address)"
       },
       "logs": {
-        "type": "exact",
+        "type": "some",
         "patterns": [
           {
             "signature": "0x26ea3ebbda62eb1baef13e1c237dddd956c87f80b2801f2616d806d52557b121",
-            "indexedCount": 2
+            "indexedCount": 2,
+            "count": {
+              "type": "between",
+              "min": "1",
+              "max": "1"
+            }
           }
         ]
       }
