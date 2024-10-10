@@ -1,3 +1,4 @@
+import { describe, expect, test } from 'bun:test'
 import { readdir } from 'node:fs/promises'
 import {
   type LowerHex,
@@ -24,7 +25,6 @@ import {
   toLowerHex,
   transactionDecodedSchema,
 } from '@0xtorch/evm'
-import { describe, expect, test } from 'bun:test'
 import { z } from 'zod'
 
 const chains = [
@@ -90,39 +90,44 @@ describe('Should valid evm analyzers json', async () => {
         if (analyzer.example === undefined) {
           continue
         }
-        const chain = chains.find(
-          (chain) => chain.id === analyzer.example?.chainId,
-        )
-        if (chain === undefined) {
-          console.debug(`Chain not found: ${analyzer.example.chainId}`)
-          continue
-        }
-        const transaction = transactionDecodedSchema.parse(
-          await Bun.file(
-            `${import.meta.dir}/evm/${analyzer.example.chainId}/${analyzer.example.hash}.json`,
-          ).json(),
-        )
+        const examples = Array.isArray(analyzer.example)
+          ? analyzer.example
+          : [analyzer.example]
+        for (const example of examples) {
+          const chain = chains.find((chain) => chain.id === example.chainId)
+          if (chain === undefined) {
+            console.debug(`Chain not found: ${example.chainId}`)
+            continue
+          }
+          const transaction = transactionDecodedSchema.parse(
+            await Bun.file(
+              `${import.meta.dir}/evm/${example.chainId}/${example.hash}.json`,
+            ).json(),
+          )
 
-        // Act
-        const result = createActions({
-          chain,
-          transaction,
-          relatedAddresses: new Set(
-            analyzer.example.addresses
-              .map((address) =>
-                isHex(address) ? toLowerHex(address) : undefined,
-              )
-              .filter((address): address is LowerHex => address !== undefined),
-          ),
-          jsonAnalyzers: [analyzer],
-        })
+          // Act
+          const result = createActions({
+            chain,
+            transaction,
+            relatedAddresses: new Set(
+              example.addresses
+                .map((address) =>
+                  isHex(address) ? toLowerHex(address) : undefined,
+                )
+                .filter(
+                  (address): address is LowerHex => address !== undefined,
+                ),
+            ),
+            jsonAnalyzers: [analyzer],
+          })
 
-        // Assert
-        expect(result.length).toBeGreaterThan(0)
-        expect(result.every(({evidence}) => evidence !== 'none')).toBe(true)
-        const actionTypes = new Set(result.map((action) => action.type))
-        for (const generator of analyzer.generators) {
-          expect(actionTypes).toContain(generator.type)
+          // Assert
+          expect(result.length).toBeGreaterThan(0)
+          expect(result.every(({ evidence }) => evidence !== 'none')).toBe(true)
+          const actionTypes = new Set(result.map((action) => action.type))
+          for (const generator of analyzer.generators) {
+            expect(actionTypes).toContain(generator.type)
+          }
         }
       }
     })

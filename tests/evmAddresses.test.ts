@@ -20,4 +20,3 @@ describe('Should valid evm chain address json', async () => {
     }
   }
 })
-
