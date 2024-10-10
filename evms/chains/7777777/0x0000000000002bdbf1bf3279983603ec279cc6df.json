@@ -1,0 +1,5 @@
+{
+  "address": "0x0000000000002bdbf1bf3279983603ec279cc6df",
+  "label": "Multicaller",
+  "abi": "[{\"inputs\":[],\"name\":\"ArrayLengthsMismatch\",\"type\":\"error\"},{\"stateMutability\":\"payable\",\"type\":\"fallback\"},{\"inputs\":[{\"internalType\":\"address[]\",\"name\":\"targets\",\"type\":\"address[]\"},{\"internalType\":\"bytes[]\",\"name\":\"data\",\"type\":\"bytes[]\"},{\"internalType\":\"uint256[]\",\"name\":\"values\",\"type\":\"uint256[]\"},{\"internalType\":\"address\",\"name\":\"refundTo\",\"type\":\"address\"}],\"name\":\"aggregate\",\"outputs\":[{\"internalType\":\"bytes[]\",\"name\":\"\",\"type\":\"bytes[]\"}],\"stateMutability\":\"payable\",\"type\":\"function\"},{\"stateMutability\":\"payable\",\"type\":\"receive\"}]"
+}
