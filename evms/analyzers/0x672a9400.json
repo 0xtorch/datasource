@@ -1,0 +1,60 @@
+[
+  {
+    "example": {
+      "chainId": 1,
+      "hash": "0x93e561979a29ee4fc7120ec22a42b19929a8b87d9809037253fa2a6f65a560dd",
+      "addresses": ["0x695684881d525b241e4624be6d2dd4b43e857269"]
+    },
+    "condition": {
+      "related": {
+        "type": "array-in",
+        "values": [
+          {
+            "type": "from"
+          }
+        ]
+      },
+      "value": {
+        "type": "between",
+        "max": "0"
+      },
+      "function": {
+        "id": "0x672a9400",
+        "interface": "mint(uint256, uint8, bytes32, bytes32, tuple[], string)"
+      },
+      "logs": {
+        "type": "exact",
+        "patterns": [
+          {
+            "signature": "0xddf252ad1be2c89b69c2b068fc378daa952ba7f163c4a11628f55a4df523b3ef",
+            "indexedCount": 3
+          },
+          {
+            "signature": "0x99aba1d63749cfd5ad1afda7c4663840924d54eb5f005bbbeadedc6ec13674b2",
+            "indexedCount": 0
+          }
+        ]
+      }
+    },
+    "generators": [
+      {
+        "type": "free-mint",
+        "transfers": [
+          {
+            "type": "erc721",
+            "direction": "in",
+            "from": {
+              "type": "array-in",
+              "not": true,
+              "values": ["related"]
+            },
+            "to": {
+              "type": "array-in",
+              "values": ["related"]
+            }
+          }
+        ]
+      }
+    ]
+  }
+]

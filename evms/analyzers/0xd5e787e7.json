@@ -1,0 +1,79 @@
+[
+  {
+    "example": {
+      "chainId": 1,
+      "hash": "0x9102d70e682a1bd34074a2216840647830490c16df51ca7452b4a5311d1411ef",
+      "addresses": ["0x695684881d525b241e4624be6d2dd4b43e857269"]
+    },
+    "condition": {
+      "value": {
+        "type": "between",
+        "max": "0"
+      },
+      "function": {
+        "id": "0xd5e787e7",
+        "interface": "finalizeOrder(tuple, bytes, bytes)"
+      },
+      "logs": {
+        "type": "some",
+        "patterns": [
+          {
+            "signature": "0xddf252ad1be2c89b69c2b068fc378daa952ba7f163c4a11628f55a4df523b3ef",
+            "indexedCount": 3,
+            "count": {
+              "type": "between",
+              "min": "1",
+              "max": "1"
+            }
+          },
+          {
+            "signature": "0x4736e9eb68a8ec7c6598a4d42aeb7bad08b5e0af1b2ea3e1d5eaa47d28c41870",
+            "indexedCount": 0,
+            "count": {
+              "type": "between",
+              "min": "1",
+              "max": "1"
+            }
+          }
+        ]
+      }
+    },
+    "generators": [
+      {
+        "type": "sell-nft",
+        "transfers": [
+          {
+            "type": "internal",
+            "direction": "in",
+            "from": {
+              "type": "array-in",
+              "not": true,
+              "values": ["related"]
+            },
+            "to": {
+              "type": "array-in",
+              "values": ["related"]
+            },
+            "value": {
+              "type": "between",
+              "min": "1"
+            }
+          },
+          {
+            "type": "erc721",
+            "direction": "out",
+            "from": {
+              "type": "array-in",
+              "values": ["related"]
+            },
+            "to": {
+              "type": "array-in",
+              "not": true,
+              "values": ["related"]
+            }
+          }
+        ]
+      }
+    ]
+  }
+]
