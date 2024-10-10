@@ -1,0 +1,5 @@
+{
+  "address": "0xd8d295c53a59b44f29d3b6a5d7b9c3ff9fa9061e",
+  "label": "RemoveOwnedAssetsFacet",
+  "abi": "[{\"inputs\":[],\"name\":\"removeSHLBUSDTeUSDTFromOwnedAssets\",\"outputs\":[],\"stateMutability\":\"nonpayable\",\"type\":\"function\"},{\"inputs\":[],\"name\":\"removeUSDTeFromOwnedAssets\",\"outputs\":[],\"stateMutability\":\"nonpayable\",\"type\":\"function\"}]"
+}
