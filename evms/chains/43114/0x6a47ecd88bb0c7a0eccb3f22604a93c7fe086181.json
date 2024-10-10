@@ -1,0 +1,5 @@
+{
+  "address": "0x6a47ecd88bb0c7a0eccb3f22604a93c7fe086181",
+  "label": "DiamondInit",
+  "abi": "[{\"inputs\":[],\"name\":\"init\",\"outputs\":[],\"stateMutability\":\"nonpayable\",\"type\":\"function\"}]"
+}

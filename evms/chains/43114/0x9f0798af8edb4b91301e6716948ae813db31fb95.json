@@ -1,0 +1,5 @@
+{
+  "address": "0x9f0798af8edb4b91301e6716948ae813db31fb95",
+  "label": "AssetsExposureController",
+  "abi": "[{\"inputs\":[],\"name\":\"resetPrimeAccountAssetsExposure\",\"outputs\":[],\"stateMutability\":\"nonpayable\",\"type\":\"function\"},{\"inputs\":[],\"name\":\"setPrimeAccountAssetsExposure\",\"outputs\":[],\"stateMutability\":\"nonpayable\",\"type\":\"function\"}]"
+}
