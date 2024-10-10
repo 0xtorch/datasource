@@ -1,0 +1,143 @@
+{
+  "blockNumber": 18683767,
+  "chainId": 1,
+  "effectiveGasPrice": "26647899484",
+  "erc20Transfers": [],
+  "erc721Transfers": [
+    {
+      "address": "0xfe8c48b344d2f6b502d3d0b4291151540e6379d4",
+      "logIndex": 141,
+      "from": "0xcda72070e455bb31c7690a170224ce43623d0b6f",
+      "to": "0x800df3ae6a276f20679451f55b1b8a60368e4e72",
+      "tokenId": "3",
+      "token": {
+        "type": "Nft",
+        "id": "evm_721_1_0xfe8c48b344d2f6b502d3d0b4291151540e6379d4_3",
+        "updatedAt": 0
+      }
+    }
+  ],
+  "erc1155Transfers": [],
+  "from": {
+    "chainId": 1,
+    "address": "0x800df3ae6a276f20679451f55b1b8a60368e4e72"
+  },
+  "gasUsed": "116421",
+  "hash": "0x22ebc7154102e875d6640f8a0baff264a7dfa6e99d20d8bb2ffa77a02db65fa3",
+  "input": "0x353ad881000000000000000000000000fe8c48b344d2f6b502d3d0b4291151540e6379d40000000000000000000000000000000000000000000000000000000000000003000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000",
+  "internalTransactions": [],
+  "logs": [
+    {
+      "address": "0xfe8c48b344d2f6b502d3d0b4291151540e6379d4",
+      "data": "0x",
+      "logIndex": 141,
+      "topics": [
+        "0xddf252ad1be2c89b69c2b068fc378daa952ba7f163c4a11628f55a4df523b3ef",
+        "0x000000000000000000000000cda72070e455bb31c7690a170224ce43623d0b6f",
+        "0x000000000000000000000000800df3ae6a276f20679451f55b1b8a60368e4e72",
+        "0x0000000000000000000000000000000000000000000000000000000000000003"
+      ],
+      "transactionHash": "0x22ebc7154102e875d6640f8a0baff264a7dfa6e99d20d8bb2ffa77a02db65fa3",
+      "eventName": "Transfer",
+      "args": [
+        {
+          "indexed": true,
+          "name": "from",
+          "type": "address",
+          "value": "0xcda72070e455bb31c7690a170224ce43623d0b6f"
+        },
+        {
+          "indexed": true,
+          "name": "to",
+          "type": "address",
+          "value": "0x800df3ae6a276f20679451f55b1b8a60368e4e72"
+        },
+        {
+          "indexed": true,
+          "name": "tokenId",
+          "type": "uint256",
+          "value": "3"
+        }
+      ]
+    },
+    {
+      "address": "0xcda72070e455bb31c7690a170224ce43623d0b6f",
+      "data": "0x",
+      "logIndex": 142,
+      "topics": [
+        "0x70c7877531c04c7d9caa8a7eca127384f04e8a6ee58b63f778ce5401d8bcae41",
+        "0x000000000000000000000000fe8c48b344d2f6b502d3d0b4291151540e6379d4",
+        "0x0000000000000000000000000000000000000000000000000000000000000003"
+      ],
+      "transactionHash": "0x22ebc7154102e875d6640f8a0baff264a7dfa6e99d20d8bb2ffa77a02db65fa3",
+      "eventName": "BuyPriceCanceled",
+      "args": [
+        {
+          "indexed": true,
+          "name": "nftContract",
+          "type": "address",
+          "value": "0xFE8c48b344d2F6b502d3D0B4291151540E6379d4"
+        },
+        {
+          "indexed": true,
+          "name": "tokenId",
+          "type": "uint256",
+          "value": "3"
+        }
+      ]
+    }
+  ],
+  "status": "success",
+  "timestamp": 1701339383000,
+  "to": {
+    "chainId": 1,
+    "address": "0x762340b8a40cdd5bfc3edd94265899fda345d0e3"
+  },
+  "value": "0",
+  "function": {
+    "args": [
+      {
+        "type": "address",
+        "name": "nftContract",
+        "value": "0xFE8c48b344d2F6b502d3D0B4291151540E6379d4"
+      },
+      {
+        "type": "uint256",
+        "name": "tokenId",
+        "value": "3"
+      },
+      {
+        "type": "uint256",
+        "name": "exhibitionId",
+        "value": "0"
+      },
+      {
+        "type": "uint256",
+        "name": "reservePrice",
+        "value": "0"
+      },
+      {
+        "type": "uint256",
+        "name": "auctionDuration",
+        "value": "0"
+      },
+      {
+        "type": "bool",
+        "name": "shouldSetBuyPrice",
+        "value": false
+      },
+      {
+        "type": "uint256",
+        "name": "buyPrice",
+        "value": "0"
+      },
+      {
+        "type": "uint256",
+        "name": "saleStartsAt",
+        "value": "0"
+      }
+    ],
+    "name": "upsertListingV2",
+    "interface": "upsertListingV2(address, uint256, uint256, uint256, uint256, bool, uint256, uint256)"
+  }
+}
