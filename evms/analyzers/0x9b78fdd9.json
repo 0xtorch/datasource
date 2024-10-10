@@ -1,0 +1,80 @@
+[
+  {
+    "example": {
+      "chainId": 1,
+      "hash": "0x3b5565b46f87f3bb213a7a76e4494178f47e50c882cfa04a8fbaea339f9606e4",
+      "addresses": ["0x800df3ae6a276f20679451f55b1b8a60368e4e72"]
+    },
+    "condition": {
+      "related": {
+        "type": "array-in",
+        "values": [
+          {
+            "type": "from"
+          }
+        ]
+      },
+      "value": {
+        "type": "between",
+        "max": "0"
+      },
+      "function": {
+        "id": "0x9b78fdd9",
+        "interface": "mintWithCreatorPaymentFactoryAndApprove(string, address, bytes, address)"
+      },
+      "logs": {
+        "type": "exact",
+        "patterns": [
+          {
+            "signature": "0xde03f54489aeeaa8f8e262296d61a01b0a41b770fae1d2b27d960a7e593de385",
+            "indexedCount": 1
+          },
+          {
+            "signature": "0xc281d6888cbc84796930b1de95feddce9453909431fad6b22cf6c80423e34e99",
+            "indexedCount": 1
+          },
+          {
+            "signature": "0xc281d6888cbc84796930b1de95feddce9453909431fad6b22cf6c80423e34e99",
+            "indexedCount": 1
+          },
+          {
+            "signature": "0xddf252ad1be2c89b69c2b068fc378daa952ba7f163c4a11628f55a4df523b3ef",
+            "indexedCount": 3
+          },
+          {
+            "signature": "0xe2406cfd356cfbe4e42d452bde96d27f48c423e5f02b5d78695893308399519d",
+            "indexedCount": 3
+          },
+          {
+            "signature": "0x296490d14aadeb9208962e029edf126e34fe835b4ed9dc8c91602df4d0476695",
+            "indexedCount": 3
+          },
+          {
+            "signature": "0x17307eab39ab6107e8899845ad3d59bd9653f200f220920489ca2b5937696c31",
+            "indexedCount": 2
+          }
+        ]
+      }
+    },
+    "generators": [
+      {
+        "type": "free-mint",
+        "transfers": [
+          {
+            "type": "erc721",
+            "direction": "in",
+            "from": {
+              "type": "array-in",
+              "not": true,
+              "values": ["related"]
+            },
+            "to": {
+              "type": "array-in",
+              "values": ["related"]
+            }
+          }
+        ]
+      }
+    ]
+  }
+]
