@@ -269,8 +269,6 @@
         "crossType": "start",
         "transfers": [
           {
-            "type": "erc721",
-            "direction": "out",
             "from": {
               "type": "array-in",
               "values": ["related"]
@@ -278,6 +276,95 @@
             "to": {
               "type": "array-in",
               "not": true,
+              "values": ["related"]
+            },
+            "type": "erc721",
+            "direction": "out"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "example": {
+      "chainId": 1,
+      "hash": "0x883cec5a876ebdf9ba3219c44c730b8196a6de646c73c0b80f0f5bdf6647250b",
+      "addresses": ["0x800df3ae6a276f20679451f55b1b8a60368e4e72"]
+    },
+    "condition": {
+      "related": {
+        "type": "array-in",
+        "values": [
+          {
+            "type": "from"
+          }
+        ]
+      },
+      "chainId": [1],
+      "to": {
+        "type": "array-in",
+        "values": ["0x762340b8a40cdd5bfc3edd94265899fda345d0e3"]
+      },
+      "value": {
+        "type": "between",
+        "max": "0"
+      },
+      "function": {
+        "id": "0x23dc8658",
+        "interface": "upsertListing(address, uint256, uint256, uint256, bool, uint256, uint256, tuple)"
+      },
+      "logs": {
+        "type": "some",
+        "patterns": [
+          {
+            "signature": "0xddf252ad1be2c89b69c2b068fc378daa952ba7f163c4a11628f55a4df523b3ef",
+            "indexedCount": 3,
+            "count": {
+              "type": "between",
+              "min": "1",
+              "max": "1"
+            }
+          },
+          {
+            "signature": "0x14b9c40404d5b41deb481f9a40b8aeb2bf4b47679b38cf757075a66ed510f7f1",
+            "indexedCount": 1,
+            "count": {
+              "type": "between",
+              "min": "1",
+              "max": "1"
+            }
+          }
+        ]
+      }
+    },
+    "generators": [
+      {
+        "type": "cross-trade",
+        "crossId": {
+          "type": "join",
+          "values": [
+            "foundation_",
+            {
+              "type": "log",
+              "signature": "0x14b9c40404d5b41deb481f9a40b8aeb2bf4b47679b38cf757075a66ed510f7f1",
+              "indexedCount": 1,
+              "index": 0,
+              "value": 0
+            }
+          ]
+        },
+        "crossType": "end",
+        "transfers": [
+          {
+            "type": "erc721",
+            "direction": "in",
+            "from": {
+              "type": "array-in",
+              "not": true,
+              "values": ["related"]
+            },
+            "to": {
+              "type": "array-in",
               "values": ["related"]
             }
           }

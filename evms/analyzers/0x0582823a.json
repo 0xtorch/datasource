@@ -1,0 +1,132 @@
+[
+  {
+    "example": {
+      "chainId": 8453,
+      "hash": "0x95cb0f2ec34e6be5e6beeb30bf4aa801cbd4eb9987d5d5daadf1f7221ca505b4",
+      "addresses": ["0x800df3ae6a276f20679451f55b1b8a60368e4e72"]
+    },
+    "condition": {
+      "related": {
+        "type": "array-in",
+        "values": [
+          {
+            "type": "from"
+          }
+        ]
+      },
+      "value": {
+        "type": "between",
+        "max": "0"
+      },
+      "function": {
+        "id": "0x0582823a",
+        "interface": "createContract(string, string, tuple, address, bytes[])"
+      },
+      "logs": {
+        "type": "exact",
+        "patterns": [
+          {
+            "signature": "0xbc7cd75a20ee27fd9adebab32041f755214dbc6bffa90cc0225b39da2e5c2d3b",
+            "indexedCount": 1
+          },
+          {
+            "signature": "0xa45800684f65ae010ceb4385eceaed88dec7f6a6bcbe11f7ffd8bd24dd2653f4",
+            "indexedCount": 3
+          },
+          {
+            "signature": "0x35fb03d0d293ef5b362761900725ce891f8f766b5a662cdd445372355448e7ca",
+            "indexedCount": 3
+          },
+          {
+            "signature": "0x5086d1bcea28999da9875111e3592688fbfa821db63214c695ca35768080c2fe",
+            "indexedCount": 2
+          },
+          {
+            "signature": "0x5837d55897cfc337f160a71d7b63a047abd50a3a8834f1c5d70f338846358c6d",
+            "indexedCount": 2
+          },
+          {
+            "signature": "0x8be0079c531659141344cd1fd0a4f28419497f9722a3daafe3b4186f6b6457e0",
+            "indexedCount": 0
+          },
+          {
+            "signature": "0x3be6d3a1d957610f7e900c66889b874cdc9f0c22901aa8be6ec3d2d04c14ca0f",
+            "indexedCount": 2
+          },
+          {
+            "signature": "0x3be6d3a1d957610f7e900c66889b874cdc9f0c22901aa8be6ec3d2d04c14ca0f",
+            "indexedCount": 2
+          },
+          {
+            "signature": "0x35fb03d0d293ef5b362761900725ce891f8f766b5a662cdd445372355448e7ca",
+            "indexedCount": 3
+          },
+          {
+            "signature": "0x5086d1bcea28999da9875111e3592688fbfa821db63214c695ca35768080c2fe",
+            "indexedCount": 2
+          },
+          {
+            "signature": "0x35fb03d0d293ef5b362761900725ce891f8f766b5a662cdd445372355448e7ca",
+            "indexedCount": 3
+          },
+          {
+            "signature": "0x6bb7ff708619ba0610cba295a58592e0451dee2622938c8755667688daf3529b",
+            "indexedCount": 1
+          },
+          {
+            "signature": "0x1b944478023872bf91b25a13fdba3a686fdb1bf4dbb872f850240fad4b8cc068",
+            "indexedCount": 2
+          },
+          {
+            "signature": "0x5837d55897cfc337f160a71d7b63a047abd50a3a8834f1c5d70f338846358c6d",
+            "indexedCount": 2
+          },
+          {
+            "signature": "0x35fb03d0d293ef5b362761900725ce891f8f766b5a662cdd445372355448e7ca",
+            "indexedCount": 3
+          },
+          {
+            "signature": "0x5e4ad74f00b9a9d4a8452359a7fbd80cc5a6930a9df5e5b797ddc024b24b252c",
+            "indexedCount": 2
+          },
+          {
+            "signature": "0xc3d58168c5ae7397731d063d5bbf3d657854427343f4c083240f7aacaa2d0f62",
+            "indexedCount": 3
+          },
+          {
+            "signature": "0x35fb03d0d293ef5b362761900725ce891f8f766b5a662cdd445372355448e7ca",
+            "indexedCount": 3
+          },
+          {
+            "signature": "0x7f26b83ff96e1f2b6a682f133852f6798a09c465da95921460cefb3847402498",
+            "indexedCount": 0
+          }
+        ]
+      }
+    },
+    "generators": [
+      {
+        "type": "free-mint",
+        "transfers": [
+          {
+            "type": "erc1155",
+            "direction": "in",
+            "from": {
+              "type": "array-in",
+              "not": true,
+              "values": ["related"]
+            },
+            "to": {
+              "type": "array-in",
+              "values": ["related"]
+            },
+            "amount": {
+              "type": "between",
+              "min": "1"
+            }
+          }
+        ]
+      }
+    ]
+  }
+]

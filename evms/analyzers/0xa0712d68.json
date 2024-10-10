@@ -58,7 +58,65 @@
             }
           },
           {
+            "from": {
+              "type": "array-in",
+              "not": true,
+              "values": ["related"]
+            },
+            "to": {
+              "type": "array-in",
+              "values": ["related"]
+            },
             "type": "erc721",
+            "direction": "in"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "example": {
+      "chainId": 8453,
+      "hash": "0x50f1ec7af98b030a05e482687c38c47a19cc0df267c8d166cc78ed580e790f48",
+      "addresses": ["0x800df3ae6a276f20679451f55b1b8a60368e4e72"]
+    },
+    "condition": {
+      "related": {
+        "type": "array-in",
+        "values": [
+          {
+            "type": "from"
+          }
+        ]
+      },
+      "value": {
+        "type": "between",
+        "max": "0"
+      },
+      "function": {
+        "id": "0xa0712d68",
+        "interface": "mint(uint256)"
+      },
+      "logs": {
+        "type": "exact",
+        "patterns": [
+          {
+            "signature": "0xc3d58168c5ae7397731d063d5bbf3d657854427343f4c083240f7aacaa2d0f62",
+            "indexedCount": 3
+          },
+          {
+            "signature": "0x0f6798a560793a54c3bcfe86a93cde1e73087d944c0ea20544137d4121396885",
+            "indexedCount": 0
+          }
+        ]
+      }
+    },
+    "generators": [
+      {
+        "type": "free-mint",
+        "transfers": [
+          {
+            "type": "erc1155",
             "direction": "in",
             "from": {
               "type": "array-in",

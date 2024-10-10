@@ -1,0 +1,308 @@
+{
+  "blockNumber": 19049872,
+  "chainId": 8453,
+  "effectiveGasPrice": "1704662",
+  "erc20Transfers": [],
+  "erc721Transfers": [],
+  "erc1155Transfers": [
+    {
+      "address": "0xbfef90324755a334aacf80120eaeed13b312882d",
+      "logIndex": 214,
+      "from": "0x0000000000000000000000000000000000000000",
+      "to": "0x800df3ae6a276f20679451f55b1b8a60368e4e72",
+      "tokenId": "6",
+      "value": "1",
+      "token": {
+        "type": "Nft",
+        "id": "evm_1155_8453_0xbfef90324755a334aacf80120eaeed13b312882d_6",
+        "updatedAt": 0
+      }
+    }
+  ],
+  "from": {
+    "chainId": 8453,
+    "address": "0x800df3ae6a276f20679451f55b1b8a60368e4e72"
+  },
+  "gasUsed": "178632",
+  "hash": "0xae3d63bf21a66f5379b7f9f932de9c1c693f3974be849a30d6bb35657cbae147",
+  "input": "0xa836f32f000000000000000000000000800df3ae6a276f20679451f55b1b8a60368e4e720000000000000000000000000000000000000000000000000000000000000001000000000000000000000000bfef90324755a334aacf80120eaeed13b312882d0000000000000000000000000000000000000000000000000000000000000006000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000c00000000000000000000000000000000000000000000000000000000000000000",
+  "internalTransactions": [
+    {
+      "blockNumber": 19049872,
+      "from": "0x777777722d078c97c6ad07d9f36801e653e356ae",
+      "gas": "142238",
+      "isError": false,
+      "timestamp": 1724889091000,
+      "to": "0x7777777f279eba3d3ad8f4e708545291a6fdba8b",
+      "txHash": "0xae3d63bf21a66f5379b7f9f932de9c1c693f3974be849a30d6bb35657cbae147",
+      "value": "99900000000000"
+    },
+    {
+      "blockNumber": 19049872,
+      "from": "0x777777722d078c97c6ad07d9f36801e653e356ae",
+      "gas": "102930",
+      "isError": false,
+      "timestamp": 1724889091000,
+      "to": "0x2f41fd6eb058bfa9e5462d6cbf36833cf7a4aa6b",
+      "txHash": "0xae3d63bf21a66f5379b7f9f932de9c1c693f3974be849a30d6bb35657cbae147",
+      "value": "11100000000000"
+    }
+  ],
+  "logs": [
+    {
+      "address": "0xbfef90324755a334aacf80120eaeed13b312882d",
+      "data": "0x00000000000000000000000000000000000000000000000000000000000000060000000000000000000000000000000000000000000000000000000000000001",
+      "logIndex": 214,
+      "topics": [
+        "0xc3d58168c5ae7397731d063d5bbf3d657854427343f4c083240f7aacaa2d0f62",
+        "0x000000000000000000000000777777722d078c97c6ad07d9f36801e653e356ae",
+        "0x0000000000000000000000000000000000000000000000000000000000000000",
+        "0x000000000000000000000000800df3ae6a276f20679451f55b1b8a60368e4e72"
+      ],
+      "transactionHash": "0xae3d63bf21a66f5379b7f9f932de9c1c693f3974be849a30d6bb35657cbae147",
+      "eventName": "TransferSingle",
+      "args": [
+        {
+          "indexed": true,
+          "name": "operator",
+          "type": "address",
+          "value": "0x777777722d078c97c6ad07d9f36801e653e356ae"
+        },
+        {
+          "indexed": true,
+          "name": "from",
+          "type": "address",
+          "value": "0x0000000000000000000000000000000000000000"
+        },
+        {
+          "indexed": true,
+          "name": "to",
+          "type": "address",
+          "value": "0x800df3ae6a276f20679451f55b1b8a60368e4e72"
+        },
+        {
+          "indexed": false,
+          "name": "id",
+          "type": "uint256",
+          "value": "6"
+        },
+        {
+          "indexed": false,
+          "name": "value",
+          "type": "uint256",
+          "value": "1"
+        }
+      ]
+    },
+    {
+      "address": "0x7777777f279eba3d3ad8f4e708545291a6fdba8b",
+      "data": "0x00000000000000000000000000000000000000000000000000000000000000000000000000000000000000007bf90111ad7c22bec9e9dff8a01a44713cc1b1b6000000000000000000000000777777722d078c97c6ad07d9f36801e653e356ae0000000000000000000000000000000000000000000000000000327a19c8f80000000000000000000000000000000000000000000000000000000a186b8e980000000000000000000000000000000000000000000000000000001430d71d3000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000a186b8e9800",
+      "logIndex": 215,
+      "topics": [
+        "0x90e8cce6b15b450d1e56e9ef986d1cd376838a90944336c02886ca12b9e6ebd7",
+        "0x000000000000000000000000800df3ae6a276f20679451f55b1b8a60368e4e72",
+        "0x0000000000000000000000007bf90111ad7c22bec9e9dff8a01a44713cc1b1b6",
+        "0x0000000000000000000000007bf90111ad7c22bec9e9dff8a01a44713cc1b1b6"
+      ],
+      "transactionHash": "0xae3d63bf21a66f5379b7f9f932de9c1c693f3974be849a30d6bb35657cbae147",
+      "eventName": "RewardsDeposit",
+      "args": [
+        {
+          "indexed": true,
+          "name": "creator",
+          "type": "address",
+          "value": "0x800dF3AE6a276f20679451f55B1B8a60368e4e72"
+        },
+        {
+          "indexed": true,
+          "name": "createReferral",
+          "type": "address",
+          "value": "0x7bf90111Ad7C22bec9E9dFf8A01A44713CC1b1B6"
+        },
+        {
+          "indexed": true,
+          "name": "mintReferral",
+          "type": "address",
+          "value": "0x7bf90111Ad7C22bec9E9dFf8A01A44713CC1b1B6"
+        },
+        {
+          "indexed": false,
+          "name": "firstMinter",
+          "type": "address",
+          "value": "0x0000000000000000000000000000000000000000"
+        },
+        {
+          "indexed": false,
+          "name": "zora",
+          "type": "address",
+          "value": "0x7bf90111Ad7C22bec9E9dFf8A01A44713CC1b1B6"
+        },
+        {
+          "indexed": false,
+          "name": "from",
+          "type": "address",
+          "value": "0x777777722D078c97c6ad07d9f36801e653E356Ae"
+        },
+        {
+          "indexed": false,
+          "name": "creatorReward",
+          "type": "uint256",
+          "value": "55500000000000"
+        },
+        {
+          "indexed": false,
+          "name": "createReferralReward",
+          "type": "uint256",
+          "value": "11100000000000"
+        },
+        {
+          "indexed": false,
+          "name": "mintReferralReward",
+          "type": "uint256",
+          "value": "22200000000000"
+        },
+        {
+          "indexed": false,
+          "name": "firstMinterReward",
+          "type": "uint256",
+          "value": "0"
+        },
+        {
+          "indexed": false,
+          "name": "zoraReward",
+          "type": "uint256",
+          "value": "11100000000000"
+        }
+      ]
+    },
+    {
+      "address": "0x777777722d078c97c6ad07d9f36801e653e356ae",
+      "data": "0x000000000000000000000000800df3ae6a276f20679451f55b1b8a60368e4e720000000000000000000000000000000000000000000000000000327a19c8f8000000000000000000000000007bf90111ad7c22bec9e9dff8a01a44713cc1b1b600000000000000000000000000000000000000000000000000000a186b8e98000000000000000000000000007bf90111ad7c22bec9e9dff8a01a44713cc1b1b600000000000000000000000000000000000000000000000000001430d71d30000000000000000000000000002f41fd6eb058bfa9e5462d6cbf36833cf7a4aa6b00000000000000000000000000000000000000000000000000000a186b8e98000000000000000000000000007bf90111ad7c22bec9e9dff8a01a44713cc1b1b600000000000000000000000000000000000000000000000000000a186b8e9800",
+      "logIndex": 216,
+      "topics": [
+        "0xc773e203af3f3079b18c21f98bb8d8ccd2fea097d631d448df89de4edbe7a2a8",
+        "0x000000000000000000000000bfef90324755a334aacf80120eaeed13b312882d",
+        "0x0000000000000000000000000000000000000000000000000000000000000006"
+      ],
+      "transactionHash": "0xae3d63bf21a66f5379b7f9f932de9c1c693f3974be849a30d6bb35657cbae147",
+      "eventName": "ZoraTimedSaleStrategyRewards",
+      "args": [
+        {
+          "indexed": true,
+          "name": "collection",
+          "type": "address",
+          "value": "0xBfef90324755a334AACf80120EAEED13b312882d"
+        },
+        {
+          "indexed": true,
+          "name": "tokenId",
+          "type": "uint256",
+          "value": "6"
+        },
+        {
+          "indexed": false,
+          "name": "creator",
+          "type": "address",
+          "value": "0x800dF3AE6a276f20679451f55B1B8a60368e4e72"
+        },
+        {
+          "indexed": false,
+          "name": "creatorReward",
+          "type": "uint256",
+          "value": "55500000000000"
+        },
+        {
+          "indexed": false,
+          "name": "createReferral",
+          "type": "address",
+          "value": "0x7bf90111Ad7C22bec9E9dFf8A01A44713CC1b1B6"
+        },
+        {
+          "indexed": false,
+          "name": "createReferralReward",
+          "type": "uint256",
+          "value": "11100000000000"
+        },
+        {
+          "indexed": false,
+          "name": "mintReferral",
+          "type": "address",
+          "value": "0x7bf90111Ad7C22bec9E9dFf8A01A44713CC1b1B6"
+        },
+        {
+          "indexed": false,
+          "name": "mintReferralReward",
+          "type": "uint256",
+          "value": "22200000000000"
+        },
+        {
+          "indexed": false,
+          "name": "market",
+          "type": "address",
+          "value": "0x2F41Fd6Eb058Bfa9E5462d6Cbf36833cF7A4aA6b"
+        },
+        {
+          "indexed": false,
+          "name": "marketReward",
+          "type": "uint256",
+          "value": "11100000000000"
+        },
+        {
+          "indexed": false,
+          "name": "zoraRecipient",
+          "type": "address",
+          "value": "0x7bf90111Ad7C22bec9E9dFf8A01A44713CC1b1B6"
+        },
+        {
+          "indexed": false,
+          "name": "zoraReward",
+          "type": "uint256",
+          "value": "11100000000000"
+        }
+      ]
+    }
+  ],
+  "status": "success",
+  "timestamp": 1724889091000,
+  "to": {
+    "chainId": 8453,
+    "address": "0x777777722d078c97c6ad07d9f36801e653e356ae"
+  },
+  "value": "111000000000000",
+  "function": {
+    "args": [
+      {
+        "type": "address",
+        "name": "mintTo",
+        "value": "0x800dF3AE6a276f20679451f55B1B8a60368e4e72"
+      },
+      {
+        "type": "uint256",
+        "name": "quantity",
+        "value": "1"
+      },
+      {
+        "type": "address",
+        "name": "collection",
+        "value": "0xBfef90324755a334AACf80120EAEED13b312882d"
+      },
+      {
+        "type": "uint256",
+        "name": "tokenId",
+        "value": "6"
+      },
+      {
+        "type": "address",
+        "name": "mintReferral",
+        "value": "0x0000000000000000000000000000000000000000"
+      },
+      {
+        "type": "string",
+        "name": "comment",
+        "value": ""
+      }
+    ],
+    "name": "mint",
+    "interface": "mint(address, uint256, address, uint256, address, string)"
+  }
+}

@@ -122,38 +122,36 @@
             }
           },
           {
+            "from": {
+              "type": "array-in",
+              "not": true,
+              "values": ["related"]
+            },
+            "to": {
+              "type": "array-in",
+              "values": ["related"]
+            },
+            "amount": {
+              "type": "between",
+              "min": "1"
+            },
             "type": "erc20",
-            "direction": "in",
+            "direction": "in"
+          },
+          {
             "from": {
               "type": "array-in",
-              "not": true,
               "values": ["related"]
             },
             "to": {
               "type": "array-in",
+              "not": true,
               "values": ["related"]
             },
-            "amount": {
-              "type": "between",
-              "min": "1"
-            }
-          },
-          {
             "type": "erc721",
-            "direction": "out",
-            "from": {
-              "type": "array-in",
-              "values": ["related"]
-            },
-            "to": {
-              "type": "array-in",
-              "not": true,
-              "values": ["related"]
-            }
+            "direction": "out"
           },
           {
-            "type": "erc1155",
-            "direction": "out",
             "from": {
               "type": "array-in",
               "values": ["related"]
@@ -166,7 +164,9 @@
             "amount": {
               "type": "between",
               "min": "1"
-            }
+            },
+            "type": "erc1155",
+            "direction": "out"
           }
         ]
       }
@@ -214,6 +214,137 @@
               "values": ["related"]
             },
             "value": {
+              "type": "between",
+              "min": "1"
+            }
+          },
+          {
+            "from": {
+              "type": "array-in",
+              "values": ["related"]
+            },
+            "to": {
+              "type": "array-in",
+              "not": true,
+              "values": ["related"]
+            },
+            "amount": {
+              "type": "between",
+              "min": "1"
+            },
+            "type": "erc20",
+            "direction": "out"
+          },
+          {
+            "from": {
+              "type": "array-in",
+              "not": true,
+              "values": ["related"]
+            },
+            "to": {
+              "type": "array-in",
+              "values": ["related"]
+            },
+            "type": "erc721",
+            "direction": "in"
+          },
+          {
+            "from": {
+              "type": "array-in",
+              "not": true,
+              "values": ["related"]
+            },
+            "to": {
+              "type": "array-in",
+              "values": ["related"]
+            },
+            "amount": {
+              "type": "between",
+              "min": "1"
+            },
+            "type": "erc1155",
+            "direction": "in"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "example": {
+      "chainId": 1,
+      "hash": "0xf980a8e05f654d088e6a98cc50393e57d9cbc14989f7cfd87a4e79b41af27b12",
+      "addresses": ["0xbe44d00c0da4ddb32f2c8f35d742c0dbe03a98d3"]
+    },
+    "condition": {
+      "function": {
+        "id": "0x87201b41",
+        "interface": "fulfillAvailableAdvancedOrders(tuple[], tuple[], tuple[][], tuple[][], bytes32, address, uint256)"
+      },
+      "logs": {
+        "type": "some",
+        "patterns": [
+          {
+            "signature": "0x9d9af8e38d66c62e2c12f0225249fd9d721c54b83f48d9352c97c6cacdcb6f31",
+            "indexedCount": 2,
+            "count": {
+              "type": "between",
+              "min": "1"
+            }
+          }
+        ]
+      }
+    },
+    "generators": [
+      {
+        "type": "trade",
+        "transfers": [
+          {
+            "type": "value",
+            "direction": "out",
+            "from": {
+              "type": "array-in",
+              "values": ["related"]
+            },
+            "to": {
+              "type": "array-in",
+              "not": true,
+              "values": ["related"]
+            },
+            "value": {
+              "type": "between",
+              "min": "1"
+            }
+          },
+          {
+            "type": "internal",
+            "direction": "in",
+            "from": {
+              "type": "array-in",
+              "not": true,
+              "values": ["related"]
+            },
+            "to": {
+              "type": "array-in",
+              "values": ["related"]
+            },
+            "value": {
+              "type": "between",
+              "min": "1"
+            }
+          },
+          {
+            "type": "erc20",
+            "direction": "in",
+            "from": {
+              "type": "array-in",
+              "not": true,
+              "values": ["related"]
+            },
+            "to": {
+              "type": "array-in",
+              "values": ["related"]
+            },
+            "amount": {
               "type": "between",
               "min": "1"
             }
