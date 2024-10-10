@@ -1,0 +1,5 @@
+{
+  "address": "0x731fdbb12944973b500518aea61942381d7e240d",
+  "label": "UUPSProxy",
+  "abi": "[{\"stateMutability\":\"payable\",\"type\":\"fallback\"},{\"inputs\":[{\"internalType\":\"address\",\"name\":\"initialAddress\",\"type\":\"address\"}],\"name\":\"initializeProxy\",\"outputs\":[],\"stateMutability\":\"nonpayable\",\"type\":\"function\"},{\"stateMutability\":\"payable\",\"type\":\"receive\"}]"
+}
