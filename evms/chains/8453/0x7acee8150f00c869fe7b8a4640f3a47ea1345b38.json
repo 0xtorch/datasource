@@ -1,0 +1,5 @@
+{
+  "address": "0x7acee8150f00c869fe7b8a4640f3a47ea1345b38",
+  "label": "OXMultisender",
+  "abi": "[{\"inputs\":[],\"stateMutability\":\"nonpayable\",\"type\":\"constructor\"},{\"inputs\":[{\"internalType\":\"address payable[]\",\"name\":\"addrs\",\"type\":\"address[]\"}],\"name\":\"gift\",\"outputs\":[],\"stateMutability\":\"nonpayable\",\"type\":\"function\"}]"
+}
