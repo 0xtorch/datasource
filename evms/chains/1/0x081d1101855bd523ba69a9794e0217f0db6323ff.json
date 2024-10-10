@@ -1,0 +1,5 @@
+{
+  "address": "0x081d1101855bd523ba69a9794e0217f0db6323ff",
+  "label": "Lib_ResolvedDelegateProxy",
+  "abi": "[{\"inputs\":[{\"internalType\":\"address\",\"name\":\"_libAddressManager\",\"type\":\"address\"},{\"internalType\":\"string\",\"name\":\"_implementationName\",\"type\":\"string\"}],\"stateMutability\":\"nonpayable\",\"type\":\"constructor\"},{\"stateMutability\":\"payable\",\"type\":\"fallback\"}]"
+}
