@@ -1,0 +1,89 @@
+[
+  {
+    "example": {
+      "chainId": 1,
+      "hash": "0x40f54ff76d0e966bd43de647ab55419e813c4e7ed40d59bb5d621807a1c33ee8",
+      "addresses": ["0x695684881d525b241e4624be6d2dd4b43e857269"]
+    },
+    "condition": {
+      "related": {
+        "type": "array-in",
+        "values": [
+          {
+            "type": "from"
+          }
+        ]
+      },
+      "chainId": [1],
+      "to": {
+        "type": "array-in",
+        "values": ["0xcda72070e455bb31c7690a170224ce43623d0b6f"]
+      },
+      "value": {
+        "type": "between",
+        "max": "0"
+      },
+      "function": {
+        "id": "0x21506fff",
+        "interface": "cancelReserveAuction(uint256)"
+      },
+      "logs": {
+        "type": "some",
+        "patterns": [
+          {
+            "signature": "0xddf252ad1be2c89b69c2b068fc378daa952ba7f163c4a11628f55a4df523b3ef",
+            "indexedCount": 3,
+            "count": {
+              "type": "between",
+              "min": "1",
+              "max": "1"
+            }
+          },
+          {
+            "signature": "0x14b9c40404d5b41deb481f9a40b8aeb2bf4b47679b38cf757075a66ed510f7f1",
+            "indexedCount": 1,
+            "count": {
+              "type": "between",
+              "min": "1",
+              "max": "1"
+            }
+          }
+        ]
+      }
+    },
+    "generators": [
+      {
+        "type": "cross-trade",
+        "crossId": {
+          "type": "join",
+          "values": [
+            "foundation_",
+            {
+              "type": "log",
+              "signature": "0x14b9c40404d5b41deb481f9a40b8aeb2bf4b47679b38cf757075a66ed510f7f1",
+              "indexedCount": 1,
+              "index": 0,
+              "value": 0
+            }
+          ]
+        },
+        "crossType": "end",
+        "transfers": [
+          {
+            "type": "erc721",
+            "direction": "in",
+            "from": {
+              "type": "array-in",
+              "not": true,
+              "values": ["related"]
+            },
+            "to": {
+              "type": "array-in",
+              "values": ["related"]
+            }
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,134 @@
+{
+  "blockNumber": 13474170,
+  "chainId": 1,
+  "effectiveGasPrice": "61330421379",
+  "erc20Transfers": [],
+  "erc721Transfers": [
+    {
+      "address": "0x3b3ee1931dc30c1957379fac9aba94d1c48a5405",
+      "logIndex": 429,
+      "from": "0xcda72070e455bb31c7690a170224ce43623d0b6f",
+      "to": "0x695684881d525b241e4624be6d2dd4b43e857269",
+      "tokenId": "98601",
+      "token": {
+        "type": "Nft",
+        "id": "evm_721_1_0x3b3ee1931dc30c1957379fac9aba94d1c48a5405_98601",
+        "updatedAt": 0
+      }
+    }
+  ],
+  "erc1155Transfers": [],
+  "from": {
+    "chainId": 1,
+    "address": "0x695684881d525b241e4624be6d2dd4b43e857269"
+  },
+  "gasUsed": "158095",
+  "hash": "0x40f54ff76d0e966bd43de647ab55419e813c4e7ed40d59bb5d621807a1c33ee8",
+  "input": "0x21506fff00000000000000000000000000000000000000000000000000000000000189fa",
+  "internalTransactions": [],
+  "logs": [
+    {
+      "address": "0x3b3ee1931dc30c1957379fac9aba94d1c48a5405",
+      "data": "0x",
+      "logIndex": 428,
+      "topics": [
+        "0x8c5be1e5ebec7d5bd14f71427d1e84f3dd0314c0f7b2291e5b200ac8c7c3b925",
+        "0x000000000000000000000000cda72070e455bb31c7690a170224ce43623d0b6f",
+        "0x0000000000000000000000000000000000000000000000000000000000000000",
+        "0x0000000000000000000000000000000000000000000000000000000000018129"
+      ],
+      "transactionHash": "0x40f54ff76d0e966bd43de647ab55419e813c4e7ed40d59bb5d621807a1c33ee8",
+      "eventName": "Approval",
+      "args": [
+        {
+          "indexed": true,
+          "name": "owner",
+          "type": "address",
+          "value": "0xcDA72070E455bb31C7690a170224Ce43623d0B6f"
+        },
+        {
+          "indexed": true,
+          "name": "approved",
+          "type": "address",
+          "value": "0x0000000000000000000000000000000000000000"
+        },
+        {
+          "indexed": true,
+          "name": "tokenId",
+          "type": "uint256",
+          "value": "98601"
+        }
+      ]
+    },
+    {
+      "address": "0x3b3ee1931dc30c1957379fac9aba94d1c48a5405",
+      "data": "0x",
+      "logIndex": 429,
+      "topics": [
+        "0xddf252ad1be2c89b69c2b068fc378daa952ba7f163c4a11628f55a4df523b3ef",
+        "0x000000000000000000000000cda72070e455bb31c7690a170224ce43623d0b6f",
+        "0x000000000000000000000000695684881d525b241e4624be6d2dd4b43e857269",
+        "0x0000000000000000000000000000000000000000000000000000000000018129"
+      ],
+      "transactionHash": "0x40f54ff76d0e966bd43de647ab55419e813c4e7ed40d59bb5d621807a1c33ee8",
+      "eventName": "Transfer",
+      "args": [
+        {
+          "indexed": true,
+          "name": "from",
+          "type": "address",
+          "value": "0xcda72070e455bb31c7690a170224ce43623d0b6f"
+        },
+        {
+          "indexed": true,
+          "name": "to",
+          "type": "address",
+          "value": "0x695684881d525b241e4624be6d2dd4b43e857269"
+        },
+        {
+          "indexed": true,
+          "name": "tokenId",
+          "type": "uint256",
+          "value": "98601"
+        }
+      ]
+    },
+    {
+      "address": "0xcda72070e455bb31c7690a170224ce43623d0b6f",
+      "data": "0x",
+      "logIndex": 430,
+      "topics": [
+        "0x14b9c40404d5b41deb481f9a40b8aeb2bf4b47679b38cf757075a66ed510f7f1",
+        "0x00000000000000000000000000000000000000000000000000000000000189fa"
+      ],
+      "transactionHash": "0x40f54ff76d0e966bd43de647ab55419e813c4e7ed40d59bb5d621807a1c33ee8",
+      "eventName": "ReserveAuctionCanceled",
+      "args": [
+        {
+          "indexed": true,
+          "name": "auctionId",
+          "type": "uint256",
+          "value": "100858"
+        }
+      ]
+    }
+  ],
+  "status": "success",
+  "timestamp": 1634997434000,
+  "to": {
+    "chainId": 1,
+    "address": "0xcda72070e455bb31c7690a170224ce43623d0b6f"
+  },
+  "value": "0",
+  "function": {
+    "args": [
+      {
+        "type": "uint256",
+        "name": "auctionId",
+        "value": "100858"
+      }
+    ],
+    "name": "cancelReserveAuction",
+    "interface": "cancelReserveAuction(uint256)"
+  }
+}
