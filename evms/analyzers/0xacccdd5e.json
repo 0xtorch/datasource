@@ -1,0 +1,468 @@
+[
+  {
+    "example": {
+      "chainId": 1,
+      "hash": "0xd10cae2005b12c5e15f6dbac03b08ebe65fcd010976458e65192ddb6b457ebad",
+      "addresses": ["0x800df3ae6a276f20679451f55b1b8a60368e4e72"]
+    },
+    "condition": {
+      "related": {
+        "type": "array-in",
+        "values": [
+          {
+            "type": "from"
+          }
+        ]
+      },
+      "chainId": [1],
+      "to": {
+        "type": "array-in",
+        "values": ["0x762340b8a40cdd5bfc3edd94265899fda345d0e3"]
+      },
+      "value": {
+        "type": "between",
+        "max": "0"
+      },
+      "function": {
+        "id": "0xacccdd5e",
+        "interface": "batchListFromCollection(address, uint256[], uint256, uint256, bool, uint256, uint256, tuple[])"
+      },
+      "logs": {
+        "type": "exact",
+        "patterns": [
+          {
+            "signature": "0xddf252ad1be2c89b69c2b068fc378daa952ba7f163c4a11628f55a4df523b3ef",
+            "indexedCount": 3
+          },
+          {
+            "signature": "0xfcc77ea8bdcce862f43b7fb00fe6b0eb90d6aeead27d3800d9257cf7a05f9d96",
+            "indexedCount": 3
+          },
+          {
+            "signature": "0xddf252ad1be2c89b69c2b068fc378daa952ba7f163c4a11628f55a4df523b3ef",
+            "indexedCount": 3
+          },
+          {
+            "signature": "0xfcc77ea8bdcce862f43b7fb00fe6b0eb90d6aeead27d3800d9257cf7a05f9d96",
+            "indexedCount": 3
+          },
+          {
+            "signature": "0xddf252ad1be2c89b69c2b068fc378daa952ba7f163c4a11628f55a4df523b3ef",
+            "indexedCount": 3
+          },
+          {
+            "signature": "0xfcc77ea8bdcce862f43b7fb00fe6b0eb90d6aeead27d3800d9257cf7a05f9d96",
+            "indexedCount": 3
+          },
+          {
+            "signature": "0xddf252ad1be2c89b69c2b068fc378daa952ba7f163c4a11628f55a4df523b3ef",
+            "indexedCount": 3
+          },
+          {
+            "signature": "0xfcc77ea8bdcce862f43b7fb00fe6b0eb90d6aeead27d3800d9257cf7a05f9d96",
+            "indexedCount": 3
+          },
+          {
+            "signature": "0xddf252ad1be2c89b69c2b068fc378daa952ba7f163c4a11628f55a4df523b3ef",
+            "indexedCount": 3
+          },
+          {
+            "signature": "0xfcc77ea8bdcce862f43b7fb00fe6b0eb90d6aeead27d3800d9257cf7a05f9d96",
+            "indexedCount": 3
+          }
+        ]
+      }
+    },
+    "generators": [
+      {
+        "type": "cross-trade",
+        "crossId": {
+          "type": "join",
+          "values": [
+            "foundation_",
+            {
+              "type": "log",
+              "signature": "0xfcc77ea8bdcce862f43b7fb00fe6b0eb90d6aeead27d3800d9257cf7a05f9d96",
+              "indexedCount": 3,
+              "index": 0,
+              "value": 0
+            },
+            "_",
+            {
+              "type": "log",
+              "signature": "0xfcc77ea8bdcce862f43b7fb00fe6b0eb90d6aeead27d3800d9257cf7a05f9d96",
+              "indexedCount": 3,
+              "index": 0,
+              "value": 1
+            }
+          ]
+        },
+        "crossType": "start",
+        "transfers": [
+          {
+            "from": {
+              "type": "array-in",
+              "values": ["related"]
+            },
+            "to": {
+              "type": "array-in",
+              "not": true,
+              "values": ["related"]
+            },
+            "type": "erc721",
+            "direction": "out",
+            "index": 0
+          }
+        ]
+      },
+      {
+        "type": "cross-trade",
+        "crossId": {
+          "type": "join",
+          "values": [
+            "foundation_",
+            {
+              "type": "log",
+              "signature": "0xfcc77ea8bdcce862f43b7fb00fe6b0eb90d6aeead27d3800d9257cf7a05f9d96",
+              "indexedCount": 3,
+              "index": 1,
+              "value": 0
+            },
+            "_",
+            {
+              "type": "log",
+              "signature": "0xfcc77ea8bdcce862f43b7fb00fe6b0eb90d6aeead27d3800d9257cf7a05f9d96",
+              "indexedCount": 3,
+              "index": 1,
+              "value": 1
+            }
+          ]
+        },
+        "crossType": "start",
+        "transfers": [
+          {
+            "from": {
+              "type": "array-in",
+              "values": ["related"]
+            },
+            "to": {
+              "type": "array-in",
+              "not": true,
+              "values": ["related"]
+            },
+            "type": "erc721",
+            "direction": "out",
+            "index": 1
+          }
+        ]
+      },
+      {
+        "type": "cross-trade",
+        "crossId": {
+          "type": "join",
+          "values": [
+            "foundation_",
+            {
+              "type": "log",
+              "signature": "0xfcc77ea8bdcce862f43b7fb00fe6b0eb90d6aeead27d3800d9257cf7a05f9d96",
+              "indexedCount": 3,
+              "index": 2,
+              "value": 0
+            },
+            "_",
+            {
+              "type": "log",
+              "signature": "0xfcc77ea8bdcce862f43b7fb00fe6b0eb90d6aeead27d3800d9257cf7a05f9d96",
+              "indexedCount": 3,
+              "index": 2,
+              "value": 1
+            }
+          ]
+        },
+        "crossType": "start",
+        "transfers": [
+          {
+            "from": {
+              "type": "array-in",
+              "values": ["related"]
+            },
+            "to": {
+              "type": "array-in",
+              "not": true,
+              "values": ["related"]
+            },
+            "type": "erc721",
+            "direction": "out",
+            "index": 2
+          }
+        ]
+      },
+      {
+        "type": "cross-trade",
+        "crossId": {
+          "type": "join",
+          "values": [
+            "foundation_",
+            {
+              "type": "log",
+              "signature": "0xfcc77ea8bdcce862f43b7fb00fe6b0eb90d6aeead27d3800d9257cf7a05f9d96",
+              "indexedCount": 3,
+              "index": 3,
+              "value": 0
+            },
+            "_",
+            {
+              "type": "log",
+              "signature": "0xfcc77ea8bdcce862f43b7fb00fe6b0eb90d6aeead27d3800d9257cf7a05f9d96",
+              "indexedCount": 3,
+              "index": 3,
+              "value": 1
+            }
+          ]
+        },
+        "crossType": "start",
+        "transfers": [
+          {
+            "from": {
+              "type": "array-in",
+              "values": ["related"]
+            },
+            "to": {
+              "type": "array-in",
+              "not": true,
+              "values": ["related"]
+            },
+            "type": "erc721",
+            "direction": "out",
+            "index": 3
+          }
+        ]
+      },
+      {
+        "type": "cross-trade",
+        "crossId": {
+          "type": "join",
+          "values": [
+            "foundation_",
+            {
+              "type": "log",
+              "signature": "0xfcc77ea8bdcce862f43b7fb00fe6b0eb90d6aeead27d3800d9257cf7a05f9d96",
+              "indexedCount": 3,
+              "index": 4,
+              "value": 0
+            },
+            "_",
+            {
+              "type": "log",
+              "signature": "0xfcc77ea8bdcce862f43b7fb00fe6b0eb90d6aeead27d3800d9257cf7a05f9d96",
+              "indexedCount": 3,
+              "index": 4,
+              "value": 1
+            }
+          ]
+        },
+        "crossType": "start",
+        "transfers": [
+          {
+            "from": {
+              "type": "array-in",
+              "values": ["related"]
+            },
+            "to": {
+              "type": "array-in",
+              "not": true,
+              "values": ["related"]
+            },
+            "type": "erc721",
+            "direction": "out",
+            "index": 4
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "example": {
+      "chainId": 1,
+      "hash": "0x3c220b23f4887a879c32504dfef29fae82cb628684ebc16887759864d8c40b9a",
+      "addresses": ["0x800df3ae6a276f20679451f55b1b8a60368e4e72"]
+    },
+    "condition": {
+      "related": {
+        "type": "array-in",
+        "values": [
+          {
+            "type": "from"
+          }
+        ]
+      },
+      "chainId": [1],
+      "to": {
+        "type": "array-in",
+        "values": ["0x762340b8a40cdd5bfc3edd94265899fda345d0e3"]
+      },
+      "value": {
+        "type": "between",
+        "max": "0"
+      },
+      "function": {
+        "id": "0xacccdd5e",
+        "interface": "batchListFromCollection(address, uint256[], uint256, uint256, bool, uint256, uint256, tuple[])"
+      },
+      "logs": {
+        "type": "exact",
+        "patterns": [
+          {
+            "signature": "0xddf252ad1be2c89b69c2b068fc378daa952ba7f163c4a11628f55a4df523b3ef",
+            "indexedCount": 3
+          },
+          {
+            "signature": "0xfcc77ea8bdcce862f43b7fb00fe6b0eb90d6aeead27d3800d9257cf7a05f9d96",
+            "indexedCount": 3
+          },
+          {
+            "signature": "0xddf252ad1be2c89b69c2b068fc378daa952ba7f163c4a11628f55a4df523b3ef",
+            "indexedCount": 3
+          },
+          {
+            "signature": "0xfcc77ea8bdcce862f43b7fb00fe6b0eb90d6aeead27d3800d9257cf7a05f9d96",
+            "indexedCount": 3
+          },
+          {
+            "signature": "0xddf252ad1be2c89b69c2b068fc378daa952ba7f163c4a11628f55a4df523b3ef",
+            "indexedCount": 3
+          },
+          {
+            "signature": "0xfcc77ea8bdcce862f43b7fb00fe6b0eb90d6aeead27d3800d9257cf7a05f9d96",
+            "indexedCount": 3
+          }
+        ]
+      }
+    },
+    "generators": [
+      {
+        "type": "cross-trade",
+        "crossId": {
+          "type": "join",
+          "values": [
+            "foundation_",
+            {
+              "type": "log",
+              "signature": "0xfcc77ea8bdcce862f43b7fb00fe6b0eb90d6aeead27d3800d9257cf7a05f9d96",
+              "indexedCount": 3,
+              "index": 0,
+              "value": 0
+            },
+            "_",
+            {
+              "type": "log",
+              "signature": "0xfcc77ea8bdcce862f43b7fb00fe6b0eb90d6aeead27d3800d9257cf7a05f9d96",
+              "indexedCount": 3,
+              "index": 0,
+              "value": 1
+            }
+          ]
+        },
+        "crossType": "start",
+        "transfers": [
+          {
+            "from": {
+              "type": "array-in",
+              "values": ["related"]
+            },
+            "to": {
+              "type": "array-in",
+              "not": true,
+              "values": ["related"]
+            },
+            "type": "erc721",
+            "direction": "out",
+            "index": 0
+          }
+        ]
+      },
+      {
+        "type": "cross-trade",
+        "crossId": {
+          "type": "join",
+          "values": [
+            "foundation_",
+            {
+              "type": "log",
+              "signature": "0xfcc77ea8bdcce862f43b7fb00fe6b0eb90d6aeead27d3800d9257cf7a05f9d96",
+              "indexedCount": 3,
+              "index": 1,
+              "value": 0
+            },
+            "_",
+            {
+              "type": "log",
+              "signature": "0xfcc77ea8bdcce862f43b7fb00fe6b0eb90d6aeead27d3800d9257cf7a05f9d96",
+              "indexedCount": 3,
+              "index": 1,
+              "value": 1
+            }
+          ]
+        },
+        "crossType": "start",
+        "transfers": [
+          {
+            "from": {
+              "type": "array-in",
+              "values": ["related"]
+            },
+            "to": {
+              "type": "array-in",
+              "not": true,
+              "values": ["related"]
+            },
+            "type": "erc721",
+            "direction": "out",
+            "index": 1
+          }
+        ]
+      },
+      {
+        "type": "cross-trade",
+        "crossId": {
+          "type": "join",
+          "values": [
+            "foundation_",
+            {
+              "type": "log",
+              "signature": "0xfcc77ea8bdcce862f43b7fb00fe6b0eb90d6aeead27d3800d9257cf7a05f9d96",
+              "indexedCount": 3,
+              "index": 2,
+              "value": 0
+            },
+            "_",
+            {
+              "type": "log",
+              "signature": "0xfcc77ea8bdcce862f43b7fb00fe6b0eb90d6aeead27d3800d9257cf7a05f9d96",
+              "indexedCount": 3,
+              "index": 2,
+              "value": 1
+            }
+          ]
+        },
+        "crossType": "start",
+        "transfers": [
+          {
+            "from": {
+              "type": "array-in",
+              "values": ["related"]
+            },
+            "to": {
+              "type": "array-in",
+              "not": true,
+              "values": ["related"]
+            },
+            "type": "erc721",
+            "direction": "out",
+            "index": 2
+          }
+        ]
+      }
+    ]
+  }
+]

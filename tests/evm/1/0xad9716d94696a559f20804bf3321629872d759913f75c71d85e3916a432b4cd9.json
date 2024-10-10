@@ -1,0 +1,195 @@
+{
+  "blockNumber": 18982932,
+  "chainId": 1,
+  "effectiveGasPrice": "21091303902",
+  "erc20Transfers": [],
+  "erc721Transfers": [
+    {
+      "address": "0xde2f79f683224d64a948cb0c9b44b6689d81a488",
+      "logIndex": 127,
+      "from": "0x0000000000000000000000000000000000000000",
+      "to": "0x59af58863f6a9368ecc50aaedd8c327cd3597d68",
+      "tokenId": "3",
+      "token": {
+        "type": "Nft",
+        "id": "evm_721_1_0xde2f79f683224d64a948cb0c9b44b6689d81a488_3",
+        "updatedAt": 0
+      }
+    },
+    {
+      "address": "0xde2f79f683224d64a948cb0c9b44b6689d81a488",
+      "logIndex": 128,
+      "from": "0x0000000000000000000000000000000000000000",
+      "to": "0x59af58863f6a9368ecc50aaedd8c327cd3597d68",
+      "tokenId": "4",
+      "token": {
+        "type": "Nft",
+        "id": "evm_721_1_0xde2f79f683224d64a948cb0c9b44b6689d81a488_4",
+        "updatedAt": 0
+      }
+    }
+  ],
+  "erc1155Transfers": [],
+  "from": {
+    "chainId": 1,
+    "address": "0x59af58863f6a9368ecc50aaedd8c327cd3597d68"
+  },
+  "gasUsed": "152002",
+  "hash": "0xad9716d94696a559f20804bf3321629872d759913f75c71d85e3916a432b4cd9",
+  "input": "0x26c858a4000000000000000000000000de2f79f683224d64a948cb0c9b44b6689d81a4880000000000000000000000000000000000000000000000000000000003fae8f0000000000000000000000000000000000000000000000000000000000000000200000000000000000000000000000000000000000000000000000000000000c000000000000000000000000000000000000000000000000000000000000000e000000000000000000000000059af58863f6a9368ecc50aaedd8c327cd3597d6800000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000",
+  "internalTransactions": [
+    {
+      "blockNumber": 18982932,
+      "from": "0x1eb73fee2090fb1c20105d5ba887e3c3ba14a17e",
+      "gas": "142814",
+      "isError": false,
+      "timestamp": 1704966983000,
+      "to": "0x800df3ae6a276f20679451f55b1b8a60368e4e72",
+      "txHash": "0xad9716d94696a559f20804bf3321629872d759913f75c71d85e3916a432b4cd9",
+      "value": "20000000000000000"
+    }
+  ],
+  "logs": [
+    {
+      "address": "0xde2f79f683224d64a948cb0c9b44b6689d81a488",
+      "data": "0x",
+      "logIndex": 127,
+      "topics": [
+        "0xddf252ad1be2c89b69c2b068fc378daa952ba7f163c4a11628f55a4df523b3ef",
+        "0x0000000000000000000000000000000000000000000000000000000000000000",
+        "0x00000000000000000000000059af58863f6a9368ecc50aaedd8c327cd3597d68",
+        "0x0000000000000000000000000000000000000000000000000000000000000003"
+      ],
+      "transactionHash": "0xad9716d94696a559f20804bf3321629872d759913f75c71d85e3916a432b4cd9",
+      "eventName": "Transfer",
+      "args": [
+        {
+          "indexed": true,
+          "name": "from",
+          "type": "address",
+          "value": "0x0000000000000000000000000000000000000000"
+        },
+        {
+          "indexed": true,
+          "name": "to",
+          "type": "address",
+          "value": "0x59af58863f6a9368ecc50aaedd8c327cd3597d68"
+        },
+        {
+          "indexed": true,
+          "name": "tokenId",
+          "type": "uint256",
+          "value": "3"
+        }
+      ]
+    },
+    {
+      "address": "0xde2f79f683224d64a948cb0c9b44b6689d81a488",
+      "data": "0x",
+      "logIndex": 128,
+      "topics": [
+        "0xddf252ad1be2c89b69c2b068fc378daa952ba7f163c4a11628f55a4df523b3ef",
+        "0x0000000000000000000000000000000000000000000000000000000000000000",
+        "0x00000000000000000000000059af58863f6a9368ecc50aaedd8c327cd3597d68",
+        "0x0000000000000000000000000000000000000000000000000000000000000004"
+      ],
+      "transactionHash": "0xad9716d94696a559f20804bf3321629872d759913f75c71d85e3916a432b4cd9",
+      "eventName": "Transfer",
+      "args": [
+        {
+          "indexed": true,
+          "name": "from",
+          "type": "address",
+          "value": "0x0000000000000000000000000000000000000000"
+        },
+        {
+          "indexed": true,
+          "name": "to",
+          "type": "address",
+          "value": "0x59af58863f6a9368ecc50aaedd8c327cd3597d68"
+        },
+        {
+          "indexed": true,
+          "name": "tokenId",
+          "type": "uint256",
+          "value": "4"
+        }
+      ]
+    },
+    {
+      "address": "0x1eb73fee2090fb1c20105d5ba887e3c3ba14a17e",
+      "data": "0x0000000000000000000000000000000000000000000000000000000000000002",
+      "logIndex": 129,
+      "topics": [
+        "0x74f5d3254dfa39a7b1217a27d5d9b3e061eafe11720eca1cf499da2dc1eb1259",
+        "0x000000000000000000000000de2f79f683224d64a948cb0c9b44b6689d81a488",
+        "0x0000000000000000000000000000000000000000000000000000000003fae8f0"
+      ],
+      "transactionHash": "0xad9716d94696a559f20804bf3321629872d759913f75c71d85e3916a432b4cd9",
+      "eventName": "ClaimMintBatch",
+      "args": [
+        {
+          "indexed": true,
+          "name": "creatorContract",
+          "type": "address",
+          "value": "0xde2f79F683224D64A948cb0c9B44b6689d81A488"
+        },
+        {
+          "indexed": true,
+          "name": "claimIndex",
+          "type": "uint256",
+          "value": "66775280"
+        },
+        {
+          "indexed": false,
+          "name": "mintCount",
+          "type": "uint16",
+          "value": 2
+        }
+      ]
+    }
+  ],
+  "status": "success",
+  "timestamp": 1704966983000,
+  "to": {
+    "chainId": 1,
+    "address": "0x1eb73fee2090fb1c20105d5ba887e3c3ba14a17e"
+  },
+  "value": "21000000000000000",
+  "function": {
+    "args": [
+      {
+        "type": "address",
+        "name": "creatorContractAddress",
+        "value": "0xde2f79F683224D64A948cb0c9B44b6689d81A488"
+      },
+      {
+        "type": "uint256",
+        "name": "claimIndex",
+        "value": "66775280"
+      },
+      {
+        "type": "uint16",
+        "name": "mintCount",
+        "value": 2
+      },
+      {
+        "type": "uint32[]",
+        "name": "mintIndices",
+        "value": []
+      },
+      {
+        "type": "bytes32[][]",
+        "name": "merkleProofs",
+        "value": []
+      },
+      {
+        "type": "address",
+        "name": "mintFor",
+        "value": "0x59af58863F6A9368eCc50AaeDd8C327CD3597d68"
+      }
+    ],
+    "name": "mintBatch",
+    "interface": "mintBatch(address, uint256, uint16, uint32[], bytes32[][], address)"
+  }
+}

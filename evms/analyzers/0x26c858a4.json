@@ -23,15 +23,24 @@
         "interface": "mintBatch(address, uint256, uint16, uint32[], bytes32[][], address)"
       },
       "logs": {
-        "type": "exact",
+        "type": "some",
         "patterns": [
           {
             "signature": "0xc3d58168c5ae7397731d063d5bbf3d657854427343f4c083240f7aacaa2d0f62",
-            "indexedCount": 3
+            "indexedCount": 3,
+            "count": {
+              "type": "between",
+              "min": "1"
+            }
           },
           {
             "signature": "0x74f5d3254dfa39a7b1217a27d5d9b3e061eafe11720eca1cf499da2dc1eb1259",
-            "indexedCount": 2
+            "indexedCount": 2,
+            "count": {
+              "type": "between",
+              "min": "1",
+              "max": "1"
+            }
           }
         ]
       }
@@ -81,6 +90,78 @@
   {
     "example": {
       "chainId": 1,
+      "hash": "0x257b1be6f6c5bf63c17c966cac478b31a1408c440c2eb06c27c0ddaab562777c",
+      "addresses": ["0xf855adc3fe601eeb452d345332e70f715ba9bd2f"]
+    },
+    "condition": {
+      "related": {
+        "type": "array-in",
+        "not": true,
+        "values": [
+          {
+            "type": "from"
+          }
+        ]
+      },
+      "value": {
+        "type": "between",
+        "min": "1"
+      },
+      "function": {
+        "id": "0x26c858a4",
+        "interface": "mintBatch(address, uint256, uint16, uint32[], bytes32[][], address)"
+      },
+      "logs": {
+        "type": "some",
+        "patterns": [
+          {
+            "signature": "0xc3d58168c5ae7397731d063d5bbf3d657854427343f4c083240f7aacaa2d0f62",
+            "indexedCount": 3,
+            "count": {
+              "type": "between",
+              "min": "1"
+            }
+          },
+          {
+            "signature": "0x74f5d3254dfa39a7b1217a27d5d9b3e061eafe11720eca1cf499da2dc1eb1259",
+            "indexedCount": 2,
+            "count": {
+              "type": "between",
+              "min": "1",
+              "max": "1"
+            }
+          }
+        ]
+      }
+    },
+    "generators": [
+      {
+        "type": "income",
+        "transfers": [
+          {
+            "type": "internal",
+            "direction": "in",
+            "from": {
+              "type": "array-in",
+              "not": true,
+              "values": ["related"]
+            },
+            "to": {
+              "type": "array-in",
+              "values": ["related"]
+            },
+            "value": {
+              "type": "between",
+              "min": "1"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "example": {
+      "chainId": 1,
       "hash": "0x16b350822b9953e214ff983accb04f36b6b575b35cda4db35e880da8faf893ee",
       "addresses": ["0x695684881d525b241e4624be6d2dd4b43e857269"]
     },
@@ -102,15 +183,24 @@
         "interface": "mintBatch(address, uint256, uint16, uint32[], bytes32[][], address)"
       },
       "logs": {
-        "type": "exact",
+        "type": "some",
         "patterns": [
           {
             "signature": "0xc3d58168c5ae7397731d063d5bbf3d657854427343f4c083240f7aacaa2d0f62",
-            "indexedCount": 3
+            "indexedCount": 3,
+            "count": {
+              "type": "between",
+              "min": "1"
+            }
           },
           {
             "signature": "0x74f5d3254dfa39a7b1217a27d5d9b3e061eafe11720eca1cf499da2dc1eb1259",
-            "indexedCount": 2
+            "indexedCount": 2,
+            "count": {
+              "type": "between",
+              "min": "1",
+              "max": "1"
+            }
           }
         ]
       }
@@ -120,8 +210,6 @@
         "type": "free-mint",
         "transfers": [
           {
-            "type": "erc1155",
-            "direction": "in",
             "from": {
               "type": "array-in",
               "not": true,
@@ -132,6 +220,168 @@
               "values": ["related"]
             },
             "amount": {
+              "type": "between",
+              "min": "1"
+            },
+            "type": "erc1155",
+            "direction": "in"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "example": {
+      "chainId": 1,
+      "hash": "0xad9716d94696a559f20804bf3321629872d759913f75c71d85e3916a432b4cd9",
+      "addresses": ["0x59af58863f6a9368ecc50aaedd8c327cd3597d68"]
+    },
+    "condition": {
+      "related": {
+        "type": "array-in",
+        "values": [
+          {
+            "type": "from"
+          }
+        ]
+      },
+      "value": {
+        "type": "between",
+        "min": "1"
+      },
+      "function": {
+        "id": "0x26c858a4",
+        "interface": "mintBatch(address, uint256, uint16, uint32[], bytes32[][], address)"
+      },
+      "logs": {
+        "type": "some",
+        "patterns": [
+          {
+            "signature": "0xddf252ad1be2c89b69c2b068fc378daa952ba7f163c4a11628f55a4df523b3ef",
+            "indexedCount": 3,
+            "count": {
+              "type": "between",
+              "min": "1"
+            }
+          },
+          {
+            "signature": "0x74f5d3254dfa39a7b1217a27d5d9b3e061eafe11720eca1cf499da2dc1eb1259",
+            "indexedCount": 2,
+            "count": {
+              "type": "between",
+              "min": "1",
+              "max": "1"
+            }
+          }
+        ]
+      }
+    },
+    "generators": [
+      {
+        "type": "mint-nft",
+        "transfers": [
+          {
+            "type": "value",
+            "direction": "out",
+            "from": {
+              "type": "array-in",
+              "values": ["related"]
+            },
+            "to": {
+              "type": "array-in",
+              "not": true,
+              "values": ["related"]
+            },
+            "value": {
+              "type": "between",
+              "min": "1"
+            }
+          },
+          {
+            "from": {
+              "type": "array-in",
+              "not": true,
+              "values": ["related"]
+            },
+            "to": {
+              "type": "array-in",
+              "values": ["related"]
+            },
+            "amount": {
+              "type": "between",
+              "min": "1"
+            },
+            "type": "erc721",
+            "direction": "in"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "example": {
+      "chainId": 1,
+      "hash": "0xad9716d94696a559f20804bf3321629872d759913f75c71d85e3916a432b4cd9",
+      "addresses": ["0x800df3ae6a276f20679451f55b1b8a60368e4e72"]
+    },
+    "condition": {
+      "related": {
+        "type": "array-in",
+        "not": true,
+        "values": [
+          {
+            "type": "from"
+          }
+        ]
+      },
+      "value": {
+        "type": "between",
+        "min": "1"
+      },
+      "function": {
+        "id": "0x26c858a4",
+        "interface": "mintBatch(address, uint256, uint16, uint32[], bytes32[][], address)"
+      },
+      "logs": {
+        "type": "some",
+        "patterns": [
+          {
+            "signature": "0xddf252ad1be2c89b69c2b068fc378daa952ba7f163c4a11628f55a4df523b3ef",
+            "indexedCount": 3,
+            "count": {
+              "type": "between",
+              "min": "1"
+            }
+          },
+          {
+            "signature": "0x74f5d3254dfa39a7b1217a27d5d9b3e061eafe11720eca1cf499da2dc1eb1259",
+            "indexedCount": 2,
+            "count": {
+              "type": "between",
+              "min": "1",
+              "max": "1"
+            }
+          }
+        ]
+      }
+    },
+    "generators": [
+      {
+        "type": "income",
+        "transfers": [
+          {
+            "type": "internal",
+            "direction": "in",
+            "from": {
+              "type": "array-in",
+              "not": true,
+              "values": ["related"]
+            },
+            "to": {
+              "type": "array-in",
+              "values": ["related"]
+            },
+            "value": {
               "type": "between",
               "min": "1"
             }

@@ -1,0 +1,182 @@
+[
+  {
+    "example": {
+      "chainId": 1,
+      "hash": "0x4953baec8fcfde6d66234c66980a0d41301ab927d331cbfd97459dd6b9d2adc2",
+      "addresses": ["0x800df3ae6a276f20679451f55b1b8a60368e4e72"]
+    },
+    "condition": {
+      "related": {
+        "type": "array-in",
+        "values": [
+          {
+            "type": "log",
+            "signature": "0xd28c0a7dd63bc853a4e36306655da9f8c0b29ff9d0605bb976ae420e46a99930",
+            "indexedCount": 3,
+            "index": 0,
+            "value": 2
+          }
+        ]
+      },
+      "chainId": [1],
+      "to": {
+        "type": "array-in",
+        "values": ["0xcda72070e455bb31c7690a170224ce43623d0b6f"]
+      },
+      "function": {
+        "id": "0xb01ef608",
+        "interface": "buyV2(address, uint256, uint256, address)"
+      },
+      "logs": {
+        "type": "some",
+        "patterns": [
+          {
+            "signature": "0xddf252ad1be2c89b69c2b068fc378daa952ba7f163c4a11628f55a4df523b3ef",
+            "indexedCount": 3,
+            "count": {
+              "type": "between",
+              "min": "1",
+              "max": "1"
+            }
+          },
+          {
+            "signature": "0xd28c0a7dd63bc853a4e36306655da9f8c0b29ff9d0605bb976ae420e46a99930",
+            "indexedCount": 3,
+            "count": {
+              "type": "between",
+              "min": "1",
+              "max": "1"
+            }
+          }
+        ]
+      }
+    },
+    "generators": [
+      {
+        "type": "cross-trade",
+        "crossId": {
+          "type": "join",
+          "values": [
+            "foundation_",
+            {
+              "type": "log",
+              "signature": "0xd28c0a7dd63bc853a4e36306655da9f8c0b29ff9d0605bb976ae420e46a99930",
+              "indexedCount": 3,
+              "index": 0,
+              "value": 0
+            },
+            "_",
+            {
+              "type": "log",
+              "signature": "0xd28c0a7dd63bc853a4e36306655da9f8c0b29ff9d0605bb976ae420e46a99930",
+              "indexedCount": 3,
+              "index": 0,
+              "value": 1
+            }
+          ]
+        },
+        "crossType": "end",
+        "transfers": [
+          {
+            "type": "internal",
+            "direction": "in",
+            "from": {
+              "type": "array-in",
+              "not": true,
+              "values": ["related"]
+            },
+            "to": {
+              "type": "array-in",
+              "values": ["related"]
+            },
+            "value": {
+              "type": "between",
+              "min": "1"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "example": {
+      "chainId": 1,
+      "hash": "0x4c5c69a6be34ba4eebc2fdff51eba1a0b23a9b2fdc29e0b3d72ebf74701f5b66",
+      "addresses": ["0x800df3ae6a276f20679451f55b1b8a60368e4e72"]
+    },
+    "condition": {
+      "related": {
+        "type": "array-in",
+        "not": true,
+        "values": [
+          {
+            "type": "from"
+          },
+          {
+            "type": "log",
+            "signature": "0xd28c0a7dd63bc853a4e36306655da9f8c0b29ff9d0605bb976ae420e46a99930",
+            "indexedCount": 3,
+            "index": 0,
+            "value": 2
+          }
+        ]
+      },
+      "chainId": [1],
+      "to": {
+        "type": "array-in",
+        "values": ["0xcda72070e455bb31c7690a170224ce43623d0b6f"]
+      },
+      "function": {
+        "id": "0xb01ef608",
+        "interface": "buyV2(address, uint256, uint256, address)"
+      },
+      "logs": {
+        "type": "some",
+        "patterns": [
+          {
+            "signature": "0xddf252ad1be2c89b69c2b068fc378daa952ba7f163c4a11628f55a4df523b3ef",
+            "indexedCount": 3,
+            "count": {
+              "type": "between",
+              "min": "1",
+              "max": "1"
+            }
+          },
+          {
+            "signature": "0xd28c0a7dd63bc853a4e36306655da9f8c0b29ff9d0605bb976ae420e46a99930",
+            "indexedCount": 3,
+            "count": {
+              "type": "between",
+              "min": "1",
+              "max": "1"
+            }
+          }
+        ]
+      }
+    },
+    "generators": [
+      {
+        "type": "nft-royalty",
+        "transfers": [
+          {
+            "type": "internal",
+            "direction": "in",
+            "from": {
+              "type": "array-in",
+              "not": true,
+              "values": ["related"]
+            },
+            "to": {
+              "type": "array-in",
+              "values": ["related"]
+            },
+            "value": {
+              "type": "between",
+              "min": "1"
+            }
+          }
+        ]
+      }
+    ]
+  }
+]
