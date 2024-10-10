@@ -2,20 +2,80 @@
   {
     "example": {
       "chainId": 1,
-      "hash": "0xe08243c41200e72dd948225154f5e009b5490e789c2be3760eff4c282926fa07",
-      "addresses": ["0x695684881d525b241e4624be6d2dd4b43e857269"]
+      "hash": "0x0d89436ca9e51b7e18b966b40a8fb333b1b575ad91804be9545140469d278936",
+      "addresses": ["0x1cf0df2a5a20cd61d68d4489eebbf85b8d39e18a"]
     },
     "condition": {
+      "related": {
+        "type": "array-in",
+        "not": true,
+        "values": [
+          {
+            "type": "from"
+          }
+        ]
+      },
       "function": {
-        "id": "0xab834bab",
-        "interface": "atomicMatch_(address[14], uint256[18], uint8[8], bytes, bytes, bytes, bytes, bytes, bytes, uint8[2], bytes32[5])"
+        "id": "0xe99a3f80",
+        "interface": "matchOrders(tuple, bytes, tuple, bytes)"
       },
       "logs": {
         "type": "some",
         "patterns": [
           {
-            "signature": "0xc4109843e0b7d514e4c093114b863f8e7d8d9a458c372cd51bfe526b588006c9",
-            "indexedCount": 3,
+            "signature": "0x268820db288a211986b26a8fda86b1e0046281b21206936bb0e61c67b5c79ef4",
+            "indexedCount": 0,
+            "count": {
+              "type": "between",
+              "min": "1",
+              "max": "1"
+            }
+          }
+        ]
+      }
+    },
+    "generators": [
+      {
+        "type": "nft-royalty",
+        "transfers": [
+          {
+            "type": "internal",
+            "direction": "in",
+            "from": {
+              "type": "array-in",
+              "not": true,
+              "values": ["related"]
+            },
+            "to": {
+              "type": "array-in",
+              "values": ["related"]
+            },
+            "value": {
+              "type": "between",
+              "min": "1"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "example": {
+      "chainId": 1,
+      "hash": "0x0d89436ca9e51b7e18b966b40a8fb333b1b575ad91804be9545140469d278936",
+      "addresses": ["0x695684881d525b241e4624be6d2dd4b43e857269"]
+    },
+    "condition": {
+      "function": {
+        "id": "0xe99a3f80",
+        "interface": "matchOrders(tuple, bytes, tuple, bytes)"
+      },
+      "logs": {
+        "type": "some",
+        "patterns": [
+          {
+            "signature": "0x268820db288a211986b26a8fda86b1e0046281b21206936bb0e61c67b5c79ef4",
+            "indexedCount": 0,
             "count": {
               "type": "between",
               "min": "1",
@@ -47,36 +107,21 @@
             }
           },
           {
-            "from": {
-              "type": "array-in",
-              "not": true,
-              "values": ["related"]
-            },
-            "to": {
-              "type": "array-in",
-              "values": ["related"]
-            },
-            "amount": {
-              "type": "between",
-              "min": "1"
-            },
-            "type": "erc20",
-            "direction": "in"
-          },
-          {
-            "from": {
-              "type": "array-in",
-              "values": ["related"]
-            },
-            "to": {
-              "type": "array-in",
-              "not": true,
-              "values": ["related"]
-            },
             "type": "erc721",
-            "direction": "out"
+            "direction": "out",
+            "from": {
+              "type": "array-in",
+              "values": ["related"]
+            },
+            "to": {
+              "type": "array-in",
+              "not": true,
+              "values": ["related"]
+            }
           },
           {
+            "type": "erc1155",
+            "direction": "out",
             "from": {
               "type": "array-in",
               "values": ["related"]
@@ -89,9 +134,7 @@
             "amount": {
               "type": "between",
               "min": "1"
-            },
-            "type": "erc1155",
-            "direction": "out"
+            }
           }
         ]
       }
@@ -100,20 +143,20 @@
   {
     "example": {
       "chainId": 1,
-      "hash": "0xe08243c41200e72dd948225154f5e009b5490e789c2be3760eff4c282926fa07",
-      "addresses": ["0xbca7b4fba4262a7e369875042d73981921764b30"]
+      "hash": "0x0d89436ca9e51b7e18b966b40a8fb333b1b575ad91804be9545140469d278936",
+      "addresses": ["0x886b32821a9777130a351a08afa3f5c0628ad48a"]
     },
     "condition": {
       "function": {
-        "id": "0xab834bab",
-        "interface": "atomicMatch_(address[14], uint256[18], uint8[8], bytes, bytes, bytes, bytes, bytes, bytes, uint8[2], bytes32[5])"
+        "id": "0xe99a3f80",
+        "interface": "matchOrders(tuple, bytes, tuple, bytes)"
       },
       "logs": {
         "type": "some",
         "patterns": [
           {
-            "signature": "0xc4109843e0b7d514e4c093114b863f8e7d8d9a458c372cd51bfe526b588006c9",
-            "indexedCount": 3,
+            "signature": "0x268820db288a211986b26a8fda86b1e0046281b21206936bb0e61c67b5c79ef4",
+            "indexedCount": 0,
             "count": {
               "type": "between",
               "min": "1",
@@ -145,104 +188,6 @@
             }
           },
           {
-            "from": {
-              "type": "array-in",
-              "values": ["related"]
-            },
-            "to": {
-              "type": "array-in",
-              "not": true,
-              "values": ["related"]
-            },
-            "amount": {
-              "type": "between",
-              "min": "1"
-            },
-            "type": "erc20",
-            "direction": "out"
-          },
-          {
-            "from": {
-              "type": "array-in",
-              "not": true,
-              "values": ["related"]
-            },
-            "to": {
-              "type": "array-in",
-              "values": ["related"]
-            },
-            "type": "erc721",
-            "direction": "in"
-          },
-          {
-            "from": {
-              "type": "array-in",
-              "not": true,
-              "values": ["related"]
-            },
-            "to": {
-              "type": "array-in",
-              "values": ["related"]
-            },
-            "amount": {
-              "type": "between",
-              "min": "1"
-            },
-            "type": "erc1155",
-            "direction": "in"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "example": {
-      "chainId": 1,
-      "hash": "0x2d8860ea1f7476c6650e3ef6c6de7ef4cf1636cab3ae97a6b1e0c8b5ce1ac013",
-      "addresses": ["0x695684881d525b241e4624be6d2dd4b43e857269"]
-    },
-    "condition": {
-      "function": {
-        "id": "0xab834bab",
-        "interface": "atomicMatch_(address[14], uint256[18], uint8[8], bytes, bytes, bytes, bytes, bytes, bytes, uint8[2], bytes32[5])"
-      },
-      "logs": {
-        "type": "some",
-        "patterns": [
-          {
-            "signature": "0xc4109843e0b7d514e4c093114b863f8e7d8d9a458c372cd51bfe526b588006c9",
-            "indexedCount": 3,
-            "count": {
-              "type": "between",
-              "min": "1",
-              "max": "1"
-            }
-          }
-        ]
-      }
-    },
-    "generators": [
-      {
-        "type": "trade",
-        "transfers": [
-          {
-            "type": "internal",
-            "direction": "in",
-            "from": {
-              "type": "array-in",
-              "not": true,
-              "values": ["related"]
-            },
-            "to": {
-              "type": "array-in",
-              "values": ["related"]
-            },
-            "value": {
-              "type": "between",
-              "min": "1"
-            }
-          },
-          {
             "type": "internal",
             "direction": "out",
             "from": {
@@ -255,23 +200,6 @@
               "values": ["related"]
             },
             "value": {
-              "type": "between",
-              "min": "1"
-            }
-          },
-          {
-            "type": "erc20",
-            "direction": "in",
-            "from": {
-              "type": "array-in",
-              "not": true,
-              "values": ["related"]
-            },
-            "to": {
-              "type": "array-in",
-              "values": ["related"]
-            },
-            "amount": {
               "type": "between",
               "min": "1"
             }
@@ -295,27 +223,27 @@
           },
           {
             "type": "erc721",
-            "direction": "out",
+            "direction": "in",
             "from": {
               "type": "array-in",
+              "not": true,
               "values": ["related"]
             },
             "to": {
               "type": "array-in",
-              "not": true,
               "values": ["related"]
             }
           },
           {
             "type": "erc1155",
-            "direction": "out",
+            "direction": "in",
             "from": {
               "type": "array-in",
+              "not": true,
               "values": ["related"]
             },
             "to": {
               "type": "array-in",
-              "not": true,
               "values": ["related"]
             },
             "amount": {

@@ -1,0 +1,238 @@
+{
+  "blockNumber": 12379278,
+  "chainId": 1,
+  "effectiveGasPrice": "39600000000",
+  "erc20Transfers": [],
+  "erc721Transfers": [
+    {
+      "address": "0x60f80121c31a0d46b5279700f9df786054aa5ee5",
+      "logIndex": 313,
+      "from": "0x695684881d525b241e4624be6d2dd4b43e857269",
+      "to": "0xc48d4d15c2ae6037e9e9e4e79fc989fefaf4d6fc",
+      "tokenId": "230103",
+      "token": {
+        "type": "Nft",
+        "id": "evm_721_1_0x60f80121c31a0d46b5279700f9df786054aa5ee5_230103",
+        "updatedAt": 0
+      }
+    }
+  ],
+  "erc1155Transfers": [],
+  "from": {
+    "chainId": 1,
+    "address": "0xc48d4d15c2ae6037e9e9e4e79fc989fefaf4d6fc"
+  },
+  "gasUsed": "272374",
+  "hash": "0x5abf68d9f05a60633fbb034704a11d1d9f2aeba5e538c5a3869091882a27a989",
+  "input": "0x9cec6392000000000000000000000000695684881d525b241e4624be6d2dd4b43e8572692b67612cea71aee6746d5d34977a775104c9ab5376104cf9a68d33343ba4320f00000000000000000000000060f80121c31a0d46b5279700f9df786054aa5ee500000000000000000000000000000000000000000000000000000000000382d700000000000000000000000000000000000000000000000000000000000000030000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000001000000000000000000000000000000000000000000000000016345785d8a000000000000000000000000000000000000000000000000000000000000000000fa000000000000000000000000000000000000000000000000000000000000001bdcb0d5ca6572d5da8186c7bb233cd510bbb0c7d37e91045ef5d7921feda4566c24bd8de6e5a8c5b41cb3b05cea86d8af10601a2f5c7253116803b80e80adeeca00000000000000000000000000000000000000000000000000000000000000fa000000000000000000000000000000000000000000000000000000000000001c9cb0717b82a6b91b2c1d5421a2135c30cde22a80637c00f54a9b605a0f24cec7720cbdf15ed9d093d459d7fac5526a9b0d48edc14f352847a025c8d479dbea0100000000000000000000000000000000000000000000000000000000000000010000000000000000000000000000000000000000000000000000000000000000",
+  "internalTransactions": [
+    {
+      "blockNumber": 12379278,
+      "from": "0xcd4ec7b66fbc029c116ba9ffb3e59351c20b5b06",
+      "gas": "2300",
+      "isError": false,
+      "timestamp": 1620284305000,
+      "to": "0xe627243104a101ca59a2c629adbcd63a782e837f",
+      "txHash": "0x5abf68d9f05a60633fbb034704a11d1d9f2aeba5e538c5a3869091882a27a989",
+      "value": "5000000000000000"
+    },
+    {
+      "blockNumber": 12379278,
+      "from": "0xcd4ec7b66fbc029c116ba9ffb3e59351c20b5b06",
+      "gas": "2300",
+      "isError": false,
+      "timestamp": 1620284305000,
+      "to": "0x695684881d525b241e4624be6d2dd4b43e857269",
+      "txHash": "0x5abf68d9f05a60633fbb034704a11d1d9f2aeba5e538c5a3869091882a27a989",
+      "value": "10000000000000000"
+    },
+    {
+      "blockNumber": 12379278,
+      "from": "0xcd4ec7b66fbc029c116ba9ffb3e59351c20b5b06",
+      "gas": "2300",
+      "isError": false,
+      "timestamp": 1620284305000,
+      "to": "0x695684881d525b241e4624be6d2dd4b43e857269",
+      "txHash": "0x5abf68d9f05a60633fbb034704a11d1d9f2aeba5e538c5a3869091882a27a989",
+      "value": "87500000000000000"
+    }
+  ],
+  "logs": [
+    {
+      "address": "0x60f80121c31a0d46b5279700f9df786054aa5ee5",
+      "data": "0x",
+      "logIndex": 313,
+      "topics": [
+        "0xddf252ad1be2c89b69c2b068fc378daa952ba7f163c4a11628f55a4df523b3ef",
+        "0x000000000000000000000000695684881d525b241e4624be6d2dd4b43e857269",
+        "0x000000000000000000000000c48d4d15c2ae6037e9e9e4e79fc989fefaf4d6fc",
+        "0x00000000000000000000000000000000000000000000000000000000000382d7"
+      ],
+      "transactionHash": "0x5abf68d9f05a60633fbb034704a11d1d9f2aeba5e538c5a3869091882a27a989",
+      "eventName": "Transfer",
+      "args": [
+        {
+          "indexed": true,
+          "name": "from",
+          "type": "address",
+          "value": "0x695684881d525b241e4624be6d2dd4b43e857269"
+        },
+        {
+          "indexed": true,
+          "name": "to",
+          "type": "address",
+          "value": "0xc48d4d15c2ae6037e9e9e4e79fc989fefaf4d6fc"
+        },
+        {
+          "indexed": true,
+          "name": "tokenId",
+          "type": "uint256",
+          "value": "230103"
+        }
+      ]
+    },
+    {
+      "address": "0xcd4ec7b66fbc029c116ba9ffb3e59351c20b5b06",
+      "data": "0x0000000000000000000000000000000000000000000000000000000000000001000000000000000000000000695684881d525b241e4624be6d2dd4b43e85726900000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000016345785d8a0000000000000000000000000000c48d4d15c2ae6037e9e9e4e79fc989fefaf4d6fc00000000000000000000000000000000000000000000000000000000000000012b67612cea71aee6746d5d34977a775104c9ab5376104cf9a68d33343ba4320f",
+      "logIndex": 314,
+      "topics": [
+        "0xdddcdb07e460849cf04a4445b7af9faf01b7f5c7ba75deaf969ac5ed830312c3",
+        "0x00000000000000000000000060f80121c31a0d46b5279700f9df786054aa5ee5",
+        "0x00000000000000000000000000000000000000000000000000000000000382d7"
+      ],
+      "transactionHash": "0x5abf68d9f05a60633fbb034704a11d1d9f2aeba5e538c5a3869091882a27a989",
+      "eventName": "Buy",
+      "args": [
+        {
+          "indexed": true,
+          "name": "sellToken",
+          "type": "address",
+          "value": "0x60F80121C31A0d46B5279700f9DF786054aa5eE5"
+        },
+        {
+          "indexed": true,
+          "name": "sellTokenId",
+          "type": "uint256",
+          "value": "230103"
+        },
+        {
+          "indexed": false,
+          "name": "sellValue",
+          "type": "uint256",
+          "value": "1"
+        },
+        {
+          "indexed": false,
+          "name": "owner",
+          "type": "address",
+          "value": "0x695684881d525b241e4624BE6D2Dd4b43e857269"
+        },
+        {
+          "indexed": false,
+          "name": "buyToken",
+          "type": "address",
+          "value": "0x0000000000000000000000000000000000000000"
+        },
+        {
+          "indexed": false,
+          "name": "buyTokenId",
+          "type": "uint256",
+          "value": "0"
+        },
+        {
+          "indexed": false,
+          "name": "buyValue",
+          "type": "uint256",
+          "value": "100000000000000000"
+        },
+        {
+          "indexed": false,
+          "name": "buyer",
+          "type": "address",
+          "value": "0xC48d4d15c2aE6037E9E9E4E79fC989feFAF4d6Fc"
+        },
+        {
+          "indexed": false,
+          "name": "amount",
+          "type": "uint256",
+          "value": "1"
+        },
+        {
+          "indexed": false,
+          "name": "salt",
+          "type": "uint256",
+          "value": "19632108417075763133310143350683182666257740794470592864783949363484440146447"
+        }
+      ]
+    }
+  ],
+  "status": "success",
+  "timestamp": 1620284305000,
+  "to": {
+    "chainId": 1,
+    "address": "0xcd4ec7b66fbc029c116ba9ffb3e59351c20b5b06"
+  },
+  "value": "102500000000000000",
+  "function": {
+    "args": [
+      {
+        "type": "tuple",
+        "name": "order",
+        "value": {
+          "key": {
+            "owner": "0x695684881d525b241e4624BE6D2Dd4b43e857269",
+            "salt": "19632108417075763133310143350683182666257740794470592864783949363484440146447",
+            "sellAsset": {
+              "token": "0x60F80121C31A0d46B5279700f9DF786054aa5eE5",
+              "tokenId": "230103",
+              "assetType": 3
+            },
+            "buyAsset": {
+              "token": "0x0000000000000000000000000000000000000000",
+              "tokenId": "0",
+              "assetType": 0
+            }
+          },
+          "selling": "1",
+          "buying": "100000000000000000",
+          "sellerFee": "250"
+        }
+      },
+      {
+        "type": "tuple",
+        "name": "sig",
+        "value": {
+          "v": 27,
+          "r": "0xdcb0d5ca6572d5da8186c7bb233cd510bbb0c7d37e91045ef5d7921feda4566c",
+          "s": "0x24bd8de6e5a8c5b41cb3b05cea86d8af10601a2f5c7253116803b80e80adeeca"
+        }
+      },
+      {
+        "type": "uint256",
+        "name": "buyerFee",
+        "value": "250"
+      },
+      {
+        "type": "tuple",
+        "name": "buyerFeeSig",
+        "value": {
+          "v": 28,
+          "r": "0x9cb0717b82a6b91b2c1d5421a2135c30cde22a80637c00f54a9b605a0f24cec7",
+          "s": "0x720cbdf15ed9d093d459d7fac5526a9b0d48edc14f352847a025c8d479dbea01"
+        }
+      },
+      {
+        "type": "uint256",
+        "name": "amount",
+        "value": "1"
+      },
+      {
+        "type": "address",
+        "name": "buyer",
+        "value": "0x0000000000000000000000000000000000000000"
+      }
+    ],
+    "name": "exchange",
+    "interface": "exchange(tuple, tuple, uint256, tuple, uint256, address)"
+  }
+}
