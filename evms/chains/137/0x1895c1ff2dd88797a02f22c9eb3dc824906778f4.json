@@ -1,0 +1,5 @@
+{
+  "address": "0x1895c1ff2dd88797a02f22c9eb3dc824906778f4",
+  "label": "BeaconProxy",
+  "abi": "[{\"inputs\":[{\"internalType\":\"contract IBeacon\",\"name\":\"beacon\",\"type\":\"address\"}],\"stateMutability\":\"nonpayable\",\"type\":\"constructor\"},{\"anonymous\":false,\"inputs\":[{\"indexed\":true,\"internalType\":\"contract IBeacon\",\"name\":\"beacon\",\"type\":\"address\"}],\"name\":\"BeaconUpgraded\",\"type\":\"event\"},{\"stateMutability\":\"payable\",\"type\":\"fallback\"},{\"stateMutability\":\"payable\",\"type\":\"receive\"}]"
+}
