@@ -21,6 +21,7 @@ import {
   createOptimismChain,
   createPolygonPosChain,
   createRoninChain,
+  createZoraChain,
   isHex,
   toLowerHex,
   transactionDecodedSchema,
@@ -69,6 +70,7 @@ const chains = [
     explorerApiKey: '',
   }),
   createRoninChain(),
+  createZoraChain(),
 ]
 
 describe('Should valid evm analyzers json', async () => {

@@ -25,6 +25,7 @@ import {
   createOptimismChain,
   createPolygonPosChain,
   createRoninChain,
+  createZoraChain,
   decodeTransaction,
   getTransactionDetail,
   isHex,
@@ -75,6 +76,7 @@ export const createEvmAnalyzerByTransaction = async () => {
       explorerApiKey: process.env.POLYGON_API_KEY,
     }),
     createRoninChain(),
+    createZoraChain(),
   ]
 
   const chainId = Number.parseInt(process.env.CHAIN ?? '1', 10)
