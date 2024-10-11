@@ -1,0 +1,5 @@
+{
+  "address": "0xc631e2179862046a4da964a245559a53205b2bfd",
+  "label": "PoolProxy",
+  "abi": "[{\"inputs\":[{\"internalType\":\"address\",\"name\":\"diamond\",\"type\":\"address\"},{\"internalType\":\"address\",\"name\":\"base\",\"type\":\"address\"},{\"internalType\":\"address\",\"name\":\"underlying\",\"type\":\"address\"},{\"internalType\":\"address\",\"name\":\"baseOracle\",\"type\":\"address\"},{\"internalType\":\"address\",\"name\":\"underlyingOracle\",\"type\":\"address\"},{\"internalType\":\"int128\",\"name\":\"baseMinimum64x64\",\"type\":\"int128\"},{\"internalType\":\"int128\",\"name\":\"underlyingMinimum64x64\",\"type\":\"int128\"},{\"internalType\":\"int128\",\"name\":\"initialCLevel64x64\",\"type\":\"int128\"},{\"internalType\":\"int128\",\"name\":\"initialSteepness64x64\",\"type\":\"int128\"}],\"stateMutability\":\"nonpayable\",\"type\":\"constructor\"},{\"stateMutability\":\"payable\",\"type\":\"fallback\"}]"
+}
