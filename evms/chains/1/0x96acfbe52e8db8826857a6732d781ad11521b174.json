@@ -1,0 +1,5 @@
+{
+  "address": "0x96acfbe52e8db8826857a6732d781ad11521b174",
+  "label": "ERC721Transfer",
+  "abi": "[{\"inputs\":[{\"internalType\":\"contract IERC721\",\"name\":\"token\",\"type\":\"address\"},{\"components\":[{\"internalType\":\"address\",\"name\":\"to\",\"type\":\"address\"},{\"internalType\":\"uint256\",\"name\":\"tokenId\",\"type\":\"uint256\"}],\"internalType\":\"struct ERC721Transfer.TransferInfo[]\",\"name\":\"transferList\",\"type\":\"tuple[]\"}],\"name\":\"batchTransfer\",\"outputs\":[],\"stateMutability\":\"nonpayable\",\"type\":\"function\"}]"
+}
