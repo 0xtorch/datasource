@@ -1,0 +1,5 @@
+{
+  "address": "0x9d594d1fba500113ede103c071dcf68535da69b4",
+  "label": "Patch0000",
+  "abi": "[{\"inputs\":[],\"name\":\"Usd0PPStorageV0Location\",\"outputs\":[{\"internalType\":\"bytes32\",\"name\":\"\",\"type\":\"bytes32\"}],\"stateMutability\":\"view\",\"type\":\"function\"},{\"inputs\":[{\"internalType\":\"address\",\"name\":\"oldImplementation\",\"type\":\"address\"},{\"internalType\":\"uint256\",\"name\":\"newBondStart\",\"type\":\"uint256\"}],\"name\":\"patch\",\"outputs\":[],\"stateMutability\":\"nonpayable\",\"type\":\"function\"}]"
+}
