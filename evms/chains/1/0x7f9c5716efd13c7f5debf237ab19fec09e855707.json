@@ -1,0 +1,5 @@
+{
+  "address": "0x7f9c5716efd13c7f5debf237ab19fec09e855707",
+  "label": "ERC1155Transfer",
+  "abi": "[{\"inputs\":[{\"internalType\":\"contract IERC1155\",\"name\":\"token\",\"type\":\"address\"},{\"components\":[{\"internalType\":\"address\",\"name\":\"to\",\"type\":\"address\"},{\"internalType\":\"uint256\",\"name\":\"tokenId\",\"type\":\"uint256\"},{\"internalType\":\"uint256\",\"name\":\"amount\",\"type\":\"uint256\"}],\"internalType\":\"struct ERC1155Transfer.TransferInfo[]\",\"name\":\"transferList\",\"type\":\"tuple[]\"}],\"name\":\"batchTransfer\",\"outputs\":[],\"stateMutability\":\"nonpayable\",\"type\":\"function\"}]"
+}
