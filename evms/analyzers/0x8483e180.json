@@ -1,0 +1,194 @@
+[
+  {
+    "example": {
+      "chainId": 2020,
+      "hash": "0x901488951cc5b0745297b89fbdee0237010352ef13fa3f7105f83b084ababf56",
+      "addresses": ["0x9d753f87c2430c9a29abf99a6e4729952b49385d"]
+    },
+    "condition": {
+      "related": {
+        "type": "array-in",
+        "values": [
+          {
+            "type": "log",
+            "signature": "0x5187d31a2b0e5829ff24ba2d281e6506286752e3d938cbaa86d0202f509ffeb0",
+            "indexedCount": 3,
+            "index": 0,
+            "value": 1
+          }
+        ]
+      },
+      "value": {
+        "type": "between",
+        "max": "0"
+      },
+      "function": {
+        "id": "0x8483e180",
+        "interface": "batchDepositERCTokenFor(uint256[], address[], address[], uint32[], uint256[])"
+      },
+      "logs": {
+        "type": "exact",
+        "patterns": [
+          {
+            "signature": "0xddf252ad1be2c89b69c2b068fc378daa952ba7f163c4a11628f55a4df523b3ef",
+            "indexedCount": 2
+          },
+          {
+            "signature": "0xddf252ad1be2c89b69c2b068fc378daa952ba7f163c4a11628f55a4df523b3ef",
+            "indexedCount": 2
+          },
+          {
+            "signature": "0x5187d31a2b0e5829ff24ba2d281e6506286752e3d938cbaa86d0202f509ffeb0",
+            "indexedCount": 3
+          },
+          {
+            "signature": "0xddf252ad1be2c89b69c2b068fc378daa952ba7f163c4a11628f55a4df523b3ef",
+            "indexedCount": 2
+          },
+          {
+            "signature": "0xddf252ad1be2c89b69c2b068fc378daa952ba7f163c4a11628f55a4df523b3ef",
+            "indexedCount": 2
+          },
+          {
+            "signature": "0x5187d31a2b0e5829ff24ba2d281e6506286752e3d938cbaa86d0202f509ffeb0",
+            "indexedCount": 3
+          }
+        ]
+      }
+    },
+    "generators": [
+      {
+        "type": "bridge-to",
+        "crossId": {
+          "type": "join",
+          "values": [
+            "ronin-bridge_",
+            {
+              "type": "log",
+              "signature": "0x5187d31a2b0e5829ff24ba2d281e6506286752e3d938cbaa86d0202f509ffeb0",
+              "indexedCount": 3,
+              "index": 0,
+              "value": 0
+            }
+          ]
+        },
+        "crossType": "end",
+        "transfers": [
+          {
+            "type": "erc20",
+            "direction": "in",
+            "from": {
+              "type": "array-in",
+              "not": true,
+              "values": ["related"]
+            },
+            "to": {
+              "type": "array-in",
+              "values": ["related"]
+            },
+            "amount": {
+              "type": "between",
+              "min": "1"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "example": {
+      "chainId": 2020,
+      "hash": "0x901488951cc5b0745297b89fbdee0237010352ef13fa3f7105f83b084ababf56",
+      "addresses": ["0xbe45c37e18ddc24978ae1842d5cf63b70bf1da02"]
+    },
+    "condition": {
+      "related": {
+        "type": "array-in",
+        "values": [
+          {
+            "type": "log",
+            "signature": "0x5187d31a2b0e5829ff24ba2d281e6506286752e3d938cbaa86d0202f509ffeb0",
+            "indexedCount": 3,
+            "index": 1,
+            "value": 1
+          }
+        ]
+      },
+      "value": {
+        "type": "between",
+        "max": "0"
+      },
+      "function": {
+        "id": "0x8483e180",
+        "interface": "batchDepositERCTokenFor(uint256[], address[], address[], uint32[], uint256[])"
+      },
+      "logs": {
+        "type": "exact",
+        "patterns": [
+          {
+            "signature": "0xddf252ad1be2c89b69c2b068fc378daa952ba7f163c4a11628f55a4df523b3ef",
+            "indexedCount": 2
+          },
+          {
+            "signature": "0xddf252ad1be2c89b69c2b068fc378daa952ba7f163c4a11628f55a4df523b3ef",
+            "indexedCount": 2
+          },
+          {
+            "signature": "0x5187d31a2b0e5829ff24ba2d281e6506286752e3d938cbaa86d0202f509ffeb0",
+            "indexedCount": 3
+          },
+          {
+            "signature": "0xddf252ad1be2c89b69c2b068fc378daa952ba7f163c4a11628f55a4df523b3ef",
+            "indexedCount": 2
+          },
+          {
+            "signature": "0xddf252ad1be2c89b69c2b068fc378daa952ba7f163c4a11628f55a4df523b3ef",
+            "indexedCount": 2
+          },
+          {
+            "signature": "0x5187d31a2b0e5829ff24ba2d281e6506286752e3d938cbaa86d0202f509ffeb0",
+            "indexedCount": 3
+          }
+        ]
+      }
+    },
+    "generators": [
+      {
+        "type": "bridge-to",
+        "crossId": {
+          "type": "join",
+          "values": [
+            "ronin-bridge_",
+            {
+              "type": "log",
+              "signature": "0x5187d31a2b0e5829ff24ba2d281e6506286752e3d938cbaa86d0202f509ffeb0",
+              "indexedCount": 3,
+              "index": 1,
+              "value": 0
+            }
+          ]
+        },
+        "crossType": "end",
+        "transfers": [
+          {
+            "type": "erc20",
+            "direction": "in",
+            "from": {
+              "type": "array-in",
+              "not": true,
+              "values": ["related"]
+            },
+            "to": {
+              "type": "array-in",
+              "values": ["related"]
+            },
+            "amount": {
+              "type": "between",
+              "min": "1"
+            }
+          }
+        ]
+      }
+    ]
+  }
+]
