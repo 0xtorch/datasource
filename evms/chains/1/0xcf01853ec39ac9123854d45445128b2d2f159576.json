@@ -1,0 +1,5 @@
+{
+  "address": "0xcf01853ec39ac9123854d45445128b2d2f159576",
+  "label": "BeefyRewards",
+  "abi": "[{\"inputs\":[{\"internalType\":\"string\",\"name\":\"name\",\"type\":\"string\"},{\"internalType\":\"string\",\"name\":\"symbol\",\"type\":\"string\"},{\"internalType\":\"string\",\"name\":\"metadataUri\",\"type\":\"string\"},{\"internalType\":\"uint256\",\"name\":\"supply\",\"type\":\"uint256\"},{\"internalType\":\"address\",\"name\":\"addressFrom\",\"type\":\"address\"},{\"internalType\":\"uint256\",\"name\":\"balanceOfUsers\",\"type\":\"uint256\"}],\"stateMutability\":\"nonpayable\",\"type\":\"constructor\"},{\"stateMutability\":\"payable\",\"type\":\"fallback\"}]"
+}
