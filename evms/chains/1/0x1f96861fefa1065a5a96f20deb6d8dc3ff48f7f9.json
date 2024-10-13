@@ -1,0 +1,5 @@
+{
+  "address": "0x1f96861fefa1065a5a96f20deb6d8dc3ff48f7f9",
+  "label": "EmptyContract",
+  "abi": "[{\"inputs\":[],\"name\":\"foo\",\"outputs\":[{\"internalType\":\"uint256\",\"name\":\"\",\"type\":\"uint256\"}],\"stateMutability\":\"pure\",\"type\":\"function\"}]"
+}
