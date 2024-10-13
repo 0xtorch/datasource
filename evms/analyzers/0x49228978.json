@@ -1,8 +1,8 @@
 [
   {
     "example": {
-      "chainId": 1,
-      "hash": "0x39aa6a77ea6c6e29841230bd02cd178e96a070e3838a8fcf9c746d028773a742",
+      "chainId": 10,
+      "hash": "0x98fe1d1123d35576dccf06dc3a7c76f111f28b56f44a6fa2e8806aa29f34ae2f",
       "addresses": ["0x695684881d525b241e4624be6d2dd4b43e857269"]
     },
     "condition": {
@@ -14,24 +14,21 @@
           }
         ]
       },
-      "value": {
-        "type": "between",
-        "min": "1"
-      },
       "function": {
-        "id": "0xeee3f07a",
-        "interface": "depositEthFor(address)"
+        "id": "0x49228978",
+        "interface": "deposit(address, address, uint256, uint256, uint64, uint32)"
       },
       "logs": {
-        "type": "exact",
+        "type": "some",
         "patterns": [
           {
-            "signature": "0xe1fffcc4923d04b559f4d29a8bfc6cda04eb5b0d3c460751c2402c5c5cc9109c",
-            "indexedCount": 1
-          },
-          {
-            "signature": "0x72848855a2461abf0dd243723dfcc9163eec2ea5215469d101c0d9c9ef58940d",
-            "indexedCount": 3
+            "signature": "0x4a4fc49abd237bfd7f4ac82d6c7a284c69daaea5154430cff04ad7482c6c4254",
+            "indexedCount": 3,
+            "count": {
+              "type": "between",
+              "min": "1",
+              "max": "1"
+            }
           }
         ]
       }
@@ -42,13 +39,13 @@
         "crossId": {
           "type": "join",
           "values": [
-            "ronin-bridge_",
+            "across_",
             {
               "type": "log",
-              "signature": "0x72848855a2461abf0dd243723dfcc9163eec2ea5215469d101c0d9c9ef58940d",
+              "signature": "0x4a4fc49abd237bfd7f4ac82d6c7a284c69daaea5154430cff04ad7482c6c4254",
               "indexedCount": 3,
               "index": 0,
-              "value": 0
+              "value": 4
             }
           ]
         },
@@ -67,6 +64,23 @@
               "values": ["related"]
             },
             "value": {
+              "type": "between",
+              "min": "1"
+            }
+          },
+          {
+            "type": "erc20",
+            "direction": "out",
+            "from": {
+              "type": "array-in",
+              "values": ["related"]
+            },
+            "to": {
+              "type": "array-in",
+              "not": true,
+              "values": ["related"]
+            },
+            "amount": {
               "type": "between",
               "min": "1"
             }

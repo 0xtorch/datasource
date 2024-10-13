@@ -1,0 +1,187 @@
+{
+  "blockNumber": 9899230,
+  "chainId": 10,
+  "effectiveGasPrice": "1000000",
+  "erc20Transfers": [
+    {
+      "address": "0x4200000000000000000000000000000000000006",
+      "logIndex": 0,
+      "from": "0x0000000000000000000000000000000000000000",
+      "to": "0xa420b2d1c0841415a695b81e5b867bcd07dff8c9",
+      "value": "100000000000000000",
+      "token": {
+        "address": "0x4200000000000000000000000000000000000006",
+        "name": "",
+        "symbol": "",
+        "decimals": 0,
+        "currency": {
+          "type": "CryptoCurrency",
+          "id": "evm_10_0x4200000000000000000000000000000000000006",
+          "name": "",
+          "symbol": "",
+          "updatedAt": 0
+        }
+      }
+    }
+  ],
+  "erc721Transfers": [],
+  "erc1155Transfers": [],
+  "from": {
+    "chainId": 10,
+    "address": "0x695684881d525b241e4624be6d2dd4b43e857269"
+  },
+  "gasUsed": "54212",
+  "hash": "0x98fe1d1123d35576dccf06dc3a7c76f111f28b56f44a6fa2e8806aa29f34ae2f",
+  "input": "0x49228978000000000000000000000000695684881d525b241e4624be6d2dd4b43e8572690000000000000000000000004200000000000000000000000000000000000006000000000000000000000000000000000000000000000000016345785d8a00000000000000000000000000000000000000000000000000000000000000000001000000000000000000000000000000000000000000000000006e4fda6dff22c80000000000000000000000000000000000000000000000000000000062972151",
+  "internalTransactions": [
+    {
+      "blockNumber": 9899230,
+      "from": "0xa420b2d1c0841415a695b81e5b867bcd07dff8c9",
+      "gas": "16082",
+      "isError": false,
+      "timestamp": 1654071712000,
+      "to": "0x4200000000000000000000000000000000000006",
+      "txHash": "0x98fe1d1123d35576dccf06dc3a7c76f111f28b56f44a6fa2e8806aa29f34ae2f",
+      "value": "100000000000000000"
+    }
+  ],
+  "logs": [
+    {
+      "address": "0x4200000000000000000000000000000000000006",
+      "data": "0x000000000000000000000000000000000000000000000000016345785d8a0000",
+      "logIndex": 0,
+      "topics": [
+        "0xe1fffcc4923d04b559f4d29a8bfc6cda04eb5b0d3c460751c2402c5c5cc9109c",
+        "0x000000000000000000000000a420b2d1c0841415a695b81e5b867bcd07dff8c9"
+      ],
+      "transactionHash": "0x98fe1d1123d35576dccf06dc3a7c76f111f28b56f44a6fa2e8806aa29f34ae2f",
+      "eventName": "Deposit",
+      "args": [
+        {
+          "indexed": true,
+          "name": "dst",
+          "type": "address",
+          "value": "0xa420b2d1c0841415a695b81e5b867bcd07dff8c9"
+        },
+        {
+          "indexed": false,
+          "name": "wad",
+          "type": "uint256",
+          "value": "100000000000000000"
+        }
+      ]
+    },
+    {
+      "address": "0xa420b2d1c0841415a695b81e5b867bcd07dff8c9",
+      "data": "0x000000000000000000000000000000000000000000000000016345785d8a0000000000000000000000000000000000000000000000000000000000000000000a0000000000000000000000000000000000000000000000000000000000000001000000000000000000000000000000000000000000000000006e4fda6dff22c80000000000000000000000000000000000000000000000000000000062972151000000000000000000000000695684881d525b241e4624be6d2dd4b43e857269",
+      "logIndex": 1,
+      "topics": [
+        "0x4a4fc49abd237bfd7f4ac82d6c7a284c69daaea5154430cff04ad7482c6c4254",
+        "0x0000000000000000000000000000000000000000000000000000000000000a22",
+        "0x0000000000000000000000004200000000000000000000000000000000000006",
+        "0x000000000000000000000000695684881d525b241e4624be6d2dd4b43e857269"
+      ],
+      "transactionHash": "0x98fe1d1123d35576dccf06dc3a7c76f111f28b56f44a6fa2e8806aa29f34ae2f",
+      "eventName": "FundsDeposited",
+      "args": [
+        {
+          "indexed": false,
+          "name": "amount",
+          "type": "uint256",
+          "value": "100000000000000000"
+        },
+        {
+          "indexed": false,
+          "name": "originChainId",
+          "type": "uint256",
+          "value": "10"
+        },
+        {
+          "indexed": false,
+          "name": "destinationChainId",
+          "type": "uint256",
+          "value": "1"
+        },
+        {
+          "indexed": false,
+          "name": "relayerFeePct",
+          "type": "uint64",
+          "value": "31050047005074120"
+        },
+        {
+          "indexed": true,
+          "name": "depositId",
+          "type": "uint32",
+          "value": 2594
+        },
+        {
+          "indexed": false,
+          "name": "quoteTimestamp",
+          "type": "uint32",
+          "value": 1654071633
+        },
+        {
+          "indexed": true,
+          "name": "originToken",
+          "type": "address",
+          "value": "0x4200000000000000000000000000000000000006"
+        },
+        {
+          "indexed": false,
+          "name": "recipient",
+          "type": "address",
+          "value": "0x695684881d525b241e4624BE6D2Dd4b43e857269"
+        },
+        {
+          "indexed": true,
+          "name": "depositor",
+          "type": "address",
+          "value": "0x695684881d525b241e4624BE6D2Dd4b43e857269"
+        }
+      ]
+    }
+  ],
+  "status": "success",
+  "timestamp": 1654071712000,
+  "to": {
+    "chainId": 10,
+    "address": "0xa420b2d1c0841415a695b81e5b867bcd07dff8c9"
+  },
+  "value": "100000000000000000",
+  "function": {
+    "args": [
+      {
+        "type": "address",
+        "name": "recipient",
+        "value": "0x695684881d525b241e4624BE6D2Dd4b43e857269"
+      },
+      {
+        "type": "address",
+        "name": "originToken",
+        "value": "0x4200000000000000000000000000000000000006"
+      },
+      {
+        "type": "uint256",
+        "name": "amount",
+        "value": "100000000000000000"
+      },
+      {
+        "type": "uint256",
+        "name": "destinationChainId",
+        "value": "1"
+      },
+      {
+        "type": "uint64",
+        "name": "relayerFeePct",
+        "value": "31050047005074120"
+      },
+      {
+        "type": "uint32",
+        "name": "quoteTimestamp",
+        "value": 1654071633
+      }
+    ],
+    "name": "deposit",
+    "interface": "deposit(address, address, uint256, uint256, uint64, uint32)"
+  }
+}

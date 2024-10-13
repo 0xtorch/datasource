@@ -1,0 +1,99 @@
+{
+  "blockNumber": 13872228,
+  "chainId": 1,
+  "effectiveGasPrice": "94194625089",
+  "erc20Transfers": [
+    {
+      "address": "0x3b484b82567a09e2588a13d54d032153f0c0aee0",
+      "logIndex": 235,
+      "from": "0x0000000000000000000000000000000000000000",
+      "to": "0x695684881d525b241e4624be6d2dd4b43e857269",
+      "value": "574408410049100000000000000",
+      "token": {
+        "address": "0x3b484b82567a09e2588a13d54d032153f0c0aee0",
+        "name": "",
+        "symbol": "",
+        "decimals": 0,
+        "currency": {
+          "type": "CryptoCurrency",
+          "id": "evm_1_0x3b484b82567a09e2588a13d54d032153f0c0aee0",
+          "name": "",
+          "symbol": "",
+          "updatedAt": 0
+        }
+      }
+    }
+  ],
+  "erc721Transfers": [],
+  "erc1155Transfers": [],
+  "from": {
+    "chainId": 1,
+    "address": "0x695684881d525b241e4624be6d2dd4b43e857269"
+  },
+  "gasUsed": "56335",
+  "hash": "0x6ff08f9fc670218df5869998591c3790f8bd3cf797e7f71f2e7ca4d17f3bd565",
+  "input": "0xabf2ebd81c0000000000000000000000000000000000000001db23b64daf7c147da0c0005e60e8910d735dd1afd960aee92861149d5464407f8c17f85428d4f7bf688e433d96d682e77a48d943dfdaebb586bc5725f0a746b0953440182f543d29533815",
+  "internalTransactions": [],
+  "logs": [
+    {
+      "address": "0x3b484b82567a09e2588a13d54d032153f0c0aee0",
+      "data": "0x000000000000000000000000000000000000000001db23b64daf7c147da0c000",
+      "logIndex": 235,
+      "topics": [
+        "0xddf252ad1be2c89b69c2b068fc378daa952ba7f163c4a11628f55a4df523b3ef",
+        "0x0000000000000000000000000000000000000000000000000000000000000000",
+        "0x000000000000000000000000695684881d525b241e4624be6d2dd4b43e857269"
+      ],
+      "transactionHash": "0x6ff08f9fc670218df5869998591c3790f8bd3cf797e7f71f2e7ca4d17f3bd565",
+      "eventName": "Transfer",
+      "args": [
+        {
+          "indexed": true,
+          "name": "from",
+          "type": "address",
+          "value": "0x0000000000000000000000000000000000000000"
+        },
+        {
+          "indexed": true,
+          "name": "to",
+          "type": "address",
+          "value": "0x695684881d525b241e4624be6d2dd4b43e857269"
+        },
+        {
+          "indexed": false,
+          "name": "value",
+          "type": "uint256",
+          "value": "574408410049100000000000000"
+        }
+      ]
+    }
+  ],
+  "status": "success",
+  "timestamp": 1640407191000,
+  "to": {
+    "chainId": 1,
+    "address": "0x3b484b82567a09e2588a13d54d032153f0c0aee0"
+  },
+  "value": "0",
+  "function": {
+    "args": [
+      {
+        "type": "uint256",
+        "name": "amountV",
+        "value": "12664759760331458874453076485325239921451404572805011100225722350865498554368"
+      },
+      {
+        "type": "bytes32",
+        "name": "r",
+        "value": "0x5e60e8910d735dd1afd960aee92861149d5464407f8c17f85428d4f7bf688e43"
+      },
+      {
+        "type": "bytes32",
+        "name": "s",
+        "value": "0x3d96d682e77a48d943dfdaebb586bc5725f0a746b0953440182f543d29533815"
+      }
+    ],
+    "name": "claim",
+    "interface": "claim(uint256, bytes32, bytes32)"
+  }
+}

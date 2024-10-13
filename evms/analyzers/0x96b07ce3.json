@@ -2,7 +2,7 @@
   {
     "example": {
       "chainId": 56,
-      "hash": "0xa56478ff1d5d8a2894a565b2853938522d0c005da6c3f4f2b345a3d183b9b806",
+      "hash": "0x11160d511a4602615bd45f8eba8d86b18a121968f57718523c9645cbd709adc9",
       "addresses": ["0x695684881d525b241e4624be6d2dd4b43e857269"]
     },
     "condition": {
@@ -14,9 +14,12 @@
           }
         ]
       },
+      "value": {
+        "type": "between",
+        "max": "0"
+      },
       "function": {
-        "id": "0x38ed1739",
-        "interface": "swapExactTokensForTokens(uint256, uint256, address[], address, uint256)"
+        "id": "0x96b07ce3"
       },
       "logs": {
         "type": "some",
@@ -26,12 +29,13 @@
             "indexedCount": 2,
             "count": {
               "type": "between",
-              "min": "2"
+              "min": "1",
+              "max": "1"
             }
           },
           {
-            "signature": "0xd78ad95fa46c994b6551d0da85fc275fe613ce37657fb8d5e3d130840159d822",
-            "indexedCount": 2,
+            "signature": "0xddf252ad1be2c89b69c2b068fc378daa952ba7f163c4a11628f55a4df523b3ef",
+            "indexedCount": 3,
             "count": {
               "type": "between",
               "min": "1"
@@ -42,60 +46,9 @@
     },
     "generators": [
       {
-        "type": "trade",
+        "type": "mint-nft",
         "transfers": [
           {
-            "type": "value",
-            "direction": "out",
-            "from": {
-              "type": "array-in",
-              "values": ["related"]
-            },
-            "to": {
-              "type": "array-in",
-              "not": true,
-              "values": ["related"]
-            },
-            "value": {
-              "type": "between",
-              "min": "1"
-            }
-          },
-          {
-            "type": "internal",
-            "direction": "in",
-            "from": {
-              "type": "array-in",
-              "not": true,
-              "values": ["related"]
-            },
-            "to": {
-              "type": "array-in",
-              "values": ["related"]
-            },
-            "value": {
-              "type": "between",
-              "min": "1"
-            }
-          },
-          {
-            "type": "erc20",
-            "direction": "in",
-            "from": {
-              "type": "array-in",
-              "not": true,
-              "values": ["related"]
-            },
-            "to": {
-              "type": "array-in",
-              "values": ["related"]
-            },
-            "amount": {
-              "type": "between",
-              "min": "1"
-            }
-          },
-          {
             "type": "erc20",
             "direction": "out",
             "from": {
@@ -110,6 +63,19 @@
             "amount": {
               "type": "between",
               "min": "1"
+            }
+          },
+          {
+            "type": "erc721",
+            "direction": "in",
+            "from": {
+              "type": "array-in",
+              "not": true,
+              "values": ["related"]
+            },
+            "to": {
+              "type": "array-in",
+              "values": ["related"]
             }
           }
         ]

@@ -1,0 +1,144 @@
+{
+  "blockNumber": 13596115,
+  "chainId": 1,
+  "effectiveGasPrice": "139312442463",
+  "erc20Transfers": [
+    {
+      "address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+      "logIndex": 484,
+      "from": "0x0000000000000000000000000000000000000000",
+      "to": "0x1a2a1c938ce3ec39b6d47113c7955baa9dd454f2",
+      "value": "200000000000000000",
+      "token": {
+        "address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+        "name": "",
+        "symbol": "",
+        "decimals": 0,
+        "currency": {
+          "type": "CryptoCurrency",
+          "id": "evm_1_0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+          "name": "",
+          "symbol": "",
+          "updatedAt": 0
+        }
+      }
+    }
+  ],
+  "erc721Transfers": [],
+  "erc1155Transfers": [],
+  "from": {
+    "chainId": 1,
+    "address": "0x695684881d525b241e4624be6d2dd4b43e857269"
+  },
+  "gasUsed": "163754",
+  "hash": "0x39aa6a77ea6c6e29841230bd02cd178e96a070e3838a8fcf9c746d028773a742",
+  "input": "0xeee3f07a000000000000000000000000be45c37e18ddc24978ae1842d5cf63b70bf1da02",
+  "internalTransactions": [
+    {
+      "blockNumber": 13596115,
+      "from": "0x1a2a1c938ce3ec39b6d47113c7955baa9dd454f2",
+      "gas": "163750",
+      "isError": false,
+      "timestamp": 1636649970000,
+      "to": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+      "txHash": "0x39aa6a77ea6c6e29841230bd02cd178e96a070e3838a8fcf9c746d028773a742",
+      "value": "200000000000000000"
+    }
+  ],
+  "logs": [
+    {
+      "address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+      "data": "0x00000000000000000000000000000000000000000000000002c68af0bb140000",
+      "logIndex": 484,
+      "topics": [
+        "0xe1fffcc4923d04b559f4d29a8bfc6cda04eb5b0d3c460751c2402c5c5cc9109c",
+        "0x0000000000000000000000001a2a1c938ce3ec39b6d47113c7955baa9dd454f2"
+      ],
+      "transactionHash": "0x39aa6a77ea6c6e29841230bd02cd178e96a070e3838a8fcf9c746d028773a742",
+      "eventName": "Deposit",
+      "args": [
+        {
+          "indexed": true,
+          "name": "dst",
+          "type": "address",
+          "value": "0x1a2a1c938ce3ec39b6d47113c7955baa9dd454f2"
+        },
+        {
+          "indexed": false,
+          "name": "wad",
+          "type": "uint256",
+          "value": "200000000000000000"
+        }
+      ]
+    },
+    {
+      "address": "0x1a2a1c938ce3ec39b6d47113c7955baa9dd454f2",
+      "data": "0x000000000000000000000000c99a6a985ed2cac1ef41640596c5a5f9f4e19ef5000000000000000000000000000000000000000000000000000000000000001400000000000000000000000000000000000000000000000002c68af0bb140000",
+      "logIndex": 485,
+      "topics": [
+        "0x72848855a2461abf0dd243723dfcc9163eec2ea5215469d101c0d9c9ef58940d",
+        "0x00000000000000000000000000000000000000000000000000000000001cb2c5",
+        "0x000000000000000000000000be45c37e18ddc24978ae1842d5cf63b70bf1da02",
+        "0x000000000000000000000000c02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+      ],
+      "transactionHash": "0x39aa6a77ea6c6e29841230bd02cd178e96a070e3838a8fcf9c746d028773a742",
+      "eventName": "TokenDeposited",
+      "args": [
+        {
+          "indexed": true,
+          "name": "_depositId",
+          "type": "uint256",
+          "value": "1880773"
+        },
+        {
+          "indexed": true,
+          "name": "_owner",
+          "type": "address",
+          "value": "0xBe45C37e18ddC24978Ae1842D5cF63B70BF1Da02"
+        },
+        {
+          "indexed": true,
+          "name": "_tokenAddress",
+          "type": "address",
+          "value": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2"
+        },
+        {
+          "indexed": false,
+          "name": "_sidechainAddress",
+          "type": "address",
+          "value": "0xc99a6A985eD2Cac1ef41640596C5A5f9F4E19Ef5"
+        },
+        {
+          "indexed": false,
+          "name": "_standard",
+          "type": "uint32",
+          "value": 20
+        },
+        {
+          "indexed": false,
+          "name": "_tokenNumber",
+          "type": "uint256",
+          "value": "200000000000000000"
+        }
+      ]
+    }
+  ],
+  "status": "success",
+  "timestamp": 1636649970000,
+  "to": {
+    "chainId": 1,
+    "address": "0x1a2a1c938ce3ec39b6d47113c7955baa9dd454f2"
+  },
+  "value": "200000000000000000",
+  "function": {
+    "args": [
+      {
+        "type": "address",
+        "name": "_owner",
+        "value": "0xBe45C37e18ddC24978Ae1842D5cF63B70BF1Da02"
+      }
+    ],
+    "name": "depositEthFor",
+    "interface": "depositEthFor(address)"
+  }
+}

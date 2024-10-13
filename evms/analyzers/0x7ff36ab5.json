@@ -1,31 +1,26 @@
 [
   {
     "example": {
-      "chainId": 1,
-      "hash": "0x07014e6727c584090518ca12a9aeec358fcfed12e83442b9c28a4facc3f26654",
+      "chainId": 56,
+      "hash": "0x161935190e2f2d596d030ac8eb26e6498d89c16d16324eb1bb1894a50bfda043",
       "addresses": ["0x695684881d525b241e4624be6d2dd4b43e857269"]
     },
     "condition": {
       "related": {
         "type": "array-in",
-        "not": true,
         "values": [
           {
             "type": "from"
           }
         ]
       },
-      "from": {
-        "type": "array-in",
-        "values": ["0x428ab2ba90eba0a4be7af34c9ac451ab061ac010"]
-      },
       "value": {
         "type": "between",
-        "max": "0"
+        "min": "1"
       },
       "function": {
-        "id": "0xac9650d8",
-        "interface": "multicall(bytes[])"
+        "id": "0x7ff36ab5",
+        "interface": "swapExactETHForTokens(uint256, address[], address, uint256)"
       },
       "logs": {
         "type": "some",
@@ -35,25 +30,15 @@
             "indexedCount": 2,
             "count": {
               "type": "between",
-              "min": "1"
+              "min": "2"
             }
           },
           {
-            "signature": "0x56450a30040c51955338a4a9fbafcf94f7ca4b75f4cd83c2f5e29ef77fbe0a3a",
+            "signature": "0xd78ad95fa46c994b6551d0da85fc275fe613ce37657fb8d5e3d130840159d822",
             "indexedCount": 2,
-            "args": [
-              {
-                "index": 13,
-                "value": {
-                  "type": "array-in",
-                  "values": ["related"]
-                }
-              }
-            ],
             "count": {
               "type": "between",
-              "min": "1",
-              "max": "1"
+              "min": "1"
             }
           }
         ]
@@ -61,41 +46,18 @@
     },
     "generators": [
       {
-        "type": "bridge-to",
-        "crossId": {
-          "type": "join",
-          "values": [
-            "across_",
-            {
-              "type": "log",
-              "signature": "0x56450a30040c51955338a4a9fbafcf94f7ca4b75f4cd83c2f5e29ef77fbe0a3a",
-              "indexedCount": 2,
-              "args": [
-                {
-                  "index": 13,
-                  "value": {
-                    "type": "address-in",
-                    "values": ["related"]
-                  }
-                }
-              ],
-              "index": 0,
-              "value": 9
-            }
-          ]
-        },
-        "crossType": "end",
+        "type": "trade",
         "transfers": [
           {
-            "type": "internal",
-            "direction": "in",
+            "type": "value",
+            "direction": "out",
             "from": {
               "type": "array-in",
-              "not": true,
               "values": ["related"]
             },
             "to": {
               "type": "array-in",
+              "not": true,
               "values": ["related"]
             },
             "value": {

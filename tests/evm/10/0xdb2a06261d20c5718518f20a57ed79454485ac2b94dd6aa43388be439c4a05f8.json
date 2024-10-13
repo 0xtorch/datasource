@@ -1,0 +1,153 @@
+{
+  "blockNumber": 9667430,
+  "chainId": 10,
+  "effectiveGasPrice": "1000000",
+  "erc20Transfers": [
+    {
+      "address": "0x4200000000000000000000000000000000000042",
+      "logIndex": 0,
+      "from": "0xfedfaf1a10335448b7fa0268f56d2b44dbd357de",
+      "to": "0x695684881d525b241e4624be6d2dd4b43e857269",
+      "value": "409426292836590288896",
+      "token": {
+        "address": "0x4200000000000000000000000000000000000042",
+        "name": "",
+        "symbol": "",
+        "decimals": 0,
+        "currency": {
+          "type": "CryptoCurrency",
+          "id": "evm_10_0x4200000000000000000000000000000000000042",
+          "name": "",
+          "symbol": "",
+          "updatedAt": 0
+        }
+      }
+    }
+  ],
+  "erc721Transfers": [],
+  "erc1155Transfers": [],
+  "from": {
+    "chainId": 10,
+    "address": "0x695684881d525b241e4624be6d2dd4b43e857269"
+  },
+  "gasUsed": "88954",
+  "hash": "0xdb2a06261d20c5718518f20a57ed79454485ac2b94dd6aa43388be439c4a05f8",
+  "input": "0x2e7ba6ef00000000000000000000000000000000000000000000000000000000000190e1000000000000000000000000695684881d525b241e4624be6d2dd4b43e85726900000000000000000000000000000000000000000000001631ee6419f606000000000000000000000000000000000000000000000000000000000000000000800000000000000000000000000000000000000000000000000000000000000012fa3c1cc3addf9092b15e16dbfaad427fe57edcec56accfe03727772510d30a0de784ca2301d2a18fb2b3c42b7220c3e1d2128c436e833ebf04f772aef6d3a926d44c81af140e67ec01c5b1f3ee4809244e1abcc23fff27c32530e15aa60fec0cb0b0e6d35249f6471ac7ba212196205d8bc016e01c77abf5ceab30a05ffb56702a511284cf8d3e0ff4fe67a297159450c4087e543a653e642690ba91707a0f1fb9266e252aecc4aa103d7cd5ac7b7578a3c594c3aa2a06a89e2e2114736205ff186aaa197f028098c49b11efe09be3cb1d54e1f36c1273944dc494d6c9df681ea3aca7552a8ca1795df4b04cda72573f11cecb5b9ae26d85bcb4de69dd46a550e02dc761f4744c671c706dd60abcf3bf5026c68106ea3ef501d2c20a075aa14209d161a149095c0b6dca32a7c05a88c1d45a4eb7d2a93089efc3443a552b7ee447a814a82553ceca59a1c2b06a843b436aa9028f6fd79db246314b50a0279e59ef66adab8776c82615c58cf1160cd65147c88ea4e4f4728938caf3424eff9e82a8afe7f5e84ab6fa1706f534e17d5d2421e294894f20b08463c7596e1f8a836ab139f784bef9b034d18a60172141ad08d40cb7ee8e3243f245c95e6807589b572cf2aa03341cea6cbdb057fd029c396132addf946a228d467ef11bd8a8de40d487d61cc1c7a08b66be82ef67d96bba496fc23afe1e345b6be963978bee9d3a1085401400b918a9957161c2c69647c2f5732a331a1f6e03cf18f94be155c1e472655496b06239dfa4df266c7b2486f0a33ba8ca0aadab8748e2154a523063769b",
+  "internalTransactions": [],
+  "logs": [
+    {
+      "address": "0x4200000000000000000000000000000000000042",
+      "data": "0x00000000000000000000000000000000000000000000001631ee6419f6060000",
+      "logIndex": 0,
+      "topics": [
+        "0xddf252ad1be2c89b69c2b068fc378daa952ba7f163c4a11628f55a4df523b3ef",
+        "0x000000000000000000000000fedfaf1a10335448b7fa0268f56d2b44dbd357de",
+        "0x000000000000000000000000695684881d525b241e4624be6d2dd4b43e857269"
+      ],
+      "transactionHash": "0xdb2a06261d20c5718518f20a57ed79454485ac2b94dd6aa43388be439c4a05f8",
+      "eventName": "Transfer",
+      "args": [
+        {
+          "indexed": true,
+          "name": "from",
+          "type": "address",
+          "value": "0xfedfaf1a10335448b7fa0268f56d2b44dbd357de"
+        },
+        {
+          "indexed": true,
+          "name": "to",
+          "type": "address",
+          "value": "0x695684881d525b241e4624be6d2dd4b43e857269"
+        },
+        {
+          "indexed": false,
+          "name": "value",
+          "type": "uint256",
+          "value": "409426292836590288896"
+        }
+      ]
+    },
+    {
+      "address": "0xfedfaf1a10335448b7fa0268f56d2b44dbd357de",
+      "data": "0x00000000000000000000000000000000000000000000000000000000000190e1000000000000000000000000695684881d525b241e4624be6d2dd4b43e85726900000000000000000000000000000000000000000000001631ee6419f6060000",
+      "logIndex": 1,
+      "topics": [
+        "0x4ec90e965519d92681267467f775ada5bd214aa92c0dc93d90a5e880ce9ed026"
+      ],
+      "transactionHash": "0xdb2a06261d20c5718518f20a57ed79454485ac2b94dd6aa43388be439c4a05f8",
+      "eventName": "Claimed",
+      "args": [
+        {
+          "indexed": false,
+          "name": "index",
+          "type": "uint256",
+          "value": "102625"
+        },
+        {
+          "indexed": false,
+          "name": "account",
+          "type": "address",
+          "value": "0x695684881d525b241e4624BE6D2Dd4b43e857269"
+        },
+        {
+          "indexed": false,
+          "name": "amount",
+          "type": "uint256",
+          "value": "409426292836590288896"
+        }
+      ]
+    }
+  ],
+  "status": "success",
+  "timestamp": 1654046467000,
+  "to": {
+    "chainId": 10,
+    "address": "0xfedfaf1a10335448b7fa0268f56d2b44dbd357de"
+  },
+  "value": "0",
+  "function": {
+    "args": [
+      {
+        "type": "uint256",
+        "name": "index",
+        "value": "102625"
+      },
+      {
+        "type": "address",
+        "name": "account",
+        "value": "0x695684881d525b241e4624BE6D2Dd4b43e857269"
+      },
+      {
+        "type": "uint256",
+        "name": "amount",
+        "value": "409426292836590288896"
+      },
+      {
+        "type": "bytes32[]",
+        "name": "merkleProof",
+        "value": [
+          "0xfa3c1cc3addf9092b15e16dbfaad427fe57edcec56accfe03727772510d30a0d",
+          "0xe784ca2301d2a18fb2b3c42b7220c3e1d2128c436e833ebf04f772aef6d3a926",
+          "0xd44c81af140e67ec01c5b1f3ee4809244e1abcc23fff27c32530e15aa60fec0c",
+          "0xb0b0e6d35249f6471ac7ba212196205d8bc016e01c77abf5ceab30a05ffb5670",
+          "0x2a511284cf8d3e0ff4fe67a297159450c4087e543a653e642690ba91707a0f1f",
+          "0xb9266e252aecc4aa103d7cd5ac7b7578a3c594c3aa2a06a89e2e2114736205ff",
+          "0x186aaa197f028098c49b11efe09be3cb1d54e1f36c1273944dc494d6c9df681e",
+          "0xa3aca7552a8ca1795df4b04cda72573f11cecb5b9ae26d85bcb4de69dd46a550",
+          "0xe02dc761f4744c671c706dd60abcf3bf5026c68106ea3ef501d2c20a075aa142",
+          "0x09d161a149095c0b6dca32a7c05a88c1d45a4eb7d2a93089efc3443a552b7ee4",
+          "0x47a814a82553ceca59a1c2b06a843b436aa9028f6fd79db246314b50a0279e59",
+          "0xef66adab8776c82615c58cf1160cd65147c88ea4e4f4728938caf3424eff9e82",
+          "0xa8afe7f5e84ab6fa1706f534e17d5d2421e294894f20b08463c7596e1f8a836a",
+          "0xb139f784bef9b034d18a60172141ad08d40cb7ee8e3243f245c95e6807589b57",
+          "0x2cf2aa03341cea6cbdb057fd029c396132addf946a228d467ef11bd8a8de40d4",
+          "0x87d61cc1c7a08b66be82ef67d96bba496fc23afe1e345b6be963978bee9d3a10",
+          "0x85401400b918a9957161c2c69647c2f5732a331a1f6e03cf18f94be155c1e472",
+          "0x655496b06239dfa4df266c7b2486f0a33ba8ca0aadab8748e2154a523063769b"
+        ]
+      }
+    ],
+    "name": "claim",
+    "interface": "claim(uint256, address, uint256, bytes32[])"
+  }
+}

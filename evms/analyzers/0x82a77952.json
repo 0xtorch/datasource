@@ -1,8 +1,8 @@
 [
   {
     "example": {
-      "chainId": 1,
-      "hash": "0x39aa6a77ea6c6e29841230bd02cd178e96a070e3838a8fcf9c746d028773a742",
+      "chainId": 56,
+      "hash": "0x73a2cf3976f4f5147d8be71c5aff5121097a4bc7a7855b67be7daf722b283d1a",
       "addresses": ["0x695684881d525b241e4624be6d2dd4b43e857269"]
     },
     "condition": {
@@ -19,18 +19,13 @@
         "min": "1"
       },
       "function": {
-        "id": "0xeee3f07a",
-        "interface": "depositEthFor(address)"
+        "id": "0x82a77952"
       },
       "logs": {
         "type": "exact",
         "patterns": [
           {
-            "signature": "0xe1fffcc4923d04b559f4d29a8bfc6cda04eb5b0d3c460751c2402c5c5cc9109c",
-            "indexedCount": 1
-          },
-          {
-            "signature": "0x72848855a2461abf0dd243723dfcc9163eec2ea5215469d101c0d9c9ef58940d",
+            "signature": "0xddf252ad1be2c89b69c2b068fc378daa952ba7f163c4a11628f55a4df523b3ef",
             "indexedCount": 3
           }
         ]
@@ -38,21 +33,7 @@
     },
     "generators": [
       {
-        "type": "bridge-from",
-        "crossId": {
-          "type": "join",
-          "values": [
-            "ronin-bridge_",
-            {
-              "type": "log",
-              "signature": "0x72848855a2461abf0dd243723dfcc9163eec2ea5215469d101c0d9c9ef58940d",
-              "indexedCount": 3,
-              "index": 0,
-              "value": 0
-            }
-          ]
-        },
-        "crossType": "start",
+        "type": "mint-nft",
         "transfers": [
           {
             "type": "value",
@@ -69,6 +50,19 @@
             "value": {
               "type": "between",
               "min": "1"
+            }
+          },
+          {
+            "type": "erc721",
+            "direction": "in",
+            "from": {
+              "type": "array-in",
+              "not": true,
+              "values": ["related"]
+            },
+            "to": {
+              "type": "array-in",
+              "values": ["related"]
             }
           }
         ]

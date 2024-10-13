@@ -1,0 +1,60 @@
+[
+  {
+    "example": {
+      "chainId": 1,
+      "hash": "0x6ff08f9fc670218df5869998591c3790f8bd3cf797e7f71f2e7ca4d17f3bd565",
+      "addresses": ["0x695684881d525b241e4624be6d2dd4b43e857269"]
+    },
+    "condition": {
+      "related": {
+        "type": "array-in",
+        "values": [
+          {
+            "type": "from"
+          }
+        ]
+      },
+      "value": {
+        "type": "between",
+        "max": "0"
+      },
+      "function": {
+        "id": "0xabf2ebd8",
+        "interface": "claim(uint256, bytes32, bytes32)"
+      },
+      "logs": {
+        "type": "exact",
+        "patterns": [
+          {
+            "signature": "0xddf252ad1be2c89b69c2b068fc378daa952ba7f163c4a11628f55a4df523b3ef",
+            "indexedCount": 2
+          }
+        ]
+      }
+    },
+    "generators": [
+      {
+        "type": "airdrop",
+        "transfers": [
+          {
+            "type": "erc20",
+            "direction": "in",
+            "from": {
+              "type": "array-in",
+              "not": true,
+              "values": ["related"]
+            },
+            "to": {
+              "type": "array-in",
+              "values": ["related"]
+            },
+            "amount": {
+              "type": "between",
+              "min": "1"
+            }
+          }
+        ]
+      }
+    ]
+  }
+]
