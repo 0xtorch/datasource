@@ -1,0 +1,5 @@
+{
+  "address": "0xb26e9ff02fc659738c4a2888e0ed58ff0b7c2763",
+  "label": "DisperseNft",
+  "abi": "[{\"inputs\":[{\"internalType\":\"contract IERC1155\",\"name\":\"token\",\"type\":\"address\"},{\"internalType\":\"address[]\",\"name\":\"recipients\",\"type\":\"address[]\"},{\"internalType\":\"uint256[]\",\"name\":\"ids\",\"type\":\"uint256[]\"},{\"internalType\":\"uint256[]\",\"name\":\"values\",\"type\":\"uint256[]\"},{\"internalType\":\"bytes\",\"name\":\"data\",\"type\":\"bytes\"}],\"name\":\"disperse\",\"outputs\":[],\"stateMutability\":\"nonpayable\",\"type\":\"function\"}]"
+}
