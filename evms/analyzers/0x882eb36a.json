@@ -1,0 +1,145 @@
+[
+  {
+    "example": {
+      "chainId": 137,
+      "hash": "0xd9bb670e9f4dc61be3af14be7ddf4153aa74e43720223d53a0de0ab310bdbc30",
+      "addresses": ["0x695684881d525b241e4624be6d2dd4b43e857269"]
+    },
+    "condition": {
+      "related": {
+        "type": "array-in",
+        "values": [
+          {
+            "type": "from"
+          }
+        ]
+      },
+      "value": {
+        "type": "between",
+        "min": "1"
+      },
+      "function": {
+        "id": "0x882eb36a",
+        "interface": "shopBuyAndDepositObject(string, uint256[], uint256[], uint256[], uint256[], address[], uint256[], uint256[])"
+      },
+      "logs": {
+        "type": "some",
+        "patterns": [
+          {
+            "signature": "0xc3d58168c5ae7397731d063d5bbf3d657854427343f4c083240f7aacaa2d0f62",
+            "indexedCount": 3,
+            "count": {
+              "type": "between",
+              "min": "1"
+            }
+          },
+          {
+            "signature": "0x99678068058f8bb7e05b1bb12b96b51472ba691b95ced1204288a8ca72be7df0",
+            "indexedCount": 1,
+            "count": {
+              "type": "between",
+              "min": "1"
+            }
+          },
+          {
+            "signature": "0x55d70b93fcd0e9f09c69e1e1103a6af64cc3b6f641a2858e5a254ea1891c5a65",
+            "indexedCount": 1,
+            "count": {
+              "type": "between",
+              "min": "1"
+            }
+          },
+          {
+            "signature": "0x0339939b24f7ca321adc6c51ca056689d074983bf300a819ee5bfebfd518978f",
+            "indexedCount": 0,
+            "count": {
+              "type": "between",
+              "min": "1",
+              "max": "1"
+            }
+          },
+          {
+            "signature": "0x1f0203141ac020f145b95f3cbed883b1ee8fa74625a730a476135945f58dfafb",
+            "indexedCount": 1,
+            "count": {
+              "type": "between",
+              "min": "1"
+            }
+          }
+        ]
+      }
+    },
+    "generators": [
+      {
+        "type": "mint-nft",
+        "transfers": [
+          {
+            "type": "value",
+            "direction": "out",
+            "from": {
+              "type": "array-in",
+              "values": ["related"]
+            },
+            "to": {
+              "type": "array-in",
+              "not": true,
+              "values": ["related"]
+            },
+            "value": {
+              "type": "between",
+              "min": "1"
+            }
+          },
+          {
+            "type": "erc1155",
+            "direction": "in",
+            "from": {
+              "type": "array-in",
+              "not": true,
+              "values": ["related"]
+            },
+            "to": {
+              "type": "array-in",
+              "values": ["related"]
+            },
+            "amount": {
+              "type": "between",
+              "min": "1"
+            }
+          }
+        ]
+      },
+      {
+        "target": {
+          "type": "erc1155",
+          "from": {
+            "type": "array-in",
+            "values": ["related"]
+          }
+        },
+        "type": "deposit",
+        "loanId": {
+          "type": "join",
+          "values": [
+            "evm_",
+            { "type": "chain-id" },
+            "_",
+            {
+              "type": "log",
+              "signature": "0x1f0203141ac020f145b95f3cbed883b1ee8fa74625a730a476135945f58dfafb",
+              "indexedCount": 1,
+              "index": 0,
+              "value": "address"
+            }
+          ]
+        },
+        "transfers": [
+          {
+            "type": "target",
+            "direction": "out"
+          }
+        ]
+      }
+    ]
+  }
+]

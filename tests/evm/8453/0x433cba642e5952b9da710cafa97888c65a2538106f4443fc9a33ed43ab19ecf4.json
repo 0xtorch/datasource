@@ -1,0 +1,252 @@
+{
+  "blockNumber": 13409870,
+  "chainId": 8453,
+  "effectiveGasPrice": "27597613",
+  "erc20Transfers": [],
+  "erc721Transfers": [],
+  "erc1155Transfers": [
+    {
+      "address": "0x4f072c88a9144a490aee53bda2af5798e3ea3548",
+      "logIndex": 161,
+      "from": "0x0000000000000000000000000000000000000000",
+      "to": "0x695684881d525b241e4624be6d2dd4b43e857269",
+      "tokenId": "22",
+      "value": "1",
+      "token": {
+        "type": "Nft",
+        "id": "evm_1155_8453_0x4f072c88a9144a490aee53bda2af5798e3ea3548_22",
+        "updatedAt": 0
+      }
+    }
+  ],
+  "from": {
+    "chainId": 8453,
+    "address": "0x695684881d525b241e4624be6d2dd4b43e857269"
+  },
+  "gasUsed": "128765",
+  "hash": "0x433cba642e5952b9da710cafa97888c65a2538106f4443fc9a33ed43ab19ecf4",
+  "input": "0x9dbb844d00000000000000000000000004e2516a2c207e84a1839755675dfd8ef6302f0a0000000000000000000000000000000000000000000000000000000000000016000000000000000000000000000000000000000000000000000000000000000100000000000000000000000000000000000000000000000000000000000000a000000000000000000000000075e53d1298c5dad7b280c6cb6f95216c3a109db10000000000000000000000000000000000000000000000000000000000000020000000000000000000000000695684881d525b241e4624be6d2dd4b43e857269",
+  "internalTransactions": [
+    {
+      "blockNumber": 13409870,
+      "from": "0x4f072c88a9144a490aee53bda2af5798e3ea3548",
+      "gas": "143648",
+      "isError": false,
+      "timestamp": 1713609087000,
+      "to": "0x7777777f279eba3d3ad8f4e708545291a6fdba8b",
+      "txHash": "0x433cba642e5952b9da710cafa97888c65a2538106f4443fc9a33ed43ab19ecf4",
+      "value": "777000000000000"
+    }
+  ],
+  "logs": [
+    {
+      "address": "0x7777777f279eba3d3ad8f4e708545291a6fdba8b",
+      "data": "0x0000000000000000000000002eb468b1c02e6713770a0a71b95e9077a9f166510000000000000000000000007bf90111ad7c22bec9e9dff8a01a44713cc1b1b60000000000000000000000004f072c88a9144a490aee53bda2af5798e3ea354800000000000000000000000000000000000000000000000000012edc9ab5d000000000000000000000000000000000000000000000000000000064f43391f000000000000000000000000000000000000000000000000000000064f43391f000000000000000000000000000000000000000000000000000000064f43391f000000000000000000000000000000000000000000000000000000064f43391f000",
+      "logIndex": 160,
+      "topics": [
+        "0x90e8cce6b15b450d1e56e9ef986d1cd376838a90944336c02886ca12b9e6ebd7",
+        "0x0000000000000000000000002eb468b1c02e6713770a0a71b95e9077a9f16651",
+        "0x0000000000000000000000007bf90111ad7c22bec9e9dff8a01a44713cc1b1b6",
+        "0x00000000000000000000000075e53d1298c5dad7b280c6cb6f95216c3a109db1"
+      ],
+      "transactionHash": "0x433cba642e5952b9da710cafa97888c65a2538106f4443fc9a33ed43ab19ecf4",
+      "eventName": "RewardsDeposit",
+      "args": [
+        {
+          "indexed": true,
+          "name": "creator",
+          "type": "address",
+          "value": "0x2EB468B1C02E6713770a0a71B95e9077a9f16651"
+        },
+        {
+          "indexed": true,
+          "name": "createReferral",
+          "type": "address",
+          "value": "0x7bf90111Ad7C22bec9E9dFf8A01A44713CC1b1B6"
+        },
+        {
+          "indexed": true,
+          "name": "mintReferral",
+          "type": "address",
+          "value": "0x75E53d1298C5DaD7b280C6cb6F95216c3A109dB1"
+        },
+        {
+          "indexed": false,
+          "name": "firstMinter",
+          "type": "address",
+          "value": "0x2EB468B1C02E6713770a0a71B95e9077a9f16651"
+        },
+        {
+          "indexed": false,
+          "name": "zora",
+          "type": "address",
+          "value": "0x7bf90111Ad7C22bec9E9dFf8A01A44713CC1b1B6"
+        },
+        {
+          "indexed": false,
+          "name": "from",
+          "type": "address",
+          "value": "0x4F072C88a9144a490AEe53BDa2aF5798e3eA3548"
+        },
+        {
+          "indexed": false,
+          "name": "creatorReward",
+          "type": "uint256",
+          "value": "333000000000000"
+        },
+        {
+          "indexed": false,
+          "name": "createReferralReward",
+          "type": "uint256",
+          "value": "111000000000000"
+        },
+        {
+          "indexed": false,
+          "name": "mintReferralReward",
+          "type": "uint256",
+          "value": "111000000000000"
+        },
+        {
+          "indexed": false,
+          "name": "firstMinterReward",
+          "type": "uint256",
+          "value": "111000000000000"
+        },
+        {
+          "indexed": false,
+          "name": "zoraReward",
+          "type": "uint256",
+          "value": "111000000000000"
+        }
+      ]
+    },
+    {
+      "address": "0x4f072c88a9144a490aee53bda2af5798e3ea3548",
+      "data": "0x00000000000000000000000000000000000000000000000000000000000000160000000000000000000000000000000000000000000000000000000000000001",
+      "logIndex": 161,
+      "topics": [
+        "0xc3d58168c5ae7397731d063d5bbf3d657854427343f4c083240f7aacaa2d0f62",
+        "0x000000000000000000000000695684881d525b241e4624be6d2dd4b43e857269",
+        "0x0000000000000000000000000000000000000000000000000000000000000000",
+        "0x000000000000000000000000695684881d525b241e4624be6d2dd4b43e857269"
+      ],
+      "transactionHash": "0x433cba642e5952b9da710cafa97888c65a2538106f4443fc9a33ed43ab19ecf4",
+      "eventName": "TransferSingle",
+      "args": [
+        {
+          "indexed": true,
+          "name": "operator",
+          "type": "address",
+          "value": "0x695684881d525b241e4624be6d2dd4b43e857269"
+        },
+        {
+          "indexed": true,
+          "name": "from",
+          "type": "address",
+          "value": "0x0000000000000000000000000000000000000000"
+        },
+        {
+          "indexed": true,
+          "name": "to",
+          "type": "address",
+          "value": "0x695684881d525b241e4624be6d2dd4b43e857269"
+        },
+        {
+          "indexed": false,
+          "name": "id",
+          "type": "uint256",
+          "value": "22"
+        },
+        {
+          "indexed": false,
+          "name": "value",
+          "type": "uint256",
+          "value": "1"
+        }
+      ]
+    },
+    {
+      "address": "0x4f072c88a9144a490aee53bda2af5798e3ea3548",
+      "data": "0x00000000000000000000000000000000000000000000000000000000000000010000000000000000000000000000000000000000000000000002c2ad68fd9000",
+      "logIndex": 162,
+      "topics": [
+        "0xb362243af1e2070d7d5bf8d713f2e0fab64203f1b71462afbe20572909788c5e",
+        "0x000000000000000000000000695684881d525b241e4624be6d2dd4b43e857269",
+        "0x00000000000000000000000004e2516a2c207e84a1839755675dfd8ef6302f0a",
+        "0x0000000000000000000000000000000000000000000000000000000000000016"
+      ],
+      "transactionHash": "0x433cba642e5952b9da710cafa97888c65a2538106f4443fc9a33ed43ab19ecf4",
+      "eventName": "Purchased",
+      "args": [
+        {
+          "indexed": true,
+          "name": "sender",
+          "type": "address",
+          "value": "0x695684881d525b241e4624BE6D2Dd4b43e857269"
+        },
+        {
+          "indexed": true,
+          "name": "minter",
+          "type": "address",
+          "value": "0x04E2516A2c207E84a1839755675dfd8eF6302F0a"
+        },
+        {
+          "indexed": true,
+          "name": "tokenId",
+          "type": "uint256",
+          "value": "22"
+        },
+        {
+          "indexed": false,
+          "name": "quantity",
+          "type": "uint256",
+          "value": "1"
+        },
+        {
+          "indexed": false,
+          "name": "value",
+          "type": "uint256",
+          "value": "777000000000000"
+        }
+      ]
+    }
+  ],
+  "status": "success",
+  "timestamp": 1713609087000,
+  "to": {
+    "chainId": 8453,
+    "address": "0x4f072c88a9144a490aee53bda2af5798e3ea3548"
+  },
+  "value": "777000000000000",
+  "function": {
+    "args": [
+      {
+        "type": "address",
+        "name": "minter",
+        "value": "0x04E2516A2c207E84a1839755675dfd8eF6302F0a"
+      },
+      {
+        "type": "uint256",
+        "name": "tokenId",
+        "value": "22"
+      },
+      {
+        "type": "uint256",
+        "name": "quantity",
+        "value": "1"
+      },
+      {
+        "type": "bytes",
+        "name": "minterArguments",
+        "value": "0x000000000000000000000000695684881d525b241e4624be6d2dd4b43e857269"
+      },
+      {
+        "type": "address",
+        "name": "mintReferral",
+        "value": "0x75E53d1298C5DaD7b280C6cb6F95216c3A109dB1"
+      }
+    ],
+    "name": "mintWithRewards",
+    "interface": "mintWithRewards(address, uint256, uint256, bytes, address)"
+  }
+}

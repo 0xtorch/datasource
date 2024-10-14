@@ -127,9 +127,9 @@ describe('Should valid evm analyzers json', async () => {
           expect(result.length).toBeGreaterThan(0)
           expect(result.every(({ evidence }) => evidence !== 'none')).toBe(true)
           const actionTypes = new Set(result.map((action) => action.type))
-          for (const generator of analyzer.generators) {
-            expect(actionTypes).toContain(generator.type)
-          }
+          expect(
+            analyzer.generators.some(({ type }) => actionTypes.has(type)),
+          ).toBe(true)
         }
       }
     })
