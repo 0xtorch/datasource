@@ -1,0 +1,87 @@
+{
+  "blockNumber": 63472348,
+  "chainId": 5000,
+  "effectiveGasPrice": "20000000",
+  "erc20Transfers": [
+    {
+      "address": "0xabbeed1d173541e0546b38b1c0394975be200000",
+      "logIndex": 44,
+      "from": "0xd33c11ff3b5bbb78212ab832cf247f439092aea8",
+      "to": "0x695684881d525b241e4624be6d2dd4b43e857269",
+      "value": "210497000000000000000000",
+      "token": {
+        "address": "0xabbeed1d173541e0546b38b1c0394975be200000",
+        "name": "",
+        "symbol": "",
+        "decimals": 0,
+        "currency": {
+          "type": "CryptoCurrency",
+          "id": "evm_5000_0xabbeed1d173541e0546b38b1c0394975be200000",
+          "name": "",
+          "symbol": "",
+          "updatedAt": 0
+        }
+      }
+    }
+  ],
+  "erc721Transfers": [],
+  "erc1155Transfers": [],
+  "from": {
+    "chainId": 5000,
+    "address": "0x695684881d525b241e4624be6d2dd4b43e857269"
+  },
+  "gasUsed": "403260829",
+  "hash": "0x7533a54402ccf56e9ca8433a18941143f9c231fe24c96b6ca7c4df0f39545123",
+  "input": "0xf339f526000000000000000000000000000000000000000000002c9310b33f189864000000000000000000000000000000000000000000000000000000000000000000600000000000000000000000000000000000000000000000000000000000000003000000000000000000000000000000000000000000000000000000000000000d8366beac7c68505b1e134292080b6b8e2e709f912de00cd9378283086219c520bd496ef62ff8d26cdcf9d5e325c18e6ceb55b266148729109fa6d7e0599aa3dedec4978b63522e03154f50eeecc3d09157917a42a56ccc6b8d000bdfb5c703abdad19874ddd56ed11818a1affd2bce61673e509f079c509cb3ba16c30bce58e181e5eabf88fbe101f6ed696363d6551414efa3750b065f7871c00e0f63b66c4df0793c7d0fc3a16d12c83a5ed88c8e9a88f1f41db46012ebe90e494562f27ee617e1d17b8574e7175b6314d7e80979bb81d1598de448ebf61595d21dda74c05f573b624369b499b6c1fcc50d3dbd9a352e6df69cb088b3b30fb44517567357ab46d514241a2d6c3240a7dbe8eff88ed7f11930cb3092bfc311c19f66e4bc47aa55f3807feabe6832b88a86198f8226712bc84363b1c1bc0ce2c23b9df65430ab6cb8bc2df8b0ae478a1820561630b056fdabfa419247fe1817f00a0c28086146b98bf9089ac1c5d37f1e369962c976d06450f337a2252d501af9efc6c9e7c023798d19eaef200e3c24c3766796da96f2e6cd5ca2f6f8f5ad4dab8215f7a91c31",
+  "internalTransactions": [],
+  "logs": [
+    {
+      "address": "0xabbeed1d173541e0546b38b1c0394975be200000",
+      "data": "0x000000000000000000000000000000000000000000002c9310b33f1898640000",
+      "logIndex": 44,
+      "topics": [
+        "0xddf252ad1be2c89b69c2b068fc378daa952ba7f163c4a11628f55a4df523b3ef",
+        "0x000000000000000000000000d33c11ff3b5bbb78212ab832cf247f439092aea8",
+        "0x000000000000000000000000695684881d525b241e4624be6d2dd4b43e857269"
+      ],
+      "transactionHash": "0x7533a54402ccf56e9ca8433a18941143f9c231fe24c96b6ca7c4df0f39545123",
+      "eventName": "Transfer",
+      "args": [
+        {
+          "indexed": true,
+          "name": "from",
+          "type": "address",
+          "value": "0xd33c11ff3b5bbb78212ab832cf247f439092aea8"
+        },
+        {
+          "indexed": true,
+          "name": "to",
+          "type": "address",
+          "value": "0x695684881d525b241e4624be6d2dd4b43e857269"
+        },
+        {
+          "indexed": false,
+          "name": "value",
+          "type": "uint256",
+          "value": "210497000000000000000000"
+        }
+      ]
+    },
+    {
+      "address": "0xd33c11ff3b5bbb78212ab832cf247f439092aea8",
+      "data": "0x000000000000000000000000695684881d525b241e4624be6d2dd4b43e857269000000000000000000000000000000000000000000002c9310b33f18986400000000000000000000000000000000000000000000000000000000000000000003",
+      "logIndex": 45,
+      "topics": [
+        "0x987d620f307ff6b94d58743cb7a7509f24071586a77759b77c2d4e29f75a2f9a"
+      ],
+      "transactionHash": "0x7533a54402ccf56e9ca8433a18941143f9c231fe24c96b6ca7c4df0f39545123"
+    }
+  ],
+  "status": "success",
+  "timestamp": 1715075008000,
+  "to": {
+    "chainId": 5000,
+    "address": "0xd33c11ff3b5bbb78212ab832cf247f439092aea8"
+  },
+  "value": "0"
+}

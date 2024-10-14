@@ -1,0 +1,70 @@
+[
+  {
+    "example": {
+      "chainId": 137,
+      "hash": "0x2e4887b56c4b3c4114d9261ddd0a47b660c5a9e77807fbc6428f4cdc5249132f",
+      "addresses": ["0x695684881d525b241e4624be6d2dd4b43e857269"]
+    },
+    "condition": {
+      "related": {
+        "type": "array-in",
+        "values": [
+          {
+            "type": "from"
+          }
+        ]
+      },
+      "value": {
+        "type": "between",
+        "max": "0"
+      },
+      "function": {
+        "id": "0x148295a8",
+        "interface": "batchWithdrawObject(string, address[], uint256[], uint256[])"
+      },
+      "logs": {
+        "type": "some",
+        "patterns": [
+          {
+            "signature": "0xc3d58168c5ae7397731d063d5bbf3d657854427343f4c083240f7aacaa2d0f62",
+            "indexedCount": 3,
+            "count": {
+              "type": "between",
+              "min": "1"
+            }
+          },
+          {
+            "signature": "0x5388772baa6ef185a1b93dc0c5ae54a4cd075e842eb4bb889e69a956bb2392d4",
+            "indexedCount": 1,
+            "count": {
+              "type": "between",
+              "min": "1"
+            }
+          }
+        ]
+      }
+    },
+    "generators": [
+      {
+        "target": {
+          "type": "erc1155",
+          "to": {
+            "type": "array-in",
+            "values": ["related"]
+          }
+        },
+        "type": "withdraw",
+        "loanId": {
+          "type": "join",
+          "values": ["evm_", { "type": "chain-id" }, "_", { "type": "to" }]
+        },
+        "transfers": [
+          {
+            "type": "target",
+            "direction": "in"
+          }
+        ]
+      }
+    ]
+  }
+]
