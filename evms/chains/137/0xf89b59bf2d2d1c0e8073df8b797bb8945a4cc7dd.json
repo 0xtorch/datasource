@@ -1,0 +1,5 @@
+{
+  "address": "0xf89b59bf2d2d1c0e8073df8b797bb8945a4cc7dd",
+  "label": "ERC20BulkTransfer",
+  "abi": "[{\"inputs\":[{\"internalType\":\"contract IERC20\",\"name\":\"token\",\"type\":\"address\"},{\"internalType\":\"address[]\",\"name\":\"recipients\",\"type\":\"address[]\"},{\"internalType\":\"uint256[]\",\"name\":\"amounts\",\"type\":\"uint256[]\"}],\"name\":\"bulkTransfer\",\"outputs\":[],\"stateMutability\":\"nonpayable\",\"type\":\"function\"}]"
+}
