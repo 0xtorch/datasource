@@ -15,180 +15,277 @@
     "送付先アドレス": ["string"],
     "備考": ["string"]
   },
-  "parsers": [
-    {
-      "conditions": [
-        {
-          "column": "取引種別",
-          "pattern": {
-            "type": "in",
-            "values": ["購入", "売却", "交換"]
+  "parser": {
+    "parsers": [
+      {
+        "conditions": [
+          {
+            "value": {
+              "type": "cell",
+              "column": "取引種別"
+            },
+            "pattern": {
+              "type": "in",
+              "values": ["購入", "売却", "交換"]
+            }
+          },
+          {
+            "value": {
+              "type": "cell",
+              "column": "増加通貨名"
+            },
+            "pattern": {
+              "type": "defined"
+            }
+          },
+          {
+            "value": {
+              "type": "cell",
+              "column": "増加数量"
+            },
+            "pattern": {
+              "type": "defined"
+            }
+          },
+          {
+            "value": {
+              "type": "cell",
+              "column": "減少通貨名"
+            },
+            "pattern": {
+              "type": "defined"
+            }
+          },
+          {
+            "value": {
+              "type": "cell",
+              "column": "減少数量"
+            },
+            "pattern": {
+              "type": "defined"
+            }
           }
-        },
-        {
-          "column": "増加通貨名",
-          "pattern": {
-            "type": "defined"
+        ],
+        "generators": [
+          {
+            "type": "trade",
+            "source": {
+              "type": "join",
+              "values": [
+                { "type": "service" },
+                "_",
+                { "type": "cell", "column": "取引日時" }
+              ]
+            },
+            "timestamp": {
+              "type": "cell",
+              "column": "取引日時"
+            },
+            "comment": {
+              "type": "cell",
+              "column": "備考"
+            },
+            "transfers": [
+              {
+                "direction": "in",
+                "amount": {
+                  "type": "text",
+                  "value": {
+                    "type": "cell",
+                    "column": "増加数量"
+                  }
+                },
+                "asset": {
+                  "type": "symbol",
+                  "value": {
+                    "type": "cell",
+                    "column": "増加通貨名"
+                  }
+                }
+              },
+              {
+                "direction": "out",
+                "amount": {
+                  "type": "text",
+                  "value": {
+                    "type": "cell",
+                    "column": "減少数量"
+                  }
+                },
+                "asset": {
+                  "type": "symbol",
+                  "value": {
+                    "type": "cell",
+                    "column": "減少通貨名"
+                  }
+                }
+              }
+            ]
           }
-        },
-        {
-          "column": "増加数量",
-          "pattern": {
-            "type": "defined"
+        ]
+      },
+      {
+        "conditions": [
+          {
+            "value": {
+              "type": "cell",
+              "column": "取引種別"
+            },
+            "pattern": {
+              "type": "in",
+              "values": ["受取", "ハードフォーク", "受取利息"]
+            }
+          },
+          {
+            "value": {
+              "type": "cell",
+              "column": "増加通貨名"
+            },
+            "pattern": {
+              "type": "defined"
+            }
+          },
+          {
+            "value": {
+              "type": "cell",
+              "column": "増加数量"
+            },
+            "pattern": {
+              "type": "defined"
+            }
+          },
+          {
+            "value": {
+              "type": "cell",
+              "column": "手数料通貨"
+            },
+            "pattern": {
+              "type": "undefined"
+            }
+          },
+          {
+            "value": {
+              "type": "cell",
+              "column": "手数料数量"
+            },
+            "pattern": {
+              "type": "undefined"
+            }
           }
-        },
-        {
-          "column": "減少通貨名",
-          "pattern": {
-            "type": "defined"
+        ],
+        "generators": [
+          {
+            "type": "fee",
+            "source": {
+              "type": "join",
+              "values": [
+                { "type": "service" },
+                "_",
+                { "type": "cell", "column": "取引日時" }
+              ]
+            },
+            "timestamp": {
+              "type": "cell",
+              "column": "取引日時"
+            },
+            "comment": {
+              "type": "cell",
+              "column": "備考"
+            },
+            "transfers": [
+              {
+                "direction": "in",
+                "amount": {
+                  "type": "text",
+                  "value": {
+                    "type": "cell",
+                    "column": "増加数量"
+                  }
+                },
+                "asset": {
+                  "type": "symbol",
+                  "value": {
+                    "type": "cell",
+                    "column": "増加通貨名"
+                  }
+                }
+              }
+            ]
           }
-        },
-        {
-          "column": "減少数量",
-          "pattern": {
-            "type": "defined"
+        ]
+      },
+      {
+        "conditions": [
+          {
+            "value": {
+              "type": "cell",
+              "column": "取引種別"
+            },
+            "pattern": "送付"
+          },
+          {
+            "value": {
+              "type": "cell",
+              "column": "手数料通貨"
+            },
+            "pattern": {
+              "type": "defined"
+            }
+          },
+          {
+            "value": {
+              "type": "cell",
+              "column": "手数料数量"
+            },
+            "pattern": {
+              "type": "defined"
+            }
           }
-        }
-      ],
-      "action": "trade",
-      "source": [
-        "coincheck_",
-        {
-          "type": "column",
-          "column": "取引日時"
-        }
-      ],
-      "timestamp": "取引日時",
-      "comment": [
-        {
-          "type": "column",
-          "column": "備考"
-        }
-      ],
-      "transfers": [
-        {
-          "direction": "in",
-          "amount": "増加数量",
-          "asset": {
-            "type": "column",
-            "column": "増加通貨名"
+        ],
+        "generators": [
+          {
+            "type": "fee",
+            "source": {
+              "type": "join",
+              "values": [
+                { "type": "service" },
+                "_",
+                { "type": "cell", "column": "取引日時" }
+              ]
+            },
+            "timestamp": {
+              "type": "cell",
+              "column": "取引日時"
+            },
+            "comment": {
+              "type": "join",
+              "values": [
+                "Transfer to ",
+                { "type": "cell", "column": "送付先アドレス" }
+              ]
+            },
+            "transfers": [
+              {
+                "direction": "out",
+                "amount": {
+                  "type": "text",
+                  "value": {
+                    "type": "cell",
+                    "column": "手数料数量"
+                  }
+                },
+                "asset": {
+                  "type": "symbol",
+                  "value": {
+                    "type": "cell",
+                    "column": "手数料通貨"
+                  }
+                }
+              }
+            ]
           }
-        },
-        {
-          "direction": "out",
-          "amount": "減少数量",
-          "asset": {
-            "type": "column",
-            "column": "減少通貨名"
-          }
-        }
-      ]
-    },
-    {
-      "conditions": [
-        {
-          "column": "取引種別",
-          "pattern": {
-            "type": "in",
-            "values": ["受取", "ハードフォーク", "受取利息"]
-          }
-        },
-        {
-          "column": "増加通貨名",
-          "pattern": {
-            "type": "defined"
-          }
-        },
-        {
-          "column": "増加数量",
-          "pattern": {
-            "type": "defined"
-          }
-        },
-        {
-          "column": "手数料通貨",
-          "pattern": {
-            "type": "undefined"
-          }
-        },
-        {
-          "column": "手数料数量",
-          "pattern": {
-            "type": "undefined"
-          }
-        }
-      ],
-      "action": "fee",
-      "source": [
-        "coincheck_",
-        {
-          "type": "column",
-          "column": "取引日時"
-        }
-      ],
-      "timestamp": "取引日時",
-      "comment": [
-        {
-          "type": "column",
-          "column": "備考"
-        }
-      ],
-      "transfers": [
-        {
-          "direction": "in",
-          "amount": "増加数量",
-          "asset": {
-            "type": "column",
-            "column": "増加通貨名"
-          }
-        }
-      ]
-    },
-    {
-      "conditions": [
-        {
-          "column": "取引種別",
-          "pattern": "送付"
-        },
-        {
-          "column": "手数料通貨",
-          "pattern": {
-            "type": "defined"
-          }
-        },
-        {
-          "column": "手数料数量",
-          "pattern": {
-            "type": "defined"
-          }
-        }
-      ],
-      "action": "fee",
-      "source": [
-        "coincheck_",
-        {
-          "type": "column",
-          "column": "取引日時"
-        }
-      ],
-      "timestamp": "取引日時",
-      "comment": [
-        "Transfer to ",
-        {
-          "type": "column",
-          "column": "送付先アドレス"
-        }
-      ],
-      "transfers": [
-        {
-          "direction": "out",
-          "amount": "手数料数量",
-          "asset": {
-            "type": "column",
-            "column": "手数料通貨"
-          }
-        }
-      ]
-    }
-  ]
+        ]
+      }
+    ]
+  }
 }

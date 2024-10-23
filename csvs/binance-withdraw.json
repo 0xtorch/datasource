@@ -11,58 +11,83 @@
     "TXID": ["string"],
     "Status": ["string"]
   },
-  "parsers": [
-    {
-      "conditions": [
-        {
-          "column": "Status",
-          "pattern": {
-            "type": "in",
-            "values": ["Completed"]
+  "parser": {
+    "parsers": [
+      {
+        "conditions": [
+          {
+            "value": {
+              "type": "cell",
+              "column": "Status"
+            },
+            "pattern": "Completed"
           }
-        }
-      ],
-      "action": "fee",
-      "source": [
-        "binance_withdraw_",
-        {
-          "type": "column",
-          "column": "Network"
-        },
-        "_",
-        {
-          "type": "column",
-          "column": "TXID"
-        }
-      ],
-      "timestamp": "Date(UTC)",
-      "comment": [
-        "Withdraw to ",
-        {
-          "type": "column",
-          "column": "Address"
-        },
-        " on ",
-        {
-          "type": "column",
-          "column": "Network"
-        },
-        " Network | TXID: ",
-        {
-          "type": "column",
-          "column": "TXID"
-        }
-      ],
-      "transfers": [
-        {
-          "direction": "out",
-          "amount": "TransactionFee",
-          "asset": {
-            "type": "column",
-            "column": "Coin"
+        ],
+        "generators": [
+          {
+            "type": "fee",
+            "source": {
+              "type": "join",
+              "values": [
+                { "type": "service" },
+                "_withdraw_",
+                {
+                  "type": "cell",
+                  "column": "Network"
+                },
+                "_",
+                {
+                  "type": "cell",
+                  "column": "TXID"
+                }
+              ]
+            },
+            "timestamp": {
+              "type": "cell",
+              "column": "Date(UTC)"
+            },
+            "comment": {
+              "type": "join",
+              "values": [
+                "Withdraw to ",
+                {
+                  "type": "cell",
+                  "column": "Address"
+                },
+                " on ",
+                {
+                  "type": "cell",
+                  "column": "Network"
+                },
+                " Network | TXID: ",
+                {
+                  "type": "cell",
+                  "column": "TXID"
+                }
+              ]
+            },
+            "transfers": [
+              {
+                "direction": "out",
+                "amount": {
+                  "type": "text",
+                  "value": {
+                    "type": "cell",
+                    "column": "TransactionFee"
+                  }
+                },
+                "asset": {
+                  "type": "symbol",
+                  "value": {
+                    "type": "cell",
+                    "column": "Coin"
+                  }
+                }
+              }
+            ]
           }
-        }
-      ]
-    }
-  ]
+        ]
+      }
+    ]
+  }
 }
