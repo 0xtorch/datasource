@@ -14,248 +14,579 @@
     "フィードバック": ["string"],
     "コメント": ["string"]
   },
-  "parsers": [
-    {
-      "conditions": [
-        {
-          "column": "種類",
-          "pattern": "買い"
-        },
-        {
-          "column": "主軸通貨",
-          "pattern": {
-            "type": "defined"
-          }
-        },
-        {
-          "column": "決済通貨",
-          "pattern": {
-            "type": "defined"
-          }
-        },
-        {
-          "column": "手数料通貨",
-          "pattern": {
-            "type": "defined"
-          }
-        }
-      ],
-      "action": "trade",
-      "source": [
-        "cryptact_",
-        {
-          "type": "column",
-          "column": "日時"
-        }
-      ],
-      "timestamp": "日時",
-      "comment": [
-        "ソース: ",
-        {
-          "type": "column",
-          "column": "ソース"
-        },
-        " / コメント: ",
-        {
-          "type": "column",
-          "column": "コメント"
-        }
-      ],
-      "transfers": [
-        {
-          "direction": "in",
-          "amount": "取引量",
-          "asset": {
-            "type": "column",
-            "column": "主軸通貨"
-          }
-        },
-        {
-          "direction": "out",
-          "amount": {
-            "type": "times",
-            "columns": ["取引量", "価格"]
+  "parser": {
+    "parsers": [
+      {
+        "conditions": [
+          {
+            "value": {
+              "type": "cell",
+              "column": "種類"
+            },
+            "pattern": "買い"
           },
-          "asset": {
-            "type": "column",
-            "column": "決済通貨"
-          }
-        },
-        {
-          "direction": "out",
-          "amount": "手数料",
-          "asset": {
-            "type": "column",
-            "column": "手数料通貨"
-          }
-        }
-      ]
-    },
-    {
-      "conditions": [
-        {
-          "column": "種類",
-          "pattern": "売り"
-        },
-        {
-          "column": "主軸通貨",
-          "pattern": {
-            "type": "defined"
-          }
-        },
-        {
-          "column": "決済通貨",
-          "pattern": {
-            "type": "defined"
-          }
-        },
-        {
-          "column": "手数料通貨",
-          "pattern": {
-            "type": "defined"
-          }
-        }
-      ],
-      "action": "trade",
-      "source": [
-        "cryptact_",
-        {
-          "type": "column",
-          "column": "日時"
-        }
-      ],
-      "timestamp": "日時",
-      "comment": [
-        "ソース: ",
-        {
-          "type": "column",
-          "column": "ソース"
-        },
-        " / コメント: ",
-        {
-          "type": "column",
-          "column": "コメント"
-        }
-      ],
-      "transfers": [
-        {
-          "direction": "in",
-          "amount": {
-            "type": "times",
-            "columns": ["取引量", "価格"]
+          {
+            "value": {
+              "type": "cell",
+              "column": "主軸通貨"
+            },
+            "pattern": {
+              "type": "defined"
+            }
           },
-          "asset": {
-            "type": "column",
-            "column": "決済通貨"
+          {
+            "value": {
+              "type": "cell",
+              "column": "決済通貨"
+            },
+            "pattern": {
+              "type": "defined"
+            }
+          },
+          {
+            "value": {
+              "type": "cell",
+              "column": "手数料通貨"
+            },
+            "pattern": {
+              "type": "defined"
+            }
           }
-        },
-        {
-          "direction": "out",
-          "amount": "取引量",
-          "asset": {
-            "type": "column",
-            "column": "主軸通貨"
+        ],
+        "generators": [
+          {
+            "type": "trade",
+            "source": {
+              "type": "join",
+              "values": [
+                { "type": "service" },
+                "_",
+                {
+                  "type": "cell",
+                  "column": "日時"
+                }
+              ]
+            },
+            "timestamp": {
+              "type": "cell",
+              "column": "日時"
+            },
+            "comment": {
+              "type": "join",
+              "values": [
+                "ソース: ",
+                {
+                  "type": "cell",
+                  "column": "ソース"
+                },
+                " / コメント: ",
+                {
+                  "type": "cell",
+                  "column": "コメント"
+                }
+              ]
+            },
+            "transfers": [
+              {
+                "direction": "in",
+                "amount": {
+                  "type": "text",
+                  "value": {
+                    "type": "cell",
+                    "column": "取引量"
+                  }
+                },
+                "asset": {
+                  "type": "symbol",
+                  "value": {
+                    "type": "cell",
+                    "column": "主軸通貨"
+                  }
+                }
+              },
+              {
+                "direction": "out",
+                "amount": {
+                  "type": "text",
+                  "value": {
+                    "type": "math",
+                    "values": [
+                      {
+                        "type": "cell",
+                        "column": "取引量"
+                      },
+                      "*",
+                      {
+                        "type": "cell",
+                        "column": "価格"
+                      }
+                    ]
+                  }
+                },
+                "asset": {
+                  "type": "symbol",
+                  "value": {
+                    "type": "cell",
+                    "column": "決済通貨"
+                  }
+                }
+              },
+              {
+                "direction": "out",
+                "amount": {
+                  "type": "text",
+                  "value": {
+                    "type": "cell",
+                    "column": "手数料"
+                  }
+                },
+                "asset": {
+                  "type": "symbol",
+                  "value": {
+                    "type": "cell",
+                    "column": "手数料通貨"
+                  }
+                }
+              }
+            ]
           }
-        },
-        {
-          "direction": "out",
-          "amount": "手数料",
-          "asset": {
-            "type": "column",
-            "column": "手数料通貨"
+        ]
+      },
+      {
+        "conditions": [
+          {
+            "value": {
+              "type": "cell",
+              "column": "種類"
+            },
+            "pattern": "売り"
+          },
+          {
+            "value": {
+              "type": "cell",
+              "column": "主軸通貨"
+            },
+            "pattern": {
+              "type": "defined"
+            }
+          },
+          {
+            "value": {
+              "type": "cell",
+              "column": "決済通貨"
+            },
+            "pattern": {
+              "type": "defined"
+            }
+          },
+          {
+            "value": {
+              "type": "cell",
+              "column": "手数料通貨"
+            },
+            "pattern": {
+              "type": "defined"
+            }
           }
-        }
-      ]
-    },
-    {
-      "conditions": [
-        {
-          "column": "種類",
-          "pattern": "ボーナス"
-        },
-        {
-          "column": "主軸通貨",
-          "pattern": {
-            "type": "defined"
+        ],
+        "generators": [
+          {
+            "type": "trade",
+            "source": {
+              "type": "join",
+              "values": [
+                { "type": "service" },
+                "_",
+                {
+                  "type": "cell",
+                  "column": "日時"
+                }
+              ]
+            },
+            "timestamp": {
+              "type": "cell",
+              "column": "日時"
+            },
+            "comment": {
+              "type": "join",
+              "values": [
+                "ソース: ",
+                {
+                  "type": "cell",
+                  "column": "ソース"
+                },
+                " / コメント: ",
+                {
+                  "type": "cell",
+                  "column": "コメント"
+                }
+              ]
+            },
+            "transfers": [
+              {
+                "direction": "in",
+                "amount": {
+                  "type": "text",
+                  "value": {
+                    "type": "math",
+                    "values": [
+                      {
+                        "type": "cell",
+                        "column": "取引量"
+                      },
+                      "*",
+                      {
+                        "type": "cell",
+                        "column": "価格"
+                      }
+                    ]
+                  }
+                },
+                "asset": {
+                  "type": "symbol",
+                  "value": {
+                    "type": "cell",
+                    "column": "決済通貨"
+                  }
+                }
+              },
+              {
+                "direction": "out",
+                "amount": {
+                  "type": "text",
+                  "value": {
+                    "type": "cell",
+                    "column": "取引量"
+                  }
+                },
+                "asset": {
+                  "type": "symbol",
+                  "value": {
+                    "type": "cell",
+                    "column": "主軸通貨"
+                  }
+                }
+              },
+              {
+                "direction": "out",
+                "amount": {
+                  "type": "text",
+                  "value": {
+                    "type": "cell",
+                    "column": "手数料"
+                  }
+                },
+                "asset": {
+                  "type": "symbol",
+                  "value": {
+                    "type": "cell",
+                    "column": "手数料通貨"
+                  }
+                }
+              }
+            ]
           }
-        }
-      ],
-      "action": "gift",
-      "source": [
-        "cryptact_",
-        {
-          "type": "column",
-          "column": "日時"
-        }
-      ],
-      "timestamp": "日時",
-      "comment": [
-        "ソース: ",
-        {
-          "type": "column",
-          "column": "ソース"
-        },
-        " / コメント: ",
-        {
-          "type": "column",
-          "column": "コメント"
-        }
-      ],
-      "transfers": [
-        {
-          "direction": "in",
-          "amount": "取引量",
-          "asset": {
-            "type": "column",
-            "column": "主軸通貨"
+        ]
+      },
+      {
+        "conditions": [
+          {
+            "value": {
+              "type": "cell",
+              "column": "種類"
+            },
+            "pattern": "ボーナス"
+          },
+          {
+            "value": {
+              "type": "cell",
+              "column": "主軸通貨"
+            },
+            "pattern": {
+              "type": "defined"
+            }
           }
-        }
-      ]
-    },
-    {
-      "conditions": [
-        {
-          "column": "種類",
-          "pattern": "送金手数料"
-        },
-        {
-          "column": "主軸通貨",
-          "pattern": {
-            "type": "defined"
+        ],
+        "generators": [
+          {
+            "type": "gift",
+            "source": {
+              "type": "join",
+              "values": [
+                { "type": "service" },
+                "_",
+                {
+                  "type": "cell",
+                  "column": "日時"
+                }
+              ]
+            },
+            "timestamp": {
+              "type": "cell",
+              "column": "日時"
+            },
+            "comment": {
+              "type": "join",
+              "values": [
+                "ソース: ",
+                {
+                  "type": "cell",
+                  "column": "ソース"
+                },
+                " / コメント: ",
+                {
+                  "type": "cell",
+                  "column": "コメント"
+                }
+              ]
+            },
+            "transfers": [
+              {
+                "direction": "in",
+                "amount": {
+                  "type": "text",
+                  "value": {
+                    "type": "cell",
+                    "column": "取引量"
+                  }
+                },
+                "asset": {
+                  "type": "symbol",
+                  "value": {
+                    "type": "cell",
+                    "column": "主軸通貨"
+                  }
+                }
+              }
+            ]
           }
-        }
-      ],
-      "action": "fee",
-      "source": [
-        "cryptact_",
-        {
-          "type": "column",
-          "column": "日時"
-        }
-      ],
-      "timestamp": "日時",
-      "comment": [
-        "ソース: ",
-        {
-          "type": "column",
-          "column": "ソース"
-        },
-        " / コメント: ",
-        {
-          "type": "column",
-          "column": "コメント"
-        }
-      ],
-      "transfers": [
-        {
-          "direction": "out",
-          "amount": "取引量",
-          "asset": {
-            "type": "column",
-            "column": "主軸通貨"
+        ]
+      },
+      {
+        "conditions": [
+          {
+            "value": {
+              "type": "cell",
+              "column": "種類"
+            },
+            "pattern": {
+              "type": "in",
+              "values": ["送金手数料", "DeFi手数料"]
+            }
+          },
+          {
+            "value": {
+              "type": "cell",
+              "column": "主軸通貨"
+            },
+            "pattern": {
+              "type": "defined"
+            }
           }
-        }
-      ]
-    }
-  ]
+        ],
+        "generators": [
+          {
+            "type": "fee",
+            "source": {
+              "type": "join",
+              "values": [
+                { "type": "service" },
+                "_",
+                {
+                  "type": "cell",
+                  "column": "日時"
+                }
+              ]
+            },
+            "timestamp": {
+              "type": "cell",
+              "column": "日時"
+            },
+            "comment": {
+              "type": "join",
+              "values": [
+                "ソース: ",
+                {
+                  "type": "cell",
+                  "column": "ソース"
+                },
+                " / コメント: ",
+                {
+                  "type": "cell",
+                  "column": "コメント"
+                }
+              ]
+            },
+            "transfers": [
+              {
+                "direction": "out",
+                "amount": {
+                  "type": "text",
+                  "value": {
+                    "type": "cell",
+                    "column": "取引量"
+                  }
+                },
+                "asset": {
+                  "type": "symbol",
+                  "value": {
+                    "type": "cell",
+                    "column": "主軸通貨"
+                  }
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "conditions": [
+          {
+            "value": {
+              "type": "cell",
+              "column": "種類"
+            },
+            "pattern": "支払い"
+          },
+          {
+            "value": {
+              "type": "cell",
+              "column": "主軸通貨"
+            },
+            "pattern": {
+              "type": "defined"
+            }
+          }
+        ],
+        "generators": [
+          {
+            "type": "pay",
+            "source": {
+              "type": "join",
+              "values": [
+                { "type": "service" },
+                "_",
+                {
+                  "type": "cell",
+                  "column": "日時"
+                }
+              ]
+            },
+            "timestamp": {
+              "type": "cell",
+              "column": "日時"
+            },
+            "comment": {
+              "type": "join",
+              "values": [
+                "ソース: ",
+                {
+                  "type": "cell",
+                  "column": "ソース"
+                },
+                " / コメント: ",
+                {
+                  "type": "cell",
+                  "column": "コメント"
+                }
+              ]
+            },
+            "transfers": [
+              {
+                "direction": "out",
+                "amount": {
+                  "type": "text",
+                  "value": {
+                    "type": "cell",
+                    "column": "取引量"
+                  }
+                },
+                "asset": {
+                  "type": "symbol",
+                  "value": {
+                    "type": "cell",
+                    "column": "主軸通貨"
+                  }
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "conditions": [
+          {
+            "value": {
+              "type": "cell",
+              "column": "種類"
+            },
+            "pattern": "現金調整"
+          },
+          {
+            "value": {
+              "type": "cell",
+              "column": "手数料通貨"
+            },
+            "pattern": {
+              "type": "defined"
+            }
+          }
+        ],
+        "generators": [
+          {
+            "type": "gift",
+            "source": {
+              "type": "join",
+              "values": [
+                { "type": "service" },
+                "_",
+                {
+                  "type": "cell",
+                  "column": "日時"
+                }
+              ]
+            },
+            "timestamp": {
+              "type": "cell",
+              "column": "日時"
+            },
+            "comment": {
+              "type": "join",
+              "values": [
+                "ソース: ",
+                {
+                  "type": "cell",
+                  "column": "ソース"
+                },
+                " / コメント: ",
+                {
+                  "type": "cell",
+                  "column": "コメント"
+                }
+              ]
+            },
+            "transfers": [
+              {
+                "direction": "in",
+                "amount": {
+                  "type": "text",
+                  "value": {
+                    "type": "cell",
+                    "column": "手数料"
+                  }
+                },
+                "asset": {
+                  "type": "symbol",
+                  "value": {
+                    "type": "cell",
+                    "column": "手数料通貨"
+                  }
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
 }

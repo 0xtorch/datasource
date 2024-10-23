@@ -1,0 +1,180 @@
+[
+  {
+    "source": "cryptact-ledger-ja_1508389777000",
+    "order": 0,
+    "type": "trade",
+    "timestamp": 1508389777000,
+    "evidence": "system-rule",
+    "comment": "ソース: bitflyer / コメント: ",
+    "transfers": [
+      {
+        "direction": "in",
+        "asset": {
+          "type": "CryptoCurrency",
+          "id": "bitcoin",
+          "name": "Bitcoin",
+          "symbol": "btc",
+          "icon": "https://coin-images.coingecko.com/coins/images/1/large/bitcoin.png?1696501400",
+          "market": { "coingeckoId": "bitcoin", "marketCapUsd": 1242823480668 },
+          "updatedAt": 1728782536762
+        },
+        "amount": "0.01"
+      },
+      {
+        "direction": "out",
+        "asset": {
+          "type": "FiatCurrency",
+          "id": "jpy",
+          "symbol": "JPY",
+          "name": "Japanese Yen"
+        },
+        "amount": "6482.35"
+      }
+    ]
+  },
+  {
+    "source": "cryptact-ledger-ja_1508549173000",
+    "order": 0,
+    "type": "trade",
+    "timestamp": 1508549173000,
+    "evidence": "system-rule",
+    "comment": "ソース: bitflyer / コメント: ",
+    "transfers": [
+      {
+        "direction": "in",
+        "asset": {
+          "type": "FiatCurrency",
+          "id": "jpy",
+          "symbol": "JPY",
+          "name": "Japanese Yen"
+        },
+        "amount": "6736.73"
+      },
+      {
+        "direction": "out",
+        "asset": {
+          "type": "CryptoCurrency",
+          "id": "bitcoin",
+          "name": "Bitcoin",
+          "symbol": "btc",
+          "icon": "https://coin-images.coingecko.com/coins/images/1/large/bitcoin.png?1696501400",
+          "market": { "coingeckoId": "bitcoin", "marketCapUsd": 1242823480668 },
+          "updatedAt": 1728782536762
+        },
+        "amount": "0.01"
+      }
+    ]
+  },
+  {
+    "source": "cryptact-ledger-ja_1508772279000",
+    "order": 0,
+    "type": "gift",
+    "timestamp": 1508772279000,
+    "evidence": "system-rule",
+    "comment": "ソース: bitflyer / コメント: ",
+    "transfers": [
+      {
+        "direction": "in",
+        "asset": {
+          "type": "CryptoCurrency",
+          "id": "bitcoin",
+          "name": "Bitcoin",
+          "symbol": "btc",
+          "icon": "https://coin-images.coingecko.com/coins/images/1/large/bitcoin.png?1696501400",
+          "market": { "coingeckoId": "bitcoin", "marketCapUsd": 1242823480668 },
+          "updatedAt": 1728782536762
+        },
+        "amount": "0.000005"
+      }
+    ]
+  },
+  {
+    "source": "cryptact-ledger-ja_1514727673000",
+    "order": 0,
+    "type": "fee",
+    "timestamp": 1514727673000,
+    "evidence": "system-rule",
+    "comment": "ソース: coincheck / コメント: ",
+    "transfers": [
+      {
+        "direction": "out",
+        "asset": {
+          "type": "CryptoCurrency",
+          "id": "ethereum",
+          "name": "Ethereum",
+          "symbol": "eth",
+          "icon": "https://coin-images.coingecko.com/coins/images/279/large/ethereum.png?1696501628",
+          "market": { "coingeckoId": "ethereum", "marketCapUsd": 297208008363 },
+          "updatedAt": 1728782536762
+        },
+        "amount": "0.01"
+      }
+    ]
+  },
+  {
+    "source": "cryptact-ledger-ja_1581904632000",
+    "order": 0,
+    "type": "gift",
+    "timestamp": 1581904632000,
+    "evidence": "system-rule",
+    "comment": "ソース: bitflyer / コメント: ",
+    "transfers": [
+      {
+        "direction": "in",
+        "asset": {
+          "type": "FiatCurrency",
+          "id": "jpy",
+          "symbol": "JPY",
+          "name": "Japanese Yen"
+        },
+        "amount": "11"
+      }
+    ]
+  },
+  {
+    "source": "cryptact-ledger-ja_1614693490000",
+    "order": 0,
+    "type": "fee",
+    "timestamp": 1614693490000,
+    "evidence": "system-rule",
+    "comment": "ソース: ETHEREUM/Unknown / コメント: 出金を損失として認識 - 0xc5583b2c32fd5d0fe2385d754778beab3d6d87a0e40f6fed41c74619036e9a20 - AssertionError('No assets sent in LOSS')",
+    "transfers": [
+      {
+        "direction": "out",
+        "asset": {
+          "type": "CryptoCurrency",
+          "id": "ethereum",
+          "name": "Ethereum",
+          "symbol": "eth",
+          "icon": "https://coin-images.coingecko.com/coins/images/279/large/ethereum.png?1696501628",
+          "market": { "coingeckoId": "ethereum", "marketCapUsd": 297208008363 },
+          "updatedAt": 1728782536762
+        },
+        "amount": "0.003488562"
+      }
+    ]
+  },
+  {
+    "source": "cryptact-ledger-ja_1633948047000",
+    "order": 0,
+    "type": "pay",
+    "timestamp": 1633948047000,
+    "evidence": "system-rule",
+    "comment": "ソース: ETHEREUM/OpenSea / コメント: 仮想通貨での支払い - 0x202104c93c881001d3530832b29602800459f973d78edfddd08316a93bb9bcda",
+    "transfers": [
+      {
+        "direction": "out",
+        "asset": {
+          "type": "CryptoCurrency",
+          "id": "ethereum",
+          "name": "Ethereum",
+          "symbol": "eth",
+          "icon": "https://coin-images.coingecko.com/coins/images/279/large/ethereum.png?1696501628",
+          "market": { "coingeckoId": "ethereum", "marketCapUsd": 297208008363 },
+          "updatedAt": 1728782536762
+        },
+        "amount": "0.5"
+      }
+    ]
+  }
+]
