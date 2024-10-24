@@ -1,0 +1,5 @@
+{
+  "address": "0x1d1832625ce2b3b76129237f318b885e438cba3a",
+  "label": "LayerrProxy",
+  "abi": "[{\"inputs\":[{\"internalType\":\"address\",\"name\":\"_owner\",\"type\":\"address\"},{\"internalType\":\"address\",\"name\":\"_proxy\",\"type\":\"address\"},{\"internalType\":\"string\",\"name\":\"_name\",\"type\":\"string\"},{\"internalType\":\"string\",\"name\":\"_symbol\",\"type\":\"string\"},{\"internalType\":\"uint96\",\"name\":\"royaltyPct\",\"type\":\"uint96\"},{\"internalType\":\"address\",\"name\":\"royaltyReceiver\",\"type\":\"address\"},{\"internalType\":\"address\",\"name\":\"operatorFilterRegistry\",\"type\":\"address\"},{\"internalType\":\"address\",\"name\":\"_extension\",\"type\":\"address\"},{\"internalType\":\"address\",\"name\":\"_renderer\",\"type\":\"address\"},{\"internalType\":\"address[]\",\"name\":\"_signers\",\"type\":\"address[]\"}],\"stateMutability\":\"nonpayable\",\"type\":\"constructor\"},{\"inputs\":[],\"name\":\"DeploymentFailed\",\"type\":\"error\"},{\"stateMutability\":\"payable\",\"type\":\"fallback\"}]"
+}
