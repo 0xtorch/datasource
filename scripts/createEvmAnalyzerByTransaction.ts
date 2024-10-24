@@ -10,8 +10,10 @@ import {
   analyzerSchema,
   createArbitrumOneChain,
   createAstarChain,
+  createAstarZkEvmChain,
   createAvalancheCChain,
   createBaseChain,
+  createBlastChain,
   createBscChain,
   createEthereumChain,
   createFantomChain,
@@ -25,6 +27,9 @@ import {
   createOptimismChain,
   createPolygonPosChain,
   createRoninChain,
+  createScrollChain,
+  createZkFairChain,
+  createZkSyncEraChain,
   createZoraChain,
   decodeTransaction,
   getTransactionDetail,
@@ -38,7 +43,8 @@ export const createEvmAnalyzerByTransaction = async () => {
     createArbitrumOneChain({
       explorerApiKey: process.env.ARBITRUM_API_KEY,
     }),
-    createAstarChain(),
+    createAstarChain({}),
+    createAstarZkEvmChain({}),
     createAvalancheCChain({
       explorerApiKey: process.env.AVALANCHE_API_KEY,
     }),
@@ -47,6 +53,9 @@ export const createEvmAnalyzerByTransaction = async () => {
     }),
     createBscChain({
       explorerApiKey: process.env.BSC_API_KEY,
+    }),
+    createBlastChain({
+      explorerApiKey: process.env.BLAST_API_KEY,
     }),
     createEthereumChain({
       explorerApiKey: process.env.ETHEREUM_API_KEY,
@@ -57,18 +66,18 @@ export const createEvmAnalyzerByTransaction = async () => {
     createLineaChain({
       explorerApiKey: process.env.LINEA_API_KEY,
     }),
-    createMantaPacificChain(),
+    createMantaPacificChain({}),
     createMantleChain({
       explorerApiKey: process.env.MANTLE_API_KEY,
     }),
-    createMetisChain(),
+    createMetisChain({}),
     createMoonbeamChain({
       explorerApiKey: process.env.MOONBEAM_API_KEY,
     }),
     createMoonriverChain({
       explorerApiKey: process.env.MOONRIVER_API_KEY,
     }),
-    createOasysChain(),
+    createOasysChain({}),
     createOptimismChain({
       explorerApiKey: process.env.OPTIMISM_API_KEY,
     }),
@@ -76,7 +85,13 @@ export const createEvmAnalyzerByTransaction = async () => {
       explorerApiKey: process.env.POLYGON_API_KEY,
     }),
     createRoninChain(),
-    createZoraChain(),
+    createScrollChain({
+      explorerApiKey: process.env.SCROLL_API_KEY,
+      explorerPageSize: 1000,
+    }),
+    createZkFairChain({}),
+    createZkSyncEraChain({ explorerApiKey: process.env.ZKSYNC_API_KEY }),
+    createZoraChain({}),
   ]
 
   const chainId = Number.parseInt(process.env.CHAIN ?? '1', 10)

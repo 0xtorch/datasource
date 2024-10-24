@@ -6,8 +6,10 @@ import {
   createActions,
   createArbitrumOneChain,
   createAstarChain,
+  createAstarZkEvmChain,
   createAvalancheCChain,
   createBaseChain,
+  createBlastChain,
   createBscChain,
   createEthereumChain,
   createFantomChain,
@@ -21,6 +23,9 @@ import {
   createOptimismChain,
   createPolygonPosChain,
   createRoninChain,
+  createScrollChain,
+  createZkFairChain,
+  createZkSyncEraChain,
   createZoraChain,
   isHex,
   toLowerHex,
@@ -32,7 +37,8 @@ const chains = [
   createArbitrumOneChain({
     explorerApiKey: '',
   }),
-  createAstarChain(),
+  createAstarChain({}),
+  createAstarZkEvmChain({}),
   createAvalancheCChain({
     explorerApiKey: '',
   }),
@@ -40,6 +46,9 @@ const chains = [
     explorerApiKey: '',
   }),
   createBscChain({
+    explorerApiKey: '',
+  }),
+  createBlastChain({
     explorerApiKey: '',
   }),
   createEthereumChain({
@@ -51,18 +60,18 @@ const chains = [
   createLineaChain({
     explorerApiKey: '',
   }),
-  createMantaPacificChain(),
+  createMantaPacificChain({}),
   createMantleChain({
     explorerApiKey: '',
   }),
-  createMetisChain(),
+  createMetisChain({}),
   createMoonbeamChain({
     explorerApiKey: '',
   }),
   createMoonriverChain({
     explorerApiKey: '',
   }),
-  createOasysChain(),
+  createOasysChain({}),
   createOptimismChain({
     explorerApiKey: '',
   }),
@@ -70,7 +79,10 @@ const chains = [
     explorerApiKey: '',
   }),
   createRoninChain(),
-  createZoraChain(),
+  createScrollChain({ explorerApiKey: '', explorerPageSize: 1000 }),
+  createZkFairChain({}),
+  createZkSyncEraChain({ explorerApiKey: '' }),
+  createZoraChain({}),
 ]
 
 describe('Should valid evm analyzers json', async () => {
