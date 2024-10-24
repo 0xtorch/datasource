@@ -15,7 +15,8 @@
           "symbol": "WETH",
           "updatedAt": 0
         },
-        "amount": "3.311570629222789569"
+        "amount": "3.311570629222789569",
+        "price": "374173.012087191617704123"
       },
       {
         "direction": "out",
@@ -46,7 +47,8 @@
           "symbol": "BINANCECOIN",
           "updatedAt": 0
         },
-        "amount": "22.923988893178999318"
+        "amount": "22.923988893178999318",
+        "price": "62747.867078218008437878"
       },
       {
         "direction": "in",
@@ -57,7 +59,8 @@
           "symbol": "PANCAKESWAP-TOKEN",
           "updatedAt": 0
         },
-        "amount": "686.205758989436983885"
+        "amount": "686.205758989436983885",
+        "price": "2097.81783258220859708"
       },
       {
         "direction": "out",
@@ -69,6 +72,43 @@
           "updatedAt": 0
         },
         "amount": "121.927809702956092686"
+      }
+    ]
+  },
+  {
+    "source": "evm_56_0x9703e5ed838a127afd1daa3255a425cf977d7d26b5dd8cc2410e1de941e91574",
+    "order": 0,
+    "type": "gift",
+    "timestamp": 1637686833000,
+    "evidence": "system-rule",
+    "transfers": [
+      {
+        "direction": "in",
+        "asset": {
+          "type": "Nft",
+          "id": "evm_721_56_0xeaff7ecfd5bc4502b6eea974a936cdc2ee68df06_3222",
+          "updatedAt": 0
+        },
+        "amount": "1",
+        "price": "0"
+      }
+    ]
+  },
+  {
+    "source": "evm_56_0x9703e5ed838a127afd1daa3255a425cf977d7d26b5dd8cc2410e1de941e91575",
+    "order": 0,
+    "type": "gift",
+    "timestamp": 1637686834000,
+    "evidence": "system-rule",
+    "transfers": [
+      {
+        "direction": "in",
+        "asset": {
+          "type": "Nft",
+          "id": "evm_721_56_0xeaff7ecfd5bc4502b6eea974a936cdc2ee68df06_3222",
+          "updatedAt": 0
+        },
+        "amount": "1"
       }
     ]
   }

@@ -64,7 +64,6 @@ describe('Should valid csv format json', async () => {
         fiats: [usd, eur, jpy],
       })
 
-      console.log(stringify(parsed))
       expect(parsed).toEqual(actions)
     })
   }
