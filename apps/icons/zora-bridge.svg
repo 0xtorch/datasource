@@ -1,0 +1,28 @@
+<svg width="64" height="64" viewBox="0 0 64 64" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g clip-path="url(#clip0_49_29)">
+<mask id="mask0_49_29" style="mask-type:luminance" maskUnits="userSpaceOnUse" x="0" y="0" width="64" height="64">
+<path d="M64 0H0V64H64V0Z" fill="white"/>
+</mask>
+<g mask="url(#mask0_49_29)">
+<mask id="mask1_49_29" style="mask-type:luminance" maskUnits="userSpaceOnUse" x="0" y="0" width="64" height="64">
+<path d="M64 0H0V64H64V0Z" fill="white"/>
+</mask>
+<g mask="url(#mask1_49_29)">
+<path d="M31.8265 63.6529C14.2492 63.6529 0 49.4039 0 31.8266C0 14.2492 14.2492 0 31.8265 0C49.4037 0 63.6526 14.2492 63.6526 31.8266C63.6526 49.4039 49.4037 63.6529 31.8265 63.6529Z" fill="url(#paint0_radial_49_29)"/>
+</g>
+</g>
+</g>
+<defs>
+<radialGradient id="paint0_radial_49_29" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(46.2762 17.1139) rotate(180) scale(53.7617 53.7617)">
+<stop offset="0.00682297" stop-color="#F2CEFE"/>
+<stop offset="0.1913" stop-color="#AFBAF1"/>
+<stop offset="0.4982" stop-color="#4281D3"/>
+<stop offset="0.666667" stop-color="#2E427D"/>
+<stop offset="0.822917" stop-color="#230101"/>
+<stop offset="1" stop-color="#8F6B40"/>
+</radialGradient>
+<clipPath id="clip0_49_29">
+<rect width="64" height="64" fill="white"/>
+</clipPath>
+</defs>
+</svg>
