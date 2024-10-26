@@ -1,0 +1,98 @@
+[
+  {
+    "source": "bitbank-dealer_dealer_30732778080",
+    "order": 0,
+    "type": "trade",
+    "timestamp": 1694510040000,
+    "evidence": "system-rule",
+    "transfers": [
+      {
+        "direction": "out",
+        "asset": {
+          "type": "CryptoCurrency",
+          "id": "ethereum",
+          "name": "Ethereum",
+          "symbol": "eth",
+          "icon": "https://coin-images.coingecko.com/coins/images/279/large/ethereum.png?1696501628",
+          "market": { "coingeckoId": "ethereum", "marketCapUsd": 297208008363 },
+          "updatedAt": 1728782536762
+        },
+        "amount": "4.5"
+      },
+      {
+        "direction": "in",
+        "asset": {
+          "type": "FiatCurrency",
+          "id": "jpy",
+          "name": "jpy",
+          "symbol": "JPY"
+        },
+        "amount": "1018426.5"
+      }
+    ]
+  },
+  {
+    "source": "bitbank-dealer_dealer_29902445600",
+    "order": 0,
+    "type": "trade",
+    "timestamp": 1689343740000,
+    "evidence": "system-rule",
+    "transfers": [
+      {
+        "direction": "in",
+        "asset": {
+          "type": "CryptoCurrency",
+          "id": "oasys",
+          "name": "Oasys",
+          "symbol": "oas",
+          "icon": "https://coin-images.coingecko.com/coins/images/27909/large/OAS.png?1696526929",
+          "market": { "coingeckoId": "oasys", "marketCapUsd": 61718233 },
+          "updatedAt": 1728782536762
+        },
+        "amount": "10951.70299"
+      },
+      {
+        "direction": "out",
+        "asset": {
+          "type": "FiatCurrency",
+          "id": "jpy",
+          "name": "jpy",
+          "symbol": "JPY"
+        },
+        "amount": "100000.00000169"
+      }
+    ]
+  },
+  {
+    "source": "bitbank-dealer_dealer_29112533114",
+    "order": 0,
+    "type": "trade",
+    "timestamp": 1685321160000,
+    "evidence": "system-rule",
+    "transfers": [
+      {
+        "direction": "out",
+        "asset": {
+          "type": "CryptoCurrency",
+          "id": "ethereum",
+          "name": "Ethereum",
+          "symbol": "eth",
+          "icon": "https://coin-images.coingecko.com/coins/images/279/large/ethereum.png?1696501628",
+          "market": { "coingeckoId": "ethereum", "marketCapUsd": 297208008363 },
+          "updatedAt": 1728782536762
+        },
+        "amount": "1"
+      },
+      {
+        "direction": "in",
+        "asset": {
+          "type": "FiatCurrency",
+          "id": "jpy",
+          "name": "jpy",
+          "symbol": "JPY"
+        },
+        "amount": "263181"
+      }
+    ]
+  }
+]
