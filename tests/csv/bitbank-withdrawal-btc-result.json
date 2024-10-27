@@ -1,0 +1,23 @@
+[
+  {
+    "source": "bitbank-withdrawal-btc_withdrawal_bitcoin_266ef82fbef2f2d308f32e5ce869e1b37b6e38aa79f5c4522a7ce9aa545896c4",
+    "order": 0,
+    "type": "fee",
+    "timestamp": 1603795970000,
+    "evidence": "system-rule",
+    "comment": "Withdraw to 1NHqYGu295cCMivF1XZ19a8GrFbXMtgHFe on bitcoin Network | TXID: 266ef82fbef2f2d308f32e5ce869e1b37b6e38aa79f5c4522a7ce9aa545896c4",
+    "transfers": [
+      {
+        "direction": "out",
+        "asset": {
+          "type": "CryptoCurrency",
+          "id": "bitcoin",
+          "name": "bitcoin",
+          "symbol": "BITCOIN",
+          "updatedAt": 0
+        },
+        "amount": "0.001"
+      }
+    ]
+  }
+]

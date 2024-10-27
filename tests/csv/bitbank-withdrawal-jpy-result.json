@@ -1,0 +1,22 @@
+[
+  {
+    "source": "bitbank-withdrawal-jpy_withdrawal_jpy_1671892776000",
+    "order": 0,
+    "type": "fee",
+    "timestamp": 1671892776000,
+    "evidence": "system-rule",
+    "comment": "「GMOあおぞらネット銀行」に出金",
+    "transfers": [
+      {
+        "direction": "out",
+        "asset": {
+          "type": "FiatCurrency",
+          "id": "jpy",
+          "name": "jpy",
+          "symbol": "JPY"
+        },
+        "amount": "770"
+      }
+    ]
+  }
+]
