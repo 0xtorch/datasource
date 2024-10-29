@@ -1,5 +1,69 @@
 [
   {
+    "source": "bitbank-dealer_dealer_32161793949",
+    "order": 0,
+    "type": "trade",
+    "timestamp": 1702604308000,
+    "evidence": "system-rule",
+    "transfers": [
+      {
+        "direction": "out",
+        "asset": {
+          "type": "CryptoCurrency",
+          "id": "oasys",
+          "name": "Oasys",
+          "symbol": "oas",
+          "icon": "https://coin-images.coingecko.com/coins/images/27909/large/OAS.png?1696526929",
+          "market": { "coingeckoId": "oasys", "marketCapUsd": 61718233 },
+          "updatedAt": 1728782536762
+        },
+        "amount": "10951.70299"
+      },
+      {
+        "direction": "in",
+        "asset": {
+          "type": "FiatCurrency",
+          "id": "jpy",
+          "name": "jpy",
+          "symbol": "JPY"
+        },
+        "amount": "118606.9433817"
+      }
+    ]
+  },
+  {
+    "source": "bitbank-dealer_dealer_31693759631",
+    "order": 0,
+    "type": "trade",
+    "timestamp": 1700199307000,
+    "evidence": "system-rule",
+    "transfers": [
+      {
+        "direction": "in",
+        "asset": {
+          "type": "CryptoCurrency",
+          "id": "bitcoin",
+          "name": "Bitcoin",
+          "symbol": "btc",
+          "icon": "https://coin-images.coingecko.com/coins/images/1/large/bitcoin.png?1696501400",
+          "market": { "coingeckoId": "bitcoin", "marketCapUsd": 1242823480668 },
+          "updatedAt": 1728782536762
+        },
+        "amount": "0.01436741"
+      },
+      {
+        "direction": "out",
+        "asset": {
+          "type": "FiatCurrency",
+          "id": "jpy",
+          "name": "jpy",
+          "symbol": "JPY"
+        },
+        "amount": "80837.47089227"
+      }
+    ]
+  },
+  {
     "source": "bitbank-dealer_dealer_30732778080",
     "order": 0,
     "type": "trade",

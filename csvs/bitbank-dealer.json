@@ -18,7 +18,10 @@
               "type": "cell",
               "column": "売/買"
             },
-            "pattern": "buy"
+            "pattern": {
+              "type": "in",
+              "values": ["buy", "買"]
+            }
           }
         ],
         "generators": [
@@ -93,7 +96,10 @@
               "type": "cell",
               "column": "売/買"
             },
-            "pattern": "sell"
+            "pattern": {
+              "type": "in",
+              "values": ["sell", "売"]
+            }
           }
         ],
         "generators": [
