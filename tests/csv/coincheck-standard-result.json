@@ -143,5 +143,25 @@
         "amount": "0.0005"
       }
     ]
+  },
+  {
+    "source": "coincheck-standard_1667833200000",
+    "order": 0,
+    "type": "fee",
+    "timestamp": 1667833200000,
+    "evidence": "system-rule",
+    "comment": "出金手数料",
+    "transfers": [
+      {
+        "direction": "out",
+        "asset": {
+          "type": "FiatCurrency",
+          "id": "jpy",
+          "symbol": "JPY",
+          "name": "Japanese Yen"
+        },
+        "amount": "407"
+      }
+    ]
   }
 ]

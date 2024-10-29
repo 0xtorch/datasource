@@ -285,6 +285,72 @@
             ]
           }
         ]
+      },
+      {
+        "conditions": [
+          {
+            "value": {
+              "type": "cell",
+              "column": "取引種別"
+            },
+            "pattern": "出金"
+          },
+          {
+            "value": {
+              "type": "cell",
+              "column": "手数料通貨"
+            },
+            "pattern": {
+              "type": "defined"
+            }
+          },
+          {
+            "value": {
+              "type": "cell",
+              "column": "手数料数量"
+            },
+            "pattern": {
+              "type": "defined"
+            }
+          }
+        ],
+        "generators": [
+          {
+            "type": "fee",
+            "source": {
+              "type": "join",
+              "values": [
+                { "type": "service" },
+                "_",
+                { "type": "cell", "column": "取引日時" }
+              ]
+            },
+            "timestamp": {
+              "type": "cell",
+              "column": "取引日時"
+            },
+            "comment": "出金手数料",
+            "transfers": [
+              {
+                "direction": "out",
+                "amount": {
+                  "type": "text",
+                  "value": {
+                    "type": "cell",
+                    "column": "手数料数量"
+                  }
+                },
+                "asset": {
+                  "type": "symbol",
+                  "value": {
+                    "type": "cell",
+                    "column": "手数料通貨"
+                  }
+                }
+              }
+            ]
+          }
+        ]
       }
     ]
   }
