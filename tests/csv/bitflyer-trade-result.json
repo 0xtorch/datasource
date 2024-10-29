@@ -1,0 +1,182 @@
+[
+  {
+    "source": "bitflyer-trade_REC20240523-072805-212805",
+    "order": 0,
+    "type": "gift",
+    "timestamp": 1716449285000,
+    "evidence": "system-rule",
+    "comment": "株式会社　bitFlyer bitFlyer Credit Card(2024/05/23)",
+    "transfers": [
+      {
+        "direction": "in",
+        "asset": {
+          "type": "CryptoCurrency",
+          "id": "bitcoin",
+          "name": "Bitcoin",
+          "symbol": "btc",
+          "icon": "https://coin-images.coingecko.com/coins/images/1/large/bitcoin.png?1696501400",
+          "market": { "coingeckoId": "bitcoin", "marketCapUsd": 1242823480668 },
+          "updatedAt": 1728782536762
+        },
+        "amount": "0.00000204"
+      }
+    ]
+  },
+  {
+    "source": "bitflyer-trade_BFF20221225-184054-340796",
+    "order": 0,
+    "type": "trade",
+    "timestamp": 1671993654000,
+    "evidence": "system-rule",
+    "transfers": [
+      {
+        "direction": "out",
+        "asset": {
+          "type": "CryptoCurrency",
+          "id": "ethereum",
+          "name": "Ethereum",
+          "symbol": "eth",
+          "icon": "https://coin-images.coingecko.com/coins/images/279/large/ethereum.png?1696501628",
+          "market": { "coingeckoId": "ethereum", "marketCapUsd": 297208008363 },
+          "updatedAt": 1728782536762
+        },
+        "amount": "5"
+      },
+      {
+        "direction": "in",
+        "asset": {
+          "type": "FiatCurrency",
+          "id": "jpy",
+          "symbol": "JPY",
+          "name": "Japanese Yen"
+        },
+        "amount": "777310"
+      }
+    ]
+  },
+  {
+    "source": "bitflyer-trade_REB20221225-010743-436326",
+    "order": 0,
+    "type": "trade",
+    "timestamp": 1671930463000,
+    "evidence": "system-rule",
+    "transfers": [
+      {
+        "direction": "in",
+        "asset": {
+          "type": "CryptoCurrency",
+          "id": "ethereum",
+          "name": "Ethereum",
+          "symbol": "eth",
+          "icon": "https://coin-images.coingecko.com/coins/images/279/large/ethereum.png?1696501628",
+          "market": { "coingeckoId": "ethereum", "marketCapUsd": 297208008363 },
+          "updatedAt": 1728782536762
+        },
+        "amount": "0.05940217"
+      },
+      {
+        "direction": "out",
+        "asset": {
+          "type": "FiatCurrency",
+          "id": "jpy",
+          "symbol": "JPY",
+          "name": "Japanese Yen"
+        },
+        "amount": "10000"
+      }
+    ]
+  },
+  {
+    "source": "bitflyer-trade_REC20221018-055233-432356",
+    "order": 0,
+    "type": "gift",
+    "timestamp": 1666072353000,
+    "evidence": "system-rule",
+    "comment": "株式会社　bitFlyer 株式会社bitFlyer顧客へのETHW相当日本円交付",
+    "transfers": [
+      {
+        "direction": "in",
+        "asset": {
+          "type": "FiatCurrency",
+          "id": "jpy",
+          "symbol": "JPY",
+          "name": "Japanese Yen"
+        },
+        "amount": "91"
+      }
+    ]
+  },
+  {
+    "source": "bitflyer-trade_MWD20190207-104456-664271F",
+    "order": 0,
+    "type": "fee",
+    "timestamp": 1549536296000,
+    "evidence": "system-rule",
+    "transfers": [
+      {
+        "direction": "out",
+        "asset": {
+          "type": "FiatCurrency",
+          "id": "jpy",
+          "symbol": "JPY",
+          "name": "Japanese Yen"
+        },
+        "amount": "432"
+      }
+    ]
+  },
+  {
+    "source": "bitflyer-trade_CWD20180604-065901-689278F",
+    "order": 0,
+    "type": "fee",
+    "timestamp": 1528095541000,
+    "evidence": "system-rule",
+    "transfers": [
+      {
+        "direction": "out",
+        "asset": {
+          "type": "CryptoCurrency",
+          "id": "ethereum",
+          "name": "Ethereum",
+          "symbol": "eth",
+          "icon": "https://coin-images.coingecko.com/coins/images/279/large/ethereum.png?1696501628",
+          "market": { "coingeckoId": "ethereum", "marketCapUsd": 297208008363 },
+          "updatedAt": 1728782536762
+        },
+        "amount": "0.005"
+      }
+    ]
+  },
+  {
+    "source": "bitflyer-trade_BFF20180531-084607-398855",
+    "order": 0,
+    "type": "trade",
+    "timestamp": 1527756367000,
+    "evidence": "system-rule",
+    "transfers": [
+      {
+        "direction": "in",
+        "asset": {
+          "type": "CryptoCurrency",
+          "id": "ethereum",
+          "name": "Ethereum",
+          "symbol": "eth",
+          "icon": "https://coin-images.coingecko.com/coins/images/279/large/ethereum.png?1696501628",
+          "market": { "coingeckoId": "ethereum", "marketCapUsd": 297208008363 },
+          "updatedAt": 1728782536762
+        },
+        "amount": "0.1"
+      },
+      {
+        "direction": "out",
+        "asset": {
+          "type": "FiatCurrency",
+          "id": "jpy",
+          "symbol": "JPY",
+          "name": "Japanese Yen"
+        },
+        "amount": "6647"
+      }
+    ]
+  }
+]
