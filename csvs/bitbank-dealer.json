@@ -168,5 +168,11 @@
         ]
       }
     ]
+  },
+  "symbolAssetMap": {
+    "BCC": "crypto/bitcoin-cash",
+    "KLAY": "crypto/klay-token",
+    "MONA": "crypto/monacoin",
+    "RNDR": "crypto/render-token"
   }
 }

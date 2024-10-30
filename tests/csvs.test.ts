@@ -64,6 +64,9 @@ describe('Should valid csv format json', async () => {
         fiats: [usd, eur, jpy],
       })
 
+      if (filename.includes('bitbank-spot-trade')) {
+        console.log(stringify(parsed))
+      }
       expect(parsed).toEqual(actions)
     })
   }

@@ -168,6 +168,46 @@
     ]
   },
   {
+    "source": "bitbank-spot-trade_spot-trade_1308183378",
+    "order": 0,
+    "type": "trade",
+    "timestamp": 1706624727507,
+    "evidence": "system-rule",
+    "transfers": [
+      {
+        "direction": "out",
+        "asset": {
+          "type": "CryptoCurrency",
+          "id": "render-token",
+          "name": "render-token",
+          "symbol": "RENDER-TOKEN",
+          "updatedAt": 0
+        },
+        "amount": "30.0721"
+      },
+      {
+        "direction": "in",
+        "asset": {
+          "type": "FiatCurrency",
+          "id": "jpy",
+          "symbol": "JPY",
+          "name": "Japanese Yen"
+        },
+        "amount": "20178.3791"
+      },
+      {
+        "direction": "in",
+        "asset": {
+          "type": "FiatCurrency",
+          "id": "jpy",
+          "symbol": "JPY",
+          "name": "Japanese Yen"
+        },
+        "amount": "4.03567582"
+      }
+    ]
+  },
+  {
     "source": "bitbank-spot-trade_spot-trade_1304559399",
     "order": 0,
     "type": "trade",
