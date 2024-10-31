@@ -8,10 +8,8 @@
     "増加数量": ["blank", "big-decimal-positive"],
     "減少通貨名": ["blank", "string"],
     "減少数量": ["blank", "big-decimal-positive"],
-    "単価": ["blank", "big-decimal-positive"],
     "手数料通貨": ["blank", "string"],
     "手数料数量": ["blank", "big-decimal-positive"],
-    "送付元アドレス": ["string"],
     "送付先アドレス": ["string"],
     "備考": ["string"]
   },
