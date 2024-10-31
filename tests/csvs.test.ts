@@ -12,7 +12,6 @@ import {
   cryptoCurrencySchema,
   eur,
   jpy,
-  stringify,
   usd,
 } from '@0xtorch/core'
 
