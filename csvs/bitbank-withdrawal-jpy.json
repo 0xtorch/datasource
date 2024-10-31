@@ -1,5 +1,5 @@
 {
-  "id": "bitbank-withdrawal-btc",
+  "id": "bitbank-withdrawal-jpy",
   "service": "bitbank",
   "formatter": {
     "日時": ["datetime-jp"],
