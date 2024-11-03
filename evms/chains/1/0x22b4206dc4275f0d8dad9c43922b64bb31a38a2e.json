@@ -1,0 +1,5 @@
+{
+  "address": "0x22b4206dc4275f0d8dad9c43922b64bb31a38a2e",
+  "label": "eevault",
+  "abi": "[{\"inputs\":[],\"stateMutability\":\"nonpayable\",\"type\":\"constructor\"},{\"stateMutability\":\"payable\",\"type\":\"fallback\"},{\"stateMutability\":\"payable\",\"type\":\"receive\"}]"
+}
