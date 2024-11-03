@@ -1,0 +1,5 @@
+{
+  "address": "0xeba028eff19eb851b1a795579a910b730b6eeb23",
+  "label": "epvault",
+  "abi": "[{\"inputs\":[],\"stateMutability\":\"nonpayable\",\"type\":\"constructor\"},{\"stateMutability\":\"payable\",\"type\":\"fallback\"},{\"stateMutability\":\"payable\",\"type\":\"receive\"}]"
+}
