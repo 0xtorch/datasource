@@ -1,0 +1,5 @@
+{
+  "address": "0xdaa5f6cd0d1ae382a67e8a9b1ddff08685e443bc",
+  "label": "Proxy",
+  "abi": "[{\"inputs\":[{\"internalType\":\"address\",\"name\":\"implementation\",\"type\":\"address\"}],\"stateMutability\":\"nonpayable\",\"type\":\"constructor\"},{\"stateMutability\":\"payable\",\"type\":\"fallback\"},{\"stateMutability\":\"payable\",\"type\":\"receive\"}]"
+}
