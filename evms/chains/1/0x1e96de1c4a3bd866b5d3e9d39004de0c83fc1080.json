@@ -1,0 +1,5 @@
+{
+  "address": "0x1e96de1c4a3bd866b5d3e9d39004de0c83fc1080",
+  "label": "ExecAccessFlashbotsFacet",
+  "abi": "[{\"inputs\":[{\"internalType\":\"address[]\",\"name\":\"_bundleExecutors\",\"type\":\"address[]\"}],\"name\":\"addBundleExecutors\",\"outputs\":[],\"stateMutability\":\"nonpayable\",\"type\":\"function\"},{\"inputs\":[],\"name\":\"bundleExecutors\",\"outputs\":[{\"internalType\":\"address[]\",\"name\":\"\",\"type\":\"address[]\"}],\"stateMutability\":\"view\",\"type\":\"function\"},{\"inputs\":[{\"internalType\":\"address\",\"name\":\"_bundleExecutor\",\"type\":\"address\"}],\"name\":\"isBundleExecutor\",\"outputs\":[{\"internalType\":\"bool\",\"name\":\"\",\"type\":\"bool\"}],\"stateMutability\":\"view\",\"type\":\"function\"},{\"inputs\":[],\"name\":\"numberOfBundleExecutors\",\"outputs\":[{\"internalType\":\"uint256\",\"name\":\"\",\"type\":\"uint256\"}],\"stateMutability\":\"view\",\"type\":\"function\"},{\"inputs\":[{\"internalType\":\"address[]\",\"name\":\"_bundleExecutors\",\"type\":\"address[]\"}],\"name\":\"removeBundleExecutors\",\"outputs\":[],\"stateMutability\":\"nonpayable\",\"type\":\"function\"}]"
+}
