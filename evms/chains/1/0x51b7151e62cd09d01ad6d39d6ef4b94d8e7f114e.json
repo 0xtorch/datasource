@@ -1,0 +1,5 @@
+{
+  "address": "0x51b7151e62cd09d01ad6d39d6ef4b94d8e7f114e",
+  "label": "ETHPrizeMultisender",
+  "abi": "[{\"inputs\":[{\"internalType\":\"uint256\",\"name\":\"_sendingAmount\",\"type\":\"uint256\"},{\"internalType\":\"address[]\",\"name\":\"_addresses\",\"type\":\"address[]\"}],\"name\":\"multisend\",\"outputs\":[],\"stateMutability\":\"payable\",\"type\":\"function\"}]"
+}
