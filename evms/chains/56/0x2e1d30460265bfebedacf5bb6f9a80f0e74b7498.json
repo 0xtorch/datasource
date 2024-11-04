@@ -1,0 +1,5 @@
+{
+  "address": "0x2e1d30460265bfebedacf5bb6f9a80f0e74b7498",
+  "label": "C98MultiSend",
+  "abi": "[{\"constant\":false,\"inputs\":[{\"name\":\"receivers\",\"type\":\"address[]\"},{\"name\":\"amounts\",\"type\":\"uint256[]\"}],\"name\":\"transferMulti\",\"outputs\":[],\"payable\":true,\"stateMutability\":\"payable\",\"type\":\"function\"},{\"constant\":false,\"inputs\":[{\"name\":\"tokenAddress\",\"type\":\"address\"},{\"name\":\"receivers\",\"type\":\"address[]\"},{\"name\":\"amounts\",\"type\":\"uint256[]\"}],\"name\":\"transferMultiToken\",\"outputs\":[],\"payable\":false,\"stateMutability\":\"nonpayable\",\"type\":\"function\"},{\"anonymous\":false,\"inputs\":[{\"indexed\":false,\"name\":\"from\",\"type\":\"address\"},{\"indexed\":false,\"name\":\"to\",\"type\":\"address\"},{\"indexed\":false,\"name\":\"amount\",\"type\":\"uint256\"},{\"indexed\":false,\"name\":\"tokenAddress\",\"type\":\"address\"}],\"name\":\"transfer\",\"type\":\"event\"}]"
+}
