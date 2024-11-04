@@ -1,0 +1,5 @@
+{
+  "address": "0x6d2413e26f723121cc2c355439232154cc56397a",
+  "label": "mvaults",
+  "abi": "[{\"inputs\":[],\"stateMutability\":\"nonpayable\",\"type\":\"constructor\"},{\"stateMutability\":\"payable\",\"type\":\"fallback\"},{\"stateMutability\":\"payable\",\"type\":\"receive\"}]"
+}
