@@ -1,0 +1,5 @@
+{
+  "address": "0xa2cf3c3f2a79a9dd34718e66edd72a8456759d8a",
+  "label": "Purchase",
+  "abi": "[{\"constant\":true,\"inputs\":[],\"name\":\"chest\",\"outputs\":[{\"internalType\":\"contract IChest\",\"name\":\"\",\"type\":\"address\"}],\"payable\":false,\"stateMutability\":\"view\",\"type\":\"function\"},{\"constant\":true,\"inputs\":[],\"name\":\"price\",\"outputs\":[{\"internalType\":\"uint256\",\"name\":\"\",\"type\":\"uint256\"}],\"payable\":false,\"stateMutability\":\"view\",\"type\":\"function\"},{\"constant\":false,\"inputs\":[{\"internalType\":\"address[]\",\"name\":\"users\",\"type\":\"address[]\"},{\"internalType\":\"uint256\",\"name\":\"count\",\"type\":\"uint256\"}],\"name\":\"purchaseFor\",\"outputs\":[],\"payable\":true,\"stateMutability\":\"payable\",\"type\":\"function\"}]"
+}
