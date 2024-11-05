@@ -1075,6 +1075,550 @@
             ]
           }
         ]
+      },
+      {
+        "conditions": [
+          {
+            "value": {
+              "type": "cell",
+              "column": "actionType"
+            },
+            "pattern": "burn"
+          }
+        ],
+        "generators": [
+          {
+            "type": "burn",
+            "source": {
+              "type": "cell",
+              "column": "actionSource"
+            },
+            "timestamp": {
+              "type": "cell",
+              "column": "timestamp"
+            },
+            "comment": {
+              "type": "cell",
+              "column": "comment"
+            },
+            "transfers": [
+              {
+                "target": [
+                  {
+                    "column": "direction",
+                    "pattern": "out"
+                  }
+                ],
+                "direction": "out",
+                "amount": {
+                  "type": "text",
+                  "value": {
+                    "type": "cell",
+                    "column": "amount"
+                  }
+                },
+                "asset": {
+                  "type": "id",
+                  "value": {
+                    "type": "join",
+                    "values": [
+                      {
+                        "type": "cell",
+                        "column": "assetType"
+                      },
+                      "/",
+                      {
+                        "type": "cell",
+                        "column": "assetId"
+                      }
+                    ]
+                  },
+                  "splitter": "/"
+                },
+                "price": {
+                  "type": "cell",
+                  "column": "price"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "conditions": [
+          {
+            "value": {
+              "type": "cell",
+              "column": "actionType"
+            },
+            "pattern": "derivative-fee"
+          }
+        ],
+        "generators": [
+          {
+            "type": "derivative-fee",
+            "source": {
+              "type": "cell",
+              "column": "actionSource"
+            },
+            "timestamp": {
+              "type": "cell",
+              "column": "timestamp"
+            },
+            "comment": {
+              "type": "cell",
+              "column": "comment"
+            },
+            "transfers": [
+              {
+                "target": [
+                  {
+                    "column": "direction",
+                    "pattern": "out"
+                  }
+                ],
+                "direction": "out",
+                "amount": {
+                  "type": "text",
+                  "value": {
+                    "type": "cell",
+                    "column": "amount"
+                  }
+                },
+                "asset": {
+                  "type": "id",
+                  "value": {
+                    "type": "join",
+                    "values": [
+                      {
+                        "type": "cell",
+                        "column": "assetType"
+                      },
+                      "/",
+                      {
+                        "type": "cell",
+                        "column": "assetId"
+                      }
+                    ]
+                  },
+                  "splitter": "/"
+                },
+                "price": {
+                  "type": "cell",
+                  "column": "price"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "conditions": [
+          {
+            "value": {
+              "type": "cell",
+              "column": "actionType"
+            },
+            "pattern": "fee"
+          }
+        ],
+        "generators": [
+          {
+            "type": "fee",
+            "source": {
+              "type": "cell",
+              "column": "actionSource"
+            },
+            "timestamp": {
+              "type": "cell",
+              "column": "timestamp"
+            },
+            "comment": {
+              "type": "cell",
+              "column": "comment"
+            },
+            "transfers": [
+              {
+                "target": [
+                  {
+                    "column": "direction",
+                    "pattern": "out"
+                  }
+                ],
+                "direction": "out",
+                "amount": {
+                  "type": "text",
+                  "value": {
+                    "type": "cell",
+                    "column": "amount"
+                  }
+                },
+                "asset": {
+                  "type": "id",
+                  "value": {
+                    "type": "join",
+                    "values": [
+                      {
+                        "type": "cell",
+                        "column": "assetType"
+                      },
+                      "/",
+                      {
+                        "type": "cell",
+                        "column": "assetId"
+                      }
+                    ]
+                  },
+                  "splitter": "/"
+                },
+                "price": {
+                  "type": "cell",
+                  "column": "price"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "conditions": [
+          {
+            "value": {
+              "type": "cell",
+              "column": "actionType"
+            },
+            "pattern": "interest-fee"
+          }
+        ],
+        "generators": [
+          {
+            "type": "interest-fee",
+            "source": {
+              "type": "cell",
+              "column": "actionSource"
+            },
+            "timestamp": {
+              "type": "cell",
+              "column": "timestamp"
+            },
+            "comment": {
+              "type": "cell",
+              "column": "comment"
+            },
+            "transfers": [
+              {
+                "target": [
+                  {
+                    "column": "direction",
+                    "pattern": "out"
+                  }
+                ],
+                "direction": "out",
+                "amount": {
+                  "type": "text",
+                  "value": {
+                    "type": "cell",
+                    "column": "amount"
+                  }
+                },
+                "asset": {
+                  "type": "id",
+                  "value": {
+                    "type": "join",
+                    "values": [
+                      {
+                        "type": "cell",
+                        "column": "assetType"
+                      },
+                      "/",
+                      {
+                        "type": "cell",
+                        "column": "assetId"
+                      }
+                    ]
+                  },
+                  "splitter": "/"
+                },
+                "price": {
+                  "type": "cell",
+                  "column": "price"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "conditions": [
+          {
+            "value": {
+              "type": "cell",
+              "column": "actionType"
+            },
+            "pattern": "pay"
+          }
+        ],
+        "generators": [
+          {
+            "type": "pay",
+            "source": {
+              "type": "cell",
+              "column": "actionSource"
+            },
+            "timestamp": {
+              "type": "cell",
+              "column": "timestamp"
+            },
+            "comment": {
+              "type": "cell",
+              "column": "comment"
+            },
+            "transfers": [
+              {
+                "target": [
+                  {
+                    "column": "direction",
+                    "pattern": "out"
+                  }
+                ],
+                "direction": "out",
+                "amount": {
+                  "type": "text",
+                  "value": {
+                    "type": "cell",
+                    "column": "amount"
+                  }
+                },
+                "asset": {
+                  "type": "id",
+                  "value": {
+                    "type": "join",
+                    "values": [
+                      {
+                        "type": "cell",
+                        "column": "assetType"
+                      },
+                      "/",
+                      {
+                        "type": "cell",
+                        "column": "assetId"
+                      }
+                    ]
+                  },
+                  "splitter": "/"
+                },
+                "price": {
+                  "type": "cell",
+                  "column": "price"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "conditions": [
+          {
+            "value": {
+              "type": "cell",
+              "column": "actionType"
+            },
+            "pattern": "realize-loss"
+          }
+        ],
+        "generators": [
+          {
+            "type": "realize-loss",
+            "source": {
+              "type": "cell",
+              "column": "actionSource"
+            },
+            "timestamp": {
+              "type": "cell",
+              "column": "timestamp"
+            },
+            "comment": {
+              "type": "cell",
+              "column": "comment"
+            },
+            "transfers": [
+              {
+                "target": [
+                  {
+                    "column": "direction",
+                    "pattern": "out"
+                  }
+                ],
+                "direction": "out",
+                "amount": {
+                  "type": "text",
+                  "value": {
+                    "type": "cell",
+                    "column": "amount"
+                  }
+                },
+                "asset": {
+                  "type": "id",
+                  "value": {
+                    "type": "join",
+                    "values": [
+                      {
+                        "type": "cell",
+                        "column": "assetType"
+                      },
+                      "/",
+                      {
+                        "type": "cell",
+                        "column": "assetId"
+                      }
+                    ]
+                  },
+                  "splitter": "/"
+                },
+                "price": {
+                  "type": "cell",
+                  "column": "price"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "conditions": [
+          {
+            "value": {
+              "type": "cell",
+              "column": "actionType"
+            },
+            "pattern": "stolen"
+          }
+        ],
+        "generators": [
+          {
+            "type": "stolen",
+            "source": {
+              "type": "cell",
+              "column": "actionSource"
+            },
+            "timestamp": {
+              "type": "cell",
+              "column": "timestamp"
+            },
+            "comment": {
+              "type": "cell",
+              "column": "comment"
+            },
+            "transfers": [
+              {
+                "target": [
+                  {
+                    "column": "direction",
+                    "pattern": "out"
+                  }
+                ],
+                "direction": "out",
+                "amount": {
+                  "type": "text",
+                  "value": {
+                    "type": "cell",
+                    "column": "amount"
+                  }
+                },
+                "asset": {
+                  "type": "id",
+                  "value": {
+                    "type": "join",
+                    "values": [
+                      {
+                        "type": "cell",
+                        "column": "assetType"
+                      },
+                      "/",
+                      {
+                        "type": "cell",
+                        "column": "assetId"
+                      }
+                    ]
+                  },
+                  "splitter": "/"
+                },
+                "price": {
+                  "type": "cell",
+                  "column": "price"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "conditions": [
+          {
+            "value": {
+              "type": "cell",
+              "column": "actionType"
+            },
+            "pattern": "transaction-fee"
+          }
+        ],
+        "generators": [
+          {
+            "type": "transaction-fee",
+            "source": {
+              "type": "cell",
+              "column": "actionSource"
+            },
+            "timestamp": {
+              "type": "cell",
+              "column": "timestamp"
+            },
+            "comment": {
+              "type": "cell",
+              "column": "comment"
+            },
+            "transfers": [
+              {
+                "target": [
+                  {
+                    "column": "direction",
+                    "pattern": "out"
+                  }
+                ],
+                "direction": "out",
+                "amount": {
+                  "type": "text",
+                  "value": {
+                    "type": "cell",
+                    "column": "amount"
+                  }
+                },
+                "asset": {
+                  "type": "id",
+                  "value": {
+                    "type": "join",
+                    "values": [
+                      {
+                        "type": "cell",
+                        "column": "assetType"
+                      },
+                      "/",
+                      {
+                        "type": "cell",
+                        "column": "assetId"
+                      }
+                    ]
+                  },
+                  "splitter": "/"
+                },
+                "price": {
+                  "type": "cell",
+                  "column": "price"
+                }
+              }
+            ]
+          }
+        ]
       }
     ]
   }
