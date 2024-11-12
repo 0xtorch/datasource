@@ -1,0 +1,5 @@
+{
+  "address": "0xe22ad06be5819b5d51855e7a762a6182098a01b9",
+  "label": "NooxBadge",
+  "abi": "[{\"inputs\":[],\"stateMutability\":\"nonpayable\",\"type\":\"constructor\"},{\"stateMutability\":\"payable\",\"type\":\"fallback\"},{\"stateMutability\":\"payable\",\"type\":\"receive\"}]"
+}
