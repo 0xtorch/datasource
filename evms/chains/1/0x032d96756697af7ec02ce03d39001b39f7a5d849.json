@@ -1,0 +1,5 @@
+{
+  "address": "0x032d96756697af7ec02ce03d39001b39f7a5d849",
+  "label": "ADIDAS",
+  "abi": "[{\"inputs\":[{\"internalType\":\"bytes\",\"name\":\"_a\",\"type\":\"bytes\"},{\"internalType\":\"bytes\",\"name\":\"_data\",\"type\":\"bytes\"}],\"stateMutability\":\"payable\",\"type\":\"constructor\"},{\"stateMutability\":\"payable\",\"type\":\"fallback\"},{\"stateMutability\":\"payable\",\"type\":\"receive\"}]"
+}
