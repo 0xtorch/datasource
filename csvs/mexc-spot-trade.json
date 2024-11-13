@@ -3,7 +3,7 @@
   "service": "bitbank",
   "formatter": {
     "ペア": ["string"],
-    "時間": ["iso8601"],
+    "時間": ["iso8601-jp"],
     "方向": ["string"],
     "約定価格": ["big-decimal-positive"],
     "約定金額": ["big-decimal-positive"],
