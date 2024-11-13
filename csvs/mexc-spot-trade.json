@@ -1,6 +1,6 @@
 {
-  "id": "bitbank-spot-trade",
-  "service": "bitbank",
+  "id": "mexc-spot-trade",
+  "service": "mexc",
   "formatter": {
     "ペア": ["string"],
     "時間": ["iso8601-jp"],
