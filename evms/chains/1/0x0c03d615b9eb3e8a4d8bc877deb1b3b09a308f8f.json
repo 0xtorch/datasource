@@ -1,0 +1,5 @@
+{
+  "address": "0x0c03d615b9eb3e8a4d8bc877deb1b3b09a308f8f",
+  "label": "Lock",
+  "abi": "[{\"inputs\":[{\"internalType\":\"address\",\"name\":\"owner\",\"type\":\"address\"},{\"internalType\":\"uint256\",\"name\":\"unlockTime\",\"type\":\"uint256\"}],\"payable\":true,\"stateMutability\":\"payable\",\"type\":\"constructor\"},{\"payable\":true,\"stateMutability\":\"payable\",\"type\":\"fallback\"}]"
+}
