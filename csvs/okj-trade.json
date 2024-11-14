@@ -1,0 +1,156 @@
+{
+  "id": "okj-trade",
+  "service": "okj",
+  "formatter": {
+    "注文ID": ["string"],
+    "日時": ["datetime-jp"],
+    "通貨": ["string"],
+    "取引内容": ["string"],
+    "約定数量": ["big-decimal"],
+    "手数料": ["big-decimal"]
+  },
+  "parser": {
+    "key": ["注文ID"],
+    "parsers": [
+      {
+        "conditions": [
+          {
+            "value": {
+              "type": "cell",
+              "column": "取引内容"
+            },
+            "pattern": {
+              "type": "in",
+              "values": ["購入", "売却"]
+            }
+          }
+        ],
+        "generators": [
+          {
+            "type": "trade",
+            "source": {
+              "type": "join",
+              "values": [
+                { "type": "service" },
+                "_trade_",
+                {
+                  "type": "cell",
+                  "column": "注文ID"
+                }
+              ]
+            },
+            "timestamp": {
+              "type": "cell",
+              "column": "日時"
+            },
+            "transfers": [
+              {
+                "target": [
+                  {
+                    "column": "約定数量",
+                    "pattern": {
+                      "type": "positive"
+                    }
+                  }
+                ],
+                "direction": "in",
+                "amount": {
+                  "type": "text",
+                  "value": {
+                    "type": "cell",
+                    "column": "約定数量"
+                  }
+                },
+                "asset": {
+                  "type": "symbol",
+                  "value": {
+                    "type": "cell",
+                    "column": "通貨"
+                  }
+                }
+              },
+              {
+                "target": [
+                  {
+                    "column": "手数料",
+                    "pattern": {
+                      "type": "positive"
+                    }
+                  }
+                ],
+                "direction": "in",
+                "amount": {
+                  "type": "text",
+                  "value": {
+                    "type": "cell",
+                    "column": "手数料"
+                  }
+                },
+                "asset": {
+                  "type": "symbol",
+                  "value": {
+                    "type": "cell",
+                    "column": "通貨"
+                  }
+                }
+              },
+              {
+                "target": [
+                  {
+                    "column": "約定数量",
+                    "pattern": {
+                      "type": "negative"
+                    }
+                  }
+                ],
+                "direction": "out",
+                "amount": {
+                  "type": "text",
+                  "value": {
+                    "type": "cell",
+                    "column": "約定数量"
+                  }
+                },
+                "asset": {
+                  "type": "symbol",
+                  "value": {
+                    "type": "cell",
+                    "column": "通貨"
+                  }
+                }
+              },
+              {
+                "target": [
+                  {
+                    "column": "手数料",
+                    "pattern": {
+                      "type": "negative"
+                    }
+                  }
+                ],
+                "direction": "out",
+                "amount": {
+                  "type": "text",
+                  "value": {
+                    "type": "cell",
+                    "column": "手数料"
+                  }
+                },
+                "asset": {
+                  "type": "symbol",
+                  "value": {
+                    "type": "cell",
+                    "column": "通貨"
+                  }
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "symbolAssetMap": {
+    "POL": "crypto/matic-network"
+  }
+}
