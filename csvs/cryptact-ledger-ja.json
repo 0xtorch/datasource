@@ -588,5 +588,9 @@
         ]
       }
     ]
+  },
+  "symbolAssetMap": {
+    "MONA": "crypto/monacoin",
+    "RNDR": "crypto/render-token"
   }
 }
