@@ -84,7 +84,9 @@ export const createEvmAnalyzerByTransaction = async () => {
     createPolygonPosChain({
       explorerApiKey: process.env.POLYGON_API_KEY,
     }),
-    createRoninChain(),
+    createRoninChain({
+      explorerApiKey: process.env.RONIN_API_KEY,
+    }),
     createScrollChain({
       explorerApiKey: process.env.SCROLL_API_KEY,
       explorerPageSize: 1000,

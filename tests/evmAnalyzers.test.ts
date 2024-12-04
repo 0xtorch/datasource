@@ -78,7 +78,9 @@ const chains = [
   createPolygonPosChain({
     explorerApiKey: '',
   }),
-  createRoninChain(),
+  createRoninChain({
+    explorerApiKey: '',
+  }),
   createScrollChain({ explorerApiKey: '', explorerPageSize: 1000 }),
   createZkFairChain({}),
   createZkSyncEraChain({ explorerApiKey: '' }),
