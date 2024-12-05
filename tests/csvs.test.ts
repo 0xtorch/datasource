@@ -12,6 +12,7 @@ import {
   cryptoCurrencySchema,
   eur,
   jpy,
+  stringify,
   usd,
 } from '@0xtorch/core'
 
@@ -62,7 +63,9 @@ describe('Should valid csv format json', async () => {
         cryptoes,
         fiats: [usd, eur, jpy],
       })
-
+      if (filename.includes('mexc-future-ja-jst')) {
+        console.log(stringify(parsed))
+      }
       expect(parsed).toEqual(actions)
     })
   }
