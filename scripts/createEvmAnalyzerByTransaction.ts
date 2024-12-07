@@ -41,58 +41,60 @@ import { z } from 'zod'
 export const createEvmAnalyzerByTransaction = async () => {
   const chains = [
     createArbitrumOneChain({
-      explorerApiKey: process.env.ARBITRUM_API_KEY,
+      explorerApiKey: process.env.ARBITRUM_API_KEY ?? '',
     }),
     createAstarChain({}),
     createAstarZkEvmChain({}),
     createAvalancheCChain({
-      explorerApiKey: process.env.AVALANCHE_API_KEY,
+      explorerApiKey: process.env.AVALANCHE_API_KEY ?? '',
     }),
     createBaseChain({
-      explorerApiKey: process.env.BASE_API_KEY,
+      explorerApiKey: process.env.BASE_API_KEY ?? '',
     }),
     createBscChain({
-      explorerApiKey: process.env.BSC_API_KEY,
+      explorerApiKey: process.env.BSC_API_KEY ?? '',
     }),
     createBlastChain({
-      explorerApiKey: process.env.BLAST_API_KEY,
+      explorerApiKey: process.env.BLAST_API_KEY ?? '',
     }),
     createEthereumChain({
-      explorerApiKey: process.env.ETHEREUM_API_KEY,
+      explorerApiKey: process.env.ETHEREUM_API_KEY ?? '',
     }),
     createFantomChain({
-      explorerApiKey: process.env.FANTOM_API_KEY,
+      explorerApiKey: process.env.FANTOM_API_KEY ?? '',
     }),
     createLineaChain({
-      explorerApiKey: process.env.LINEA_API_KEY,
+      explorerApiKey: process.env.LINEA_API_KEY ?? '',
     }),
     createMantaPacificChain({}),
     createMantleChain({
-      explorerApiKey: process.env.MANTLE_API_KEY,
+      explorerApiKey: process.env.MANTLE_API_KEY ?? '',
     }),
     createMetisChain({}),
     createMoonbeamChain({
-      explorerApiKey: process.env.MOONBEAM_API_KEY,
+      explorerApiKey: process.env.MOONBEAM_API_KEY ?? '',
     }),
     createMoonriverChain({
-      explorerApiKey: process.env.MOONRIVER_API_KEY,
+      explorerApiKey: process.env.MOONRIVER_API_KEY ?? '',
     }),
     createOasysChain({}),
     createOptimismChain({
-      explorerApiKey: process.env.OPTIMISM_API_KEY,
+      explorerApiKey: process.env.OPTIMISM_API_KEY ?? '',
     }),
     createPolygonPosChain({
-      explorerApiKey: process.env.POLYGON_API_KEY,
+      explorerApiKey: process.env.POLYGON_API_KEY ?? '',
     }),
     createRoninChain({
-      explorerApiKey: process.env.RONIN_API_KEY,
+      explorerApiKey: process.env.RONIN_API_KEY ?? '',
     }),
     createScrollChain({
-      explorerApiKey: process.env.SCROLL_API_KEY,
+      explorerApiKey: process.env.SCROLL_API_KEY ?? '',
       explorerPageSize: 1000,
     }),
     createZkFairChain({}),
-    createZkSyncEraChain({ explorerApiKey: process.env.ZKSYNC_API_KEY }),
+    createZkSyncEraChain({
+      explorerApiKey: process.env.ZKSYNC_API_KEY ?? '',
+    }),
     createZoraChain({}),
   ]
 
