@@ -1,0 +1,285 @@
+{
+  "blockNumber": 110744129,
+  "chainId": 10,
+  "effectiveGasPrice": "116543051",
+  "erc20Transfers": [
+    {
+      "address": "0x94b008aa00579c1307b0ef2c499ad98a8ce58e58",
+      "logIndex": 7,
+      "from": "0x856cb5c3cbbe9e2e21293a644aa1f9363cee11e8",
+      "to": "0x6722846282868a9c084b423aee79eb8ff69fc497",
+      "value": "4985716234",
+      "token": {
+        "address": "0x94b008aa00579c1307b0ef2c499ad98a8ce58e58",
+        "name": "",
+        "symbol": "",
+        "decimals": 0,
+        "currency": {
+          "type": "CryptoCurrency",
+          "id": "evm_10_0x94b008aa00579c1307b0ef2c499ad98a8ce58e58",
+          "name": "",
+          "symbol": "",
+          "updatedAt": 0
+        }
+      }
+    }
+  ],
+  "erc721Transfers": [],
+  "erc1155Transfers": [],
+  "from": {
+    "chainId": 10,
+    "address": "0x4fb5df81b644e3bd5ad0ba07dce2b67559c764e0"
+  },
+  "gasUsed": "216275",
+  "hash": "0x5c97333df6a1f4937d122d6eaef9dd3cce3b4d87f04dd904137fc694b60adcbd",
+  "input": "0x316182a300000000000000000000000094b008aa00579c1307b0ef2c499ad98a8ce58e580000000000000000000000000000000000000000000000000000000129830ff60000000000000000000000006722846282868a9c084b423aee79eb8ff69fc49700000000000000000000000000000000000000000000000000000000000000e0000000000000000000000000000000000000000000000000e47a354eb6fca00000000000000000000000000000000000000000000000000000000000000000380000000000000000000000000000000000000000000000000000000000006c7a0000000000000000000000000000000000000000000000000000000000000020d12828ce788fa17ac46c23dd66304a901a153511c99c89cfda3f7430b3819fdf",
+  "internalTransactions": [],
+  "logs": [
+    {
+      "address": "0xb4778f5aefeb4605ed96e893417271d4a55e32ee",
+      "data": "0x",
+      "logIndex": 4,
+      "topics": [
+        "0xbf2b46285c2ba2766660d9f8cfafdb8abd51bbba1f29c584b7dd34ecf853dd4c",
+        "0x00000000000000000000000094b008aa00579c1307b0ef2c499ad98a8ce58e58",
+        "0x0000000000000000000000000000000000000000000000000000000000391f4e"
+      ],
+      "transactionHash": "0x5c97333df6a1f4937d122d6eaef9dd3cce3b4d87f04dd904137fc694b60adcbd",
+      "eventName": "FeeAdded",
+      "args": [
+        {
+          "indexed": true,
+          "name": "tokenAddress",
+          "type": "address",
+          "value": "0x94b008aA00579c1307B0EF2c499aD98a8ce58e58"
+        },
+        {
+          "indexed": true,
+          "name": "fee",
+          "type": "uint256",
+          "value": "3743566"
+        }
+      ]
+    },
+    {
+      "address": "0x856cb5c3cbbe9e2e21293a644aa1f9363cee11e8",
+      "data": "0x0000000000000000000000000000000000000000000000000000000000006c7a0000000000000000000000000000000000000000000000000000000000011aa3",
+      "logIndex": 5,
+      "topics": [
+        "0x9b36696d0f99bcef3d9db526d18d2e13abee9741727d7d21128c6079d985c2e1",
+        "0x0000000000000000000000000000000000000000000000000000000000038bb2",
+        "0x0000000000000000000000000000000000000000000000000000000006f24e4b",
+        "0x000000000000000000000000000000000000000000000000e47a354eb6fca000"
+      ],
+      "transactionHash": "0x5c97333df6a1f4937d122d6eaef9dd3cce3b4d87f04dd904137fc694b60adcbd",
+      "eventName": "GasFeeCalculated",
+      "args": [
+        {
+          "indexed": true,
+          "name": "gasUsed",
+          "type": "uint256",
+          "value": "232370"
+        },
+        {
+          "indexed": true,
+          "name": "gasPrice",
+          "type": "uint256",
+          "value": "116543051"
+        },
+        {
+          "indexed": true,
+          "name": "nativeTokenPriceInTransferredToken",
+          "type": "uint256",
+          "value": "16463530000000000000"
+        },
+        {
+          "indexed": false,
+          "name": "tokenGasBaseFee",
+          "type": "uint256",
+          "value": "27770"
+        },
+        {
+          "indexed": false,
+          "name": "gasFeeInTransferredToken",
+          "type": "uint256",
+          "value": "72355"
+        }
+      ]
+    },
+    {
+      "address": "0xb4778f5aefeb4605ed96e893417271d4a55e32ee",
+      "data": "0x",
+      "logIndex": 6,
+      "topics": [
+        "0xf28044030a28cf7d3fb8e8f7bbaa42aee92214081fd522b3a38afb279577db89",
+        "0x00000000000000000000000094b008aa00579c1307b0ef2c499ad98a8ce58e58",
+        "0x00000000000000000000000000000000000000000000000000000004660ee044"
+      ],
+      "transactionHash": "0x5c97333df6a1f4937d122d6eaef9dd3cce3b4d87f04dd904137fc694b60adcbd",
+      "eventName": "CurrentLiquidityChanged",
+      "args": [
+        {
+          "indexed": true,
+          "name": "token",
+          "type": "address",
+          "value": "0x94b008aA00579c1307B0EF2c499aD98a8ce58e58"
+        },
+        {
+          "indexed": true,
+          "name": "newValue",
+          "type": "uint256",
+          "value": "18892120132"
+        }
+      ]
+    },
+    {
+      "address": "0x94b008aa00579c1307b0ef2c499ad98a8ce58e58",
+      "data": "0x00000000000000000000000000000000000000000000000000000001292bfe0a",
+      "logIndex": 7,
+      "topics": [
+        "0xddf252ad1be2c89b69c2b068fc378daa952ba7f163c4a11628f55a4df523b3ef",
+        "0x000000000000000000000000856cb5c3cbbe9e2e21293a644aa1f9363cee11e8",
+        "0x0000000000000000000000006722846282868a9c084b423aee79eb8ff69fc497"
+      ],
+      "transactionHash": "0x5c97333df6a1f4937d122d6eaef9dd3cce3b4d87f04dd904137fc694b60adcbd",
+      "eventName": "Transfer",
+      "args": [
+        {
+          "indexed": true,
+          "name": "from",
+          "type": "address",
+          "value": "0x856cb5c3cbbe9e2e21293a644aa1f9363cee11e8"
+        },
+        {
+          "indexed": true,
+          "name": "to",
+          "type": "address",
+          "value": "0x6722846282868a9c084b423aee79eb8ff69fc497"
+        },
+        {
+          "indexed": false,
+          "name": "value",
+          "type": "uint256",
+          "value": "4985716234"
+        }
+      ]
+    },
+    {
+      "address": "0x856cb5c3cbbe9e2e21293a644aa1f9363cee11e8",
+      "data": "0x0000000000000000000000006722846282868a9c084b423aee79eb8ff69fc49700000000000000000000000000000000000000000000000000000000000000c000000000000000000000000000000000000000000000000000000000000000380000000000000000000000000000000000000000000000000000000000391f4e000000000000000000000000000000000000000000000000000000000055f7490000000000000000000000000000000000000000000000000000000000011aa30000000000000000000000000000000000000000000000000000000000000020d12828ce788fa17ac46c23dd66304a901a153511c99c89cfda3f7430b3819fdf",
+      "logIndex": 8,
+      "topics": [
+        "0x6bfd5ee5792d66b151a3fab9f56ee828a0f1c3216d4b752e267cd5590326b15c",
+        "0x00000000000000000000000094b008aa00579c1307b0ef2c499ad98a8ce58e58",
+        "0x0000000000000000000000000000000000000000000000000000000129830ff6",
+        "0x00000000000000000000000000000000000000000000000000000001292bfe0a"
+      ],
+      "transactionHash": "0x5c97333df6a1f4937d122d6eaef9dd3cce3b4d87f04dd904137fc694b60adcbd",
+      "eventName": "AssetSent",
+      "args": [
+        {
+          "indexed": true,
+          "name": "asset",
+          "type": "address",
+          "value": "0x94b008aA00579c1307B0EF2c499aD98a8ce58e58"
+        },
+        {
+          "indexed": true,
+          "name": "amount",
+          "type": "uint256",
+          "value": "4991422454"
+        },
+        {
+          "indexed": true,
+          "name": "transferredAmount",
+          "type": "uint256",
+          "value": "4985716234"
+        },
+        {
+          "indexed": false,
+          "name": "target",
+          "type": "address",
+          "value": "0x6722846282868A9c084b423AeE79eB8FF69fC497"
+        },
+        {
+          "indexed": false,
+          "name": "depositHash",
+          "type": "bytes",
+          "value": "0xd12828ce788fa17ac46c23dd66304a901a153511c99c89cfda3f7430b3819fdf"
+        },
+        {
+          "indexed": false,
+          "name": "fromChainId",
+          "type": "uint256",
+          "value": "56"
+        },
+        {
+          "indexed": false,
+          "name": "lpFee",
+          "type": "uint256",
+          "value": "3743566"
+        },
+        {
+          "indexed": false,
+          "name": "transferFee",
+          "type": "uint256",
+          "value": "5633865"
+        },
+        {
+          "indexed": false,
+          "name": "gasFee",
+          "type": "uint256",
+          "value": "72355"
+        }
+      ]
+    }
+  ],
+  "status": "success",
+  "timestamp": 1697087035000,
+  "to": {
+    "chainId": 10,
+    "address": "0x856cb5c3cbbe9e2e21293a644aa1f9363cee11e8"
+  },
+  "value": "0",
+  "function": {
+    "args": [
+      {
+        "type": "address",
+        "name": "tokenAddress",
+        "value": "0x94b008aA00579c1307B0EF2c499aD98a8ce58e58"
+      },
+      {
+        "type": "uint256",
+        "name": "amount",
+        "value": "4991422454"
+      },
+      {
+        "type": "address",
+        "name": "receiver",
+        "value": "0x6722846282868A9c084b423AeE79eB8FF69fC497"
+      },
+      {
+        "type": "bytes",
+        "name": "depositHash",
+        "value": "0xd12828ce788fa17ac46c23dd66304a901a153511c99c89cfda3f7430b3819fdf"
+      },
+      {
+        "type": "uint256",
+        "name": "nativeTokenPriceInTransferredToken",
+        "value": "16463530000000000000"
+      },
+      {
+        "type": "uint256",
+        "name": "fromChainId",
+        "value": "56"
+      },
+      {
+        "type": "uint256",
+        "name": "tokenGasBaseFee",
+        "value": "27770"
+      }
+    ],
+    "name": "sendFundsToUserV2",
+    "interface": "sendFundsToUserV2(address, uint256, address, bytes, uint256, uint256, uint256)"
+  }
+}
