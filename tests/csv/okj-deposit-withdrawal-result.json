@@ -1,0 +1,27 @@
+[
+  {
+    "source": "okj-deposit-withdrawal_withdrawal_26410180",
+    "order": 0,
+    "type": "fee",
+    "timestamp": 1723628850000,
+    "evidence": "system-rule",
+    "transfers": [
+      {
+        "direction": "out",
+        "asset": {
+          "type": "CryptoCurrency",
+          "id": "polygon-ecosystem-token",
+          "name": "POL (ex-MATIC)",
+          "symbol": "pol",
+          "icon": "https://coin-images.coingecko.com/coins/images/32440/large/polygon.png?1698233684",
+          "market": {
+            "coingeckoId": "polygon-ecosystem-token",
+            "marketCapUsd": 2808398709
+          },
+          "updatedAt": 1728782536762
+        },
+        "amount": "0.5"
+      }
+    ]
+  }
+]
