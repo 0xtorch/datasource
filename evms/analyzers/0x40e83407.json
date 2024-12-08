@@ -1,0 +1,83 @@
+[
+  {
+    "example": {
+      "chainId": 56,
+      "hash": "0xd12828ce788fa17ac46c23dd66304a901a153511c99c89cfda3f7430b3819fdf",
+      "addresses": ["0x6722846282868a9c084b423aee79eb8ff69fc497"]
+    },
+    "condition": {
+      "related": {
+        "type": "array-in",
+        "values": [
+          {
+            "type": "from"
+          }
+        ]
+      },
+      "value": {
+        "type": "between",
+        "max": "0"
+      },
+      "function": {
+        "id": "0x40e83407",
+        "interface": "hyphenBridge(tuple, tuple)"
+      },
+      "logs": {
+        "type": "some",
+        "patterns": [
+          {
+            "signature": "0xddf252ad1be2c89b69c2b068fc378daa952ba7f163c4a11628f55a4df523b3ef",
+            "indexedCount": 2,
+            "count": {
+              "type": "between",
+              "min": "1"
+            }
+          },
+          {
+            "signature": "0x522e11fa05593b306c8df10d2b0b8e01eec48f9d0a9427a7a93f21ff90d66fb1",
+            "indexedCount": 3,
+            "count": {
+              "type": "between",
+              "min": "1",
+              "max": "1"
+            }
+          }
+        ]
+      }
+    },
+    "generators": [
+      {
+        "type": "bridge-from",
+        "crossId": {
+          "type": "join",
+          "values": [
+            "biconomy_",
+            {
+              "type": "tx-hash"
+            }
+          ]
+        },
+        "crossType": "start",
+        "transfers": [
+          {
+            "type": "erc20",
+            "direction": "out",
+            "from": {
+              "type": "array-in",
+              "values": ["related"]
+            },
+            "to": {
+              "type": "array-in",
+              "not": true,
+              "values": ["related"]
+            },
+            "amount": {
+              "type": "between",
+              "min": "1"
+            }
+          }
+        ]
+      }
+    ]
+  }
+]

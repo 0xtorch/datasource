@@ -1,0 +1,123 @@
+[
+  {
+    "example": {
+      "chainId": 10,
+      "hash": "0x2db31f34cdffc0f0a66e3d0c2396fd4e472fa287771dcb1f7a6f30c65fc2b435",
+      "addresses": ["0x6722846282868a9c084b423aee79eb8ff69fc497"]
+    },
+    "condition": {
+      "related": {
+        "type": "array-in",
+        "values": [
+          {
+            "type": "from"
+          }
+        ]
+      },
+      "value": {
+        "type": "between",
+        "max": "0"
+      },
+      "function": {
+        "id": "0xb17d0e6e",
+        "interface": "onChainSwaps(tuple, tuple[], bool, address)"
+      },
+      "logs": {
+        "type": "some",
+        "patterns": [
+          {
+            "signature": "0xddf252ad1be2c89b69c2b068fc378daa952ba7f163c4a11628f55a4df523b3ef",
+            "indexedCount": 2,
+            "count": {
+              "type": "between",
+              "min": "2"
+            }
+          },
+          {
+            "signature": "0xc9ca33b4e1816939874cee596ae23410b4f3b26f345e8a93d5779a213ed5ab87",
+            "indexedCount": 2,
+            "count": {
+              "type": "between",
+              "min": "1"
+            }
+          }
+        ]
+      }
+    },
+    "generators": [
+      {
+        "type": "trade",
+        "transfers": [
+          {
+            "type": "value",
+            "direction": "out",
+            "from": {
+              "type": "array-in",
+              "values": ["related"]
+            },
+            "to": {
+              "type": "array-in",
+              "not": true,
+              "values": ["related"]
+            },
+            "value": {
+              "type": "between",
+              "min": "1"
+            }
+          },
+          {
+            "type": "internal",
+            "direction": "in",
+            "from": {
+              "type": "array-in",
+              "not": true,
+              "values": ["related"]
+            },
+            "to": {
+              "type": "array-in",
+              "values": ["related"]
+            },
+            "value": {
+              "type": "between",
+              "min": "1"
+            }
+          },
+          {
+            "type": "erc20",
+            "direction": "in",
+            "from": {
+              "type": "array-in",
+              "not": true,
+              "values": ["related"]
+            },
+            "to": {
+              "type": "array-in",
+              "values": ["related"]
+            },
+            "amount": {
+              "type": "between",
+              "min": "1"
+            }
+          },
+          {
+            "type": "erc20",
+            "direction": "out",
+            "from": {
+              "type": "array-in",
+              "values": ["related"]
+            },
+            "to": {
+              "type": "array-in",
+              "not": true,
+              "values": ["related"]
+            },
+            "amount": {
+              "type": "between",
+              "min": "1"
+            }
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,89 @@
+[
+  {
+    "example": {
+      "chainId": 10,
+      "hash": "0x5c97333df6a1f4937d122d6eaef9dd3cce3b4d87f04dd904137fc694b60adcbd",
+      "addresses": ["0x6722846282868a9c084b423aee79eb8ff69fc497"]
+    },
+    "condition": {
+      "related": {
+        "type": "array-in",
+        "not": true,
+        "values": [
+          {
+            "type": "from"
+          }
+        ]
+      },
+      "value": {
+        "type": "between",
+        "max": "0"
+      },
+      "function": {
+        "id": "0x316182a3",
+        "interface": "sendFundsToUserV2(address, uint256, address, bytes, uint256, uint256, uint256)"
+      },
+      "logs": {
+        "type": "some",
+        "patterns": [
+          {
+            "signature": "0xddf252ad1be2c89b69c2b068fc378daa952ba7f163c4a11628f55a4df523b3ef",
+            "indexedCount": 2,
+            "count": {
+              "type": "between",
+              "min": "1",
+              "max": "1"
+            }
+          },
+          {
+            "signature": "0x6bfd5ee5792d66b151a3fab9f56ee828a0f1c3216d4b752e267cd5590326b15c",
+            "indexedCount": 3,
+            "count": {
+              "type": "between",
+              "min": "1",
+              "max": "1"
+            }
+          }
+        ]
+      }
+    },
+    "generators": [
+      {
+        "type": "bridge-to",
+        "crossId": {
+          "type": "join",
+          "values": [
+            "biconomy_",
+            {
+              "type": "log",
+              "signature": "0x6bfd5ee5792d66b151a3fab9f56ee828a0f1c3216d4b752e267cd5590326b15c",
+              "indexedCount": 3,
+              "index": 0,
+              "value": 4
+            }
+          ]
+        },
+        "crossType": "end",
+        "transfers": [
+          {
+            "type": "erc20",
+            "direction": "in",
+            "from": {
+              "type": "array-in",
+              "not": true,
+              "values": ["related"]
+            },
+            "to": {
+              "type": "array-in",
+              "values": ["related"]
+            },
+            "amount": {
+              "type": "between",
+              "min": "1"
+            }
+          }
+        ]
+      }
+    ]
+  }
+]
