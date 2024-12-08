@@ -60,10 +60,15 @@
         "direction": "out",
         "asset": {
           "type": "CryptoCurrency",
-          "id": "matic-network",
-          "name": "matic-network",
-          "symbol": "MATIC-NETWORK",
-          "updatedAt": 0
+          "id": "polygon-ecosystem-token",
+          "name": "POL (ex-MATIC)",
+          "symbol": "pol",
+          "icon": "https://coin-images.coingecko.com/coins/images/32440/large/polygon.png?1698233684",
+          "market": {
+            "coingeckoId": "polygon-ecosystem-token",
+            "marketCapUsd": 2808398709
+          },
+          "updatedAt": 1728782536762
         },
         "amount": "234.079975"
       },
@@ -71,10 +76,15 @@
         "direction": "out",
         "asset": {
           "type": "CryptoCurrency",
-          "id": "matic-network",
-          "name": "matic-network",
-          "symbol": "MATIC-NETWORK",
-          "updatedAt": 0
+          "id": "polygon-ecosystem-token",
+          "name": "POL (ex-MATIC)",
+          "symbol": "pol",
+          "icon": "https://coin-images.coingecko.com/coins/images/32440/large/polygon.png?1698233684",
+          "market": {
+            "coingeckoId": "polygon-ecosystem-token",
+            "marketCapUsd": 2808398709
+          },
+          "updatedAt": 1728782536762
         },
         "amount": "305.369232"
       },
@@ -82,10 +92,15 @@
         "direction": "out",
         "asset": {
           "type": "CryptoCurrency",
-          "id": "matic-network",
-          "name": "matic-network",
-          "symbol": "MATIC-NETWORK",
-          "updatedAt": 0
+          "id": "polygon-ecosystem-token",
+          "name": "POL (ex-MATIC)",
+          "symbol": "pol",
+          "icon": "https://coin-images.coingecko.com/coins/images/32440/large/polygon.png?1698233684",
+          "market": {
+            "coingeckoId": "polygon-ecosystem-token",
+            "marketCapUsd": 2808398709
+          },
+          "updatedAt": 1728782536762
         },
         "amount": "970.839942"
       },
@@ -93,10 +108,15 @@
         "direction": "out",
         "asset": {
           "type": "CryptoCurrency",
-          "id": "matic-network",
-          "name": "matic-network",
-          "symbol": "MATIC-NETWORK",
-          "updatedAt": 0
+          "id": "polygon-ecosystem-token",
+          "name": "POL (ex-MATIC)",
+          "symbol": "pol",
+          "icon": "https://coin-images.coingecko.com/coins/images/32440/large/polygon.png?1698233684",
+          "market": {
+            "coingeckoId": "polygon-ecosystem-token",
+            "marketCapUsd": 2808398709
+          },
+          "updatedAt": 1728782536762
         },
         "amount": "286.08222"
       },
@@ -104,10 +124,15 @@
         "direction": "out",
         "asset": {
           "type": "CryptoCurrency",
-          "id": "matic-network",
-          "name": "matic-network",
-          "symbol": "MATIC-NETWORK",
-          "updatedAt": 0
+          "id": "polygon-ecosystem-token",
+          "name": "POL (ex-MATIC)",
+          "symbol": "pol",
+          "icon": "https://coin-images.coingecko.com/coins/images/32440/large/polygon.png?1698233684",
+          "market": {
+            "coingeckoId": "polygon-ecosystem-token",
+            "marketCapUsd": 2808398709
+          },
+          "updatedAt": 1728782536762
         },
         "amount": "360.810375"
       },
