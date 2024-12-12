@@ -1,0 +1,5 @@
+{
+  "address": "0xa4ec584057aca1937b362bcd52d0065edf6c1240",
+  "label": "VoxelsWearableAirdropBatch",
+  "abi": "[{\"anonymous\":false,\"inputs\":[{\"indexed\":false,\"internalType\":\"address\",\"name\":\"from\",\"type\":\"address\"},{\"indexed\":false,\"internalType\":\"address\",\"name\":\"NftContract\",\"type\":\"address\"},{\"indexed\":false,\"internalType\":\"uint256\",\"name\":\"totalNumber\",\"type\":\"uint256\"}],\"name\":\"Airdrop1155\",\"type\":\"event\"},{\"inputs\":[{\"internalType\":\"address\",\"name\":\"from\",\"type\":\"address\"},{\"internalType\":\"address\",\"name\":\"batchContractAddress\",\"type\":\"address\"},{\"internalType\":\"uint256[]\",\"name\":\"tokenIdSet\",\"type\":\"uint256[]\"},{\"internalType\":\"address[]\",\"name\":\"receivers\",\"type\":\"address[]\"},{\"internalType\":\"uint256\",\"name\":\"perDrop\",\"type\":\"uint256\"}],\"name\":\"ERC1155AirdropBatch\",\"outputs\":[],\"stateMutability\":\"nonpayable\",\"type\":\"function\"}]"
+}
