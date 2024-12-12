@@ -1,0 +1,5 @@
+{
+  "address": "0x0322a0441c5663280d0443b34bc4b4c477d6d29f",
+  "label": "ExecAccountingFacet",
+  "abi": "[{\"anonymous\":false,\"inputs\":[{\"indexed\":false,\"internalType\":\"uint256\",\"name\":\"oldMaxPriorityFee\",\"type\":\"uint256\"},{\"indexed\":false,\"internalType\":\"uint256\",\"name\":\"newMaxPriorityFee\",\"type\":\"uint256\"}],\"name\":\"LogSetMaxPriorityFee\",\"type\":\"event\"},{\"inputs\":[],\"name\":\"maxPriorityFee\",\"outputs\":[{\"internalType\":\"uint256\",\"name\":\"\",\"type\":\"uint256\"}],\"stateMutability\":\"view\",\"type\":\"function\"},{\"inputs\":[{\"internalType\":\"uint256\",\"name\":\"_maxPriorityFee\",\"type\":\"uint256\"}],\"name\":\"setMaxPriorityFee\",\"outputs\":[],\"stateMutability\":\"nonpayable\",\"type\":\"function\"}]"
+}

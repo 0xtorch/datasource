@@ -1,0 +1,5 @@
+{
+  "address": "0x4f43aad55a21bb8661147208d61fb96ce0467f66",
+  "label": "CreditTokenFacet",
+  "abi": "[{\"inputs\":[{\"internalType\":\"address[]\",\"name\":\"_creditTokens\",\"type\":\"address[]\"}],\"name\":\"addCreditTokens\",\"outputs\":[],\"stateMutability\":\"nonpayable\",\"type\":\"function\"},{\"inputs\":[],\"name\":\"creditTokens\",\"outputs\":[{\"internalType\":\"address[]\",\"name\":\"\",\"type\":\"address[]\"}],\"stateMutability\":\"view\",\"type\":\"function\"},{\"inputs\":[{\"internalType\":\"address\",\"name\":\"_creditToken\",\"type\":\"address\"}],\"name\":\"isCreditToken\",\"outputs\":[{\"internalType\":\"bool\",\"name\":\"\",\"type\":\"bool\"}],\"stateMutability\":\"view\",\"type\":\"function\"},{\"inputs\":[],\"name\":\"numberOfCreditTokens\",\"outputs\":[{\"internalType\":\"uint256\",\"name\":\"\",\"type\":\"uint256\"}],\"stateMutability\":\"view\",\"type\":\"function\"},{\"inputs\":[{\"internalType\":\"address[]\",\"name\":\"_creditTokens\",\"type\":\"address[]\"}],\"name\":\"removeCreditTokens\",\"outputs\":[],\"stateMutability\":\"nonpayable\",\"type\":\"function\"}]"
+}
