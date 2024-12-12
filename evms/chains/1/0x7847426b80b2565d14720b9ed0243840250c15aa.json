@@ -1,0 +1,5 @@
+{
+  "address": "0x7847426b80b2565d14720b9ed0243840250c15aa",
+  "label": "AutoDeposit",
+  "abi": "[{\"inputs\":[{\"internalType\":\"contract Tito\",\"name\":\"_tito\",\"type\":\"address\"},{\"internalType\":\"contract Whirlpool\",\"name\":\"_whirlpool\",\"type\":\"address\"}],\"stateMutability\":\"nonpayable\",\"type\":\"constructor\"},{\"inputs\":[{\"internalType\":\"uint256\",\"name\":\"_pid\",\"type\":\"uint256\"}],\"name\":\"depositInto\",\"outputs\":[{\"internalType\":\"uint256\",\"name\":\"lpReceived\",\"type\":\"uint256\"}],\"stateMutability\":\"payable\",\"type\":\"function\"},{\"inputs\":[{\"internalType\":\"uint256\",\"name\":\"_pid\",\"type\":\"uint256\"}],\"name\":\"giveFor\",\"outputs\":[{\"internalType\":\"uint256\",\"name\":\"lpReceived\",\"type\":\"uint256\"}],\"stateMutability\":\"payable\",\"type\":\"function\"},{\"inputs\":[],\"name\":\"stake\",\"outputs\":[{\"internalType\":\"uint256\",\"name\":\"lpReceived\",\"type\":\"uint256\"}],\"stateMutability\":\"payable\",\"type\":\"function\"},{\"stateMutability\":\"payable\",\"type\":\"receive\"}]"
+}
