@@ -1,0 +1,5 @@
+{
+  "address": "0x0c8813521196614c85c2fb121fb22f52dc94111a",
+  "label": "Pause",
+  "abi": "[{\"anonymous\":false,\"inputs\":[{\"indexed\":false,\"internalType\":\"bool\",\"name\":\"isPaused\",\"type\":\"bool\"}],\"name\":\"IsPausedSet\",\"type\":\"event\"},{\"anonymous\":false,\"inputs\":[],\"name\":\"PauseInitialized\",\"type\":\"event\"},{\"inputs\":[],\"name\":\"getIsPaused\",\"outputs\":[{\"internalType\":\"bool\",\"name\":\"\",\"type\":\"bool\"}],\"stateMutability\":\"view\",\"type\":\"function\"},{\"inputs\":[],\"name\":\"initialize\",\"outputs\":[],\"stateMutability\":\"nonpayable\",\"type\":\"function\"},{\"inputs\":[{\"internalType\":\"bool\",\"name\":\"_isPaused\",\"type\":\"bool\"}],\"name\":\"setIsPaused\",\"outputs\":[],\"stateMutability\":\"nonpayable\",\"type\":\"function\"}]"
+}
