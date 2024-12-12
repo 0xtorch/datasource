@@ -1,0 +1,5 @@
+{
+  "address": "0x6e13a2ae9fd9f40f8cc7d3b3944c57f3919c7fe3",
+  "label": "ClBeaconProxy",
+  "abi": "[{\"inputs\":[],\"stateMutability\":\"payable\",\"type\":\"constructor\"},{\"stateMutability\":\"payable\",\"type\":\"fallback\"},{\"stateMutability\":\"payable\",\"type\":\"receive\"}]"
+}
