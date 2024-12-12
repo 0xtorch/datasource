@@ -1,0 +1,5 @@
+{
+  "address": "0x88483b3e3b4dd7cedb8efcef81f6dc9adb6292d5",
+  "label": "UpgradeBeaconProxy",
+  "abi": "[{\"inputs\":[{\"internalType\":\"address\",\"name\":\"_upgradeBeacon\",\"type\":\"address\"},{\"internalType\":\"bytes\",\"name\":\"_initializationCalldata\",\"type\":\"bytes\"}],\"stateMutability\":\"payable\",\"type\":\"constructor\"},{\"stateMutability\":\"payable\",\"type\":\"fallback\"},{\"stateMutability\":\"payable\",\"type\":\"receive\"}]"
+}
