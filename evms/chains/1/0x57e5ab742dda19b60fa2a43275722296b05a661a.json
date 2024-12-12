@@ -1,0 +1,5 @@
+{
+  "address": "0x57e5ab742dda19b60fa2a43275722296b05a661a",
+  "label": "RescueFund",
+  "abi": "[{\"inputs\":[{\"internalType\":\"uint256\",\"name\":\"amount\",\"type\":\"uint256\"}],\"name\":\"rescue\",\"outputs\":[],\"stateMutability\":\"nonpayable\",\"type\":\"function\"}]"
+}
