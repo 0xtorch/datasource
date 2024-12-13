@@ -1,0 +1,5 @@
+{
+  "address": "0x71c2b9c9708c19a816e8e652f7c4cfe3f3a3d6a5",
+  "label": "AddressFacet",
+  "abi": "[{\"anonymous\":false,\"inputs\":[{\"indexed\":true,\"internalType\":\"address\",\"name\":\"gasPriceOracle\",\"type\":\"address\"}],\"name\":\"LogSetGasPriceOracle\",\"type\":\"event\"},{\"inputs\":[],\"name\":\"getGasPriceOracle\",\"outputs\":[{\"internalType\":\"address\",\"name\":\"gasPriceOracle\",\"type\":\"address\"}],\"stateMutability\":\"view\",\"type\":\"function\"},{\"inputs\":[{\"internalType\":\"address\",\"name\":\"_gasPriceOracle\",\"type\":\"address\"}],\"name\":\"setGasPriceOracle\",\"outputs\":[],\"stateMutability\":\"nonpayable\",\"type\":\"function\"}]"
+}
