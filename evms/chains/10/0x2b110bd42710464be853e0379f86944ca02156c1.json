@@ -1,0 +1,5 @@
+{
+  "address": "0x2b110bd42710464be853e0379f86944ca02156c1",
+  "label": "BakedBeanManagement",
+  "abi": "[{\"inputs\":[{\"internalType\":\"address\",\"name\":\"_beaconAddress\",\"type\":\"address\"}],\"stateMutability\":\"nonpayable\",\"type\":\"constructor\"},{\"inputs\":[],\"name\":\"BeaconCallFailed\",\"type\":\"error\"},{\"inputs\":[],\"name\":\"BeaconNotSet\",\"type\":\"error\"},{\"inputs\":[],\"name\":\"ImplementationNotSet\",\"type\":\"error\"},{\"stateMutability\":\"payable\",\"type\":\"fallback\"},{\"stateMutability\":\"payable\",\"type\":\"receive\"}]"
+}
