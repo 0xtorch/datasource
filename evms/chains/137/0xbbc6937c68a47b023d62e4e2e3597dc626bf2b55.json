@@ -1,0 +1,5 @@
+{
+  "address": "0xbbc6937c68a47b023d62e4e2e3597dc626bf2b55",
+  "label": "AddressFacet",
+  "abi": "[{\"inputs\":[],\"name\":\"getFeeCollector\",\"outputs\":[{\"internalType\":\"address\",\"name\":\"feeCollector\",\"type\":\"address\"}],\"stateMutability\":\"view\",\"type\":\"function\"},{\"inputs\":[],\"name\":\"getGasPriceOracle\",\"outputs\":[{\"internalType\":\"address\",\"name\":\"gasPriceOracle\",\"type\":\"address\"}],\"stateMutability\":\"view\",\"type\":\"function\"},{\"inputs\":[{\"internalType\":\"address\",\"name\":\"_feeCollecor\",\"type\":\"address\"}],\"name\":\"setFeeCollector\",\"outputs\":[],\"stateMutability\":\"nonpayable\",\"type\":\"function\"},{\"inputs\":[{\"internalType\":\"address\",\"name\":\"_gasPriceOracle\",\"type\":\"address\"}],\"name\":\"setGasPriceOracle\",\"outputs\":[],\"stateMutability\":\"nonpayable\",\"type\":\"function\"}]"
+}
