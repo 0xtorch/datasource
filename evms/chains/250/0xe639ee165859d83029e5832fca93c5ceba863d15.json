@@ -1,0 +1,5 @@
+{
+  "address": "0xe639ee165859d83029e5832fca93c5ceba863d15",
+  "label": "OxPoolProxyTemplate",
+  "abi": "[{\"stateMutability\":\"nonpayable\",\"type\":\"fallback\"},{\"inputs\":[],\"name\":\"implementationSourceAddress\",\"outputs\":[{\"internalType\":\"address\",\"name\":\"_implementationAddress\",\"type\":\"address\"}],\"stateMutability\":\"view\",\"type\":\"function\"},{\"inputs\":[{\"internalType\":\"address\",\"name\":\"_implementationAddress\",\"type\":\"address\"}],\"name\":\"initialize\",\"outputs\":[],\"stateMutability\":\"nonpayable\",\"type\":\"function\"}]"
+}
