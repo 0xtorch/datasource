@@ -1,0 +1,5 @@
+{
+  "address": "0x2ffdd57cf2f9606d850dd955d9bfbd4c09ba38bb",
+  "label": "GenTelegram",
+  "abi": "[{\"inputs\":[{\"internalType\":\"string\",\"name\":\"telegram\",\"type\":\"string\"}],\"name\":\"setTelegram\",\"outputs\":[],\"stateMutability\":\"nonpayable\",\"type\":\"function\"},{\"inputs\":[{\"internalType\":\"address\",\"name\":\"\",\"type\":\"address\"}],\"name\":\"telegrams\",\"outputs\":[{\"internalType\":\"string\",\"name\":\"\",\"type\":\"string\"}],\"stateMutability\":\"view\",\"type\":\"function\"}]"
+}
