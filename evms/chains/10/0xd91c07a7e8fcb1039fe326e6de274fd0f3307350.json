@@ -1,0 +1,5 @@
+{
+  "address": "0xd91c07a7e8fcb1039fe326e6de274fd0f3307350",
+  "label": "GelatoRelay",
+  "abi": "[{\"inputs\":[{\"internalType\":\"address\",\"name\":\"_gelato\",\"type\":\"address\"}],\"stateMutability\":\"nonpayable\",\"type\":\"constructor\"},{\"anonymous\":false,\"inputs\":[{\"indexed\":true,\"internalType\":\"address\",\"name\":\"target\",\"type\":\"address\"},{\"indexed\":true,\"internalType\":\"bytes32\",\"name\":\"correlationId\",\"type\":\"bytes32\"}],\"name\":\"LogCallWithSyncFeeV2\",\"type\":\"event\"},{\"inputs\":[{\"internalType\":\"address\",\"name\":\"_target\",\"type\":\"address\"},{\"internalType\":\"bytes\",\"name\":\"_data\",\"type\":\"bytes\"},{\"internalType\":\"bool\",\"name\":\"_isRelayContext\",\"type\":\"bool\"},{\"internalType\":\"bytes32\",\"name\":\"_correlationId\",\"type\":\"bytes32\"}],\"name\":\"callWithSyncFeeV2\",\"outputs\":[],\"stateMutability\":\"nonpayable\",\"type\":\"function\"},{\"inputs\":[],\"name\":\"gelato\",\"outputs\":[{\"internalType\":\"address\",\"name\":\"\",\"type\":\"address\"}],\"stateMutability\":\"view\",\"type\":\"function\"}]"
+}
