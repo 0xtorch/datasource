@@ -1,0 +1,5 @@
+{
+  "address": "0xbf69c117c30341b1ceba13e0140faab127afd599",
+  "label": "MultiSend",
+  "abi": "[{\"inputs\":[{\"internalType\":\"contract IMaidCoin\",\"name\":\"token\",\"type\":\"address\"},{\"internalType\":\"address[]\",\"name\":\"recipients\",\"type\":\"address[]\"},{\"internalType\":\"uint256[]\",\"name\":\"amounts\",\"type\":\"uint256[]\"}],\"name\":\"send\",\"outputs\":[],\"stateMutability\":\"nonpayable\",\"type\":\"function\"}]"
+}
