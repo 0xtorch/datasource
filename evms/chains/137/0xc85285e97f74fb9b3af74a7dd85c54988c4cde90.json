@@ -1,0 +1,5 @@
+{
+  "address": "0xc85285e97f74fb9b3af74a7dd85c54988c4cde90",
+  "label": "FireBot_Bulksender",
+  "abi": "[{\"inputs\":[{\"internalType\":\"contract IERC20\",\"name\":\"token\",\"type\":\"address\"},{\"internalType\":\"address[]\",\"name\":\"to\",\"type\":\"address[]\"},{\"internalType\":\"uint256[]\",\"name\":\"values\",\"type\":\"uint256[]\"}],\"name\":\"bulksendToken\",\"outputs\":[],\"stateMutability\":\"nonpayable\",\"type\":\"function\"}]"
+}
