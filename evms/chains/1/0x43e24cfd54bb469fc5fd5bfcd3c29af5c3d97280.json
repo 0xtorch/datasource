@@ -1,0 +1,5 @@
+{
+  "address": "0x43e24cfd54bb469fc5fd5bfcd3c29af5c3d97280",
+  "label": "Proxy",
+  "abi": "[{\"inputs\":[{\"internalType\":\"address\",\"name\":\"_masterCopy\",\"type\":\"address\"}],\"payable\":false,\"stateMutability\":\"nonpayable\",\"type\":\"constructor\"},{\"payable\":true,\"stateMutability\":\"payable\",\"type\":\"fallback\"}]"
+}
