@@ -1,0 +1,222 @@
+{
+  "id": "gate-spot-trade",
+  "service": "gate",
+  "formatter": {
+    "Order Id": ["string"],
+    "Time": ["iso8601-jp"],
+    "Trade type": ["string"],
+    "Pair": ["string"],
+    "Price": ["big-decimal-positive"],
+    "Amount": ["big-decimal-positive"],
+    "Total": ["big-decimal-positive"],
+    "Fee": ["string"]
+  },
+  "parser": {
+    "parsers": [
+      {
+        "description": "Buy",
+        "conditions": [
+          {
+            "value": {
+              "type": "cell",
+              "column": "Trade type"
+            },
+            "pattern": "Buy"
+          }
+        ],
+        "generators": [
+          {
+            "type": "trade",
+            "source": {
+              "type": "join",
+              "values": [
+                { "type": "service" },
+                "_spot-trade_",
+                { "type": "cell", "column": "Order Id" }
+              ]
+            },
+            "timestamp": {
+              "type": "cell",
+              "column": "Time"
+            },
+            "transfers": [
+              {
+                "direction": "in",
+                "amount": {
+                  "type": "text",
+                  "value": {
+                    "type": "cell",
+                    "column": "Amount"
+                  }
+                },
+                "asset": {
+                  "type": "symbol",
+                  "value": {
+                    "type": "split",
+                    "value": {
+                      "type": "cell",
+                      "column": "Pair"
+                    },
+                    "splitter": "/",
+                    "index": 0
+                  }
+                }
+              },
+              {
+                "direction": "out",
+                "amount": {
+                  "type": "text",
+                  "value": {
+                    "type": "cell",
+                    "column": "Total"
+                  }
+                },
+                "asset": {
+                  "type": "symbol",
+                  "value": {
+                    "type": "split",
+                    "value": {
+                      "type": "cell",
+                      "column": "Pair"
+                    },
+                    "splitter": "/",
+                    "index": 1
+                  }
+                }
+              },
+              {
+                "direction": "out",
+                "amount": {
+                  "type": "text",
+                  "value": {
+                    "type": "split",
+                    "value": {
+                      "type": "cell",
+                      "column": "Fee"
+                    },
+                    "splitter": " ",
+                    "index": 0
+                  }
+                },
+                "asset": {
+                  "type": "symbol",
+                  "value": {
+                    "type": "split",
+                    "value": {
+                      "type": "cell",
+                      "column": "Fee"
+                    },
+                    "splitter": " ",
+                    "index": 1
+                  }
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "description": "Sell",
+        "conditions": [
+          {
+            "value": {
+              "type": "cell",
+              "column": "Trade type"
+            },
+            "pattern": "Sell"
+          }
+        ],
+        "generators": [
+          {
+            "type": "trade",
+            "source": {
+              "type": "join",
+              "values": [
+                { "type": "service" },
+                "_spot-trade_",
+                { "type": "cell", "column": "Order Id" }
+              ]
+            },
+            "timestamp": {
+              "type": "cell",
+              "column": "Time"
+            },
+            "transfers": [
+              {
+                "direction": "in",
+                "amount": {
+                  "type": "text",
+                  "value": {
+                    "type": "cell",
+                    "column": "Total"
+                  }
+                },
+                "asset": {
+                  "type": "symbol",
+                  "value": {
+                    "type": "split",
+                    "value": {
+                      "type": "cell",
+                      "column": "Pair"
+                    },
+                    "splitter": "/",
+                    "index": 1
+                  }
+                }
+              },
+              {
+                "direction": "out",
+                "amount": {
+                  "type": "text",
+                  "value": {
+                    "type": "cell",
+                    "column": "Amount"
+                  }
+                },
+                "asset": {
+                  "type": "symbol",
+                  "value": {
+                    "type": "split",
+                    "value": {
+                      "type": "cell",
+                      "column": "Pair"
+                    },
+                    "splitter": "/",
+                    "index": 0
+                  }
+                }
+              },
+              {
+                "direction": "out",
+                "amount": {
+                  "type": "text",
+                  "value": {
+                    "type": "split",
+                    "value": {
+                      "type": "cell",
+                      "column": "Fee"
+                    },
+                    "splitter": " ",
+                    "index": 0
+                  }
+                },
+                "asset": {
+                  "type": "symbol",
+                  "value": {
+                    "type": "split",
+                    "value": {
+                      "type": "cell",
+                      "column": "Fee"
+                    },
+                    "splitter": " ",
+                    "index": 1
+                  }
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}
