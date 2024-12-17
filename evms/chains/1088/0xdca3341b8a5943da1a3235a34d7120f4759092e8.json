@@ -1,0 +1,5 @@
+{
+  "address": "0xdca3341b8a5943da1a3235a34d7120f4759092e8",
+  "label": "TrackAggregator",
+  "abi": "[{\"inputs\":[],\"stateMutability\":\"nonpayable\",\"type\":\"constructor\"},{\"inputs\":[{\"internalType\":\"address\",\"name\":\"account\",\"type\":\"address\"},{\"internalType\":\"address[]\",\"name\":\"borrowables\",\"type\":\"address[]\"}],\"name\":\"trackBorrows\",\"outputs\":[],\"stateMutability\":\"nonpayable\",\"type\":\"function\"}]"
+}
