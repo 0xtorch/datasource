@@ -130,5 +130,14 @@
         "amount": "40.617267326732673267"
       }
     ]
+  },
+  {
+    "source": "mexc-future-ja-jst_future-trade_1692864643000",
+    "order": 0,
+    "type": "ignore",
+    "timestamp": 1692864643000,
+    "evidence": "system-rule",
+    "comment": "先物取引ペア: ASTR_USDT / 方向: buy short",
+    "transfers": []
   }
 ]
