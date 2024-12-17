@@ -1,0 +1,5 @@
+{
+  "address": "0x898784ffb50fb9413ec47e3bc9b897ab77a9f8f4",
+  "label": "ItemsFacet",
+  "abi": "[{\"inputs\":[{\"internalType\":\"uint256\",\"name\":\"tokenId\",\"type\":\"uint256\"}],\"name\":\"burn\",\"outputs\":[],\"stateMutability\":\"nonpayable\",\"type\":\"function\"}]"
+}
