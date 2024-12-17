@@ -1,6 +1,6 @@
 [
   {
-    "source": "bitget-future-trade-202412_spot-future_1252405956230934528",
+    "source": "bitget-future-trade-202412_future_1252405956230934528",
     "order": 0,
     "type": "ignore",
     "timestamp": 1734322769000,
@@ -9,7 +9,7 @@
     "transfers": []
   },
   {
-    "source": "bitget-future-trade-202412_spot-future_1252404153250639872",
+    "source": "bitget-future-trade-202412_future_1252404153250639872",
     "order": 0,
     "type": "realize-profit",
     "timestamp": 1734322339000,
@@ -32,7 +32,7 @@
     ]
   },
   {
-    "source": "bitget-future-trade-202412_spot-future_1252404153250639872",
+    "source": "bitget-future-trade-202412_future_1252404153250639872",
     "order": 1,
     "type": "fee",
     "timestamp": 1734322339000,
@@ -55,7 +55,7 @@
     ]
   },
   {
-    "source": "bitget-future-trade-202412_spot-future_1252404325376487457",
+    "source": "bitget-future-trade-202412_future_1252404325376487457",
     "order": 0,
     "type": "realize-loss",
     "timestamp": 1734322380000,
@@ -78,7 +78,7 @@
     ]
   },
   {
-    "source": "bitget-future-trade-202412_spot-future_1252404325376487457",
+    "source": "bitget-future-trade-202412_future_1252404325376487457",
     "order": 1,
     "type": "fee",
     "timestamp": 1734322380000,
@@ -101,7 +101,7 @@
     ]
   },
   {
-    "source": "bitget-future-trade-202412_spot-future_1252340712162881584",
+    "source": "bitget-future-trade-202412_future_1252340712162881584",
     "order": 0,
     "type": "derivative-profit",
     "timestamp": 1734307213000,
@@ -124,7 +124,7 @@
     ]
   },
   {
-    "source": "bitget-future-trade-202412_spot-future_1252340699315728387",
+    "source": "bitget-future-trade-202412_future_1252340699315728387",
     "order": 0,
     "type": "derivative-fee",
     "timestamp": 1734307210000,
@@ -147,7 +147,7 @@
     ]
   },
   {
-    "source": "bitget-future-trade-202412_spot-future_1252103777473425440",
+    "source": "bitget-future-trade-202412_future_1252103777473425440",
     "order": 0,
     "type": "fee",
     "timestamp": 1734250724000,
@@ -170,7 +170,7 @@
     ]
   },
   {
-    "source": "bitget-future-trade-202412_spot-future_1252103586531930113",
+    "source": "bitget-future-trade-202412_future_1252103586531930113",
     "order": 0,
     "type": "fee",
     "timestamp": 1734250678000,
@@ -193,7 +193,7 @@
     ]
   },
   {
-    "source": "bitget-future-trade-202412_spot-future_1252103256297598978",
+    "source": "bitget-future-trade-202412_future_1252103256297598978",
     "order": 0,
     "type": "ignore",
     "timestamp": 1734250599000,
@@ -202,7 +202,7 @@
     "transfers": []
   },
   {
-    "source": "bitget-future-trade-202412_spot-future_1237659864008400896",
+    "source": "bitget-future-trade-202412_future_1237659864008400896",
     "order": 0,
     "type": "ignore",
     "timestamp": 1730807026000,
@@ -211,7 +211,7 @@
     "transfers": []
   },
   {
-    "source": "bitget-future-trade-202412_spot-future_1186586274073894917",
+    "source": "bitget-future-trade-202412_future_1186586274073894917",
     "order": 0,
     "type": "fee",
     "timestamp": 1718630134000,
@@ -234,7 +234,7 @@
     ]
   },
   {
-    "source": "bitget-future-trade-202412_spot-future_1164293543721132032",
+    "source": "bitget-future-trade-202412_future_1164293543721132032",
     "order": 0,
     "type": "gift",
     "timestamp": 1713315133000,
