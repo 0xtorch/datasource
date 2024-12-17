@@ -219,6 +219,51 @@
             ]
           }
         ]
+      },
+      {
+        "conditions": [
+          {
+            "value": {
+              "type": "cell",
+              "column": "決済損益"
+            },
+            "pattern": "\"0\""
+          },
+          {
+            "value": {
+              "type": "cell",
+              "column": "取引手数料"
+            },
+            "pattern": "\"0\""
+          }
+        ],
+        "generators": [
+          {
+            "type": "ignore",
+            "source": {
+              "type": "join",
+              "values": [
+                { "type": "service" },
+                "_future-trade_",
+                { "type": "cell", "column": "時間(UTC+09:00)" }
+              ]
+            },
+            "timestamp": {
+              "type": "cell",
+              "column": "時間(UTC+09:00)"
+            },
+            "comment": {
+              "type": "join",
+              "values": [
+                "先物取引ペア: ",
+                { "type": "cell", "column": "先物取引ペア" },
+                " / 方向: ",
+                { "type": "cell", "column": "方向" }
+              ]
+            },
+            "transfers": []
+          }
+        ]
       }
     ]
   }
