@@ -131,7 +131,7 @@
             },
             "pattern": {
               "type": "in",
-              "values": ["受取", "ハードフォーク", "受取利息"]
+              "values": ["受取", "ハードフォーク", "受取利息", "その他"]
             }
           },
           {
@@ -151,29 +151,11 @@
             "pattern": {
               "type": "defined"
             }
-          },
-          {
-            "value": {
-              "type": "cell",
-              "column": "手数料通貨"
-            },
-            "pattern": {
-              "type": "undefined"
-            }
-          },
-          {
-            "value": {
-              "type": "cell",
-              "column": "手数料数量"
-            },
-            "pattern": {
-              "type": "undefined"
-            }
           }
         ],
         "generators": [
           {
-            "type": "fee",
+            "type": "income",
             "source": {
               "type": "join",
               "values": [
@@ -347,6 +329,47 @@
                 }
               }
             ]
+          }
+        ]
+      },
+      {
+        "conditions": [
+          {
+            "value": {
+              "type": "cell",
+              "column": "取引種別"
+            },
+            "pattern": {
+              "type": "in",
+              "values": ["入金", "預入"]
+            }
+          }
+        ],
+        "generators": [
+          {
+            "type": "ignore",
+            "source": {
+              "type": "join",
+              "values": [
+                { "type": "service" },
+                "_",
+                { "type": "cell", "column": "取引日時" }
+              ]
+            },
+            "timestamp": {
+              "type": "cell",
+              "column": "取引日時"
+            },
+            "comment": {
+              "type": "join",
+              "values": [
+                { "type": "cell", "column": "取引種別" },
+                ": ",
+                { "type": "cell", "column": "増加数量" },
+                { "type": "cell", "column": "増加通貨名" }
+              ]
+            },
+            "transfers": []
           }
         ]
       }

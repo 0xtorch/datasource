@@ -5,6 +5,7 @@
     "type": "fee",
     "timestamp": 1723628850000,
     "evidence": "system-rule",
+    "comment": "出金・出庫: \"-40\"POL",
     "transfers": [
       {
         "direction": "out",
@@ -23,5 +24,14 @@
         "amount": "0.5"
       }
     ]
+  },
+  {
+    "source": "okj-deposit-withdrawal_withdrawal_25120196",
+    "order": 0,
+    "type": "ignore",
+    "timestamp": 1722242000000,
+    "evidence": "system-rule",
+    "comment": "入金・入庫: \"15000\"JPY",
+    "transfers": []
   }
 ]

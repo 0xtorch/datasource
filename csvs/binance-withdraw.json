@@ -6,7 +6,7 @@
     "Coin": ["blank", "string"],
     "Network": ["string"],
     "Amount": ["big-decimal-positive"],
-    "TransactionFee": ["big-decimal-positive"],
+    "TransactionFee": ["big-decimal"],
     "Address": ["string"],
     "TXID": ["string"],
     "Status": ["string"]
@@ -21,6 +21,15 @@
               "column": "Status"
             },
             "pattern": "Completed"
+          },
+          {
+            "value": {
+              "type": "cell",
+              "column": "TransactionFee"
+            },
+            "pattern": {
+              "type": "positive"
+            }
           }
         ],
         "generators": [
@@ -85,6 +94,70 @@
                 }
               }
             ]
+          }
+        ]
+      },
+      {
+        "conditions": [
+          {
+            "value": {
+              "type": "cell",
+              "column": "Status"
+            },
+            "pattern": "Completed"
+          },
+          {
+            "value": {
+              "type": "cell",
+              "column": "TransactionFee"
+            },
+            "pattern": "\"0\""
+          }
+        ],
+        "generators": [
+          {
+            "type": "ignore",
+            "source": {
+              "type": "join",
+              "values": [
+                { "type": "service" },
+                "_withdraw_",
+                {
+                  "type": "cell",
+                  "column": "Network"
+                },
+                "_",
+                {
+                  "type": "cell",
+                  "column": "TXID"
+                }
+              ]
+            },
+            "timestamp": {
+              "type": "cell",
+              "column": "Date(UTC)"
+            },
+            "comment": {
+              "type": "join",
+              "values": [
+                "Withdraw to ",
+                {
+                  "type": "cell",
+                  "column": "Address"
+                },
+                " on ",
+                {
+                  "type": "cell",
+                  "column": "Network"
+                },
+                " Network | TXID: ",
+                {
+                  "type": "cell",
+                  "column": "TXID"
+                }
+              ]
+            },
+            "transfers": []
           }
         ]
       }

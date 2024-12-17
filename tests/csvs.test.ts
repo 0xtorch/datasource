@@ -51,7 +51,7 @@ describe('Should valid csv format json', async () => {
           ).json(),
         )
 
-      const parsed = parseRowsToActions({
+      const { actions: parsedActions, ignoreRowCount } = parseRowsToActions({
         rows: formatCsvRows({
           rows: parseCsvText(csv),
           formatter,
@@ -61,8 +61,12 @@ describe('Should valid csv format json', async () => {
         service: filenameWithoutExt,
         cryptoes,
         fiats: [usd, eur, jpy],
+        errorLogger: (error) => {
+          console.log(error)
+        },
       })
-      expect(parsed).toEqual(actions)
+      expect(parsedActions).toEqual(actions)
+      expect(ignoreRowCount).toBe(0)
     })
   }
 })

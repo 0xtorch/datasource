@@ -87,6 +87,15 @@
     ]
   },
   {
+    "source": "bitflyer-trade_CDP20221220-225243-474312",
+    "order": 0,
+    "type": "ignore",
+    "timestamp": 1671576763000,
+    "evidence": "system-rule",
+    "comment": "取引種別: 預入 / \"9\"ETH / 備考: ",
+    "transfers": []
+  },
+  {
     "source": "bitflyer-trade_REC20221018-055233-432356",
     "order": 0,
     "type": "gift",
@@ -126,6 +135,15 @@
     ]
   },
   {
+    "source": "bitflyer-trade_MWD20190207-104456-664271",
+    "order": 0,
+    "type": "ignore",
+    "timestamp": 1549536296000,
+    "evidence": "system-rule",
+    "comment": "取引種別: 出金 / \"-210432\"JPY / 備考: ",
+    "transfers": []
+  },
+  {
     "source": "bitflyer-trade_CWD20180604-065901-689278F",
     "order": 0,
     "type": "fee",
@@ -146,6 +164,15 @@
         "amount": "0.005"
       }
     ]
+  },
+  {
+    "source": "bitflyer-trade_CWD20180604-065901-689278",
+    "order": 0,
+    "type": "ignore",
+    "timestamp": 1528095541000,
+    "evidence": "system-rule",
+    "comment": "取引種別: 外部送付 / \"-7\"ETH / 備考: ",
+    "transfers": []
   },
   {
     "source": "bitflyer-trade_BFF20180531-084607-398855",
@@ -178,5 +205,14 @@
         "amount": "6647"
       }
     ]
+  },
+  {
+    "source": "bitflyer-trade_MDP20180531-001416-127402",
+    "order": 0,
+    "type": "ignore",
+    "timestamp": 1527725656000,
+    "evidence": "system-rule",
+    "comment": "取引種別: 入金 / \"2000000\"JPY / 備考: ",
+    "transfers": []
   }
 ]
