@@ -6,6 +6,7 @@
     "日時": ["datetime-jp"],
     "資産": ["string"],
     "入出金内容": ["string"],
+    "数量": ["big-decimal"],
     "手数料": ["big-decimal"]
   },
   "parser": {
@@ -47,6 +48,24 @@
               "type": "cell",
               "column": "日時"
             },
+            "comment": {
+              "type": "join",
+              "values": [
+                {
+                  "type": "cell",
+                  "column": "入出金内容"
+                },
+                ": ",
+                {
+                  "type": "cell",
+                  "column": "数量"
+                },
+                {
+                  "type": "cell",
+                  "column": "資産"
+                }
+              ]
+            },
             "transfers": [
               {
                 "direction": "out",
@@ -66,6 +85,66 @@
                 }
               }
             ]
+          }
+        ]
+      },
+      {
+        "conditions": [
+          {
+            "value": {
+              "type": "cell",
+              "column": "入出金内容"
+            },
+            "pattern": {
+              "type": "in",
+              "values": ["出金・出庫", "入金・入庫"]
+            }
+          },
+          {
+            "value": {
+              "type": "cell",
+              "column": "手数料"
+            },
+            "pattern": "\"0\""
+          }
+        ],
+        "generators": [
+          {
+            "type": "ignore",
+            "source": {
+              "type": "join",
+              "values": [
+                { "type": "service" },
+                "_withdrawal_",
+                {
+                  "type": "cell",
+                  "column": "入出金ID"
+                }
+              ]
+            },
+            "timestamp": {
+              "type": "cell",
+              "column": "日時"
+            },
+            "comment": {
+              "type": "join",
+              "values": [
+                {
+                  "type": "cell",
+                  "column": "入出金内容"
+                },
+                ": ",
+                {
+                  "type": "cell",
+                  "column": "数量"
+                },
+                {
+                  "type": "cell",
+                  "column": "資産"
+                }
+              ]
+            },
+            "transfers": []
           }
         ]
       }

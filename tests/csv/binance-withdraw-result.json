@@ -46,6 +46,15 @@
     ]
   },
   {
+    "source": "binance-withdraw_withdraw_BSC_0xdcb3dc966320764f2e2dd12096e87ce0ac6d69e8008095080f4c7384415c3552",
+    "order": 0,
+    "type": "ignore",
+    "timestamp": 1650292054000,
+    "evidence": "system-rule",
+    "comment": "Withdraw to 0x695684881d525b241e4624BE6D2Dd4b43e857269 on BSC Network | TXID: 0xdcb3dc966320764f2e2dd12096e87ce0ac6d69e8008095080f4c7384415c3552",
+    "transfers": []
+  },
+  {
     "source": "binance-withdraw_withdraw_BTC_698fdb868d819b48b7d63481fe0353fc2f4487d249d60ff50d325467dd8a9f8f",
     "order": 0,
     "type": "fee",

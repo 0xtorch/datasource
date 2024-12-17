@@ -31,7 +31,7 @@
               "type": "join",
               "values": [
                 { "type": "service" },
-                "_withdrawal_",
+                "_withdrawal-btc_",
                 {
                   "type": "cell",
                   "column": "ネットワーク"
@@ -84,6 +84,54 @@
                 }
               }
             ]
+          }
+        ]
+      },
+      {
+        "description": "Cancel withdrawal",
+        "conditions": [
+          {
+            "value": {
+              "type": "cell",
+              "column": "ステータス"
+            },
+            "pattern": "CANCELED"
+          }
+        ],
+        "generators": [
+          {
+            "type": "ignore",
+            "source": {
+              "type": "join",
+              "values": [
+                { "type": "service" },
+                "_withdrawal-btc_",
+                {
+                  "type": "cell",
+                  "column": "日時"
+                }
+              ]
+            },
+            "timestamp": {
+              "type": "cell",
+              "column": "日時"
+            },
+            "comment": {
+              "type": "join",
+              "values": [
+                "出金キャンセル: ",
+                {
+                  "type": "cell",
+                  "column": "数量"
+                },
+                " BTC to ",
+                {
+                  "type": "cell",
+                  "column": "アドレス"
+                }
+              ]
+            },
+            "transfers": []
           }
         ]
       }

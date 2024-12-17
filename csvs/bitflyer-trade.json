@@ -307,6 +307,66 @@
             ]
           }
         ]
+      },
+      {
+        "description": "預入 / 入金 / 出金 / 外部送付",
+        "conditions": [
+          {
+            "value": {
+              "type": "cell",
+              "column": "取引種別"
+            },
+            "pattern": {
+              "type": "in",
+              "values": ["預入", "入金", "出金", "外部送付"]
+            }
+          }
+        ],
+        "generators": [
+          {
+            "type": "ignore",
+            "source": {
+              "type": "join",
+              "values": [
+                { "type": "service" },
+                "_",
+                {
+                  "type": "cell",
+                  "column": "注文 ID"
+                }
+              ]
+            },
+            "timestamp": {
+              "type": "cell",
+              "column": "取引日時"
+            },
+            "comment": {
+              "type": "join",
+              "values": [
+                "取引種別: ",
+                {
+                  "type": "cell",
+                  "column": "取引種別"
+                },
+                " / ",
+                {
+                  "type": "cell",
+                  "column": "通貨1数量"
+                },
+                {
+                  "type": "cell",
+                  "column": "通貨1"
+                },
+                " / 備考: ",
+                {
+                  "type": "cell",
+                  "column": "備考"
+                }
+              ]
+            },
+            "transfers": []
+          }
+        ]
       }
     ]
   }

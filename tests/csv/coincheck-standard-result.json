@@ -1,5 +1,14 @@
 [
   {
+    "source": "coincheck-standard_1627483014000",
+    "order": 0,
+    "type": "ignore",
+    "timestamp": 1627483014000,
+    "evidence": "system-rule",
+    "comment": "入金: \"260000\"JPY",
+    "transfers": []
+  },
+  {
     "source": "coincheck-standard_1627483094000",
     "order": 0,
     "type": "trade",
