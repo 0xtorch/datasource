@@ -1,0 +1,176 @@
+{
+  "id": "bybit-funding-account",
+  "service": "bybit",
+  "formatter": {
+    "Date & Time(UTC)": ["iso8601"],
+    "Coin": ["string"],
+    "QTY": ["big-decimal"],
+    "Type": ["string"],
+    "Description": ["string"]
+  },
+  "parser": {
+    "parsers": [
+      {
+        "description": "Earn: Flexible Savings Interest Distribution",
+        "conditions": [
+          {
+            "value": {
+              "type": "cell",
+              "column": "Type"
+            },
+            "pattern": "Earn"
+          },
+          {
+            "value": {
+              "type": "cell",
+              "column": "Description"
+            },
+            "pattern": "Flexible Savings Interest Distribution"
+          }
+        ],
+        "generators": [
+          {
+            "type": "interest",
+            "source": {
+              "type": "join",
+              "values": [
+                { "type": "service" },
+                "_funding-account_",
+                { "type": "cell", "column": "Date & Time(UTC)" }
+              ]
+            },
+            "timestamp": {
+              "type": "cell",
+              "column": "Date & Time(UTC)"
+            },
+            "comment": {
+              "type": "join",
+              "values": [
+                "Type:",
+                { "type": "cell", "column": "Type" },
+                " / Description: ",
+                { "type": "cell", "column": "Description" }
+              ]
+            },
+            "transfers": [
+              {
+                "direction": "in",
+                "amount": {
+                  "type": "text",
+                  "value": {
+                    "type": "cell",
+                    "column": "QTY"
+                  }
+                },
+                "asset": {
+                  "type": "symbol",
+                  "value": {
+                    "type": "cell",
+                    "column": "Coin"
+                  }
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "description": "ignore > Earn",
+        "conditions": [
+          {
+            "value": {
+              "type": "cell",
+              "column": "Type"
+            },
+            "pattern": "Earn"
+          },
+          {
+            "value": {
+              "type": "cell",
+              "column": "Description"
+            },
+            "pattern": {
+              "type": "in",
+              "values": ["", "Flexible Savings Subscription"]
+            }
+          }
+        ],
+        "generators": [
+          {
+            "type": "ignore",
+            "source": {
+              "type": "join",
+              "values": [
+                { "type": "service" },
+                "_funding-account_",
+                { "type": "cell", "column": "Date & Time(UTC)" }
+              ]
+            },
+            "timestamp": {
+              "type": "cell",
+              "column": "Date & Time(UTC)"
+            },
+            "comment": {
+              "type": "join",
+              "values": [
+                "Type:",
+                { "type": "cell", "column": "Type" },
+                " / Description: ",
+                { "type": "cell", "column": "Description" },
+                " / ",
+                { "type": "cell", "column": "QTY" },
+                { "type": "cell", "column": "Coin" }
+              ]
+            },
+            "transfers": []
+          }
+        ]
+      },
+      {
+        "description": "ignore",
+        "conditions": [
+          {
+            "value": {
+              "type": "cell",
+              "column": "Type"
+            },
+            "pattern": {
+              "type": "in",
+              "values": ["Deposit", "Transfer in", "Transfer out", "Withdraw"]
+            }
+          }
+        ],
+        "generators": [
+          {
+            "type": "ignore",
+            "source": {
+              "type": "join",
+              "values": [
+                { "type": "service" },
+                "_funding-account_",
+                { "type": "cell", "column": "Date & Time(UTC)" }
+              ]
+            },
+            "timestamp": {
+              "type": "cell",
+              "column": "Date & Time(UTC)"
+            },
+            "comment": {
+              "type": "join",
+              "values": [
+                "Type:",
+                { "type": "cell", "column": "Type" },
+                " / Description: ",
+                { "type": "cell", "column": "Description" },
+                " / ",
+                { "type": "cell", "column": "QTY" },
+                { "type": "cell", "column": "Coin" }
+              ]
+            },
+            "transfers": []
+          }
+        ]
+      }
+    ]
+  }
+}
