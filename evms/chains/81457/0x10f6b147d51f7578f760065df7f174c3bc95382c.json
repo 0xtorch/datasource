@@ -1,0 +1,5 @@
+{
+  "address": "0x10f6b147d51f7578f760065df7f174c3bc95382c",
+  "label": "Diamond",
+  "abi": "[{\"inputs\":[],\"stateMutability\":\"nonpayable\",\"type\":\"constructor\"},{\"stateMutability\":\"payable\",\"type\":\"fallback\"}]"
+}
