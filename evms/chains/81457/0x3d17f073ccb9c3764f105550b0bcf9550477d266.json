@@ -1,0 +1,5 @@
+{
+  "address": "0x3d17f073ccb9c3764f105550b0bcf9550477d266",
+  "label": "Diamond",
+  "abi": "[{\"inputs\":[{\"internalType\":\"address\",\"name\":\"_contractOwner\",\"type\":\"address\"},{\"internalType\":\"address\",\"name\":\"_diamondCutFacet\",\"type\":\"address\"}],\"stateMutability\":\"payable\",\"type\":\"constructor\"},{\"stateMutability\":\"payable\",\"type\":\"fallback\"},{\"stateMutability\":\"payable\",\"type\":\"receive\"}]"
+}
