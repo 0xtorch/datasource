@@ -1,0 +1,5 @@
+{
+  "address": "0xb2cb70575b2cc4ea34269f434a9bc205e817fab2",
+  "label": "CardsUpdateMetadata",
+  "abi": "[{\"inputs\":[{\"internalType\":\"string\",\"name\":\"baseURI\",\"type\":\"string\"}],\"name\":\"setBaseURI\",\"outputs\":[],\"stateMutability\":\"nonpayable\",\"type\":\"function\"}]"
+}
