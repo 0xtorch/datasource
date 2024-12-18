@@ -1,0 +1,102 @@
+[
+  {
+    "source": "bybit-funding-account_funding-account_1734430749000",
+    "order": 0,
+    "type": "ignore",
+    "timestamp": 1734430749000,
+    "evidence": "system-rule",
+    "comment": "Type:Earn / Description:  / \"-15.4731\"USDT",
+    "transfers": []
+  },
+  {
+    "source": "bybit-funding-account_funding-account_1734395857000",
+    "order": 0,
+    "type": "interest",
+    "timestamp": 1734395857000,
+    "evidence": "system-rule",
+    "comment": "Type:Earn / Description: Flexible Savings Interest Distribution",
+    "transfers": [
+      {
+        "direction": "in",
+        "asset": {
+          "type": "CryptoCurrency",
+          "id": "tether",
+          "name": "Tether",
+          "symbol": "usdt",
+          "icon": "https://coin-images.coingecko.com/coins/images/325/large/Tether.png?1696501661",
+          "market": { "coingeckoId": "tether", "marketCapUsd": 119675340267 },
+          "updatedAt": 1728782536762
+        },
+        "amount": "15.4731"
+      }
+    ]
+  },
+  {
+    "source": "bybit-funding-account_funding-account_1734145657000",
+    "order": 0,
+    "type": "ignore",
+    "timestamp": 1734145657000,
+    "evidence": "system-rule",
+    "comment": "Type:Withdraw / Description: Withdrawal / \"-0.4995\"AVAX",
+    "transfers": []
+  },
+  {
+    "source": "bybit-funding-account_funding-account_1734145546000",
+    "order": 0,
+    "type": "ignore",
+    "timestamp": 1734145546000,
+    "evidence": "system-rule",
+    "comment": "Type:Transfer in / Description: Transfer from Unified Trading Account / \"0.4995\"AVAX",
+    "transfers": []
+  },
+  {
+    "source": "bybit-funding-account_funding-account_1734143644000",
+    "order": 0,
+    "type": "ignore",
+    "timestamp": 1734143644000,
+    "evidence": "system-rule",
+    "comment": "Type:Transfer out / Description: Transfer to Unified Trading Account / \"-13.8614\"USDT",
+    "transfers": []
+  },
+  {
+    "source": "bybit-funding-account_funding-account_1730807509000",
+    "order": 0,
+    "type": "ignore",
+    "timestamp": 1730807509000,
+    "evidence": "system-rule",
+    "comment": "Type:Deposit / Description: Deposit / \"9807.548542\"USDT",
+    "transfers": []
+  },
+  {
+    "source": "bybit-funding-account_funding-account_1730420940000",
+    "order": 0,
+    "type": "interest",
+    "timestamp": 1730420940000,
+    "evidence": "system-rule",
+    "comment": "Type:Earn / Description: Flexible Savings Interest Distribution",
+    "transfers": [
+      {
+        "direction": "in",
+        "asset": {
+          "type": "CryptoCurrency",
+          "id": "ethereum",
+          "name": "Ethereum",
+          "symbol": "eth",
+          "icon": "https://coin-images.coingecko.com/coins/images/279/large/ethereum.png?1696501628",
+          "market": { "coingeckoId": "ethereum", "marketCapUsd": 297208008363 },
+          "updatedAt": 1728782536762
+        },
+        "amount": "0.00019189"
+      }
+    ]
+  },
+  {
+    "source": "bybit-funding-account_funding-account_1730110876000",
+    "order": 0,
+    "type": "ignore",
+    "timestamp": 1730110876000,
+    "evidence": "system-rule",
+    "comment": "Type:Earn / Description: Flexible Savings Subscription / \"-13.20854384\"ETH",
+    "transfers": []
+  }
+]
