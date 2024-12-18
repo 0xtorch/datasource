@@ -1,0 +1,5 @@
+{
+  "address": "0x57bda5d6c054e07d26d70023eef4bfc1ffafbb21",
+  "label": "RamsesBeaconProxy",
+  "abi": "[{\"inputs\":[],\"stateMutability\":\"payable\",\"type\":\"constructor\"},{\"stateMutability\":\"payable\",\"type\":\"fallback\"},{\"stateMutability\":\"payable\",\"type\":\"receive\"}]"
+}
