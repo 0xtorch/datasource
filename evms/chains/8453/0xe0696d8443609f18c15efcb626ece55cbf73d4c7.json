@@ -1,0 +1,5 @@
+{
+  "address": "0xe0696d8443609f18c15efcb626ece55cbf73d4c7",
+  "label": "Ticket",
+  "abi": "[{\"anonymous\":false,\"inputs\":[{\"indexed\":false,\"internalType\":\"address\",\"name\":\"sender\",\"type\":\"address\"},{\"indexed\":false,\"internalType\":\"uint256\",\"name\":\"day\",\"type\":\"uint256\"}],\"name\":\"GetTicket\",\"type\":\"event\"},{\"inputs\":[],\"name\":\"getTicket\",\"outputs\":[],\"stateMutability\":\"nonpayable\",\"type\":\"function\"}]"
+}
