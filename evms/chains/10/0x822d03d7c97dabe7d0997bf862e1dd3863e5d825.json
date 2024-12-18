@@ -1,0 +1,5 @@
+{
+  "address": "0x822d03d7c97dabe7d0997bf862e1dd3863e5d825",
+  "label": "PolyAccount",
+  "abi": "[{\"inputs\":[{\"internalType\":\"address\",\"name\":\"_implementations\",\"type\":\"address\"}],\"stateMutability\":\"nonpayable\",\"type\":\"constructor\"},{\"stateMutability\":\"payable\",\"type\":\"fallback\"},{\"inputs\":[],\"name\":\"implementations\",\"outputs\":[{\"internalType\":\"contract AccountImplementations\",\"name\":\"\",\"type\":\"address\"}],\"stateMutability\":\"view\",\"type\":\"function\"},{\"stateMutability\":\"payable\",\"type\":\"receive\"}]"
+}
