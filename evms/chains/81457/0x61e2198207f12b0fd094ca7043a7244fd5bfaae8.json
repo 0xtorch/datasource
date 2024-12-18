@@ -1,0 +1,5 @@
+{
+  "address": "0x61e2198207f12b0fd094ca7043a7244fd5bfaae8",
+  "label": "SafeProxy",
+  "abi": "[{\"inputs\":[{\"internalType\":\"address\",\"name\":\"_singleton\",\"type\":\"address\"}],\"stateMutability\":\"nonpayable\",\"type\":\"constructor\"},{\"stateMutability\":\"payable\",\"type\":\"fallback\"}]"
+}
