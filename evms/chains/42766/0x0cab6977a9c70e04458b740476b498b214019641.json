@@ -1,0 +1,5 @@
+{
+  "address": "0x0cab6977a9c70e04458b740476b498b214019641",
+  "label": "ElementEx",
+  "abi": "[{\"inputs\":[{\"internalType\":\"address\",\"name\":\"registryFeature\",\"type\":\"address\"},{\"internalType\":\"address\",\"name\":\"ownableFeature\",\"type\":\"address\"}],\"stateMutability\":\"nonpayable\",\"type\":\"constructor\"},{\"anonymous\":false,\"inputs\":[{\"indexed\":true,\"internalType\":\"bytes4\",\"name\":\"selector\",\"type\":\"bytes4\"},{\"indexed\":false,\"internalType\":\"address\",\"name\":\"oldImpl\",\"type\":\"address\"},{\"indexed\":false,\"internalType\":\"address\",\"name\":\"newImpl\",\"type\":\"address\"}],\"name\":\"ProxyFunctionUpdated\",\"type\":\"event\"},{\"stateMutability\":\"payable\",\"type\":\"fallback\"},{\"inputs\":[{\"internalType\":\"bytes4\",\"name\":\"selector\",\"type\":\"bytes4\"}],\"name\":\"getFunctionImplementation\",\"outputs\":[{\"internalType\":\"address\",\"name\":\"impl\",\"type\":\"address\"}],\"stateMutability\":\"view\",\"type\":\"function\"},{\"stateMutability\":\"payable\",\"type\":\"receive\"}]"
+}
