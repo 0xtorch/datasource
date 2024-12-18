@@ -1,0 +1,5 @@
+{
+  "address": "0x220d2415e29cc52cccd0b76b287f4f64466c1e21",
+  "label": "BlurAirdropBox",
+  "abi": "[{\"inputs\":[],\"stateMutability\":\"nonpayable\",\"type\":\"constructor\"},{\"stateMutability\":\"payable\",\"type\":\"fallback\"},{\"stateMutability\":\"payable\",\"type\":\"receive\"}]"
+}
