@@ -1,5 +1,101 @@
 [
   {
+    "source": "mexc-spot-trade_spot-trade_1733750257000",
+    "order": 0,
+    "type": "trade",
+    "timestamp": 1733750257000,
+    "evidence": "system-rule",
+    "transfers": [
+      {
+        "direction": "in",
+        "asset": {
+          "type": "CryptoCurrency",
+          "id": "bluemove",
+          "name": "BlueMove",
+          "symbol": "move",
+          "icon": "https://coin-images.coingecko.com/coins/images/28917/large/BlueMoveCoin.png?1696527892",
+          "market": { "coingeckoId": "bluemove", "marketCapUsd": 18683331 },
+          "updatedAt": 1728782536762
+        },
+        "amount": "638.67"
+      },
+      {
+        "direction": "out",
+        "asset": {
+          "type": "CryptoCurrency",
+          "id": "tether",
+          "name": "Tether",
+          "symbol": "usdt",
+          "icon": "https://coin-images.coingecko.com/coins/images/325/large/Tether.png?1696501661",
+          "market": { "coingeckoId": "tether", "marketCapUsd": 119675340267 },
+          "updatedAt": 1728782536762
+        },
+        "amount": "394.123257"
+      },
+      {
+        "direction": "out",
+        "asset": {
+          "type": "CryptoCurrency",
+          "id": "tether",
+          "name": "Tether",
+          "symbol": "usdt",
+          "icon": "https://coin-images.coingecko.com/coins/images/325/large/Tether.png?1696501661",
+          "market": { "coingeckoId": "tether", "marketCapUsd": 119675340267 },
+          "updatedAt": 1728782536762
+        },
+        "amount": "0.1970616285"
+      }
+    ]
+  },
+  {
+    "source": "mexc-spot-trade_spot-trade_1731393736000",
+    "order": 0,
+    "type": "trade",
+    "timestamp": 1731393736000,
+    "evidence": "system-rule",
+    "transfers": [
+      {
+        "direction": "out",
+        "asset": {
+          "type": "CryptoCurrency",
+          "id": "fantom",
+          "name": "Fantom",
+          "symbol": "ftm",
+          "icon": "https://coin-images.coingecko.com/coins/images/4001/large/Fantom_round.png?1696504642",
+          "market": { "coingeckoId": "fantom", "marketCapUsd": 1973462775 },
+          "updatedAt": 1728782536762
+        },
+        "amount": "217.04"
+      },
+      {
+        "direction": "in",
+        "asset": {
+          "type": "CryptoCurrency",
+          "id": "tether",
+          "name": "Tether",
+          "symbol": "usdt",
+          "icon": "https://coin-images.coingecko.com/coins/images/325/large/Tether.png?1696501661",
+          "market": { "coingeckoId": "tether", "marketCapUsd": 119675340267 },
+          "updatedAt": 1728782536762
+        },
+        "amount": "173.41496"
+      },
+      {
+        "direction": "out",
+        "asset": {
+          "type": "CryptoCurrency",
+          "id": "tether",
+          "name": "Tether",
+          "symbol": "usdt",
+          "icon": "https://coin-images.coingecko.com/coins/images/325/large/Tether.png?1696501661",
+          "market": { "coingeckoId": "tether", "marketCapUsd": 119675340267 },
+          "updatedAt": 1728782536762
+        },
+        "amount": "0.034682992"
+      }
+    ]
+  },
+  {
     "source": "mexc-spot-trade_spot-trade_1708131395000",
     "order": 0,
     "type": "trade",

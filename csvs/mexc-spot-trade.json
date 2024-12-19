@@ -22,7 +22,7 @@
             },
             "pattern": {
               "type": "in",
-              "values": ["BUY", "SELL"]
+              "values": ["BUY", "SELL", "買い", "売り"]
             }
           }
         ],
@@ -46,7 +46,10 @@
                 "target": [
                   {
                     "column": "方向",
-                    "pattern": "BUY"
+                    "pattern": {
+                      "type": "in",
+                      "values": ["BUY", "買い"]
+                    }
                   }
                 ],
                 "direction": "in",
@@ -74,7 +77,10 @@
                 "target": [
                   {
                     "column": "方向",
-                    "pattern": "SELL"
+                    "pattern": {
+                      "type": "in",
+                      "values": ["SELL", "売り"]
+                    }
                   }
                 ],
                 "direction": "out",
@@ -102,7 +108,10 @@
                 "target": [
                   {
                     "column": "方向",
-                    "pattern": "BUY"
+                    "pattern": {
+                      "type": "in",
+                      "values": ["BUY", "買い"]
+                    }
                   }
                 ],
                 "direction": "out",
@@ -130,7 +139,10 @@
                 "target": [
                   {
                     "column": "方向",
-                    "pattern": "SELL"
+                    "pattern": {
+                      "type": "in",
+                      "values": ["SELL", "売り"]
+                    }
                   }
                 ],
                 "direction": "in",
