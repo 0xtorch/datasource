@@ -1,0 +1,5 @@
+{
+  "address": "0xff4c78ba25a0e000f043be6231785df891c9ca73",
+  "label": "MappingIDs",
+  "abi": "[{\"inputs\":[{\"internalType\":\"string\",\"name\":\"name\",\"type\":\"string\"}],\"name\":\"getId\",\"outputs\":[{\"internalType\":\"string\",\"name\":\"\",\"type\":\"string\"}],\"stateMutability\":\"view\",\"type\":\"function\"},{\"inputs\":[{\"components\":[{\"internalType\":\"enum SLib.MappingIDCutAction\",\"name\":\"action\",\"type\":\"uint8\"},{\"internalType\":\"string\",\"name\":\"name\",\"type\":\"string\"},{\"internalType\":\"string\",\"name\":\"id\",\"type\":\"string\"}],\"internalType\":\"struct SLib.MappingIDCut_[]\",\"name\":\"mappingIdCuts\",\"type\":\"tuple[]\"}],\"name\":\"mappingIdCut\",\"outputs\":[],\"stateMutability\":\"nonpayable\",\"type\":\"function\"},{\"inputs\":[],\"name\":\"mappingIds\",\"outputs\":[{\"internalType\":\"string[][]\",\"name\":\"\",\"type\":\"string[][]\"}],\"stateMutability\":\"view\",\"type\":\"function\"}]"
+}
