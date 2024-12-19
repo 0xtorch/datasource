@@ -1,0 +1,5 @@
+{
+  "address": "0x393271e7ce2f7eb0effe4f6526f2efd7424122f4",
+  "label": "Reflector",
+  "abi": "[{\"inputs\":[],\"name\":\"reflect\",\"outputs\":[],\"stateMutability\":\"nonpayable\",\"type\":\"function\"},{\"inputs\":[{\"components\":[{\"internalType\":\"enum SLib.ReflectCutAction\",\"name\":\"action\",\"type\":\"uint8\"},{\"components\":[{\"internalType\":\"address\",\"name\":\"address_\",\"type\":\"address\"},{\"internalType\":\"bool\",\"name\":\"flag\",\"type\":\"bool\"}],\"internalType\":\"struct SLib.Reflect_\",\"name\":\"reflect_\",\"type\":\"tuple\"}],\"internalType\":\"struct SLib.ReflectCut_[]\",\"name\":\"reflectCuts\",\"type\":\"tuple[]\"}],\"name\":\"reflectCut\",\"outputs\":[],\"stateMutability\":\"nonpayable\",\"type\":\"function\"},{\"inputs\":[],\"name\":\"reflects\",\"outputs\":[{\"components\":[{\"internalType\":\"address\",\"name\":\"address_\",\"type\":\"address\"},{\"internalType\":\"bool\",\"name\":\"flag\",\"type\":\"bool\"}],\"internalType\":\"struct SLib.Reflect_[]\",\"name\":\"reflects_\",\"type\":\"tuple[]\"}],\"stateMutability\":\"view\",\"type\":\"function\"}]"
+}
