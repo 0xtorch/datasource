@@ -1,0 +1,5 @@
+{
+  "address": "0x631e033e1f88e6d9ed4b9b833e6437e8d29ec803",
+  "label": "Staking",
+  "abi": "[{\"inputs\":[{\"internalType\":\"address\",\"name\":\"newLiquidityAddress\",\"type\":\"address\"}],\"name\":\"changeLiquidityAddress\",\"outputs\":[],\"stateMutability\":\"nonpayable\",\"type\":\"function\"},{\"inputs\":[],\"name\":\"liquidityAddress\",\"outputs\":[{\"internalType\":\"address\",\"name\":\"\",\"type\":\"address\"}],\"stateMutability\":\"view\",\"type\":\"function\"},{\"inputs\":[{\"internalType\":\"uint256\",\"name\":\"amount\",\"type\":\"uint256\"}],\"name\":\"updateStake\",\"outputs\":[],\"stateMutability\":\"nonpayable\",\"type\":\"function\"}]"
+}
