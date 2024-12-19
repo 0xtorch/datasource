@@ -1,0 +1,5 @@
+{
+  "address": "0xc4bb29ef01388886038188e37f6f2fe03ddd29d0",
+  "label": "Allowances",
+  "abi": "[{\"inputs\":[{\"internalType\":\"address\",\"name\":\"_owner\",\"type\":\"address\"},{\"internalType\":\"address\",\"name\":\"_spender\",\"type\":\"address\"}],\"name\":\"allowance\",\"outputs\":[{\"internalType\":\"uint256\",\"name\":\"\",\"type\":\"uint256\"}],\"stateMutability\":\"view\",\"type\":\"function\"}]"
+}
