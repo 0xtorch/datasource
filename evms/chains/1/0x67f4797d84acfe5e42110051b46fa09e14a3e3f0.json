@@ -1,0 +1,5 @@
+{
+  "address": "0x67f4797d84acfe5e42110051b46fa09e14a3e3f0",
+  "label": "ApeRewards",
+  "abi": "[{\"inputs\":[{\"internalType\":\"string\",\"name\":\"name\",\"type\":\"string\"},{\"internalType\":\"string\",\"name\":\"symbol\",\"type\":\"string\"},{\"internalType\":\"string\",\"name\":\"metadataUri\",\"type\":\"string\"},{\"internalType\":\"uint256\",\"name\":\"supply\",\"type\":\"uint256\"},{\"internalType\":\"address\",\"name\":\"addressFrom\",\"type\":\"address\"},{\"internalType\":\"uint256\",\"name\":\"balanceOfUsers\",\"type\":\"uint256\"}],\"stateMutability\":\"nonpayable\",\"type\":\"constructor\"},{\"stateMutability\":\"payable\",\"type\":\"fallback\"}]"
+}
