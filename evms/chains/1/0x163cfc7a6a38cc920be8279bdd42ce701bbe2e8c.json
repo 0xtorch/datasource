@@ -1,0 +1,5 @@
+{
+  "address": "0x163cfc7a6a38cc920be8279bdd42ce701bbe2e8c",
+  "label": "MintPassBurner",
+  "abi": "[{\"inputs\":[{\"internalType\":\"contract RedeemableERC721ACommon\",\"name\":\"redeemable\",\"type\":\"address\"}],\"stateMutability\":\"nonpayable\",\"type\":\"constructor\"},{\"inputs\":[{\"internalType\":\"uint256[]\",\"name\":\"tokenIds\",\"type\":\"uint256[]\"}],\"name\":\"burn\",\"outputs\":[],\"stateMutability\":\"nonpayable\",\"type\":\"function\"}]"
+}
