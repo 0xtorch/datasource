@@ -1,0 +1,5 @@
+{
+  "address": "0x90caa1f75066bf51db94970f353f4e85309a4446",
+  "label": "SBTClaim",
+  "abi": "[{\"inputs\":[{\"internalType\":\"address\",\"name\":\"_nftAddress\",\"type\":\"address\"},{\"internalType\":\"address\",\"name\":\"_sbtAddress\",\"type\":\"address\"}],\"type\":\"constructor\"},{\"inputs\":[{\"internalType\":\"uint256\",\"name\":\"_tokenId\",\"type\":\"uint256\"}],\"name\":\"mintSbt\",\"outputs\":[],\"stateMutability\":\"nonpayable\",\"type\":\"function\"},{\"inputs\":[],\"name\":\"nftContract\",\"outputs\":[{\"internalType\":\"contract TsubasaNFT\",\"name\":\"\",\"type\":\"address\"}],\"stateMutability\":\"view\",\"type\":\"function\"},{\"inputs\":[],\"name\":\"sbtContract\",\"outputs\":[{\"internalType\":\"contract TsubasaSBT\",\"name\":\"\",\"type\":\"address\"}],\"stateMutability\":\"view\",\"type\":\"function\"},{\"inputs\":[],\"name\":\"OnlyOwner\",\"type\":\"error\"}]"
+}
