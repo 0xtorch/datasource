@@ -1,0 +1,5 @@
+{
+  "address": "0xe17ea225f1dbaef85c8970d9c7863885a679e53e",
+  "label": "Energy",
+  "abi": "[{\"anonymous\":false,\"inputs\":[{\"indexed\":false,\"internalType\":\"address\",\"name\":\"account\",\"type\":\"address\"},{\"indexed\":false,\"internalType\":\"uint256\",\"name\":\"claimTime\",\"type\":\"uint256\"}],\"name\":\"ClaimEnergy\",\"type\":\"event\"},{\"inputs\":[],\"name\":\"sendClaimEnergyRequest\",\"outputs\":[],\"stateMutability\":\"nonpayable\",\"type\":\"function\"}]"
+}
