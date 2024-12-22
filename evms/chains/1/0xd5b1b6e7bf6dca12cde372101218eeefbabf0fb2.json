@@ -1,0 +1,5 @@
+{
+  "address": "0xd5b1b6e7bf6dca12cde372101218eeefbabf0fb2",
+  "label": "ClipperRewardPosition",
+  "abi": "[{\"inputs\":[],\"stateMutability\":\"nonpayable\",\"type\":\"constructor\"},{\"stateMutability\":\"payable\",\"type\":\"fallback\"},{\"stateMutability\":\"payable\",\"type\":\"receive\"}]"
+}
