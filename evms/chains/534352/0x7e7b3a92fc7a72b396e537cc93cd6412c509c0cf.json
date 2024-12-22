@@ -1,0 +1,5 @@
+{
+  "address": "0x7e7b3a92fc7a72b396e537cc93cd6412c509c0cf",
+  "label": "OmniseaERC721PsiProxy",
+  "abi": "[{\"inputs\":[{\"internalType\":\"address\",\"name\":\"proxy_\",\"type\":\"address\"}],\"stateMutability\":\"nonpayable\",\"type\":\"constructor\"},{\"stateMutability\":\"payable\",\"type\":\"fallback\"},{\"stateMutability\":\"payable\",\"type\":\"receive\"}]"
+}
