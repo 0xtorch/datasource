@@ -1,0 +1,5 @@
+{
+  "address": "0x6c10d7e5750b21729eb863cf89e5b48850e6d97d",
+  "label": "ResolvedDelegateProxy",
+  "abi": "[{\"inputs\":[{\"internalType\":\"contract AddressManager\",\"name\":\"_addressManager\",\"type\":\"address\"},{\"internalType\":\"string\",\"name\":\"_implementationName\",\"type\":\"string\"}],\"stateMutability\":\"nonpayable\",\"type\":\"constructor\"},{\"stateMutability\":\"payable\",\"type\":\"fallback\"}]"
+}
