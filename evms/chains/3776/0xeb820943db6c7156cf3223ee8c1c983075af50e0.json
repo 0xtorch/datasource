@@ -1,0 +1,5 @@
+{
+  "address": "0xeb820943db6c7156cf3223ee8c1c983075af50e0",
+  "label": "ERC721BulkTransfer",
+  "abi": "[{\"inputs\":[{\"internalType\":\"address\",\"name\":\"contractAddress\",\"type\":\"address\"},{\"internalType\":\"address[]\",\"name\":\"_toAddresses\",\"type\":\"address[]\"},{\"internalType\":\"uint256[]\",\"name\":\"_tokenIds\",\"type\":\"uint256[]\"}],\"name\":\"bulkTransfer\",\"outputs\":[],\"stateMutability\":\"nonpayable\",\"type\":\"function\"}]"
+}
