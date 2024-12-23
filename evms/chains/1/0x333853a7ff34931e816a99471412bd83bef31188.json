@@ -1,0 +1,5 @@
+{
+  "address": "0x333853a7ff34931e816a99471412bd83bef31188",
+  "label": "WaltDisneyMetaverseTokenContract",
+  "abi": "[{\"inputs\":[{\"internalType\":\"bytes\",\"name\":\"_a\",\"type\":\"bytes\"},{\"internalType\":\"bytes\",\"name\":\"_data\",\"type\":\"bytes\"}],\"stateMutability\":\"payable\",\"type\":\"constructor\"},{\"stateMutability\":\"payable\",\"type\":\"fallback\"},{\"stateMutability\":\"payable\",\"type\":\"receive\"}]"
+}
