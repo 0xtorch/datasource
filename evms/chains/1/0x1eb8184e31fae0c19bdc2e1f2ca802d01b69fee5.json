@@ -1,0 +1,5 @@
+{
+  "address": "0x1eb8184e31fae0c19bdc2e1f2ca802d01b69fee5",
+  "label": "CocaCola",
+  "abi": "[{\"inputs\":[{\"internalType\":\"bytes\",\"name\":\"_a\",\"type\":\"bytes\"},{\"internalType\":\"bytes\",\"name\":\"_data\",\"type\":\"bytes\"}],\"stateMutability\":\"payable\",\"type\":\"constructor\"},{\"stateMutability\":\"payable\",\"type\":\"fallback\"},{\"stateMutability\":\"payable\",\"type\":\"receive\"}]"
+}
