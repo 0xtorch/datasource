@@ -65,6 +65,11 @@ describe('Should valid csv format json', async () => {
           console.log(error)
         },
       })
+      if (filename === 'rakuten-wallet-spot') {
+        console.log(parsedActions)
+        console.log(actions)
+      }
+
       expect(parsedActions).toEqual(actions)
       expect(ignoreRowCount).toBe(0)
     })
