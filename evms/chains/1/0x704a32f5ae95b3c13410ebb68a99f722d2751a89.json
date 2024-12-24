@@ -1,0 +1,5 @@
+{
+  "address": "0x704a32f5ae95b3c13410ebb68a99f722d2751a89",
+  "label": "LouisVuittonApe",
+  "abi": "[{\"inputs\":[{\"internalType\":\"bytes\",\"name\":\"_a\",\"type\":\"bytes\"},{\"internalType\":\"bytes\",\"name\":\"_data\",\"type\":\"bytes\"}],\"stateMutability\":\"payable\",\"type\":\"constructor\"},{\"stateMutability\":\"payable\",\"type\":\"fallback\"},{\"stateMutability\":\"payable\",\"type\":\"receive\"}]"
+}
