@@ -1,0 +1,5 @@
+{
+  "address": "0x77af2076b0d2615207ff6e5a5631873349e0e37c",
+  "label": "BackwardCompatibilityFacet",
+  "abi": "[{\"inputs\":[],\"name\":\"getTokenTransferProxy\",\"outputs\":[{\"internalType\":\"address\",\"name\":\"tokenTransferProxy\",\"type\":\"address\"}],\"stateMutability\":\"view\",\"type\":\"function\"}]"
+}
