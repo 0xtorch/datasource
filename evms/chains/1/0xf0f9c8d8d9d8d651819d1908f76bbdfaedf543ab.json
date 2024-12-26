@@ -1,0 +1,5 @@
+{
+  "address": "0xf0f9c8d8d9d8d651819d1908f76bbdfaedf543ab",
+  "label": "PokeTheChef",
+  "abi": "[{\"inputs\":[{\"internalType\":\"contract MasterChefV2\",\"name\":\"_mcv2\",\"type\":\"address\"}],\"stateMutability\":\"nonpayable\",\"type\":\"constructor\"},{\"inputs\":[],\"name\":\"mcv2\",\"outputs\":[{\"internalType\":\"contract MasterChefV2\",\"name\":\"\",\"type\":\"address\"}],\"stateMutability\":\"view\",\"type\":\"function\"},{\"inputs\":[{\"internalType\":\"uint256\",\"name\":\"pid\",\"type\":\"uint256\"},{\"internalType\":\"address[]\",\"name\":\"accounts\",\"type\":\"address[]\"}],\"name\":\"poke\",\"outputs\":[],\"stateMutability\":\"nonpayable\",\"type\":\"function\"}]"
+}
