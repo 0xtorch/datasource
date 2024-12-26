@@ -1,0 +1,272 @@
+[
+  {
+    "source": "gtax-common-format_1483196400000",
+    "order": 0,
+    "type": "trade",
+    "timestamp": 1483196400000,
+    "evidence": "system-rule",
+    "comment": "取引所名: AAA / 取引種別: 売買",
+    "transfers": [
+      {
+        "direction": "in",
+        "asset": {
+          "type": "CryptoCurrency",
+          "id": "bitcoin",
+          "name": "Bitcoin",
+          "symbol": "btc",
+          "icon": "https://coin-images.coingecko.com/coins/images/1/large/bitcoin.png?1696501400",
+          "market": { "coingeckoId": "bitcoin", "marketCapUsd": 1242823480668 },
+          "updatedAt": 1728782536762
+        },
+        "amount": "1"
+      },
+      {
+        "direction": "out",
+        "asset": {
+          "type": "FiatCurrency",
+          "id": "jpy",
+          "symbol": "JPY",
+          "name": "Japanese Yen"
+        },
+        "amount": "1000"
+      }
+    ]
+  },
+  {
+    "source": "gtax-common-format_1485874800000",
+    "order": 0,
+    "type": "trade",
+    "timestamp": 1485874800000,
+    "evidence": "system-rule",
+    "comment": "取引所名: AAA / 取引種別: 売買",
+    "transfers": [
+      {
+        "direction": "in",
+        "asset": {
+          "type": "CryptoCurrency",
+          "id": "bitcoin",
+          "name": "Bitcoin",
+          "symbol": "btc",
+          "icon": "https://coin-images.coingecko.com/coins/images/1/large/bitcoin.png?1696501400",
+          "market": { "coingeckoId": "bitcoin", "marketCapUsd": 1242823480668 },
+          "updatedAt": 1728782536762
+        },
+        "amount": "1"
+      },
+      {
+        "direction": "out",
+        "asset": {
+          "type": "FiatCurrency",
+          "id": "jpy",
+          "symbol": "JPY",
+          "name": "Japanese Yen"
+        },
+        "amount": "500"
+      },
+      {
+        "direction": "out",
+        "asset": {
+          "type": "CryptoCurrency",
+          "id": "bitcoin",
+          "name": "Bitcoin",
+          "symbol": "btc",
+          "icon": "https://coin-images.coingecko.com/coins/images/1/large/bitcoin.png?1696501400",
+          "market": { "coingeckoId": "bitcoin", "marketCapUsd": 1242823480668 },
+          "updatedAt": 1728782536762
+        },
+        "amount": "0.1"
+      }
+    ]
+  },
+  {
+    "source": "gtax-common-format_1488294000000",
+    "order": 0,
+    "type": "trade",
+    "timestamp": 1488294000000,
+    "evidence": "system-rule",
+    "comment": "取引所名: AAA / 取引種別: 売買",
+    "transfers": [
+      {
+        "direction": "in",
+        "asset": {
+          "type": "FiatCurrency",
+          "id": "jpy",
+          "symbol": "JPY",
+          "name": "Japanese Yen"
+        },
+        "amount": "1200"
+      },
+      {
+        "direction": "out",
+        "asset": {
+          "type": "CryptoCurrency",
+          "id": "bitcoin",
+          "name": "Bitcoin",
+          "symbol": "btc",
+          "icon": "https://coin-images.coingecko.com/coins/images/1/large/bitcoin.png?1696501400",
+          "market": { "coingeckoId": "bitcoin", "marketCapUsd": 1242823480668 },
+          "updatedAt": 1728782536762
+        },
+        "amount": "1"
+      }
+    ]
+  },
+  {
+    "source": "gtax-common-format_1490972400000",
+    "order": 0,
+    "type": "trade",
+    "timestamp": 1490972400000,
+    "evidence": "system-rule",
+    "comment": "取引所名: AAA / 取引種別: 売買",
+    "transfers": [
+      {
+        "direction": "in",
+        "asset": {
+          "type": "CryptoCurrency",
+          "id": "bitcoin",
+          "name": "Bitcoin",
+          "symbol": "btc",
+          "icon": "https://coin-images.coingecko.com/coins/images/1/large/bitcoin.png?1696501400",
+          "market": { "coingeckoId": "bitcoin", "marketCapUsd": 1242823480668 },
+          "updatedAt": 1728782536762
+        },
+        "amount": "2"
+      },
+      {
+        "direction": "out",
+        "asset": {
+          "type": "FiatCurrency",
+          "id": "jpy",
+          "symbol": "JPY",
+          "name": "Japanese Yen"
+        },
+        "amount": "1800"
+      }
+    ]
+  },
+  {
+    "source": "gtax-common-format_1493564400000",
+    "order": 0,
+    "type": "trade",
+    "timestamp": 1493564400000,
+    "evidence": "system-rule",
+    "comment": "取引所名: AAA / 取引種別: 売買",
+    "transfers": [
+      {
+        "direction": "in",
+        "asset": {
+          "type": "FiatCurrency",
+          "id": "jpy",
+          "symbol": "JPY",
+          "name": "Japanese Yen"
+        },
+        "amount": "2000"
+      },
+      {
+        "direction": "out",
+        "asset": {
+          "type": "CryptoCurrency",
+          "id": "bitcoin",
+          "name": "Bitcoin",
+          "symbol": "btc",
+          "icon": "https://coin-images.coingecko.com/coins/images/1/large/bitcoin.png?1696501400",
+          "market": { "coingeckoId": "bitcoin", "marketCapUsd": 1242823480668 },
+          "updatedAt": 1728782536762
+        },
+        "amount": "1"
+      },
+      {
+        "direction": "out",
+        "asset": {
+          "type": "CryptoCurrency",
+          "id": "bitcoin",
+          "name": "Bitcoin",
+          "symbol": "btc",
+          "icon": "https://coin-images.coingecko.com/coins/images/1/large/bitcoin.png?1696501400",
+          "market": { "coingeckoId": "bitcoin", "marketCapUsd": 1242823480668 },
+          "updatedAt": 1728782536762
+        },
+        "amount": "0.2"
+      }
+    ]
+  },
+  {
+    "source": "gtax-common-format_1496242800000",
+    "order": 0,
+    "type": "trade",
+    "timestamp": 1496242800000,
+    "evidence": "system-rule",
+    "comment": "取引所名: AAA / 取引種別: 売買",
+    "transfers": [
+      {
+        "direction": "in",
+        "asset": {
+          "type": "FiatCurrency",
+          "id": "jpy",
+          "symbol": "JPY",
+          "name": "Japanese Yen"
+        },
+        "amount": "1500"
+      },
+      {
+        "direction": "out",
+        "asset": {
+          "type": "CryptoCurrency",
+          "id": "bitcoin",
+          "name": "Bitcoin",
+          "symbol": "btc",
+          "icon": "https://coin-images.coingecko.com/coins/images/1/large/bitcoin.png?1696501400",
+          "market": { "coingeckoId": "bitcoin", "marketCapUsd": 1242823480668 },
+          "updatedAt": 1728782536762
+        },
+        "amount": "1.2"
+      }
+    ]
+  },
+  {
+    "source": "gtax-common-format_1494342000000",
+    "order": 0,
+    "type": "fee",
+    "timestamp": 1494342000000,
+    "evidence": "system-rule",
+    "comment": "取引所名: AAA / 取引種別: 預入",
+    "transfers": [
+      {
+        "direction": "out",
+        "asset": {
+          "type": "CryptoCurrency",
+          "id": "bitcoin",
+          "name": "Bitcoin",
+          "symbol": "btc",
+          "icon": "https://coin-images.coingecko.com/coins/images/1/large/bitcoin.png?1696501400",
+          "market": { "coingeckoId": "bitcoin", "marketCapUsd": 1242823480668 },
+          "updatedAt": 1728782536762
+        },
+        "amount": "0.1"
+      }
+    ]
+  },
+  {
+    "source": "gtax-common-format_1494774000000",
+    "order": 0,
+    "type": "fee",
+    "timestamp": 1494774000000,
+    "evidence": "system-rule",
+    "comment": "取引所名: AAA / 取引種別: 送付",
+    "transfers": [
+      {
+        "direction": "out",
+        "asset": {
+          "type": "CryptoCurrency",
+          "id": "bitcoin",
+          "name": "Bitcoin",
+          "symbol": "btc",
+          "icon": "https://coin-images.coingecko.com/coins/images/1/large/bitcoin.png?1696501400",
+          "market": { "coingeckoId": "bitcoin", "marketCapUsd": 1242823480668 },
+          "updatedAt": 1728782536762
+        },
+        "amount": "0.2"
+      }
+    ]
+  }
+]
