@@ -1,0 +1,5 @@
+{
+  "address": "0x182ebf4c80b28efc45ad992ecbb9f730e31e8c7f",
+  "label": "MultiMerkleMine",
+  "abi": "[{\"constant\":false,\"inputs\":[{\"name\":\"_merkleMineContract\",\"type\":\"address\"},{\"name\":\"_recipients\",\"type\":\"address[]\"},{\"name\":\"_merkleProofs\",\"type\":\"bytes\"}],\"name\":\"multiGenerate\",\"outputs\":[],\"payable\":false,\"stateMutability\":\"nonpayable\",\"type\":\"function\"}]"
+}
