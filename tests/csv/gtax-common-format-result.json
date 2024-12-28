@@ -1,5 +1,41 @@
 [
   {
+    "source": "gtax-common-format_1732070580000",
+    "order": 0,
+    "type": "trade",
+    "timestamp": 1732070580000,
+    "evidence": "system-rule",
+    "comment": "取引所名: Bybit / 取引種別: 売買",
+    "transfers": [
+      {
+        "direction": "in",
+        "asset": {
+          "type": "CryptoCurrency",
+          "id": "tether",
+          "name": "Tether",
+          "symbol": "usdt",
+          "icon": "https://coin-images.coingecko.com/coins/images/325/large/Tether.png?1696501661",
+          "market": { "coingeckoId": "tether", "marketCapUsd": 119675340267 },
+          "updatedAt": 1728782536762
+        },
+        "amount": "14831.26"
+      },
+      {
+        "direction": "out",
+        "asset": {
+          "type": "CryptoCurrency",
+          "id": "usd-coin",
+          "name": "USDC",
+          "symbol": "usdc",
+          "icon": "https://coin-images.coingecko.com/coins/images/6319/large/usdc.png?1696506694",
+          "market": { "coingeckoId": "usd-coin", "marketCapUsd": 35031669445 },
+          "updatedAt": 1728782536762
+        },
+        "amount": "14853.54"
+      }
+    ]
+  },
+  {
     "source": "gtax-common-format_1483196400000",
     "order": 0,
     "type": "trade",
