@@ -174,7 +174,10 @@
               "type": "cell",
               "column": "手数料数量"
             },
-            "pattern": ""
+            "pattern": {
+              "type": "in",
+              "values": ["", "\"0\""]
+            }
           }
         ],
         "generators": [
@@ -444,7 +447,10 @@
               "type": "cell",
               "column": "手数料数量"
             },
-            "pattern": ""
+            "pattern": {
+              "type": "in",
+              "values": ["", "\"0\""]
+            }
           }
         ],
         "generators": [
@@ -615,7 +621,10 @@
               "type": "cell",
               "column": "手数料数量"
             },
-            "pattern": ""
+            "pattern": {
+              "type": "in",
+              "values": ["", "\"0\""]
+            }
           }
         ],
         "generators": [
@@ -656,7 +665,7 @@
         ]
       },
       {
-        "description": "ボーナス, マイニング, ハードフォーク, 無償取得, FX利益 with fee",
+        "description": "ボーナス, マイニング, ハードフォーク, 無償取得, FX利益, fx_income with fee",
         "conditions": [
           {
             "value": {
@@ -670,7 +679,8 @@
                 "マイニング",
                 "ハードフォーク",
                 "無償取得",
-                "FX利益"
+                "FX利益",
+                "fx_income"
               ]
             }
           },
@@ -801,7 +811,7 @@
         ]
       },
       {
-        "description": "ボーナス, マイニング, ハードフォーク, 無償取得, FX利益 without fee",
+        "description": "ボーナス, マイニング, ハードフォーク, 無償取得, FX利益, fx_income without fee",
         "conditions": [
           {
             "value": {
@@ -815,7 +825,8 @@
                 "マイニング",
                 "ハードフォーク",
                 "無償取得",
-                "FX利益"
+                "FX利益",
+                "fx_income"
               ]
             }
           },
@@ -833,7 +844,10 @@
               "type": "cell",
               "column": "手数料数量"
             },
-            "pattern": ""
+            "pattern": {
+              "type": "in",
+              "values": ["", "\"0\""]
+            }
           }
         ],
         "generators": [
@@ -892,7 +906,7 @@
         ]
       },
       {
-        "description": "経費, FX損失 with fee",
+        "description": "経費, FX損失, fx_loss with fee",
         "conditions": [
           {
             "value": {
@@ -901,7 +915,7 @@
             },
             "pattern": {
               "type": "in",
-              "values": ["経費", "FX損失"]
+              "values": ["経費", "FX損失", "fx_loss"]
             }
           },
           {
@@ -1031,7 +1045,7 @@
         ]
       },
       {
-        "description": "経費, FX損失 without fee",
+        "description": "経費, FX損失, fx_loss without fee",
         "conditions": [
           {
             "value": {
@@ -1040,7 +1054,7 @@
             },
             "pattern": {
               "type": "in",
-              "values": ["経費", "FX損失"]
+              "values": ["経費", "FX損失", "fx_loss"]
             }
           },
           {
@@ -1057,7 +1071,10 @@
               "type": "cell",
               "column": "手数料数量"
             },
-            "pattern": ""
+            "pattern": {
+              "type": "in",
+              "values": ["", "\"0\""]
+            }
           }
         ],
         "generators": [
@@ -1281,7 +1298,10 @@
               "type": "cell",
               "column": "手数料数量"
             },
-            "pattern": ""
+            "pattern": {
+              "type": "in",
+              "values": ["", "\"0\""]
+            }
           }
         ],
         "generators": [
