@@ -2,7 +2,7 @@
   {
     "example": {
       "chainId": 2020,
-      "hash": "0x47f476853012ab5d71891d6ecc2324e69725373dffd6090c3939ca6c547661f3",
+      "hash": "0xaa5fc9aaccf42a9d031efc35b26b38ca0993a28a099c5ae1fa2087ee9eddaf81",
       "addresses": ["0xde3dcbe3619442e007e65698b82aa168de5b2297"]
     },
     "condition": {
@@ -19,35 +19,52 @@
         "max": "0"
       },
       "function": {
-        "id": "0xa694fc3a",
-        "interface": "stake(uint256)"
+        "id": "0x8803dbee",
+        "interface": "swapTokensForExactTokens(uint256, uint256, address[], address, uint256)"
       },
       "logs": {
-        "type": "exact",
+        "type": "some",
         "patterns": [
           {
-            "signature": "0xd247cac827464dafee8ef292281a2959c39bb57f4cfe99c6e4bde901bfff5781",
-            "indexedCount": 0
-          },
-          {
             "signature": "0xddf252ad1be2c89b69c2b068fc378daa952ba7f163c4a11628f55a4df523b3ef",
-            "indexedCount": 2
+            "indexedCount": 2,
+            "count": {
+              "type": "between",
+              "min": "2"
+            }
           },
           {
-            "signature": "0x5dac0c1b1112564a045ba943c9d50270893e8e826c49be8e7073adc713ab7bd7",
-            "indexedCount": 3
+            "signature": "0xd78ad95fa46c994b6551d0da85fc275fe613ce37657fb8d5e3d130840159d822",
+            "indexedCount": 2,
+            "count": {
+              "type": "between",
+              "min": "1"
+            }
           }
         ]
       }
     },
     "generators": [
       {
-        "type": "stake",
-        "loanId": {
-          "type": "join",
-          "values": ["evm_", { "type": "chain-id" }, "_", { "type": "to" }]
-        },
+        "type": "trade",
         "transfers": [
+          {
+            "type": "erc20",
+            "direction": "in",
+            "from": {
+              "type": "array-in",
+              "not": true,
+              "values": ["related"]
+            },
+            "to": {
+              "type": "array-in",
+              "values": ["related"]
+            },
+            "amount": {
+              "type": "between",
+              "min": "1"
+            }
+          },
           {
             "type": "erc20",
             "direction": "out",
