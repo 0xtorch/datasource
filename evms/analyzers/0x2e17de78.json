@@ -49,12 +49,106 @@
         "type": "unstake",
         "loanId": {
           "type": "join",
+          "values": [
+            "evm_",
+            {
+              "type": "chain-id"
+            },
+            "_",
+            {
+              "type": "to"
+            }
+          ]
+        },
+        "transfers": [
+          {
+            "from": {
+              "type": "array-in",
+              "not": true,
+              "values": ["related"]
+            },
+            "to": {
+              "type": "array-in",
+              "values": ["related"]
+            },
+            "amount": {
+              "type": "between",
+              "min": "1"
+            },
+            "type": "erc20",
+            "direction": "in"
+          },
+          {
+            "from": {
+              "type": "array-in",
+              "values": ["related"]
+            },
+            "to": {
+              "type": "array-in",
+              "not": true,
+              "values": ["related"]
+            },
+            "amount": {
+              "type": "between",
+              "min": "1"
+            },
+            "type": "erc20",
+            "direction": "out"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "example": {
+      "chainId": 2020,
+      "hash": "0xc1d48fc91444f8f73ff5dff0ebc9fbf09d21062bee6c5b16a08b7f1e7c1877bd",
+      "addresses": ["0xde3dcbe3619442e007e65698b82aa168de5b2297"]
+    },
+    "condition": {
+      "related": {
+        "type": "array-in",
+        "values": [
+          {
+            "type": "from"
+          }
+        ]
+      },
+      "value": {
+        "type": "between",
+        "max": "0"
+      },
+      "function": {
+        "id": "0x2e17de78",
+        "interface": "unstake(uint256)"
+      },
+      "logs": {
+        "type": "exact",
+        "patterns": [
+          {
+            "signature": "0xd247cac827464dafee8ef292281a2959c39bb57f4cfe99c6e4bde901bfff5781",
+            "indexedCount": 0
+          },
+          {
+            "signature": "0xddf252ad1be2c89b69c2b068fc378daa952ba7f163c4a11628f55a4df523b3ef",
+            "indexedCount": 2
+          },
+          {
+            "signature": "0xd8654fcc8cf5b36d30b3f5e4688fc78118e6d68de60b9994e09902268b57c3e3",
+            "indexedCount": 3
+          }
+        ]
+      }
+    },
+    "generators": [
+      {
+        "type": "unstake",
+        "loanId": {
+          "type": "join",
           "values": ["evm_", { "type": "chain-id" }, "_", { "type": "to" }]
         },
         "transfers": [
           {
-            "type": "erc20",
-            "direction": "in",
             "from": {
               "type": "array-in",
               "not": true,
@@ -67,24 +161,9 @@
             "amount": {
               "type": "between",
               "min": "1"
-            }
-          },
-          {
+            },
             "type": "erc20",
-            "direction": "out",
-            "from": {
-              "type": "array-in",
-              "values": ["related"]
-            },
-            "to": {
-              "type": "array-in",
-              "not": true,
-              "values": ["related"]
-            },
-            "amount": {
-              "type": "between",
-              "min": "1"
-            }
+            "direction": "in"
           }
         ]
       }
