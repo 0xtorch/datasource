@@ -123,19 +123,25 @@
         "interface": "unstake(uint256)"
       },
       "logs": {
-        "type": "exact",
+        "type": "some",
         "patterns": [
           {
-            "signature": "0xd247cac827464dafee8ef292281a2959c39bb57f4cfe99c6e4bde901bfff5781",
-            "indexedCount": 0
-          },
-          {
             "signature": "0xddf252ad1be2c89b69c2b068fc378daa952ba7f163c4a11628f55a4df523b3ef",
-            "indexedCount": 2
+            "indexedCount": 2,
+            "count": {
+              "type": "between",
+              "min": "1",
+              "max": "1"
+            }
           },
           {
             "signature": "0xd8654fcc8cf5b36d30b3f5e4688fc78118e6d68de60b9994e09902268b57c3e3",
-            "indexedCount": 3
+            "indexedCount": 3,
+            "count": {
+              "type": "between",
+              "min": "1",
+              "max": "1"
+            }
           }
         ]
       }
