@@ -1,0 +1,85 @@
+[
+  {
+    "example": {
+      "chainId": 592,
+      "hash": "0x3fe14a515c7c2ff35ea12c9f4d9fbc1cc89a1aa1e41104e67bca37a7e262ea77",
+      "addresses": ["0x323a1782333948bb1cc07330bee5a2b8ecc7bccc"]
+    },
+    "condition": {
+      "related": {
+        "type": "array-in",
+        "values": [
+          {
+            "type": "from"
+          }
+        ]
+      },
+      "chainId": [592],
+      "to": {
+        "type": "array-in",
+        "values": ["0xff6ba318cf46ea8ec4d94dbd5b3821ccf3bb111d"]
+      },
+      "value": {
+        "type": "between",
+        "max": "0"
+      },
+      "function": {
+        "id": "0x79f87832"
+      },
+      "logs": {
+        "type": "some",
+        "patterns": [
+          {
+            "signature": "0xddf252ad1be2c89b69c2b068fc378daa952ba7f163c4a11628f55a4df523b3ef",
+            "indexedCount": 2,
+            "count": {
+              "type": "between",
+              "min": "2"
+            }
+          }
+        ]
+      }
+    },
+    "generators": [
+      {
+        "type": "trade",
+        "transfers": [
+          {
+            "type": "erc20",
+            "direction": "in",
+            "from": {
+              "type": "array-in",
+              "not": true,
+              "values": ["related"]
+            },
+            "to": {
+              "type": "array-in",
+              "values": ["related"]
+            },
+            "amount": {
+              "type": "between",
+              "min": "1"
+            }
+          },
+          {
+            "type": "erc20",
+            "direction": "out",
+            "from": {
+              "type": "array-in",
+              "values": ["related"]
+            },
+            "to": {
+              "type": "array-in",
+              "not": true,
+              "values": ["related"]
+            },
+            "amount": {
+              "type": "between",
+              "min": "1"
+            }
+          }
+        ]
+      }
+    ]
+  }
+]
