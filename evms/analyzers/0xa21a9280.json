@@ -1,0 +1,88 @@
+[
+  {
+    "example": {
+      "chainId": 1284,
+      "hash": "0x35a5a884ae85f97089a43948db0db6d28e257da806843808243e3712812c1414",
+      "addresses": ["0x4f0ff7c035041c75deb9aac907e6814392a5f407"]
+    },
+    "condition": {
+      "related": {
+        "type": "array-in",
+        "values": [
+          {
+            "type": "from"
+          }
+        ]
+      },
+      "value": {
+        "type": "between",
+        "max": "0"
+      },
+      "function": {
+        "id": "0xa21a9280",
+        "interface": "withdraw(bytes, bytes[], address[], uint256[])"
+      },
+      "logs": {
+        "type": "some",
+        "patterns": [
+          {
+            "signature": "0xddf252ad1be2c89b69c2b068fc378daa952ba7f163c4a11628f55a4df523b3ef",
+            "indexedCount": 2,
+            "count": {
+              "type": "between",
+              "min": "1",
+              "max": "1"
+            }
+          },
+          {
+            "signature": "0x48a1ab26f3aa7b62bb6b6e8eed182f292b84eb7b006c0254386b268af20774be",
+            "indexedCount": 0,
+            "count": {
+              "type": "between",
+              "min": "1",
+              "max": "1"
+            }
+          }
+        ]
+      }
+    },
+    "generators": [
+      {
+        "type": "bridge-to",
+        "crossId": {
+          "type": "join",
+          "values": [
+            "cbridge_",
+            {
+              "type": "log",
+              "signature": "0x48a1ab26f3aa7b62bb6b6e8eed182f292b84eb7b006c0254386b268af20774be",
+              "indexedCount": 0,
+              "index": 0,
+              "value": 5
+            }
+          ]
+        },
+        "crossType": "end",
+        "transfers": [
+          {
+            "type": "erc20",
+            "direction": "in",
+            "from": {
+              "type": "array-in",
+              "not": true,
+              "values": ["related"]
+            },
+            "to": {
+              "type": "array-in",
+              "values": ["related"]
+            },
+            "amount": {
+              "type": "between",
+              "min": "1"
+            }
+          }
+        ]
+      }
+    ]
+  }
+]
