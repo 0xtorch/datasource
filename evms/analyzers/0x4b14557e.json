@@ -1,1 +1,170 @@
-[]
+[
+  {
+    "example": {
+      "chainId": 1,
+      "hash": "0x0b26af2c1cbe00ac36df5640dee71406aac32ce940165311d9ea7a9b34b6facb",
+      "addresses": ["0xf9b5e1202ac637bcfed4eed026086531c5847d00"]
+    },
+    "condition": {
+      "related": {
+        "type": "array-in",
+        "values": [
+          {
+            "type": "from"
+          }
+        ]
+      },
+      "chainId": [1],
+      "to": {
+        "type": "array-in",
+        "values": ["0x64192819ac13ef72bf6b5ae239ac672b43a9af08"]
+      },
+      "value": {
+        "type": "between",
+        "min": "1"
+      },
+      "function": {
+        "id": "0x4b14557e",
+        "interface": "requestDepositFor(tuple)"
+      },
+      "logs": {
+        "type": "exact",
+        "patterns": [
+          {
+            "signature": "0xd7b25068d9dc8d00765254cfb7f5070f98d263c8d68931d937c7362fa738048b",
+            "indexedCount": 0
+          }
+        ]
+      }
+    },
+    "generators": [
+      {
+        "type": "bridge-from",
+        "crossId": {
+          "type": "join",
+          "values": [
+            "ronin-bridge_",
+            {
+              "type": "log",
+              "signature": "0xd7b25068d9dc8d00765254cfb7f5070f98d263c8d68931d937c7362fa738048b",
+              "indexedCount": 0,
+              "index": 0,
+              "value": 0
+            }
+          ]
+        },
+        "crossType": "start",
+        "transfers": [
+          {
+            "type": "value",
+            "direction": "out",
+            "from": {
+              "type": "array-in",
+              "values": ["related"]
+            },
+            "to": {
+              "type": "array-in",
+              "not": true,
+              "values": ["related"]
+            },
+            "value": {
+              "type": "between",
+              "min": "1"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "example": {
+      "chainId": 1,
+      "hash": "0xd86fa09cc4f4dc955f4f6bb8c89013c7a6d01d81a117d707c09f65a5d5390077",
+      "addresses": ["0xf9b5e1202ac637bcfed4eed026086531c5847d00"]
+    },
+    "condition": {
+      "related": {
+        "type": "array-in",
+        "values": [
+          {
+            "type": "from"
+          }
+        ]
+      },
+      "chainId": [1],
+      "to": {
+        "type": "array-in",
+        "values": ["0x64192819ac13ef72bf6b5ae239ac672b43a9af08"]
+      },
+      "value": {
+        "type": "between",
+        "max": "0"
+      },
+      "function": {
+        "id": "0x4b14557e",
+        "interface": "requestDepositFor(tuple)"
+      },
+      "logs": {
+        "type": "some",
+        "patterns": [
+          {
+            "signature": "0xddf252ad1be2c89b69c2b068fc378daa952ba7f163c4a11628f55a4df523b3ef",
+            "indexedCount": 2,
+            "count": {
+              "type": "between",
+              "min": "1",
+              "max": "1"
+            }
+          },
+          {
+            "signature": "0xd7b25068d9dc8d00765254cfb7f5070f98d263c8d68931d937c7362fa738048b",
+            "indexedCount": 0,
+            "count": {
+              "type": "between",
+              "min": "1",
+              "max": "1"
+            }
+          }
+        ]
+      }
+    },
+    "generators": [
+      {
+        "type": "bridge-from",
+        "crossId": {
+          "type": "join",
+          "values": [
+            "ronin-bridge_",
+            {
+              "type": "log",
+              "signature": "0xd7b25068d9dc8d00765254cfb7f5070f98d263c8d68931d937c7362fa738048b",
+              "indexedCount": 0,
+              "index": 0,
+              "value": 0
+            }
+          ]
+        },
+        "crossType": "start",
+        "transfers": [
+          {
+            "type": "erc20",
+            "direction": "out",
+            "from": {
+              "type": "array-in",
+              "values": ["related"]
+            },
+            "to": {
+              "type": "array-in",
+              "not": true,
+              "values": ["related"]
+            },
+            "amount": {
+              "type": "between",
+              "min": "1"
+            }
+          }
+        ]
+      }
+    ]
+  }
+]
