@@ -1,1 +1,92 @@
-[]
+[
+  {
+    "example": {
+      "chainId": 169,
+      "hash": "0x39deea6e33ff56e8edef13a62b7862c2c39baa369c958d3d9fa78670cfe927e6",
+      "addresses": ["0xf0d51a479cf52c355e6ab3f60d9f339ec7482e90"]
+    },
+    "condition": {
+      "related": {
+        "type": "array-in",
+        "values": [
+          {
+            "type": "log",
+            "signature": "0x79fa08de5149d912dce8e5e8da7a7c17ccdf23dd5d3bfe196802e6eb86347c7c",
+            "indexedCount": 0,
+            "index": 0,
+            "value": 2
+          }
+        ]
+      },
+      "value": {
+        "type": "between",
+        "max": "0"
+      },
+      "function": {
+        "id": "0xcdd1b25d",
+        "interface": "relay(bytes, bytes[], address[], uint256[])"
+      },
+      "logs": {
+        "type": "some",
+        "patterns": [
+          {
+            "signature": "0xddf252ad1be2c89b69c2b068fc378daa952ba7f163c4a11628f55a4df523b3ef",
+            "indexedCount": 2,
+            "count": {
+              "type": "between",
+              "min": "1",
+              "max": "1"
+            }
+          },
+          {
+            "signature": "0x79fa08de5149d912dce8e5e8da7a7c17ccdf23dd5d3bfe196802e6eb86347c7c",
+            "indexedCount": 0,
+            "count": {
+              "type": "between",
+              "min": "1",
+              "max": "1"
+            }
+          }
+        ]
+      }
+    },
+    "generators": [
+      {
+        "type": "bridge-to",
+        "crossId": {
+          "type": "join",
+          "values": [
+            "cbridge_",
+            {
+              "type": "log",
+              "signature": "0x79fa08de5149d912dce8e5e8da7a7c17ccdf23dd5d3bfe196802e6eb86347c7c",
+              "indexedCount": 0,
+              "index": 0,
+              "value": 6
+            }
+          ]
+        },
+        "crossType": "end",
+        "transfers": [
+          {
+            "type": "erc20",
+            "direction": "in",
+            "from": {
+              "type": "array-in",
+              "not": true,
+              "values": ["related"]
+            },
+            "to": {
+              "type": "array-in",
+              "values": ["related"]
+            },
+            "amount": {
+              "type": "between",
+              "min": "1"
+            }
+          }
+        ]
+      }
+    ]
+  }
+]
