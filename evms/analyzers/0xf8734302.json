@@ -1,0 +1,82 @@
+[
+  {
+    "example": {
+      "chainId": 592,
+      "hash": "0x1f221005300dd138e8eace626e16ce37c59ab8050d902f45798a8eff89cd9e46",
+      "addresses": ["0x323a1782333948bb1cc07330bee5a2b8ecc7bccc"]
+    },
+    "condition": {
+      "related": {
+        "type": "array-in",
+        "values": [
+          {
+            "type": "log",
+            "signature": "0x5bc84ecccfced5bb04bfc7f3efcdbe7f5cd21949ef146811b4d1967fe41f777a",
+            "indexedCount": 0,
+            "index": 0,
+            "value": 2
+          }
+        ]
+      },
+      "value": {
+        "type": "between",
+        "max": "0"
+      },
+      "function": {
+        "id": "0xf8734302",
+        "interface": "mint(bytes, bytes[], address[], uint256[])"
+      },
+      "logs": {
+        "type": "exact",
+        "patterns": [
+          {
+            "signature": "0xddf252ad1be2c89b69c2b068fc378daa952ba7f163c4a11628f55a4df523b3ef",
+            "indexedCount": 2
+          },
+          {
+            "signature": "0x5bc84ecccfced5bb04bfc7f3efcdbe7f5cd21949ef146811b4d1967fe41f777a",
+            "indexedCount": 0
+          }
+        ]
+      }
+    },
+    "generators": [
+      {
+        "type": "bridge-to",
+        "crossId": {
+          "type": "join",
+          "values": [
+            "cbridge_",
+            {
+              "type": "log",
+              "signature": "0x5bc84ecccfced5bb04bfc7f3efcdbe7f5cd21949ef146811b4d1967fe41f777a",
+              "indexedCount": 0,
+              "index": 0,
+              "value": 5
+            }
+          ]
+        },
+        "crossType": "end",
+        "transfers": [
+          {
+            "type": "erc20",
+            "direction": "in",
+            "from": {
+              "type": "array-in",
+              "not": true,
+              "values": ["related"]
+            },
+            "to": {
+              "type": "array-in",
+              "values": ["related"]
+            },
+            "amount": {
+              "type": "between",
+              "min": "1"
+            }
+          }
+        ]
+      }
+    ]
+  }
+]
