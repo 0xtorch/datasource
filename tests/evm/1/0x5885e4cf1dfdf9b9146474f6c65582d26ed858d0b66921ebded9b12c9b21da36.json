@@ -1,0 +1,162 @@
+{
+  "blockNumber": 20300835,
+  "chainId": 1,
+  "effectiveGasPrice": "32221634854",
+  "erc20Transfers": [
+    {
+      "address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+      "logIndex": 537,
+      "from": "0x0000000000000000000000000000000000000000",
+      "to": "0x7510792a3b1969f9307f3845ce88e39578f2bae1",
+      "value": "4099709549138410956",
+      "token": {
+        "address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+        "name": "",
+        "symbol": "",
+        "decimals": 0,
+        "currency": {
+          "type": "CryptoCurrency",
+          "id": "evm_1_0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+          "name": "",
+          "symbol": "",
+          "updatedAt": 0
+        }
+      }
+    }
+  ],
+  "erc721Transfers": [],
+  "erc1155Transfers": [],
+  "from": {
+    "chainId": 1,
+    "address": "0xf9b5e1202ac637bcfed4eed026086531c5847d00"
+  },
+  "gasUsed": "76260",
+  "hash": "0x5885e4cf1dfdf9b9146474f6c65582d26ed858d0b66921ebded9b12c9b21da36",
+  "input": "0x00a95fd700000000000000000000000000000000000000000000000038e5181d1eabfdcc0000000000000000000000000000000000000000000000000000000000000250000000000000000000000000323a1782333948bb1cc07330bee5a2b8ecc7bccc00000000000000000000000000000000000000000000000000000190ae678937",
+  "internalTransactions": [
+    {
+      "blockNumber": 20300835,
+      "from": "0x7510792a3b1969f9307f3845ce88e39578f2bae1",
+      "gas": "11934",
+      "isError": false,
+      "timestamp": 1720912955000,
+      "to": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+      "txHash": "0x5885e4cf1dfdf9b9146474f6c65582d26ed858d0b66921ebded9b12c9b21da36",
+      "value": "4099709549138410956"
+    }
+  ],
+  "logs": [
+    {
+      "address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+      "data": "0x00000000000000000000000000000000000000000000000038e5181d1eabfdcc",
+      "logIndex": 537,
+      "topics": [
+        "0xe1fffcc4923d04b559f4d29a8bfc6cda04eb5b0d3c460751c2402c5c5cc9109c",
+        "0x0000000000000000000000007510792a3b1969f9307f3845ce88e39578f2bae1"
+      ],
+      "transactionHash": "0x5885e4cf1dfdf9b9146474f6c65582d26ed858d0b66921ebded9b12c9b21da36",
+      "eventName": "Deposit",
+      "args": [
+        {
+          "indexed": true,
+          "name": "dst",
+          "type": "address",
+          "value": "0x7510792a3b1969f9307f3845ce88e39578f2bae1"
+        },
+        {
+          "indexed": false,
+          "name": "wad",
+          "type": "uint256",
+          "value": "4099709549138410956"
+        }
+      ]
+    },
+    {
+      "address": "0x7510792a3b1969f9307f3845ce88e39578f2bae1",
+      "data": "0xeb6b6c083843f9c024698e41a5552487db3697c715159531eabf66878fd066cb000000000000000000000000f9b5e1202ac637bcfed4eed026086531c5847d00000000000000000000000000c02aaa39b223fe8d0a0e5c4f27ead9083c756cc200000000000000000000000000000000000000000000000038e5181d1eabfdcc0000000000000000000000000000000000000000000000000000000000000250000000000000000000000000323a1782333948bb1cc07330bee5a2b8ecc7bccc00000000000000000000000000000000000000000000000000000190ae678937",
+      "logIndex": 538,
+      "topics": [
+        "0x28d226819e371600e26624ebc4a9a3947117ee2760209f816c789d3a99bf481b"
+      ],
+      "transactionHash": "0x5885e4cf1dfdf9b9146474f6c65582d26ed858d0b66921ebded9b12c9b21da36",
+      "eventName": "Deposited",
+      "args": [
+        {
+          "indexed": false,
+          "name": "depositId",
+          "type": "bytes32",
+          "value": "0xeb6b6c083843f9c024698e41a5552487db3697c715159531eabf66878fd066cb"
+        },
+        {
+          "indexed": false,
+          "name": "depositor",
+          "type": "address",
+          "value": "0xF9b5E1202AC637BcfED4EEd026086531c5847D00"
+        },
+        {
+          "indexed": false,
+          "name": "token",
+          "type": "address",
+          "value": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2"
+        },
+        {
+          "indexed": false,
+          "name": "amount",
+          "type": "uint256",
+          "value": "4099709549138410956"
+        },
+        {
+          "indexed": false,
+          "name": "mintChainId",
+          "type": "uint64",
+          "value": "592"
+        },
+        {
+          "indexed": false,
+          "name": "mintAccount",
+          "type": "address",
+          "value": "0x323a1782333948bB1cc07330Bee5a2b8eCc7bCcc"
+        },
+        {
+          "indexed": false,
+          "name": "nonce",
+          "type": "uint64",
+          "value": "1720912939319"
+        }
+      ]
+    }
+  ],
+  "status": "success",
+  "timestamp": 1720912955000,
+  "to": {
+    "chainId": 1,
+    "address": "0x7510792a3b1969f9307f3845ce88e39578f2bae1"
+  },
+  "value": "4099709549138410956",
+  "function": {
+    "args": [
+      {
+        "type": "uint256",
+        "name": "_amount",
+        "value": "4099709549138410956"
+      },
+      {
+        "type": "uint64",
+        "name": "_mintChainId",
+        "value": "592"
+      },
+      {
+        "type": "address",
+        "name": "_mintAccount",
+        "value": "0x323a1782333948bB1cc07330Bee5a2b8eCc7bCcc"
+      },
+      {
+        "type": "uint64",
+        "name": "_nonce",
+        "value": "1720912939319"
+      }
+    ],
+    "name": "depositNative",
+    "interface": "depositNative(uint256, uint64, address, uint64)"
+  }
+}

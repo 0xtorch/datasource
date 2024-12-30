@@ -1,9 +1,9 @@
 [
   {
     "example": {
-      "chainId": 1284,
-      "hash": "0xe94692a398262e991dd3392b803a0bddc56285930d220fc72c47e0c9c322369f",
-      "addresses": ["0xf0d51a479cf52c355e6ab3f60d9f339ec7482e90"]
+      "chainId": 1,
+      "hash": "0x5885e4cf1dfdf9b9146474f6c65582d26ed858d0b66921ebded9b12c9b21da36",
+      "addresses": ["0xf9b5e1202ac637bcfed4eed026086531c5847d00"]
     },
     "condition": {
       "related": {
@@ -16,32 +16,22 @@
       },
       "value": {
         "type": "between",
-        "max": "0"
+        "min": "1"
       },
       "function": {
-        "id": "0xa5977fbb",
-        "interface": "send(address, address, uint256, uint64, uint64, uint32)"
+        "id": "0x00a95fd7",
+        "interface": "depositNative(uint256, uint64, address, uint64)"
       },
       "logs": {
-        "type": "some",
+        "type": "exact",
         "patterns": [
           {
-            "signature": "0xddf252ad1be2c89b69c2b068fc378daa952ba7f163c4a11628f55a4df523b3ef",
-            "indexedCount": 2,
-            "count": {
-              "type": "between",
-              "min": "1",
-              "max": "1"
-            }
+            "signature": "0xe1fffcc4923d04b559f4d29a8bfc6cda04eb5b0d3c460751c2402c5c5cc9109c",
+            "indexedCount": 1
           },
           {
-            "signature": "0x89d8051e597ab4178a863a5190407b98abfeff406aa8db90c59af76612e58f01",
-            "indexedCount": 0,
-            "count": {
-              "type": "between",
-              "min": "1",
-              "max": "1"
-            }
+            "signature": "0x28d226819e371600e26624ebc4a9a3947117ee2760209f816c789d3a99bf481b",
+            "indexedCount": 0
           }
         ]
       }
@@ -55,7 +45,7 @@
             "cbridge_",
             {
               "type": "log",
-              "signature": "0x89d8051e597ab4178a863a5190407b98abfeff406aa8db90c59af76612e58f01",
+              "signature": "0x28d226819e371600e26624ebc4a9a3947117ee2760209f816c789d3a99bf481b",
               "indexedCount": 0,
               "index": 0,
               "value": 0
@@ -65,7 +55,7 @@
         "crossType": "start",
         "transfers": [
           {
-            "type": "erc20",
+            "type": "value",
             "direction": "out",
             "from": {
               "type": "array-in",
@@ -76,7 +66,7 @@
               "not": true,
               "values": ["related"]
             },
-            "amount": {
+            "value": {
               "type": "between",
               "min": "1"
             }

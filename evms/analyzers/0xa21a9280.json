@@ -1,0 +1,168 @@
+[
+  {
+    "example": {
+      "chainId": 1284,
+      "hash": "0x35a5a884ae85f97089a43948db0db6d28e257da806843808243e3712812c1414",
+      "addresses": ["0x4f0ff7c035041c75deb9aac907e6814392a5f407"]
+    },
+    "condition": {
+      "related": {
+        "type": "array-in",
+        "values": [
+          {
+            "type": "from"
+          }
+        ]
+      },
+      "value": {
+        "type": "between",
+        "max": "0"
+      },
+      "function": {
+        "id": "0xa21a9280",
+        "interface": "withdraw(bytes, bytes[], address[], uint256[])"
+      },
+      "logs": {
+        "type": "some",
+        "patterns": [
+          {
+            "signature": "0xddf252ad1be2c89b69c2b068fc378daa952ba7f163c4a11628f55a4df523b3ef",
+            "indexedCount": 2,
+            "count": {
+              "type": "between",
+              "min": "1",
+              "max": "1"
+            }
+          },
+          {
+            "signature": "0x48a1ab26f3aa7b62bb6b6e8eed182f292b84eb7b006c0254386b268af20774be",
+            "indexedCount": 0,
+            "count": {
+              "type": "between",
+              "min": "1",
+              "max": "1"
+            }
+          }
+        ]
+      }
+    },
+    "generators": [
+      {
+        "type": "bridge-to",
+        "crossId": {
+          "type": "join",
+          "values": [
+            "cbridge_",
+            {
+              "type": "log",
+              "signature": "0x48a1ab26f3aa7b62bb6b6e8eed182f292b84eb7b006c0254386b268af20774be",
+              "indexedCount": 0,
+              "index": 0,
+              "value": 5
+            }
+          ]
+        },
+        "crossType": "end",
+        "transfers": [
+          {
+            "from": {
+              "type": "array-in",
+              "not": true,
+              "values": ["related"]
+            },
+            "to": {
+              "type": "array-in",
+              "values": ["related"]
+            },
+            "amount": {
+              "type": "between",
+              "min": "1"
+            },
+            "type": "erc20",
+            "direction": "in"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "example": {
+      "chainId": 1,
+      "hash": "0xfc4af023f7d92b6aae2742007f1950ef084bf2dca536aba733dcc7a2aaadf461",
+      "addresses": ["0x323a1782333948bb1cc07330bee5a2b8ecc7bccc"]
+    },
+    "condition": {
+      "related": {
+        "type": "array-in",
+        "values": [
+          {
+            "type": "log",
+            "signature": "0x296a629c5265cb4e5319803d016902eb70a9079b89655fe2b7737821ed88beeb",
+            "indexedCount": 0,
+            "index": 0,
+            "value": 1
+          }
+        ]
+      },
+      "value": {
+        "type": "between",
+        "max": "0"
+      },
+      "function": {
+        "id": "0xa21a9280",
+        "interface": "withdraw(bytes, bytes[], address[], uint256[])"
+      },
+      "logs": {
+        "type": "exact",
+        "patterns": [
+          {
+            "signature": "0x7fcf532c15f0a6db0bd6d0e038bea71d30d808c7d98cb3bf7268a95bf5081b65",
+            "indexedCount": 1
+          },
+          {
+            "signature": "0x296a629c5265cb4e5319803d016902eb70a9079b89655fe2b7737821ed88beeb",
+            "indexedCount": 0
+          }
+        ]
+      }
+    },
+    "generators": [
+      {
+        "type": "bridge-to",
+        "crossId": {
+          "type": "join",
+          "values": [
+            "cbridge_",
+            {
+              "type": "log",
+              "signature": "0x296a629c5265cb4e5319803d016902eb70a9079b89655fe2b7737821ed88beeb",
+              "indexedCount": 0,
+              "index": 0,
+              "value": 5
+            }
+          ]
+        },
+        "crossType": "end",
+        "transfers": [
+          {
+            "type": "internal",
+            "direction": "in",
+            "from": {
+              "type": "array-in",
+              "not": true,
+              "values": ["related"]
+            },
+            "to": {
+              "type": "array-in",
+              "values": ["related"]
+            },
+            "value": {
+              "type": "between",
+              "min": "1"
+            }
+          }
+        ]
+      }
+    ]
+  }
+]
