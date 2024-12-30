@@ -1,0 +1,78 @@
+[
+  {
+    "example": {
+      "chainId": 592,
+      "hash": "0x9a635be546c1213b4d0be4babed89bcfc897ea71f7cbde579e8591389a31a57e",
+      "addresses": ["0x323a1782333948bb1cc07330bee5a2b8ecc7bccc"]
+    },
+    "condition": {
+      "related": {
+        "type": "array-in",
+        "values": [
+          {
+            "type": "from"
+          }
+        ]
+      },
+      "value": {
+        "type": "between",
+        "max": "0"
+      },
+      "function": {
+        "id": "0xa0029301",
+        "interface": "burn(address, uint256, uint64, address, uint64)"
+      },
+      "logs": {
+        "type": "exact",
+        "patterns": [
+          {
+            "signature": "0x6298d7b58f235730b3b399dc5c282f15dae8b022e5fbbf89cee21fd83c8810a3",
+            "indexedCount": 0
+          },
+          {
+            "signature": "0xddf252ad1be2c89b69c2b068fc378daa952ba7f163c4a11628f55a4df523b3ef",
+            "indexedCount": 2
+          }
+        ]
+      }
+    },
+    "generators": [
+      {
+        "type": "bridge-from",
+        "crossId": {
+          "type": "join",
+          "values": [
+            "cbridge_",
+            {
+              "type": "log",
+              "signature": "0x6298d7b58f235730b3b399dc5c282f15dae8b022e5fbbf89cee21fd83c8810a3",
+              "indexedCount": 0,
+              "index": 0,
+              "value": 0
+            }
+          ]
+        },
+        "crossType": "start",
+        "transfers": [
+          {
+            "type": "erc20",
+            "direction": "out",
+            "from": {
+              "type": "array-in",
+              "values": ["related"]
+            },
+            "to": {
+              "type": "array-in",
+              "not": true,
+              "values": ["related"]
+            },
+            "amount": {
+              "type": "between",
+              "min": "1"
+            }
+          }
+        ]
+      }
+    ]
+  }
+]
