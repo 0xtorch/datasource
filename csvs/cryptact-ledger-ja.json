@@ -11,12 +11,14 @@
     "価格": ["blank", "big-decimal"],
     "手数料": ["big-decimal"],
     "手数料通貨": ["blank", "string"],
+    "損益（JPY）": ["big-decimal", "string"],
     "フィードバック": ["string"],
     "コメント": ["string"]
   },
   "parser": {
     "parsers": [
       {
+        "description": "買い",
         "conditions": [
           {
             "value": {
@@ -79,6 +81,11 @@
                   "type": "cell",
                   "column": "ソース"
                 },
+                " / 種類: ",
+                {
+                  "type": "cell",
+                  "column": "種類"
+                },
                 " / コメント: ",
                 {
                   "type": "cell",
@@ -153,6 +160,7 @@
         ]
       },
       {
+        "description": "売り",
         "conditions": [
           {
             "value": {
@@ -215,6 +223,11 @@
                   "type": "cell",
                   "column": "ソース"
                 },
+                " / 種類: ",
+                {
+                  "type": "cell",
+                  "column": "種類"
+                },
                 " / コメント: ",
                 {
                   "type": "cell",
@@ -289,13 +302,22 @@
         ]
       },
       {
+        "description": "ボーナス / マイニング / ステーキング報酬 / 貸コイン収入",
         "conditions": [
           {
             "value": {
               "type": "cell",
               "column": "種類"
             },
-            "pattern": "ボーナス"
+            "pattern": {
+              "type": "in",
+              "values": [
+                "ボーナス",
+                "マイニング",
+                "ステーキング報酬",
+                "貸コイン収入"
+              ]
+            }
           },
           {
             "value": {
@@ -333,6 +355,11 @@
                   "type": "cell",
                   "column": "ソース"
                 },
+                " / 種類: ",
+                {
+                  "type": "cell",
+                  "column": "種類"
+                },
                 " / コメント: ",
                 {
                   "type": "cell",
@@ -363,6 +390,7 @@
         ]
       },
       {
+        "description": "送金手数料 / DeFi手数料 / 信用・FX手数料 / 損失",
         "conditions": [
           {
             "value": {
@@ -371,13 +399,22 @@
             },
             "pattern": {
               "type": "in",
-              "values": ["送金手数料", "DeFi手数料"]
+              "values": ["送金手数料", "DeFi手数料", "信用・FX手数料", "損失"]
             }
           },
           {
             "value": {
               "type": "cell",
               "column": "主軸通貨"
+            },
+            "pattern": {
+              "type": "defined"
+            }
+          },
+          {
+            "value": {
+              "type": "cell",
+              "column": "手数料通貨"
             },
             "pattern": {
               "type": "defined"
@@ -410,6 +447,11 @@
                   "type": "cell",
                   "column": "ソース"
                 },
+                " / 種類: ",
+                {
+                  "type": "cell",
+                  "column": "種類"
+                },
                 " / コメント: ",
                 {
                   "type": "cell",
@@ -419,6 +461,14 @@
             },
             "transfers": [
               {
+                "target": [
+                  {
+                    "column": "取引量",
+                    "pattern": {
+                      "type": "positive"
+                    }
+                  }
+                ],
                 "direction": "out",
                 "amount": {
                   "type": "text",
@@ -434,12 +484,38 @@
                     "column": "主軸通貨"
                   }
                 }
+              },
+              {
+                "target": [
+                  {
+                    "column": "手数料",
+                    "pattern": {
+                      "type": "positive"
+                    }
+                  }
+                ],
+                "direction": "out",
+                "amount": {
+                  "type": "text",
+                  "value": {
+                    "type": "cell",
+                    "column": "手数料"
+                  }
+                },
+                "asset": {
+                  "type": "symbol",
+                  "value": {
+                    "type": "cell",
+                    "column": "手数料通貨"
+                  }
+                }
               }
             ]
           }
         ]
       },
       {
+        "description": "支払い",
         "conditions": [
           {
             "value": {
@@ -484,6 +560,11 @@
                   "type": "cell",
                   "column": "ソース"
                 },
+                " / 種類: ",
+                {
+                  "type": "cell",
+                  "column": "種類"
+                },
                 " / コメント: ",
                 {
                   "type": "cell",
@@ -514,6 +595,99 @@
         ]
       },
       {
+        "description": "在庫減少 / チップ",
+        "conditions": [
+          {
+            "value": {
+              "type": "cell",
+              "column": "種類"
+            },
+            "pattern": {
+              "type": "in",
+              "values": ["在庫減少", "チップ"]
+            }
+          },
+          {
+            "value": {
+              "type": "cell",
+              "column": "主軸通貨"
+            },
+            "pattern": {
+              "type": "defined"
+            }
+          },
+          {
+            "value": {
+              "type": "cell",
+              "column": "取引量"
+            },
+            "pattern": {
+              "type": "positive"
+            }
+          }
+        ],
+        "generators": [
+          {
+            "type": "transfer",
+            "source": {
+              "type": "join",
+              "values": [
+                { "type": "service" },
+                "_",
+                {
+                  "type": "cell",
+                  "column": "日時"
+                }
+              ]
+            },
+            "timestamp": {
+              "type": "cell",
+              "column": "日時"
+            },
+            "comment": {
+              "type": "join",
+              "values": [
+                "ソース: ",
+                {
+                  "type": "cell",
+                  "column": "ソース"
+                },
+                " / 種類: ",
+                {
+                  "type": "cell",
+                  "column": "種類"
+                },
+                " / コメント: ",
+                {
+                  "type": "cell",
+                  "column": "コメント"
+                }
+              ]
+            },
+            "transfers": [
+              {
+                "direction": "out",
+                "amount": {
+                  "type": "text",
+                  "value": {
+                    "type": "cell",
+                    "column": "取引量"
+                  }
+                },
+                "asset": {
+                  "type": "symbol",
+                  "value": {
+                    "type": "cell",
+                    "column": "主軸通貨"
+                  }
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "description": "現金調整 > 利益",
         "conditions": [
           {
             "value": {
@@ -529,6 +703,15 @@
             },
             "pattern": {
               "type": "defined"
+            }
+          },
+          {
+            "value": {
+              "type": "cell",
+              "column": "手数料"
+            },
+            "pattern": {
+              "type": "negative"
             }
           }
         ],
@@ -558,6 +741,11 @@
                   "type": "cell",
                   "column": "ソース"
                 },
+                " / 種類: ",
+                {
+                  "type": "cell",
+                  "column": "種類"
+                },
                 " / コメント: ",
                 {
                   "type": "cell",
@@ -584,6 +772,313 @@
                 }
               }
             ]
+          }
+        ]
+      },
+      {
+        "description": "現金調整 > 損失",
+        "conditions": [
+          {
+            "value": {
+              "type": "cell",
+              "column": "種類"
+            },
+            "pattern": "現金調整"
+          },
+          {
+            "value": {
+              "type": "cell",
+              "column": "手数料通貨"
+            },
+            "pattern": {
+              "type": "defined"
+            }
+          },
+          {
+            "value": {
+              "type": "cell",
+              "column": "手数料"
+            },
+            "pattern": {
+              "type": "positive"
+            }
+          }
+        ],
+        "generators": [
+          {
+            "type": "fee",
+            "source": {
+              "type": "join",
+              "values": [
+                { "type": "service" },
+                "_",
+                {
+                  "type": "cell",
+                  "column": "日時"
+                }
+              ]
+            },
+            "timestamp": {
+              "type": "cell",
+              "column": "日時"
+            },
+            "comment": {
+              "type": "join",
+              "values": [
+                "ソース: ",
+                {
+                  "type": "cell",
+                  "column": "ソース"
+                },
+                " / 種類: ",
+                {
+                  "type": "cell",
+                  "column": "種類"
+                },
+                " / コメント: ",
+                {
+                  "type": "cell",
+                  "column": "コメント"
+                }
+              ]
+            },
+            "transfers": [
+              {
+                "direction": "out",
+                "amount": {
+                  "type": "text",
+                  "value": {
+                    "type": "cell",
+                    "column": "手数料"
+                  }
+                },
+                "asset": {
+                  "type": "symbol",
+                  "value": {
+                    "type": "cell",
+                    "column": "手数料通貨"
+                  }
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "description": "実現損益 > profit",
+        "conditions": [
+          {
+            "value": {
+              "type": "cell",
+              "column": "種類"
+            },
+            "pattern": "実現損益"
+          },
+          {
+            "value": {
+              "type": "cell",
+              "column": "損益（JPY）"
+            },
+            "pattern": {
+              "type": "positive"
+            }
+          }
+        ],
+        "generators": [
+          {
+            "type": "realize-profit",
+            "source": {
+              "type": "join",
+              "values": [
+                { "type": "service" },
+                "_",
+                {
+                  "type": "cell",
+                  "column": "日時"
+                }
+              ]
+            },
+            "timestamp": {
+              "type": "cell",
+              "column": "日時"
+            },
+            "comment": {
+              "type": "join",
+              "values": [
+                "ソース: ",
+                {
+                  "type": "cell",
+                  "column": "ソース"
+                },
+                " / 種類: ",
+                {
+                  "type": "cell",
+                  "column": "種類"
+                },
+                " / コメント: ",
+                {
+                  "type": "cell",
+                  "column": "コメント"
+                }
+              ]
+            },
+            "transfers": [
+              {
+                "direction": "in",
+                "amount": {
+                  "type": "text",
+                  "value": {
+                    "type": "cell",
+                    "column": "損益（JPY）"
+                  }
+                },
+                "asset": {
+                  "type": "symbol",
+                  "value": "JPY"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "description": "実現損益 > loss",
+        "conditions": [
+          {
+            "value": {
+              "type": "cell",
+              "column": "種類"
+            },
+            "pattern": "実現損益"
+          },
+          {
+            "value": {
+              "type": "cell",
+              "column": "損益（JPY）"
+            },
+            "pattern": {
+              "type": "negative"
+            }
+          }
+        ],
+        "generators": [
+          {
+            "type": "realize-loss",
+            "source": {
+              "type": "join",
+              "values": [
+                { "type": "service" },
+                "_",
+                {
+                  "type": "cell",
+                  "column": "日時"
+                }
+              ]
+            },
+            "timestamp": {
+              "type": "cell",
+              "column": "日時"
+            },
+            "comment": {
+              "type": "join",
+              "values": [
+                "ソース: ",
+                {
+                  "type": "cell",
+                  "column": "ソース"
+                },
+                " / 種類: ",
+                {
+                  "type": "cell",
+                  "column": "種類"
+                },
+                " / コメント: ",
+                {
+                  "type": "cell",
+                  "column": "コメント"
+                }
+              ]
+            },
+            "transfers": [
+              {
+                "direction": "out",
+                "amount": {
+                  "type": "text",
+                  "value": {
+                    "type": "cell",
+                    "column": "損益（JPY）"
+                  }
+                },
+                "asset": {
+                  "type": "symbol",
+                  "value": "JPY"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "description": "手数料通貨の売却 / 借コイン / 借コイン返却 / 貸コイン / 貸コイン回収 / レベルアップ / 要識別",
+        "conditions": [
+          {
+            "value": {
+              "type": "cell",
+              "column": "種類"
+            },
+            "pattern": {
+              "type": "in",
+              "values": [
+                "手数料通貨の売却",
+                "借コイン",
+                "借コイン返却",
+                "貸コイン",
+                "貸コイン回収",
+                "レベルアップ",
+                "要識別"
+              ]
+            }
+          }
+        ],
+        "generators": [
+          {
+            "type": "ignore",
+            "source": {
+              "type": "join",
+              "values": [
+                { "type": "service" },
+                "_",
+                {
+                  "type": "cell",
+                  "column": "日時"
+                }
+              ]
+            },
+            "timestamp": {
+              "type": "cell",
+              "column": "日時"
+            },
+            "comment": {
+              "type": "join",
+              "values": [
+                "ソース: ",
+                {
+                  "type": "cell",
+                  "column": "ソース"
+                },
+                " / 種類: ",
+                {
+                  "type": "cell",
+                  "column": "種類"
+                },
+                " / コメント: ",
+                {
+                  "type": "cell",
+                  "column": "コメント"
+                }
+              ]
+            },
+            "transfers": []
           }
         ]
       }
