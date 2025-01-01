@@ -1,5 +1,6 @@
 {
   "address": "0x0000000000001ff3684f28c67538d4d072c22734",
   "label": "AllowanceHolder",
+  "app": "0x",
   "abi": "[{\"inputs\":[],\"stateMutability\":\"nonpayable\",\"type\":\"constructor\"},{\"inputs\":[],\"name\":\"ConfusedDeputy\",\"type\":\"error\"},{\"stateMutability\":\"payable\",\"type\":\"fallback\"}]"
 }
