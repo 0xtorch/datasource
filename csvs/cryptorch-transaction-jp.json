@@ -23,6 +23,7 @@
     "key": ["actionSource", "actionOrder"],
     "parsers": [
       {
+        "description": "trade",
         "conditions": [
           {
             "value": {
@@ -125,6 +126,7 @@
         ]
       },
       {
+        "description": "airdrop",
         "conditions": [
           {
             "value": {
@@ -193,6 +195,7 @@
         ]
       },
       {
+        "description": "cash-back",
         "conditions": [
           {
             "value": {
@@ -261,6 +264,7 @@
         ]
       },
       {
+        "description": "derivative-profit",
         "conditions": [
           {
             "value": {
@@ -329,6 +333,7 @@
         ]
       },
       {
+        "description": "free-mint",
         "conditions": [
           {
             "value": {
@@ -397,6 +402,7 @@
         ]
       },
       {
+        "description": "game-reward",
         "conditions": [
           {
             "value": {
@@ -465,6 +471,7 @@
         ]
       },
       {
+        "description": "gift",
         "conditions": [
           {
             "value": {
@@ -533,6 +540,7 @@
         ]
       },
       {
+        "description": "hardfork",
         "conditions": [
           {
             "value": {
@@ -601,6 +609,7 @@
         ]
       },
       {
+        "description": "income",
         "conditions": [
           {
             "value": {
@@ -669,6 +678,7 @@
         ]
       },
       {
+        "description": "interest",
         "conditions": [
           {
             "value": {
@@ -737,6 +747,7 @@
         ]
       },
       {
+        "description": "mining",
         "conditions": [
           {
             "value": {
@@ -805,6 +816,7 @@
         ]
       },
       {
+        "description": "nft-royalty",
         "conditions": [
           {
             "value": {
@@ -873,6 +885,7 @@
         ]
       },
       {
+        "description": "realize-profit",
         "conditions": [
           {
             "value": {
@@ -941,6 +954,7 @@
         ]
       },
       {
+        "description": "staking-reward",
         "conditions": [
           {
             "value": {
@@ -1009,6 +1023,7 @@
         ]
       },
       {
+        "description": "transfer",
         "conditions": [
           {
             "value": {
@@ -1077,6 +1092,7 @@
         ]
       },
       {
+        "description": "burn",
         "conditions": [
           {
             "value": {
@@ -1145,6 +1161,7 @@
         ]
       },
       {
+        "description": "derivative-fee",
         "conditions": [
           {
             "value": {
@@ -1213,6 +1230,7 @@
         ]
       },
       {
+        "description": "fee",
         "conditions": [
           {
             "value": {
@@ -1281,6 +1299,7 @@
         ]
       },
       {
+        "description": "interest-fee",
         "conditions": [
           {
             "value": {
@@ -1349,6 +1368,7 @@
         ]
       },
       {
+        "description": "pay",
         "conditions": [
           {
             "value": {
@@ -1417,6 +1437,7 @@
         ]
       },
       {
+        "description": "realize-loss",
         "conditions": [
           {
             "value": {
@@ -1485,6 +1506,7 @@
         ]
       },
       {
+        "description": "stolen",
         "conditions": [
           {
             "value": {
@@ -1553,6 +1575,7 @@
         ]
       },
       {
+        "description": "transaction-fee",
         "conditions": [
           {
             "value": {
