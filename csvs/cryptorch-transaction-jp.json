@@ -1976,7 +1976,7 @@
             },
             "pattern": {
               "type": "in",
-              "values": ["trade", ""]
+              "values": ["trade", "insufficient", ""]
             }
           }
         ],
@@ -2399,7 +2399,7 @@
             },
             "pattern": {
               "type": "in",
-              "values": ["trade", ""]
+              "values": ["trade", "insufficient", ""]
             }
           }
         ],
@@ -2822,7 +2822,7 @@
             },
             "pattern": {
               "type": "in",
-              "values": ["trade", ""]
+              "values": ["trade", "insufficient", ""]
             }
           }
         ],
@@ -3245,7 +3245,7 @@
             },
             "pattern": {
               "type": "in",
-              "values": ["trade", ""]
+              "values": ["trade", "insufficient", ""]
             }
           }
         ],
@@ -3668,7 +3668,7 @@
             },
             "pattern": {
               "type": "in",
-              "values": ["trade", ""]
+              "values": ["trade", "insufficient", ""]
             }
           }
         ],
@@ -4091,7 +4091,7 @@
             },
             "pattern": {
               "type": "in",
-              "values": ["trade", ""]
+              "values": ["trade", "insufficient", ""]
             }
           }
         ],
@@ -4514,7 +4514,7 @@
             },
             "pattern": {
               "type": "in",
-              "values": ["trade", ""]
+              "values": ["trade", "insufficient", ""]
             }
           }
         ],
@@ -4937,7 +4937,7 @@
             },
             "pattern": {
               "type": "in",
-              "values": ["trade", ""]
+              "values": ["trade", "insufficient", ""]
             }
           },
           {
@@ -5913,7 +5913,7 @@
             },
             "pattern": {
               "type": "in",
-              "values": ["replace", ""]
+              "values": ["replace", "insufficient", ""]
             }
           },
           {
@@ -6357,7 +6357,7 @@
             },
             "pattern": {
               "type": "in",
-              "values": ["replace", ""]
+              "values": ["replace", "insufficient", ""]
             }
           },
           {
@@ -6801,7 +6801,7 @@
             },
             "pattern": {
               "type": "in",
-              "values": ["replace", ""]
+              "values": ["replace", "insufficient", ""]
             }
           },
           {
