@@ -843,6 +843,45 @@
         ]
       },
       {
+        "description": "日本円入出金",
+        "conditions": [
+          {
+            "value": {
+              "type": "cell",
+              "column": "精算区分"
+            },
+            "pattern": "日本円入出金"
+          }
+        ],
+        "generators": [
+          {
+            "type": "ignore",
+            "source": {
+              "type": "join",
+              "values": [
+                { "type": "service" },
+                "_",
+                { "type": "cell", "column": "日時" }
+              ]
+            },
+            "timestamp": {
+              "type": "cell",
+              "column": "日時"
+            },
+            "comment": {
+              "type": "join",
+              "values": [
+                { "type": "cell", "column": "精算区分" },
+                ": ",
+                { "type": "cell", "column": "日本円受渡金額" },
+                "[JPY]"
+              ]
+            },
+            "transfers": []
+          }
+        ]
+      },
+      {
         "description": "暗号資産預入・送付 > 送付",
         "conditions": [
           {

@@ -1,5 +1,14 @@
 [
   {
+    "source": "gmo-coin-statement_1618503300000",
+    "order": 0,
+    "type": "ignore",
+    "timestamp": 1618503300000,
+    "evidence": "system-rule",
+    "comment": "日本円入出金: \"500000\"[JPY]",
+    "transfers": []
+  },
+  {
     "source": "gmo-coin-statement_1734148380000",
     "order": 0,
     "type": "ignore",
