@@ -1,5 +1,5 @@
 {
-  "id": "sbivc-trade-trade",
+  "id": "sbivc-trade-cashflow",
   "service": "sbivc-trade",
   "formatter": {
     "日時": ["datetime-jp"],
