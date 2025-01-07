@@ -233,6 +233,7 @@
     ]
   },
   "symbolAssetMap": {
+    "ALT": "crypto/aptos-launch-token",
     "ALTLAYER": "crypto/altlayer"
   }
 }
