@@ -790,7 +790,177 @@
         ]
       },
       {
-        "description": "暗号資産預入・送付",
+        "description": "暗号資産預入・送付 > ステーキング",
+        "conditions": [
+          {
+            "value": {
+              "type": "cell",
+              "column": "精算区分"
+            },
+            "pattern": "暗号資産預入・送付"
+          },
+          {
+            "value": {
+              "type": "cell",
+              "column": "授受区分"
+            },
+            "pattern": "預入"
+          },
+          {
+            "value": {
+              "type": "cell",
+              "column": "数量"
+            },
+            "pattern": {
+              "type": "positive"
+            }
+          },
+          {
+            "value": {
+              "type": "cell",
+              "column": "送付先/送付元"
+            },
+            "pattern": "ステーキング"
+          }
+        ],
+        "generators": [
+          {
+            "type": "staking-reward",
+            "source": {
+              "type": "join",
+              "values": [
+                { "type": "service" },
+                "_",
+                { "type": "cell", "column": "日時" }
+              ]
+            },
+            "timestamp": {
+              "type": "cell",
+              "column": "日時"
+            },
+            "comment": {
+              "type": "join",
+              "values": [
+                { "type": "cell", "column": "授受区分" },
+                ": ",
+                { "type": "cell", "column": "数量" },
+                "[",
+                { "type": "cell", "column": "銘柄名" },
+                "] / 送付先/送付元: ",
+                { "type": "cell", "column": "送付先/送付元" },
+                " / トランザクションID: ",
+                { "type": "cell", "column": "トランザクションID" }
+              ]
+            },
+            "transfers": [
+              {
+                "direction": "in",
+                "amount": {
+                  "type": "text",
+                  "value": {
+                    "type": "cell",
+                    "column": "数量"
+                  }
+                },
+                "asset": {
+                  "type": "symbol",
+                  "value": {
+                    "type": "cell",
+                    "column": "銘柄名"
+                  }
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "description": "暗号資産預入・送付 > ステーキング手数料",
+        "conditions": [
+          {
+            "value": {
+              "type": "cell",
+              "column": "精算区分"
+            },
+            "pattern": "暗号資産預入・送付"
+          },
+          {
+            "value": {
+              "type": "cell",
+              "column": "授受区分"
+            },
+            "pattern": "送付"
+          },
+          {
+            "value": {
+              "type": "cell",
+              "column": "数量"
+            },
+            "pattern": {
+              "type": "positive"
+            }
+          },
+          {
+            "value": {
+              "type": "cell",
+              "column": "送付先/送付元"
+            },
+            "pattern": "ステーキング手数料"
+          }
+        ],
+        "generators": [
+          {
+            "type": "fee",
+            "source": {
+              "type": "join",
+              "values": [
+                { "type": "service" },
+                "_",
+                { "type": "cell", "column": "日時" }
+              ]
+            },
+            "timestamp": {
+              "type": "cell",
+              "column": "日時"
+            },
+            "comment": {
+              "type": "join",
+              "values": [
+                { "type": "cell", "column": "授受区分" },
+                ": ",
+                { "type": "cell", "column": "数量" },
+                "[",
+                { "type": "cell", "column": "銘柄名" },
+                "] / 送付先/送付元: ",
+                { "type": "cell", "column": "送付先/送付元" },
+                " / トランザクションID: ",
+                { "type": "cell", "column": "トランザクションID" }
+              ]
+            },
+            "transfers": [
+              {
+                "direction": "out",
+                "amount": {
+                  "type": "text",
+                  "value": {
+                    "type": "cell",
+                    "column": "数量"
+                  }
+                },
+                "asset": {
+                  "type": "symbol",
+                  "value": {
+                    "type": "cell",
+                    "column": "銘柄名"
+                  }
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "description": "暗号資産預入・送付 > ステーキング関連以外",
         "conditions": [
           {
             "value": {
@@ -807,6 +977,16 @@
             "pattern": {
               "type": "in",
               "values": ["", "\"0\""]
+            }
+          },
+          {
+            "value": {
+              "type": "cell",
+              "column": "送付先/送付元"
+            },
+            "pattern": {
+              "type": "not-in",
+              "values": ["ステーキング", "ステーキング手数料"]
             }
           }
         ],
