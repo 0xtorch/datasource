@@ -89,5 +89,25 @@
         "amount": "0.000436"
       }
     ]
+  },
+  {
+    "source": "sbivc-trade-cashflow_cashflow_1724640411000",
+    "order": 0,
+    "type": "gift",
+    "timestamp": 1724640411000,
+    "evidence": "system-rule",
+    "comment": "入出金の種別: その他 / 数量: \"1000\"JPY / 備考: 紹介プログラム2024年7月分（被紹介者）",
+    "transfers": [
+      {
+        "direction": "in",
+        "asset": {
+          "type": "FiatCurrency",
+          "id": "jpy",
+          "symbol": "JPY",
+          "name": "Japanese Yen"
+        },
+        "amount": "1000"
+      }
+    ]
   }
 ]
