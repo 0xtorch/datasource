@@ -9,6 +9,24 @@
     "transfers": []
   },
   {
+    "source": "gmo-coin-statement_1673320200000",
+    "order": 0,
+    "type": "ignore",
+    "timestamp": 1673320200000,
+    "evidence": "system-rule",
+    "comment": "預入: \"0.031694\"[XYM] / 送付先/送付元: ステーキング / トランザクションID: ",
+    "transfers": []
+  },
+  {
+    "source": "gmo-coin-statement_1702291080000",
+    "order": 0,
+    "type": "ignore",
+    "timestamp": 1702291080000,
+    "evidence": "system-rule",
+    "comment": "送付: \"0.009703\"[XYM] / 送付先/送付元: ステーキング手数料 / トランザクションID: ",
+    "transfers": []
+  },
+  {
     "source": "gmo-coin-statement_1734148380000",
     "order": 0,
     "type": "ignore",
