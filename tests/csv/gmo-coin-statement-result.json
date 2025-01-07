@@ -11,20 +11,48 @@
   {
     "source": "gmo-coin-statement_1673320200000",
     "order": 0,
-    "type": "ignore",
+    "type": "staking-reward",
     "timestamp": 1673320200000,
     "evidence": "system-rule",
     "comment": "預入: \"0.031694\"[XYM] / 送付先/送付元: ステーキング / トランザクションID: ",
-    "transfers": []
+    "transfers": [
+      {
+        "direction": "in",
+        "asset": {
+          "type": "CryptoCurrency",
+          "id": "symbol",
+          "name": "Symbol",
+          "symbol": "xym",
+          "icon": "https://coin-images.coingecko.com/coins/images/14411/large/xym.png?1696514103",
+          "market": { "coingeckoId": "symbol", "marketCapUsd": 0 },
+          "updatedAt": 1719984459107
+        },
+        "amount": "0.031694"
+      }
+    ]
   },
   {
     "source": "gmo-coin-statement_1702291080000",
     "order": 0,
-    "type": "ignore",
+    "type": "fee",
     "timestamp": 1702291080000,
     "evidence": "system-rule",
     "comment": "送付: \"0.009703\"[XYM] / 送付先/送付元: ステーキング手数料 / トランザクションID: ",
-    "transfers": []
+    "transfers": [
+      {
+        "direction": "out",
+        "asset": {
+          "type": "CryptoCurrency",
+          "id": "symbol",
+          "name": "Symbol",
+          "symbol": "xym",
+          "icon": "https://coin-images.coingecko.com/coins/images/14411/large/xym.png?1696514103",
+          "market": { "coingeckoId": "symbol", "marketCapUsd": 0 },
+          "updatedAt": 1719984459107
+        },
+        "amount": "0.009703"
+      }
+    ]
   },
   {
     "source": "gmo-coin-statement_1734148380000",
