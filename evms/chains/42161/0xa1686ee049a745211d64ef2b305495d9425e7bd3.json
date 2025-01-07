@@ -1,0 +1,5 @@
+{
+  "address": "0xa1686ee049a745211d64ef2b305495d9425e7bd3",
+  "label": "VersionFacet",
+  "abi": "[{\"inputs\":[],\"name\":\"version\",\"outputs\":[{\"internalType\":\"string\",\"name\":\"\",\"type\":\"string\"}],\"stateMutability\":\"pure\",\"type\":\"function\"}]"
+}
