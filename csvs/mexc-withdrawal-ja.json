@@ -90,5 +90,8 @@
         ]
       }
     ]
+  },
+  "symbolAssetMap": {
+    "ALTLAYER": "crypto/altlayer"
   }
 }

@@ -189,5 +189,8 @@
         ]
       }
     ]
+  },
+  "symbolAssetMap": {
+    "ALTLAYER": "crypto/altlayer"
   }
 }
