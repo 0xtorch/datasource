@@ -1,0 +1,5 @@
+{
+  "address": "0x33b92f2a3ad516876e8902151e82de7f05d97d2b",
+  "label": "Series",
+  "abi": "[{\"inputs\":[{\"internalType\":\"address\",\"name\":\"implementation_\",\"type\":\"address\"},{\"internalType\":\"bytes\",\"name\":\"initializeData\",\"type\":\"bytes\"},{\"internalType\":\"bytes\",\"name\":\"mintVectorData\",\"type\":\"bytes\"},{\"internalType\":\"bytes\",\"name\":\"mechanicVectorData\",\"type\":\"bytes\"},{\"internalType\":\"bool\",\"name\":\"isCollectorsChoice\",\"type\":\"bool\"}],\"stateMutability\":\"nonpayable\",\"type\":\"constructor\"},{\"stateMutability\":\"payable\",\"type\":\"fallback\"},{\"inputs\":[],\"name\":\"implementation\",\"outputs\":[{\"internalType\":\"address\",\"name\":\"\",\"type\":\"address\"}],\"stateMutability\":\"view\",\"type\":\"function\"},{\"inputs\":[],\"name\":\"standard\",\"outputs\":[{\"internalType\":\"string\",\"name\":\"\",\"type\":\"string\"}],\"stateMutability\":\"pure\",\"type\":\"function\"},{\"stateMutability\":\"payable\",\"type\":\"receive\"}]"
+}
