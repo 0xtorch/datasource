@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_blockTimestamp","internalType":"uint256","type":"uint256"}],"name":"getTwammRewardFactor","outputs":[{"name":"rewardFactorPool0AtTimestamp","internalType":"uint256","type":"uint256"},{"name":"rewardFactorPool1AtTimestamp","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

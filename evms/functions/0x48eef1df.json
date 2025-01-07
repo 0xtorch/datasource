@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"callAmount","internalType":"uint256","type":"uint256"},{"name":"poolTokenId","internalType":"uint256","type":"uint256"}],"name":"submitCall","outputs":[{"name":"callRequestedTokenId","internalType":"uint256","type":"uint256"},{"name":"remainingTokenId","internalType":"uint256","type":"uint256"}],"stateMutability":"nonpayable"}]

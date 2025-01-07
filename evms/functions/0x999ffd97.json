@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"user","internalType":"address","type":"address"},{"name":"i","internalType":"uint256","type":"uint256"}],"name":"getPendingReward","outputs":[{"name":"","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

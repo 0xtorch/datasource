@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_from","internalType":"address","type":"address"},{"name":"_to","internalType":"address[]","type":"address[]"},{"name":"amount","internalType":"uint256","type":"uint256"}],"name":"Rewarded","outputs":[{"name":"","internalType":"bool","type":"bool"}],"stateMutability":"nonpayable"}]

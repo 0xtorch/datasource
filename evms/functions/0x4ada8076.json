@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"attestationIds","internalType":"bytes32[]","type":"bytes32[]"}],"name":"bulkRevoke","outputs":[],"stateMutability":"nonpayable"}]

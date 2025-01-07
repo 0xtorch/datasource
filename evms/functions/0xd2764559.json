@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"addresses","internalType":"struct RangoSymbiosisFacet.SymbiosisStorage","type":"tuple","components":[{"name":"symbiosisMetaRouter","internalType":"address","type":"address"},{"name":"symbiosisMetaRouterGateway","internalType":"address","type":"address"}]}],"name":"initSymbiosis","outputs":[],"stateMutability":"nonpayable"}]

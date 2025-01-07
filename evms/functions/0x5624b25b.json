@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"offset","internalType":"uint256","type":"uint256"},{"name":"length","internalType":"uint256","type":"uint256"}],"name":"getStorageAt","outputs":[{"name":"","internalType":"bytes","type":"bytes"}],"stateMutability":"view"}]

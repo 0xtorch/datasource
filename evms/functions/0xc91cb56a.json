@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_role","internalType":"address","type":"address"}],"name":"queryRole","outputs":[{"name":"","internalType":"enum Role","type":"uint8"}],"stateMutability":"view"}]

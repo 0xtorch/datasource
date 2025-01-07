@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"tokenIds","internalType":"uint256[]","type":"uint256[]"},{"name":"toAddresses","internalType":"address[]","type":"address[]"},{"name":"tokenURIs","internalType":"string[]","type":"string[]"}],"name":"bulkMint","outputs":[],"stateMutability":"nonpayable"}]

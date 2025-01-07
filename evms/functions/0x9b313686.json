@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"pools","internalType":"struct PoolFactory.PoolPausedInfo[]","type":"tuple[]","components":[{"name":"pool","internalType":"address","type":"address"},{"name":"paused","internalType":"bool","type":"bool"}]}],"name":"setPoolsPaused","outputs":[],"stateMutability":"nonpayable"}]

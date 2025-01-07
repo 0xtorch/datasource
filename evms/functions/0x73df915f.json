@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_poolToken","internalType":"address","type":"address"},{"name":"_isP2PDisabled","internalType":"bool","type":"bool"}],"name":"setIsP2PDisabled","outputs":[],"stateMutability":"nonpayable"}]

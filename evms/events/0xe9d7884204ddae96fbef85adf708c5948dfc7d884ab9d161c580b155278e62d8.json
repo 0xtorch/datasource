@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"blobOneInteractions","internalType":"uint16","type":"uint16","indexed":false},{"name":"blobTwoInteractions","internalType":"uint16","type":"uint16","indexed":false},{"name":"finalFormInteractions","internalType":"uint16","type":"uint16","indexed":false}],"name":"LogSetStageInteractionsEvent"}]

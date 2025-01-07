@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"referee","internalType":"address","type":"address","indexed":false},{"name":"referrer","internalType":"address","type":"address","indexed":false},{"name":"reason","internalType":"string","type":"string","indexed":false}],"name":"RegisteredRefererFailed"}]

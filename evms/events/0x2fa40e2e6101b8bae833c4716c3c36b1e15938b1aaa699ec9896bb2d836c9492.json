@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"perSecondReward","internalType":"uint256","type":"uint256","indexed":false},{"name":"startsAt","internalType":"uint256","type":"uint256","indexed":false},{"name":"endsAt","internalType":"uint256","type":"uint256","indexed":false}],"name":"CurrentStrategyUpdated"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"newCost","internalType":"uint64","type":"uint64"},{"name":"newMerkleRoot","internalType":"bytes32","type":"bytes32"}],"name":"setSaleInformation","outputs":[],"stateMutability":"nonpayable"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"newBuyBackWalletAddress","internalType":"address","type":"address"},{"name":"newGameDevWalletAddress","internalType":"address","type":"address"},{"name":"newMarketingWalletAddress","internalType":"address","type":"address"}],"name":"changeOtherWallets","outputs":[],"stateMutability":"nonpayable"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_referrer","internalType":"address","type":"address"},{"name":"_commission","internalType":"uint256","type":"uint256"}],"name":"recordReferralCommission","outputs":[],"stateMutability":"nonpayable"}]

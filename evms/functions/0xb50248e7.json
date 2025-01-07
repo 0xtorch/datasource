@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"minter","internalType":"address","type":"address"},{"name":"qty","internalType":"uint32","type":"uint32"},{"name":"timestamp","internalType":"uint64","type":"uint64"},{"name":"signature","internalType":"bytes","type":"bytes"}],"name":"assertValidCosign","outputs":[],"stateMutability":"view"}]

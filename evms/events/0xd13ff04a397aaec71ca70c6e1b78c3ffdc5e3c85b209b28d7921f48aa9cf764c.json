@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"previousDev","internalType":"address","type":"address","indexed":true},{"name":"newDev","internalType":"address","type":"address","indexed":true}],"name":"BuyFinAddressTransferred"}]

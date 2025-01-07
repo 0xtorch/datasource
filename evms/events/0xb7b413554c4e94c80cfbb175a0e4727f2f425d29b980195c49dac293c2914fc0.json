@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"account","internalType":"address","type":"address","indexed":true},{"name":"requestId","internalType":"uint256","type":"uint256","indexed":true},{"name":"invoker","internalType":"address","type":"address","indexed":false},{"name":"output","internalType":"bytes","type":"bytes","indexed":false}],"name":"AICallbackResult"}]

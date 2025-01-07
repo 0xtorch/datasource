@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"user","type":"address","indexed":false},{"name":"_tokenId","type":"uint256","indexed":false}],"name":"_register"}]

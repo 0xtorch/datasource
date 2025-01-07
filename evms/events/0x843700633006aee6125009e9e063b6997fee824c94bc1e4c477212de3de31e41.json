@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"squareId","internalType":"uint256","type":"uint256","indexed":true},{"name":"minStaking","internalType":"uint256","type":"uint256","indexed":false}],"name":"SetSquareMinStaking"}]

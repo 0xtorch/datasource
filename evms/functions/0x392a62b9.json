@@ -1,0 +1,1 @@
+[{"type":"function","constant":true,"inputs":[{"name":"tokenPairID","type":"uint256"}],"name":"getTokenPairFee","outputs":[{"name":"contractFee","type":"uint256"}],"payable":false,"stateMutability":"view"}]

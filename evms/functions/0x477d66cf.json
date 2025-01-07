@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_LUSDDebt","internalType":"uint256","type":"uint256"}],"name":"getBorrowingFeeWithDecay","outputs":[{"name":"","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

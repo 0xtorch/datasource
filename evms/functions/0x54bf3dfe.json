@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_zapId","internalType":"uint256","type":"uint256"},{"name":"_minLiquidity","internalType":"uint256","type":"uint256"},{"name":"_transferResidual","internalType":"bool","type":"bool"}],"name":"zap","outputs":[],"stateMutability":"payable"}]

@@ -1,0 +1,1 @@
+[{"type":"function","constant":false,"inputs":[{"name":"_teamId","type":"uint8[]"},{"name":"_attributes","type":"uint256[]"},{"name":"_playerOverrideId","type":"uint256[]"},{"name":"_mlbPlayerId","type":"uint256[]"},{"name":"_to","type":"address[]"}],"name":"batchCreateAsset","outputs":[],"payable":false,"stateMutability":"nonpayable"}]

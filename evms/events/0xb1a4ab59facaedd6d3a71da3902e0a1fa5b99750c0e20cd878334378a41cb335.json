@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"transferId","internalType":"bytes32","type":"bytes32","indexed":true},{"name":"success","internalType":"bool","type":"bool","indexed":false},{"name":"returnData","internalType":"bytes","type":"bytes","indexed":false}],"name":"ExternalCalldataExecuted"}]

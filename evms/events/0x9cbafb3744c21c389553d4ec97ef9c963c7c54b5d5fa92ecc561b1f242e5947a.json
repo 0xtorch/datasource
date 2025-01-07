@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"primeTerm","type":"uint256","indexed":false}],"name":"PrimeTermUpdated"}]

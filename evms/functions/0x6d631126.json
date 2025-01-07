@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_orgAddress","internalType":"address","type":"address"},{"name":"_to","internalType":"address[]","type":"address[]"},{"name":"_messageID","internalType":"uint256","type":"uint256"}],"name":"sendNFTs","outputs":[],"stateMutability":"nonpayable"}]

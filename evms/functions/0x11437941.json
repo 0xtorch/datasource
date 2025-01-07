@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"stakeOwner","internalType":"address","type":"address"}],"name":"getShareBalance","outputs":[{"name":"","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

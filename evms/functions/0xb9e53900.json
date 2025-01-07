@@ -1,0 +1,1 @@
+[{"type":"function","constant":false,"inputs":[{"name":"_nftContract","internalType":"address","type":"address"},{"name":"_setAsWhitelisted","internalType":"bool","type":"bool"}],"name":"whitelistNFTContract","outputs":[],"payable":false,"stateMutability":"nonpayable"}]

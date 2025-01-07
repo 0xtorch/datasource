@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"src","internalType":"contract IERC20","type":"address"},{"name":"dst","internalType":"contract IERC20","type":"address"},{"name":"amount","internalType":"uint256","type":"uint256"}],"name":"getReturn","outputs":[{"name":"","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

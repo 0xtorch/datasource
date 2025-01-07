@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"_daoTreasury","internalType":"address","type":"address","indexed":true}],"name":"DAOTreasuryUpdated"}]

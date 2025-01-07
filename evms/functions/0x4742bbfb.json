@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_maxPendingTransfers","internalType":"uint256","type":"uint256"}],"name":"setMaxPendingTransfers","outputs":[],"stateMutability":"nonpayable"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"choices","internalType":"struct MythicsV1.ChoiceSubmission[]","type":"tuple[]","components":[{"name":"purchaseId","internalType":"uint256","type":"uint256"},{"name":"choice","internalType":"uint8","type":"uint8"}]}],"name":"chooseAndMint","outputs":[],"stateMutability":"nonpayable"}]

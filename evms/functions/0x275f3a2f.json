@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"rolloverSaleStartTime_","internalType":"uint256","type":"uint256"},{"name":"bool_","internalType":"bool","type":"bool"}],"name":"setRolloverSaleStatus","outputs":[],"stateMutability":"nonpayable"}]

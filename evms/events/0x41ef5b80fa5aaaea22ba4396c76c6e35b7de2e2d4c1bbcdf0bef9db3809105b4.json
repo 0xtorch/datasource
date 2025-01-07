@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"alpacaId","internalType":"uint256","type":"uint256","indexed":true},{"name":"gene","internalType":"uint256","type":"uint256","indexed":false},{"name":"energy","internalType":"uint256","type":"uint256","indexed":false}],"name":"BornSingle"}]

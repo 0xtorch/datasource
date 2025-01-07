@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_stakeTokenAddress","internalType":"address","type":"address"},{"name":"_presaleContract","internalType":"address","type":"address"},{"name":"_lockTime","internalType":"uint256","type":"uint256"},{"name":"_apy","internalType":"uint256","type":"uint256"}],"name":"__stakingManager_init","outputs":[],"stateMutability":"nonpayable"}]

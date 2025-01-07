@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_nftcontractAddress","internalType":"address","type":"address"},{"name":"_partnerwriteraddress","internalType":"address","type":"address"}],"name":"resetpartnerwriter","outputs":[],"stateMutability":"nonpayable"}]

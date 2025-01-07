@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"buyer","type":"address","indexed":true},{"name":"ether_amount","type":"uint256","indexed":false}],"name":"TokensPurchased"}]

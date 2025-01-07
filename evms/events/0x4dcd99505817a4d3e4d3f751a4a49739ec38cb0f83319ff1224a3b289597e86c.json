@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"module","internalType":"address","type":"address","indexed":false},{"name":"roles","internalType":"uint16[]","type":"uint16[]","indexed":false},{"name":"memberOf","internalType":"bool[]","type":"bool[]","indexed":false}],"name":"AssignRoles"}]

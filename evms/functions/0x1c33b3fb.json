@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"shikigamiId","internalType":"uint256","type":"uint256"}],"name":"getUnmintedSupply","outputs":[{"name":"unmintedSupply","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

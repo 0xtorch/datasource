@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"previousBurner","internalType":"address","type":"address","indexed":true},{"name":"newBurner","internalType":"address","type":"address","indexed":true}],"name":"BurnerTransferred"}]

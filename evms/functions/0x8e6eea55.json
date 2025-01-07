@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"addresses","internalType":"struct RangoSatelliteFacet.SatelliteStorage","type":"tuple","components":[{"name":"gatewayAddress","internalType":"address","type":"address"},{"name":"gasService","internalType":"address","type":"address"}]}],"name":"initSatellite","outputs":[],"stateMutability":"nonpayable"}]

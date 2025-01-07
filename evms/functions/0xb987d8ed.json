@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"minter","internalType":"address","type":"address"},{"name":"creator","internalType":"address","type":"address"},{"name":"mintReferrer","internalType":"address","type":"address"},{"name":"creatorReferrer","internalType":"address","type":"address"}],"name":"distributeFee","outputs":[],"stateMutability":"payable"}]

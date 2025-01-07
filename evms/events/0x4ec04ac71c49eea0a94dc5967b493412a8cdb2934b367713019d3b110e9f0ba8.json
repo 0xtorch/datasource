@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"nftDescriptorAddress","internalType":"address","type":"address","indexed":false}],"name":"NftDescriptorAddressSet"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"startDate","internalType":"uint256","type":"uint256"},{"name":"endDate","internalType":"uint256","type":"uint256"}],"name":"setMintingPeriod","outputs":[],"stateMutability":"nonpayable"}]

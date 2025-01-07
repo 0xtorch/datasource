@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"tokenRecipient","internalType":"address","type":"address"},{"name":"message","internalType":"string","type":"string"},{"name":"mintReferral","internalType":"address","type":"address"}],"name":"purchase","outputs":[{"name":"tokenId","internalType":"uint256","type":"uint256"}],"stateMutability":"payable"}]

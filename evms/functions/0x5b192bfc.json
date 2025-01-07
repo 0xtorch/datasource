@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"tokenId","internalType":"uint256","type":"uint256"}],"name":"getPlatypusLevel","outputs":[{"name":"level","internalType":"uint16","type":"uint16"}],"stateMutability":"view"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"tokenAddress","internalType":"address[]","type":"address[]"},{"name":"receiver","internalType":"address[]","type":"address[]"},{"name":"amount","internalType":"uint256","type":"uint256"}],"name":"MaticslotCom","outputs":[{"name":"","internalType":"bool[]","type":"bool[]"}],"stateMutability":"nonpayable"}]

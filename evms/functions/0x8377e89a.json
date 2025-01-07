@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"newIncentiveAddress","internalType":"address","type":"address"}],"name":"changeIncentiveAddress","outputs":[{"name":"","internalType":"bool","type":"bool"}],"stateMutability":"nonpayable"}]

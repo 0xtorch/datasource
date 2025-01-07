@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"amountA","internalType":"uint256","type":"uint256"},{"name":"reserveA","internalType":"uint256","type":"uint256"},{"name":"reserveB","internalType":"uint256","type":"uint256"}],"name":"quoteLiquidity","outputs":[{"name":"amountB","internalType":"uint256","type":"uint256"}],"stateMutability":"pure"}]

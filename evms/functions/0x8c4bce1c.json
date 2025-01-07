@@ -1,0 +1,1 @@
+[{"type":"function","constant":false,"inputs":[{"name":"newGovernor","internalType":"address","type":"address"}],"name":"mainNominateNewGovernor","outputs":[],"payable":false,"stateMutability":"nonpayable"}]

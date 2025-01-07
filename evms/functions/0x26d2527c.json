@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"suggestionId","internalType":"uint256","type":"uint256"}],"name":"getSuggestionCreator","outputs":[{"name":"","internalType":"address","type":"address"}],"stateMutability":"view"}]

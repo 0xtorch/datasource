@@ -1,0 +1,1 @@
+[{"type":"function","constant":true,"inputs":[{"name":"_operator","type":"address"},{"name":"_role","type":"uint8"}],"name":"checkRole","outputs":[],"payable":false,"stateMutability":"view"}]

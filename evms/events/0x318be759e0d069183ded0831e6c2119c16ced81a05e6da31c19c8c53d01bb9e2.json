@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"tokeURIFetcher","internalType":"address","type":"address","indexed":false},{"name":"dpFee","internalType":"address","type":"address","indexed":false},{"name":"optionPricing","internalType":"address","type":"address","indexed":false}],"name":"LogUpdateAddress"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_minConfirmations","internalType":"uint8","type":"uint8"},{"name":"_confirmationThreshold","internalType":"uint8","type":"uint8"},{"name":"_excessConfirmations","internalType":"uint8","type":"uint8"},{"name":"_debridgeAddress","internalType":"address","type":"address"}],"name":"initialize","outputs":[],"stateMutability":"nonpayable"}]

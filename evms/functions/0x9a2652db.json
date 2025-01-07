@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_connectors","internalType":"address[]","type":"address[]"},{"name":"_messageFees","internalType":"uint256[]","type":"uint256[]"},{"name":"_encodedData","internalType":"bytes[]","type":"bytes[]"},{"name":"_relayerFee","internalType":"uint256","type":"uint256"}],"name":"propagate","outputs":[],"stateMutability":"nonpayable"}]

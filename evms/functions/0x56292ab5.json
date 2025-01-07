@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"newPlatform","internalType":"address payable","type":"address"},{"name":"newOracle","internalType":"address","type":"address"},{"name":"gaslessMechanic","internalType":"address","type":"address"}],"name":"updatePlatformAndMintFeeOracle","outputs":[],"stateMutability":"nonpayable"}]

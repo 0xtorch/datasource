@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"phase","internalType":"enum AvalaunchSaleV2.Phases","type":"uint8","indexed":false}],"name":"PhaseChanged"}]

@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"token","type":"address","indexed":false},{"name":"refPrice","type":"uint256","indexed":false},{"name":"fastPrice","type":"uint256","indexed":false},{"name":"cumulativeRefDelta","type":"uint256","indexed":false},{"name":"cumulativeFastDelta","type":"uint256","indexed":false}],"name":"PriceData"}]

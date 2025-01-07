@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"baseFreed","internalType":"uint256","type":"uint256","indexed":false},{"name":"lockedCollateralBase","internalType":"uint256","type":"uint256","indexed":false}],"name":"CallCollateralFreed"}]

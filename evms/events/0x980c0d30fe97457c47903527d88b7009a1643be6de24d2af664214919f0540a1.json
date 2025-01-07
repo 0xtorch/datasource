@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"oldPendingImplementation","internalType":"address","type":"address","indexed":true},{"name":"newPendingImplementation","internalType":"address","type":"address","indexed":true}],"name":"PendingImplementationUpdated"}]

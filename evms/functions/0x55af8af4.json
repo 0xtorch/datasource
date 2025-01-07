@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"babyDragonTokenIds","internalType":"uint256[]","type":"uint256[]"},{"name":"dragonEssenceTokenIds","internalType":"uint256[]","type":"uint256[]"}],"name":"combineDragonsWithEssences","outputs":[],"stateMutability":"nonpayable"}]

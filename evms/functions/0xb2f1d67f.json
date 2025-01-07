@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_message","internalType":"bytes32","type":"bytes32"},{"name":"r","internalType":"bytes32","type":"bytes32"},{"name":"s","internalType":"bytes32","type":"bytes32"},{"name":"v","internalType":"uint8","type":"uint8"}],"name":"validateSig","outputs":[{"name":"","internalType":"bool","type":"bool"}],"stateMutability":"view"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"inbox","internalType":"address","type":"address"}],"name":"allowedDelayedInboxes","outputs":[{"name":"","internalType":"bool","type":"bool"}],"stateMutability":"view"}]

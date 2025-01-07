@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"root","internalType":"uint256","type":"uint256","indexed":false},{"name":"supersedeTimestamp","internalType":"uint128","type":"uint128","indexed":false}],"name":"RootAdded"}]

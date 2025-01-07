@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_usePositionHandler","internalType":"bytes","type":"bytes"}],"name":"usePositionHandler","outputs":[{"name":"","internalType":"address[]","type":"address[]"},{"name":"","internalType":"uint256[]","type":"uint256[]"},{"name":"","internalType":"uint256","type":"uint256"}],"stateMutability":"nonpayable"}]

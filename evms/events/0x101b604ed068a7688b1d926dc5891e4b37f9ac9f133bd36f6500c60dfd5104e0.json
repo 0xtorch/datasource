@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"routers","internalType":"address[]","type":"address[]","indexed":false},{"name":"details","internalType":"struct Router[]","type":"tuple[]","components":[{"name":"isSupported","internalType":"bool","type":"bool"},{"name":"fees","internalType":"uint256","type":"uint256"}],"indexed":false}],"name":"RoutersUpdated"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"account","internalType":"address","type":"address"}],"name":"updateCredit","outputs":[{"name":"credit","internalType":"uint256","type":"uint256"}],"stateMutability":"nonpayable"}]

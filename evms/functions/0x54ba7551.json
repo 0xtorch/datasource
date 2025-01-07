@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"artist","internalType":"address","type":"address"},{"name":"deny","internalType":"bool","type":"bool"}],"name":"setDenyListStatus","outputs":[],"stateMutability":"nonpayable"}]

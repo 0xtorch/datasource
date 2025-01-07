@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_primaryToken","internalType":"address","type":"address"},{"name":"_wbnbAddress","internalType":"address","type":"address"},{"name":"_routerAddress","internalType":"address","type":"address"}],"name":"activate","outputs":[],"stateMutability":"nonpayable"}]

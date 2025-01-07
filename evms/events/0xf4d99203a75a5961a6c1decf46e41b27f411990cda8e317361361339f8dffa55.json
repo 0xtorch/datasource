@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"Investor_ID","type":"uint256","indexed":false},{"name":"Investor_Address","type":"address","indexed":false}],"name":"NewInvestorEvent"}]

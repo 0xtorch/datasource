@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_l1Token","internalType":"address[]","type":"address[]"},{"name":"_gateway","internalType":"address[]","type":"address[]"}],"name":"setGateway","outputs":[],"stateMutability":"nonpayable"}]

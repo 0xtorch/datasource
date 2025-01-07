@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"newMaxDepositAmount","internalType":"uint256","type":"uint256"},{"name":"newMaxWithdrawalAmount","internalType":"uint256","type":"uint256"},{"name":"newMaxTokenSupply","internalType":"uint256","type":"uint256"}],"name":"updateIssuanceLimits","outputs":[],"stateMutability":"nonpayable"}]

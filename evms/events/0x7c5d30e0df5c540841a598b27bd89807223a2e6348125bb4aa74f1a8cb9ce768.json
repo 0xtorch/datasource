@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"newMultiplier","internalType":"uint256","type":"uint256","indexed":false}],"name":"ProtocolFeeMultiplierUpdate"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"spotPrice","internalType":"uint256","type":"uint256"}],"name":"isGlobalCacheStale","outputs":[{"name":"","internalType":"bool","type":"bool"}],"stateMutability":"view"}]

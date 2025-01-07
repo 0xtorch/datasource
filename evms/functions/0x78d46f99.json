@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_router","internalType":"address","type":"address"},{"name":"_routerEth","internalType":"address","type":"address"}],"name":"updateStargateAddress","outputs":[],"stateMutability":"nonpayable"}]

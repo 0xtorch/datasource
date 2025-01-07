@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"farm","internalType":"contract IERC20","type":"address","indexed":false},{"name":"status","internalType":"bool","type":"bool","indexed":false}],"name":"SetStatusERC20"}]

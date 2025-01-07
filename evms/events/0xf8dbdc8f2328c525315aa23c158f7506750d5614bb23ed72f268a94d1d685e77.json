@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"balance","internalType":"uint256","type":"uint256","indexed":false},{"name":"vesting_period","internalType":"uint256","type":"uint256","indexed":false},{"name":"tokenPerSec","internalType":"uint256","type":"uint256","indexed":false}],"name":"VestingUpdate"}]

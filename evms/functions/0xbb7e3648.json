@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[],"name":"proxyCallContract","outputs":[{"name":"","internalType":"contract IProxyCall","type":"address"}],"stateMutability":"view"}]

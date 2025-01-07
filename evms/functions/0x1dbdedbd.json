@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[],"name":"tokenGateConfig","outputs":[{"name":"tokenAddress","internalType":"address","type":"address"},{"name":"minBalance","internalType":"uint88","type":"uint88"},{"name":"saleType","internalType":"enum SaleType","type":"uint8"}],"stateMutability":"view"}]

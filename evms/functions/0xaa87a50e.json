@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_minBuybackTime","internalType":"uint256","type":"uint256"},{"name":"_maxBuybackTime","internalType":"uint256","type":"uint256"}],"name":"setBuybackTime","outputs":[],"stateMutability":"nonpayable"}]

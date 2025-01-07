@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"payees","internalType":"address[]","type":"address[]"}],"name":"releaseBatch","outputs":[],"stateMutability":"nonpayable"}]

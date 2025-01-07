@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"bTokenIdx","internalType":"uint256","type":"uint256"},{"name":"bTokenAmount","internalType":"uint256","type":"uint256"}],"name":"getMintAmount","outputs":[{"name":"lpTokenAmount","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

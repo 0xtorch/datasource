@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"user","internalType":"address","type":"address"},{"name":"nftLevel","internalType":"enum Minter.NFTLevel","type":"uint8"},{"name":"signature","internalType":"bytes","type":"bytes"}],"name":"mintWithSignature","outputs":[],"stateMutability":"nonpayable"}]

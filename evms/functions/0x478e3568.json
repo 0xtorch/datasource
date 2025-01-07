@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"pToken","internalType":"address","type":"address"},{"name":"status","internalType":"bool","type":"bool"}],"name":"_setMarketMinted","outputs":[],"stateMutability":"nonpayable"}]

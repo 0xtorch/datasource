@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[],"name":"sendFundingSplit","outputs":[{"name":"splitAmount","internalType":"uint96","type":"uint96"}],"stateMutability":"nonpayable"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"requestId","internalType":"uint256","type":"uint256"}],"name":"requestInfos","outputs":[{"name":"","internalType":"struct IDice.RequestInfo","type":"tuple","components":[{"name":"kind","internalType":"enum IDice.RequestKind","type":"uint8"},{"name":"tokenIds","internalType":"uint256[]","type":"uint256[]"}]}],"stateMutability":"view"}]

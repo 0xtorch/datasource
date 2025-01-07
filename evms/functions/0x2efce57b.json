@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_lpVote","internalType":"contract IERC20[]","type":"address[]"},{"name":"_deltas","internalType":"int256[]","type":"int256[]"}],"name":"vote","outputs":[{"name":"bribeRewards","internalType":"uint256[]","type":"uint256[]"}],"stateMutability":"nonpayable"}]

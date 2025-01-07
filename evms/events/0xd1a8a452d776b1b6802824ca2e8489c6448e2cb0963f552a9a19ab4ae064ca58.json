@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"oldIndex","internalType":"uint256","type":"uint256","indexed":false},{"name":"newIndex","internalType":"uint256","type":"uint256","indexed":false},{"name":"totalUnderlying","internalType":"uint256","type":"uint256","indexed":false}],"name":"Rebased"}]

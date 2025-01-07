@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"to","internalType":"address","type":"address"},{"name":"quantity","internalType":"uint256","type":"uint256"}],"name":"externalSafeMint","outputs":[],"stateMutability":"nonpayable"}]

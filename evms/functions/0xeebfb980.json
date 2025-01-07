@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_amountToClaim","internalType":"uint256","type":"uint256"},{"name":"_expiry","internalType":"uint256","type":"uint256"},{"name":"_signature","internalType":"bytes","type":"bytes"}],"name":"claimAndRestakeWithSignature","outputs":[{"name":"shares","internalType":"uint256","type":"uint256"}],"stateMutability":"nonpayable"}]

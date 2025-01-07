@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"oldQuorumNumerator","internalType":"uint256","type":"uint256","indexed":false},{"name":"newQuorumNumerator","internalType":"uint256","type":"uint256","indexed":false}],"name":"QuorumNumeratorUpdated"}]

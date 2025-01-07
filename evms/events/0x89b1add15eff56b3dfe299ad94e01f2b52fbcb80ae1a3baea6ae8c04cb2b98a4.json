@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"owner","internalType":"address","type":"address","indexed":true},{"name":"token","internalType":"address","type":"address","indexed":false},{"name":"spender","internalType":"address","type":"address","indexed":false}],"name":"Lockdown"}]

@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"previousPauser","internalType":"address","type":"address","indexed":true},{"name":"newPauser","internalType":"address","type":"address","indexed":true}],"name":"PauserRoleTransferred"}]

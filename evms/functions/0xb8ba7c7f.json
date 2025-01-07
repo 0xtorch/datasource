@@ -1,0 +1,1 @@
+[{"type":"function","constant":false,"inputs":[{"name":"_genes","type":"uint256"},{"name":"_dexterity","type":"uint8"},{"name":"_strength","type":"uint8"},{"name":"_vitality","type":"uint8"},{"name":"_luck","type":"uint8"}],"name":"createGen0Auction","outputs":[],"payable":false,"stateMutability":"nonpayable"}]

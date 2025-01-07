@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_factory","internalType":"address","type":"address"},{"name":"_tokenA","internalType":"address","type":"address"},{"name":"_tokenB","internalType":"address","type":"address"}],"name":"pairFor","outputs":[{"name":"predicted","internalType":"address","type":"address"}],"stateMutability":"view"}]

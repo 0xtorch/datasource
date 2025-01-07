@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"stakingToken","internalType":"contract IERC20","type":"address"},{"name":"user","internalType":"address","type":"address"}],"name":"getRewards","outputs":[{"name":"","internalType":"address[]","type":"address[]"},{"name":"","internalType":"uint256[]","type":"uint256[]"}],"stateMutability":"view"}]

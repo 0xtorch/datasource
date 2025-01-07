@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_giftOrder","internalType":"uint16[]","type":"uint16[]"},{"name":"_giftRecipient","internalType":"address","type":"address"}],"name":"giftPack","outputs":[],"stateMutability":"nonpayable"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"token","internalType":"address","type":"address"}],"name":"supportsPermits","outputs":[{"name":"domainSeparator","internalType":"bytes32","type":"bytes32"}],"stateMutability":"view"}]

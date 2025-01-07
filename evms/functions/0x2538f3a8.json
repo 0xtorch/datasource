@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_chainId","internalType":"uint256","type":"uint256"}],"name":"getQueueLengthByChainId","outputs":[{"name":"","internalType":"uint40","type":"uint40"}],"stateMutability":"view"}]

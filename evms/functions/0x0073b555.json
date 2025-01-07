@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"srcChainId","internalType":"uint64","type":"uint64"},{"name":"srcContract","internalType":"uint256","type":"uint256"},{"name":"message","internalType":"bytes","type":"bytes"}],"name":"receiveStandardMessage","outputs":[],"stateMutability":"payable"}]

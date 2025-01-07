@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"tranche","internalType":"address","type":"address"},{"name":"interestWeight_","internalType":"uint16","type":"uint16"},{"name":"liquidationWeight","internalType":"uint16","type":"uint16"}],"name":"addTranche","outputs":[],"stateMutability":"nonpayable"}]

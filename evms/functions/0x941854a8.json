@@ -1,0 +1,1 @@
+[{"type":"function","constant":false,"inputs":[{"name":"buyers","type":"address[]"},{"name":"tokens","type":"uint256[]"},{"name":"contractName","type":"string"}],"name":"importBalance","outputs":[{"name":"","type":"bool"}],"payable":false,"stateMutability":"nonpayable"}]

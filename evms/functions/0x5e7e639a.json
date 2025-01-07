@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_fileNames","internalType":"string[]","type":"string[]"},{"name":"_inodeChecksums","internalType":"bytes32[]","type":"bytes32[]"}],"name":"createDirectory","outputs":[{"name":"directoryChecksum","internalType":"bytes32","type":"bytes32"}],"stateMutability":"nonpayable"}]

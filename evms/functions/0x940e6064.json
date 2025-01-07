@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_index","internalType":"uint8","type":"uint8"},{"name":"_value","internalType":"uint256","type":"uint256"}],"name":"setSupplyTiersEntry","outputs":[{"name":"","internalType":"bool","type":"bool"}],"stateMutability":"nonpayable"}]

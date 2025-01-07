@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"partnerId","internalType":"bytes2","type":"bytes2","indexed":true}],"name":"PartnerSwap"},{"type":"event","anonymous":false,"inputs":[{"name":"partnerId","internalType":"bytes2","type":"bytes2","indexed":false}],"name":"PartnerSwap"}]

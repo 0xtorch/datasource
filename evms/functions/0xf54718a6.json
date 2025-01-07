@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_add","internalType":"address","type":"address"},{"name":"_v","internalType":"bool","type":"bool"}],"name":"setMentorManager","outputs":[],"stateMutability":"nonpayable"}]

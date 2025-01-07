@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_start_index","internalType":"uint256","type":"uint256"}],"name":"getAccountList","outputs":[{"name":"_accounts","internalType":"address[50]","type":"address[50]"}],"stateMutability":"view"}]

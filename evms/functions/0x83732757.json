@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"spotId","internalType":"uint128","type":"uint128"},{"name":"response","internalType":"bytes","type":"bytes"}],"name":"unqueue","outputs":[],"stateMutability":"nonpayable"}]

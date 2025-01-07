@@ -1,0 +1,1 @@
+[{"type":"function","constant":true,"inputs":[{"name":"_sifAddress","internalType":"bytes","type":"bytes"}],"name":"verifySifPrefix","outputs":[{"name":"","internalType":"bool","type":"bool"}],"payable":false,"stateMutability":"pure"}]

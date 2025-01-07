@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"group","internalType":"string","type":"string","indexed":false},{"name":"category","internalType":"string","type":"string","indexed":false}],"name":"CategoryAdded"}]

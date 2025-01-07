@@ -1,0 +1,1 @@
+[{"type":"function","constant":false,"inputs":[{"name":"authorizedFundManagerDataSource","internalType":"address","type":"address"}],"name":"authorizeFundManagerDataSource","outputs":[],"payable":false,"stateMutability":"nonpayable"}]

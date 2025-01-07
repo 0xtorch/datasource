@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"maybeBonder","internalType":"address","type":"address"}],"name":"getIsBonder","outputs":[{"name":"","internalType":"bool","type":"bool"}],"stateMutability":"view"}]

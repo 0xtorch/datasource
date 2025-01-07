@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"","internalType":"address","type":"address"}],"name":"magicians","outputs":[{"name":"","internalType":"contract IMagician","type":"address"}],"stateMutability":"view"}]

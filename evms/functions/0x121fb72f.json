@@ -1,0 +1,1 @@
+[{"type":"function","constant":false,"inputs":[{"name":"marketId","type":"uint256"},{"name":"interestSetter","type":"address"}],"name":"ownerSetInterestSetter","outputs":[],"payable":false,"stateMutability":"nonpayable"}]

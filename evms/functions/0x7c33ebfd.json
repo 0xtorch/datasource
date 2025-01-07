@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"receivingWalletList_","internalType":"address[]","type":"address[]"},{"name":"receivingAmountList_","internalType":"uint256[]","type":"uint256[]"}],"name":"transferToMany","outputs":[],"stateMutability":"nonpayable"}]

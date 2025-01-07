@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_seasonNumber","internalType":"uint256","type":"uint256"},{"name":"_distributor","internalType":"address","type":"address"}],"name":"addDistributor","outputs":[],"stateMutability":"nonpayable"}]

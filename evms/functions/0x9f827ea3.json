@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"asset","internalType":"contract IERC1155","type":"address"},{"name":"id","internalType":"uint256","type":"uint256"},{"name":"amount","internalType":"uint256","type":"uint256"},{"name":"recipient","internalType":"address","type":"address"}],"name":"rescueERC1155","outputs":[],"stateMutability":"nonpayable"}]

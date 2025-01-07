@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_genesisPool","internalType":"address","type":"address"},{"name":"_StombPool","internalType":"address","type":"address"}],"name":"distributeReward","outputs":[],"stateMutability":"nonpayable"}]

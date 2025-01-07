@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"protocolId","internalType":"bytes32","type":"bytes32","indexed":true},{"name":"executor","internalType":"address","type":"address","indexed":false}],"name":"RemoveExecutor"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"tokenIds","internalType":"uint256[]","type":"uint256[]"}],"name":"getTokensUpgradeStatus","outputs":[{"name":"","internalType":"enum LibTokens.WopUpgradeTier[]","type":"uint8[]"}],"stateMutability":"view"}]

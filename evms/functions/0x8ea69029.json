@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"index","internalType":"uint256","type":"uint256"}],"name":"ownerAtIndex","outputs":[{"name":"","internalType":"bytes","type":"bytes"}],"stateMutability":"view"}]

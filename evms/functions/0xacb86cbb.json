@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"sender","internalType":"address","type":"address"},{"name":"redeemAmount","internalType":"uint256","type":"uint256"},{"name":"data","internalType":"bytes","type":"bytes"}],"name":"impermaxRedeem","outputs":[],"stateMutability":"nonpayable"}]

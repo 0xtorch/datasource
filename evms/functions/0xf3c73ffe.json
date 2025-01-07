@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"functionSig","internalType":"bytes4","type":"bytes4"},{"name":"toggle","internalType":"bool","type":"bool"}],"name":"toggleFunction","outputs":[],"stateMutability":"nonpayable"}]

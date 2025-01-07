@@ -1,0 +1,1 @@
+[{"type":"function","constant":false,"inputs":[{"name":"_gated","internalType":"bool","type":"bool"}],"name":"setGated","outputs":[],"payable":false,"stateMutability":"nonpayable"}]

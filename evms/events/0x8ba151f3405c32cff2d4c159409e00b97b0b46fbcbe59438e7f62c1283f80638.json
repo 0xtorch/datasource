@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"assetId","internalType":"address","type":"address","indexed":true},{"name":"bridge","internalType":"address","type":"address","indexed":false}],"name":"OptimismBridgeRegistered"}]

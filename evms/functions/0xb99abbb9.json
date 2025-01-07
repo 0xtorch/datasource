@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"lpIndex","internalType":"uint64","type":"uint64"},{"name":"ts","internalType":"uint64[4]","type":"uint64[4]"}],"name":"setMintTime","outputs":[],"stateMutability":"nonpayable"}]

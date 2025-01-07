@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"worldIdRouter","internalType":"contract IWorldIDGroups","type":"address","indexed":false}],"name":"WorldIdRouterUpdated"}]

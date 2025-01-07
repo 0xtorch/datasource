@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_account","internalType":"address","type":"address"}],"name":"frens","outputs":[{"name":"frens_","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

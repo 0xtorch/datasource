@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[],"name":"getHodlBalancesPerPT","outputs":[{"name":"hodlBalancePerPT0","internalType":"uint256","type":"uint256"},{"name":"hodlBalancePerPT1","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

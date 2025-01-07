@@ -1,0 +1,1 @@
+[{"type":"function","constant":false,"inputs":[{"name":"_addr","internalType":"address","type":"address"}],"name":"enableTransfer","outputs":[],"payable":false,"stateMutability":"nonpayable"}]

@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"savingIDs","internalType":"uint256[]","type":"uint256[]","indexed":false},{"name":"totalInterests","internalType":"uint256","type":"uint256","indexed":false}],"name":"SavingPaymentProcessed"}]

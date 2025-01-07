@@ -1,0 +1,1 @@
+[{"type":"function","constant":true,"inputs":[{"name":"_addr","internalType":"","type":"address"}],"name":"isMinter","outputs":[{"name":"","internalType":"","type":"bool"}],"payable":false,"stateMutability":"view"}]

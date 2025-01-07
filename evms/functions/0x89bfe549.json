@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[],"name":"timeConfig","outputs":[{"name":"nftStartTime","internalType":"uint256","type":"uint256"},{"name":"openStartTime","internalType":"uint256","type":"uint256"},{"name":"endTime","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

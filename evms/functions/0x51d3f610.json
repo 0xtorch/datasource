@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_newProvenanceHash","internalType":"bytes32","type":"bytes32"},{"name":"_lockForever","internalType":"bool","type":"bool"}],"name":"setProvenanceHash","outputs":[],"stateMutability":"nonpayable"}]

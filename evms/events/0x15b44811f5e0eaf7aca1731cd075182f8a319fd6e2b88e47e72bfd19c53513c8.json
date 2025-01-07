@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"mToken","internalType":"address","type":"address","indexed":false},{"name":"desEndId","internalType":"uint32","type":"uint32","indexed":false},{"name":"refundToken","internalType":"address","type":"address","indexed":false},{"name":"paused","internalType":"bool","type":"bool","indexed":false}],"name":"PathPauseStatusChanged"}]

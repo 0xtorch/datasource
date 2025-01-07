@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"agreementType","internalType":"bytes32","type":"bytes32"}],"name":"isAgreementTypeListed","outputs":[{"name":"yes","internalType":"bool","type":"bool"}],"stateMutability":"view"}]

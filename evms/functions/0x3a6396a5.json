@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_to","internalType":"address","type":"address"}],"name":"createManagedLockFor","outputs":[{"name":"_mTokenId","internalType":"uint256","type":"uint256"}],"stateMutability":"nonpayable"}]

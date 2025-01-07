@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_proposalId","internalType":"uint128","type":"uint128"}],"name":"state","outputs":[{"name":"","internalType":"enum GovernanceDefs.ProposalState","type":"uint8"}],"stateMutability":"view"}]

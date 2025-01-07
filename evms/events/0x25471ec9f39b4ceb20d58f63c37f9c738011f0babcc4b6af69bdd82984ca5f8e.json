@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"RubicPart","internalType":"uint256","type":"uint256","indexed":false},{"name":"integratorPart","internalType":"uint256","type":"uint256","indexed":false},{"name":"integrator","internalType":"address","type":"address","indexed":true},{"name":"token","internalType":"address","type":"address","indexed":false}],"name":"TokenFee"}]

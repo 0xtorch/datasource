@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"raffleId","internalType":"bytes32","type":"bytes32"},{"name":"randomnessCommitment","internalType":"bytes32","type":"bytes32"}],"name":"newRaffle","outputs":[],"stateMutability":"nonpayable"}]

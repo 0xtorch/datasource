@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_masterChef","internalType":"contract IMasterChef","type":"address"},{"name":"_pid","internalType":"uint256","type":"uint256"}],"name":"setSushiMasterChef","outputs":[],"stateMutability":"nonpayable"}]

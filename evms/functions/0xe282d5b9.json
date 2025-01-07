@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"depositor","internalType":"address","type":"address"},{"name":"newRelayerFeePct","internalType":"uint64","type":"uint64"},{"name":"depositId","internalType":"uint32","type":"uint32"},{"name":"depositorSignature","internalType":"bytes","type":"bytes"}],"name":"speedUpDeposit","outputs":[],"stateMutability":"nonpayable"}]

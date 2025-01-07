@@ -1,0 +1,1 @@
+[{"type":"function","constant":true,"inputs":[{"name":"purity","internalType":"uint16","type":"uint16"}],"name":"convertPurity","outputs":[{"name":"","internalType":"uint8","type":"uint8"}],"payable":false,"stateMutability":"pure"}]

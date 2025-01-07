@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_status","internalType":"enum EthernalGates.SALE_STATUS","type":"uint8"}],"name":"setSaleStatus","outputs":[],"stateMutability":"nonpayable"}]

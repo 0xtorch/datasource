@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"claimTimes","internalType":"uint256[]","type":"uint256[]"},{"name":"pct","internalType":"uint8[]","type":"uint8[]"}],"name":"setCliffPeriod","outputs":[],"stateMutability":"nonpayable"}]

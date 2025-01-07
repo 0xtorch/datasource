@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"","internalType":"address","type":"address"}],"name":"userTotalStaked","outputs":[{"name":"","internalType":"uint88","type":"uint88"}],"stateMutability":"view"}]

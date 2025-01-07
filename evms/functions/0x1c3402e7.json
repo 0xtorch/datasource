@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_tokenId","internalType":"","type":"uint256"},{"name":"_operator","internalType":"","type":"address"},{"name":"_funcSig","internalType":"","type":"bytes4"},{"name":"_approved","internalType":"","type":"bool"}],"name":"setFunctionOperatorForToken","outputs":[],"payable":false,"stateMutability":"nonpayable"}]

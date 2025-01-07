@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"cancelIdentifier","internalType":"bytes32","type":"bytes32"}],"name":"cancelSwap","outputs":[],"stateMutability":"nonpayable"}]

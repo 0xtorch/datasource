@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"userProvidedSeed","internalType":"uint256","type":"uint256"}],"name":"getRandomNumber","outputs":[{"name":"requestId","internalType":"bytes32","type":"bytes32"}],"stateMutability":"nonpayable"}]

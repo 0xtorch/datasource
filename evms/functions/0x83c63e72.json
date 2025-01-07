@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"colIdx","internalType":"uint8","type":"uint8"}],"name":"getHex","outputs":[{"name":"","internalType":"bytes","type":"bytes"}],"stateMutability":"pure"}]

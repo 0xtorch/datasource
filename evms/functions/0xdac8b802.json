@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_burnRate","internalType":"uint256","type":"uint256"},{"name":"_regularFarmRate","internalType":"uint256","type":"uint256"},{"name":"_specialFarmRate","internalType":"uint256","type":"uint256"},{"name":"_withUpdate","internalType":"bool","type":"bool"}],"name":"updateAlienRate","outputs":[],"stateMutability":"nonpayable"}]

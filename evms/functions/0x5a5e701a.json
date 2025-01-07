@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_newGenerator","internalType":"address","type":"address"},{"name":"_newRouter","internalType":"address","type":"address"}],"name":"updateGeneratorRouter","outputs":[],"stateMutability":"nonpayable"}]

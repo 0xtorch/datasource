@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_perUserPerDayLimit","internalType":"uint256","type":"uint256"}],"name":"setPerUserPerDayLimit","outputs":[],"stateMutability":"nonpayable"}]

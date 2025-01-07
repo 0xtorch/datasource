@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"point","internalType":"int24","type":"int24"},{"name":"deltaY","internalType":"uint128","type":"uint128"}],"name":"decLimOrderWithY","outputs":[{"name":"actualDeltaY","internalType":"uint128","type":"uint128"},{"name":"legacyAccEarn","internalType":"uint256","type":"uint256"}],"stateMutability":"nonpayable"}]

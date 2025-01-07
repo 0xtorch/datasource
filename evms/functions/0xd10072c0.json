@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"recipientAddress","internalType":"address","type":"address"},{"name":"royaltyPercentageBPS","internalType":"uint16","type":"uint16"}],"name":"emitDefaultRoyaltySet","outputs":[],"stateMutability":"nonpayable"}]

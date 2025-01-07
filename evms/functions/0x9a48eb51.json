@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_dreamersMerkleRoot","internalType":"bytes32","type":"bytes32"},{"name":"_allowlistMerkleRoot","internalType":"bytes32","type":"bytes32"}],"name":"setMerkleRoots","outputs":[],"stateMutability":"nonpayable"}]

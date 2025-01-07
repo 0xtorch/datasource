@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[],"name":"erc721_target_contract","outputs":[{"name":"","internalType":"contract SupportsERC721Mintable","type":"address"}],"stateMutability":"view"}]

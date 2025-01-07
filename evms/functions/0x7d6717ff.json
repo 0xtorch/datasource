@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[],"name":"globalPosition","outputs":[{"name":"longSize","internalType":"uint128","type":"uint128"},{"name":"shortSize","internalType":"uint128","type":"uint128"},{"name":"longFundingRateGrowthX96","internalType":"int192","type":"int192"},{"name":"shortFundingRateGrowthX96","internalType":"int192","type":"int192"}],"stateMutability":"view"}]

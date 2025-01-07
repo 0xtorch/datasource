@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_poolId","internalType":"uint256","type":"uint256"},{"name":"_priceSD","internalType":"uint256","type":"uint256"}],"name":"initTokenPrice","outputs":[],"stateMutability":"nonpayable"}]

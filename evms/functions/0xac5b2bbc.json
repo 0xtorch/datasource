@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_addressOfUser","internalType":"address","type":"address"}],"name":"getRemainingUserTrialDrops","outputs":[{"name":"remainingTrialDrops","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

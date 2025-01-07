@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"","internalType":"contract IBEP20","type":"address"}],"name":"poolIdForLpAddress","outputs":[{"name":"","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"baseAssetAddress","internalType":"address","type":"address"},{"name":"quoteAssetAddress","internalType":"address","type":"address"}],"name":"removeLiquidityExit","outputs":[],"stateMutability":"nonpayable"}]

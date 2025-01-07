@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_creator","internalType":"address payable","type":"address"},{"name":"_initialPrice","internalType":"uint256","type":"uint256"},{"name":"_creatorCutPer10000th","internalType":"uint256","type":"uint256"},{"name":"_linearCoefficient","internalType":"uint256","type":"uint256"}],"name":"postUpgrade","outputs":[],"stateMutability":"nonpayable"}]

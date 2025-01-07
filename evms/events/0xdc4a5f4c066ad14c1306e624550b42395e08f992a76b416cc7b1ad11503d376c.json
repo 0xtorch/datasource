@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"newL2GatewayRouter","internalType":"address","type":"address","indexed":true}],"name":"SetL2GatewayRouter"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"edition","internalType":"address","type":"address"},{"name":"mintId","internalType":"uint128","type":"uint128"},{"name":"maxMintableLower","internalType":"uint32","type":"uint32"},{"name":"maxMintableUpper","internalType":"uint32","type":"uint32"}],"name":"setMaxMintableRange","outputs":[],"stateMutability":"nonpayable"}]

@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"previousMinimumFee","internalType":"uint256","type":"uint256","indexed":false},{"name":"newMinimumFee","internalType":"uint256","type":"uint256","indexed":false},{"name":"calledBy","internalType":"address","type":"address","indexed":true}],"name":"MinimumFeeChanged"}]

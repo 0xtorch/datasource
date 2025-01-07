@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"previousPlatform","internalType":"address","type":"address","indexed":true},{"name":"newPlatform","internalType":"address","type":"address","indexed":true}],"name":"PlatformOwnershipTransferred"}]

@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"_itemId","internalType":"uint256","type":"uint256","indexed":true},{"name":"_price","internalType":"uint256","type":"uint256","indexed":false},{"name":"_beneficiary","internalType":"address","type":"address","indexed":false},{"name":"_metadata","internalType":"string","type":"string","indexed":false}],"name":"UpdateItemData"}]

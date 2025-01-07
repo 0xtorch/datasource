@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"controllerRequests","internalType":"struct ISocketGateway.SocketControllerRequest[]","type":"tuple[]","components":[{"name":"controllerId","internalType":"uint32","type":"uint32"},{"name":"data","internalType":"bytes","type":"bytes"}]}],"name":"executeControllers","outputs":[],"stateMutability":"payable"}]

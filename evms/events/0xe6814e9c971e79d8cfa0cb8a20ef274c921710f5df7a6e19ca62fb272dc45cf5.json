@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"appID","internalType":"string","type":"string","indexed":false},{"name":"app","internalType":"address","type":"address","indexed":true},{"name":"appAdmin","internalType":"address","type":"address","indexed":true},{"name":"appFlags","internalType":"uint256","type":"uint256","indexed":false}],"name":"SetAppConfig"}]

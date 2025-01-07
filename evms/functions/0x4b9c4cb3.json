@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_presaleCreator","internalType":"address","type":"address"},{"name":"_tokenAddress","internalType":"address","type":"address"},{"name":"_unsoldTokensDumpAddress","internalType":"address","type":"address"}],"name":"setAddressInfo","outputs":[],"stateMutability":"nonpayable"}]

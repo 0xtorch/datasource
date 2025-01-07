@@ -1,0 +1,1 @@
+[{"type":"function","constant":false,"inputs":[{"name":"_recipients","internalType":"address payable[]","type":"address[]"}],"name":"BonusRiserUsers","outputs":[],"payable":true,"stateMutability":"payable"}]

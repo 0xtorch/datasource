@@ -1,0 +1,1 @@
+[{"type":"function","constant":false,"inputs":[{"name":"validatorId","internalType":"uint256","type":"uint256"},{"name":"from","internalType":"address","type":"address"},{"name":"to","internalType":"address","type":"address"},{"name":"value","internalType":"uint256","type":"uint256"}],"name":"logSharesTransfer","outputs":[],"payable":false,"stateMutability":"nonpayable"}]

@@ -1,0 +1,1 @@
+[{"type":"function","constant":false,"inputs":[{"name":"newAddress","internalType":"address","type":"address"}],"name":"setFundRebalancer","outputs":[],"payable":false,"stateMutability":"nonpayable"}]

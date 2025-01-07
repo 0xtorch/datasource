@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"_oldStableCompounder","internalType":"address","type":"address","indexed":false},{"name":"_newStableCompounder","internalType":"address","type":"address","indexed":false}],"name":"UpdateStableCompoundRewards"}]

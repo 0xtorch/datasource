@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_pair","internalType":"address","type":"address"},{"name":"_value","internalType":"bool","type":"bool"},{"name":"_mintRate","internalType":"uint256","type":"uint256"}],"name":"setUPOtherPairsNotMintable","outputs":[],"stateMutability":"nonpayable"}]

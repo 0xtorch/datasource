@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_token","internalType":"address","type":"address"},{"name":"_config","internalType":"struct Pool.RiskConfig[]","type":"tuple[]","components":[{"name":"tranche","internalType":"address","type":"address"},{"name":"riskFactor","internalType":"uint256","type":"uint256"}]}],"name":"setRiskFactor","outputs":[],"stateMutability":"nonpayable"}]

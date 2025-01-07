@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"user","internalType":"address","type":"address"},{"name":"sessionId","internalType":"uint256","type":"uint256"}],"name":"isUserInEarlyBirdSession","outputs":[{"name":"","internalType":"bool","type":"bool"}],"stateMutability":"view"}]

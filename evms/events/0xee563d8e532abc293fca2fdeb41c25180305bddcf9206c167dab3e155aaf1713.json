@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"index","internalType":"uint256","type":"uint256","indexed":false},{"name":"account","internalType":"address","type":"address","indexed":false},{"name":"score","internalType":"uint256","type":"uint256","indexed":false},{"name":"creature","internalType":"string","type":"string","indexed":false}],"name":"Claimed"}]

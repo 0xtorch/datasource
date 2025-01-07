@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"member","internalType":"address","type":"address"}],"name":"removeLiquidityForMember","outputs":[{"name":"outputBase","internalType":"uint256","type":"uint256"},{"name":"outputToken","internalType":"uint256","type":"uint256"}],"stateMutability":"nonpayable"}]

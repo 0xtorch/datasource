@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_start","internalType":"uint256","type":"uint256"},{"name":"_end","internalType":"uint256","type":"uint256"},{"name":"last","internalType":"uint256","type":"uint256"}],"name":"getSeconds","outputs":[{"name":"","internalType":"uint256","type":"uint256"}],"stateMutability":"pure"}]

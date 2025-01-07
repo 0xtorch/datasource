@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"code_hashed_arr","internalType":"bytes32[]","type":"bytes32[]"}],"name":"redeemCodeCreateBulk","outputs":[],"stateMutability":"nonpayable"}]

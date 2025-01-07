@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"fromUser","internalType":"address","type":"address"},{"name":"toUser","internalType":"address","type":"address"}],"name":"borrowAllowance","outputs":[{"name":"","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

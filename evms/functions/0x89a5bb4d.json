@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"ds","internalType":"struct PythInternalStructs.DataSource","type":"tuple","components":[{"name":"chainId","internalType":"uint16","type":"uint16"},{"name":"emitterAddress","internalType":"bytes32","type":"bytes32"}]}],"name":"hashDataSource","outputs":[{"name":"","internalType":"bytes32","type":"bytes32"}],"stateMutability":"pure"}]

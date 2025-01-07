@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"evolutionIndexes","internalType":"uint256[]","type":"uint256[]"},{"name":"evolutionPrices","internalType":"uint256[]","type":"uint256[]"}],"name":"setEvolutionPrices","outputs":[],"stateMutability":"nonpayable"}]

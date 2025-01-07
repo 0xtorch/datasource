@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"vaultId","internalType":"uint256","type":"uint256"},{"name":"_ethBase","internalType":"uint256","type":"uint256"},{"name":"_ethStep","internalType":"uint256","type":"uint256"}],"name":"setMintFees","outputs":[],"stateMutability":"nonpayable"}]

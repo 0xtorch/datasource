@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"tokenId","internalType":"uint256","type":"uint256"},{"name":"renderer","internalType":"contract IRenderer1155","type":"address"},{"name":"setupData","internalType":"bytes","type":"bytes"}],"name":"setTokenMetadataRenderer","outputs":[],"stateMutability":"nonpayable"}]

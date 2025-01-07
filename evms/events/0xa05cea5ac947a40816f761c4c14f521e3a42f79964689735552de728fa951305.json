@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"market","internalType":"address","type":"address","indexed":true},{"name":"epoch","internalType":"uint256","type":"uint256","indexed":false}],"name":"EpochCanceled"}]

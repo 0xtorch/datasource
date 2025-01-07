@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_billId","internalType":"uint256","type":"uint256"}],"name":"vestingPeriod","outputs":[{"name":"vestingStart_","internalType":"uint256","type":"uint256"},{"name":"vestingEnd_","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

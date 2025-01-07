@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"","internalType":"address","type":"address"},{"name":"","internalType":"address","type":"address"}],"name":"supplyBalanceInOf","outputs":[{"name":"inP2P","internalType":"uint256","type":"uint256"},{"name":"onPool","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

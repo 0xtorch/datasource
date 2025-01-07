@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_executor","internalType":"address","type":"address"}],"name":"canExec","outputs":[{"name":"","internalType":"bool","type":"bool"}],"stateMutability":"view"}]

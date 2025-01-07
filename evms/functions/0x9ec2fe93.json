@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"wallet","internalType":"address","type":"address"},{"name":"isExchange","internalType":"bool","type":"bool"}],"name":"setExchangeWallet","outputs":[],"stateMutability":"nonpayable"}]

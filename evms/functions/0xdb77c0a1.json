@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"baseToken","internalType":"address","type":"address"},{"name":"threshold","internalType":"uint256","type":"uint256"},{"name":"R","internalType":"uint256","type":"uint256"}],"name":"addBaseToken","outputs":[],"stateMutability":"nonpayable"}]

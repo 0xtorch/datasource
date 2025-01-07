@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"oldBorrowCapGuardian","internalType":"address","type":"address","indexed":false},{"name":"newBorrowCapGuardian","internalType":"address","type":"address","indexed":false}],"name":"NewBorrowCapGuardian"}]

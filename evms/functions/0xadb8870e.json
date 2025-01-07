@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"","internalType":"enum ToadClothes","type":"uint8"}],"name":"clothesToString","outputs":[{"name":"","internalType":"string","type":"string"}],"stateMutability":"view"}]

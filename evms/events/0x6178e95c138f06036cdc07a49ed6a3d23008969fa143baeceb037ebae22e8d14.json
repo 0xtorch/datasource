@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"actor","internalType":"address","type":"address","indexed":false},{"name":"user","internalType":"address","type":"address","indexed":false}],"name":"Followed"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_tradingPair","internalType":"address","type":"address"},{"name":"_value","internalType":"bool","type":"bool"}],"name":"configureTradingPair","outputs":[],"stateMutability":"nonpayable"}]

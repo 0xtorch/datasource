@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"module","internalType":"address","type":"address"},{"name":"keepListeners","internalType":"bool","type":"bool"}],"name":"disableModule","outputs":[],"stateMutability":"nonpayable"}]

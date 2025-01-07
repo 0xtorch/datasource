@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_data","internalType":"bytes","type":"bytes"},{"name":"_sender","internalType":"address","type":"address"}],"name":"registerRecipient","outputs":[{"name":"recipientId","internalType":"address","type":"address"}],"stateMutability":"payable"}]

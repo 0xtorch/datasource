@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"token","type":"address","indexed":false},{"name":"total","type":"uint256","indexed":false}],"name":"LogTokenBulkSent"}]

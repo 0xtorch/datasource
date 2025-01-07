@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"oldVAIController","internalType":"contract VAIControllerInterface","type":"address","indexed":false},{"name":"newVAIController","internalType":"contract VAIControllerInterface","type":"address","indexed":false}],"name":"NewVAIController"}]

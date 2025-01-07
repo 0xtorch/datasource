@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"oldQueue","internalType":"address","type":"address","indexed":false},{"name":"newQueue","internalType":"address","type":"address","indexed":false}],"name":"WithdrawalQueueUpdated"}]

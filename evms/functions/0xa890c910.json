@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"newTimelock","internalType":"contract TimelockControllerUpgradeable","type":"address"}],"name":"updateTimelock","outputs":[],"stateMutability":"nonpayable"}]

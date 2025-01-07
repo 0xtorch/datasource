@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"collateralToken","internalType":"contract IERC20","type":"address"}],"name":"raftDebtToken","outputs":[{"name":"","internalType":"contract IERC20Indexable","type":"address"}],"stateMutability":"view"}]

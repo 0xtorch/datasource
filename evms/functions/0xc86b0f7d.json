@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_orderIndex","internalType":"uint256","type":"uint256"},{"name":"_minOut","internalType":"uint256","type":"uint256"},{"name":"_triggerRatio","internalType":"uint256","type":"uint256"},{"name":"_triggerAboveThreshold","internalType":"bool","type":"bool"}],"name":"updateSwapOrder","outputs":[],"stateMutability":"nonpayable"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"petAddress","internalType":"contract IPet","type":"address"}],"name":"setPetContract","outputs":[],"stateMutability":"nonpayable"}]

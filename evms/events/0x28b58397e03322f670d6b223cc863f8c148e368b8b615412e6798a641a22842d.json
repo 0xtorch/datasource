@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"index","internalType":"uint256","type":"uint256","indexed":false},{"name":"recipient","internalType":"address","type":"address","indexed":true},{"name":"amount","internalType":"uint128","type":"uint128","indexed":false},{"name":"streamId","internalType":"uint256","type":"uint256","indexed":true}],"name":"Claim"}]

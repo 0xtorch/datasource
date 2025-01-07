@@ -1,0 +1,1 @@
+[{"type":"function","constant":true,"inputs":[{"name":"market","internalType":"address","type":"address"},{"name":"action","internalType":"enum ComptrollerTypes.Action","type":"uint8"}],"name":"actionPaused","outputs":[{"name":"","internalType":"bool","type":"bool"}],"payable":false,"stateMutability":"view"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"cursor","internalType":"uint256","type":"uint256"},{"name":"howMany","internalType":"uint256","type":"uint256"}],"name":"getValidatorOwners","outputs":[{"name":"owners","internalType":"address[]","type":"address[]"},{"name":"newCursor","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

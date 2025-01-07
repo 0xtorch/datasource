@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[],"name":"getLiquidationFee","outputs":[{"name":"fee","internalType":"struct AccountLib.LiquidationFee","type":"tuple","components":[{"name":"protocolShare","internalType":"UD60x18","type":"uint256"},{"name":"liquidatorShare","internalType":"UD60x18","type":"uint256"}]}],"stateMutability":"view"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"account","internalType":"address","type":"address"}],"name":"getAccountActiveAgreements","outputs":[{"name":"","internalType":"contract ISuperAgreement[]","type":"address[]"}],"stateMutability":"view"}]

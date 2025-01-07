@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"proposalId","internalType":"uint256","type":"uint256"}],"name":"getProposalVotingPower","outputs":[{"name":"","internalType":"uint128[3]","type":"uint128[3]"}],"stateMutability":"view"}]

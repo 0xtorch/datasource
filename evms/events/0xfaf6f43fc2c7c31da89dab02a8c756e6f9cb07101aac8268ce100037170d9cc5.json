@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"remoteChainId","internalType":"uint16","type":"uint16","indexed":false},{"name":"remoteAddress","internalType":"address","type":"address","indexed":false}],"name":"SetTrustedRemoteAddress"}]

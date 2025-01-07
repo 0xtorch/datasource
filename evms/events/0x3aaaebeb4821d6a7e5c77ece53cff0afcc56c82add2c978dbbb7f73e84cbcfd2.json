@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"formerGov","internalType":"address","type":"address","indexed":true},{"name":"newGov","internalType":"address","type":"address","indexed":true}],"name":"GovernanceChanged"}]

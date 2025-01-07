@@ -1,0 +1,1 @@
+[{"type":"function","constant":false,"inputs":[{"name":"_tier","type":"uint256"},{"name":"_price","type":"uint256"}],"name":"setVipPrice","outputs":[],"payable":false,"stateMutability":"nonpayable"}]

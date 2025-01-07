@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_tokenId","internalType":"uint256","type":"uint256"},{"name":"mode","internalType":"enum Marquee.Mode","type":"uint8"}],"name":"tokenHTML","outputs":[{"name":"","internalType":"string","type":"string"}],"stateMutability":"view"}]

@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"fromId","type":"uint256","indexed":true},{"name":"toId","type":"uint256","indexed":false}],"name":"AssetUpdate"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_runnerZeroHash","internalType":"uint256","type":"uint256"},{"name":"_runnerZeroDNA","internalType":"uint256","type":"uint256"}],"name":"configureRunnerZero","outputs":[],"stateMutability":"nonpayable"}]

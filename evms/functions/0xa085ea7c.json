@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_GR_top_band","internalType":"uint256","type":"uint256"},{"name":"_GR_bottom_band","internalType":"uint256","type":"uint256"}],"name":"setGrowthRatioBands","outputs":[],"stateMutability":"nonpayable"}]

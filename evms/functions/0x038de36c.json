@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"account","internalType":"address","type":"address"},{"name":"numSeconds","internalType":"uint48","type":"uint48"},{"name":"tierId","internalType":"uint16","type":"uint16"}],"name":"grantTime","outputs":[],"stateMutability":"nonpayable"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"ballotIndex","internalType":"uint256","type":"uint256"}],"name":"getBallotStatus","outputs":[{"name":"","internalType":"enum SimpleSquareVoting.BallotStatus","type":"uint8"}],"stateMutability":"view"}]

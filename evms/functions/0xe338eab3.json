@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"amount","internalType":"uint256","type":"uint256"},{"name":"spendRatio","internalType":"uint256","type":"uint256"}],"name":"voteLockOxd","outputs":[],"stateMutability":"nonpayable"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"account","internalType":"address","type":"address"}],"name":"stats","outputs":[{"name":"withdrawableDividends","internalType":"uint256","type":"uint256"},{"name":"totalDividends","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

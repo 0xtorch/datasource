@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"newPendingAdmin","internalType":"address","type":"address"}],"name":"setPendingProxyAdmin","outputs":[{"name":"","internalType":"bool","type":"bool"}],"stateMutability":"nonpayable"}]

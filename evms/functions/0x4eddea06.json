@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_min","internalType":"uint256","type":"uint256"},{"name":"_max","internalType":"uint256","type":"uint256"}],"name":"setDepositLimits","outputs":[],"stateMutability":"nonpayable"}]

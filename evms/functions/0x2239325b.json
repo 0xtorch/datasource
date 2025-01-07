@@ -1,0 +1,1 @@
+[{"type":"function","constant":false,"inputs":[{"name":"_owner","type":"address"},{"name":"_landSector","type":"uint256"},{"name":"_eventHash","type":"bytes32"}],"name":"mintLandSector","outputs":[],"payable":false,"stateMutability":"nonpayable"}]

@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"minBidAmount","type":"uint256","indexed":false}],"name":"UpdateMinBidAmount"}]

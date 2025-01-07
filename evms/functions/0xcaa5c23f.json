@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"calls","internalType":"struct MultiCall[]","type":"tuple[]","components":[{"name":"target","internalType":"address","type":"address"},{"name":"callData","internalType":"bytes","type":"bytes"}]}],"name":"multicall","outputs":[],"stateMutability":"payable"}]

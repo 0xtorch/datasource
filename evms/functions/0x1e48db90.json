@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"owner","internalType":"address","type":"address"}],"name":"getOwnerGiftsCount","outputs":[{"name":"","internalType":"uint16","type":"uint16"}],"stateMutability":"view"}]

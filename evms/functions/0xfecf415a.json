@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"purchase_id","internalType":"uint256","type":"uint256"}],"name":"isBuyer","outputs":[{"name":"","internalType":"bool","type":"bool"}],"stateMutability":"view"}]

@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"_dstChainId","type":"uint16","indexed":false},{"name":"_type","type":"uint256","indexed":false},{"name":"_dstGasAmount","type":"uint256","indexed":false}],"name":"SetMinDstGasLookup"}]

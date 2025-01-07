@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"dev_fund","internalType":"address","type":"address","indexed":true}],"name":"EventSetDev"}]

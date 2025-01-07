@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"contractName","type":"string","indexed":false},{"name":"basisPoints","type":"uint256[]","indexed":false},{"name":"startMonth","type":"uint256","indexed":false}],"name":"SetVestingContract"}]

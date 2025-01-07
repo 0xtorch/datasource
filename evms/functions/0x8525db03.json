@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"tokenSymbol","internalType":"bytes32","type":"bytes32"},{"name":"attacker","internalType":"address","type":"address"}],"name":"cancelTokenRecoverLock","outputs":[],"stateMutability":"nonpayable"}]

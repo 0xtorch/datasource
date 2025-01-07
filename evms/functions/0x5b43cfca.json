@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_ids","internalType":"uint256[]","type":"uint256[]"},{"name":"_packages","internalType":"bytes[]","type":"bytes[]"},{"name":"_owner","internalType":"address","type":"address"}],"name":"batchMintAxies","outputs":[],"stateMutability":"nonpayable"}]

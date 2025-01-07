@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[],"name":"getAllMarkets","outputs":[{"name":"","internalType":"contract PToken[]","type":"address[]"}],"stateMutability":"view"}]

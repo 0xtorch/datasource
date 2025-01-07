@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"apToken","internalType":"address","type":"address"}],"name":"vaultFarmId","outputs":[{"name":"","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

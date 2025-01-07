@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"check","internalType":"address","type":"address"}],"name":"isERC20","outputs":[{"name":"","internalType":"bool","type":"bool"}],"stateMutability":"view"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"newName","internalType":"string","type":"string"},{"name":"newSymbol","internalType":"string","type":"string"},{"name":"newContractUri","internalType":"string","type":"string"}],"name":"setContractMetadata","outputs":[],"stateMutability":"nonpayable"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"deposit_limit_module","type":"address"},{"name":"override","type":"bool"}],"name":"set_deposit_limit_module","outputs":[],"stateMutability":"nonpayable"}]

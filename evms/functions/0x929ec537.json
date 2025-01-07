@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_addressLock","internalType":"address","type":"address"}],"name":"getLockedAmount","outputs":[{"name":"amount","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

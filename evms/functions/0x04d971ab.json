@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_candidate","internalType":"address","type":"address"},{"name":"_admin","internalType":"address","type":"address"}],"name":"isCandidateAdmin","outputs":[{"name":"","internalType":"bool","type":"bool"}],"stateMutability":"view"}]

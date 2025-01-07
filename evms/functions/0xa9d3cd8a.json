@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"AMM","internalType":"address","type":"address"},{"name":"isAMM","internalType":"bool","type":"bool"}],"name":"setAMM","outputs":[],"stateMutability":"nonpayable"}]

@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"penaltyDays","internalType":"uint128","type":"uint128","indexed":false}],"name":"PenaltyDaysUpdated"}]

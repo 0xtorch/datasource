@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_user","internalType":"address","type":"address"},{"name":"_upRecipient","internalType":"address","type":"address"},{"name":"_pool","internalType":"address","type":"address"}],"name":"claimUP","outputs":[{"name":"","internalType":"uint256","type":"uint256"}],"stateMutability":"nonpayable"}]

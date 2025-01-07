@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"oldWithdrawalRoot","internalType":"bytes32","type":"bytes32","indexed":false},{"name":"newWithdrawalRoot","internalType":"bytes32","type":"bytes32","indexed":false}],"name":"WithdrawalMigrated"}]

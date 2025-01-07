@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"","internalType":"address","type":"address"}],"name":"fee","outputs":[{"name":"bridgeFee","internalType":"uint40","type":"uint40"},{"name":"minFee","internalType":"uint104","type":"uint104"},{"name":"maxFee","internalType":"uint112","type":"uint112"}],"stateMutability":"view"}]

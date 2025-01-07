@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"hash","type":"bytes32","indexed":true},{"name":"tokenContract","type":"address","indexed":true},{"name":"time","type":"uint256","indexed":false},{"name":"value","type":"uint256","indexed":false}],"name":"PaymentAccepted"}]

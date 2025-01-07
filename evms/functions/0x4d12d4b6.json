@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_strategy","internalType":"contract IStrategyV7","type":"address"},{"name":"_name","internalType":"string","type":"string"},{"name":"_symbol","internalType":"string","type":"string"},{"name":"_approvalDelay","internalType":"uint256","type":"uint256"}],"name":"initialize","outputs":[],"stateMutability":"nonpayable"}]

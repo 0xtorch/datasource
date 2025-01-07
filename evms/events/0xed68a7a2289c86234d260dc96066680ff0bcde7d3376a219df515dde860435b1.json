@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"Operator","internalType":"address","type":"address","indexed":true},{"name":"BundlesAmounts","internalType":"uint256[]","type":"uint256[]","indexed":false},{"name":"BundlesPrices","internalType":"uint256[]","type":"uint256[]","indexed":false}],"name":"BundlesUpdated"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"waveId","internalType":"string","type":"string"}],"name":"airdropWaves","outputs":[{"name":"id","internalType":"string","type":"string"},{"name":"merkleRoot","internalType":"bytes32","type":"bytes32"},{"name":"amount","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

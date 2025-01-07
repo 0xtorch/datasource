@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"amountSold","internalType":"uint256","type":"uint256"}],"name":"estimateOutAmount","outputs":[{"name":"amountOut","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"newTotalSupplyTwab","internalType":"struct ObservationLib.Observation","type":"tuple","components":[{"name":"amount","internalType":"uint224","type":"uint224"},{"name":"timestamp","internalType":"uint32","type":"uint32"}],"indexed":false}],"name":"NewTotalSupplyTwab"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_callType","internalType":"bool[]","type":"bool[]"},{"name":"_callArgs","internalType":"bytes[]","type":"bytes[]"},{"name":"_isNeedCallback","internalType":"bool[]","type":"bool[]"}],"name":"multiCall","outputs":[],"stateMutability":"nonpayable"}]

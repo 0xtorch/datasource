@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"status","internalType":"enum IERC721AntiScam.LockStatus","type":"uint8"}],"name":"setWalletLockOfWalletOwner","outputs":[],"stateMutability":"nonpayable"}]

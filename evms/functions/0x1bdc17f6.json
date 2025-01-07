@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_userAddress","internalType":"address","type":"address"},{"name":"_numberPoints","internalType":"uint256","type":"uint256"},{"name":"_campaignId","internalType":"uint256","type":"uint256"}],"name":"increaseUserPoints","outputs":[],"stateMutability":"nonpayable"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[],"name":"getClawbackParameters","outputs":[{"name":"clawbackRecipient","internalType":"address","type":"address"},{"name":"clawbackDelay","internalType":"uint96","type":"uint96"}],"stateMutability":"view"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"masterVault","internalType":"address","type":"address"}],"name":"changeMasterVault","outputs":[],"stateMutability":"nonpayable"}]

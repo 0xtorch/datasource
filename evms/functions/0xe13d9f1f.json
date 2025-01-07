@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_duration","internalType":"uint128","type":"uint128"},{"name":"_depositorOnly","internalType":"bool","type":"bool"},{"name":"_isClosed","internalType":"bool","type":"bool"}],"name":"createVault","outputs":[],"stateMutability":"nonpayable"}]

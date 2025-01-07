@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_sender","internalType":"address","type":"address"},{"name":"_gasLimit","internalType":"uint256","type":"uint256"}],"name":"estimateCrossDomainMessageFee","outputs":[{"name":"","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"_target","internalType":"address","type":"address","indexed":true},{"name":"_value","internalType":"uint256","type":"uint256","indexed":true},{"name":"_data","internalType":"bytes","type":"bytes","indexed":false},{"name":"_returnValue","internalType":"bytes","type":"bytes","indexed":false}],"name":"Invoked"}]

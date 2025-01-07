@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"user","internalType":"address","type":"address"}],"name":"getRaffleInfo","outputs":[{"name":"canEnter","internalType":"bool","type":"bool"},{"name":"lastRaffleId","internalType":"bytes32","type":"bytes32"}],"stateMutability":"view"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_lpFeePercent","internalType":"uint256","type":"uint256"},{"name":"_burnFeePercent","internalType":"uint256","type":"uint256"},{"name":"_maxTxAmount","internalType":"uint256","type":"uint256"},{"name":"_coolDownTime","internalType":"uint256","type":"uint256"}],"name":"update","outputs":[],"stateMutability":"nonpayable"}]

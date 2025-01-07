@@ -1,0 +1,1 @@
+[{"type":"function","constant":true,"inputs":[{"name":"","internalType":"uint256","type":"uint256"},{"name":"","internalType":"address","type":"address"}],"name":"xfLobbyMembers","outputs":[{"name":"headIndex","internalType":"uint40","type":"uint40"},{"name":"tailIndex","internalType":"uint40","type":"uint40"}],"payable":false,"stateMutability":"view"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_tier","internalType":"string","type":"string"}],"name":"queryNumberTier","outputs":[{"name":"","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"previousYieldBooster","internalType":"address","type":"address","indexed":false},{"name":"newYieldBooster","internalType":"address","type":"address","indexed":false}],"name":"SetYieldBooster"}]

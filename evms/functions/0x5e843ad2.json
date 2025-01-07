@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_swapEnabled","internalType":"bool","type":"bool"},{"name":"_swapTokensAtAmount","internalType":"uint256","type":"uint256"},{"name":"_swapAllToken","internalType":"bool","type":"bool"}],"name":"updateDividendSettings","outputs":[],"stateMutability":"nonpayable"}]

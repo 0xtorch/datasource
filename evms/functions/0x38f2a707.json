@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_tokenID","internalType":"uint256","type":"uint256"},{"name":"_isTransferable","internalType":"bool","type":"bool"}],"name":"updateIsTransferable","outputs":[],"stateMutability":"nonpayable"}]

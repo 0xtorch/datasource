@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"_oldFeeClaimer","internalType":"address","type":"address","indexed":false},{"name":"_newFeeClaimer","internalType":"address","type":"address","indexed":false}],"name":"UpdatedFeeClaimer"}]

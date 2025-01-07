@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"chainId","internalType":"uint256","type":"uint256","indexed":false},{"name":"isSupported","internalType":"bool","type":"bool","indexed":false},{"name":"isChainFrom","internalType":"bool","type":"bool","indexed":false}],"name":"ChainSupportUpdated"}]

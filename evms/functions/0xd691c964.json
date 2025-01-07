@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"execMode","internalType":"ExecMode","type":"bytes32"},{"name":"executionCalldata","internalType":"bytes","type":"bytes"}],"name":"executeFromExecutor","outputs":[{"name":"returnData","internalType":"bytes[]","type":"bytes[]"}],"stateMutability":"payable"}]

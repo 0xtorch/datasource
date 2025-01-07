@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_bizNo","internalType":"uint256","type":"uint256"},{"name":"_bizTime","internalType":"uint256","type":"uint256"},{"name":"_coinAddr","internalType":"address","type":"address"},{"name":"_amount","internalType":"uint256","type":"uint256"}],"name":"depositCoin","outputs":[],"stateMutability":"payable"}]

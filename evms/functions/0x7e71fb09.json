@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"newOwner","internalType":"address","type":"address"}],"name":"transferOwnershipImmediately","outputs":[],"stateMutability":"nonpayable"}]

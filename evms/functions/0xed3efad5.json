@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_accounts","internalType":"address[]","type":"address[]"},{"name":"_noLock","internalType":"bool[]","type":"bool[]"}],"name":"setNoLockWhitelist","outputs":[],"stateMutability":"nonpayable"}]

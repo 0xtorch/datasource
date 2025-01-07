@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_cybloc","internalType":"address","type":"address"},{"name":"_mentorManager","internalType":"address","type":"address"}],"name":"setCyBlocAndMentor","outputs":[],"stateMutability":"nonpayable"}]

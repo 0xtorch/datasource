@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"a","internalType":"address","type":"address"}],"name":"inscriptionByAddress","outputs":[{"name":"inscribed","internalType":"bool","type":"bool"},{"name":"squiggle_count","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

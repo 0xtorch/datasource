@@ -1,0 +1,1 @@
+[{"type":"function","constant":false,"inputs":[{"name":"newVotingPeriod","internalType":"uint256","type":"uint256"}],"name":"_setVotingPeriod","outputs":[],"payable":false,"stateMutability":"nonpayable"}]

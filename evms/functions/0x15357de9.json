@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"feeValue","internalType":"uint256","type":"uint256"},{"name":"feeToken","internalType":"contract IERC20MetadataUpgradeable","type":"address"},{"name":"feeRecipient","internalType":"address","type":"address"}],"name":"setFeeParams","outputs":[],"stateMutability":"nonpayable"}]

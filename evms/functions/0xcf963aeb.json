@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"registry","internalType":"address","type":"address"},{"name":"logic","internalType":"address","type":"address"},{"name":"versionRoot","internalType":"bytes32","type":"bytes32"},{"name":"data","internalType":"bytes","type":"bytes"}],"name":"setNewVaultInfo","outputs":[],"stateMutability":"nonpayable"}]

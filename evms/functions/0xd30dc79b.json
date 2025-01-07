@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_orgAddress","internalType":"address","type":"address"},{"name":"_walletAddress","internalType":"address","type":"address"}],"name":"setBackendWallet","outputs":[],"stateMutability":"nonpayable"}]

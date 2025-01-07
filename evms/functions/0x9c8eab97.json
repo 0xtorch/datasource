@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"key","internalType":"bytes32","type":"bytes32"},{"name":"newAdminFee","internalType":"uint256","type":"uint256"}],"name":"setSwapAdminFee","outputs":[],"stateMutability":"nonpayable"}]

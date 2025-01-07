@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"insolventSettlementAmount","internalType":"uint256","type":"uint256","indexed":false},{"name":"amountQuoteReserved","internalType":"uint256","type":"uint256","indexed":false},{"name":"totalOutstandingSettlements","internalType":"uint256","type":"uint256","indexed":false}],"name":"BoardSettlement"}]

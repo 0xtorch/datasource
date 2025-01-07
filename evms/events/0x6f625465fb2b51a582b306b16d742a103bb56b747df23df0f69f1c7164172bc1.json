@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"startPeriod","internalType":"uint256","type":"uint256","indexed":false},{"name":"endingPeriod","internalType":"uint256","type":"uint256","indexed":false}],"name":"StartStaking"}]

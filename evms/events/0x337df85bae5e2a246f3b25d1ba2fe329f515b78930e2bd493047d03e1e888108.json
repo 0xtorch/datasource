@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"baseId","internalType":"bytes6","type":"bytes6","indexed":true},{"name":"oracle","internalType":"address","type":"address","indexed":true}],"name":"RateOracleAdded"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"","internalType":"address","type":"address"},{"name":"","internalType":"uint256","type":"uint256"}],"name":"reserves","outputs":[{"name":"startTime","internalType":"uint64","type":"uint64"},{"name":"endTime","internalType":"uint64","type":"uint64"},{"name":"allocation","internalType":"uint128","type":"uint128"}],"stateMutability":"view"}]

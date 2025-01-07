@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"tokenId","internalType":"uint256","type":"uint256"},{"name":"restrictionToAdd","internalType":"enum TokenImmutability.TokenRestriction","type":"uint8"}],"name":"assignTokenRestrictions","outputs":[],"stateMutability":"nonpayable"}]

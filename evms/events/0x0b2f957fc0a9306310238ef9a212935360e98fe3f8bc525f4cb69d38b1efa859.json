@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"_oldValue","internalType":"uint256","type":"uint256","indexed":true},{"name":"_newValue","internalType":"uint256","type":"uint256","indexed":true}],"name":"EPGasOverheadChanged"}]

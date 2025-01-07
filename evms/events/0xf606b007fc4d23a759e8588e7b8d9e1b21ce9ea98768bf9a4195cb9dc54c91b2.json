@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"nftBasedClaimContracts","internalType":"address[]","type":"address[]","indexed":false},{"name":"walletBasedClaimContracts","internalType":"address[]","type":"address[]","indexed":false}],"name":"AddClaimContracts"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"squareId","internalType":"uint256","type":"uint256"}],"name":"squareMinStaking","outputs":[{"name":"minStaking","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

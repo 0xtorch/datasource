@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"pos","internalType":"address","type":"address","indexed":false},{"name":"listed","internalType":"address","type":"address","indexed":false}],"name":"ListRemoved"}]

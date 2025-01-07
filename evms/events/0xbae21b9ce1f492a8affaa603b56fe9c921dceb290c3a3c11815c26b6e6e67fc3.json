@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"trackId","internalType":"uint24","type":"uint24","indexed":true},{"name":"blockNumber","internalType":"uint80","type":"uint80","indexed":false}],"name":"AddTrackCheckpoint"}]

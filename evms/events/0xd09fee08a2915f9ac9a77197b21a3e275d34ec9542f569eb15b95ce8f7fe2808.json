@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"dampSpeedUp","internalType":"uint256","type":"uint256","indexed":false},{"name":"dampSpeedDown","internalType":"uint256","type":"uint256","indexed":false}],"name":"DampSpeedSet"}]

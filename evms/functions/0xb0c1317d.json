@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_offchainExchange","internalType":"address","type":"address"},{"name":"_verifier","internalType":"address","type":"address"},{"name":"_spreads","internalType":"uint256","type":"uint256"},{"name":"minSizes","internalType":"int128[]","type":"int128[]"}],"name":"migrate","outputs":[],"stateMutability":"nonpayable"}]

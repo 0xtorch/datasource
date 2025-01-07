@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_account","internalType":"address","type":"address"},{"name":"_pool","internalType":"contract IPool","type":"address"}],"name":"positionsWithPool","outputs":[{"name":"long","internalType":"uint128","type":"uint128"},{"name":"short","internalType":"uint128","type":"uint128"}],"stateMutability":"view"}]

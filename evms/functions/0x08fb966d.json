@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_minter","internalType":"address","type":"address"},{"name":"numberOfTokens","internalType":"uint16","type":"uint16"}],"name":"mintSeveral","outputs":[],"stateMutability":"nonpayable"}]

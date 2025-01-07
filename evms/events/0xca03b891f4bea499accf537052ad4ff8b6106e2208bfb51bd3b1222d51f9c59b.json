@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"sweeper","internalType":"address","type":"address","indexed":false},{"name":"feeCollected","internalType":"uint256","type":"uint256","indexed":false}],"name":"SweeperBridgeFeeCollected"}]

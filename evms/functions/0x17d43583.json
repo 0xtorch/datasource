@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"acc","internalType":"address","type":"address"},{"name":"add","internalType":"bool","type":"bool"}],"name":"setBuyBacker","outputs":[],"stateMutability":"nonpayable"}]

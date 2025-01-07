@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"buyTaxFee","internalType":"uint256","type":"uint256"},{"name":"sellTaxFee","internalType":"uint256","type":"uint256"}],"name":"setTaxFeePercent","outputs":[],"stateMutability":"nonpayable"}]

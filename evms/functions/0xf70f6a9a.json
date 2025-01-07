@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"account","internalType":"address","type":"address"},{"name":"farm","internalType":"address","type":"address"}],"name":"addDefaultFarmIfNeeded","outputs":[],"stateMutability":"nonpayable"}]

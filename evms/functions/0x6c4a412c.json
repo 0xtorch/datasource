@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"accounts","internalType":"address[]","type":"address[]"},{"name":"nonces","internalType":"uint256[]","type":"uint256[]"}],"name":"createMessages","outputs":[{"name":"messages","internalType":"bytes32[]","type":"bytes32[]"}],"stateMutability":"view"}]

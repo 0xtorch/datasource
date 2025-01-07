@@ -1,0 +1,1 @@
+[{"type":"function","constant":false,"inputs":[{"name":"_objId","type":"uint256"},{"name":"_price","type":"uint256"}],"name":"placeSellOrder","outputs":[],"payable":false,"stateMutability":"nonpayable"}]

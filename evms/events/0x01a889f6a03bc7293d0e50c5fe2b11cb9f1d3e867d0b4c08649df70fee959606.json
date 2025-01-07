@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"beneficiaries","internalType":"address[]","type":"address[]","indexed":false},{"name":"fromID","internalType":"uint256","type":"uint256","indexed":false},{"name":"toID","internalType":"uint256","type":"uint256","indexed":false}],"name":"MintBatch"}]

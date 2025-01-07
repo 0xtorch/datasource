@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_descriptor","internalType":"contract ICNPRdescriptor","type":"address"}],"name":"setCnprDescriptor","outputs":[],"stateMutability":"nonpayable"}]

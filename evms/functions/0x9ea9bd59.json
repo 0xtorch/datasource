@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_caller","internalType":"address","type":"address"},{"name":"","internalType":"bytes","type":"bytes"}],"name":"validCaller","outputs":[{"name":"","internalType":"bool","type":"bool"}],"stateMutability":"view"}]

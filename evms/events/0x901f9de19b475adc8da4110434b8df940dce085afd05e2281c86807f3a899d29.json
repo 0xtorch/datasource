@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"bridgeToken","internalType":"address","type":"address","indexed":true},{"name":"fee","internalType":"uint64","type":"uint64","indexed":false}],"name":"BridgeTokenFeeUpdated"}]

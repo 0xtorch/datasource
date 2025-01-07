@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"role","internalType":"bytes32","type":"bytes32"},{"name":"_assignee","internalType":"address","type":"address"}],"name":"assignRole","outputs":[],"stateMutability":"nonpayable"}]

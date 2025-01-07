@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"startTokenId","internalType":"uint256","type":"uint256","indexed":true},{"name":"endTokenId","internalType":"uint256","type":"uint256","indexed":true}],"name":"TokenURIUpdated"}]

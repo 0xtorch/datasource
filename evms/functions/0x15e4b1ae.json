@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"depositId","internalType":"uint256","type":"uint256"},{"name":"lockedUntil","internalType":"uint64","type":"uint64"},{"name":"useSILV","internalType":"bool","type":"bool"}],"name":"updateStakeLock","outputs":[],"stateMutability":"nonpayable"}]

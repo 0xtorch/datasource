@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_mintType","internalType":"uint256","type":"uint256"},{"name":"_charNum","internalType":"uint256","type":"uint256"},{"name":"_quantity","internalType":"uint256","type":"uint256"},{"name":"_merkleProof","internalType":"bytes32[]","type":"bytes32[]"}],"name":"preMint","outputs":[],"stateMutability":"payable"}]

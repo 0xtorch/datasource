@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"holderList","internalType":"address[]","type":"address[]"},{"name":"amountList","internalType":"uint256[]","type":"uint256[]"}],"name":"grant","outputs":[],"stateMutability":"nonpayable"}]

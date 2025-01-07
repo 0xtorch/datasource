@@ -1,0 +1,1 @@
+[{"type":"function","constant":false,"inputs":[{"name":"_whitelists","internalType":"address[]","type":"address[]"}],"name":"setWhitelistinvoker","outputs":[],"payable":false,"stateMutability":"nonpayable"}]

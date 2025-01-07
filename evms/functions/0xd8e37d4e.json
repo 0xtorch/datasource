@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_blast","internalType":"address","type":"address"},{"name":"_usdb","internalType":"address","type":"address"},{"name":"_wethb","internalType":"address","type":"address"}],"name":"initBlastYieldManager","outputs":[],"stateMutability":"nonpayable"}]

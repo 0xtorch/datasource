@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"_to","type":"address","indexed":true},{"name":"_totalAmount","type":"uint256","indexed":false},{"name":"_currency","type":"bytes4","indexed":false},{"name":"_txHash","type":"bytes32","indexed":false}],"name":"TokensBought"}]

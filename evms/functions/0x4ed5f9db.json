@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_feeArbiter","internalType":"address payable","type":"address"}],"name":"setFeeArbiter","outputs":[],"stateMutability":"nonpayable"}]

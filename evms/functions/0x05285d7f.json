@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"borrower","internalType":"address","type":"address"},{"name":"borrowBalance","internalType":"uint256","type":"uint256"},{"name":"borrowIndex","internalType":"uint256","type":"uint256"}],"name":"trackBorrow","outputs":[],"stateMutability":"nonpayable"}]

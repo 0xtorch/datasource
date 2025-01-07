@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"pairIndex","internalType":"uint256","type":"uint256"},{"name":"orderId","internalType":"uint256[]","type":"uint256[]"},{"name":"priceUpdateData","internalType":"bytes[]","type":"bytes[]"}],"name":"executeMarketOrders","outputs":[],"stateMutability":"payable"}]

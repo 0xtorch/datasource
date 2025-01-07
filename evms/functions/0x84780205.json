@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"newMinDepositAmount","internalType":"uint256","type":"uint256"}],"name":"updateMinDepositAmount","outputs":[],"stateMutability":"nonpayable"}]

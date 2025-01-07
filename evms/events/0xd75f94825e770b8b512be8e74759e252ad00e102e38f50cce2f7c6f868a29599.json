@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"removedGovernor","internalType":"address","type":"address","indexed":false}],"name":"LogRemovedGovernor"}]

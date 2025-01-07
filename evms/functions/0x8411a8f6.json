@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"tokenId","internalType":"uint256","type":"uint256"}],"name":"getMintDataByTokenId","outputs":[{"name":"tier","internalType":"uint256","type":"uint256"},{"name":"apeTokenId","internalType":"uint256","type":"uint256"},{"name":"dogTokenId","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

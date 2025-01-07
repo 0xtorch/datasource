@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_tokenIds","internalType":"uint256[]","type":"uint256[]"},{"name":"_amounts","internalType":"uint256[]","type":"uint256[]"},{"name":"_receiver","internalType":"address","type":"address"}],"name":"bulkRedeemWithUpxEth","outputs":[],"stateMutability":"nonpayable"}]

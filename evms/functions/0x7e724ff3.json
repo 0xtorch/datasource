@@ -1,0 +1,1 @@
+[{"type":"function","constant":false,"inputs":[{"name":"newEthCrossChainManagerAddress","internalType":"address","type":"address"}],"name":"upgradeToNew","outputs":[{"name":"","internalType":"bool","type":"bool"}],"payable":false,"stateMutability":"nonpayable"}]

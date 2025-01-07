@@ -1,0 +1,1 @@
+[{"type":"function","constant":false,"inputs":[{"name":"_to","type":"address"},{"name":"_ids","type":"uint256[]"},{"name":"_amounts","type":"uint256[]"},{"name":"_data","type":"bytes"}],"name":"batchMint","outputs":[],"payable":false,"stateMutability":"nonpayable"}]

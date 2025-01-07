@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"controllerType","internalType":"bytes32","type":"bytes32","indexed":true},{"name":"controllerSlot","internalType":"bytes32","type":"bytes32","indexed":true},{"name":"controller","internalType":"address","type":"address","indexed":true},{"name":"status","internalType":"bool","type":"bool","indexed":false}],"name":"AdminSet"}]

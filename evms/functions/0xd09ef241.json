@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"orderId","internalType":"uint256","type":"uint256"}],"name":"getOrder","outputs":[{"name":"orderType","internalType":"enum Orders.OrderType","type":"uint8"},{"name":"validAfterTimestamp","internalType":"uint32","type":"uint32"}],"stateMutability":"view"}]

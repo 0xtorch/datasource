@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_accessoryContract","internalType":"address","type":"address"},{"name":"allowed","internalType":"bool","type":"bool"}],"name":"updateAccessoryContracts","outputs":[],"stateMutability":"nonpayable"}]

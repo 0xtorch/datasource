@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_recipient","internalType":"address payable","type":"address"}],"name":"setSweepRecipient","outputs":[],"stateMutability":"nonpayable"}]

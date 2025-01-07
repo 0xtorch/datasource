@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_nft","internalType":"address","type":"address"},{"name":"_recipients","internalType":"address[]","type":"address[]"},{"name":"_tokenAmount","internalType":"uint256","type":"uint256"}],"name":"batchMintAmount","outputs":[],"stateMutability":"nonpayable"}]

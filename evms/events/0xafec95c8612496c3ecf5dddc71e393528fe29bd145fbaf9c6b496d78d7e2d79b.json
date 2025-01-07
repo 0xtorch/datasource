@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"oldProtocolShareReserve","internalType":"address","type":"address","indexed":true},{"name":"newProtocolShareReserve","internalType":"address","type":"address","indexed":true}],"name":"NewProtocolShareReserve"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[],"name":"getCallers","outputs":[{"name":"ret","internalType":"address[]","type":"address[]"}],"stateMutability":"view"}]

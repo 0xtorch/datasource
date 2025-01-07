@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"user","internalType":"address","type":"address"},{"name":"depositData","internalType":"bytes","type":"bytes"}],"name":"deposit","outputs":[],"stateMutability":"nonpayable"}]

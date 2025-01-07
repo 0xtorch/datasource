@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[],"name":"getPoolBalances","outputs":[{"name":"totalTokenA","internalType":"uint256","type":"uint256"},{"name":"totalTokenB","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

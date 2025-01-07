@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_addition","internalType":"bool","type":"bool"},{"name":"_increment","internalType":"uint256","type":"uint256"},{"name":"_target","internalType":"uint256","type":"uint256"},{"name":"_buffer","internalType":"uint32","type":"uint32"}],"name":"setAdjustment","outputs":[],"stateMutability":"nonpayable"}]

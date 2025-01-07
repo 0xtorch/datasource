@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_marketingFee","internalType":"uint256","type":"uint256"},{"name":"_developmentFee","internalType":"uint256","type":"uint256"},{"name":"_liquidityFee","internalType":"uint256","type":"uint256"}],"name":"setBuyFees","outputs":[],"stateMutability":"nonpayable"}]

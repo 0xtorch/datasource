@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"action","internalType":"bytes32","type":"bytes32","indexed":true},{"name":"handler","internalType":"address","type":"address","indexed":true}],"name":"SetRebateHandler"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[],"name":"getAllAgreementHashes","outputs":[{"name":"agreementHashes","internalType":"bytes32[]","type":"bytes32[]"}],"stateMutability":"view"}]

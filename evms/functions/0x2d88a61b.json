@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"totalStakedAmt","internalType":"uint256","type":"uint256"}],"name":"calcluateDistribution_","outputs":[{"name":"reward","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

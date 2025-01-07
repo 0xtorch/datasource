@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"pair","internalType":"address","type":"address","indexed":false},{"name":"tolerance","internalType":"uint16","type":"uint16","indexed":false}],"name":"ToleranceSet"}]

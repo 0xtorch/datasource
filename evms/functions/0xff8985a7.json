@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_pid","internalType":"uint256","type":"uint256"},{"name":"_masterWombat","internalType":"address","type":"address"},{"name":"_newMasterWombat","internalType":"address","type":"address"}],"name":"migrate","outputs":[{"name":"","internalType":"uint256","type":"uint256"}],"stateMutability":"nonpayable"}]

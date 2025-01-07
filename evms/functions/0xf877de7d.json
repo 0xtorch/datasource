@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"str","internalType":"string","type":"string"},{"name":"maxChars","internalType":"uint16","type":"uint16"}],"name":"validateString","outputs":[{"name":"","internalType":"bool","type":"bool"}],"stateMutability":"pure"}]

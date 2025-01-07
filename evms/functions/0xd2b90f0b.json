@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"fundManager","internalType":"address","type":"address"},{"name":"fundFactory","internalType":"address","type":"address"}],"name":"initializeFund","outputs":[],"stateMutability":"nonpayable"}]

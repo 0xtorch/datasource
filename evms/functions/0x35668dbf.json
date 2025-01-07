@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_tokenMessenger","internalType":"address","type":"address"},{"name":"_messageTransmitter","internalType":"address","type":"address"}],"name":"initCCTP","outputs":[],"stateMutability":"nonpayable"}]

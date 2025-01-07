@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[],"name":"getGateway","outputs":[{"name":"","internalType":"contract IL2Gateway","type":"address"}],"stateMutability":"view"}]

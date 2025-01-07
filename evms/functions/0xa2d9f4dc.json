@@ -1,0 +1,1 @@
+[{"type":"function","constant":false,"inputs":[{"name":"_masterChef","internalType":"address","type":"address"}],"name":"setMasterChef","outputs":[],"payable":false,"stateMutability":"nonpayable"}]

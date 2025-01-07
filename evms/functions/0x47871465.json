@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_royaltyRegistry","internalType":"address","type":"address"},{"name":"_cancellationRegistry","internalType":"address","type":"address"},{"name":"_paymentERC20Registry","internalType":"address","type":"address"}],"name":"setRegistryContracts","outputs":[],"stateMutability":"nonpayable"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"projectIds","internalType":"uint256[]","type":"uint256[]"},{"name":"coreContract","internalType":"address","type":"address"}],"name":"removeMintersForProjectsOnContract","outputs":[],"stateMutability":"nonpayable"}]

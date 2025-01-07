@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"feeBp","internalType":"uint16","type":"uint16","indexed":false}],"name":"SetDefaultFeeBp"}]

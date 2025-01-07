@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"newAddress","internalType":"address","type":"address","indexed":true}],"name":"SetTreasuryAddress"},{"type":"event","anonymous":false,"inputs":[{"name":"treasuryAddress","internalType":"address payable","type":"address","indexed":false}],"name":"SetTreasuryAddress"}]

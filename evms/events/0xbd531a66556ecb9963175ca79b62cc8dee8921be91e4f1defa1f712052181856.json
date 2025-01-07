@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"slot","internalType":"uint8","type":"uint8","indexed":true},{"name":"owner","internalType":"address","type":"address","indexed":true},{"name":"newDelegate","internalType":"address","type":"address","indexed":true},{"name":"oldDelegate","internalType":"address","type":"address","indexed":false}],"name":"SlotDelegateUpdated"}]

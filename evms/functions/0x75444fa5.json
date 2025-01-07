@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_childContract","internalType":"address","type":"address"},{"name":"_childTokenId","internalType":"uint256","type":"uint256"}],"name":"ownerOf721Child","outputs":[{"name":"","internalType":"address","type":"address"},{"name":"","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

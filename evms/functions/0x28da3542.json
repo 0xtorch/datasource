@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[],"name":"getLastProfitMerkleRootInfo","outputs":[{"name":"inDispute","internalType":"bool","type":"bool"},{"name":"root","internalType":"bytes32","type":"bytes32"},{"name":"disputeUntil","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

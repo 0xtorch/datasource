@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"petType","internalType":"uint256","type":"uint256"},{"name":"name","internalType":"string","type":"string"}],"name":"buyByBnb","outputs":[{"name":"tokenId","internalType":"uint256","type":"uint256"}],"stateMutability":"payable"}]

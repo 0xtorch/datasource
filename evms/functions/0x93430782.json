@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"model","internalType":"address","type":"address"}],"name":"setLiquidationSlippageModel","outputs":[],"stateMutability":"nonpayable"}]

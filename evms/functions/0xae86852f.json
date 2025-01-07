@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"robot","internalType":"address","type":"address"},{"name":"value","internalType":"bool","type":"bool"}],"name":"setRobot","outputs":[],"stateMutability":"nonpayable"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"baseURI_","internalType":"string","type":"string"},{"name":"metakitAdmin_","internalType":"address","type":"address"}],"name":"initialize","outputs":[],"stateMutability":"nonpayable"}]

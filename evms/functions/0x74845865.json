@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"factory_","internalType":"address","type":"address"},{"name":"name_","internalType":"bytes32","type":"bytes32"},{"name":"data_","internalType":"bytes","type":"bytes"}],"name":"__InitializableProductProxy_init","outputs":[],"stateMutability":"payable"}]

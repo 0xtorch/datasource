@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"tokenId","internalType":"uint16","type":"uint16"},{"name":"amount","internalType":"uint256","type":"uint256"},{"name":"destination","internalType":"uint8","type":"uint8"},{"name":"target","internalType":"address","type":"address"}],"name":"create","outputs":[],"stateMutability":"nonpayable"}]

@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"duration","internalType":"uint16","type":"uint16","indexed":false},{"name":"admin","internalType":"address","type":"address","indexed":false}],"name":"ExpiryDurationUpdated"}]

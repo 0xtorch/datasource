@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"oldExchangeRate","internalType":"uint256","type":"uint256","indexed":false},{"name":"newExchangeRate","internalType":"uint256","type":"uint256","indexed":false}],"name":"LogDefaultExchangeRateChanged"}]

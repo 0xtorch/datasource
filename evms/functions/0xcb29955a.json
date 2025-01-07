@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"addressPrefix","internalType":"bytes19","type":"bytes19"}],"name":"isPermitDisabledMode","outputs":[{"name":"","internalType":"bool","type":"bool"}],"stateMutability":"view"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"tokenId","internalType":"uint256","type":"uint256"},{"name":"amountToWithdraw","internalType":"uint256","type":"uint256"}],"name":"withdrawFromPosition","outputs":[],"stateMutability":"nonpayable"}]

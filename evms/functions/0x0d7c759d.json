@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"dstChainId","internalType":"uint256","type":"uint256"},{"name":"dstLzId","internalType":"uint32","type":"uint32"},{"name":"dstDecimals","internalType":"uint8","type":"uint8"},{"name":"dstBridgeAdapter","internalType":"address","type":"address"}],"name":"registerRemoteBridgeAdapter","outputs":[],"stateMutability":"nonpayable"}]

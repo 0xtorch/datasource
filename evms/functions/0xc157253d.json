@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"spaceId","internalType":"uint256","type":"uint256"},{"name":"amount","internalType":"uint256","type":"uint256"}],"name":"getBuyPrice","outputs":[{"name":"","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

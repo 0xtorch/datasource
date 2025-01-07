@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_marketingWallet","internalType":"address","type":"address"},{"name":"_devWallet","internalType":"address","type":"address"}],"name":"setWallets","outputs":[],"stateMutability":"nonpayable"}]

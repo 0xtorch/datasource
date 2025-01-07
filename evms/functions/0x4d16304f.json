@@ -1,0 +1,1 @@
+[{"type":"function","constant":true,"inputs":[],"name":"assetContract","outputs":[{"name":"","internalType":"contract AssetContract","type":"address"}],"payable":false,"stateMutability":"view"}]

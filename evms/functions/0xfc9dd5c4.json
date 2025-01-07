@@ -1,0 +1,1 @@
+[{"type":"function","constant":true,"inputs":[{"name":"","internalType":"bytes4","type":"bytes4"}],"name":"methodPaused","outputs":[{"name":"","internalType":"bool","type":"bool"}],"payable":false,"stateMutability":"view"}]

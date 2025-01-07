@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_tier1","internalType":"bool","type":"bool"},{"name":"_tier2","internalType":"bool","type":"bool"},{"name":"_public","internalType":"bool","type":"bool"}],"name":"setMintStages","outputs":[],"stateMutability":"nonpayable"}]

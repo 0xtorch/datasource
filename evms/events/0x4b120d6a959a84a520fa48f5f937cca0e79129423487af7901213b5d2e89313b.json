@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"prefix","internalType":"string","type":"string","indexed":false}],"name":"NewURIPrefix"}]

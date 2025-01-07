@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"strategy","type":"address"}],"name":"expectedReturn","outputs":[{"name":"","type":"uint256"}],"stateMutability":"view"}]

@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"royaltyEngineV1","internalType":"address","type":"address","indexed":false}],"name":"MarketplaceRoyaltyEngineUpdate"}]

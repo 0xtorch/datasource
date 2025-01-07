@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"squareId","internalType":"uint256","type":"uint256"},{"name":"attackPosition","internalType":"uint256","type":"uint256"}],"name":"attackBebob","outputs":[],"stateMutability":"nonpayable"}]

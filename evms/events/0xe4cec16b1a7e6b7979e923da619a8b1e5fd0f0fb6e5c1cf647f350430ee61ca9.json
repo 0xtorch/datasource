@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"previousStrategy","internalType":"address","type":"address","indexed":true},{"name":"newStrategy","internalType":"address","type":"address","indexed":true}],"name":"StrategyUpdated"}]

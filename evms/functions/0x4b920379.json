@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_gauge","type":"address"}],"name":"is_valid_gauge","outputs":[{"name":"","type":"bool"}],"stateMutability":"view"}]

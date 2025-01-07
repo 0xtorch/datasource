@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_member","internalType":"address","type":"address"}],"name":"getListReferrals","outputs":[{"name":"","internalType":"address[]","type":"address[]"}],"stateMutability":"view"}]

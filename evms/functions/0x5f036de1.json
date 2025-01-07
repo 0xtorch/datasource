@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"positionId","internalType":"uint256","type":"uint256"},{"name":"rewardBeneficiary","internalType":"address","type":"address"}],"name":"liquidatePosition","outputs":[],"stateMutability":"nonpayable"}]

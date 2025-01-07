@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_lowerBoundPrice","internalType":"uint256","type":"uint256"},{"name":"_priceFactor","internalType":"uint256","type":"uint256"}],"name":"setPriceDecayParams","outputs":[],"stateMutability":"nonpayable"}]

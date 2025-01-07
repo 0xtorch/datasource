@@ -1,0 +1,1 @@
+[{"type":"function","gas":763950,"inputs":[{"name":"queue","type":"address[20]"}],"name":"setWithdrawalQueue","outputs":[],"stateMutability":"nonpayable"}]

@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"_oldAddress","type":"address","indexed":true},{"name":"_newAddress","type":"address","indexed":true}],"name":"LoyaltyWalletAddressChanged"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_router","internalType":"address","type":"address"}],"name":"getRouterOwner","outputs":[{"name":"","internalType":"address","type":"address"}],"stateMutability":"view"}]

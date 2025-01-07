@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"caller","internalType":"address","type":"address","indexed":true},{"name":"id","internalType":"Id","type":"bytes32","indexed":true}],"name":"RevokePendingCap"}]

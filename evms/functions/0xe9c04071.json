@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_revokeActions","internalType":"struct ISwapAdapter.RevokeAction[]","type":"tuple[]","components":[{"name":"spender","internalType":"address","type":"address"},{"name":"tokens","internalType":"contract IERC20[]","type":"address[]"}]}],"name":"revokeAllowances","outputs":[],"stateMutability":"nonpayable"}]

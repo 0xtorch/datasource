@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"amounts","internalType":"uint256[]","type":"uint256[]"},{"name":"tokens","internalType":"address[]","type":"address[]"},{"name":"recipients","internalType":"address payable[]","type":"address[]"},{"name":"metadatas","internalType":"bytes[]","type":"bytes[]"}],"name":"multiRelease","outputs":[],"stateMutability":"payable"}]

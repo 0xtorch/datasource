@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"user","internalType":"address","type":"address"},{"name":"enabled","internalType":"bool","type":"bool"},{"name":"signature","internalType":"bytes","type":"bytes"}],"name":"setOnlyCallerCheckWithSignature","outputs":[],"stateMutability":"nonpayable"}]

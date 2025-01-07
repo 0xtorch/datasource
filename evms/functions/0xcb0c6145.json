@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_address","internalType":"address[]","type":"address[]"},{"name":"_edition","internalType":"uint256[]","type":"uint256[]"}],"name":"setWhite","outputs":[],"stateMutability":"nonpayable"}]

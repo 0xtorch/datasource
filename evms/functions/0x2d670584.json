@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"orderIds","internalType":"uint256[]","type":"uint256[]"},{"name":"hashes","internalType":"bytes32[]","type":"bytes32[]"}],"name":"settle2StepsBatch","outputs":[],"stateMutability":"nonpayable"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"wallets","internalType":"address[]","type":"address[]"},{"name":"seed","internalType":"uint256","type":"uint256"}],"name":"airdropSingleTokenToMultiple","outputs":[],"stateMutability":"nonpayable"}]

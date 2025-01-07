@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"newSecondaryReceiver","internalType":"address","type":"address","indexed":false},{"name":"newRoyalty","internalType":"uint96","type":"uint96","indexed":false}],"name":"NewSecondaryRoyalties"}]

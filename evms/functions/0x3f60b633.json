@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_token","internalType":"address","type":"address"},{"name":"_reserveId","internalType":"uint256","type":"uint256"},{"name":"_amount","internalType":"uint256","type":"uint256"},{"name":"_to","internalType":"address","type":"address"}],"name":"buy","outputs":[],"stateMutability":"payable"}]

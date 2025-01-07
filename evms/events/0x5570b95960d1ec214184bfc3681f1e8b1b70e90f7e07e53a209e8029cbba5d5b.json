@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"lineageId","internalType":"uint256","type":"uint256","indexed":true},{"name":"newImplementation","internalType":"address","type":"address","indexed":true},{"name":"oldImplementation","internalType":"address","type":"address","indexed":true}],"name":"Added"}]

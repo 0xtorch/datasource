@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_miningApprovals","internalType":"struct DataTypes.MiningApproval[]","type":"tuple[]","components":[{"name":"token","internalType":"address","type":"address"},{"name":"swapContract","internalType":"address","type":"address"}]}],"name":"addMiningApprovals","outputs":[],"stateMutability":"nonpayable"}]

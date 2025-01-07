@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"identifier","internalType":"bytes32","type":"bytes32","indexed":false},{"name":"feeMultiplier","internalType":"uint256","type":"uint256","indexed":false},{"name":"feeCollector","internalType":"address","type":"address","indexed":false}],"name":"MarketplaceRegister"}]

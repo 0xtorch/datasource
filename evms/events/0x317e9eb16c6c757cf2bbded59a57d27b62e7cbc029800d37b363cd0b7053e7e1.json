@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"epoch","internalType":"uint256","type":"uint256","indexed":true},{"name":"gameName","internalType":"string","type":"string","indexed":true},{"name":"creator","internalType":"address","type":"address","indexed":true},{"name":"bet","internalType":"uint256","type":"uint256","indexed":false}],"name":"CreateLobby"}]

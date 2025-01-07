@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"vaultAddress","internalType":"address","type":"address","indexed":true},{"name":"vaultStart","internalType":"uint256","type":"uint256","indexed":false},{"name":"vaultStatus","internalType":"enum VaultStatus","type":"uint8","indexed":false}],"name":"VaultRollover"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"pool","internalType":"address","type":"address"},{"name":"newPoolModule","internalType":"address","type":"address"}],"name":"updatePoolModule","outputs":[],"stateMutability":"nonpayable"}]

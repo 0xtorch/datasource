@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[],"name":"feeShare","outputs":[{"name":"recipient","internalType":"address","type":"address"},{"name":"split","internalType":"uint16","type":"uint16"}],"stateMutability":"view"}]

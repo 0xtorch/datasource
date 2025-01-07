@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"addList","internalType":"address[]","type":"address[]"},{"name":"enable","internalType":"bool","type":"bool"}],"name":"setBurnList","outputs":[],"stateMutability":"nonpayable"}]

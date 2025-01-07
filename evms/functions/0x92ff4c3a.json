@@ -1,0 +1,1 @@
+[{"type":"function","constant":true,"inputs":[{"name":"_drop","internalType":"string","type":"string"}],"name":"isValidToPlay","outputs":[{"name":"","internalType":"bool","type":"bool"}],"payable":false,"stateMutability":"view"}]

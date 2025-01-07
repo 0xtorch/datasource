@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_streakLifeTime","internalType":"uint256","type":"uint256"},{"name":"_resetTime","internalType":"uint256","type":"uint256"}],"name":"initializeV2","outputs":[],"stateMutability":"nonpayable"}]

@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"oldTxGasPrice","internalType":"uint256","type":"uint256","indexed":false},{"name":"newTxGasPrice","internalType":"uint256","type":"uint256","indexed":false}],"name":"TxGasPriceUpdate"}]

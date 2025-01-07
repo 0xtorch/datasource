@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"","internalType":"address","type":"address"},{"name":"hash","internalType":"bytes32","type":"bytes32"},{"name":"sig","internalType":"bytes","type":"bytes"}],"name":"isValidSignatureWithSender","outputs":[{"name":"","internalType":"bytes4","type":"bytes4"}],"stateMutability":"view"}]

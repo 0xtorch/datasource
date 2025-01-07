@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"walletAddressList_","internalType":"address[]","type":"address[]"}],"name":"setWhitelistMany","outputs":[],"stateMutability":"nonpayable"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"pairs","internalType":"address[]","type":"address[]"},{"name":"stable","internalType":"bool[]","type":"bool[]"}],"name":"setStablePairs","outputs":[],"stateMutability":"nonpayable"}]

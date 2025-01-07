@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_gasStart","internalType":"uint256","type":"uint256"},{"name":"_earnedEth","internalType":"uint256","type":"uint256"}],"name":"ensureTxIsProfitable","outputs":[{"name":"txFee","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"tokenID","internalType":"uint256","type":"uint256"}],"name":"winnerOf","outputs":[{"name":"","internalType":"address","type":"address"}],"stateMutability":"view"}]

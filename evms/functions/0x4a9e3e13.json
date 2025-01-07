@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_delegatee","internalType":"address","type":"address"},{"name":"_nonce","internalType":"uint256","type":"uint256"},{"name":"_expiry","internalType":"uint256","type":"uint256"},{"name":"_signature","internalType":"bytes","type":"bytes"}],"name":"delegateBySig","outputs":[],"stateMutability":"nonpayable"}]

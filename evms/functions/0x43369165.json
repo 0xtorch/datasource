@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"newNodePrice","internalType":"uint256","type":"uint256"},{"name":"_nodeRenewalPrice","internalType":"uint256","type":"uint256"}],"name":"changeNodePrice","outputs":[],"stateMutability":"nonpayable"}]

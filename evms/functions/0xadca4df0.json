@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"addresses","internalType":"struct Brotchain.EarlyAccess[]","type":"tuple[]","components":[{"name":"addr","internalType":"address","type":"address"},{"name":"totalAllowed","internalType":"uint256","type":"uint256"}]}],"name":"setEarlyAccessGrants","outputs":[],"stateMutability":"nonpayable"}]

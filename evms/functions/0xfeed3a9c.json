@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"account","internalType":"address","type":"address"},{"name":"numTokens","internalType":"uint256","type":"uint256"},{"name":"referralCode","internalType":"uint256","type":"uint256"},{"name":"referrer","internalType":"address","type":"address"}],"name":"mintWithReferralFor","outputs":[],"stateMutability":"payable"}]

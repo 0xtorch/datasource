@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_uln","internalType":"contract IUltraLightNode","type":"address"},{"name":"_packetHeader","internalType":"bytes","type":"bytes"},{"name":"_payloadHash","internalType":"bytes32","type":"bytes32"},{"name":"_confirmations","internalType":"uint64","type":"uint64"}],"name":"verifyAndDeliver","outputs":[],"stateMutability":"nonpayable"}]

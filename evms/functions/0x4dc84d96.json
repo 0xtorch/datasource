@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[],"name":"getAllHarvestBonusTimeData","outputs":[{"name":"","internalType":"struct ImplAndTermsV10.BonusTimeData[]","type":"tuple[]","components":[{"name":"hold","internalType":"uint256","type":"uint256"},{"name":"bonus","internalType":"uint256","type":"uint256"}]}],"stateMutability":"view"}]

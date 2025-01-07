@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_tokens","internalType":"address[]","type":"address[]"},{"name":"_allocPoints","internalType":"uint256[]","type":"uint256[]"}],"name":"batchUpdateAllocPoint","outputs":[],"stateMutability":"nonpayable"}]

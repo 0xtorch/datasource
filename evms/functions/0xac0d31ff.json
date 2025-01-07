@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"minReturnAmountAccepted","internalType":"uint256","type":"uint256"},{"name":"disableDeposits","internalType":"bool","type":"bool"}],"name":"rescueDeployedFunds","outputs":[],"stateMutability":"nonpayable"}]

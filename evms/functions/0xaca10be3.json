@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"curent_level","internalType":"uint256","type":"uint256"}],"name":"xp_required","outputs":[{"name":"xp_to_next_level","internalType":"uint256","type":"uint256"}],"stateMutability":"pure"}]

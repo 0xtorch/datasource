@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"sig","internalType":"bytes","type":"bytes"}],"name":"splitSignature","outputs":[{"name":"r","internalType":"bytes32","type":"bytes32"},{"name":"s","internalType":"bytes32","type":"bytes32"},{"name":"v","internalType":"uint8","type":"uint8"}],"stateMutability":"pure"}]

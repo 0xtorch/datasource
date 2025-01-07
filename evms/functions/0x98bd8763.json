@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"value","internalType":"uint256","type":"uint256"},{"name":"is_mirror","internalType":"uint256","type":"uint256"}],"name":"getGrass","outputs":[{"name":"","internalType":"string","type":"string"}],"stateMutability":"pure"}]

@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"sender","internalType":"address","type":"address","indexed":false},{"name":"nftIndex","internalType":"uint256","type":"uint256","indexed":false},{"name":"bidAmount","internalType":"uint256","type":"uint256","indexed":false}],"name":"BidCreated"}]

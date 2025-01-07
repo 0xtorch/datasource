@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[],"name":"payoutStrategy","outputs":[{"name":"","internalType":"contract IPayoutStrategy","type":"address"}],"stateMutability":"view"}]

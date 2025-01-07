@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"quoteReserve_","internalType":"uint256","type":"uint256"},{"name":"quoteAmount","internalType":"uint256","type":"uint256"}],"name":"maxWithdrawCheck","outputs":[],"stateMutability":"view"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_tokenId","internalType":"uint256","type":"uint256"}],"name":"contributionsOf","outputs":[{"name":"","internalType":"struct IPlutocatsToken.Contribution","type":"tuple","components":[{"name":"amount","internalType":"uint256","type":"uint256"},{"name":"joinTime","internalType":"uint256","type":"uint256"}]}],"stateMutability":"view"}]

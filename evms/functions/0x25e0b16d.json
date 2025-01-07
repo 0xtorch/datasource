@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"newCreator","internalType":"address payable","type":"address"}],"name":"setTokenCreator","outputs":[],"stateMutability":"nonpayable"}]

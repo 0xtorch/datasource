@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"oldGov","internalType":"contract ISuperfluidGovernance","type":"address","indexed":false},{"name":"newGov","internalType":"contract ISuperfluidGovernance","type":"address","indexed":false}],"name":"GovernanceReplaced"}]

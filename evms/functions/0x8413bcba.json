@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"digest","internalType":"bytes32","type":"bytes32"}],"name":"completeInboundQueuedTransfer","outputs":[],"stateMutability":"nonpayable"}]

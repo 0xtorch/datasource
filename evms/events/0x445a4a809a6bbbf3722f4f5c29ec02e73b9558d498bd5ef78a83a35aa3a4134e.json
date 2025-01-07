@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"profit_sharing_fund","internalType":"address","type":"address","indexed":true}],"name":"EventSetProfitSharingFund"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"parentAddress","internalType":"address","type":"address"}],"name":"isParentAddress","outputs":[{"name":"","internalType":"bool","type":"bool"}],"stateMutability":"view"}]

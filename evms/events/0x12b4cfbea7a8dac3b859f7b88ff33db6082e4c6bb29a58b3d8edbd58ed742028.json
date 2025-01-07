@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"autoLiquidityReceiver","internalType":"address","type":"address","indexed":false},{"name":"marketingFeeReceiver","internalType":"address","type":"address","indexed":false},{"name":"devFeeReceiver","internalType":"address","type":"address","indexed":false}],"name":"FeeReceiversUpdated"}]

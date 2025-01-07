@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"erc721_token_id_list","internalType":"uint256[]","type":"uint256[]"},{"name":"token_addr","internalType":"address","type":"address"}],"name":"check_ownership","outputs":[{"name":"is_your_token","internalType":"bool","type":"bool"}],"stateMutability":"view"}]

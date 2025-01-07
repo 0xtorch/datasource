@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_avaxAmount","internalType":"uint256","type":"uint256"}],"name":"getRJoeAmount","outputs":[{"name":"","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

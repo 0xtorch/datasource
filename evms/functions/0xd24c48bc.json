@@ -1,0 +1,1 @@
+[{"type":"function","constant":true,"inputs":[{"name":"heldMarketId","type":"uint256"},{"name":"owedMarketId","type":"uint256"}],"name":"getLiquidationSpreadForPair","outputs":[{"name":"","type":"tuple","components":[{"name":"value","type":"uint256"}]}],"payable":false,"stateMutability":"view"}]

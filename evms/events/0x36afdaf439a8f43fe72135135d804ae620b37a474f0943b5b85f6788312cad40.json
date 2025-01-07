@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"packageType","internalType":"uint8","type":"uint8","indexed":false},{"name":"packageSequence","internalType":"uint64","type":"uint64","indexed":true},{"name":"channelId","internalType":"uint8","type":"uint8","indexed":true}],"name":"receivedPackage"}]

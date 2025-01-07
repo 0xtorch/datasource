@@ -1,0 +1,1 @@
+[{"type":"function","constant":true,"inputs":[{"name":"_messageId","type":"bytes32"}],"name":"failedMessageDataHash","outputs":[{"name":"","type":"bytes32"}],"payable":false,"stateMutability":"view"}]

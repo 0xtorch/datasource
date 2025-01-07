@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"newFeedAddr","internalType":"address","type":"address"},{"name":"gracePeriod","internalType":"uint96","type":"uint96"}],"name":"setSequencerUptimeFeed","outputs":[],"stateMutability":"nonpayable"}]

@@ -1,0 +1,1 @@
+[{"type":"function","constant":true,"inputs":[{"name":"_reserve","internalType":"address","type":"address"},{"name":"_user","internalType":"address","type":"address"}],"name":"getUserCurrentBorrowRateMode","outputs":[{"name":"","internalType":"enum CoreLibrary.InterestRateMode","type":"uint8"}],"payable":false,"stateMutability":"view"}]

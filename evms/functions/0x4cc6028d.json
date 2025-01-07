@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"fromOKPCId","internalType":"uint256","type":"uint256"},{"name":"toOKPCId","internalType":"uint256","type":"uint256"},{"name":"artId","internalType":"uint256","type":"uint256"}],"name":"transferArt","outputs":[],"stateMutability":"nonpayable"}]

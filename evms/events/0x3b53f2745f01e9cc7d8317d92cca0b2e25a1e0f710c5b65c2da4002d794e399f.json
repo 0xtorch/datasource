@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"lol","internalType":"string","type":"string","indexed":false},{"name":"input","internalType":"uint256","type":"uint256","indexed":false}],"name":"LogInt"}]

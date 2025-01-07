@@ -1,0 +1,1 @@
+[{"type":"function","constant":false,"inputs":[{"name":"_tokenId","internalType":"uint256","type":"uint256"},{"name":"_quality","internalType":"uint8","type":"uint8"}],"name":"setQuality","outputs":[],"payable":false,"stateMutability":"nonpayable"}]

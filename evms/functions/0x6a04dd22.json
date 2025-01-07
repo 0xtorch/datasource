@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_nextPriceManager","internalType":"address","type":"address"},{"name":"_isActive","internalType":"bool","type":"bool"}],"name":"setNextPriceManager","outputs":[],"stateMutability":"nonpayable"}]

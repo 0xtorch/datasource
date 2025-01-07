@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"repayAmount","internalType":"uint256","type":"uint256"}],"name":"repayBorrow","outputs":[{"name":"","internalType":"uint256","type":"uint256"}],"stateMutability":"nonpayable"}]

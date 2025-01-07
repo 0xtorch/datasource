@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"tokenIn","internalType":"address","type":"address"},{"name":"tokenOut","internalType":"address","type":"address"}],"name":"pairExist","outputs":[{"name":"exist","internalType":"bool","type":"bool"}],"stateMutability":"view"}]

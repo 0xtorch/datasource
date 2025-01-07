@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"id","internalType":"string","type":"string"}],"name":"getLevelWinners","outputs":[{"name":"","internalType":"address[]","type":"address[]"}],"stateMutability":"view"}]

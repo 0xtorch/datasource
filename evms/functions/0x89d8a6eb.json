@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_minBuybackWindow","internalType":"uint256","type":"uint256"},{"name":"_maxBuybackWindow","internalType":"uint256","type":"uint256"}],"name":"setBuybackWindowMaxMin","outputs":[],"stateMutability":"nonpayable"}]

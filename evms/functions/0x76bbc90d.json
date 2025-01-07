@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_gmxRouter","internalType":"contract IGmxRewardRouter","type":"address"}],"name":"setGmxRouter","outputs":[],"stateMutability":"nonpayable"}]

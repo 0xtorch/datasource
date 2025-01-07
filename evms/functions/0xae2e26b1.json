@@ -1,0 +1,1 @@
+[{"type":"function","constant":false,"inputs":[{"name":"user","internalType":"address","type":"address"},{"name":"validatorId","internalType":"uint256","type":"uint256"},{"name":"amount","internalType":"uint256","type":"uint256"},{"name":"total","internalType":"uint256","type":"uint256"}],"name":"logUnstaked","outputs":[],"payable":false,"stateMutability":"nonpayable"}]

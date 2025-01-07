@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"idx","internalType":"uint256","type":"uint256"}],"name":"users","outputs":[{"name":"","internalType":"address","type":"address"}],"stateMutability":"view"}]

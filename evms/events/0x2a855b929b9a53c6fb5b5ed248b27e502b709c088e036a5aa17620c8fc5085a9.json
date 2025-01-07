@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"oldThreshold","internalType":"uint8","type":"uint8","indexed":false},{"name":"threshold","internalType":"uint8","type":"uint8","indexed":false}],"name":"ThresholdChanged"}]

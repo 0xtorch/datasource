@@ -1,0 +1,1 @@
+[{"type":"function","gas":4750814,"inputs":[{"name":"_amounts","type":"uint256[3]"},{"name":"_is_deposit","type":"bool"}],"name":"calc_token_amount","outputs":[{"name":"","type":"uint256"}],"stateMutability":"view"}]

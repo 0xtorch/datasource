@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_user","internalType":"address","type":"address"},{"name":"_referrer","internalType":"address","type":"address"}],"name":"recordReferral","outputs":[],"stateMutability":"nonpayable"}]

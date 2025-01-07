@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"","internalType":"address","type":"address"}],"name":"walletLock","outputs":[{"name":"","internalType":"enum IERC721Lockable.LockStatus","type":"uint8"}],"stateMutability":"view"}]

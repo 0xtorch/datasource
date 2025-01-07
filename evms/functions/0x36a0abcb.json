@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"stargate","internalType":"address","type":"address"},{"name":"user","internalType":"address","type":"address"}],"name":"donations","outputs":[{"name":"amountDonated","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

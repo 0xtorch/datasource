@@ -1,0 +1,1 @@
+[{"type":"function","constant":false,"inputs":[{"name":"vaultID","internalType":"uint256","type":"uint256"},{"name":"amount","internalType":"uint256","type":"uint256"}],"name":"borrowToken","outputs":[],"payable":false,"stateMutability":"nonpayable"}]

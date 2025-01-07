@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"","internalType":"address","type":"address"}],"name":"userReceipts","outputs":[{"name":"withdrawRound","internalType":"uint256","type":"uint256"},{"name":"withdrawShares","internalType":"uint256","type":"uint256"},{"name":"withdrawableAmount","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

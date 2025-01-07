@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[],"name":"salePhase","outputs":[{"name":"","internalType":"enum BlockBasedSale.SalePhase","type":"uint8"}],"stateMutability":"view"}]

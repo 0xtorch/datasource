@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"newMaintainerFeeRate","internalType":"uint256","type":"uint256"}],"name":"setMaintainerFeeRate","outputs":[],"stateMutability":"nonpayable"}]

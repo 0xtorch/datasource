@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_for","internalType":"address","type":"address"}],"name":"claimFor","outputs":[{"name":"rewardTokens","internalType":"address[]","type":"address[]"},{"name":"earnedRewards","internalType":"uint256[]","type":"uint256[]"}],"stateMutability":"nonpayable"}]

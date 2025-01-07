@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"maxGasLimit","internalType":"uint32","type":"uint32","indexed":false}],"name":"SetMaxGasLimit"}]

@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"collectibleIndex","type":"uint256","indexed":true},{"name":"printIndex","type":"uint256","indexed":true}],"name":"CollectibleNoLongerForSale"}]

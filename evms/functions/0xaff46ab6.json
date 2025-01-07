@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[],"name":"rebaseInfo","outputs":[{"name":"","internalType":"struct IKreskoAsset.Rebase","type":"tuple","components":[{"name":"denominator","internalType":"uint248","type":"uint248"},{"name":"positive","internalType":"bool","type":"bool"}]}],"stateMutability":"view"}]

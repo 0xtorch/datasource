@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"key","internalType":"bytes32","type":"bytes32"}],"name":"getAddress","outputs":[{"name":"","internalType":"address","type":"address"}],"stateMutability":"view"}]

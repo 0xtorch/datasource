@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"CIDHash","internalType":"bytes32","type":"bytes32"}],"name":"getIPFSURI","outputs":[{"name":"","internalType":"string","type":"string"}],"stateMutability":"pure"}]

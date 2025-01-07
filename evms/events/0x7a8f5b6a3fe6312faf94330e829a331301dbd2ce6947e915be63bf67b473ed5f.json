@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"feeProtocolOld","internalType":"uint8","type":"uint8","indexed":false},{"name":"feeProtocolNew","internalType":"uint8","type":"uint8","indexed":false}],"name":"SetFeeProtocol"}]

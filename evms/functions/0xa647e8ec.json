@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"ownerAddr","internalType":"address","type":"address"},{"name":"wizardID","internalType":"uint256","type":"uint256"},{"name":"wizardQuality","internalType":"uint256","type":"uint256"},{"name":"wizardLevel","internalType":"uint256","type":"uint256"}],"name":"mint","outputs":[],"stateMutability":"nonpayable"}]

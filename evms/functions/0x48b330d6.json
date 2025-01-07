@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"encoded","internalType":"bytes","type":"bytes"}],"name":"parseWormholeTransceiverInstruction","outputs":[{"name":"instruction","internalType":"struct IWormholeTransceiver.WormholeTransceiverInstruction","type":"tuple","components":[{"name":"shouldSkipRelayerSend","internalType":"bool","type":"bool"}]}],"stateMutability":"pure"}]

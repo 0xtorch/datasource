@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"stakingAddress_","internalType":"address","type":"address"},{"name":"LPAddress_","internalType":"address","type":"address"},{"name":"DAOAddess_","internalType":"address","type":"address"},{"name":"treasuryAddress_","internalType":"address","type":"address"}],"name":"setTransferFeesAddresses","outputs":[],"stateMutability":"nonpayable"}]

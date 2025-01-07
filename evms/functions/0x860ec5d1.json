@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"","internalType":"uint256","type":"uint256"}],"name":"claimConditions","outputs":[{"name":"totalConditionCount","internalType":"uint256","type":"uint256"},{"name":"timstampLimitIndex","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

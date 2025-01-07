@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_magic","internalType":"contract IERC20Upgradeable","type":"address"},{"name":"_mine","internalType":"contract AtlasMine","type":"address"},{"name":"_lock","internalType":"enum AtlasMine.Lock","type":"uint8"}],"name":"initialize","outputs":[],"stateMutability":"nonpayable"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_lzToken","internalType":"address","type":"address"},{"name":"_to","internalType":"address","type":"address"},{"name":"_amount","internalType":"uint256","type":"uint256"}],"name":"withdrawLzTokenFee","outputs":[],"stateMutability":"nonpayable"}]

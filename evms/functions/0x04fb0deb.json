@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"prizeNftContractAddress","internalType":"contract ERC721","type":"address"}],"name":"updatePrizeContract","outputs":[],"stateMutability":"nonpayable"}]

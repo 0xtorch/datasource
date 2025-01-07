@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"recipient","internalType":"address","type":"address"},{"name":"amount0","internalType":"uint256","type":"uint256"},{"name":"amount1","internalType":"uint256","type":"uint256"},{"name":"callbackData","internalType":"bytes","type":"bytes"}],"name":"flashLoan","outputs":[],"stateMutability":"nonpayable"}]

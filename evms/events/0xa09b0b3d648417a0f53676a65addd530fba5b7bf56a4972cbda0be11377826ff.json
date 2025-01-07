@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"node","internalType":"address","type":"address","indexed":false},{"name":"selfReward","internalType":"int256","type":"int256","indexed":false},{"name":"delegationReward","internalType":"uint256","type":"uint256","indexed":false}],"name":"NodeConfirmReward"}]

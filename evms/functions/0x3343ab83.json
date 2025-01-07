@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"random_Token_Address","internalType":"address","type":"address"},{"name":"send_to_wallet","internalType":"address","type":"address"},{"name":"number_of_tokens","internalType":"uint256","type":"uint256"}],"name":"remove_Random_Tokens","outputs":[{"name":"_sent","internalType":"bool","type":"bool"}],"stateMutability":"nonpayable"}]

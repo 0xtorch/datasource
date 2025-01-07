@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"chain","internalType":"enum AirdropSignal.PreferredChain","type":"uint8"}],"name":"setChain","outputs":[{"name":"success","internalType":"bool","type":"bool"}],"stateMutability":"nonpayable"}]

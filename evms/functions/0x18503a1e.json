@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"controllerToCheck","internalType":"address","type":"address"}],"name":"getCurrentOnBehalfOfAccount","outputs":[{"name":"onBehalfOfAccount","internalType":"address","type":"address"},{"name":"controllerEnabled","internalType":"bool","type":"bool"}],"stateMutability":"view"}]

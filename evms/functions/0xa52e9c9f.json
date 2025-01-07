@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_batches","internalType":"uint256[]","type":"uint256[]"},{"name":"_maxShareRate","internalType":"uint256","type":"uint256"}],"name":"prefinalize","outputs":[{"name":"ethToLock","internalType":"uint256","type":"uint256"},{"name":"sharesToBurn","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

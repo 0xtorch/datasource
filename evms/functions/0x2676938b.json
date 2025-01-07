@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"sqrtRatioAX96","internalType":"uint160","type":"uint160"},{"name":"sqrtRatioBX96","internalType":"uint160","type":"uint160"},{"name":"notionalAmount","internalType":"uint256","type":"uint256"}],"name":"getLiquidityForNotional","outputs":[{"name":"liquidity","internalType":"uint128","type":"uint128"}],"stateMutability":"pure"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"","internalType":"address","type":"address"}],"name":"claimrs","outputs":[{"name":"chain","internalType":"enum AirdropSignal.PreferredChain","type":"uint8"},{"name":"referralENS","internalType":"string","type":"string"}],"stateMutability":"view"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"blitmapIds","internalType":"uint256[]","type":"uint256[]"}],"name":"unredeemedBlitmaps","outputs":[{"name":"unredeemedIds","internalType":"uint256[128]","type":"uint256[128]"},{"name":"length","internalType":"uint8","type":"uint8"}],"stateMutability":"view"}]

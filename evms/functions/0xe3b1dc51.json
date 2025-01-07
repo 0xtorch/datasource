@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"newPoolHedger","internalType":"contract PoolHedger","type":"address"}],"name":"setPoolHedger","outputs":[],"stateMutability":"nonpayable"}]

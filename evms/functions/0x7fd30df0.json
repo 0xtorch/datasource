@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"accounts","internalType":"address[]","type":"address[]"},{"name":"amounts","internalType":"uint256[]","type":"uint256[]"}],"name":"mintBulk","outputs":[{"name":"","internalType":"bool","type":"bool"}],"stateMutability":"nonpayable"}]

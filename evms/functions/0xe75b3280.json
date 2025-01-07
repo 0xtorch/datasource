@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"mktWalletAddress","internalType":"address payable","type":"address"}],"name":"_setMktWalletAddress","outputs":[],"stateMutability":"nonpayable"}]

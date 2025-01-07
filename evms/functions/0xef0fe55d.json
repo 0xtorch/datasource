@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[],"name":"tenProjectPool","outputs":[{"name":"lastRewardBlock","internalType":"uint256","type":"uint256"},{"name":"accTenPerShare","internalType":"uint256","type":"uint256"},{"name":"allocPoint","internalType":"uint256","type":"uint256"},{"name":"lpTokenTotalAmount","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[],"name":"getStakingTokenAddress","outputs":[{"name":"stakingTokenAddress","internalType":"address","type":"address"}],"stateMutability":"view"}]

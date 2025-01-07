@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_signature","internalType":"bytes","type":"bytes"},{"name":"_collectionId","internalType":"uint256","type":"uint256"},{"name":"_samuriseTokenId","internalType":"uint256","type":"uint256"},{"name":"_nonce","internalType":"uint256","type":"uint256"}],"name":"equip","outputs":[],"stateMutability":"nonpayable"}]

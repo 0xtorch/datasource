@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"linkedTraits","internalType":"struct Indelible.LinkedTraitDTO[]","type":"tuple[]","components":[{"name":"traitA","internalType":"uint256[]","type":"uint256[]"},{"name":"traitB","internalType":"uint256[]","type":"uint256[]"}]}],"name":"setLinkedTraits","outputs":[],"stateMutability":"nonpayable"}]

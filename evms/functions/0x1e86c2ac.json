@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"signatories","internalType":"address[]","type":"address[]"},{"name":"increments","internalType":"uint256[]","type":"uint256[]"}],"name":"increaseAuthQuotas","outputs":[{"name":"quotas","internalType":"uint256[]","type":"uint256[]"}],"stateMutability":"nonpayable"}]

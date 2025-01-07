@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"token","internalType":"contract ISuperToken","type":"address"},{"name":"newLogicOverride","internalType":"address","type":"address"}],"name":"updateSuperTokenLogic","outputs":[],"stateMutability":"nonpayable"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_baseImageURL","internalType":"string","type":"string"},{"name":"_baseAnimationURL","internalType":"string","type":"string"}],"name":"setMediaURLs","outputs":[],"stateMutability":"nonpayable"}]

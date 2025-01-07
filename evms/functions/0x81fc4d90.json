@@ -1,0 +1,1 @@
+[{"type":"function","constant":false,"inputs":[{"name":"_reason","type":"bytes32"},{"name":"_amount","type":"uint256"}],"name":"increaseLockAmount","outputs":[{"name":"","type":"bool"}],"payable":false,"stateMutability":"nonpayable"}]

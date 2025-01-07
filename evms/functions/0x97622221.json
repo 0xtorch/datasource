@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"series","internalType":"uint256","type":"uint256"},{"name":"makerAddress","internalType":"address","type":"address"},{"name":"makerNonce","internalType":"uint256","type":"uint256"}],"name":"nonceEquals","outputs":[{"name":"","internalType":"bool","type":"bool"}],"stateMutability":"view"}]

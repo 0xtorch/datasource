@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"newNFTGame","internalType":"address","type":"address","indexed":false}],"name":"NFTGameChanged"}]

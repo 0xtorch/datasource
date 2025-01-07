@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"newStatus","internalType":"enum PriceFeed.Status","type":"uint8","indexed":false}],"name":"PriceFeedStatusChanged"}]

@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"prevValue","internalType":"uint64","type":"uint64","indexed":true},{"name":"newValue","internalType":"uint64","type":"uint64","indexed":true}],"name":"BurnCommissionChanged"}]

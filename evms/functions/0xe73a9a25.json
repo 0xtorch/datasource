@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"serumTypeId","internalType":"uint256","type":"uint256"},{"name":"apeId","internalType":"uint256","type":"uint256"}],"name":"mutateApeWithSerum","outputs":[],"stateMutability":"nonpayable"}]

@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"_from","internalType":"address","type":"address","indexed":true},{"name":"_hash","internalType":"string","type":"string","indexed":true},{"name":"_value","internalType":"uint256","type":"uint256","indexed":false}],"name":"Deposit"}]

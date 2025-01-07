@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[],"name":"topBidsView","outputs":[{"name":"rv","internalType":"struct Auction.TopBidView[10]","type":"tuple[10]","components":[{"name":"label","internalType":"string","type":"string"},{"name":"bid","internalType":"uint256","type":"uint256"}]}],"stateMutability":"view"}]

@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"collective","internalType":"address","type":"address","indexed":true},{"name":"ethPrice_","internalType":"uint256","type":"uint256","indexed":false}],"name":"EthPriceUpdated"}]

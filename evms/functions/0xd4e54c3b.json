@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_value","internalType":"uint256","type":"uint256"},{"name":"_lock_duration","internalType":"uint256","type":"uint256"},{"name":"_to","internalType":"address","type":"address"}],"name":"create_lock_for","outputs":[{"name":"","internalType":"uint256","type":"uint256"}],"stateMutability":"nonpayable"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_firstDiceRoll","internalType":"uint256","type":"uint256"},{"name":"_commitBlock","internalType":"uint256","type":"uint256"}],"name":"emitSecondDiceRoll","outputs":[],"stateMutability":"nonpayable"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"collecionId","internalType":"uint256","type":"uint256"},{"name":"nftRegistryDisabled","internalType":"bool","type":"bool"}],"name":"setNFTRegistryDisabled","outputs":[],"stateMutability":"nonpayable"}]

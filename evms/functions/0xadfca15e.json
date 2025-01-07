@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_facet","internalType":"address","type":"address"}],"name":"facetFunctionSelectors","outputs":[{"name":"facetFunctionSelectors_","internalType":"bytes4[]","type":"bytes4[]"}],"stateMutability":"view"}]

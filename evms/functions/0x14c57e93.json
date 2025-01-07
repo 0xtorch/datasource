@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_emergencyAdmin","internalType":"address","type":"address"}],"name":"updateEmergencyAdmin","outputs":[],"stateMutability":"nonpayable"}]

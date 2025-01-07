@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"_newValsetVersion","internalType":"uint256","type":"uint256","indexed":false},{"name":"_validatorCount","internalType":"uint256","type":"uint256","indexed":false},{"name":"_totalPower","internalType":"uint256","type":"uint256","indexed":false}],"name":"LogValsetUpdated"}]

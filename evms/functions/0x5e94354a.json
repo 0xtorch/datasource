@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"tokenId","internalType":"uint256","type":"uint256"}],"name":"getActiveAssetPriorities","outputs":[{"name":"priorities","internalType":"uint64[]","type":"uint64[]"}],"stateMutability":"view"}]

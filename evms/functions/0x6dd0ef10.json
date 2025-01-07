@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"blastPoints","internalType":"address","type":"address"},{"name":"blast","internalType":"address","type":"address"},{"name":"gov","internalType":"address","type":"address"}],"name":"configurePoints","outputs":[],"stateMutability":"nonpayable"}]

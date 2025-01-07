@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_chainId","internalType":"uint32","type":"uint32"},{"name":"_swapId","internalType":"uint256","type":"uint256"}],"name":"getEverClosed","outputs":[{"name":"","internalType":"bool","type":"bool"}],"stateMutability":"view"}]

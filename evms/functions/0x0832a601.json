@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_uri","internalType":"string","type":"string"},{"name":"index","internalType":"uint32","type":"uint32"}],"name":"setUri","outputs":[],"stateMutability":"nonpayable"}]

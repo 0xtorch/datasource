@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"parentNode","internalType":"bytes32","type":"bytes32"},{"name":"labelhash","internalType":"bytes32","type":"bytes32"},{"name":"fuses","internalType":"uint32","type":"uint32"},{"name":"expiry","internalType":"uint64","type":"uint64"}],"name":"setChildFuses","outputs":[],"stateMutability":"nonpayable"}]

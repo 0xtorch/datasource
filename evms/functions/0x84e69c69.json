@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"srcChainId_","internalType":"uint16","type":"uint16"},{"name":"srcAddress_","internalType":"bytes","type":"bytes"},{"name":"nonce_","internalType":"uint64","type":"uint64"}],"name":"dropFailedMessage","outputs":[],"stateMutability":"nonpayable"}]

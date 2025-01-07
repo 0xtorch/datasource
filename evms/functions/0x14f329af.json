@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_typeId","internalType":"uint256","type":"uint256"},{"name":"_quantity","internalType":"uint256","type":"uint256"},{"name":"_typeOwnerAddress","internalType":"address","type":"address"}],"name":"burnTypeForOwnerAddress","outputs":[{"name":"","internalType":"bool","type":"bool"}],"stateMutability":"nonpayable"}]

@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"tokenId","internalType":"bytes32","type":"bytes32","indexed":false},{"name":"oldValue","internalType":"uint48","type":"uint48","indexed":false},{"name":"newValue","internalType":"uint48","type":"uint48","indexed":false}],"name":"UpdateTokenSettleDuration"}]

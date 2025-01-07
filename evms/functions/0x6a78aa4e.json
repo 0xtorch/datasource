@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"tvls","internalType":"uint256[]","type":"uint256[]"},{"name":"totalTVL","internalType":"uint256","type":"uint256"}],"name":"chooseOperatorDelegatorForDeposit","outputs":[{"name":"","internalType":"contract IOperatorDelegator","type":"address"}],"stateMutability":"view"}]

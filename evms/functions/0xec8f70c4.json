@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"signer","internalType":"address","type":"address"},{"name":"maxQuantity","internalType":"uint256","type":"uint256"}],"name":"initializeSigner","outputs":[],"stateMutability":"nonpayable"}]

@@ -1,0 +1,1 @@
+[{"type":"function","constant":false,"inputs":[{"name":"newKinkUtilizationRate","internalType":"uint256","type":"uint256"}],"name":"_setKinkUtilizationRate","outputs":[],"payable":false,"stateMutability":"nonpayable"}]

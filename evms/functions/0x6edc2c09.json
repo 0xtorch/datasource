@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"","internalType":"contract IERC20","type":"address"}],"name":"virtualBalancesForAddition","outputs":[{"name":"balance","internalType":"uint216","type":"uint216"},{"name":"time","internalType":"uint40","type":"uint40"}],"stateMutability":"view"}]

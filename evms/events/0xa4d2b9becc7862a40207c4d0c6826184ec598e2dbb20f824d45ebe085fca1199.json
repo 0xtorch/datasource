@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"Epoch","internalType":"uint256","type":"uint256","indexed":false},{"name":"merkleRoot","internalType":"bytes32[]","type":"bytes32[]","indexed":false},{"name":"time","internalType":"uint256","type":"uint256","indexed":false}],"name":"merkleRootRecord"}]

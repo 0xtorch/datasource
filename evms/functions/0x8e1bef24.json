@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_maxSupply","internalType":"uint256","type":"uint256"},{"name":"_price","internalType":"uint256","type":"uint256"},{"name":"_metadataUriPrefix","internalType":"string","type":"string"},{"name":"_metadataUriSuffix","internalType":"string","type":"string"}],"name":"configure","outputs":[],"stateMutability":"nonpayable"}]

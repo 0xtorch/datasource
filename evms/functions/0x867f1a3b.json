@@ -1,0 +1,1 @@
+[{"type":"function","constant":false,"inputs":[{"name":"_address","internalType":"address","type":"address"}],"name":"removeMintWhitelisted","outputs":[],"payable":false,"stateMutability":"nonpayable"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"amount0","internalType":"uint256","type":"uint256"},{"name":"data","internalType":"bytes","type":"bytes"}],"name":"getDepositAmount0In","outputs":[{"name":"","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

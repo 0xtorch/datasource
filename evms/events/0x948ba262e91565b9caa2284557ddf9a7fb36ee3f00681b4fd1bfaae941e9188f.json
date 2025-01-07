@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"from","internalType":"uint256","type":"uint256","indexed":false},{"name":"to","internalType":"uint256","type":"uint256","indexed":false}],"name":"MinCollateralRatioUpdated"}]

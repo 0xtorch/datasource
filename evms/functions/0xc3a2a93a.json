@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[],"name":"getContracts","outputs":[{"name":"_fxStateChildTunnel","internalType":"address","type":"address"},{"name":"_maticX","internalType":"address","type":"address"},{"name":"_trustedForwarder","internalType":"address","type":"address"}],"stateMutability":"view"}]

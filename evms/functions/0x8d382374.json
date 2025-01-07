@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"Name","internalType":"string","type":"string"},{"name":"CityIndex","internalType":"uint256","type":"uint256"},{"name":"QRIndex","internalType":"uint256","type":"uint256"},{"name":"ERC20","internalType":"address","type":"address"}],"name":"__NewCity","outputs":[],"stateMutability":"nonpayable"}]

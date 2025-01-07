@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"tokenId","internalType":"uint256","type":"uint256","indexed":false},{"name":"level","internalType":"uint16","type":"uint16","indexed":false}],"name":"SetLevel"}]

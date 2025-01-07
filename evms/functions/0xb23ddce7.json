@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"account","internalType":"address","type":"address"},{"name":"id","internalType":"uint32","type":"uint32"}],"name":"getCheckpoints","outputs":[{"name":"fromBlock","internalType":"uint32","type":"uint32"},{"name":"votes","internalType":"uint96","type":"uint96"}],"stateMutability":"view"}]

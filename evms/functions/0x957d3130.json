@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"refundType","internalType":"enum IGasRefund.RefundType","type":"uint8"},{"name":"ratio","internalType":"uint256","type":"uint256"}],"name":"setRefundRatio","outputs":[],"stateMutability":"nonpayable"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"sellToken","internalType":"address","type":"address"},{"name":"sellAmount","internalType":"uint256","type":"uint256"},{"name":"buyToken","internalType":"address","type":"address"}],"name":"getSellQuote","outputs":[{"name":"","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

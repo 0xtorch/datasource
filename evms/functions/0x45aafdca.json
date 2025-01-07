@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"isFlexibleOracle0","internalType":"bool","type":"bool"},{"name":"isFlexibleOracle1","internalType":"bool","type":"bool"}],"name":"setFlexibleOracleStates","outputs":[],"stateMutability":"nonpayable"}]

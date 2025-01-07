@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[],"name":"calcExcessCollateralBalance","outputs":[{"name":"_delta","internalType":"uint256","type":"uint256"},{"name":"_exceeded","internalType":"bool","type":"bool"}],"stateMutability":"view"}]

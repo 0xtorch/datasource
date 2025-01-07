@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"_old_call_proxy","type":"address","indexed":false},{"name":"_new_call_proxy","type":"address","indexed":false}],"name":"UpdateCallProxy"}]

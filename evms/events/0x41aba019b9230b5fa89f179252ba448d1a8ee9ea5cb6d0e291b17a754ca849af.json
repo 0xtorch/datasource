@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"_strategy","internalType":"contract IYieldOwlStrategy","type":"address","indexed":false},{"name":"_extraEarnTokens","internalType":"address[]","type":"address[]","indexed":false}],"name":"SetStrategyExtraEarnTokens"}]

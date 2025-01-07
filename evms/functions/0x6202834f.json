@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_account","internalType":"address","type":"address"},{"name":"_amount","internalType":"uint256","type":"uint256"}],"name":"calculatePayment","outputs":[{"name":"amountToPurchase","internalType":"uint256","type":"uint256"},{"name":"ftmToPay","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

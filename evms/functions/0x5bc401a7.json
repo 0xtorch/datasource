@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"address_","internalType":"address","type":"address"},{"name":"proof_","internalType":"bytes32[]","type":"bytes32[]"}],"name":"isPubliclisted","outputs":[{"name":"","internalType":"bool","type":"bool"}],"stateMutability":"view"}]

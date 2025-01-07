@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"positionID","internalType":"uint64","type":"uint64","indexed":true},{"name":"reward","internalType":"uint256","type":"uint256","indexed":false}],"name":"Finalize"}]

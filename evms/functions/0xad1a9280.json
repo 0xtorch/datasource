@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_mToken","internalType":"contract MToken","type":"address"},{"name":"_emissionToken","internalType":"address","type":"address"}],"name":"getCurrentOwner","outputs":[{"name":"","internalType":"address","type":"address"}],"stateMutability":"view"}]

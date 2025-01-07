@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"nonce","internalType":"uint128","type":"uint128"},{"name":"signature","internalType":"bytes","type":"bytes"},{"name":"referrer","internalType":"address","type":"address"}],"name":"claim","outputs":[],"stateMutability":"nonpayable"}]

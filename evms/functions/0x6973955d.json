@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_recipient","internalType":"address","type":"address"}],"name":"calculateVestingClaim","outputs":[{"name":"","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

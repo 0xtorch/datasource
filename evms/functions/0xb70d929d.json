@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"feedId","internalType":"bytes32","type":"bytes32"}],"name":"latestConfigDigestAndEpoch","outputs":[{"name":"scanLogs","internalType":"bool","type":"bool"},{"name":"configDigest","internalType":"bytes32","type":"bytes32"},{"name":"epoch","internalType":"uint32","type":"uint32"}],"stateMutability":"view"}]

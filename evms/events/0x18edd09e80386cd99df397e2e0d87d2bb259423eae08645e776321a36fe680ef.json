@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"account","internalType":"address","type":"address","indexed":true},{"name":"token","internalType":"address","type":"address","indexed":false},{"name":"vlpAmount","internalType":"uint256","type":"uint256","indexed":false},{"name":"amountOut","internalType":"uint256","type":"uint256","indexed":false}],"name":"Unstake"}]

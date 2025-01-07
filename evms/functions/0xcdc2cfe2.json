@@ -1,0 +1,1 @@
+[{"type":"function","constant":true,"inputs":[{"name":"_id","internalType":"uint256","type":"uint256"},{"name":"_key","internalType":"bytes32","type":"bytes32"}],"name":"getProperty","outputs":[{"name":"_value","internalType":"bytes32","type":"bytes32"}],"payable":false,"stateMutability":"view"}]

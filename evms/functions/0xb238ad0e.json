@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"month","internalType":"uint8","type":"uint8"},{"name":"year","internalType":"uint16","type":"uint16"}],"name":"getDaysInMonth","outputs":[{"name":"","internalType":"uint8","type":"uint8"}],"stateMutability":"pure"}]

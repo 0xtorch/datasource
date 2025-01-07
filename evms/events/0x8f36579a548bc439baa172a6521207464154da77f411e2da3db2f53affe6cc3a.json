@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"playerID","type":"uint256","indexed":true},{"name":"playerAddress","type":"address","indexed":false},{"name":"playerName","type":"bytes32","indexed":false},{"name":"ethOut","type":"uint256","indexed":false},{"name":"timeStamp","type":"uint256","indexed":false}],"name":"onWithdraw"}]

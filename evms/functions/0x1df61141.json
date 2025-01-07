@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_ids","internalType":"uint256[]","type":"uint256[]"},{"name":"_addresses","internalType":"address[]","type":"address[]"}],"name":"batchMintAsOwner","outputs":[],"stateMutability":"nonpayable"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[],"name":"getPriceAverage","outputs":[{"name":"priceAverage0_","internalType":"uint256","type":"uint256"},{"name":"priceAverage1_","internalType":"uint256","type":"uint256"},{"name":"priceAverageLastTimestamp_","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

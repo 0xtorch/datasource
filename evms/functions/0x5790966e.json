@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"borrowerAddress","internalType":"address","type":"address"},{"name":"poolHash","internalType":"bytes32","type":"bytes32"}],"name":"disallow","outputs":[],"stateMutability":"nonpayable"}]

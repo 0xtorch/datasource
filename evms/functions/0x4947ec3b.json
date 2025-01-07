@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_mToken","internalType":"address","type":"address"},{"name":"_minRatio","internalType":"uint256","type":"uint256"},{"name":"_maxRatio","internalType":"uint256","type":"uint256"}],"name":"setRatioRangeGuard","outputs":[],"stateMutability":"nonpayable"}]

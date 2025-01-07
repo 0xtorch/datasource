@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_recipients","internalType":"address[]","type":"address[]"},{"name":"_uri","internalType":"string","type":"string"}],"name":"airdrop","outputs":[],"stateMutability":"nonpayable"}]

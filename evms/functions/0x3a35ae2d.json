@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_user","internalType":"address","type":"address"},{"name":"_isManager","internalType":"bool","type":"bool"}],"name":"updateManager","outputs":[],"stateMutability":"nonpayable"}]

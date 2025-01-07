@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_fileNames","internalType":"string[]","type":"string[]"},{"name":"_filePointers","internalType":"bytes32[]","type":"bytes32[]"}],"name":"concatenateFiles","outputs":[{"name":"concatenatedFiles","internalType":"bytes","type":"bytes"}],"stateMutability":"pure"}]

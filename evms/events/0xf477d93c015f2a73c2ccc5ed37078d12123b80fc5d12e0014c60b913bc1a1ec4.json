@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"crossmintAddress","internalType":"address","type":"address","indexed":false}],"name":"SetCrossmintAddress"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"numberToken","internalType":"uint256","type":"uint256"}],"name":"mintVogu","outputs":[{"name":"","internalType":"bool","type":"bool"}],"stateMutability":"payable"}]

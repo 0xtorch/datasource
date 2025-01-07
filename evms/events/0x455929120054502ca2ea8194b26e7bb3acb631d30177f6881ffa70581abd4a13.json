@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"requestId","internalType":"uint256","type":"uint256","indexed":false},{"name":"vrfChosen","internalType":"uint32[]","type":"uint32[]","indexed":false},{"name":"deadline","internalType":"uint256","type":"uint256","indexed":false}],"name":"ConfirmVrfNodes"}]

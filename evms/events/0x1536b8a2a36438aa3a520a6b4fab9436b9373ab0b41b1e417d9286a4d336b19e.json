@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"maskIndex","internalType":"uint256","type":"uint256","indexed":true},{"name":"minValue","internalType":"uint256","type":"uint256","indexed":false},{"name":"toAddress","internalType":"address","type":"address","indexed":true}],"name":"MaskOffered"}]

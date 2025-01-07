@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"callers","internalType":"address[]","type":"address[]"},{"name":"ok","internalType":"bool","type":"bool"}],"name":"setWhitelistedRedistributors","outputs":[],"stateMutability":"nonpayable"}]

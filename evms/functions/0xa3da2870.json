@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"cooperator","internalType":"address","type":"address"},{"name":"start","internalType":"uint256","type":"uint256"},{"name":"pageSize","internalType":"uint256","type":"uint256"}],"name":"getApprovedTokenIdForOperator","outputs":[{"name":"","internalType":"uint256[50]","type":"uint256[50]"}],"stateMutability":"view"}]

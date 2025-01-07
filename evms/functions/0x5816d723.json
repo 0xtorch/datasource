@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"permit","internalType":"bytes","type":"bytes"},{"name":"action","internalType":"bytes","type":"bytes"}],"name":"permitAndCall","outputs":[],"stateMutability":"payable"}]

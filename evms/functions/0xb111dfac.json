@@ -1,0 +1,1 @@
+[{"type":"function","constant":true,"inputs":[{"name":"account","internalType":"address","type":"address"}],"name":"profitLoss","outputs":[{"name":"pnl","internalType":"int256","type":"int256"},{"name":"invalid","internalType":"bool","type":"bool"}],"payable":false,"stateMutability":"view"}]

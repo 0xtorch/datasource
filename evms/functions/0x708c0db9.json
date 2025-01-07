@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_endpoint","internalType":"address","type":"address"},{"name":"_remoteChainId","internalType":"uint16","type":"uint16"},{"name":"_weth","internalType":"address","type":"address"}],"name":"initialize","outputs":[],"stateMutability":"nonpayable"}]

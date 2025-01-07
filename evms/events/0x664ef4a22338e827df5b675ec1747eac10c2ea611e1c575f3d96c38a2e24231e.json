@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"delegate","internalType":"address","type":"address","indexed":true},{"name":"previousBalance","internalType":"uint96","type":"uint96","indexed":false},{"name":"newBalance","internalType":"uint96","type":"uint96","indexed":false}],"name":"DelegateVotesChanged"}]

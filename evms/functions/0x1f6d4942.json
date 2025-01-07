@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"","internalType":"address","type":"address"}],"name":"contributors","outputs":[{"name":"voiceCredits","internalType":"uint256","type":"uint256"},{"name":"isRegistered","internalType":"bool","type":"bool"}],"stateMutability":"view"}]

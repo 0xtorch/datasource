@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"maskIndex","internalType":"uint256","type":"uint256"},{"name":"minSalePriceInWei","internalType":"uint256","type":"uint256"}],"name":"offerMaskForSale","outputs":[],"stateMutability":"nonpayable"}]

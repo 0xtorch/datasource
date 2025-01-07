@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_keys","internalType":"bytes32[]","type":"bytes32[]"},{"name":"_feeReceiver","internalType":"address payable","type":"address"}],"name":"liquidatePositions","outputs":[],"stateMutability":"nonpayable"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"repaidToken","internalType":"address","type":"address"},{"name":"principalAmount","internalType":"uint256","type":"uint256"}],"name":"repayPrincipal","outputs":[{"name":"repaidAmount","internalType":"uint256","type":"uint256"}],"stateMutability":"nonpayable"}]

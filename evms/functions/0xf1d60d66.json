@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_allocationID","internalType":"address","type":"address"}],"name":"isAllocation","outputs":[{"name":"","internalType":"bool","type":"bool"}],"stateMutability":"view"}]

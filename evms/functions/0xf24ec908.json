@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_safuLiqLockAddress","internalType":"address","type":"address"},{"name":"_safuDevFeePercentage","internalType":"uint256","type":"uint256"},{"name":"_safuMinDevFeeInWei","internalType":"uint256","type":"uint256"},{"name":"_safuId","internalType":"uint256","type":"uint256"}],"name":"setSafuInfo","outputs":[],"stateMutability":"nonpayable"}]

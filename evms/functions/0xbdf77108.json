@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_factory","internalType":"address","type":"address"},{"name":"_initCode","internalType":"bytes","type":"bytes"}],"name":"registerFork","outputs":[],"stateMutability":"nonpayable"}]

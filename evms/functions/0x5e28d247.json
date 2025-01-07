@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"secHub","internalType":"address","type":"address"}],"name":"getSecHubOwner","outputs":[{"name":"","internalType":"address","type":"address"}],"stateMutability":"view"}]

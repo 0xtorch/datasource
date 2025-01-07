@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"minter_","internalType":"address","type":"address"},{"name":"bitPos","internalType":"uint256","type":"uint256"}],"name":"hasMinted","outputs":[{"name":"","internalType":"bool","type":"bool"}],"stateMutability":"view"}]

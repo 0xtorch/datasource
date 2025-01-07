@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_secondaryRecipients","internalType":"address payable[]","type":"address[]"},{"name":"_secondaryRoyaltiesWithTwoDecimals","internalType":"uint256[]","type":"uint256[]"}],"name":"updateCommonSecondaryRoyalty","outputs":[],"stateMutability":"nonpayable"}]

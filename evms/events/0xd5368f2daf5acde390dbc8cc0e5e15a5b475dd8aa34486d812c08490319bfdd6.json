@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"_newLockedBlockDuration","internalType":"uint64","type":"uint64","indexed":false},{"name":"_newReserveCooldown","internalType":"uint64","type":"uint64","indexed":false}],"name":"LogUpdatedLockBlockAndReserveCooldownDuration"}]

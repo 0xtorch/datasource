@@ -1,0 +1,1 @@
+[{"type":"function","constant":true,"inputs":[{"name":"_tokenId","internalType":"","type":"uint256"}],"name":"stateOf","outputs":[{"name":"","internalType":"","type":"bytes"}],"payable":false,"stateMutability":"view"}]

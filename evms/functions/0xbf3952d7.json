@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"","internalType":"uint256","type":"uint256"}],"name":"Tiers","outputs":[{"name":"wenOffset","internalType":"uint128","type":"uint128"},{"name":"priceWei","internalType":"uint64","type":"uint64"},{"name":"maxAllowed","internalType":"uint64","type":"uint64"}],"stateMutability":"view"}]

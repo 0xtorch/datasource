@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"","internalType":"address","type":"address"},{"name":"","internalType":"uint8","type":"uint8"}],"name":"baseUrlForChapter","outputs":[{"name":"isSet","internalType":"uint8","type":"uint8"},{"name":"baseUrl","internalType":"string","type":"string"}],"stateMutability":"view"}]

@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"fixedPeriodReward","internalType":"uint256","type":"uint256","indexed":false},{"name":"periodExtraReward","internalType":"uint256","type":"uint256","indexed":false},{"name":"extraRewardsActive","internalType":"bool","type":"bool","indexed":false}],"name":"StakingRewardsParametersChanged"}]

@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"tranche","internalType":"address","type":"address","indexed":true},{"name":"trancheIndex","internalType":"uint8","type":"uint8","indexed":true},{"name":"interestWeight","internalType":"uint16","type":"uint16","indexed":false}],"name":"InterestWeightTrancheUpdated"}]

@@ -1,0 +1,1 @@
+[{"type":"function","constant":true,"inputs":[],"name":"transferProxy","outputs":[{"name":"","internalType":"contract TransferProxy","type":"address"}],"payable":false,"stateMutability":"view"}]

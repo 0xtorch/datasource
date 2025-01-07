@@ -1,0 +1,1 @@
+[{"type":"function","constant":false,"inputs":[{"name":"_from","internalType":"address","type":"address"},{"name":"_to","internalType":"address","type":"address"}],"name":"redirectInterestStreamOf","outputs":[],"payable":false,"stateMutability":"nonpayable"}]

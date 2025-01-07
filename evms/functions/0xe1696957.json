@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"user","internalType":"address","type":"address"},{"name":"group","internalType":"bytes32","type":"bytes32"},{"name":"data","internalType":"bytes","type":"bytes"}],"name":"encodeLeaf","outputs":[{"name":"","internalType":"bytes32","type":"bytes32"}],"stateMutability":"view"}]

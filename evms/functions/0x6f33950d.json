@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"prodId","internalType":"uint24","type":"uint24"},{"name":"userSecHub","internalType":"address","type":"address"}],"name":"subscribe","outputs":[{"name":"","internalType":"uint256","type":"uint256"}],"stateMutability":"nonpayable"}]

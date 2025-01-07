@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"safe","internalType":"address","type":"address"},{"name":"delegate","internalType":"address","type":"address"}],"name":"getTokens","outputs":[{"name":"","internalType":"address[]","type":"address[]"}],"stateMutability":"view"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_amountReward","internalType":"uint256","type":"uint256"},{"name":"_rewardToken","internalType":"address","type":"address"}],"name":"queueNewRewards","outputs":[{"name":"","internalType":"bool","type":"bool"}],"stateMutability":"nonpayable"}]

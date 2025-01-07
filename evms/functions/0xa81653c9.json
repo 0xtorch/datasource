@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_max","internalType":"uint256","type":"uint256"},{"name":"_rate","internalType":"uint256","type":"uint256"},{"name":"_receivingAddress","internalType":"address","type":"address"}],"name":"setBoost","outputs":[],"stateMutability":"nonpayable"}]

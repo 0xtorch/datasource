@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"oldSigner","internalType":"address","type":"address","indexed":false},{"name":"newSigner","internalType":"address","type":"address","indexed":false}],"name":"WhitelistSignerSettled"}]

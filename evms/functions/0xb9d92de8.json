@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_reward","internalType":"uint256","type":"uint256"}],"name":"calculate","outputs":[{"name":"forBurn","internalType":"uint256","type":"uint256"},{"name":"forStaker","internalType":"uint256","type":"uint256"},{"name":"forFarmer","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

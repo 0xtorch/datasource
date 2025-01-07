@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_percentReward","internalType":"uint256","type":"uint256"},{"name":"_pair","internalType":"address","type":"address"}],"name":"addPair","outputs":[],"stateMutability":"nonpayable"}]

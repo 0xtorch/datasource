@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_bad","internalType":"address","type":"address"}],"name":"addBadAddress","outputs":[{"name":"","internalType":"bool","type":"bool"}],"stateMutability":"nonpayable"}]

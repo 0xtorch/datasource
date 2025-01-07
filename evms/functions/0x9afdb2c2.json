@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"token","internalType":"address","type":"address"},{"name":"receiver","internalType":"address","type":"address"},{"name":"amt","internalType":"uint256","type":"uint256"}],"name":"saveToken","outputs":[],"stateMutability":"nonpayable"}]

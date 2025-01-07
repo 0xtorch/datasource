@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_mintContract","internalType":"address","type":"address"}],"name":"setMintContractAddress","outputs":[],"stateMutability":"nonpayable"}]

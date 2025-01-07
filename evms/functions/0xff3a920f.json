@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"owner","internalType":"address","type":"address"}],"name":"permit2NextNonce","outputs":[{"name":"nonce","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

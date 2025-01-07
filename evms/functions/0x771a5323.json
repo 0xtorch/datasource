@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"target","internalType":"address","type":"address"},{"name":"functionSelector","internalType":"bytes4","type":"bytes4"}],"name":"quorums","outputs":[{"name":"","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

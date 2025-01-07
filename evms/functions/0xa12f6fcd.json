@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[],"name":"getTierName","outputs":[{"name":"","internalType":"struct Issue.TierName[]","type":"tuple[]","components":[{"name":"tierName","internalType":"string","type":"string"}]}],"stateMutability":"view"}]

@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"tierId","internalType":"uint256","type":"uint256","indexed":false},{"name":"totalRebate","internalType":"uint256","type":"uint256","indexed":false},{"name":"discountShare","internalType":"uint256","type":"uint256","indexed":false}],"name":"SetTier"}]

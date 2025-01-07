@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"user","internalType":"address","type":"address"},{"name":"proof","internalType":"bytes32[]","type":"bytes32[]"}],"name":"mintEligability","outputs":[{"name":"","internalType":"uint8","type":"uint8"}],"stateMutability":"view"}]

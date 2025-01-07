@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"newClawbackRecipient","internalType":"address","type":"address","indexed":false}],"name":"ClawbackRecipientUpdated"}]

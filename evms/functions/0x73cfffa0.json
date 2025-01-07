@@ -1,0 +1,1 @@
+[{"type":"function","constant":false,"inputs":[{"name":"newBurner","internalType":"address","type":"address"}],"name":"transferWhitelistAdmin","outputs":[],"payable":false,"stateMutability":"nonpayable"}]

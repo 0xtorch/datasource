@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"tier","internalType":"uint8","type":"uint8"}],"name":"mintRandomness","outputs":[{"name":"result","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

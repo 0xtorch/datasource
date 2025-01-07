@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"owner","internalType":"address","type":"address"}],"name":"primaryVault","outputs":[{"name":"","internalType":"contract Vault","type":"address"}],"stateMutability":"view"}]

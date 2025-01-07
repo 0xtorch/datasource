@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"b","internalType":"bytes","type":"bytes"}],"name":"bytesToAddress","outputs":[{"name":"","internalType":"address","type":"address"}],"stateMutability":"view"}]

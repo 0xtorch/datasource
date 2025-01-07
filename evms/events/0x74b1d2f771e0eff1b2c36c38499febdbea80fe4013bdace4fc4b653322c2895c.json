@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"roundID","type":"uint256","indexed":false},{"name":"amountAddedToPot","type":"uint256","indexed":false}],"name":"onPotSwapDeposit"}]

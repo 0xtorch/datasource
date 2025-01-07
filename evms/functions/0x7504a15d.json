@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"gauge","internalType":"address","type":"address"},{"name":"user","internalType":"address","type":"address"}],"name":"mintFor","outputs":[{"name":"","internalType":"uint256","type":"uint256"}],"stateMutability":"nonpayable"}]

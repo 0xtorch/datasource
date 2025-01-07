@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"hook_","internalType":"address","type":"address"},{"name":"approve_","internalType":"bool","type":"bool"}],"name":"updateHook","outputs":[],"stateMutability":"nonpayable"}]

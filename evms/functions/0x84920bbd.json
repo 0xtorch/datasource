@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"userId","internalType":"string","type":"string"}],"name":"claimedRewardStatusOf","outputs":[{"name":"claimed","internalType":"bool","type":"bool"}],"stateMutability":"view"}]

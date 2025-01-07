@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"seller","type":"address","indexed":true},{"name":"buyer","type":"address","indexed":true},{"name":"offerId","type":"uint256","indexed":true},{"name":"amount","type":"uint256","indexed":false},{"name":"pricePaid","type":"uint256","indexed":false},{"name":"feePaid","type":"uint256","indexed":false}],"name":"OfferClaimed"}]

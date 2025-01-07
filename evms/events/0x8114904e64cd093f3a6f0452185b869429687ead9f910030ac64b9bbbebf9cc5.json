@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"","internalType":"enum PreZkpMinter.State","type":"uint8","indexed":false}],"name":"MinterState"}]

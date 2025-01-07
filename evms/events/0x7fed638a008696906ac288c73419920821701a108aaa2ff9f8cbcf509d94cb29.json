@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"listId","type":"uint256","indexed":false},{"name":"isPrivate","type":"bool","indexed":false}],"name":"ListVisibilityChanged"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"slot","internalType":"uint256","type":"uint256"}],"name":"readSlot","outputs":[{"name":"data","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

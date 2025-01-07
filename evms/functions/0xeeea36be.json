@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_startTime","internalType":"uint256","type":"uint256"},{"name":"_endTime","internalType":"uint256","type":"uint256"}],"name":"configTime","outputs":[],"stateMutability":"nonpayable"}]

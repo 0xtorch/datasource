@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"channelId","internalType":"uint8","type":"uint8"},{"name":"msgBytes","internalType":"bytes","type":"bytes"},{"name":"relayFee","internalType":"uint256","type":"uint256"}],"name":"sendSynPackage","outputs":[],"stateMutability":"nonpayable"}]

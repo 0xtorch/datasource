@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"gmxPositionManager","internalType":"address","type":"address","indexed":false},{"name":"gmxRouter","internalType":"address","type":"address","indexed":false},{"name":"gmxVault","internalType":"address","type":"address","indexed":false}],"name":"GmxContractsSet"}]

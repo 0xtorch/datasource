@@ -1,0 +1,1 @@
+[{"type":"function","gas":1485796,"inputs":[{"name":"strategy","type":"address"},{"name":"debtRatio","type":"uint256"},{"name":"minDebtPerHarvest","type":"uint256"},{"name":"maxDebtPerHarvest","type":"uint256"},{"name":"performanceFee","type":"uint256"}],"name":"addStrategy","outputs":[],"stateMutability":"nonpayable"}]

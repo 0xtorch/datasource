@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_token0","internalType":"address","type":"address"},{"name":"_token1","internalType":"address","type":"address"},{"name":"_fee","internalType":"uint64","type":"uint64"},{"name":"_oasisFeeProportion","internalType":"uint64","type":"uint64"}],"name":"initialize","outputs":[],"stateMutability":"nonpayable"}]

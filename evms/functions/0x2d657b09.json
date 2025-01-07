@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"arrReserved","internalType":"uint256[10]","type":"uint256[10]"}],"name":"setTokenReserved","outputs":[],"stateMutability":"nonpayable"}]

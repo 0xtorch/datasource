@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"pairAddress","internalType":"address","type":"address"}],"name":"isLpPool","outputs":[{"name":"","internalType":"bool","type":"bool"}],"stateMutability":"view"}]

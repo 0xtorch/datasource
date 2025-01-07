@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"pegVaultV2","internalType":"address","type":"address","indexed":false}],"name":"PegVaultV2Updated"}]

@@ -1,0 +1,1 @@
+[{"type":"function","constant":false,"inputs":[{"name":"message","type":"bytes"},{"name":"signatures","type":"bytes"},{"name":"maxTokensFee","type":"uint256"}],"name":"executeSignaturesGSN","outputs":[],"payable":false,"stateMutability":"nonpayable"}]

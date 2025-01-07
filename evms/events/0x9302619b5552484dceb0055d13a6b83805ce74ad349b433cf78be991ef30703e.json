@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"orderId","internalType":"bytes32","type":"bytes32","indexed":false},{"name":"status","internalType":"enum DlnSource.OrderGiveStatus","type":"uint8","indexed":false},{"name":"beneficiary","internalType":"address","type":"address","indexed":false}],"name":"UnexpectedOrderStatusForCancel"}]

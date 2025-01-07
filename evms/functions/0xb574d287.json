@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_reserveAllocation","internalType":"uint256","type":"uint256"},{"name":"_lendAllocation","internalType":"uint256","type":"uint256"}],"name":"setFundingAllocations","outputs":[],"stateMutability":"nonpayable"}]

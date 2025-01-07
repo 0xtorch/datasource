@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"loanAddr","internalType":"address","type":"address"},{"name":"newAprWithTwoDecimals","internalType":"uint256","type":"uint256"}],"name":"proposeNewApr","outputs":[],"stateMutability":"nonpayable"}]

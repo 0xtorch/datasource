@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_ethAmount","internalType":"uint256","type":"uint256"},{"name":"_target","internalType":"address","type":"address"},{"name":"_message","internalType":"bytes","type":"bytes"},{"name":"_minGasLimit","internalType":"uint32","type":"uint32"}],"name":"sendMessage","outputs":[],"stateMutability":"payable"}]

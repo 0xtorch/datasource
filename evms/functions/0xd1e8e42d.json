@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_fromTime","internalType":"uint256","type":"uint256"},{"name":"_toTime","internalType":"uint256","type":"uint256"}],"name":"getGeneratedRewardToken2","outputs":[{"name":"","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

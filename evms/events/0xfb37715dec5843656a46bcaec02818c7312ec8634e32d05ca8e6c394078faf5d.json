@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"account","internalType":"address","type":"address","indexed":true},{"name":"targetVault","internalType":"address","type":"address","indexed":false},{"name":"amount","internalType":"uint128","type":"uint128","indexed":false}],"name":"TransferHFTStake"}]

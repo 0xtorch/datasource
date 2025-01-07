@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_prefix","internalType":"string","type":"string"},{"name":"_suffix","internalType":"string","type":"string"}],"name":"setSuffixPrefix","outputs":[],"stateMutability":"nonpayable"}]

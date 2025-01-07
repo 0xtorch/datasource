@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"dstEid","internalType":"uint32","type":"uint32"}],"name":"defaultSendLibrary","outputs":[{"name":"lib","internalType":"address","type":"address"}],"stateMutability":"view"}]

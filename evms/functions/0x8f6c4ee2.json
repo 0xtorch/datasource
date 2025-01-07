@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"isLongToken","internalType":"bool","type":"bool"},{"name":"tokenAmount","internalType":"uint256","type":"uint256"},{"name":"minGmAmount","internalType":"uint256","type":"uint256"},{"name":"executionFee","internalType":"uint256","type":"uint256"}],"name":"depositEthUsdcGmxV2","outputs":[],"stateMutability":"payable"}]

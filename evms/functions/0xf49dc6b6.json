@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"rewardToken_","internalType":"address","type":"address"},{"name":"cTokens","internalType":"address[]","type":"address[]"},{"name":"supplySpeeds","internalType":"uint256[]","type":"uint256[]"},{"name":"borrowSpeeds","internalType":"uint256[]","type":"uint256[]"}],"name":"_updateRewardSpeeds","outputs":[],"stateMutability":"nonpayable"}]

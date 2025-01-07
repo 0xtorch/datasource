@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"botwallet","internalType":"address","type":"address"}],"name":"getBotWalletStatus","outputs":[{"name":"","internalType":"bool","type":"bool"}],"stateMutability":"view"}]

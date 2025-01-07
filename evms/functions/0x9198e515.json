@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_asset","internalType":"address","type":"address"}],"name":"accrueInterest","outputs":[{"name":"interest","internalType":"uint256","type":"uint256"}],"stateMutability":"nonpayable"}]

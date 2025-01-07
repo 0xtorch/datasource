@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"bridgeTokenAddress","internalType":"address","type":"address","indexed":true},{"name":"bridgeToCanonical","internalType":"uint256","type":"uint256","indexed":false},{"name":"canonicalToOld","internalType":"uint256","type":"uint256","indexed":false}],"name":"SwapFeeSet"}]

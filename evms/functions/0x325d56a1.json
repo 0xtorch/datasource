@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"baseTokenUri_","internalType":"string","type":"string"},{"name":"metadataExtension_","internalType":"string","type":"string"}],"name":"setBaseTokenURIAndExtension","outputs":[],"stateMutability":"nonpayable"}]

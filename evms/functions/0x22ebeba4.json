@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_component","internalType":"address","type":"address"},{"name":"_positionModule","internalType":"address","type":"address"}],"name":"getExternalPositionRealUnit","outputs":[{"name":"","internalType":"int256","type":"int256"}],"stateMutability":"view"}]

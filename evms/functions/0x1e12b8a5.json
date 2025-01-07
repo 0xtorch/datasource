@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"query","internalType":"address","type":"address"}],"name":"getKeeperInfo","outputs":[{"name":"payee","internalType":"address","type":"address"},{"name":"active","internalType":"bool","type":"bool"},{"name":"balance","internalType":"uint96","type":"uint96"}],"stateMutability":"view"}]

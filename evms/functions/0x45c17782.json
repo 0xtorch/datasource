@@ -1,0 +1,1 @@
+[{"type":"function","constant":false,"inputs":[{"name":"to","type":"address"},{"name":"tokenURI","type":"string"}],"name":"mintWithTokenURI","outputs":[{"name":"","type":"uint256"}],"payable":false,"stateMutability":"nonpayable"}]

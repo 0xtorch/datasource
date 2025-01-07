@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"toChain","internalType":"uint256","type":"uint256"},{"name":"toAddress","internalType":"address","type":"address"},{"name":"amount","internalType":"uint256","type":"uint256"}],"name":"depositToBridge","outputs":[],"stateMutability":"nonpayable"}]

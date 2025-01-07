@@ -1,0 +1,1 @@
+[{"type":"function","constant":false,"inputs":[{"name":"_spender","type":"address"},{"name":"_subtractedValue","type":"uint256"}],"name":"subApproval","outputs":[{"name":"success","type":"bool"}],"payable":false,"stateMutability":"nonpayable"}]

@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"target","internalType":"address","type":"address","indexed":false},{"name":"callData","internalType":"bytes","type":"bytes","indexed":false}],"name":"EmergencyAction"}]

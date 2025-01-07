@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_lp_token","type":"address"},{"name":"_salt","type":"bytes32"}],"name":"deploy_gauge","outputs":[{"name":"","type":"address"}],"stateMutability":"nonpayable"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"vault","internalType":"address","type":"address"},{"name":"isValid","internalType":"bool","type":"bool"}],"name":"changeVaultStatus","outputs":[],"stateMutability":"nonpayable"}]

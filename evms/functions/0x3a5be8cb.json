@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"tokenSent","internalType":"address","type":"address"},{"name":"amount","internalType":"uint256","type":"uint256"},{"name":"relayer","internalType":"address","type":"address"},{"name":"message","internalType":"bytes","type":"bytes"}],"name":"handleV3AcrossMessage","outputs":[],"stateMutability":"nonpayable"}]

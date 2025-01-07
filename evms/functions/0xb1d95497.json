@@ -1,0 +1,1 @@
+[{"type":"function","constant":true,"inputs":[{"name":"","type":"uint40"}],"name":"cutieIndexToOwner","outputs":[{"name":"","type":"address"}],"payable":false,"stateMutability":"view"}]

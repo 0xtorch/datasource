@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"tokenAddress","internalType":"address","type":"address"},{"name":"oracleAddress","internalType":"address","type":"address"}],"name":"registerWhitelist","outputs":[],"stateMutability":"nonpayable"}]

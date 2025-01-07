@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"auctionId","internalType":"uint256","type":"uint256","indexed":true},{"name":"userId","internalType":"uint64","type":"uint64","indexed":true},{"name":"buyAmount","internalType":"uint96","type":"uint96","indexed":false},{"name":"sellAmount","internalType":"uint96","type":"uint96","indexed":false}],"name":"ClaimedFromOrder"}]

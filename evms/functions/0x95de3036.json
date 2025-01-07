@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_protocolFee","internalType":"uint64","type":"uint64"}],"name":"changeProtocolFee","outputs":[],"stateMutability":"nonpayable"}]

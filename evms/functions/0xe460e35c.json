@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"l2ChainId","internalType":"uint256","type":"uint256"},{"name":"adapter","internalType":"address","type":"address"},{"name":"spokePool","internalType":"address","type":"address"}],"name":"setCrossChainContracts","outputs":[],"stateMutability":"nonpayable"}]

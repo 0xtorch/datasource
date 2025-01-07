@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"addedAddress","internalType":"address","type":"address","indexed":true},{"name":"addedBy","internalType":"address","type":"address","indexed":true}],"name":"AddressAddedToBlacklist"}]

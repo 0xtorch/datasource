@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"domains","internalType":"uint32[]","type":"uint32[]"},{"name":"routers","internalType":"address[]","type":"address[]"}],"name":"batchEnrollRemoteRouters","outputs":[],"stateMutability":"nonpayable"}]

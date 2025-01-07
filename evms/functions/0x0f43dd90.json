@@ -1,0 +1,1 @@
+[{"type":"function","constant":true,"inputs":[{"name":"_sender","type":"address"},{"name":"_referrer","type":"address"},{"name":"_referralPercentage","type":"uint256"},{"name":"_landType","type":"uint16"}],"name":"encodeData","outputs":[{"name":"","type":"bytes32"}],"payable":false,"stateMutability":"pure"}]

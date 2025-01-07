@@ -1,0 +1,1 @@
+[{"type":"function","gas":539992,"inputs":[{"name":"_name","type":"string"},{"name":"_symbol","type":"string"},{"name":"_coin","type":"address"},{"name":"_rate_multiplier","type":"uint256"},{"name":"_A","type":"uint256"},{"name":"_fee","type":"uint256"}],"name":"initialize","outputs":[],"stateMutability":"nonpayable"}]

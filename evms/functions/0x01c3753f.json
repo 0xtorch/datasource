@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"root","internalType":"bytes32","type":"bytes32"},{"name":"account","internalType":"address","type":"address"},{"name":"data","internalType":"bytes","type":"bytes"},{"name":"proof","internalType":"bytes32[]","type":"bytes32[]"}],"name":"isValidMerkleProof","outputs":[{"name":"","internalType":"bool","type":"bool"}],"stateMutability":"pure"}]

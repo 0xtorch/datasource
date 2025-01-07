@@ -1,0 +1,1 @@
+[{"type":"function","constant":false,"inputs":[{"name":"exitId","internalType":"uint256","type":"uint256"},{"name":"age","internalType":"uint256","type":"uint256"},{"name":"utxoOwner","internalType":"address","type":"address"},{"name":"token","internalType":"address","type":"address"}],"name":"addInput","outputs":[],"payable":false,"stateMutability":"nonpayable"}]

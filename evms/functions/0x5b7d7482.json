@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"to","internalType":"string","type":"string"},{"name":"path","internalType":"string","type":"string"}],"name":"send_mail","outputs":[],"stateMutability":"nonpayable"}]

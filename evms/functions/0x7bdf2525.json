@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_airnode","internalType":"address","type":"address"},{"name":"_endpointIdUint256","internalType":"bytes32","type":"bytes32"},{"name":"_sponsorWallet","internalType":"address","type":"address"}],"name":"setRequestParameters","outputs":[],"stateMutability":"nonpayable"}]

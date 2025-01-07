@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"orderId","internalType":"uint256","type":"uint256"},{"name":"blockTimestamp","internalType":"uint256","type":"uint256"}],"name":"getTwammOrderProceedsView","outputs":[{"name":"orderExpired","internalType":"bool","type":"bool"},{"name":"totalReward","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

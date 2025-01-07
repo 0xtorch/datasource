@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"tokenId","internalType":"uint256","type":"uint256","indexed":true},{"name":"level","internalType":"uint8","type":"uint8","indexed":false},{"name":"pointsBalance","internalType":"uint256","type":"uint256","indexed":false}],"name":"LevelUp"}]

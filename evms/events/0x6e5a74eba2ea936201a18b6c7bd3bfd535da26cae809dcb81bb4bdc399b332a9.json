@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"legionBouncer","internalType":"address","type":"address","indexed":false},{"name":"legionFeeReceiver","internalType":"address","type":"address","indexed":false},{"name":"vestingFactory","internalType":"address","type":"address","indexed":false}],"name":"LegionAddressesSynced"}]

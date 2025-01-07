@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_newOracle","internalType":"contract GLPPriceFeed","type":"address"}],"name":"updateOracle","outputs":[],"stateMutability":"nonpayable"}]

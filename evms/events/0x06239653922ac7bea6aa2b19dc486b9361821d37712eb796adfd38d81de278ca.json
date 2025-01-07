@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"provider","type":"address","indexed":true},{"name":"eth_amount","type":"uint256","indexed":true},{"name":"token_amount","type":"uint256","indexed":true}],"name":"AddLiquidity"}]

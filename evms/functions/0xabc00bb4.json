@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_raffleId","internalType":"uint256","type":"uint256"}],"name":"getEntrants","outputs":[{"name":"entrants_","internalType":"address[]","type":"address[]"}],"stateMutability":"view"}]

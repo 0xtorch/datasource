@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"tokenUris","internalType":"string[]","type":"string[]"}],"name":"issueNewTokens","outputs":[{"name":"","internalType":"uint256[]","type":"uint256[]"}],"stateMutability":"nonpayable"}]

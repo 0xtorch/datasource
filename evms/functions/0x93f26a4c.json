@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_token","internalType":"address","type":"address"},{"name":"_to","internalType":"address","type":"address"}],"name":"withdrawEmergency","outputs":[],"stateMutability":"nonpayable"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_tokenID","internalType":"uint256","type":"uint256"},{"name":"_signerAddress","internalType":"address","type":"address"}],"name":"updateSignerAddress","outputs":[],"stateMutability":"nonpayable"}]

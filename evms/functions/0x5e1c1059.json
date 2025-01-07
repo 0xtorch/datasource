@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_proof","internalType":"bytes","type":"bytes"}],"name":"fulfillRandomnessRequest","outputs":[],"stateMutability":"nonpayable"}]

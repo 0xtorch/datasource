@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"strategies","internalType":"contract IStrategy[]","type":"address[]"},{"name":"withdrawalDelayBlocks","internalType":"uint256[]","type":"uint256[]"}],"name":"setStrategyWithdrawalDelayBlocks","outputs":[],"stateMutability":"nonpayable"}]

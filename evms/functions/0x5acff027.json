@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_poolToken","internalType":"address","type":"address"},{"name":"_positionType","internalType":"enum Types.PositionType","type":"uint8"}],"name":"getHead","outputs":[{"name":"head","internalType":"address","type":"address"}],"stateMutability":"view"}]

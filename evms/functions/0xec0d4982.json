@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"addr","internalType":"address","type":"address"},{"name":"isBlock","internalType":"bool","type":"bool"}],"name":"blockAddress","outputs":[],"stateMutability":"nonpayable"}]

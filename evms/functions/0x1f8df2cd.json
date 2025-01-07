@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_geneScientist","internalType":"address","type":"address"},{"name":"_whitelisted","internalType":"bool","type":"bool"}],"name":"setGeneScientist","outputs":[],"stateMutability":"nonpayable"}]

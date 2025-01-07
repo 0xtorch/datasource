@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"feeValue","internalType":"uint256","type":"uint256"},{"name":"wyvernExchangeValue","internalType":"uint256","type":"uint256"},{"name":"wyvernExchangeData","internalType":"bytes","type":"bytes"}],"name":"atomicMatchHash","outputs":[{"name":"","internalType":"bytes32","type":"bytes32"}],"stateMutability":"pure"}]

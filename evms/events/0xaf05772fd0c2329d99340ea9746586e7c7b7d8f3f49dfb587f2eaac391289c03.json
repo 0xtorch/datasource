@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"tickLower","internalType":"int24","type":"int24","indexed":false},{"name":"tickUpper","internalType":"int24","type":"int24","indexed":false},{"name":"margin","internalType":"int256","type":"int256","indexed":false}],"name":"PositionSettledAndMarginWithdrawn"}]

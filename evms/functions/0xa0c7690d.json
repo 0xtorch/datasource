@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"","internalType":"uint256","type":"uint256"}],"name":"requestHero","outputs":[{"name":"Owner","internalType":"address","type":"address"},{"name":"numberHeroes","internalType":"uint256","type":"uint256"},{"name":"tier","internalType":"string","type":"string"}],"stateMutability":"view"}]

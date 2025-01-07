@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"user","internalType":"address","type":"address"},{"name":"reRoll","internalType":"bool","type":"bool"},{"name":"entropy","internalType":"uint256","type":"uint256"}],"name":"rollUserQuests","outputs":[],"stateMutability":"nonpayable"}]

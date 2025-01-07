@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"priorityAddress","internalType":"address","type":"address","indexed":false},{"name":"valid","internalType":"bool","type":"bool","indexed":false}],"name":"PriorityAddressChanged"}]

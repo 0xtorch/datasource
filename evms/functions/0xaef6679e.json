@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_compToWethSwapFee","internalType":"uint24","type":"uint24"},{"name":"_wethToWantSwapFee","internalType":"uint24","type":"uint24"}],"name":"setUniV3PathFees","outputs":[],"stateMutability":"nonpayable"}]

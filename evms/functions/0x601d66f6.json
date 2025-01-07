@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_minBorrowedAmount","internalType":"uint128","type":"uint128"},{"name":"_maxBorrowedAmount","internalType":"uint128","type":"uint128"}],"name":"setCreditAccountLimits","outputs":[],"stateMutability":"nonpayable"}]

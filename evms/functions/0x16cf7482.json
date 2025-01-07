@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"stages","internalType":"uint256[]","type":"uint256[]"},{"name":"startTimes","internalType":"uint256[]","type":"uint256[]"},{"name":"endTimes","internalType":"uint256[]","type":"uint256[]"},{"name":"maxMints","internalType":"uint256[]","type":"uint256[]"}],"name":"setStages","outputs":[],"stateMutability":"nonpayable"}]

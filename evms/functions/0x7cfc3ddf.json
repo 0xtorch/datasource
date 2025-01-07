@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"creatorCore","internalType":"address","type":"address"},{"name":"expectedTokenId","internalType":"uint256","type":"uint256"},{"name":"uri","internalType":"string","type":"string"},{"name":"recipient","internalType":"address","type":"address"}],"name":"mint","outputs":[],"stateMutability":"nonpayable"}]

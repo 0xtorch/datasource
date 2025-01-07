@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_maxTransactionAmountBuy","internalType":"uint256","type":"uint256"},{"name":"_maxTransactionAmountSell","internalType":"uint256","type":"uint256"}],"name":"setMaxTransactionAmounts","outputs":[],"stateMutability":"nonpayable"}]

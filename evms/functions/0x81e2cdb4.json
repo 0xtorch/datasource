@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_strategy","internalType":"contract IYieldOwlStrategy","type":"address"},{"name":"_token0","internalType":"address","type":"address"},{"name":"_token1","internalType":"address","type":"address"},{"name":"_path","internalType":"address[]","type":"address[]"}],"name":"setStrategySwapPath","outputs":[],"stateMutability":"nonpayable"}]

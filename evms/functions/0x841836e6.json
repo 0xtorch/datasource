@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"index","internalType":"uint256","type":"uint256"}],"name":"safeMintWhitelistedWallet","outputs":[{"name":"","internalType":"address","type":"address"}],"stateMutability":"view"}]

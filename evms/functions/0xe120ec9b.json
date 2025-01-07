@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[],"name":"leverageConfig","outputs":[{"name":"target","internalType":"uint256","type":"uint256"},{"name":"min","internalType":"uint256","type":"uint256"},{"name":"max","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

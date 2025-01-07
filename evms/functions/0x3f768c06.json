@@ -1,0 +1,1 @@
+[{"type":"function","constant":true,"inputs":[{"name":"_data","type":"bytes"}],"name":"getMinimumGasUsage","outputs":[{"name":"gas","type":"uint256"}],"payable":false,"stateMutability":"pure"}]

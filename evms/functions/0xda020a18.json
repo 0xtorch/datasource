@@ -1,0 +1,1 @@
+[{"type":"function","gas":1643,"inputs":[{"name":"_addr","type":"address"},{"name":"_idx","type":"uint256"}],"name":"user_point_history__ts","outputs":[{"name":"","type":"uint256"}],"stateMutability":"view"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_summoner","internalType":"uint256","type":"uint256"},{"name":"_xp","internalType":"uint256","type":"uint256"}],"name":"spend_xp","outputs":[],"stateMutability":"nonpayable"}]

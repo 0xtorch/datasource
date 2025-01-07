@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"amountToWithdraw","internalType":"uint256","type":"uint256"}],"name":"withdrawNativeGasToken","outputs":[],"stateMutability":"nonpayable"}]

@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"lender","type":"address","indexed":true},{"name":"objId","type":"uint256","indexed":false}],"name":"EventRemoveOfferBorrowingItem"}]

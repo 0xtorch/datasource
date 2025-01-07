@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_recipient","internalType":"address","type":"address"},{"name":"_num","internalType":"uint256","type":"uint256"},{"name":"stickerType","internalType":"uint8","type":"uint8"}],"name":"mintSelectedStickerByOwner","outputs":[],"stateMutability":"nonpayable"}]

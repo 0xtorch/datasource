@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"type_id","internalType":"uint256","type":"uint256","indexed":false},{"name":"time","internalType":"uint256","type":"uint256","indexed":false},{"name":"weight","internalType":"uint256","type":"uint256","indexed":false},{"name":"total_weight","internalType":"uint256","type":"uint256","indexed":false}],"name":"NewTypeWeight"}]

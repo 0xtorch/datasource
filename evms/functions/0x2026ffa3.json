@@ -1,0 +1,1 @@
+[{"type":"function","constant":false,"inputs":[{"name":"holder","internalType":"address","type":"address"},{"name":"cTokens","internalType":"contract CToken[]","type":"address[]"}],"name":"claimRewards","outputs":[],"payable":false,"stateMutability":"nonpayable"}]

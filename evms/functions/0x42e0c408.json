@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_poolAdminAddr","internalType":"address","type":"address"}],"name":"isAdminOfActivePool","outputs":[{"name":"","internalType":"bool","type":"bool"}],"stateMutability":"view"}]

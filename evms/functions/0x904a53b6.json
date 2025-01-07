@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_maxShift","internalType":"uint256","type":"uint256"},{"name":"_minProfitTime","internalType":"uint256","type":"uint256"}],"name":"setMaxShiftAndMinProfitTime","outputs":[],"stateMutability":"nonpayable"}]

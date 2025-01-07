@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"user","internalType":"address","type":"address"},{"name":"rad","internalType":"uint256","type":"uint256"}],"name":"repayBadDebt","outputs":[],"stateMutability":"nonpayable"}]

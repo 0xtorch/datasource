@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[],"name":"sharePriceOracle","outputs":[{"name":"","internalType":"contract ERC4626SharePriceOracle","type":"address"}],"stateMutability":"view"}]

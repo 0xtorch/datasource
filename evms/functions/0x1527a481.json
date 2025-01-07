@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"ids","internalType":"uint256[]","type":"uint256[]"},{"name":"newURIs","internalType":"string[]","type":"string[]"}],"name":"batchSeturi","outputs":[],"stateMutability":"nonpayable"}]

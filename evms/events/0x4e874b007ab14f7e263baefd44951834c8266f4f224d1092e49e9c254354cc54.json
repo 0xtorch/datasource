@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"managementFee","internalType":"uint256","type":"uint256","indexed":false},{"name":"newManagementFee","internalType":"uint256","type":"uint256","indexed":false}],"name":"ManagementFeeSet"}]

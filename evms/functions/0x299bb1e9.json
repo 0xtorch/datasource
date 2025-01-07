@@ -1,0 +1,1 @@
+[{"type":"function","constant":false,"inputs":[{"name":"_ableToBuyAfterRange","internalType":"uint256","type":"uint256"},{"name":"_sigExpireBlock","internalType":"uint256","type":"uint256"}],"name":"setBlockRanges","outputs":[],"payable":false,"stateMutability":"nonpayable"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"sighash","internalType":"bytes32","type":"bytes32"},{"name":"sigs","internalType":"bytes[]","type":"bytes[]"}],"name":"verify_price","outputs":[{"name":"","internalType":"bool","type":"bool"}],"stateMutability":"view"}]

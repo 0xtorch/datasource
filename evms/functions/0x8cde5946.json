@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_blockchainID","internalType":"uint256","type":"uint256"},{"name":"_gasFee","internalType":"uint256","type":"uint256"}],"name":"setGasFeeOfBlockchain","outputs":[],"stateMutability":"nonpayable"}]

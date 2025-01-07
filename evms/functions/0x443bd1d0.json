@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[],"name":"registration","outputs":[{"name":"registrationTimeStarts","internalType":"uint256","type":"uint256"},{"name":"registrationTimeEnds","internalType":"uint256","type":"uint256"},{"name":"numberOfRegistrants","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

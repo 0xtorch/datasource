@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"day","internalType":"uint256","type":"uint256"},{"name":"tokenId","internalType":"uint256","type":"uint256"},{"name":"pixels","internalType":"bytes","type":"bytes"}],"name":"paint","outputs":[],"stateMutability":"nonpayable"}]

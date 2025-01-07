@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"mintAmount","internalType":"uint256","type":"uint256"},{"name":"mintTokens","internalType":"uint256","type":"uint256"}],"name":"mintForMigrate","outputs":[{"name":"","internalType":"uint256","type":"uint256"}],"stateMutability":"nonpayable"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"skipNFT","internalType":"bool","type":"bool"}],"name":"setSkipNFT","outputs":[{"name":"","internalType":"bool","type":"bool"}],"stateMutability":"nonpayable"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[],"name":"getFarms","outputs":[{"name":"","internalType":"contract LockFarm[]","type":"address[]"}],"stateMutability":"view"}]

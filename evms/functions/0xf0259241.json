@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_cid","internalType":"uint256","type":"uint256"},{"name":"_platformFee","internalType":"uint256","type":"uint256"},{"name":"_erc20Fee","internalType":"uint256","type":"uint256"},{"name":"_erc20","internalType":"address","type":"address"}],"name":"activateCampaign","outputs":[],"stateMutability":"nonpayable"}]

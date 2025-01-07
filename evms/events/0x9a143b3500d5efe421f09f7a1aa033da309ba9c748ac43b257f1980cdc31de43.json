@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"esVKA","internalType":"address","type":"address","indexed":false},{"name":"USDC","internalType":"address","type":"address","indexed":false},{"name":"VKA","internalType":"address","type":"address","indexed":false}],"name":"TokenAddressesUpdated"}]

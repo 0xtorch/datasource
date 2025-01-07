@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_new_mid_fee","type":"uint256"},{"name":"_new_out_fee","type":"uint256"},{"name":"_new_fee_gamma","type":"uint256"},{"name":"_new_allowed_extra_profit","type":"uint256"},{"name":"_new_adjustment_step","type":"uint256"},{"name":"_new_ma_time","type":"uint256"}],"name":"apply_new_parameters","outputs":[],"stateMutability":"nonpayable"}]

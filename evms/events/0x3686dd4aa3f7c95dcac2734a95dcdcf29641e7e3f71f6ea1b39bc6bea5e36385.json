@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"Buyer","internalType":"address","type":"address","indexed":true},{"name":"Amount","internalType":"uint256","type":"uint256","indexed":false},{"name":"Txns","internalType":"uint256","type":"uint256","indexed":false}],"name":"TxnsBundleBought"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"devFees","internalType":"uint256","type":"uint256"},{"name":"govFees","internalType":"uint256","type":"uint256"}],"name":"incrementClosingFees","outputs":[],"stateMutability":"nonpayable"}]

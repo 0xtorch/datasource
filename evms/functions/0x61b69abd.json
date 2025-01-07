@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"singleton","internalType":"address","type":"address"},{"name":"data","internalType":"bytes","type":"bytes"}],"name":"createProxy","outputs":[{"name":"proxy","internalType":"contract GnosisSafeProxy","type":"address"}],"stateMutability":"nonpayable"}]

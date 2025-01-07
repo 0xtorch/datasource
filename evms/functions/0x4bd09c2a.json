@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_wallets","internalType":"address[]","type":"address[]"},{"name":"_amounts","internalType":"uint256[]","type":"uint256[]"}],"name":"distributeTokens","outputs":[],"stateMutability":"nonpayable"}]

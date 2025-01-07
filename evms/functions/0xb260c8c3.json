@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"tilesId","internalType":"uint256[]","type":"uint256[]"},{"name":"_owner","internalType":"address","type":"address"}],"name":"checkOwner","outputs":[{"name":"","internalType":"bool","type":"bool"}],"stateMutability":"view"}]

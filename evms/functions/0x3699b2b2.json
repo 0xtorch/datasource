@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_player","internalType":"address","type":"address"}],"name":"lordsAvailable","outputs":[{"name":"lords","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

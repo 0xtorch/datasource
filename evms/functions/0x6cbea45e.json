@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"amountToStake","internalType":"uint256","type":"uint256"}],"name":"currentFarmIncentive","outputs":[{"name":"","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

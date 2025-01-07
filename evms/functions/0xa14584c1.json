@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"registrant","internalType":"address","type":"address"},{"name":"operators","internalType":"address[]","type":"address[]"},{"name":"filtered","internalType":"bool","type":"bool"}],"name":"updateOperators","outputs":[],"stateMutability":"nonpayable"}]

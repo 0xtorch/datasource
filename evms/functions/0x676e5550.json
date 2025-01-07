@@ -1,0 +1,1 @@
+[{"type":"function","constant":true,"inputs":[{"name":"user","internalType":"address","type":"address"}],"name":"getLiquidRewards","outputs":[{"name":"","internalType":"uint256","type":"uint256"}],"payable":false,"stateMutability":"view"}]

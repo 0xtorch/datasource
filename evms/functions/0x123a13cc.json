@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"strategy","internalType":"address","type":"address"},{"name":"shares","internalType":"uint256","type":"uint256"},{"name":"data","internalType":"bytes","type":"bytes"}],"name":"strategyWithdraw","outputs":[{"name":"receivedAssets","internalType":"uint256","type":"uint256"}],"stateMutability":"payable"}]

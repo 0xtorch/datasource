@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"totalWallets","internalType":"uint256","type":"uint256","indexed":false},{"name":"totalTokens","internalType":"uint256","type":"uint256","indexed":false}],"name":"TokensAirdropped"}]

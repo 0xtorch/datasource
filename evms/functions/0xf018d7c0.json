@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_rateLimiter","internalType":"address","type":"address"}],"name":"setRateLimiter","outputs":[],"stateMutability":"nonpayable"}]

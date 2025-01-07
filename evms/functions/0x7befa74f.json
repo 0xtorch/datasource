@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"validator","internalType":"address","type":"address"},{"name":"token","internalType":"enum Token.Type","type":"uint8"},{"name":"amount","internalType":"uint256","type":"uint256"}],"name":"stake","outputs":[],"stateMutability":"payable"}]

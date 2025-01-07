@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"feeSell","internalType":"uint256","type":"uint256","indexed":false},{"name":"feeBuy","internalType":"uint256","type":"uint256","indexed":false},{"name":"feeTransfer","internalType":"uint256","type":"uint256","indexed":false}],"name":"Fees"}]

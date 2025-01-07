@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_totalAmount","internalType":"uint256","type":"uint256"},{"name":"_paymentTokenAddress","internalType":"address","type":"address"},{"name":"_basePrice","internalType":"uint256","type":"uint256"}],"name":"createCard","outputs":[],"stateMutability":"nonpayable"}]

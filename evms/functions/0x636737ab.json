@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"baseURIString","internalType":"string","type":"string"},{"name":"baseURICIDHash","internalType":"bytes32","type":"bytes32"},{"name":"isPlaceholder","internalType":"bool","type":"bool"},{"name":"freezeMetadata","internalType":"bool","type":"bool"}],"name":"setBaseURI","outputs":[],"stateMutability":"payable"}]

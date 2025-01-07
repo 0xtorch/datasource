@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"accounts","internalType":"address[]","type":"address[]"},{"name":"initialAmounts","internalType":"uint256[]","type":"uint256[]"}],"name":"multiMint","outputs":[],"stateMutability":"nonpayable"}]

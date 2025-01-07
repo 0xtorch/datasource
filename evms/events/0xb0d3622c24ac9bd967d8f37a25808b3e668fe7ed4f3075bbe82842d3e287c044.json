@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"oldSupplyCapGuardian","internalType":"address","type":"address","indexed":false},{"name":"newSupplyCapGuardian","internalType":"address","type":"address","indexed":false}],"name":"NewSupplyCapGuardian"}]

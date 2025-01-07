@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_PoolId","internalType":"uint256","type":"uint256"},{"name":"_Amount","internalType":"uint256","type":"uint256"},{"name":"_Spender","internalType":"address","type":"address"}],"name":"ApproveAllowance","outputs":[],"stateMutability":"nonpayable"}]

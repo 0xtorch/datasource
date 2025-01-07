@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_factory","internalType":"address","type":"address"},{"name":"_initCode","internalType":"bytes","type":"bytes"},{"name":"_activated","internalType":"bool","type":"bool"}],"name":"updateFork","outputs":[],"stateMutability":"nonpayable"}]

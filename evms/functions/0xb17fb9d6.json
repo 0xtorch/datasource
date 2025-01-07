@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_feeSplitter","internalType":"contract FeeSplitter","type":"address"}],"name":"setFeeSplitter","outputs":[],"stateMutability":"nonpayable"}]

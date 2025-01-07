@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_addrs","internalType":"address[]","type":"address[]"},{"name":"tokenURIs","internalType":"string[]","type":"string[]"}],"name":"sendBatch","outputs":[],"stateMutability":"nonpayable"}]

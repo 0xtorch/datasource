@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"","internalType":"enum TokenVesting.BeneficiaryType","type":"uint8"}],"name":"vestingSchedules","outputs":[{"name":"rateUnlockedAtStart","internalType":"uint128","type":"uint128"},{"name":"cliffDuration","internalType":"uint64","type":"uint64"},{"name":"vestingDuration","internalType":"uint64","type":"uint64"}],"stateMutability":"view"}]

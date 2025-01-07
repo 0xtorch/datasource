@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"stargateImpl","internalType":"address","type":"address","indexed":false},{"name":"assetId","internalType":"uint16","type":"uint16","indexed":false}],"name":"AssetIdSet"}]

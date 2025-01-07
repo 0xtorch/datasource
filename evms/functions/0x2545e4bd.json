@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"YT","internalType":"address","type":"address"}],"name":"getLnFeeRateRoot","outputs":[{"name":"res","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

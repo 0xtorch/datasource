@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_eventHash","internalType":"bytes32","type":"bytes32"},{"name":"_desired","internalType":"bool","type":"bool"}],"name":"setTransactedEventHash","outputs":[],"stateMutability":"nonpayable"}]

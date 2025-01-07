@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"profileId","internalType":"uint256","type":"uint256","indexed":true},{"name":"essenceId","internalType":"uint256","type":"uint256","indexed":true},{"name":"essenceNFT","internalType":"address","type":"address","indexed":true}],"name":"DeployEssenceNFT"}]

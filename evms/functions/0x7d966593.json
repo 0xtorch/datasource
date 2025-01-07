@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_component","internalType":"address","type":"address"},{"name":"_module","internalType":"address","type":"address"}],"name":"isExternalPositionModule","outputs":[{"name":"","internalType":"bool","type":"bool"}],"stateMutability":"view"}]

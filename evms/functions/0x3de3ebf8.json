@@ -1,0 +1,1 @@
+[{"type":"function","constant":true,"inputs":[{"name":"_player","type":"address"}],"name":"getPlayerEnergy","outputs":[{"name":"freeAmount","type":"uint256"},{"name":"paidAmount","type":"uint256"},{"name":"lastClaim","type":"uint256"}],"payable":false,"stateMutability":"view"}]

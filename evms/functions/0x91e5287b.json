@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_bdoip01BootstrapEpochs","internalType":"uint256","type":"uint256"},{"name":"_bdoip01BootstrapSupplyExpansionPercent","internalType":"uint256","type":"uint256"}],"name":"setBDOIP01","outputs":[],"stateMutability":"nonpayable"}]

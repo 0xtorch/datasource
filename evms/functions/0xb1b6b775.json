@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"passId","internalType":"uint256","type":"uint256"}],"name":"getPassAccountId","outputs":[{"name":"","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

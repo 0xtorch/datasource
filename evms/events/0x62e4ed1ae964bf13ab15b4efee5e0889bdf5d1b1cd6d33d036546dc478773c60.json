@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"_newClone","internalType":"address","type":"address","indexed":false},{"name":"_owner","internalType":"address","type":"address","indexed":false},{"name":"symbol","internalType":"string","type":"string","indexed":false}],"name":"NewCloneTicker"}]

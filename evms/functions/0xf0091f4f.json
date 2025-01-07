@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"oldFundingRecipient","internalType":"address","type":"address"},{"name":"newFundingRecipient","internalType":"address","type":"address"}],"name":"emitFundingRecipientSet","outputs":[],"stateMutability":"nonpayable"}]

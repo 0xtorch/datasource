@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"epoch","internalType":"uint256","type":"uint256"},{"name":"newScore","internalType":"uint256","type":"uint256"},{"name":"target","internalType":"address","type":"address"}],"name":"setScore","outputs":[{"name":"","internalType":"bool","type":"bool"}],"stateMutability":"nonpayable"}]

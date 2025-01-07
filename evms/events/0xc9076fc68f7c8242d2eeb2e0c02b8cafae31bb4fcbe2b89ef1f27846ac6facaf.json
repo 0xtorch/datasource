@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"token","type":"address","indexed":false},{"name":"receiver","type":"address","indexed":false},{"name":"balance","type":"uint256","indexed":false}],"name":"LogGetToken"}]

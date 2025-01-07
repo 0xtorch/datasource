@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"l2TxHash","internalType":"bytes32","type":"bytes32","indexed":false},{"name":"primaryChainL2TxHash","internalType":"bytes32","type":"bytes32","indexed":false}],"name":"SyncL2TxHash"}]

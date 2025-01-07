@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_keyHash","internalType":"bytes32","type":"bytes32"}],"name":"setChainlinkKeyHash","outputs":[],"stateMutability":"nonpayable"}]

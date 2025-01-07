@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"clone","internalType":"address","type":"address","indexed":true},{"name":"oldBaseDescriptionURI","internalType":"string","type":"string","indexed":false},{"name":"newBaseDescriptionURI","internalType":"string","type":"string","indexed":false}],"name":"BaseDescriptionURISet"}]

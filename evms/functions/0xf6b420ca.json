@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"strategyIndex","internalType":"uint256","type":"uint256"},{"name":"status","internalType":"bool","type":"bool"}],"name":"setStrategyStatus","outputs":[],"stateMutability":"nonpayable"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_addressOfUser","internalType":"address","type":"address"}],"name":"userHasFreeTrial","outputs":[{"name":"hasFreeTrial","internalType":"bool","type":"bool"}],"stateMutability":"view"}]

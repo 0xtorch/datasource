@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"action","internalType":"bytes32","type":"bytes32"},{"name":"handler","internalType":"address","type":"address"}],"name":"setRebateHandler","outputs":[],"stateMutability":"nonpayable"}]

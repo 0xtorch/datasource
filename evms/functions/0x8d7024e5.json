@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[],"name":"getVariableFeeParameters","outputs":[{"name":"volatilityAccumulator","internalType":"uint24","type":"uint24"},{"name":"volatilityReference","internalType":"uint24","type":"uint24"},{"name":"idReference","internalType":"uint24","type":"uint24"},{"name":"timeOfLastUpdate","internalType":"uint40","type":"uint40"}],"stateMutability":"view"}]

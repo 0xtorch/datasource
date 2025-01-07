@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_newLockedBlockDuration","internalType":"uint64","type":"uint64"},{"name":"_newReserveCooldown","internalType":"uint64","type":"uint64"}],"name":"updateLockedBlockDurationAndReserveCooldown","outputs":[],"stateMutability":"nonpayable"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_newEvmCount","internalType":"uint256","type":"uint256"},{"name":"_newSolanaCount","internalType":"uint256","type":"uint256"}],"name":"setMaxOrderCountsPerBatch","outputs":[],"stateMutability":"nonpayable"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_lps","internalType":"address[]","type":"address[]"},{"name":"_shouldCompoundReward","internalType":"bool[]","type":"bool[]"}],"name":"compoundAndSkipRewards","outputs":[],"stateMutability":"nonpayable"}]

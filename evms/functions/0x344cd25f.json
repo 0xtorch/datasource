@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"amount","internalType":"uint256","type":"uint256"}],"name":"getLastNftContracts","outputs":[{"name":"","internalType":"address[]","type":"address[]"}],"stateMutability":"view"}]

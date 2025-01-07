@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_exitPositionsManager","internalType":"contract IExitPositionsManager","type":"address"}],"name":"setExitPositionsManager","outputs":[],"stateMutability":"nonpayable"}]

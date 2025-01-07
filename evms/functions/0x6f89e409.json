@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[],"name":"getLimits","outputs":[{"name":"dailyLimit","internalType":"uint128","type":"uint128"},{"name":"globalLimit","internalType":"uint128","type":"uint128"},{"name":"userDailyLimit","internalType":"uint128","type":"uint128"},{"name":"userGlobalLimit","internalType":"uint128","type":"uint128"}],"stateMutability":"view"}]

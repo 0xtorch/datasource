@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"newMaxSupply","internalType":"uint256","type":"uint256"},{"name":"newMaxSupplyAllowedAfter","internalType":"uint256","type":"uint256"}],"name":"changeMaxSupply","outputs":[{"name":"","internalType":"bool","type":"bool"}],"stateMutability":"nonpayable"}]

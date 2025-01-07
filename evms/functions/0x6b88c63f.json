@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_landId","internalType":"uint256","type":"uint256"},{"name":"_seller","internalType":"address","type":"address"},{"name":"_sellPrice","internalType":"uint256","type":"uint256"}],"name":"addLandSalesInfo","outputs":[],"stateMutability":"nonpayable"}]

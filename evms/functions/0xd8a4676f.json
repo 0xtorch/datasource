@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_requestId","internalType":"uint256","type":"uint256"}],"name":"getRequestStatus","outputs":[{"name":"fulfilled","internalType":"bool","type":"bool"},{"name":"randomWords","internalType":"uint256[]","type":"uint256[]"}],"stateMutability":"view"}]

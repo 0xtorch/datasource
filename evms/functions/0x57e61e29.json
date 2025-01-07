@@ -1,0 +1,1 @@
+[{"type":"function","constant":false,"inputs":[{"name":"v","type":"uint8"},{"name":"r","type":"bytes32"},{"name":"s","type":"bytes32"},{"name":"data","type":"bytes"}],"name":"invoke1SignerSends","outputs":[],"payable":false,"stateMutability":"nonpayable"}]

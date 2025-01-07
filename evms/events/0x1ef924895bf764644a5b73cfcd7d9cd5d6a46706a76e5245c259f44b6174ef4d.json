@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"marketMakerRewardsAmount","internalType":"uint256","type":"uint256","indexed":false},{"name":"traderRewardsAmount","internalType":"uint256","type":"uint256","indexed":false},{"name":"traderScoreAlpha","internalType":"uint256","type":"uint256","indexed":false}],"name":"RewardsParametersUpdated"}]

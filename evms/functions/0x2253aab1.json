@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"user","internalType":"address","type":"address"},{"name":"amount","internalType":"uint256","type":"uint256"},{"name":"amountXavaToBurn","internalType":"uint256","type":"uint256"},{"name":"roundId","internalType":"uint256","type":"uint256"}],"name":"boostParticipation","outputs":[],"stateMutability":"payable"}]

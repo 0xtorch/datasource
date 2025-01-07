@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"collective","internalType":"address","type":"address"},{"name":"ethPrice_","internalType":"uint256","type":"uint256"}],"name":"updateEthPrice","outputs":[],"stateMutability":"nonpayable"}]

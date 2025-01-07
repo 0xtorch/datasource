@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_withdrawRecipient","internalType":"address","type":"address"}],"name":"setWithdrawRecipient","outputs":[],"stateMutability":"nonpayable"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_assets","internalType":"uint256","type":"uint256"},{"name":"_sender","internalType":"address","type":"address"},{"name":"_compound","internalType":"bool","type":"bool"}],"name":"depositGlp","outputs":[{"name":"","internalType":"uint256","type":"uint256"}],"stateMutability":"nonpayable"}]

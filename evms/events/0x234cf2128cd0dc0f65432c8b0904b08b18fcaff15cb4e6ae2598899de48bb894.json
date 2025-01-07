@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"player","internalType":"address","type":"address","indexed":false},{"name":"until","internalType":"uint256","type":"uint256","indexed":false}],"name":"PlayerBanned"}]

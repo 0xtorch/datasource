@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_pid","internalType":"uint256","type":"uint256"}],"name":"getLatestPeriodInfoByPid","outputs":[{"name":"cakePerSecond","internalType":"uint256","type":"uint256"},{"name":"endTime","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

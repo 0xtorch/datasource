@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_currency","internalType":"enum Currency","type":"uint8"},{"name":"_user","internalType":"address","type":"address"},{"name":"_zroAmount","internalType":"uint256","type":"uint256"}],"name":"assertDonation","outputs":[],"stateMutability":"view"}]

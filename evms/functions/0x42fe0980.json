@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"newOwner","internalType":"address","type":"address"},{"name":"erc20Decimals","internalType":"uint8","type":"uint8"},{"name":"erc20Symbol","internalType":"string","type":"string"},{"name":"erc20Name","internalType":"string","type":"string"}],"name":"initialize","outputs":[],"stateMutability":"nonpayable"}]

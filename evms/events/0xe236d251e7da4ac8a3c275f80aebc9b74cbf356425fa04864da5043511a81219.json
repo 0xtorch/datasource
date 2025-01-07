@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"newRoyaltyManager","internalType":"address","type":"address","indexed":true}],"name":"RoyaltyManagerChanged"}]

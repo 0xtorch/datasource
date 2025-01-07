@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"commandType","internalType":"uint16","type":"uint16"},{"name":"selector","internalType":"bytes4","type":"bytes4"}],"name":"updateSelector","outputs":[],"stateMutability":"nonpayable"}]

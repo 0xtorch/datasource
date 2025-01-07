@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_tickers","internalType":"bytes32[]","type":"bytes32[]"},{"name":"_feeds","internalType":"address[]","type":"address[]"},{"name":"_staleTimes","internalType":"uint256[]","type":"uint256[]"},{"name":"_isClosables","internalType":"bool[]","type":"bool[]"}],"name":"setAPI3Feeds","outputs":[],"stateMutability":"nonpayable"}]

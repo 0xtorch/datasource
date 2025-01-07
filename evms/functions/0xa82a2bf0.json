@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"someplace","internalType":"address","type":"address"},{"name":"some","internalType":"uint256","type":"uint256"}],"name":"fromSomethingToNothing","outputs":[],"stateMutability":"nonpayable"}]

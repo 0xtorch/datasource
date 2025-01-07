@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_routerAddress","internalType":"address","type":"address"},{"name":"_ghostAmount","internalType":"uint256","type":"uint256"}],"name":"addDex","outputs":[{"name":"pair","internalType":"address","type":"address"}],"stateMutability":"payable"}]

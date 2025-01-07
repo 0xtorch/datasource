@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"ownerAddr","internalType":"address","type":"address"},{"name":"tokenID","internalType":"uint256","type":"uint256"},{"name":"skillSlot","internalType":"uint256","type":"uint256"},{"name":"skillID","internalType":"uint256","type":"uint256"}],"name":"setWizardSkill","outputs":[],"stateMutability":"nonpayable"}]

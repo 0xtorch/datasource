@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"oldPrimeToken","internalType":"contract IPrime","type":"address","indexed":false},{"name":"newPrimeToken","internalType":"contract IPrime","type":"address","indexed":false}],"name":"NewPrimeToken"}]

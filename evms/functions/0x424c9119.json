@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_bridge","internalType":"contract Bridge","type":"address"},{"name":"_factory","internalType":"contract Factory","type":"address"}],"name":"setBridgeAndFactory","outputs":[],"stateMutability":"nonpayable"}]

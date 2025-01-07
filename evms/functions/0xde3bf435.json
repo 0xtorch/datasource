@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"addr","internalType":"address","type":"address"},{"name":"id","internalType":"uint256","type":"uint256"}],"name":"giveSpecial","outputs":[{"name":"tokenID","internalType":"uint256","type":"uint256"}],"stateMutability":"nonpayable"}]

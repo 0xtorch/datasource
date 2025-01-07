@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"vaultID","type":"uint256","indexed":false},{"name":"owner","type":"address","indexed":false},{"name":"buyer","type":"address","indexed":false},{"name":"amountPaid","type":"uint256","indexed":false}],"name":"BuyRiskyVault"}]

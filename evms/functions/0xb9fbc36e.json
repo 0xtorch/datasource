@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[],"name":"getTimeBeforeNextVest","outputs":[{"name":"timeBeforeVest","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

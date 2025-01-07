@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_brokerHash","internalType":"bytes32","type":"bytes32"},{"name":"_allowed","internalType":"bool","type":"bool"}],"name":"setAllowedBroker","outputs":[],"stateMutability":"nonpayable"}]

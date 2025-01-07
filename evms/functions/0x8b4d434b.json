@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_accounts","internalType":"address[]","type":"address[]"},{"name":"_state","internalType":"bool","type":"bool"}],"name":"toggleBurnerAccounts","outputs":[],"stateMutability":"nonpayable"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"dayIndex","internalType":"uint256","type":"uint256"}],"name":"dayBoxMintPointAmount","outputs":[{"name":"mintBoxPointAmount","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

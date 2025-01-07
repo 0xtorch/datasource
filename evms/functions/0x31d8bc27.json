@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"cumulativeIndex_RAY","internalType":"uint256","type":"uint256"},{"name":"currentBorrowRate_RAY","internalType":"uint256","type":"uint256"},{"name":"timeDifference","internalType":"uint256","type":"uint256"}],"name":"calcLinearIndex_RAY","outputs":[{"name":"","internalType":"uint256","type":"uint256"}],"stateMutability":"pure"}]

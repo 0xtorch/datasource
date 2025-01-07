@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"_glpAmount","internalType":"uint256","type":"uint256","indexed":false},{"name":"_glpRedeemed","internalType":"uint256","type":"uint256","indexed":false}],"name":"Deleverage"}]

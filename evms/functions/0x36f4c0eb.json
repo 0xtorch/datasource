@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_launchpad","internalType":"address","type":"address"}],"name":"setLaunchpad","outputs":[{"name":"","internalType":"bool","type":"bool"}],"stateMutability":"nonpayable"}]

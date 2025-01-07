@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"newHookTarget","internalType":"address","type":"address","indexed":true},{"name":"newHookedOps","internalType":"uint32","type":"uint32","indexed":false}],"name":"GovSetHookConfig"}]

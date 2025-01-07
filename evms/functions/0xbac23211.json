@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"","internalType":"enum ToadItem","type":"uint8"}],"name":"itemToString","outputs":[{"name":"","internalType":"string","type":"string"}],"stateMutability":"view"}]

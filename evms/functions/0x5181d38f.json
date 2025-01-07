@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[],"name":"getLpParams","outputs":[{"name":"","internalType":"struct LpParam[]","type":"tuple[]","components":[{"name":"upperTick","internalType":"int24","type":"int24"},{"name":"lowerTick","internalType":"int24","type":"int24"}]}],"stateMutability":"view"}]

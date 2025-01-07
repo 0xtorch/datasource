@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"treasury","internalType":"address","type":"address","indexed":false}],"name":"TreasuryUpdate"}]

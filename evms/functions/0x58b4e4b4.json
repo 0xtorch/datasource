@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_liquidityProvider","internalType":"address","type":"address"},{"name":"_week","internalType":"uint256","type":"uint256"},{"name":"_claimedBalance","internalType":"uint256","type":"uint256"},{"name":"_merkleProof","internalType":"bytes32[]","type":"bytes32[]"}],"name":"claimWeek","outputs":[],"stateMutability":"nonpayable"}]

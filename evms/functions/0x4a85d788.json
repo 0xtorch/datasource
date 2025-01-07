@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"orderHashes","internalType":"bytes32[]","type":"bytes32[]"}],"name":"postBatch","outputs":[{"name":"sequence","internalType":"uint64","type":"uint64"}],"stateMutability":"payable"}]

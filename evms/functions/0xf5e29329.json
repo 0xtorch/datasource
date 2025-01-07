@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"price","internalType":"uint256","type":"uint256"}],"name":"getIdFromPrice","outputs":[{"name":"id","internalType":"uint24","type":"uint24"}],"stateMutability":"pure"}]

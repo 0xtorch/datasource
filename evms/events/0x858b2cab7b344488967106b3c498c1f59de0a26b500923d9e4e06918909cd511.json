@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"pid","type":"uint256","indexed":true},{"name":"rewarder","type":"address","indexed":true}],"name":"SetRewarder"}]

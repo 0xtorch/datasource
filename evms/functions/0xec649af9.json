@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"oneInchRouter","internalType":"address","type":"address"},{"name":"whitelisted","internalType":"bool","type":"bool"}],"name":"whitelistOneInchRouter","outputs":[],"stateMutability":"nonpayable"}]

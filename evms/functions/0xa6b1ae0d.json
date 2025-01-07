@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"newInterestAccruedAsOf","internalType":"uint256","type":"uint256"}],"name":"setInterestAccruedAsOf","outputs":[],"stateMutability":"nonpayable"}]

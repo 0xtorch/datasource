@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_newCacheMaxAgeInSeconds","internalType":"uint256","type":"uint256"}],"name":"setCacheMaxAgeInSeconds","outputs":[],"stateMutability":"nonpayable"}]

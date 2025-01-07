@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_address","internalType":"address","type":"address"},{"name":"_discountFixBps","internalType":"uint16","type":"uint16"},{"name":"_discountTransferBps","internalType":"uint16","type":"uint16"}],"name":"updateFeeDiscount","outputs":[],"stateMutability":"nonpayable"}]

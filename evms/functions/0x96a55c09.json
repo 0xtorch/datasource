@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_gaugeId","internalType":"uint256","type":"uint256"},{"name":"_inCap","internalType":"bool","type":"bool"}],"name":"getGaugeRelativeWeightById","outputs":[{"name":"","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

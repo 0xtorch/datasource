@@ -1,0 +1,1 @@
+[{"type":"function","constant":false,"inputs":[{"name":"recipient","internalType":"address","type":"address"},{"name":"tokenAddress","internalType":"address","type":"address"},{"name":"amount","internalType":"uint96","type":"uint96"}],"name":"depositTo","outputs":[],"payable":true,"stateMutability":"payable"}]

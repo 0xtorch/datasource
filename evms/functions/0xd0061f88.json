@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_allowlistStartTime","internalType":"uint256","type":"uint256"},{"name":"_publicSaleStartTime","internalType":"uint256","type":"uint256"},{"name":"_allowlistPrice","internalType":"uint256","type":"uint256"},{"name":"_salePrice","internalType":"uint256","type":"uint256"}],"name":"initializePhases","outputs":[],"stateMutability":"nonpayable"}]

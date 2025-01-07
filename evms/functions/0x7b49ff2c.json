@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"tokenContract","internalType":"address","type":"address"},{"name":"tokenId","internalType":"uint256","type":"uint256"},{"name":"wallet","internalType":"address","type":"address"}],"name":"getMintedPerWallet","outputs":[{"name":"","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

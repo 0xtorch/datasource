@@ -1,0 +1,1 @@
+[{"type":"function","constant":false,"inputs":[{"name":"node","internalType":"bytes32","type":"bytes32"},{"name":"target","internalType":"address","type":"address"},{"name":"isAuthorised","internalType":"bool","type":"bool"}],"name":"setAuthorisation","outputs":[],"payable":false,"stateMutability":"nonpayable"}]

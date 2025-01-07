@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_ref","internalType":"string","type":"string"},{"name":"_slug","internalType":"string","type":"string"},{"name":"_paymentToken","internalType":"address","type":"address"},{"name":"_paymentAmount","internalType":"uint256","type":"uint256"}],"name":"invest","outputs":[],"stateMutability":"payable"}]

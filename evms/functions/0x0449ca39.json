@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"strategies","internalType":"contract IStrategy[]","type":"address[]"}],"name":"getWithdrawalDelay","outputs":[{"name":"","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

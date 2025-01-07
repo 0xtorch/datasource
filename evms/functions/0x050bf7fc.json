@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"opHashArray","internalType":"uint256[]","type":"uint256[]"}],"name":"checkOperationsExecuteStatus","outputs":[{"name":"resultArray","internalType":"bool[]","type":"bool[]"}],"stateMutability":"view"}]

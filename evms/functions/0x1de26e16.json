@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"recipient","internalType":"bytes32","type":"bytes32"},{"name":"amountWei","internalType":"uint256","type":"uint256"}],"name":"deposit","outputs":[],"stateMutability":"payable"}]

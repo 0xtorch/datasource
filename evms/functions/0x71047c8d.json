@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"mintId","internalType":"uint256","type":"uint256"},{"name":"nilPass","internalType":"contract INilPassV2","type":"address"},{"name":"creator","internalType":"address","type":"address"}],"name":"replaceMint","outputs":[],"stateMutability":"nonpayable"}]

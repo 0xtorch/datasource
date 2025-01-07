@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"","internalType":"address","type":"address"}],"name":"userToVault","outputs":[{"name":"","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

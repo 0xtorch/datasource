@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"vectorId","internalType":"bytes32","type":"bytes32"}],"name":"getCurrentReferrer","outputs":[{"name":"","internalType":"address","type":"address"}],"stateMutability":"view"}]

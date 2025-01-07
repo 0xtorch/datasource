@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"target","internalType":"address","type":"address"}],"name":"getFriend","outputs":[{"name":"erc20","internalType":"address","type":"address"}],"stateMutability":"view"}]

@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"_th","type":"address","indexed":true},{"name":"_amount","type":"uint256","indexed":false},{"name":"_tokens","type":"uint256","indexed":false},{"name":"_guaranteed","type":"bool","indexed":false}],"name":"NewSale"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_pid","internalType":"uint8","type":"uint8"},{"name":"_bEnable","internalType":"bool","type":"bool"}],"name":"setEnableStaking","outputs":[],"stateMutability":"nonpayable"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_treasureBox","internalType":"contract NightmareImpTreasureBox","type":"address"}],"name":"setTreasureBox","outputs":[],"stateMutability":"nonpayable"}]

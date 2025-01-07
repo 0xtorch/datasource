@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"phaseIds","internalType":"uint256[]","type":"uint256[]","indexed":false},{"name":"activatedPublic","internalType":"bool","type":"bool","indexed":false}],"name":"PhasesActivated"}]

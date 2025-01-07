@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"","internalType":"address","type":"address"}],"name":"fundingRateFactor","outputs":[{"name":"fundingRateFactor","internalType":"uint256","type":"uint256"},{"name":"fundingInterval","internalType":"uint256","type":"uint256"},{"name":"fundingExponent","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

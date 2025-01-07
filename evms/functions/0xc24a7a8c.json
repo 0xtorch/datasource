@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_maxTransaction","internalType":"uint256","type":"uint256"},{"name":"_maxWallet","internalType":"uint256","type":"uint256"}],"name":"setMaxWalletAndMaxTransaction","outputs":[],"stateMutability":"nonpayable"}]

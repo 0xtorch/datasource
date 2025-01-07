@@ -1,0 +1,1 @@
+[{"type":"function","constant":false,"inputs":[{"name":"_inGameRewardAddress","type":"address"},{"name":"_userGrowPoolAddress","type":"address"},{"name":"_developerAddress","type":"address"},{"name":"_paymentContract","type":"address"}],"name":"setAddress","outputs":[],"payable":false,"stateMutability":"nonpayable"}]

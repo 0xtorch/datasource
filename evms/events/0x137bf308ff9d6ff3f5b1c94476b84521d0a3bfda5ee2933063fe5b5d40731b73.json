@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"creatorPayouts","internalType":"struct CreatorPayout[]","type":"tuple[]","components":[{"name":"payoutAddress","internalType":"address","type":"address"},{"name":"basisPoints","internalType":"uint16","type":"uint16"}],"indexed":false}],"name":"CreatorPayoutsUpdated"}]

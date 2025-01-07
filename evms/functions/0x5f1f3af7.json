@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_deBridgeGate","internalType":"contract IDeBridgeGate","type":"address"},{"name":"_globalFixedNativeFee","internalType":"uint88","type":"uint88"},{"name":"_globalTransferFeeBps","internalType":"uint16","type":"uint16"}],"name":"initialize","outputs":[],"stateMutability":"nonpayable"}]

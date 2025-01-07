@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_userDepositCapUT","internalType":"uint256","type":"uint256"},{"name":"_minimumDepositValueUT","internalType":"uint256","type":"uint256"},{"name":"_totalValueLockedLimitUT","internalType":"uint256","type":"uint256"}],"name":"setValueControlParams","outputs":[],"stateMutability":"nonpayable"}]

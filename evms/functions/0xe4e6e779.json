@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"asset","internalType":"address","type":"address"},{"name":"minAmount","internalType":"uint256","type":"uint256"},{"name":"baseAmount","internalType":"uint256","type":"uint256"},{"name":"recipient","internalType":"address","type":"address"}],"name":"buyCollateral","outputs":[],"stateMutability":"nonpayable"}]

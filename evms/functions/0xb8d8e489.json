@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_feeDestination","internalType":"address","type":"address"}],"name":"registerOperatorWithFeeDestination","outputs":[],"stateMutability":"nonpayable"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"dropContractAddress","internalType":"address","type":"address"}],"name":"dropContracts","outputs":[{"name":"isRegistered","internalType":"bool","type":"bool"}],"stateMutability":"view"}]

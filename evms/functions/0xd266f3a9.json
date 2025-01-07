@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_erc20TokenContract","internalType":"address","type":"address"}],"name":"chargeAmountForERC20","outputs":[{"name":"","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

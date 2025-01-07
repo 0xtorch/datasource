@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"amountToPay","internalType":"uint256","type":"uint256"},{"name":"amountOut","internalType":"uint256","type":"uint256"},{"name":"data","internalType":"bytes","type":"bytes"}],"name":"swapCallback","outputs":[],"stateMutability":"nonpayable"}]

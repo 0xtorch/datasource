@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"n","type":"int256"}],"name":"p_oracle_down","outputs":[{"name":"","type":"uint256"}],"stateMutability":"view"}]

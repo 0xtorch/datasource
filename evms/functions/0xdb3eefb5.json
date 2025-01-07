@@ -1,0 +1,1 @@
+[{"type":"function","constant":false,"inputs":[{"name":"_address","internalType":"address","type":"address"},{"name":"_time","internalType":"uint256","type":"uint256"},{"name":"idx","internalType":"uint8","type":"uint8"},{"name":"_percent","internalType":"uint8","type":"uint8"}],"name":"add_timeAddressMonth","outputs":[],"payable":false,"stateMutability":"nonpayable"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"previousTokenAddress","internalType":"address","type":"address"}],"name":"setPreviousContractAddress","outputs":[],"stateMutability":"nonpayable"}]

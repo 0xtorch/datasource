@@ -1,0 +1,1 @@
+[{"type":"function","constant":false,"inputs":[{"name":"_paymentContract","type":"address"},{"name":"_claimMaxAmount","type":"uint256"},{"name":"_claimTime","type":"uint256"},{"name":"_claimAmount","type":"uint256"}],"name":"setConfig","outputs":[],"payable":false,"stateMutability":"nonpayable"}]

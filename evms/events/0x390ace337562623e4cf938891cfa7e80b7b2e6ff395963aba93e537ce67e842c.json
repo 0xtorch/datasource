@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"previousPoolAddr","internalType":"address","type":"address","indexed":false},{"name":"newPoolAddr","internalType":"address","type":"address","indexed":false}],"name":"SetPool"}]

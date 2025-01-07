@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"questId_","internalType":"string","type":"string"}],"name":"getQuestName","outputs":[{"name":"","internalType":"string","type":"string"}],"stateMutability":"view"}]

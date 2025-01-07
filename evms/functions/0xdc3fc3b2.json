@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[],"name":"getDebtQueue","outputs":[{"name":"first","internalType":"uint256","type":"uint256"},{"name":"last","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

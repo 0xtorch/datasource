@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"strategy","internalType":"address","type":"address"}],"name":"getStrategyType","outputs":[{"name":"","internalType":"enum IVaultFactory.StrategyType","type":"uint8"}],"stateMutability":"view"}]

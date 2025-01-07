@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"p","type":"uint256"}],"name":"get_amount_for_price","outputs":[{"name":"","type":"uint256"},{"name":"","type":"bool"}],"stateMutability":"view"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_totalRepaid","internalType":"uint256","type":"uint256"},{"name":"_principal","internalType":"uint256","type":"uint256"},{"name":"_isLiquidation","internalType":"bool","type":"bool"}],"name":"recordRepayment","outputs":[],"stateMutability":"nonpayable"}]

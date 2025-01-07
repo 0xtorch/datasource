@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_tokenId","internalType":"uint256","type":"uint256"}],"name":"getPaymentDetail","outputs":[{"name":"","internalType":"uint16[]","type":"uint16[]"},{"name":"","internalType":"address[]","type":"address[]"}],"stateMutability":"view"}]

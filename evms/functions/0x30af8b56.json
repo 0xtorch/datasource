@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[],"name":"getAllowedSeaportContracts","outputs":[{"name":"seaportContracts","internalType":"address[]","type":"address[]"}],"stateMutability":"view"}]

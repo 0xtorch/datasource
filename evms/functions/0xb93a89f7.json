@@ -1,0 +1,1 @@
+[{"type":"function","constant":true,"inputs":[{"name":"tokenId","internalType":"uint256","type":"uint256"}],"name":"getDetails","outputs":[{"name":"proto","internalType":"uint16","type":"uint16"},{"name":"quality","internalType":"uint8","type":"uint8"}],"payable":false,"stateMutability":"view"}]

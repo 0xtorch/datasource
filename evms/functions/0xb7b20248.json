@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"newSafePeriodDays","internalType":"uint256","type":"uint256"}],"name":"setSafePeriod","outputs":[],"stateMutability":"nonpayable"}]

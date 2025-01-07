@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"buyer","internalType":"address","type":"address","indexed":true},{"name":"tierId","internalType":"string","type":"string","indexed":false},{"name":"amount","internalType":"uint256","type":"uint256","indexed":false},{"name":"promoCode","internalType":"string","type":"string","indexed":false}],"name":"PurchasedInTier"}]

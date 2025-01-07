@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_token","internalType":"address","type":"address"},{"name":"_tokenMerkleRoot","internalType":"bytes32","type":"bytes32"},{"name":"_resetClaimStatus","internalType":"bool","type":"bool"}],"name":"setMerkleRoot","outputs":[],"stateMutability":"nonpayable"}]

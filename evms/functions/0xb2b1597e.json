@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"tokenIds","internalType":"uint256[]","type":"uint256[]"},{"name":"proofs","internalType":"bytes32[][]","type":"bytes32[][]"}],"name":"batchRedeemAvatars","outputs":[],"stateMutability":"nonpayable"}]

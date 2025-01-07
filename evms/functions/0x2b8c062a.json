@@ -1,0 +1,1 @@
+[{"type":"function","constant":true,"inputs":[{"name":"","internalType":"uint32","type":"uint32"},{"name":"","internalType":"uint16","type":"uint16"}],"name":"exited","outputs":[{"name":"","internalType":"bool","type":"bool"}],"payable":false,"stateMutability":"view"}]

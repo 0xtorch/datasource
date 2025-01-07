@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_maxRefLevel","internalType":"uint256","type":"uint256"},{"name":"_maxRewardCount","internalType":"uint256","type":"uint256"},{"name":"_maxReward","internalType":"uint256","type":"uint256"}],"name":"setRewardRule","outputs":[],"stateMutability":"nonpayable"}]

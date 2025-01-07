@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"nft","internalType":"address","type":"address","indexed":false},{"name":"status","internalType":"enum TreasureMarketplace.TokenApprovalStatus","type":"uint8","indexed":false}],"name":"TokenApprovalStatusUpdated"}]

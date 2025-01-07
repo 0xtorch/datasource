@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"to","internalType":"address","type":"address"},{"name":"darkSpiritTokenIds","internalType":"uint256[]","type":"uint256[]"},{"name":"darkHeroSpiritTokenIds","internalType":"uint256[]","type":"uint256[]"}],"name":"mintPotionsBatch","outputs":[],"stateMutability":"nonpayable"}]

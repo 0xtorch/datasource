@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"createTricks","internalType":"contract animations[9]","type":"address[9]"},{"name":"vals","internalType":"uint256[9]","type":"uint256[9]"},{"name":"randomizePhrase","internalType":"string","type":"string"}],"name":"resetData","outputs":[],"stateMutability":"nonpayable"}]

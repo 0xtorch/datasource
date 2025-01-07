@@ -1,0 +1,1 @@
+[{"type":"function","constant":true,"gas":843,"inputs":[],"name":"sendTokenFee","outputs":[{"name":"out","type":"uint256"}],"payable":false,"stateMutability":"view"}]

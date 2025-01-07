@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"merkleRoot","internalType":"bytes32","type":"bytes32"},{"name":"newMaximumAmountPerUser","internalType":"uint256","type":"uint256"}],"name":"updateTradingRewards","outputs":[],"stateMutability":"nonpayable"}]

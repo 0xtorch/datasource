@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_cosigner","internalType":"address","type":"address"},{"name":"_tokenId","internalType":"uint256","type":"uint256"}],"name":"setCosigner","outputs":[],"stateMutability":"nonpayable"}]

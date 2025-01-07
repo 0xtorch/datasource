@@ -1,0 +1,1 @@
+[{"type":"function","constant":false,"inputs":[{"name":"trackingCode","internalType":"bytes32","type":"bytes32"}],"name":"closePositionWithTracking","outputs":[],"payable":false,"stateMutability":"nonpayable"}]

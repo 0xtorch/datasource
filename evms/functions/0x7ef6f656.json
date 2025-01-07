@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_solazy","internalType":"address payable","type":"address"},{"name":"_kixboy","internalType":"address payable","type":"address"}],"name":"setWithdrawAddresses","outputs":[],"stateMutability":"nonpayable"}]

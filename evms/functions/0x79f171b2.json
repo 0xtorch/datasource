@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"assets","internalType":"address[]","type":"address[]"},{"name":"emissionsPerSecond","internalType":"uint256[]","type":"uint256[]"}],"name":"configureAssets","outputs":[],"stateMutability":"nonpayable"}]

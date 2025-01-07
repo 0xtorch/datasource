@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_itemIds","internalType":"uint256[]","type":"uint256[]"},{"name":"_prices","internalType":"uint256[]","type":"uint256[]"},{"name":"_beneficiaries","internalType":"address[]","type":"address[]"},{"name":"_metadatas","internalType":"string[]","type":"string[]"}],"name":"editItemsData","outputs":[],"stateMutability":"nonpayable"}]

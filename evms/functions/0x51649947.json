@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"cloneId","internalType":"uint256[]","type":"uint256[]"},{"name":"eggId","internalType":"uint256[]","type":"uint256[]"}],"name":"linkCloneToEgg","outputs":[],"stateMutability":"nonpayable"}]

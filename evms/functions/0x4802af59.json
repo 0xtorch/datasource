@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"maxGasForFulfillment","internalType":"uint256","type":"uint256"}],"name":"setMaxGasForFulfillment","outputs":[],"stateMutability":"nonpayable"}]

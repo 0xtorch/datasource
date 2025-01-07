@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"contributor","internalType":"address","type":"address"}],"name":"isContributor","outputs":[{"name":"isContributor_","internalType":"bool","type":"bool"}],"stateMutability":"view"}]

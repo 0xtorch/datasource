@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_bridgeToken","internalType":"address","type":"address"},{"name":"_oft","internalType":"address","type":"address"}],"name":"permissionOft","outputs":[],"stateMutability":"nonpayable"}]

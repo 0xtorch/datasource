@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"","internalType":"uint64","type":"uint64"}],"name":"mintInfo","outputs":[{"name":"gtdSupply","internalType":"uint64","type":"uint64"},{"name":"maxSupply","internalType":"uint64","type":"uint64"},{"name":"nftAddress","internalType":"address","type":"address"}],"stateMutability":"view"}]

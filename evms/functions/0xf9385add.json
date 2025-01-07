@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"metadataCid","internalType":"string","type":"string"},{"name":"amount","internalType":"uint256","type":"uint256"}],"name":"exclusiveMint","outputs":[],"stateMutability":"nonpayable"}]

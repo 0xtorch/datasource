@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"data","internalType":"bytes","type":"bytes"},{"name":"defaultRecipient","internalType":"address","type":"address"}],"name":"decodeParams","outputs":[{"name":"","internalType":"address","type":"address"},{"name":"","internalType":"address","type":"address"}],"stateMutability":"view"}]

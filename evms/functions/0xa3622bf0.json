@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"scriptPubkey","internalType":"bytes","type":"bytes"},{"name":"amount","internalType":"uint256","type":"uint256"}],"name":"redeem","outputs":[],"stateMutability":"nonpayable"}]

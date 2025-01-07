@@ -1,0 +1,1 @@
+[{"type":"function","constant":false,"inputs":[{"name":"_totalWeiAmount","type":"uint256"}],"name":"allocateLoyaltySpend","outputs":[{"name":"","type":"bool"}],"payable":false,"stateMutability":"nonpayable"}]

@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"addr","internalType":"address","type":"address","indexed":false},{"name":"stashAccount","internalType":"bytes32","type":"bytes32","indexed":false},{"name":"controllerAccount","internalType":"bytes32","type":"bytes32","indexed":false}],"name":"LedgerAdd"}]

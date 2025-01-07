@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"l1TokenAddress","internalType":"address","type":"address"},{"name":"l2TokenAddress","internalType":"address","type":"address"},{"name":"l1BridgeAddressOverride","internalType":"address","type":"address"}],"name":"allow","outputs":[],"stateMutability":"nonpayable"}]

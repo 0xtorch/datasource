@@ -1,0 +1,1 @@
+[{"type":"function","constant":true,"inputs":[{"name":"_ethAmount","type":"uint256"},{"name":"_buyPrice","type":"uint256"}],"name":"ethToToken","outputs":[{"name":"","type":"uint256"}],"payable":false,"stateMutability":"pure"}]

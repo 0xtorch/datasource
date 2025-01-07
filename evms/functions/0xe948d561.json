@@ -1,0 +1,1 @@
+[{"type":"function","constant":true,"inputs":[{"name":"","internalType":"address","type":"address"}],"name":"_able","outputs":[{"name":"allowed","internalType":"bool","type":"bool"},{"name":"paused","internalType":"bool","type":"bool"},{"name":"limit","internalType":"uint256","type":"uint256"}],"payable":false,"stateMutability":"view"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"superToken","internalType":"address","type":"address"},{"name":"sender","internalType":"address","type":"address"},{"name":"receiver","internalType":"address","type":"address"}],"name":"deleteFlow","outputs":[],"stateMutability":"nonpayable"}]

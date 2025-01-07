@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"nftContract","internalType":"address","type":"address"},{"name":"merkleRoot","internalType":"bytes32","type":"bytes32"},{"name":"merkleTreeUri","internalType":"string","type":"string"}],"name":"addMerkleRootToFixedPriceSale","outputs":[],"stateMutability":"nonpayable"}]

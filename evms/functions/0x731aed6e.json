@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[],"name":"getSuperTokenFactory","outputs":[{"name":"factory","internalType":"contract ISuperTokenFactory","type":"address"}],"stateMutability":"view"}]

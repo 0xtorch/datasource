@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"peerChainId","internalType":"uint16","type":"uint16"},{"name":"peerContract","internalType":"bytes32","type":"bytes32"},{"name":"decimals","internalType":"uint8","type":"uint8"},{"name":"inboundLimit","internalType":"uint256","type":"uint256"}],"name":"setPeer","outputs":[],"stateMutability":"nonpayable"}]

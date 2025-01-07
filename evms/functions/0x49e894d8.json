@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"data","internalType":"bytes32","type":"bytes32"}],"name":"toHex","outputs":[{"name":"","internalType":"string","type":"string"}],"stateMutability":"pure"}]

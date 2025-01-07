@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_pmintable","internalType":"bool","type":"bool"}],"name":"enableMint","outputs":[{"name":"","internalType":"bool","type":"bool"}],"stateMutability":"nonpayable"}]

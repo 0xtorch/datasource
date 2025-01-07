@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"account","internalType":"address","type":"address"}],"name":"eligibleCurrentVeDPX","outputs":[{"name":"eligible_vedpx_bal","internalType":"uint256","type":"uint256"},{"name":"stored_ending_timestamp","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

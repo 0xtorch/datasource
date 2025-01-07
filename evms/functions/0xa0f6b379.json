@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_beneficiary","internalType":"address","type":"address"},{"name":"_amount","internalType":"uint256","type":"uint256"},{"name":"_monthsToWaitBeforeUnlock","internalType":"uint256","type":"uint256"},{"name":"_releaseSchedule","internalType":"uint256","type":"uint256"}],"name":"deployLockupContract","outputs":[],"stateMutability":"nonpayable"}]

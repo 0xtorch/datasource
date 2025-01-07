@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"amountWrapped","internalType":"uint256","type":"uint256"}],"name":"fromWrapped","outputs":[{"name":"","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

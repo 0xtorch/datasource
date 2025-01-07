@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"exhibitionId","internalType":"uint256","type":"uint256"},{"name":"collectionListings","internalType":"address[]","type":"address[]"}],"name":"worldsMigrateExhibitionListings","outputs":[{"name":"collectionSellers","internalType":"address[]","type":"address[]"}],"stateMutability":"nonpayable"}]

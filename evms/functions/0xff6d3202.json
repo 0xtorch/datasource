@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_addr","internalType":"address payable","type":"address"}],"name":"Change_Fee_Addr","outputs":[{"name":"","internalType":"address","type":"address"}],"stateMutability":"nonpayable"}]

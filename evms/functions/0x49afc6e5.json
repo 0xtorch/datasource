@@ -1,0 +1,1 @@
+[{"type":"function","constant":true,"inputs":[{"name":"","internalType":"","type":"uint256"}],"name":"tokenBalance","outputs":[{"name":"","internalType":"","type":"uint256"}],"payable":false,"stateMutability":"view"}]

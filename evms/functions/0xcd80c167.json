@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_router","internalType":"address","type":"address"},{"name":"_crvToNativePath","internalType":"bytes","type":"bytes"}],"name":"setCrvRoute","outputs":[],"stateMutability":"nonpayable"}]

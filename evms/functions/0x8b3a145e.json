@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_domain","internalType":"uint32","type":"uint32"},{"name":"_to","internalType":"address","type":"address"},{"name":"_enableFast","internalType":"bool","type":"bool"}],"name":"sendToEVMLike","outputs":[],"stateMutability":"payable"}]

@@ -1,0 +1,1 @@
+[{"type":"function","constant":false,"inputs":[{"name":"addr","internalType":"address","type":"address"}],"name":"transferownership","outputs":[{"name":"","internalType":"bool","type":"bool"}],"payable":false,"stateMutability":"nonpayable"}]

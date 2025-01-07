@@ -1,0 +1,1 @@
+[{"type":"function","constant":false,"inputs":[{"name":"entryIDs","internalType":"uint256[][]","type":"uint256[][]"}],"name":"initiateEscrowMigration","outputs":[],"payable":false,"stateMutability":"nonpayable"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"newAttackThreshold","internalType":"uint256","type":"uint256"}],"name":"setAttackThreshold","outputs":[],"stateMutability":"nonpayable"}]

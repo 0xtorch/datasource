@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"vault","internalType":"address","type":"address"},{"name":"version","internalType":"uint16","type":"uint16"},{"name":"proofs","internalType":"bytes32[]","type":"bytes32[]"}],"name":"upgradeVaultVersion","outputs":[],"stateMutability":"nonpayable"}]

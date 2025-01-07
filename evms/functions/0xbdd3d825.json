@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[],"name":"uniswapPool","outputs":[{"name":"","internalType":"contract IUniswapV3Pool","type":"address"}],"stateMutability":"view"}]

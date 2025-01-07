@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"relayingType","internalType":"uint8","type":"uint8","indexed":false},{"name":"refundAddress","internalType":"bytes32","type":"bytes32","indexed":false},{"name":"deliveryPayment","internalType":"uint256","type":"uint256","indexed":false}],"name":"RelayingInfo"}]

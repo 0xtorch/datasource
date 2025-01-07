@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"maturity","internalType":"uint256","type":"uint256"},{"name":"strikePrice","internalType":"uint256","type":"uint256"},{"name":"oracle","internalType":"contract OracleInterface","type":"address"}],"name":"calculateCurrentSpread","outputs":[{"name":"","internalType":"uint128","type":"uint128"}],"stateMutability":"nonpayable"}]

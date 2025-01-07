@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_user","internalType":"address","type":"address"}],"name":"getActiveLocks","outputs":[{"name":"","internalType":"uint256[2][]","type":"uint256[2][]"}],"stateMutability":"view"}]

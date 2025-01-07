@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"amount0","internalType":"uint256","type":"uint256","indexed":false},{"name":"amount1","internalType":"uint256","type":"uint256","indexed":false}],"name":"LogWithdrawManagerBalance"}]

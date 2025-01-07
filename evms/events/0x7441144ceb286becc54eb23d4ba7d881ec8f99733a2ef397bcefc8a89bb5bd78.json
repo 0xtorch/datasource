@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"numTiers","internalType":"uint256","type":"uint256","indexed":false},{"name":"longSkewConfig","internalType":"uint256[]","type":"uint256[]","indexed":false},{"name":"shortSkewConfig","internalType":"uint256[]","type":"uint256[]","indexed":false}],"name":"LossProtectionConfigSet"}]

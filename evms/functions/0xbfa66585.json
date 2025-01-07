@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[],"name":"getAttestationRegistry","outputs":[{"name":"","internalType":"contract IAttestationsRegistry","type":"address"}],"stateMutability":"view"}]

@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"stoppedCount","internalType":"uint256","type":"uint256","indexed":false},{"name":"slashed","internalType":"uint256","type":"uint256","indexed":false}],"name":"ValidatorSlashedStopped"}]

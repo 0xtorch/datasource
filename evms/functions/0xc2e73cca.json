@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"new_strategy","type":"address"},{"name":"add_to_queue","type":"bool"}],"name":"add_strategy","outputs":[],"stateMutability":"nonpayable"}]

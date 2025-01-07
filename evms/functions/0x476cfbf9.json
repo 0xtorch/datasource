@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"mlootId","internalType":"uint256","type":"uint256"}],"name":"isMLootClaimed","outputs":[{"name":"","internalType":"bool","type":"bool"}],"stateMutability":"view"}]

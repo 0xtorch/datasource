@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"ratio","internalType":"uint256","type":"uint256"},{"name":"period","internalType":"uint256","type":"uint256"}],"name":"setAutoQuota","outputs":[],"stateMutability":"nonpayable"}]

@@ -1,0 +1,1 @@
+[{"type":"function","constant":false,"inputs":[{"name":"user","type":"address"},{"name":"area","type":"uint32[]"},{"name":"period","type":"uint32[]"},{"name":"count","type":"uint32[]"}],"name":"deployMiners","outputs":[],"payable":true,"stateMutability":"payable"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_ownerAddress","internalType":"address","type":"address"},{"name":"_swthAddress","internalType":"bytes","type":"bytes"}],"name":"createWallet","outputs":[{"name":"","internalType":"bool","type":"bool"}],"stateMutability":"nonpayable"}]

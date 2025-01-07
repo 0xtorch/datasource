@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_vAMM","internalType":"contract IVAMM","type":"address"}],"name":"setVAMM","outputs":[],"stateMutability":"nonpayable"}]

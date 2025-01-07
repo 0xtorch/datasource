@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[],"name":"antiWhaleInfo","outputs":[{"name":"_limitsInEffect","internalType":"bool","type":"bool"},{"name":"_trasnferDelayEnabled","internalType":"bool","type":"bool"},{"name":"_maxWallet","internalType":"uint256","type":"uint256"},{"name":"_maxTx","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

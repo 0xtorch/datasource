@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"editionId","internalType":"uint256","type":"uint256"},{"name":"tokenURI","internalType":"string","type":"string"}],"name":"setEditionTokenURI","outputs":[],"stateMutability":"nonpayable"}]

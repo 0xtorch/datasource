@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[],"name":"genDetails","outputs":[{"name":"maxRatio","internalType":"uint128","type":"uint128"},{"name":"generationRateNumerator","internalType":"uint64","type":"uint64"},{"name":"generationRateDenominator","internalType":"uint64","type":"uint64"}],"stateMutability":"view"}]

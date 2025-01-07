@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"type_","internalType":"uint256","type":"uint256"},{"name":"address_","internalType":"address","type":"address"},{"name":"proof_","internalType":"bytes32[]","type":"bytes32[]"}],"name":"isWhitelisted","outputs":[{"name":"","internalType":"bool","type":"bool"}],"stateMutability":"view"}]

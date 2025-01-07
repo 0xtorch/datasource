@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"id","internalType":"uint16","type":"uint16"}],"name":"getReserveAddressById","outputs":[{"name":"","internalType":"address","type":"address"}],"stateMutability":"view"}]

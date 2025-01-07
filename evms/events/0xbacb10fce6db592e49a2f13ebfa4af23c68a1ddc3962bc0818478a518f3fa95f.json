@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"tradeFeeRate","internalType":"int256","type":"int256","indexed":false},{"name":"protocolFeeRate","internalType":"int256","type":"int256","indexed":false}],"name":"SetTradeFeeRate"}]

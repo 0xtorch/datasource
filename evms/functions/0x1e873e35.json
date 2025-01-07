@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"to","internalType":"address","type":"address"},{"name":"link","internalType":"bool","type":"bool"}],"name":"mintProfile","outputs":[{"name":"tokenId","internalType":"uint256","type":"uint256"}],"stateMutability":"nonpayable"}]

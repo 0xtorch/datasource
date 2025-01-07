@@ -1,0 +1,1 @@
+[{"type":"function","constant":false,"inputs":[{"name":"_spender","type":"address"},{"name":"_currentValue","type":"uint256"},{"name":"_newValue","type":"uint256"}],"name":"compareAndApprove","outputs":[{"name":"","type":"bool"}],"payable":false,"stateMutability":"nonpayable"}]

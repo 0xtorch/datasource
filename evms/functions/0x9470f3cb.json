@@ -1,0 +1,1 @@
+[{"type":"function","constant":false,"inputs":[{"name":"creator","type":"address"},{"name":"packId","type":"uint40"},{"name":"numFTs","type":"uint16"}],"name":"isPackIdUsed","outputs":[{"name":"","type":"bool"}],"payable":false,"stateMutability":"nonpayable"}]

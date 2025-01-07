@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"oldLawEnforcementRole","type":"address","indexed":true},{"name":"newLawEnforcementRole","type":"address","indexed":true}],"name":"LawEnforcementRoleSet"}]

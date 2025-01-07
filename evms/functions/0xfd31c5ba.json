@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"rootHash","internalType":"bytes32","type":"bytes32"},{"name":"totalAmount","internalType":"uint256","type":"uint256"}],"name":"setTransferRoot","outputs":[],"stateMutability":"nonpayable"}]

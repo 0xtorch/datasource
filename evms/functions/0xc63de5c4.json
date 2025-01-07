@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"vectorPaymentRecipient","internalType":"address","type":"address"},{"name":"currency","internalType":"address","type":"address"},{"name":"amount","internalType":"uint256","type":"uint256"}],"name":"processClassicVectorMintFeeCap","outputs":[{"name":"","internalType":"uint256","type":"uint256"}],"stateMutability":"payable"}]

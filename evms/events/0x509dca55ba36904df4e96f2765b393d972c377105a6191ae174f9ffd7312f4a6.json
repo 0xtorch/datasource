@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"oldDepositReceiver","internalType":"address","type":"address","indexed":false},{"name":"newDepositReceiver","internalType":"address","type":"address","indexed":false}],"name":"DepositReceiverChanged"}]

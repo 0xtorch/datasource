@@ -1,0 +1,1 @@
+[{"type":"function","constant":false,"inputs":[{"name":"_signature","internalType":"bytes","type":"bytes"},{"name":"_time","internalType":"int64","type":"int64"},{"name":"_support","internalType":"uint256","type":"uint256"}],"name":"requestDailyActionReward","outputs":[],"payable":false,"stateMutability":"nonpayable"}]

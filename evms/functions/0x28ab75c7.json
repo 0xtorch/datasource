@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"newFeePercentage","internalType":"uint32","type":"uint32"}],"name":"updateRoundFeePercentage","outputs":[],"stateMutability":"nonpayable"}]

@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"_owner","internalType":"address","type":"address","indexed":true},{"name":"_vault","internalType":"address","type":"address","indexed":false}],"name":"VaultAdded"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"to","internalType":"address","type":"address"},{"name":"fraction","internalType":"uint256","type":"uint256"}],"name":"removeAsset","outputs":[{"name":"share","internalType":"uint256","type":"uint256"}],"stateMutability":"nonpayable"}]

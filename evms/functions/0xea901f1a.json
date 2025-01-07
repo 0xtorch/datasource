@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"evmAddress","internalType":"address","type":"address"}],"name":"convertEVMTo65","outputs":[{"name":"","internalType":"bytes","type":"bytes"}],"stateMutability":"pure"}]

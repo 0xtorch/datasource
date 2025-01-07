@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"trainer","type":"address","indexed":true},{"name":"playerId","type":"uint32","indexed":false}],"name":"EventUpdateCastle"}]

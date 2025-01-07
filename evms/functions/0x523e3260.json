@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"signer","internalType":"address","type":"address"},{"name":"data","internalType":"bytes","type":"bytes"}],"name":"isValidSigner","outputs":[{"name":"magicValue","internalType":"bytes4","type":"bytes4"}],"stateMutability":"view"}]

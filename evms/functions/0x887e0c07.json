@@ -1,0 +1,1 @@
+[{"type":"function","constant":false,"inputs":[{"name":"_pluginAddress","type":"address"},{"name":"_cutieId","type":"uint40"},{"name":"_parameter","type":"uint256"}],"name":"runPlugin","outputs":[],"payable":true,"stateMutability":"payable"}]

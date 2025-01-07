@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_address","internalType":"address","type":"address"},{"name":"_role","internalType":"uint8","type":"uint8"}],"name":"isSubAdmin","outputs":[{"name":"","internalType":"bool","type":"bool"}],"stateMutability":"view"}]

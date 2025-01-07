@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_domain","internalType":"uint32","type":"uint32"},{"name":"_router","internalType":"bytes32","type":"bytes32"}],"name":"enrollRemoteRouter","outputs":[],"stateMutability":"nonpayable"}]

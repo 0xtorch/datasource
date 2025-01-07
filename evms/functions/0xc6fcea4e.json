@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"nodeId","internalType":"uint256","type":"uint256"},{"name":"isValid","internalType":"bool","type":"bool"}],"name":"validateNode","outputs":[],"stateMutability":"nonpayable"}]

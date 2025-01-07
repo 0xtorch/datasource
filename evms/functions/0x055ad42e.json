@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[],"name":"currentPhase","outputs":[{"name":"","internalType":"enum IN2MCommonStorage.SalePhase","type":"uint8"}],"stateMutability":"view"}]

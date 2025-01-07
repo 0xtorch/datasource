@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_whitelistController","internalType":"address","type":"address"},{"name":"_underlyingVault","internalType":"address","type":"address"},{"name":"_routerV1","internalType":"address","type":"address"},{"name":"_trackerV1","internalType":"address","type":"address"}],"name":"updateInternalContracts","outputs":[],"stateMutability":"nonpayable"}]

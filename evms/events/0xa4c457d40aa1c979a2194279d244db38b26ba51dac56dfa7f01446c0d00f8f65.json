@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"oldCreditLimitManager","internalType":"address","type":"address","indexed":false},{"name":"newCreditLimitManager","internalType":"address","type":"address","indexed":false}],"name":"NewCreditLimitManager"}]

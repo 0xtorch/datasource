@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"handlerAddress","internalType":"address","type":"address"},{"name":"tokenAddress","internalType":"address","type":"address"},{"name":"destinationChainID","internalType":"uint8","type":"uint8"},{"name":"decimals","internalType":"uint8","type":"uint8"}],"name":"adminSetTokenDecimals","outputs":[],"stateMutability":"nonpayable"}]

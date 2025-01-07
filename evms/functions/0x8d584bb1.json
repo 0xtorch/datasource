@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"vaultId","internalType":"uint256","type":"uint256"},{"name":"isAllowed","internalType":"bool","type":"bool"}],"name":"setAllowMintRequests","outputs":[],"stateMutability":"nonpayable"}]

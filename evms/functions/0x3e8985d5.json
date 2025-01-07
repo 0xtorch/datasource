@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_packId","internalType":"uint256","type":"uint256"},{"name":"_active","internalType":"bool","type":"bool"},{"name":"_farmonsPerPack","internalType":"uint8","type":"uint8"}],"name":"updatePackInfo","outputs":[],"stateMutability":"nonpayable"}]

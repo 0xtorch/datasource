@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"","internalType":"uint256","type":"uint256"}],"name":"royalties","outputs":[{"name":"royaltyMintSchedule","internalType":"uint32","type":"uint32"},{"name":"royaltyBPS","internalType":"uint32","type":"uint32"},{"name":"royaltyRecipient","internalType":"address","type":"address"}],"stateMutability":"view"}]

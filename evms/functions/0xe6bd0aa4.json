@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"forwarderAddress","internalType":"address payable","type":"address"},{"name":"tokenContractAddress","internalType":"address","type":"address"},{"name":"tokenId","internalType":"uint256","type":"uint256"}],"name":"flushERC1155ForwarderTokens","outputs":[],"stateMutability":"nonpayable"}]

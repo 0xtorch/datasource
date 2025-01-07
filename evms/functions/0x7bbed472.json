@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"consumer","internalType":"address","type":"address"},{"name":"callbackId","internalType":"uint96","type":"uint96"},{"name":"blockNumber","internalType":"uint256","type":"uint256"}],"name":"removeCallback","outputs":[],"stateMutability":"nonpayable"}]

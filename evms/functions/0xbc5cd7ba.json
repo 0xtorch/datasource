@@ -1,0 +1,1 @@
+[{"type":"function","constant":false,"inputs":[{"name":"_genesisRoot","internalType":"bytes32","type":"bytes32"},{"name":"_zkSyncCommitBlockAddress","internalType":"address","type":"address"},{"name":"_zkSyncExitAddress","internalType":"address","type":"address"}],"name":"setGenesisRootAndAddresses","outputs":[],"payable":false,"stateMutability":"nonpayable"}]

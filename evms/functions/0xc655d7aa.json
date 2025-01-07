@@ -1,0 +1,1 @@
+[{"type":"function","constant":true,"inputs":[{"name":"messageHash","type":"bytes32"},{"name":"signature","type":"bytes"}],"name":"recoverAddress","outputs":[{"name":"","type":"address"}],"payable":false,"stateMutability":"view"}]

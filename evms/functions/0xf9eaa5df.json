@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[],"name":"getLatestAlpha","outputs":[{"name":"newAlpha","internalType":"uint256","type":"uint256"},{"name":"curDistribution","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

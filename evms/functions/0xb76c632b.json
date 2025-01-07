@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_price","internalType":"uint256","type":"uint256"}],"name":"getRoyaltyInfo","outputs":[{"name":"royaltyAmount","internalType":"uint256","type":"uint256"},{"name":"royaltyReceiver","internalType":"address","type":"address"}],"stateMutability":"view"}]

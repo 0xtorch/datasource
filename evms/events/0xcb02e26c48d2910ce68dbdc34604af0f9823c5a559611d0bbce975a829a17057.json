@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"commonPriceLimit","internalType":"uint256","type":"uint256","indexed":false},{"name":"rarePriceLimit","internalType":"uint256","type":"uint256","indexed":false},{"name":"legendaryPriceLimit","internalType":"uint256","type":"uint256","indexed":false}],"name":"UpdateLimitByPoolType"}]

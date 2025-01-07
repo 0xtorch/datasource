@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_vSwaprouter","internalType":"contract IValueLiquidRouter","type":"address"}],"name":"setVSwaprouter","outputs":[],"stateMutability":"nonpayable"}]

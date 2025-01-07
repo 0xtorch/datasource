@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"size","internalType":"enum ArcadeLand.Size","type":"uint8"},{"name":"_newSupply","internalType":"uint256","type":"uint256"}],"name":"setSupply","outputs":[],"stateMutability":"nonpayable"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"merkleroot","internalType":"bytes32","type":"bytes32"}],"name":"setRaffleRoot","outputs":[],"stateMutability":"nonpayable"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"delegator","internalType":"address","type":"address"}],"name":"votesToDelegate","outputs":[{"name":"","internalType":"uint96","type":"uint96"}],"stateMutability":"view"}]

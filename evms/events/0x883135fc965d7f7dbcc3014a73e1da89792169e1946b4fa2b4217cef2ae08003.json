@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"whitelistSigner","internalType":"address","type":"address","indexed":false},{"name":"startTime","internalType":"uint32","type":"uint32","indexed":false},{"name":"endTime","internalType":"uint32","type":"uint32","indexed":false}],"name":"PresaleConfigChanged"}]

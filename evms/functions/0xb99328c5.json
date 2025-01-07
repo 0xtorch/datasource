@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"bep2Symbol","internalType":"bytes32","type":"bytes32"},{"name":"contractAddr","internalType":"address","type":"address"}],"name":"unbindToken","outputs":[],"stateMutability":"nonpayable"}]

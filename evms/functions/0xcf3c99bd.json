@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"__rateOracle","internalType":"contract IRateOracle","type":"address"}],"name":"setRateOracle","outputs":[],"stateMutability":"nonpayable"}]

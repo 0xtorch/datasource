@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"node","internalType":"bytes32","type":"bytes32"},{"name":"a","internalType":"address","type":"address"}],"name":"setAddr","outputs":[],"stateMutability":"nonpayable"}]

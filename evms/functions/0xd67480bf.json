@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_token0","internalType":"address","type":"address"},{"name":"_token1","internalType":"address","type":"address"},{"name":"_token0Weight","internalType":"uint256","type":"uint256"}],"name":"setTokenLp","outputs":[],"stateMutability":"nonpayable"}]

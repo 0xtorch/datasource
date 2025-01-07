@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"from","internalType":"address","type":"address","indexed":true},{"name":"onBehalfOf","internalType":"address","type":"address","indexed":true},{"name":"operator","internalType":"address","type":"address","indexed":false},{"name":"assets","internalType":"uint256","type":"uint256","indexed":false}],"name":"Stake"}]

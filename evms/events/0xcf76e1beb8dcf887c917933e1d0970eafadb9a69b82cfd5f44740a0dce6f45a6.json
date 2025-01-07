@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"creatorContract","internalType":"address","type":"address","indexed":true},{"name":"claimIndex","internalType":"uint224","type":"uint224","indexed":true},{"name":"initializer","internalType":"address","type":"address","indexed":false}],"name":"ClaimInitialized"}]

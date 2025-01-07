@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"resFeed","internalType":"contract AggregatorV3Interface","type":"address"}],"name":"updateOracleAddress","outputs":[],"stateMutability":"nonpayable"}]

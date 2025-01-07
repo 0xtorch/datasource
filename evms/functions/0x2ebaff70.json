@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"questId","internalType":"uint64","type":"uint64"},{"name":"answer","internalType":"uint64","type":"uint64"}],"name":"submit","outputs":[],"stateMutability":"nonpayable"}]

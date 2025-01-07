@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"newPendingOwner","internalType":"address payable","type":"address"}],"name":"_setPendingOwner","outputs":[],"stateMutability":"nonpayable"}]

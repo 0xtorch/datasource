@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"toAddAddresses_","internalType":"address[]","type":"address[]"},{"name":"fees_","internalType":"uint256[]","type":"uint256[]"}],"name":"setNftQuestFeeList","outputs":[],"stateMutability":"nonpayable"}]

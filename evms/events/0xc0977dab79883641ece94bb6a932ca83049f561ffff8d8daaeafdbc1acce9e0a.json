@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"airnode","internalType":"address","type":"address","indexed":true},{"name":"requestId","internalType":"bytes32","type":"bytes32","indexed":true},{"name":"data","internalType":"bytes","type":"bytes","indexed":false}],"name":"FulfilledRequest"}]

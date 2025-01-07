@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"authority","internalType":"contract IRomeAuthority","type":"address","indexed":true}],"name":"AuthorityUpdated"},{"type":"event","anonymous":false,"inputs":[{"name":"authority","internalType":"contract IAuthority","type":"address","indexed":false}],"name":"AuthorityUpdated"}]

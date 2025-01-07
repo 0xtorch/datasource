@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"wallet","internalType":"address","type":"address"},{"name":"amountInWei","internalType":"uint256","type":"uint256"}],"name":"setBaseFeeForWallet","outputs":[],"stateMutability":"nonpayable"}]

@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"appID","internalType":"string","type":"string","indexed":false},{"name":"oldApp","internalType":"address","type":"address","indexed":true},{"name":"newApp","internalType":"address","type":"address","indexed":true}],"name":"UpgradeApp"}]

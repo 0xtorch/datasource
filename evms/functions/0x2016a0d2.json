@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_asset","internalType":"address","type":"address"},{"name":"_enforceHub","internalType":"address","type":"address"},{"name":"_name","internalType":"string","type":"string"},{"name":"_symbol","internalType":"string","type":"string"}],"name":"initialize","outputs":[],"stateMutability":"nonpayable"}]

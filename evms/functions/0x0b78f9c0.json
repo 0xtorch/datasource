@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_poolId","internalType":"uint256","type":"uint256"},{"name":"_mintFeeBP","internalType":"uint256","type":"uint256"}],"name":"setFees","outputs":[],"stateMutability":"nonpayable"}]

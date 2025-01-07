@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"executor","type":"address","indexed":true},{"name":"script","type":"bytes","indexed":false},{"name":"input","type":"bytes","indexed":false},{"name":"returnData","type":"bytes","indexed":false}],"name":"ScriptResult"}]

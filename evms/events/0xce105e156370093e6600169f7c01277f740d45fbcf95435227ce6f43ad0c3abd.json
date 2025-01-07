@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"dstEid","internalType":"uint32","type":"uint32","indexed":false},{"name":"credits","internalType":"struct Credit[]","type":"tuple[]","components":[{"name":"srcEid","internalType":"uint32","type":"uint32"},{"name":"amount","internalType":"uint64","type":"uint64"}],"indexed":false}],"name":"CreditsSent"}]

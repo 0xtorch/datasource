@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"","internalType":"address","type":"address"}],"name":"addressToPoolId","outputs":[{"name":"","internalType":"uint80","type":"uint80"}],"stateMutability":"view"}]

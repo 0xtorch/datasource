@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"catTokenId","internalType":"uint256","type":"uint256"}],"name":"getCoins","outputs":[{"name":"","internalType":"uint256[]","type":"uint256[]"}],"stateMutability":"view"}]

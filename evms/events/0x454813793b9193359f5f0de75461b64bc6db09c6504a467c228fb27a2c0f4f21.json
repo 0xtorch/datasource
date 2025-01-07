@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"token","internalType":"address","type":"address","indexed":false},{"name":"fundingLongRate","internalType":"int256","type":"int256","indexed":false},{"name":"fundingShortRate","internalType":"int256","type":"int256","indexed":false}],"name":"UpdateFundingRate"}]

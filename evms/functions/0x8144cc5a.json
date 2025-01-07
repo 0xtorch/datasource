@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"collectionId","internalType":"uint256","type":"uint256"},{"name":"name","internalType":"string","type":"string"},{"name":"symbol","internalType":"string","type":"string"}],"name":"computeCollectionAddress","outputs":[{"name":"","internalType":"address","type":"address"}],"stateMutability":"view"}]

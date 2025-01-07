@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[],"name":"getTokenRates","outputs":[{"name":"rate0","internalType":"uint256","type":"uint256"},{"name":"rate1","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

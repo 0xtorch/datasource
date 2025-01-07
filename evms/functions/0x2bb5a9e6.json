@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[],"name":"ownershipStatus","outputs":[{"name":"","internalType":"enum IOwnableTwoSteps.Status","type":"uint8"}],"stateMutability":"view"}]

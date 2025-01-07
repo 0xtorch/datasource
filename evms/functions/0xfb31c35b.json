@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"mintRound","internalType":"uint256","type":"uint256"},{"name":"totalMints","internalType":"uint256","type":"uint256"},{"name":"startTimestamp","internalType":"uint256","type":"uint256"},{"name":"freeMintExpiryTimestamp","internalType":"uint256","type":"uint256"}],"name":"startMintRound","outputs":[],"stateMutability":"nonpayable"}]

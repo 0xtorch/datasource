@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"","internalType":"enum BlastPenguinTicketID","type":"uint8"}],"name":"presalePhase","outputs":[{"name":"","internalType":"bool","type":"bool"}],"stateMutability":"view"}]

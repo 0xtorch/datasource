@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"","internalType":"uint64","type":"uint64"},{"name":"","internalType":"address","type":"address"}],"name":"whitelistedSenders","outputs":[{"name":"","internalType":"bool","type":"bool"}],"stateMutability":"view"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"account","internalType":"address","type":"address"},{"name":"orderHash","internalType":"bytes32","type":"bytes32"}],"name":"preSignedOrders","outputs":[{"name":"preSigned","internalType":"bool","type":"bool"}],"stateMutability":"view"}]

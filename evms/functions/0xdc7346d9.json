@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_to","internalType":"address","type":"address"},{"name":"types","internalType":"uint256[]","type":"uint256[]"}],"name":"devMint","outputs":[],"stateMutability":"nonpayable"}]

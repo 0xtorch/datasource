@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"tokenId","internalType":"uint256","type":"uint256","indexed":true},{"name":"tokenMemeTextTop","internalType":"string","type":"string","indexed":false},{"name":"tokenMemeTextBottom","internalType":"string","type":"string","indexed":false}],"name":"MemeChange"}]

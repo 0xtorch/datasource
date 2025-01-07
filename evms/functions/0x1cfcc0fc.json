@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_chainIds","internalType":"uint64[]","type":"uint64[]"},{"name":"_remotes","internalType":"address[]","type":"address[]"}],"name":"setRemotes","outputs":[],"stateMutability":"nonpayable"}]

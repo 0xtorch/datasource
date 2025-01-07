@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"gid","internalType":"uint16","type":"uint16"},{"name":"bracketSize","internalType":"uint16","type":"uint16"}],"name":"changeGSBracketSizes","outputs":[],"stateMutability":"nonpayable"}]

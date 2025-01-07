@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[],"name":"getTimeBeforeNextBurn","outputs":[{"name":"timeBeforeBurn","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

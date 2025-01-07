@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[],"name":"pendingDefaultAdmin","outputs":[{"name":"newAdmin","internalType":"address","type":"address"},{"name":"schedule","internalType":"uint48","type":"uint48"}],"stateMutability":"view"}]

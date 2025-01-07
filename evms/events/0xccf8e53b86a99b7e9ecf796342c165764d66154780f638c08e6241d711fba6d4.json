@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"redeemer","internalType":"address","type":"address","indexed":false},{"name":"feeAmount","internalType":"uint256","type":"uint256","indexed":false},{"name":"redeemTokens","internalType":"uint256","type":"uint256","indexed":false}],"name":"RedeemFee"}]

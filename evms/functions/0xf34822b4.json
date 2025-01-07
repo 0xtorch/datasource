@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_name","internalType":"string","type":"string"},{"name":"_signer","internalType":"address","type":"address"},{"name":"_operations","internalType":"address","type":"address"},{"name":"_router","internalType":"address","type":"address"}],"name":"initialize","outputs":[],"stateMutability":"nonpayable"}]

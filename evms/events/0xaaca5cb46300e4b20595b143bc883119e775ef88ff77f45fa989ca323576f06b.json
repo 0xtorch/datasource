@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"vectorId","internalType":"uint256","type":"uint256","indexed":true},{"name":"paused","internalType":"bool","type":"bool","indexed":true},{"name":"flexibleData","internalType":"uint128","type":"uint128","indexed":true}],"name":"VectorMetadataSet"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"poolIndex","internalType":"uint256","type":"uint256"},{"name":"limitIndex","internalType":"uint256","type":"uint256"},{"name":"accounts","internalType":"address[]","type":"address[]"}],"name":"setAccountsLimit","outputs":[{"name":"succcess","internalType":"bool","type":"bool"}],"stateMutability":"nonpayable"}]

@@ -1,0 +1,1 @@
+[{"type":"function","constant":true,"inputs":[{"name":"beginDay","internalType":"uint256","type":"uint256"},{"name":"endDay","internalType":"uint256","type":"uint256"}],"name":"dailyDataRange","outputs":[{"name":"list","internalType":"uint256[]","type":"uint256[]"}],"payable":false,"stateMutability":"view"}]

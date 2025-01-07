@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"player","internalType":"address","type":"address","indexed":true},{"name":"pairMint","internalType":"uint256","type":"uint256","indexed":false},{"name":"userMint","internalType":"uint256","type":"uint256","indexed":false}],"name":"MintDGAS"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_signatureDataHash","internalType":"bytes32","type":"bytes32"}],"name":"isSignatureDataUsed","outputs":[{"name":"","internalType":"bool","type":"bool"}],"stateMutability":"view"}]

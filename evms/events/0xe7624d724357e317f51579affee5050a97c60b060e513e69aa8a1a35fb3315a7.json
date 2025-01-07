@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"previousNominee","internalType":"address","type":"address","indexed":true},{"name":"newNominee","internalType":"address","type":"address","indexed":true}],"name":"NomineeUpdate"}]

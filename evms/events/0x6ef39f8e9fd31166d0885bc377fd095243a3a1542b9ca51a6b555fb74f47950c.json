@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"affiliate","internalType":"address","type":"address","indexed":true},{"name":"wad","internalType":"uint128","type":"uint128","indexed":false},{"name":"numMints","internalType":"uint256","type":"uint256","indexed":false}],"name":"Referral"}]

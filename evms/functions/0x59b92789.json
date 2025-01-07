@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"bep2Symbol","internalType":"bytes32","type":"bytes32"}],"name":"getContractAddrByBEP2Symbol","outputs":[{"name":"","internalType":"address","type":"address"}],"stateMutability":"view"}]

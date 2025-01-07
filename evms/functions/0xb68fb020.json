@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"makerTraits","internalType":"MakerTraits","type":"uint256"},{"name":"orderHash","internalType":"bytes32","type":"bytes32"}],"name":"cancelOrder","outputs":[],"stateMutability":"nonpayable"}]

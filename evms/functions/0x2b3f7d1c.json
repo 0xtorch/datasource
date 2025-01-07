@@ -1,0 +1,1 @@
+[{"type":"function","constant":true,"inputs":[{"name":"s","type":"uint256"},{"name":"cnt","type":"uint256"}],"name":"getStakeInfo","outputs":[{"name":"addrList","type":"address[]"},{"name":"uidList","type":"uint256[]"},{"name":"stakeAmountList","type":"uint256[]"}],"payable":false,"stateMutability":"view"}]

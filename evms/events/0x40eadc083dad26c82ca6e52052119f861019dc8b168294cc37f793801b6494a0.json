@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"minSlippageToleranceOfHedge","internalType":"uint256","type":"uint256","indexed":false},{"name":"maxSlippageToleranceOfHedge","internalType":"uint256","type":"uint256","indexed":false},{"name":"hedgeRateOfReturnThreshold","internalType":"uint256","type":"uint256","indexed":false}],"name":"SetHedgeParams"}]

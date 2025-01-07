@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_startExclusive","internalType":"uint8","type":"uint8"},{"name":"_endInclusive","internalType":"uint8","type":"uint8"}],"name":"changePriceVertex","outputs":[],"stateMutability":"nonpayable"}]

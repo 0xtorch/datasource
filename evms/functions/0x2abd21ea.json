@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_number","internalType":"uint256","type":"uint256"},{"name":"_to","internalType":"address","type":"address"},{"name":"_uri","internalType":"string","type":"string"}],"name":"createDragon","outputs":[{"name":"","internalType":"bool","type":"bool"}],"stateMutability":"nonpayable"}]

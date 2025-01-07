@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"level","internalType":"enum TransferSecurityLevels","type":"uint8"},{"name":"operatorWhitelistId","internalType":"uint120","type":"uint120"},{"name":"permittedContractReceiversAllowlistId","internalType":"uint120","type":"uint120"}],"name":"setToCustomSecurityPolicy","outputs":[],"stateMutability":"nonpayable"}]

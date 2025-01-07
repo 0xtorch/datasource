@@ -1,0 +1,1 @@
+[{"type":"function","constant":false,"inputs":[{"name":"tos","internalType":"address[]","type":"address[]"},{"name":"datas","internalType":"bytes[]","type":"bytes[]"}],"name":"batchExec","outputs":[],"payable":true,"stateMutability":"payable"}]

@@ -1,0 +1,1 @@
+[{"type":"function","constant":false,"inputs":[{"name":"marketId","type":"uint256"},{"name":"isClosing","type":"bool"}],"name":"ownerSetIsClosing","outputs":[],"payable":false,"stateMutability":"nonpayable"}]

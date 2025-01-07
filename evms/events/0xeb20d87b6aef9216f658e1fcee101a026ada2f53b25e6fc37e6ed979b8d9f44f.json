@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"addr","type":"address","indexed":false},{"name":"area","type":"uint32","indexed":false},{"name":"start","type":"uint32","indexed":false},{"name":"end","type":"uint32","indexed":false},{"name":"areaCount","type":"uint256","indexed":false}],"name":"Collect"}]

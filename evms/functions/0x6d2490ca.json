@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_calls","internalType":"bytes[]","type":"bytes[]"},{"name":"_updateData","internalType":"bytes[]","type":"bytes[]"}],"name":"batchCall","outputs":[],"stateMutability":"payable"}]

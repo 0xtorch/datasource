@@ -1,0 +1,1 @@
+[{"type":"function","constant":false,"inputs":[{"name":"_guildType","type":"uint16"},{"name":"_purchaseBy","type":"address"}],"name":"addEthToGuildPool","outputs":[],"payable":true,"stateMutability":"payable"}]

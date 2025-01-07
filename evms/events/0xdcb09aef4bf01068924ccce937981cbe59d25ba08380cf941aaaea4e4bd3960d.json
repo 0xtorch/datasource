@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"admin","internalType":"address","type":"address","indexed":true},{"name":"oldComptroller","internalType":"contract ISablierV2Comptroller","type":"address","indexed":false},{"name":"newComptroller","internalType":"contract ISablierV2Comptroller","type":"address","indexed":false}],"name":"SetComptroller"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"users","internalType":"address[]","type":"address[]"},{"name":"flags","internalType":"uint256[]","type":"uint256[]"}],"name":"editBlack","outputs":[],"stateMutability":"nonpayable"}]

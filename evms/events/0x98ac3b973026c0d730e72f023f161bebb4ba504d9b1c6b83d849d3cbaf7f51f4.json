@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"oldAllocator","internalType":"address","type":"address","indexed":false},{"name":"newAllocator","internalType":"address","type":"address","indexed":false}],"name":"ForwardFeeAllocatorUpdate"}]

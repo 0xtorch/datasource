@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"earnings","internalType":"bool","type":"bool"},{"name":"leftover","internalType":"bool","type":"bool"}],"name":"withdrawEarningsAndLeftover","outputs":[],"stateMutability":"nonpayable"}]

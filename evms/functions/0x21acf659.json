@@ -1,0 +1,1 @@
+[{"type":"function","constant":false,"inputs":[{"name":"candidate","internalType":"address","type":"address"},{"name":"status","internalType":"bool","type":"bool"}],"name":"setPartner","outputs":[],"payable":false,"stateMutability":"nonpayable"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_tokenContract","internalType":"address","type":"address"},{"name":"_destination","internalType":"string","type":"string"},{"name":"_amount","internalType":"uint256","type":"uint256"}],"name":"sendToCosmos","outputs":[],"stateMutability":"nonpayable"}]

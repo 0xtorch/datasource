@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_BufferInSecondsToSet","internalType":"uint256","type":"uint256"}],"name":"setPriceBufferInSeconds","outputs":[],"stateMutability":"nonpayable"}]

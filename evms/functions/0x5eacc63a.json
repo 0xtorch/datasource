@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"openseaTrades","internalType":"struct BlurSwap.OpenseaTrades[]","type":"tuple[]","components":[{"name":"value","internalType":"uint256","type":"uint256"},{"name":"tradeData","internalType":"bytes","type":"bytes"}]}],"name":"batchBuyFromOpenSea","outputs":[],"stateMutability":"payable"}]

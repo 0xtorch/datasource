@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"","internalType":"enum Minter.NFTLevel","type":"uint8"}],"name":"nftContracts","outputs":[{"name":"","internalType":"address","type":"address"}],"stateMutability":"view"}]

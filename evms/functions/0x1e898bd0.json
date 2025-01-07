@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_axieIds","internalType":"uint256[]","type":"uint256[]"},{"name":"_hoppingAxieIds","internalType":"uint256[]","type":"uint256[]"}],"name":"setHoppingAxieIds","outputs":[],"stateMutability":"nonpayable"}]

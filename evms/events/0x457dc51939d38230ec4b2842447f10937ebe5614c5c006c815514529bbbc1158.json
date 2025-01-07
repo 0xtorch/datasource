@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"pair","internalType":"address","type":"address","indexed":true},{"name":"value","internalType":"bool","type":"bool","indexed":true}],"name":"SetAutomatedMarketMakerPairV3"}]

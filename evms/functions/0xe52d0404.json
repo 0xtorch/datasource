@@ -1,0 +1,1 @@
+[{"type":"function","constant":true,"inputs":[{"name":"_index","type":"uint32"}],"name":"addressOfIndex","outputs":[{"name":"","type":"address"}],"payable":false,"stateMutability":"view"}]

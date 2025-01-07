@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"certificateId","internalType":"uint256","type":"uint256","indexed":true},{"name":"newCertificateId","internalType":"uint256","type":"uint256","indexed":true}],"name":"CertificateSplit"}]

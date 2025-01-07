@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_maxRewardClaimWhenDollarPriceLessThanOne","internalType":"uint256","type":"uint256"},{"name":"_maxWithdrawWhenDollarPriceLessThanOne","internalType":"uint256","type":"uint256"}],"name":"setMaxClaimAndWithdraw","outputs":[],"stateMutability":"nonpayable"}]

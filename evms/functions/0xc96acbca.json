@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"creator","internalType":"address","type":"address"},{"name":"nonce","internalType":"uint96","type":"uint96"}],"name":"predictNFTCollectionAddress","outputs":[{"name":"collection","internalType":"address","type":"address"}],"stateMutability":"view"}]

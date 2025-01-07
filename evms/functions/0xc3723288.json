@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_user","internalType":"address","type":"address"},{"name":"_lpAmount","internalType":"uint256","type":"uint256"}],"name":"onReward","outputs":[{"name":"rewards","internalType":"uint256[]","type":"uint256[]"}],"stateMutability":"nonpayable"}]

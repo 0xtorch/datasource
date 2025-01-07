@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"listingId","internalType":"uint40","type":"uint40"},{"name":"bidIndex","internalType":"uint256","type":"uint256"}],"name":"deliver","outputs":[],"stateMutability":"payable"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"uri","internalType":"string","type":"string"},{"name":"host","internalType":"address","type":"address"}],"name":"createEvent","outputs":[{"name":"","internalType":"uint256","type":"uint256"}],"stateMutability":"payable"}]

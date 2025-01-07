@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"makerTraits","internalType":"MakerTraits","type":"uint256"},{"name":"additionalMask","internalType":"uint256","type":"uint256"}],"name":"bitsInvalidateForOrder","outputs":[],"stateMutability":"nonpayable"}]

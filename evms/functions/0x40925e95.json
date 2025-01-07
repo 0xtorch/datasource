@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"dstChainId","internalType":"uint16","type":"uint16"},{"name":"dstAddress","internalType":"address","type":"address"},{"name":"recipient","internalType":"address","type":"address"},{"name":"message","internalType":"string","type":"string"}],"name":"sendMessage","outputs":[],"stateMutability":"payable"}]

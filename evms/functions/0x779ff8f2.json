@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_bridge","internalType":"enum IPortfolioBridge.BridgeProvider","type":"uint8"}],"name":"isBridgeProviderEnabled","outputs":[{"name":"","internalType":"bool","type":"bool"}],"stateMutability":"view"}]

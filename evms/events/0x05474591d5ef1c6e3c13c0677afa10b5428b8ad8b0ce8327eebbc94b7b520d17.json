@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"cardId","internalType":"uint256","type":"uint256","indexed":true},{"name":"removedAmount","internalType":"uint256","type":"uint256","indexed":false}],"name":"CardRemoved"}]

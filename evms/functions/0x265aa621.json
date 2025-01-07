@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"","internalType":"uint256","type":"uint256"}],"name":"nfts","outputs":[{"name":"contractAddr","internalType":"address","type":"address"},{"name":"tokenId","internalType":"uint256","type":"uint256"},{"name":"amount","internalType":"uint256","type":"uint256"},{"name":"claimed","internalType":"bool","type":"bool"}],"stateMutability":"view"}]

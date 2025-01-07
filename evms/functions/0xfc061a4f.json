@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_totalFee","internalType":"uint256","type":"uint256"},{"name":"_alpha","internalType":"uint256","type":"uint256"},{"name":"_beta","internalType":"uint256","type":"uint256"}],"name":"updateFee","outputs":[],"stateMutability":"nonpayable"}]

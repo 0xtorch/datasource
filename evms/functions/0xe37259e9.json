@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_rewardsPerSecond","internalType":"uint256","type":"uint256"},{"name":"_rewardToken","internalType":"address","type":"address"},{"name":"_veContract","internalType":"address","type":"address"},{"name":"_endingTimeCadence","internalType":"uint256","type":"uint256"}],"name":"initialize","outputs":[],"stateMutability":"nonpayable"}]

@@ -1,0 +1,1 @@
+[{"type":"function","constant":true,"inputs":[],"name":"EIP712_TOKEN_TRANSFER_ORDER_SCHEMA_HASH","outputs":[{"name":"","internalType":"bytes32","type":"bytes32"}],"payable":false,"stateMutability":"view"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"assetAddr","internalType":"address","type":"address"},{"name":"newWithdrawFee","internalType":"uint16","type":"uint16"}],"name":"setWithdrawFee","outputs":[],"stateMutability":"nonpayable"}]

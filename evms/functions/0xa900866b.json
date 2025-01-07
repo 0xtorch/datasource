@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"contractOfferer","internalType":"address","type":"address"}],"name":"getContractOffererNonce","outputs":[{"name":"nonce","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

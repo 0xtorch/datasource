@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"minters","internalType":"address[]","type":"address[]"}],"name":"grantMinterMass","outputs":[],"stateMutability":"nonpayable"}]

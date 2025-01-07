@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_newBufferTarget","internalType":"struct WithdrawQueueStorageV1.TokenWithdrawBuffer[]","type":"tuple[]","components":[{"name":"asset","internalType":"address","type":"address"},{"name":"bufferAmount","internalType":"uint256","type":"uint256"}]}],"name":"updateWithdrawBufferTarget","outputs":[],"stateMutability":"nonpayable"}]

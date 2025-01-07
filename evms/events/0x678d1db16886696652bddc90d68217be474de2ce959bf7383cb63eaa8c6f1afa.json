@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"target","type":"address","indexed":true},{"name":"sender","type":"address","indexed":false},{"name":"message","type":"bytes","indexed":false},{"name":"messageNonce","type":"uint256","indexed":false},{"name":"gasLimit","type":"uint256","indexed":false},{"name":"chainId","type":"uint256","indexed":false}],"name":"SentMessage"}]

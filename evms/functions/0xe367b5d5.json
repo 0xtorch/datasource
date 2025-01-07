@@ -1,0 +1,1 @@
+[{"type":"function","constant":true,"inputs":[{"name":"","type":"address"}],"name":"Games","outputs":[{"name":"ETHFee","type":"uint256"},{"name":"limitETHFee","type":"uint256"},{"name":"limitHBWALLETFee","type":"uint256"},{"name":"hightLightFee","type":"uint256"}],"payable":false,"stateMutability":"view"}]

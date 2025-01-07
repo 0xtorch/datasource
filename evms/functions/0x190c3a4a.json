@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[],"name":"variableRatePrincipal","outputs":[{"name":"principal","internalType":"uint256","type":"uint256"},{"name":"principalTimespan","internalType":"uint256","type":"uint256"},{"name":"checkpointTimestamp","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

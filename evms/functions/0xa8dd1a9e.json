@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"amount","internalType":"uint256","type":"uint256"},{"name":"weights","internalType":"uint256[]","type":"uint256[]"},{"name":"registration","internalType":"bool","type":"bool"}],"name":"depositErc20AndRegisterForAutoRollover","outputs":[],"stateMutability":"nonpayable"}]

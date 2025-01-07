@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"rewards","internalType":"uint256","type":"uint256"},{"name":"liquidity","internalType":"uint256","type":"uint256"},{"name":"sellingMult","internalType":"uint256","type":"uint256"}],"name":"partyTime","outputs":[],"stateMutability":"nonpayable"}]

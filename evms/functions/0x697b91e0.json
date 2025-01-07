@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_rescueOrders","internalType":"uint256[]","type":"uint256[]"},{"name":"_oldTokenIds","internalType":"uint256[]","type":"uint256[]"}],"name":"batchReWrap","outputs":[],"stateMutability":"nonpayable"}]

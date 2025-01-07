@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"transferToken","internalType":"address","type":"address"},{"name":"amount","internalType":"uint256","type":"uint256"}],"name":"getWormholeFinalAmount","outputs":[{"name":"","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

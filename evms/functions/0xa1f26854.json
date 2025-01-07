@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"tokenOut","internalType":"address","type":"address"},{"name":"poolAmountIn","internalType":"uint256","type":"uint256"},{"name":"minAmountOut","internalType":"uint256","type":"uint256"}],"name":"exitswapPoolAmountInMMM","outputs":[{"name":"tokenAmountOut","internalType":"uint256","type":"uint256"}],"stateMutability":"nonpayable"}]

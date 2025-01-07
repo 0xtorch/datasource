@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_saleNft","internalType":"contract ISaleNft","type":"address"}],"name":"setSaleNft","outputs":[],"stateMutability":"nonpayable"}]

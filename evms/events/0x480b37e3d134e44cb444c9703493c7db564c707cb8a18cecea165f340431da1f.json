@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"verifier","internalType":"contract IVerifier","type":"address","indexed":true}],"name":"VerifierSet"}]

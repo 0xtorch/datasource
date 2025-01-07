@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_bundle","internalType":"uint8","type":"uint8"},{"name":"_price","internalType":"uint256","type":"uint256"}],"name":"changePriceBundle","outputs":[],"stateMutability":"nonpayable"}]

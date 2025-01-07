@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"newThreshold","internalType":"uint8","type":"uint8"}],"name":"updateThreshold","outputs":[{"name":"success","internalType":"bool","type":"bool"}],"stateMutability":"nonpayable"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_id","internalType":"uint256","type":"uint256"},{"name":"_tokenMax","internalType":"uint16","type":"uint16"}],"name":"setTokenMax","outputs":[],"stateMutability":"nonpayable"}]

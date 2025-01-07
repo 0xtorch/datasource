@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"yieldBooster_","internalType":"contract IYieldBooster","type":"address"}],"name":"setYieldBooster","outputs":[],"stateMutability":"nonpayable"}]

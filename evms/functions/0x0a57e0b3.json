@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"tokenId","internalType":"uint256","type":"uint256"},{"name":"petId","internalType":"uint8","type":"uint8"}],"name":"setPet","outputs":[],"stateMutability":"nonpayable"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"campaignIds","internalType":"bytes16[]","type":"bytes16[]"}],"name":"cancelCampaigns","outputs":[],"stateMutability":"nonpayable"}]

@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"tick","internalType":"int24","type":"int24","indexed":false}],"name":"VAMMPriceChange"}]

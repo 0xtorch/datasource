@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[],"name":"getLegacyRouter","outputs":[{"name":"legacyRouter","internalType":"contract ILBLegacyRouter","type":"address"}],"stateMutability":"view"}]

@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"rootValidator","internalType":"ValidationId","type":"bytes21","indexed":false}],"name":"RootValidatorUpdated"}]

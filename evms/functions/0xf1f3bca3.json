@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"selling","internalType":"bool","type":"bool"}],"name":"getTotalFee","outputs":[{"name":"","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

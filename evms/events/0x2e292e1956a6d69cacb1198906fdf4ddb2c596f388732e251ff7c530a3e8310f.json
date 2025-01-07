@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"handler","internalType":"address","type":"address","indexed":true}],"name":"HandlerRemoved"},{"type":"event","anonymous":false,"inputs":[{"name":"handler","internalType":"address","type":"address","indexed":false}],"name":"HandlerRemoved"}]

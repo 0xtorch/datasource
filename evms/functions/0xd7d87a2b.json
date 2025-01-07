@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"worldId","internalType":"uint256","type":"uint256"},{"name":"defaultTakeRateInBasisPoints","internalType":"uint16","type":"uint16"}],"name":"setDefaultTakeRate","outputs":[],"stateMutability":"nonpayable"}]

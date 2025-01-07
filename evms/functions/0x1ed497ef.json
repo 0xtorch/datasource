@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"hashedURIData","internalType":"bytes","type":"bytes"},{"name":"hashedRotationData","internalType":"bytes","type":"bytes"},{"name":"_supply","internalType":"uint256","type":"uint256"}],"name":"emitHashedMetadataConfigSet","outputs":[],"stateMutability":"nonpayable"}]

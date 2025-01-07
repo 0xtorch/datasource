@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[],"name":"poolSnapshot","outputs":[{"name":"futureBaseFundingRate","internalType":"int128","type":"int128"},{"name":"ethVariance","internalType":"int128","type":"int128"},{"name":"ethPrice","internalType":"int128","type":"int128"},{"name":"lastSnapshotTime","internalType":"uint128","type":"uint128"}],"stateMutability":"view"}]

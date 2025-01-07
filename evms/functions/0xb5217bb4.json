@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"tokenId","internalType":"bytes32","type":"bytes32"}],"name":"pools","outputs":[{"name":"","internalType":"contract Pool","type":"address"}],"stateMutability":"view"}]

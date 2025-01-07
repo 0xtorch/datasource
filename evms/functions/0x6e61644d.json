@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"tokenId","internalType":"uint256","type":"uint256"},{"name":"style","internalType":"uint256","type":"uint256"}],"name":"visitPlasticSurgeon","outputs":[],"stateMutability":"nonpayable"}]

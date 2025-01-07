@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"i","type":"uint256"},{"name":"j","type":"uint256"},{"name":"out_amount","type":"uint256"}],"name":"get_dydx","outputs":[{"name":"","type":"uint256"},{"name":"","type":"uint256"}],"stateMutability":"view"}]

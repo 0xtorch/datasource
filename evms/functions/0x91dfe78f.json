@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"providerAddress","internalType":"address","type":"address"},{"name":"valid","internalType":"bool","type":"bool"}],"name":"setRollupProvider","outputs":[],"stateMutability":"nonpayable"}]

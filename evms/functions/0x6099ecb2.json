@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"user","internalType":"address","type":"address"},{"name":"depositId","internalType":"uint256","type":"uint256"}],"name":"pendingRewards","outputs":[{"name":"reward","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

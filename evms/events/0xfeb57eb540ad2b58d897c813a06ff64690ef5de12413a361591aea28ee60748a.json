@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"implementation","type":"address","indexed":true},{"name":"version","type":"string","indexed":false}],"name":"Upgraded"}]

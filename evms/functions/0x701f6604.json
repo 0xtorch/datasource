@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_inputToken","internalType":"address","type":"address"},{"name":"_outputToken","internalType":"address","type":"address"},{"name":"_tokenAmount","internalType":"uint256","type":"uint256"}],"name":"exchangeRate","outputs":[{"name":"","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

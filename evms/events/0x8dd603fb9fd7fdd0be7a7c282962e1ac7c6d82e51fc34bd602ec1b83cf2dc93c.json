@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"vaultId","internalType":"uint256","type":"uint256","indexed":true},{"name":"nftIds","internalType":"uint256[]","type":"uint256[]","indexed":false},{"name":"d2Amount","internalType":"uint256","type":"uint256","indexed":false},{"name":"sender","internalType":"address","type":"address","indexed":false}],"name":"Redeem"}]

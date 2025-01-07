@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[],"name":"oAppVersion","outputs":[{"name":"senderVersion","internalType":"uint64","type":"uint64"},{"name":"receiverVersion","internalType":"uint64","type":"uint64"}],"stateMutability":"pure"}]

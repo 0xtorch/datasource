@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"GR_top_band","internalType":"uint256","type":"uint256","indexed":false},{"name":"GR_bottom_band","internalType":"uint256","type":"uint256","indexed":false}],"name":"GrowthRatioBandSet"}]

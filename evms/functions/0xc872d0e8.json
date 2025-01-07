@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_payoutAddresses","internalType":"address[]","type":"address[]"},{"name":"_payoutBasisPoints","internalType":"uint256[]","type":"uint256[]"}],"name":"updatePayoutAddressesAndBasisPoints","outputs":[],"stateMutability":"nonpayable"}]

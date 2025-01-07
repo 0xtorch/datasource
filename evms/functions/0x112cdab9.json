@@ -1,0 +1,1 @@
+[{"type":"function","constant":true,"inputs":[{"name":"","internalType":"address","type":"address"}],"name":"aggregators","outputs":[{"name":"","internalType":"contract AggregatorV3Interface","type":"address"}],"payable":false,"stateMutability":"view"}]

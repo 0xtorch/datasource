@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"_signedMessage","internalType":"bytes","type":"bytes","indexed":false}],"name":"VerifiedSignature"}]

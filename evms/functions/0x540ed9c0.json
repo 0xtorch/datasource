@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"id","internalType":"uint256","type":"uint256"}],"name":"getERC20TokenAddress","outputs":[{"name":"","internalType":"address","type":"address"}],"stateMutability":"view"}]

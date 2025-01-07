@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"auctionId","internalType":"uint256","type":"uint256"},{"name":"iterationSteps","internalType":"uint256","type":"uint256"}],"name":"precalculateSellAmountSum","outputs":[],"stateMutability":"nonpayable"}]

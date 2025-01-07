@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"schema","internalType":"bytes32","type":"bytes32","indexed":false},{"name":"attestId","internalType":"bytes32","type":"bytes32","indexed":false}],"name":"AttestRevoke"}]

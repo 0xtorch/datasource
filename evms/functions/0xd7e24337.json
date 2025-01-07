@@ -1,0 +1,1 @@
+[{"type":"function","constant":false,"inputs":[{"name":"_implementation","type":"address"},{"name":"_newVersion","type":"string"},{"name":"_data","type":"bytes"}],"name":"upgradeToAndCall","outputs":[],"payable":true,"stateMutability":"payable"}]

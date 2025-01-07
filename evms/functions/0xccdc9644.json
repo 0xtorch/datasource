@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"","internalType":"address","type":"address"}],"name":"liquidityPerUser","outputs":[{"name":"unlockedAmount","internalType":"uint256","type":"uint256"},{"name":"nextIndexForUnlock","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

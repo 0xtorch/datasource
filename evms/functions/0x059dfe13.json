@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"collectionName_","internalType":"string","type":"string"}],"name":"createCollection","outputs":[{"name":"","internalType":"address","type":"address"}],"stateMutability":"nonpayable"}]

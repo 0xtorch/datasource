@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"tokenId","internalType":"uint256","type":"uint256"},{"name":"assetId","internalType":"uint64","type":"uint64"},{"name":"slotPartId","internalType":"uint64","type":"uint64"}],"name":"unequip","outputs":[],"stateMutability":"nonpayable"}]

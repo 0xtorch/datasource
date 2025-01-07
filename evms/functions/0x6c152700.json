@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_rate","internalType":"uint256","type":"uint256"},{"name":"_expiration","internalType":"uint256","type":"uint256"}],"name":"setRateExpiration","outputs":[],"stateMutability":"nonpayable"}]

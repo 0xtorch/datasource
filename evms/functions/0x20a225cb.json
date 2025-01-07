@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[],"name":"getBundles","outputs":[{"name":"AvailableBundles","internalType":"uint256[]","type":"uint256[]"},{"name":"BundlesPrices","internalType":"uint256[]","type":"uint256[]"}],"stateMutability":"view"}]

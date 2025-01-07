@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"suffixURI","internalType":"string","type":"string","indexed":false}],"name":"SuffixURISet"}]

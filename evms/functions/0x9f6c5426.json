@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_startRate","internalType":"uint256","type":"uint256"},{"name":"timeDelta","internalType":"uint256","type":"uint256"}],"name":"getFeeRate","outputs":[{"name":"feeRate","internalType":"uint256","type":"uint256"}],"stateMutability":"pure"}]

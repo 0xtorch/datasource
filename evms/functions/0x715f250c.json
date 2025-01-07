@@ -1,0 +1,1 @@
+[{"type":"function","constant":true,"inputs":[{"name":"key","type":"bytes32"}],"name":"getStoremanFee","outputs":[{"name":"fee","type":"uint256"}],"payable":false,"stateMutability":"view"}]

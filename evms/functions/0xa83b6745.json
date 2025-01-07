@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_root","internalType":"uint256","type":"uint256"}],"name":"rootHashExists","outputs":[{"name":"","internalType":"bool","type":"bool"}],"stateMutability":"view"}]

@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"newCanMint","internalType":"address","type":"address","indexed":true}],"name":"CanMintSet"}]

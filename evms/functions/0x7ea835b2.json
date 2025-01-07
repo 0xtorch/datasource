@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"orderIdArray","internalType":"uint256[]","type":"uint256[]"},{"name":"expiryTimestamp","internalType":"uint48","type":"uint48"},{"name":"signatureArray","internalType":"bytes[]","type":"bytes[]"}],"name":"withdraw","outputs":[],"stateMutability":"nonpayable"}]

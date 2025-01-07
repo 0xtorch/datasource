@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_collectionNumber","internalType":"uint256","type":"uint256"},{"name":"_maxTokensAvailable","internalType":"uint32","type":"uint32"}],"name":"changeMaxTokensAvailable","outputs":[],"stateMutability":"nonpayable"}]

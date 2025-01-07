@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"_oldCeffu","internalType":"address","type":"address","indexed":false},{"name":"_newCeffu","internalType":"address","type":"address","indexed":false}],"name":"UpdateCeffu"}]

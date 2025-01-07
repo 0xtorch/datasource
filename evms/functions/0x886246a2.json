@@ -1,0 +1,1 @@
+[{"type":"function","constant":false,"inputs":[{"name":"_enableReward","internalType":"bool","type":"bool"}],"name":"setEnableReward","outputs":[],"payable":false,"stateMutability":"nonpayable"}]

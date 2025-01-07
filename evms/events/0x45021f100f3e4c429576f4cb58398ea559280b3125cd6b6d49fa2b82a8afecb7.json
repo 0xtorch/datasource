@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"_word","internalType":"string","type":"string","indexed":false}],"name":"RemovedDenyList"}]

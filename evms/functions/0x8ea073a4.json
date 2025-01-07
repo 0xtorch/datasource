@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_packType","internalType":"uint256","type":"uint256"},{"name":"_seller","internalType":"address","type":"address"}],"name":"setSeller","outputs":[],"stateMutability":"nonpayable"}]

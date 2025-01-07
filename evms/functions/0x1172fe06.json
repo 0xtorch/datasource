@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"token1","internalType":"uint256","type":"uint256"},{"name":"token2","internalType":"uint256","type":"uint256"}],"name":"swapProfessions","outputs":[],"stateMutability":"nonpayable"}]

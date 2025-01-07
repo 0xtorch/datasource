@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"subject","internalType":"bytes32","type":"bytes32"},{"name":"index","internalType":"uint256","type":"uint256"}],"name":"isClaimed","outputs":[{"name":"","internalType":"bool","type":"bool"}],"stateMutability":"view"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_dstEid","internalType":"uint32","type":"uint32"},{"name":"_busFare","internalType":"uint80","type":"uint80"},{"name":"_busAndNativeDropFare","internalType":"uint80","type":"uint80"}],"name":"setFares","outputs":[],"stateMutability":"nonpayable"}]

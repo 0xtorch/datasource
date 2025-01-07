@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"adapterId","internalType":"string","type":"string","indexed":false}],"name":"AdapterRemoved"},{"type":"event","anonymous":false,"inputs":[{"name":"aggregatorId","internalType":"string","type":"string","indexed":true}],"name":"AdapterRemoved"}]

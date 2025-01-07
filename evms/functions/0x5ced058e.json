@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"address_","internalType":"bytes32","type":"bytes32"}],"name":"bytes32ToAddress","outputs":[{"name":"","internalType":"address","type":"address"}],"stateMutability":"pure"}]

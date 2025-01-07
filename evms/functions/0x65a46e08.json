@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"seriesIds","internalType":"uint256[]","type":"uint256[]"},{"name":"recipientAddresses","internalType":"address[]","type":"address[]"}],"name":"stopSaleAndTransfer","outputs":[],"stateMutability":"nonpayable"}]

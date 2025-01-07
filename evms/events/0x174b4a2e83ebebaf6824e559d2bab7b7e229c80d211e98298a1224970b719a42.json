@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"dataHash","internalType":"bytes32","type":"bytes32","indexed":true},{"name":"startBlock","internalType":"uint256","type":"uint256","indexed":true},{"name":"endBlock","internalType":"uint256","type":"uint256","indexed":true}],"name":"DataSubmitted"}]

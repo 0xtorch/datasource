@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"tId","internalType":"uint256","type":"uint256"},{"name":"gp","internalType":"int256[2]","type":"int256[2]"},{"name":"nonce","internalType":"uint256","type":"uint256"}],"name":"createCommitment","outputs":[{"name":"","internalType":"bytes32","type":"bytes32"}],"stateMutability":"pure"}]

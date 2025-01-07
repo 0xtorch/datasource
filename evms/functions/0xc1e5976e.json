@@ -1,0 +1,1 @@
+[{"type":"function","constant":true,"inputs":[{"name":"etherKey","internalType":"address","type":"address"}],"name":"getStarkKey","outputs":[{"name":"starkKey","internalType":"uint256","type":"uint256"}],"payable":false,"stateMutability":"view"}]

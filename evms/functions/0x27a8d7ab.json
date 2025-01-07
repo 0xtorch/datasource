@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"__owner","internalType":"address","type":"address"},{"name":"_startingIndex","internalType":"uint256","type":"uint256"},{"name":"_endingIndex","internalType":"uint256","type":"uint256"}],"name":"walletOfOwner","outputs":[{"name":"","internalType":"uint256[]","type":"uint256[]"}],"stateMutability":"view"}]

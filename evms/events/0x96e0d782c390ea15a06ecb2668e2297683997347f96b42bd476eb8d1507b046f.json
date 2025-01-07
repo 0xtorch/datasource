@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"data","internalType":"struct RangoOptimismBridgeFacet.OptimismBridgeInitData[]","type":"tuple[]","components":[{"name":"bridgeAddress","internalType":"address","type":"address"}],"indexed":false}],"name":"OptimismBridgesAdded"}]

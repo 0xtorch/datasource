@@ -1,0 +1,1 @@
+[{"type":"function","constant":false,"inputs":[{"name":"_assetType","internalType":"uint32","type":"uint32"},{"name":"_newUnitCap","internalType":"uint32","type":"uint32"}],"name":"setUnitCap","outputs":[],"payable":false,"stateMutability":"nonpayable"}]

@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"actionId","internalType":"uint256","type":"uint256","indexed":true},{"name":"sourceChainId","internalType":"uint256","type":"uint256","indexed":true},{"name":"isSuccess","internalType":"bool","type":"bool","indexed":true},{"name":"timestamp","internalType":"uint256","type":"uint256","indexed":false}],"name":"ActionTarget"}]

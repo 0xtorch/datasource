@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"point","internalType":"int24","type":"int24"},{"name":"assignX","internalType":"uint128","type":"uint128"}],"name":"assignLimOrderEarnX","outputs":[{"name":"actualAssignX","internalType":"uint128","type":"uint128"}],"stateMutability":"nonpayable"}]

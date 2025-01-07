@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"markets","internalType":"address[]","type":"address[]"},{"name":"account","internalType":"address","type":"address"}],"name":"compound","outputs":[],"stateMutability":"nonpayable"}]

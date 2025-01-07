@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_token","internalType":"address","type":"address"},{"name":"_price","internalType":"uint256","type":"uint256"},{"name":"_status","internalType":"enum Monoswap.PoolStatus","type":"uint8"}],"name":"addSpecialToken","outputs":[{"name":"_pid","internalType":"uint256","type":"uint256"}],"stateMutability":"nonpayable"}]

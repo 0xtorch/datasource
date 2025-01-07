@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"name","internalType":"bytes","type":"bytes"},{"name":"extraData","internalType":"bytes","type":"bytes"}],"name":"upgrade","outputs":[],"stateMutability":"nonpayable"}]

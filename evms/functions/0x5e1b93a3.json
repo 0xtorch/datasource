@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_traitCategory","internalType":"uint256","type":"uint256"},{"name":"_traitIndex","internalType":"uint256","type":"uint256"}],"name":"powerForPart","outputs":[{"name":"","internalType":"uint256","type":"uint256"}],"stateMutability":"pure"}]

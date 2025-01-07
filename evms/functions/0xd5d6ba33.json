@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"token","internalType":"address","type":"address"}],"name":"getERC20ThrottleWithdrawalsCredits","outputs":[{"name":"availableCredits","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"vaultId","internalType":"uint256","type":"uint256"},{"name":"nftIds","internalType":"uint256[]","type":"uint256[]"},{"name":"d2Amount","internalType":"uint256","type":"uint256"}],"name":"mint","outputs":[],"stateMutability":"payable"}]

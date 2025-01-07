@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"mintContract","internalType":"address","type":"address"},{"name":"minter","internalType":"address","type":"address"},{"name":"referrer","internalType":"address","type":"address"},{"name":"quantity","internalType":"uint256","type":"uint256"}],"name":"mintDeposit","outputs":[],"stateMutability":"payable"}]

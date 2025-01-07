@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_a","internalType":"address","type":"address"}],"name":"isOper","outputs":[{"name":"","internalType":"bool","type":"bool"}],"stateMutability":"view"}]

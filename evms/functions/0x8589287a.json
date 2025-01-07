@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"removedValidCallerHash_","internalType":"bytes32","type":"bytes32"}],"name":"removeValidCaller","outputs":[],"stateMutability":"nonpayable"}]

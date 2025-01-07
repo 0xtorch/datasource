@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"hnId","internalType":"uint256","type":"uint256","indexed":true},{"name":"slot","internalType":"string","type":"string","indexed":false},{"name":"datas","internalType":"uint256[]","type":"uint256[]","indexed":false}],"name":"SetDatas"}]

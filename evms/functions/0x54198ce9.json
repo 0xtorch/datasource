@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"account","internalType":"address","type":"address"}],"name":"profitOf","outputs":[{"name":"_usd","internalType":"uint256","type":"uint256"},{"name":"_bunny","internalType":"uint256","type":"uint256"},{"name":"_bnb","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

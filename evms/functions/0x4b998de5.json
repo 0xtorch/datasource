@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"id","internalType":"Id","type":"bytes32"}],"name":"revokePendingMarketRemoval","outputs":[],"stateMutability":"nonpayable"}]

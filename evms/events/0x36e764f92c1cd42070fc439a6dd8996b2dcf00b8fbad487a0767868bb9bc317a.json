@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"to","internalType":"address","type":"address","indexed":true},{"name":"dragonTokenId","internalType":"uint256","type":"uint256","indexed":true},{"name":"dragonEssenceId","internalType":"uint256","type":"uint256","indexed":true}],"name":"GiantDragonMinted"}]

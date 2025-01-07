@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_shares","internalType":"uint256","type":"uint256"},{"name":"_compound","internalType":"bool","type":"bool"}],"name":"redeemGlp","outputs":[{"name":"","internalType":"uint256","type":"uint256"}],"stateMutability":"nonpayable"}]

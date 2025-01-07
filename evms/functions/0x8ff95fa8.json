@@ -1,0 +1,1 @@
+[{"type":"function","constant":true,"inputs":[{"name":"","type":"bytes5"}],"name":"catNames","outputs":[{"name":"","type":"bytes32"}],"payable":false,"stateMutability":"view"}]

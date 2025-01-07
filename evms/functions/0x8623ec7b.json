@@ -1,0 +1,1 @@
+[{"type":"function","constant":true,"inputs":[{"name":"","internalType":"","type":"uint256"}],"name":"minters","outputs":[{"name":"","internalType":"","type":"address"}],"payable":false,"stateMutability":"view"}]

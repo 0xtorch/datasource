@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_pairIndex","internalType":"uint256","type":"uint256"},{"name":"_longSkewConfig","internalType":"uint256[]","type":"uint256[]"},{"name":"_shortSkewConfig","internalType":"uint256[]","type":"uint256[]"}],"name":"setLossProtectionConfig","outputs":[],"stateMutability":"nonpayable"}]

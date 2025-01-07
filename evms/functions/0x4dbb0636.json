@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"consumerChainIds","internalType":"uint32[]","type":"uint32[]"},{"name":"boolChainIds","internalType":"uint32[]","type":"uint32[]"}],"name":"updatePathPair","outputs":[],"stateMutability":"nonpayable"}]

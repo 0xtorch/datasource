@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"slot","internalType":"uint8","type":"uint8"},{"name":"delegate","internalType":"address","type":"address"}],"name":"setSlotDelegate","outputs":[],"stateMutability":"nonpayable"}]

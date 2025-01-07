@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_player","internalType":"address","type":"address"}],"name":"playerStatus","outputs":[{"name":"","internalType":"bool","type":"bool"}],"stateMutability":"view"}]

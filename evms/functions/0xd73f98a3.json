@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_delegator","internalType":"address","type":"address"},{"name":"_isDelegator","internalType":"bool","type":"bool"},{"name":"_limitTimestampForEarlyWithdraw","internalType":"uint40","type":"uint40"}],"name":"updateDelegator","outputs":[],"stateMutability":"nonpayable"}]

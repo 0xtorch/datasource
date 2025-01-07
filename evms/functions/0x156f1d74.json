@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_strike","internalType":"uint256","type":"uint256"},{"name":"_amount","internalType":"uint256","type":"uint256"},{"name":"_expiry","internalType":"uint256","type":"uint256"}],"name":"calculatePremium","outputs":[{"name":"premium","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_petId","internalType":"uint256","type":"uint256"},{"name":"_to","internalType":"address","type":"address"},{"name":"_source","internalType":"uint32","type":"uint32"}],"name":"spawnPAPA","outputs":[],"stateMutability":"nonpayable"}]

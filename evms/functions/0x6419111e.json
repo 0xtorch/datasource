@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"","internalType":"contract ERC20","type":"address"}],"name":"alternativeAssetData","outputs":[{"name":"isSupported","internalType":"bool","type":"bool"},{"name":"holdingPosition","internalType":"uint32","type":"uint32"},{"name":"depositFee","internalType":"uint32","type":"uint32"}],"stateMutability":"view"}]

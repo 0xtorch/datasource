@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"allowedSeaport","internalType":"address[]","type":"address[]"}],"name":"updateAllowedSeaport","outputs":[],"stateMutability":"nonpayable"}]

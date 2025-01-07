@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"vaultAddress","internalType":"address","type":"address","indexed":true},{"name":"isKnockedIn","internalType":"bool","type":"bool","indexed":false}],"name":"BarriersChecked"}]

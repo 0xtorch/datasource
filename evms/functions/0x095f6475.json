@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_poolAddrs","internalType":"address[]","type":"address[]"},{"name":"_userList","internalType":"address[]","type":"address[]"}],"name":"getManyStakingAmounts","outputs":[{"name":"_stakingAmounts","internalType":"uint256[]","type":"uint256[]"}],"stateMutability":"view"}]

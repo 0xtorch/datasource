@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"royaltyData","internalType":"struct RoyaltyLib.RoyaltyData","type":"tuple","components":[{"name":"recipient","internalType":"address","type":"address"},{"name":"bps","internalType":"uint256","type":"uint256"}]},{"name":"freezing","internalType":"bool","type":"bool"}],"name":"setDefaultRoyalty","outputs":[],"stateMutability":"nonpayable"}]

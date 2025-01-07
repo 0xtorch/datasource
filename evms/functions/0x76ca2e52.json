@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"key","internalType":"bytes32","type":"bytes32"},{"name":"amounts","internalType":"uint256[]","type":"uint256[]"},{"name":"deposit","internalType":"bool","type":"bool"}],"name":"calculateSwapTokenAmount","outputs":[{"name":"","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

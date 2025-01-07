@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"newSeeder","internalType":"address","type":"address","indexed":true}],"name":"SeederUpdated"}]

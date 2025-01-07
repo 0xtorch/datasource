@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"node","internalType":"address","type":"address"},{"name":"attestationID","internalType":"bytes32","type":"bytes32"},{"name":"index","internalType":"uint32","type":"uint32"}],"name":"nodeSlash","outputs":[],"stateMutability":"nonpayable"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_adr","internalType":"address","type":"address"},{"name":"_isLiqPair","internalType":"bool","type":"bool"}],"name":"setLiqPair","outputs":[],"stateMutability":"nonpayable"}]

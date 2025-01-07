@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"creatorContractAddress","internalType":"address","type":"address"},{"name":"instanceId","internalType":"uint256","type":"uint256"},{"name":"locationChunk","internalType":"string","type":"string"}],"name":"extendTokenURI","outputs":[],"stateMutability":"nonpayable"}]

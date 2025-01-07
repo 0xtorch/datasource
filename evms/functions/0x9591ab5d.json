@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"proof_","internalType":"bytes32[]","type":"bytes32[]"}],"name":"checkAllowlist","outputs":[{"name":"","internalType":"bool","type":"bool"}],"stateMutability":"view"}]

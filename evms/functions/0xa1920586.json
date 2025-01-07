@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"knightId","internalType":"uint256","type":"uint256"},{"name":"offerValue","internalType":"uint256","type":"uint256"}],"name":"offer","outputs":[],"stateMutability":"payable"}]

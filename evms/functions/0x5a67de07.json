@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_newSaleState","internalType":"enum ISupremeSkulls.SaleState","type":"uint8"}],"name":"setSaleState","outputs":[],"stateMutability":"nonpayable"}]

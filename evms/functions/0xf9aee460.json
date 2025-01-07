@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_allocPoint","internalType":"uint256","type":"uint256"},{"name":"_lpToken","internalType":"contract IERC20","type":"address"},{"name":"_rewarder","internalType":"contract IRewarder","type":"address"},{"name":"_lastRewardTime","internalType":"uint256","type":"uint256"}],"name":"add","outputs":[],"stateMutability":"nonpayable"}]

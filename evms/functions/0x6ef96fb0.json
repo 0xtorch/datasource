@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_mainAccount","internalType":"address","type":"address"},{"name":"_subAccountId","internalType":"uint8","type":"uint8"},{"name":"_orderIndices","internalType":"uint256[]","type":"uint256[]"}],"name":"batchCancelOrders","outputs":[],"stateMutability":"nonpayable"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"pendingOwner","internalType":"address","type":"address"}],"name":"completeOwnershipHandover","outputs":[],"stateMutability":"payable"}]

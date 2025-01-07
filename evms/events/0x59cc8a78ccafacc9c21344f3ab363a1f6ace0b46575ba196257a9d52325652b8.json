@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"hash","internalType":"bytes32","type":"bytes32","indexed":false},{"name":"time","internalType":"uint256","type":"uint256","indexed":false},{"name":"weight","internalType":"uint256","type":"uint256","indexed":false},{"name":"total_weight","internalType":"uint256","type":"uint256","indexed":false}],"name":"NewGaugeWeight"}]

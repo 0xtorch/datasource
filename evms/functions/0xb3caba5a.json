@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_referral","internalType":"contract IReferral","type":"address"}],"name":"setReferralAddress","outputs":[],"stateMutability":"nonpayable"}]

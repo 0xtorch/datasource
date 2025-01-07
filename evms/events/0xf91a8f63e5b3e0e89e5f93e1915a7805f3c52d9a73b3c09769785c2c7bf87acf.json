@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"contractAddr","internalType":"address","type":"address","indexed":true},{"name":"reason","internalType":"string","type":"string","indexed":false}],"name":"unexpectedRevertInPackageHandler"}]

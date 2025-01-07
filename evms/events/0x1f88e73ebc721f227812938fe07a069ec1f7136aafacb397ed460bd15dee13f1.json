@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"use_default_queue","type":"bool","indexed":false}],"name":"UpdateUseDefaultQueue"}]

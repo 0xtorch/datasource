@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"operatorFilterRegistry","internalType":"address","type":"address","indexed":false}],"name":"OperatorFilterRegistryUpdated"},{"type":"event","anonymous":false,"inputs":[{"name":"operatorFilterRegistry","internalType":"contract IOperatorFilterRegistry","type":"address","indexed":true}],"name":"OperatorFilterRegistryUpdated"}]

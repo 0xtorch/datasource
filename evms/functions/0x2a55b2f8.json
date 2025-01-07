@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_staker","internalType":"address","type":"address"},{"name":"_nftId","internalType":"uint256","type":"uint256"}],"name":"getStakedNftIndex","outputs":[{"name":"","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

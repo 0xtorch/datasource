@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"chainID","internalType":"uint256","type":"uint256","indexed":true},{"name":"chainName","internalType":"string","type":"string","indexed":false}],"name":"ChainNameRegistered"}]

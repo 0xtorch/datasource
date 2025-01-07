@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"sender","internalType":"address","type":"address"},{"name":"spender","internalType":"address","type":"address"},{"name":"addedValue","internalType":"uint256","type":"uint256"}],"name":"shareIncreaseAllowance","outputs":[{"name":"newAllowance","internalType":"uint256","type":"uint256"}],"stateMutability":"nonpayable"}]

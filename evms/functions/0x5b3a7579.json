@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[],"name":"getTokenPriceWithCheck","outputs":[{"name":"tokenPrice","internalType":"uint256","type":"uint256"},{"name":"isStale","internalType":"bool","type":"bool"},{"name":"circuitBreakerExpiry","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

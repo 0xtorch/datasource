@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"asset","internalType":"address","type":"address","indexed":true},{"name":"status","internalType":"enum IBaseSilo.AssetStatus","type":"uint8","indexed":true}],"name":"AssetStatusUpdate"}]

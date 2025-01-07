@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_dolphin","internalType":"address","type":"address"},{"name":"_signature","internalType":"bytes","type":"bytes"}],"name":"isDolphin","outputs":[{"name":"","internalType":"bool","type":"bool"}],"stateMutability":"view"}]

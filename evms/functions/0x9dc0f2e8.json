@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"distributor","internalType":"address","type":"address"},{"name":"updateArray","internalType":"bool","type":"bool"}],"name":"removeFeeDistributor","outputs":[],"stateMutability":"nonpayable"}]

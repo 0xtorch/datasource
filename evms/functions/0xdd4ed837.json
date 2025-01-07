@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"calls","internalType":"struct RelayReceiver.Call[]","type":"tuple[]","components":[{"name":"to","internalType":"address","type":"address"},{"name":"data","internalType":"bytes","type":"bytes"},{"name":"value","internalType":"uint256","type":"uint256"}]}],"name":"makeCalls","outputs":[],"stateMutability":"payable"}]

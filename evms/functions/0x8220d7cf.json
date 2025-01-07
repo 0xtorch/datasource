@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_mToken","internalType":"contract MToken","type":"address"}],"name":"updateMarketSupplyIndex","outputs":[],"stateMutability":"nonpayable"}]

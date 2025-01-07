@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"timeLocked","internalType":"uint256","type":"uint256"}],"name":"getLockPoints","outputs":[{"name":"","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

@@ -1,0 +1,1 @@
+[{"type":"function","constant":false,"inputs":[{"name":"_discountFactor","type":"uint256"},{"name":"_ethEmontRate","type":"uint256"}],"name":"setConfig","outputs":[],"payable":false,"stateMutability":"nonpayable"}]

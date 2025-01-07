@@ -1,0 +1,1 @@
+[{"type":"function","constant":false,"inputs":[{"name":"newLiquidityMining","internalType":"address","type":"address"}],"name":"_setLiquidityMining","outputs":[],"payable":false,"stateMutability":"nonpayable"}]

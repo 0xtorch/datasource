@@ -1,0 +1,1 @@
+[{"type":"function","constant":true,"inputs":[{"name":"_objId","type":"uint64"}],"name":"getObjInfo","outputs":[{"name":"classId","type":"uint32"},{"name":"trainee","type":"address"},{"name":"level","type":"uint8"}],"payable":false,"stateMutability":"view"}]

@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"mintExtension","internalType":"address","type":"address","indexed":false},{"name":"allowed","internalType":"bool","type":"bool","indexed":false}],"name":"MintExtensionUpdated"}]

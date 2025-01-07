@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"addrs","internalType":"address[]","type":"address[]"},{"name":"status","internalType":"uint256[]","type":"uint256[]"}],"name":"setUserStatus","outputs":[],"stateMutability":"nonpayable"}]

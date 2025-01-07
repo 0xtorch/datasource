@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"","internalType":"uint256","type":"uint256"}],"name":"bridges","outputs":[{"name":"bridge","internalType":"address","type":"address"},{"name":"enableBridgeTo","internalType":"bool","type":"bool"},{"name":"enableBridgeFrom","internalType":"bool","type":"bool"}],"stateMutability":"view"}]

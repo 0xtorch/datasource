@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"destinationChain","internalType":"string","type":"string"},{"name":"recipient","internalType":"bytes","type":"bytes"},{"name":"amount","internalType":"uint256","type":"uint256"},{"name":"metadata","internalType":"bytes","type":"bytes"}],"name":"interchainTransfer","outputs":[],"stateMutability":"payable"}]

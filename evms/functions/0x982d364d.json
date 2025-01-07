@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"functionSignature","internalType":"bytes4","type":"bytes4"}],"name":"isOpen","outputs":[{"name":"canBeCalled","internalType":"bool","type":"bool"}],"stateMutability":"view"}]

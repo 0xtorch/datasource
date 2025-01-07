@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_rarity","internalType":"uint8","type":"uint8"},{"name":"amount","internalType":"uint256","type":"uint256"}],"name":"setRaritySupplyIncreaseAmount","outputs":[],"stateMutability":"nonpayable"}]

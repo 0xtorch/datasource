@@ -1,0 +1,1 @@
+[{"type":"function","gas":38385,"inputs":[{"name":"_reward_receiver","type":"address"}],"name":"set_reward_receiver","outputs":[],"stateMutability":"nonpayable"}]

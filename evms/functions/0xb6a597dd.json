@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"init","internalType":"struct StakeWeight.Init","type":"tuple","components":[{"name":"admin","internalType":"address","type":"address"},{"name":"config","internalType":"address","type":"address"}]}],"name":"initialize","outputs":[],"stateMutability":"nonpayable"}]

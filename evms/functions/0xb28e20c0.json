@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[],"name":"getPassedUnlocksCount","outputs":[{"name":"_passedUnlocksCount","internalType":"uint16","type":"uint16"}],"stateMutability":"view"}]

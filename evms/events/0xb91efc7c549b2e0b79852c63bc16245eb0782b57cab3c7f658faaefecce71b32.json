@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"values","internalType":"string[]","type":"string[]","indexed":false},{"name":"ids","internalType":"uint256[]","type":"uint256[]","indexed":true}],"name":"BatchURI"}]

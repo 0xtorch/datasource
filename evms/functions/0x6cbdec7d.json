@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[],"name":"splits","outputs":[{"name":"","internalType":"struct SLib.Split[]","type":"tuple[]","components":[{"name":"to","internalType":"address","type":"address"},{"name":"numerator","internalType":"uint16","type":"uint16"},{"name":"denominator","internalType":"uint16","type":"uint16"}]}],"stateMutability":"view"}]

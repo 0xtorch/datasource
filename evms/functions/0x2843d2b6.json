@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_tokenID","internalType":"uint256","type":"uint256"},{"name":"_maxBalancePerUser","internalType":"uint256","type":"uint256"}],"name":"updateMaxBalancePerUser","outputs":[],"stateMutability":"nonpayable"}]

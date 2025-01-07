@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"requestId","internalType":"bytes32","type":"bytes32"}],"name":"requestIsAwaitingFulfillment","outputs":[{"name":"isAwaitingFulfillment","internalType":"bool","type":"bool"}],"stateMutability":"view"}]

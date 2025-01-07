@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"lastTokenId","internalType":"uint256","type":"uint256"}],"name":"assumeLastTokenIdMatches","outputs":[],"stateMutability":"view"}]

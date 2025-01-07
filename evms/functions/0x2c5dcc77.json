@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"treasury_","internalType":"address","type":"address"},{"name":"treasuryFeeRate_","internalType":"uint256","type":"uint256"}],"name":"setTreasury","outputs":[],"stateMutability":"nonpayable"}]

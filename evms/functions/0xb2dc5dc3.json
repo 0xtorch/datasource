@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"account","internalType":"address","type":"address"},{"name":"ids","internalType":"uint256[]","type":"uint256[]"}],"name":"burnBatch","outputs":[],"stateMutability":"nonpayable"}]

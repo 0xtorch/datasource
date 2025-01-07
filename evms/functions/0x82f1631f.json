@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[],"name":"getVaultAvailableAmount","outputs":[{"name":"idleAmount","internalType":"uint256","type":"uint256"},{"name":"investedAmount","internalType":"uint256","type":"uint256"}],"stateMutability":"nonpayable"}]

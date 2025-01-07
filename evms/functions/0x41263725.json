@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"vaultId","internalType":"uint256","type":"uint256"},{"name":"ethMax","internalType":"uint256","type":"uint256"},{"name":"length","internalType":"uint256","type":"uint256"}],"name":"setSupplierBounty","outputs":[],"stateMutability":"nonpayable"}]

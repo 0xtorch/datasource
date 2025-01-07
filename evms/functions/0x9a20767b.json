@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[],"name":"getFictiveReserves","outputs":[{"name":"fictiveReserve0_","internalType":"uint256","type":"uint256"},{"name":"fictiveReserve1_","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

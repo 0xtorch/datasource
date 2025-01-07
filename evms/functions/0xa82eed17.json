@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_inCap","internalType":"bool","type":"bool"}],"name":"massGetGaugeWeight","outputs":[{"name":"result","internalType":"uint256[]","type":"uint256[]"}],"stateMutability":"view"}]

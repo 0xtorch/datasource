@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"pool","internalType":"address","type":"address"}],"name":"isDisableFlashLoan","outputs":[{"name":"","internalType":"bool","type":"bool"}],"stateMutability":"view"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"privateSaleLimit","internalType":"uint256","type":"uint256"},{"name":"publicSaleLimit","internalType":"uint256","type":"uint256"},{"name":"maxWhitelist","internalType":"uint256","type":"uint256"}],"name":"setTransactionLimit","outputs":[],"stateMutability":"nonpayable"}]

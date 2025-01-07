@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"optionMarket","internalType":"address","type":"address"}],"name":"requireNotGlobalPaused","outputs":[],"stateMutability":"view"}]

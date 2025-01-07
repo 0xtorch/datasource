@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"handle","internalType":"string","type":"string"}],"name":"getProfileIdByHandle","outputs":[{"name":"","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

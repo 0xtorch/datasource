@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"oldBaseDescriptionURI","internalType":"string","type":"string"},{"name":"newBaseDescriptionURI","internalType":"string","type":"string"}],"name":"emitBaseDescriptionURISet","outputs":[],"stateMutability":"nonpayable"}]

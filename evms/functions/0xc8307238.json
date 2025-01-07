@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"minters","internalType":"address[]","type":"address[]"},{"name":"enabled","internalType":"bool","type":"bool"}],"name":"setMinters","outputs":[],"stateMutability":"nonpayable"}]

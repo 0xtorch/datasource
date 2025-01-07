@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_magicReward","internalType":"uint256","type":"uint256"}],"name":"getRealMagicReward","outputs":[{"name":"distributedRewards","internalType":"uint256","type":"uint256"},{"name":"undistributedRewards","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

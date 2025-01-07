@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"operator","internalType":"string","type":"string","indexed":true}],"name":"SetOperator"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_projectId","internalType":"uint256","type":"uint256"},{"name":"_pricePerTokenInWei","internalType":"uint256","type":"uint256"}],"name":"updatePricePerTokenInWei","outputs":[],"stateMutability":"nonpayable"}]

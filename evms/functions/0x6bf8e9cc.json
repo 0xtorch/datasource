@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"thisSharePpm","internalType":"uint256","type":"uint256"},{"name":"stackingSharePpm","internalType":"uint256","type":"uint256"}],"name":"setShare","outputs":[],"stateMutability":"nonpayable"}]

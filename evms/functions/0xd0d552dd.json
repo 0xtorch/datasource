@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_asset","internalType":"contract IERC20Metadata","type":"address"}],"name":"setAsset","outputs":[],"stateMutability":"nonpayable"}]

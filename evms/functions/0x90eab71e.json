@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"startId","internalType":"uint256","type":"uint256"},{"name":"endId","internalType":"uint256","type":"uint256"}],"name":"updateLockMultipliers","outputs":[],"stateMutability":"nonpayable"}]

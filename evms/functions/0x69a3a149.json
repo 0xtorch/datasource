@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_downPayment","internalType":"uint256","type":"uint256"},{"name":"_total","internalType":"uint256","type":"uint256"}],"name":"checkMaxLeverage","outputs":[],"stateMutability":"view"}]

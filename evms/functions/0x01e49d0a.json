@@ -1,0 +1,1 @@
+[{"type":"function","constant":false,"inputs":[{"name":"_tokenPeg","internalType":"uint256","type":"uint256"}],"name":"setTokenPeg","outputs":[],"payable":false,"stateMutability":"nonpayable"}]

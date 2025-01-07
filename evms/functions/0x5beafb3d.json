@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"params","internalType":"struct ThrottleLib.Params","type":"tuple","components":[{"name":"amtRate","internalType":"uint256","type":"uint256"},{"name":"pctRate","internalType":"uint192","type":"uint192"}]}],"name":"setIssuanceThrottleParams","outputs":[],"stateMutability":"nonpayable"}]

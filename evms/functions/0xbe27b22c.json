@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"signature_","internalType":"bytes","type":"bytes"},{"name":"data_","internalType":"bytes","type":"bytes"}],"name":"claim","outputs":[],"stateMutability":"payable"}]

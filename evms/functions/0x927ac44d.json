@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_users","internalType":"address[]","type":"address[]"},{"name":"_add","internalType":"bool","type":"bool"}],"name":"editWhitelist","outputs":[],"stateMutability":"nonpayable"}]

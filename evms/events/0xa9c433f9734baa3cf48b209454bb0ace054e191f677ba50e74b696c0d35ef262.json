@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"exchangeRate","internalType":"uint216","type":"uint216","indexed":false}],"name":"ExchangeRateChanged"}]

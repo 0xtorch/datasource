@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"oldBatch","internalType":"address","type":"address","indexed":false},{"name":"newBatch","internalType":"address","type":"address","indexed":false}],"name":"NewJoeBatch"}]

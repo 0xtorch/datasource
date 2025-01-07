@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[],"name":"contractLock","outputs":[{"name":"","internalType":"enum LockStatus","type":"uint8"}],"stateMutability":"view"}]

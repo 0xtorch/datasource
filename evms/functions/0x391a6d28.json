@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"vectorId","internalType":"uint256","type":"uint256"},{"name":"pause","internalType":"bool","type":"bool"},{"name":"flexibleData","internalType":"uint128","type":"uint128"}],"name":"setAbridgedVectorMetadata","outputs":[],"stateMutability":"nonpayable"}]

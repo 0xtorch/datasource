@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_challenger","internalType":"address","type":"address"},{"name":"_enemy","internalType":"address","type":"address"}],"name":"mintRewards","outputs":[],"stateMutability":"nonpayable"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"token0","internalType":"address","type":"address"},{"name":"token1","internalType":"address","type":"address"},{"name":"deadline","internalType":"uint256","type":"uint256"}],"name":"createPairWrapper","outputs":[{"name":"pair","internalType":"address","type":"address"}],"stateMutability":"nonpayable"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"","internalType":"uint16","type":"uint16"},{"name":"","internalType":"bytes","type":"bytes"},{"name":"","internalType":"uint64","type":"uint64"}],"name":"amountsForCall","outputs":[{"name":"amount","internalType":"uint256","type":"uint256"},{"name":"credited","internalType":"bool","type":"bool"}],"stateMutability":"view"}]

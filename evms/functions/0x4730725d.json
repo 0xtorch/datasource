@@ -1,0 +1,1 @@
+[{"type":"function","constant":false,"inputs":[{"name":"addr","type":"address"}],"name":"addToTimeLockedList","outputs":[{"name":"","type":"bool"}],"payable":false,"stateMutability":"nonpayable"}]

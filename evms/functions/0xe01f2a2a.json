@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"","internalType":"address","type":"address"}],"name":"exitStream","outputs":[{"name":"start","internalType":"uint256","type":"uint256"},{"name":"amount","internalType":"uint256","type":"uint256"},{"name":"claimed","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

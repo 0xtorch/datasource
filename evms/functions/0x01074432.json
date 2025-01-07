@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_user","internalType":"address","type":"address"},{"name":"_skinContract","internalType":"address","type":"address"},{"name":"_skinTokenId","internalType":"uint256","type":"uint256"}],"name":"isSkinAvailable","outputs":[{"name":"","internalType":"bool","type":"bool"}],"stateMutability":"view"}]

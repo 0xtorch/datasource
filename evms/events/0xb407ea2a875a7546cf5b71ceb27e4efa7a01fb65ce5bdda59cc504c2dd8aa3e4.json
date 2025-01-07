@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"oldValueMaxTransaction","internalType":"uint256","type":"uint256","indexed":false},{"name":"newValueMaxTransaction","internalType":"uint256","type":"uint256","indexed":false}],"name":"SetMaxTransaction"}]

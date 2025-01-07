@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"delegator","internalType":"address","type":"address","indexed":true},{"name":"isDelegator","internalType":"bool","type":"bool","indexed":false},{"name":"limitTimestampForEarlyWithdraw","internalType":"uint40","type":"uint40","indexed":false}],"name":"UpdateDelegator"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"","internalType":"address","type":"address"}],"name":"feeDiscount","outputs":[{"name":"discountFixBps","internalType":"uint16","type":"uint16"},{"name":"discountTransferBps","internalType":"uint16","type":"uint16"}],"stateMutability":"view"}]

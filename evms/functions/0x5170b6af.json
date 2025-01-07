@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"modelId","internalType":"uint256","type":"uint256"},{"name":"gasLimit","internalType":"uint256","type":"uint256"},{"name":"batchSize","internalType":"uint256","type":"uint256"}],"name":"estimateFeeBatch","outputs":[{"name":"","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

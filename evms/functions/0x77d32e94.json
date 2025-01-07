@@ -1,0 +1,1 @@
+[{"type":"function","constant":true,"inputs":[{"name":"hash","internalType":"bytes32","type":"bytes32"},{"name":"sig","internalType":"bytes","type":"bytes"}],"name":"ecrecovery","outputs":[{"name":"result","internalType":"address","type":"address"}],"payable":false,"stateMutability":"view"}]

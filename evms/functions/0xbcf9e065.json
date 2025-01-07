@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"autoRolloverWeights","internalType":"uint256[]","type":"uint256[]"}],"name":"setAutoRolloverWeights","outputs":[],"stateMutability":"nonpayable"}]

@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"pendingGovernance","type":"address","indexed":true}],"name":"NewPendingGovernance"},{"type":"event","anonymous":false,"inputs":[{"name":"_sender","internalType":"address","type":"address","indexed":false}],"name":"NewPendingGovernance"}]

@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"typehash","internalType":"bytes32","type":"bytes32","indexed":false},{"name":"newFactorA","internalType":"uint64","type":"uint64","indexed":false},{"name":"newFactorB","internalType":"uint64","type":"uint64","indexed":false}],"name":"FactorChanged"}]

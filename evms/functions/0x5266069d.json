@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"","internalType":"address","type":"address"}],"name":"_balanceData","outputs":[{"name":"balance","internalType":"uint32","type":"uint32"}],"stateMutability":"view"}]

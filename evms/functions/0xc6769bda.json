@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"dunkId","internalType":"uint256","type":"uint256"},{"name":"vialId","internalType":"uint256","type":"uint256"}],"name":"equipSkin","outputs":[],"stateMutability":"nonpayable"}]

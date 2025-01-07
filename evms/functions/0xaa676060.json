@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"name_","internalType":"bytes32","type":"bytes32"},{"name":"reason_","internalType":"string","type":"string"}],"name":"getRequiredAddress","outputs":[{"name":"","internalType":"address","type":"address"}],"stateMutability":"view"}]

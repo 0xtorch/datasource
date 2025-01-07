@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"oldToken","internalType":"address","type":"address","indexed":true},{"name":"newToken","internalType":"address","type":"address","indexed":true}],"name":"TokenAddressSet"}]

@@ -1,0 +1,1 @@
+[{"type":"function","constant":false,"inputs":[{"name":"_token","internalType":"contract IERC20","type":"address"},{"name":"_hopesPerDay","internalType":"uint256","type":"uint256"},{"name":"_maxStake","internalType":"uint256","type":"uint256"}],"name":"add","outputs":[],"payable":false,"stateMutability":"nonpayable"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"token","internalType":"address","type":"address"},{"name":"delegatee","internalType":"address","type":"address"}],"name":"delegateAll","outputs":[],"stateMutability":"nonpayable"}]

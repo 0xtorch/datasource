@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"cardId","internalType":"uint256","type":"uint256"},{"name":"additionalSupply","internalType":"uint256","type":"uint256"},{"name":"nftLevel","internalType":"enum ChainbindersMelt.NftLevel","type":"uint8"}],"name":"addCard","outputs":[],"stateMutability":"nonpayable"}]

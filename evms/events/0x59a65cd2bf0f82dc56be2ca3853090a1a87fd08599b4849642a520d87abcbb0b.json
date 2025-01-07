@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"oldOwnerMintable","internalType":"bool","type":"bool","indexed":false},{"name":"newOwnerMintable","internalType":"bool","type":"bool","indexed":false}],"name":"EventUpdateOwnerMintable"}]

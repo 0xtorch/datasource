@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_collectionId","internalType":"uint256","type":"uint256"},{"name":"_price","internalType":"uint256","type":"uint256"},{"name":"_priceGen","internalType":"uint256","type":"uint256"}],"name":"updatePrice","outputs":[],"stateMutability":"nonpayable"}]

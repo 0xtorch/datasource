@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[],"name":"getSlopeInterceptForLpDiscount","outputs":[{"name":"slope","internalType":"int256","type":"int256"},{"name":"intercept","internalType":"int256","type":"int256"}],"stateMutability":"view"}]

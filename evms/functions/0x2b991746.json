@@ -1,0 +1,1 @@
+[{"type":"function","constant":false,"inputs":[{"name":"sender","type":"address"},{"name":"operator","type":"address"},{"name":"id","type":"uint256"}],"name":"approveFor","outputs":[],"payable":false,"stateMutability":"nonpayable"}]

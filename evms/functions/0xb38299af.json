@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_tokenId","internalType":"uint256","type":"uint256"},{"name":"_ratios","internalType":"uint16[]","type":"uint16[]"},{"name":"_accounts","internalType":"address[]","type":"address[]"}],"name":"updatePayment","outputs":[],"stateMutability":"nonpayable"}]

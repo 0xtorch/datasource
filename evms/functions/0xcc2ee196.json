@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[],"name":"getOptions","outputs":[{"name":"up","internalType":"contract IPosition","type":"address"},{"name":"down","internalType":"contract IPosition","type":"address"}],"stateMutability":"view"}]

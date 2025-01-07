@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_key","internalType":"uint256","type":"uint256"},{"name":"_days","internalType":"uint256","type":"uint256"}],"name":"updatePunishTime","outputs":[],"stateMutability":"nonpayable"}]

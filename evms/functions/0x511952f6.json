@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"proxyAddresses","internalType":"address[]","type":"address[]"}],"name":"removeMintProxyAddresses","outputs":[],"stateMutability":"nonpayable"}]

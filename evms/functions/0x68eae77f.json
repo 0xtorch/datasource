@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"ilk","internalType":"address","type":"address"}],"name":"addressContains","outputs":[{"name":"","internalType":"bool","type":"bool"}],"stateMutability":"view"}]

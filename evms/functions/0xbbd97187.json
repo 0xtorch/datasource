@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_tokens","internalType":"address[]","type":"address[]"},{"name":"_averagePrices","internalType":"uint256[]","type":"uint256[]"}],"name":"setInitData","outputs":[],"stateMutability":"nonpayable"}]

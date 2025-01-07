@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"previousStatus","internalType":"bool","type":"bool","indexed":false},{"name":"newStatus","internalType":"bool","type":"bool","indexed":false}],"name":"MarketDeprecationChanged"}]

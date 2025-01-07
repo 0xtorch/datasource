@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"borrowables","internalType":"address[]","type":"address[]"},{"name":"to","internalType":"address","type":"address"}],"name":"massHarvest","outputs":[],"stateMutability":"nonpayable"}]

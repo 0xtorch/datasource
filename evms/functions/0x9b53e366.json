@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[],"name":"TRANCHE_SFI_MULTIPLIER","outputs":[{"name":"S","internalType":"uint256","type":"uint256"},{"name":"AA","internalType":"uint256","type":"uint256"},{"name":"A","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

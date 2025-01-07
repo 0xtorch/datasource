@@ -1,0 +1,1 @@
+[{"type":"function","constant":true,"gas":41676,"inputs":[{"name":"numbs","type":"uint256[100]"}],"name":"calc_total","outputs":[{"name":"out","type":"uint256"}],"payable":false,"stateMutability":"view"}]

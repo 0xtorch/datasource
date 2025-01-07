@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_nftAddress","internalType":"address","type":"address"},{"name":"_creator","internalType":"address","type":"address"},{"name":"_royalty","internalType":"uint16","type":"uint16"},{"name":"_feeRecipient","internalType":"address","type":"address"}],"name":"registerCollectionRoyalty","outputs":[],"stateMutability":"nonpayable"}]

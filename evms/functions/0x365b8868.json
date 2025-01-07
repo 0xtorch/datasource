@@ -1,0 +1,1 @@
+[{"type":"function","constant":true,"inputs":[{"name":"","internalType":"address","type":"address"}],"name":"accountMigrated","outputs":[{"name":"","internalType":"bool","type":"bool"}],"payable":false,"stateMutability":"view"}]

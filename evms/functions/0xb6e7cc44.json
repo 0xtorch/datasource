@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_target","internalType":"address","type":"address"},{"name":"_callArgs","internalType":"bytes","type":"bytes"},{"name":"_amountETH","internalType":"uint256","type":"uint256"}],"name":"callDirectly","outputs":[],"stateMutability":"payable"}]

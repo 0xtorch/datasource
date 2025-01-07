@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_realmId","internalType":"uint256","type":"uint256"},{"name":"_type","internalType":"uint256","type":"uint256"},{"name":"_amount","internalType":"uint256","type":"uint256"}],"name":"addBonus","outputs":[],"stateMutability":"nonpayable"}]

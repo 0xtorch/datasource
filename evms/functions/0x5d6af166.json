@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[],"name":"getInterestRateConfig","outputs":[{"name":"","internalType":"uint72","type":"uint72"},{"name":"","internalType":"uint72","type":"uint72"},{"name":"","internalType":"uint72","type":"uint72"},{"name":"","internalType":"uint16","type":"uint16"}],"stateMutability":"view"}]

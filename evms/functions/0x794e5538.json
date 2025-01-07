@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"token0","internalType":"address","type":"address"},{"name":"token1","internalType":"address","type":"address"}],"name":"getDODOPoolBidirection","outputs":[{"name":"baseToken0Pool","internalType":"address[]","type":"address[]"},{"name":"baseToken1Pool","internalType":"address[]","type":"address[]"}],"stateMutability":"view"}]

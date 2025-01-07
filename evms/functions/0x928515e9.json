@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[],"name":"getMethodIDs","outputs":[{"name":"count","internalType":"uint256","type":"uint256"},{"name":"methodIDs","internalType":"bytes4[]","type":"bytes4[]"}],"stateMutability":"view"}]

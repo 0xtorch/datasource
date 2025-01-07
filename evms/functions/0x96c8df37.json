@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"newInterestOwed","internalType":"uint256","type":"uint256"}],"name":"setInterestOwed","outputs":[],"stateMutability":"nonpayable"}]

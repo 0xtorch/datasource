@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_native","internalType":"address","type":"address"},{"name":"_wrappedNative","internalType":"address","type":"address"}],"name":"setWNativeAddresses","outputs":[],"stateMutability":"nonpayable"}]

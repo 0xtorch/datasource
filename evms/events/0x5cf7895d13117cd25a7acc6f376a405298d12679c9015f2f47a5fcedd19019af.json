@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"harvesterFactory","internalType":"contract IHarvesterFactory","type":"address","indexed":false}],"name":"HarvesterFactory"}]

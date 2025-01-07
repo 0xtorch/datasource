@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_tokenLockAddresses","internalType":"address[]","type":"address[]"}],"name":"removeTokenLocks","outputs":[],"stateMutability":"nonpayable"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"nft","internalType":"contract IERC721","type":"address"},{"name":"recipients","internalType":"address[]","type":"address[]"},{"name":"tokenIds","internalType":"uint256[]","type":"uint256[]"}],"name":"batchSafeTransferFrom","outputs":[],"stateMutability":"nonpayable"}]

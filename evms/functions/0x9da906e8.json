@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"assetToken","internalType":"address","type":"address"},{"name":"assetType","internalType":"enum DataTypes.Asset","type":"uint8"}],"name":"setAssetType","outputs":[],"stateMutability":"nonpayable"}]

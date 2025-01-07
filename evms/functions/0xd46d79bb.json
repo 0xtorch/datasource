@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"payee","internalType":"address payable","type":"address"}],"name":"withdrawAllEth","outputs":[],"stateMutability":"nonpayable"}]

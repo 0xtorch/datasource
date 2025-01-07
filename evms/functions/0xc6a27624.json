@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_poolId","internalType":"uint256","type":"uint256"},{"name":"_feeLibraryAddr","internalType":"address","type":"address"}],"name":"setFeeLibrary","outputs":[],"stateMutability":"nonpayable"}]

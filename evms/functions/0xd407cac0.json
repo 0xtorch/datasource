@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"tier","internalType":"uint256","type":"uint256"},{"name":"rarity","internalType":"uint256[15]","type":"uint256[15]"}],"name":"setCrateRarity","outputs":[],"stateMutability":"nonpayable"}]

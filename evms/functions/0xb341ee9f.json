@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"mintAmount","internalType":"uint256","type":"uint256"},{"name":"maxAmounts","internalType":"uint256[2]","type":"uint256[2]"}],"name":"mint","outputs":[{"name":"amountX","internalType":"uint256","type":"uint256"},{"name":"amountY","internalType":"uint256","type":"uint256"}],"stateMutability":"nonpayable"}]

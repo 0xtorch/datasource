@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_tokenId","internalType":"uint16","type":"uint16"},{"name":"_mintsAllowed","internalType":"uint8","type":"uint8"}],"name":"setTokenPresaleMintsAllowedPerAddress","outputs":[],"stateMutability":"nonpayable"}]

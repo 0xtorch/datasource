@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_txLimit","internalType":"uint256","type":"uint256"}],"name":"setMaxTxLimit","outputs":[],"stateMutability":"nonpayable"}]

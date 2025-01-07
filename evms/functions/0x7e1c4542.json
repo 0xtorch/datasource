@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"addrs","internalType":"address[]","type":"address[]"},{"name":"status","internalType":"bool","type":"bool"}],"name":"setControllers","outputs":[],"stateMutability":"nonpayable"}]

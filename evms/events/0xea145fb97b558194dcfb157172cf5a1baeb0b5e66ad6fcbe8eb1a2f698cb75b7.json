@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"oldFundingRecipient","internalType":"address","type":"address","indexed":true},{"name":"newFundingRecipient","internalType":"address","type":"address","indexed":true}],"name":"FundingRecipientSet"}]

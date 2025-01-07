@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"collectionAddress","internalType":"address","type":"address"}],"name":"collections","outputs":[{"name":"registered","internalType":"bool","type":"bool"},{"name":"isERC721","internalType":"bool","type":"bool"}],"stateMutability":"view"}]

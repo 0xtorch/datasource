@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"destiny","internalType":"address[]","type":"address[]"},{"name":"amounts","internalType":"uint256[]","type":"uint256[]"}],"name":"distributeEther","outputs":[],"stateMutability":"payable"}]

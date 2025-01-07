@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"oldManager","internalType":"address","type":"address","indexed":true},{"name":"newManager","internalType":"address","type":"address","indexed":true}],"name":"EntityManagerSet"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"account","internalType":"address","type":"address"},{"name":"token","internalType":"address","type":"address"},{"name":"targetContract","internalType":"address","type":"address"}],"name":"cancelAllowance","outputs":[],"stateMutability":"nonpayable"}]

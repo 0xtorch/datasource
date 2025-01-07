@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"qToken","internalType":"address","type":"address"},{"name":"supplySpeed","internalType":"uint256","type":"uint256"},{"name":"borrowSpeed","internalType":"uint256","type":"uint256"}],"name":"setDistributionSpeed","outputs":[],"stateMutability":"nonpayable"}]

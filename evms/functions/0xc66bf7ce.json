@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"","internalType":"address","type":"address"}],"name":"userConfiguration","outputs":[{"name":"groupId","internalType":"uint256","type":"uint256"},{"name":"vestAmount","internalType":"uint256","type":"uint256"},{"name":"withdrawnAmount","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"pcId1","internalType":"uint256","type":"uint256","indexed":false},{"name":"pcId2","internalType":"uint256","type":"uint256","indexed":false}],"name":"GalleryArtSwapped"}]

@@ -1,0 +1,1 @@
+[{"type":"function","gas":163012,"inputs":[{"name":"future_A","type":"uint256"},{"name":"future_gamma","type":"uint256"},{"name":"future_time","type":"uint256"}],"name":"ramp_A_gamma","outputs":[],"stateMutability":"nonpayable"}]

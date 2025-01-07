@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"tokenId","internalType":"uint16","type":"uint16"},{"name":"feeTarget","internalType":"address","type":"address"}],"name":"setFeeTarget","outputs":[],"stateMutability":"nonpayable"}]

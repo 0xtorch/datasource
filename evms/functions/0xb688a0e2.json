@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_partId","internalType":"uint256","type":"uint256"}],"name":"getRawPart","outputs":[{"name":"","internalType":"struct IAssetStoreRegistry.Part","type":"tuple","components":[{"name":"body","internalType":"bytes","type":"bytes"},{"name":"color","internalType":"string","type":"string"}]}],"stateMutability":"view"}]

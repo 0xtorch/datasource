@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[],"name":"getV1Factory","outputs":[{"name":"factoryV1","internalType":"contract IJoeFactory","type":"address"}],"stateMutability":"view"}]

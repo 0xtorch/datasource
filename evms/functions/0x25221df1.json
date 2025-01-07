@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"holder","internalType":"address","type":"address"}],"name":"aggregateUnclaimedERC20TokenBalance","outputs":[{"name":"erc20tokens","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

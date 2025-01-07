@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"minOutQ","internalType":"uint256","type":"uint256"}],"name":"getMergeForQ","outputs":[{"name":"inB","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

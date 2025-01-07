@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"attester","internalType":"address","type":"address"},{"name":"enable","internalType":"bool","type":"bool"}],"name":"toggleAttester","outputs":[],"stateMutability":"nonpayable"}]

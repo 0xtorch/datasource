@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"poolHash","internalType":"bytes32","type":"bytes32"},{"name":"amount","internalType":"uint128","type":"uint128"},{"name":"to","internalType":"address","type":"address"}],"name":"claimProtocolFees","outputs":[],"stateMutability":"nonpayable"}]

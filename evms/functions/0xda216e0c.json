@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"feeNumerator","internalType":"uint96","type":"uint96"},{"name":"payee","internalType":"address","type":"address"}],"name":"setDefaultRoyalty","outputs":[],"stateMutability":"nonpayable"}]

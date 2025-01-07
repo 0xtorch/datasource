@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_tokenIds","internalType":"uint256[]","type":"uint256[]"},{"name":"_points","internalType":"uint256[]","type":"uint256[]"}],"name":"initPoints","outputs":[],"stateMutability":"nonpayable"}]

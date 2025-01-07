@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_accounts","internalType":"address[]","type":"address[]"},{"name":"_weights","internalType":"uint96[]","type":"uint96[]"}],"name":"setShareholders","outputs":[],"stateMutability":"nonpayable"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_adapter","internalType":"address","type":"address"}],"name":"adapterIsAvailable","outputs":[{"name":"","internalType":"bool","type":"bool"}],"stateMutability":"view"}]

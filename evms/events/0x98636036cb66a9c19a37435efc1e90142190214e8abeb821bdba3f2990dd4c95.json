@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"sqrtPriceX96","internalType":"uint160","type":"uint160","indexed":false},{"name":"tick","internalType":"int24","type":"int24","indexed":false}],"name":"Initialize"}]

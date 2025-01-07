@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"baseToken","internalType":"address","type":"address","indexed":false},{"name":"quoteToken","internalType":"address","type":"address","indexed":false},{"name":"creator","internalType":"address","type":"address","indexed":false},{"name":"dpp","internalType":"address","type":"address","indexed":false}],"name":"NewDPP"}]

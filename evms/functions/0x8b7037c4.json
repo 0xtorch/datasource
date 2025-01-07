@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_souls","internalType":"address","type":"address"},{"name":"_beasts","internalType":"address","type":"address"}],"name":"setSoulsAndBeasts","outputs":[],"stateMutability":"nonpayable"}]

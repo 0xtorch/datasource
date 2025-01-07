@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"funding","internalType":"uint256","type":"uint256"},{"name":"minExtension","internalType":"uint256","type":"uint256"}],"name":"extendRewardsViaFunding","outputs":[],"stateMutability":"nonpayable"}]

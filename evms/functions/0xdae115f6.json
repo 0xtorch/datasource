@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"round","internalType":"uint256","type":"uint256"}],"name":"roundDeposits","outputs":[{"name":"","internalType":"struct IDnGmxBatchingManager.RoundDeposit","type":"tuple","components":[{"name":"totalUsdc","internalType":"uint128","type":"uint128"},{"name":"totalShares","internalType":"uint128","type":"uint128"}]}],"stateMutability":"view"}]

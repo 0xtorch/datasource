@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"chainIds","internalType":"uint64[]","type":"uint64[]","indexed":false},{"name":"remotes","internalType":"address[]","type":"address[]","indexed":false}],"name":"RemotesUpdated"}]

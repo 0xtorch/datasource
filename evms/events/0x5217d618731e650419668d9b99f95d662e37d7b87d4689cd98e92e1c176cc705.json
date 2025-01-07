@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"burnerAddress","internalType":"address","type":"address","indexed":true},{"name":"burnerStatus","internalType":"bool","type":"bool","indexed":false}],"name":"BurnerStatusUpdated"}]

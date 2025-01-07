@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"newRestrictionsAddress","type":"address","indexed":false},{"name":"updatedBy","type":"address","indexed":false}],"name":"RestrictionsUpdated"}]

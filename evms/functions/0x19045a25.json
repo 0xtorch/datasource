@@ -1,0 +1,1 @@
+[{"type":"function","constant":true,"inputs":[{"name":"_message","internalType":"bytes32","type":"bytes32"},{"name":"_signature","internalType":"bytes","type":"bytes"}],"name":"recover","outputs":[{"name":"","internalType":"address","type":"address"}],"payable":false,"stateMutability":"pure"}]

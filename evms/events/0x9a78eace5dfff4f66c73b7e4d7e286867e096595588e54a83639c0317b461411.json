@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"grimoireId","internalType":"uint256","type":"uint256","indexed":false},{"name":"zodiaId","internalType":"uint256","type":"uint256","indexed":false}],"name":"ZodiaDiscovered"}]

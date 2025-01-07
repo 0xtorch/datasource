@@ -1,0 +1,1 @@
+[{"type":"function","constant":false,"inputs":[{"name":"_protocol","internalType":"bytes32","type":"bytes32"}],"name":"setProofProtocol","outputs":[],"payable":false,"stateMutability":"nonpayable"}]

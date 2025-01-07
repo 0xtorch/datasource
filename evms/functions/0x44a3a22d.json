@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"signature","internalType":"bytes","type":"bytes"},{"name":"mlSpots","internalType":"uint8","type":"uint8"},{"name":"tokenId","internalType":"uint256","type":"uint256"}],"name":"mintPrivate","outputs":[],"stateMutability":"payable"}]

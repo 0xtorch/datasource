@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_address","internalType":"address","type":"address"},{"name":"_tokenId","internalType":"uint16","type":"uint16"}],"name":"tokensMintedByAddress","outputs":[{"name":"","internalType":"uint16","type":"uint16"}],"stateMutability":"view"}]

@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"baseCached","internalType":"uint112","type":"uint112","indexed":false},{"name":"fyTokenCached","internalType":"uint112","type":"uint112","indexed":false},{"name":"cumulativeBalancesRatio","internalType":"uint256","type":"uint256","indexed":false}],"name":"Sync"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"contractAddress","internalType":"address","type":"address"}],"name":"readStatus","outputs":[{"name":"operatorAddress","internalType":"address","type":"address"},{"name":"isBanned","internalType":"bool","type":"bool"},{"name":"codeLength","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

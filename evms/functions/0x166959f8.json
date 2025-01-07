@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_depositId","internalType":"uint256","type":"uint256"},{"name":"amountXYWrappedToken","internalType":"uint256","type":"uint256"}],"name":"completeDeposit","outputs":[],"stateMutability":"nonpayable"}]

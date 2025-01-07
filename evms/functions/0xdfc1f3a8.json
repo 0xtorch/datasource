@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"poolTokenId","internalType":"uint256","type":"uint256"}],"name":"getStakingRewardsTokenInfo","outputs":[{"name":"","internalType":"struct IBackerRewards.StakingRewardsTokenInfo","type":"tuple","components":[{"name":"accumulatedRewardsPerTokenAtLastWithdraw","internalType":"uint256","type":"uint256"}]}],"stateMutability":"view"}]

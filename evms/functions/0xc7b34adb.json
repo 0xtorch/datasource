@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_skyMavisTreasuryAddr","internalType":"address payable","type":"address"},{"name":"_axieInfinityTreasuryAddr","internalType":"address payable","type":"address"},{"name":"_roninNetworkTreasuryAddr","internalType":"address payable","type":"address"}],"name":"setTreasuryAddresses","outputs":[],"stateMutability":"nonpayable"}]

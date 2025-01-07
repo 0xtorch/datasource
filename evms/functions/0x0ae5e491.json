@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_traderJoeRouterAddress","internalType":"address","type":"address"},{"name":"_lpAddress","internalType":"address","type":"address"}],"name":"setTraderJoeAddresses","outputs":[],"stateMutability":"nonpayable"}]

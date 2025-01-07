@@ -1,0 +1,1 @@
+[{"type":"function","constant":false,"inputs":[{"name":"rootToken","internalType":"address","type":"address"},{"name":"token","internalType":"address","type":"address"},{"name":"isErc721","internalType":"bool","type":"bool"}],"name":"mapToken","outputs":[],"payable":false,"stateMutability":"nonpayable"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"chainId","internalType":"uint16","type":"uint16"},{"name":"token","internalType":"address","type":"address"},{"name":"poolId","internalType":"uint256","type":"uint256"}],"name":"setSgPoolId","outputs":[],"stateMutability":"nonpayable"}]

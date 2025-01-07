@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_nftMarket","internalType":"address","type":"address"},{"name":"baseURI","internalType":"string","type":"string"},{"name":"proxyCallContract","internalType":"address","type":"address"}],"name":"adminUpdateConfig","outputs":[],"stateMutability":"nonpayable"}]

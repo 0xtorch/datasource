@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_bunnyId","internalType":"uint8","type":"uint8"},{"name":"_teamId","internalType":"uint256","type":"uint256"},{"name":"_tokenURI","internalType":"string","type":"string"}],"name":"addBunny","outputs":[],"stateMutability":"nonpayable"}]

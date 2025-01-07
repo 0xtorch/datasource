@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"priceStatisticsLookbackInSec","internalType":"uint256","type":"uint256"}],"name":"setPriceStatisticsLookbackInSec","outputs":[],"stateMutability":"nonpayable"}]

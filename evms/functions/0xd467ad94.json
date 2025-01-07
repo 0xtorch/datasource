@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"to","internalType":"address","type":"address"},{"name":"tokenId","internalType":"uint256[]","type":"uint256[]"},{"name":"uri","internalType":"string[]","type":"string[]"}],"name":"safeBatchMint","outputs":[],"stateMutability":"nonpayable"}]

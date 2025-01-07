@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"lp","internalType":"address","type":"address"},{"name":"isPool","internalType":"bool","type":"bool"}],"name":"addLiquidityPool","outputs":[],"stateMutability":"nonpayable"}]

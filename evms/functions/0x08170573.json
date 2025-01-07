@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"reward_destination","internalType":"enum DappsStaking.RewardDestination","type":"uint8"}],"name":"setRewardDestination","outputs":[],"stateMutability":"nonpayable"}]

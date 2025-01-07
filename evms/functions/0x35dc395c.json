@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"existingUpdaters","internalType":"address[]","type":"address[]"},{"name":"newThreshold","internalType":"uint256","type":"uint256"}],"name":"removeUpdaters","outputs":[],"stateMutability":"nonpayable"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"tokenIDs","internalType":"uint256[]","type":"uint256[]"},{"name":"receivers","internalType":"address[]","type":"address[]"},{"name":"_imageIds","internalType":"uint256[]","type":"uint256[]"},{"name":"_isLegends","internalType":"bool[]","type":"bool[]"}],"name":"airdrops","outputs":[],"stateMutability":"nonpayable"}]

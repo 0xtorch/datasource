@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_parameter","internalType":"enum FeedSdogBondDepository.PARAMETER","type":"uint8"},{"name":"_input","internalType":"uint256","type":"uint256"}],"name":"setBondTerms","outputs":[],"stateMutability":"nonpayable"}]

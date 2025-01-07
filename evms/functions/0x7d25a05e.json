@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"","internalType":"uint32","type":"uint32"},{"name":"","internalType":"bytes32","type":"bytes32"}],"name":"nextNonce","outputs":[{"name":"nonce","internalType":"uint64","type":"uint64"}],"stateMutability":"view"}]

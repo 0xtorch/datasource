@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"clothes","internalType":"enum HealthreeNFTService.Clothes","type":"uint8"},{"name":"value","internalType":"bool","type":"bool"}],"name":"setNftPerAddressLimitEnabled","outputs":[],"stateMutability":"nonpayable"}]

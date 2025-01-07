@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"amount","internalType":"uint256","type":"uint256"},{"name":"totalShares","internalType":"uint256","type":"uint256"}],"name":"usdcToSharePrice","outputs":[{"name":"","internalType":"uint256","type":"uint256"}],"stateMutability":"pure"}]

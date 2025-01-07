@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"amount","internalType":"uint256","type":"uint256"},{"name":"freeLiquidity","internalType":"uint256","type":"uint256"},{"name":"strikeId","internalType":"uint256","type":"uint256"}],"name":"lockPutCollateral","outputs":[],"stateMutability":"nonpayable"}]

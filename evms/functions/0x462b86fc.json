@@ -1,0 +1,1 @@
+[{"type":"function","constant":false,"inputs":[{"name":"_erc1155Address","internalType":"address","type":"address"},{"name":"_id","internalType":"uint256","type":"uint256"},{"name":"_shadowed","internalType":"bool","type":"bool"}],"name":"setShadowed","outputs":[],"payable":false,"stateMutability":"nonpayable"}]

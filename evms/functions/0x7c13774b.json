@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"","internalType":"uint256","type":"uint256"}],"name":"tokenInfos","outputs":[{"name":"color","internalType":"string","type":"string"},{"name":"object","internalType":"string","type":"string"},{"name":"generation","internalType":"uint8","type":"uint8"}],"stateMutability":"view"}]

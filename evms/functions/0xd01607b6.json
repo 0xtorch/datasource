@@ -1,0 +1,1 @@
+[{"type":"function","constant":false,"inputs":[{"name":"_hazer","internalType":"address","type":"address"},{"name":"_dollarValue","internalType":"uint256","type":"uint256"}],"name":"addHazer","outputs":[],"payable":false,"stateMutability":"nonpayable"}]

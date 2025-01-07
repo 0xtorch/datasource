@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"","internalType":"address","type":"address"},{"name":"","internalType":"address","type":"address"}],"name":"liquidationReceiver","outputs":[{"name":"","internalType":"contract ILiquidationReceiver","type":"address"}],"stateMutability":"view"}]

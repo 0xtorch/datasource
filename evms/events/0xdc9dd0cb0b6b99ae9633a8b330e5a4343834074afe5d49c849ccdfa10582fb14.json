@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"forgeId","internalType":"uint256","type":"uint256","indexed":true},{"name":"nextForgeContributorIndex","internalType":"uint256","type":"uint256","indexed":true}],"name":"ForgingStarted"}]

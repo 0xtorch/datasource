@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"delistedToken","internalType":"address","type":"address","indexed":false},{"name":"listedToken","internalType":"address","type":"address","indexed":false}],"name":"BootstrapCompleted"}]

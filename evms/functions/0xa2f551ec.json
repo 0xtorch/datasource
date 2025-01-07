@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_tokenId","internalType":"uint256","type":"uint256"},{"name":"_tokenUri","internalType":"string","type":"string"},{"name":"_isFreezeTokenUri","internalType":"bool","type":"bool"}],"name":"updateTokenUri","outputs":[],"stateMutability":"nonpayable"}]

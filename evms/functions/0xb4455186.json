@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[],"name":"getFarmsWeightPercentages","outputs":[{"name":"_farms","internalType":"contract LockFarm[]","type":"address[]"},{"name":"_weightPercentages","internalType":"uint256[]","type":"uint256[]"}],"stateMutability":"view"}]

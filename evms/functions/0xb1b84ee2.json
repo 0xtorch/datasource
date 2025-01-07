@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"creatorContractAddress","internalType":"address","type":"address"}],"name":"getBlockedOperators","outputs":[{"name":"result","internalType":"address[]","type":"address[]"}],"stateMutability":"view"}]

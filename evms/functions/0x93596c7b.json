@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[],"name":"getPendingOwner","outputs":[{"name":"pendingOwner","internalType":"address","type":"address"}],"stateMutability":"view"}]

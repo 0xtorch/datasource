@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"id","internalType":"uint256","type":"uint256"},{"name":"startTime","internalType":"uint32","type":"uint32"},{"name":"endTime","internalType":"uint32","type":"uint32"}],"name":"setTokenSaleTimes","outputs":[],"stateMutability":"nonpayable"}]

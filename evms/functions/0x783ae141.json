@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"encodedMessage","internalType":"bytes","type":"bytes"}],"name":"upgradeContract","outputs":[],"stateMutability":"nonpayable"}]

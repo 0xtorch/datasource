@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_selector","internalType":"bytes4","type":"bytes4"},{"name":"_executor","internalType":"address","type":"address"}],"name":"addressCanExecuteMethod","outputs":[{"name":"","internalType":"bool","type":"bool"}],"stateMutability":"view"}]

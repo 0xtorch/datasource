@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"defaultNFTOperator_","internalType":"contract INFTOperator","type":"address"}],"name":"setDefaultNFTOperator","outputs":[],"stateMutability":"nonpayable"}]

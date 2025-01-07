@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"burn0","internalType":"uint256","type":"uint256","indexed":false},{"name":"burn1","internalType":"uint256","type":"uint256","indexed":false},{"name":"fee0","internalType":"uint256","type":"uint256","indexed":false},{"name":"fee1","internalType":"uint256","type":"uint256","indexed":false}],"name":"BurnAndCollectFees"}]

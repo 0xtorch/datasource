@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"to","type":"address"},{"name":"amount","type":"uint256"}],"name":"remove_collateral","outputs":[],"stateMutability":"nonpayable"}]

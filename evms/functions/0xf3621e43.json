@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"","internalType":"address","type":"address"},{"name":"validator","internalType":"address","type":"address"},{"name":"epochs","internalType":"uint256","type":"uint256"}],"name":"claimRewards","outputs":[],"stateMutability":"nonpayable"}]

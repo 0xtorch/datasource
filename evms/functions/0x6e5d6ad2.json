@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"parentNode","internalType":"bytes32","type":"bytes32"},{"name":"labelhash","internalType":"bytes32","type":"bytes32"},{"name":"expiry","internalType":"uint64","type":"uint64"}],"name":"extendExpiry","outputs":[{"name":"","internalType":"uint64","type":"uint64"}],"stateMutability":"nonpayable"}]

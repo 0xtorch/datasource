@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"","internalType":"bytes32","type":"bytes32"}],"name":"rootData","outputs":[{"name":"isValid","internalType":"bool","type":"bool"},{"name":"metadataURI","internalType":"string","type":"string"}],"stateMutability":"view"}]

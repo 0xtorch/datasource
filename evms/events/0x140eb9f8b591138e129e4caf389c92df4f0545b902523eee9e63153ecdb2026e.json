@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"paused","type":"bool","indexed":false}],"name":"SetPause"}]

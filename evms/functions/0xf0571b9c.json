@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_keyHashList","internalType":"bytes32[]","type":"bytes32[]"},{"name":"_oracleAddrList","internalType":"address[]","type":"address[]"}],"name":"addOracles","outputs":[],"stateMutability":"nonpayable"}]

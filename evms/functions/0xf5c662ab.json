@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[],"name":"getSupportedEngines","outputs":[{"name":"","internalType":"enum IProductEngine.EngineType[]","type":"uint8[]"}],"stateMutability":"view"}]

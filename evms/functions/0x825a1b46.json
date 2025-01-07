@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"numerator","internalType":"uint128","type":"uint128"},{"name":"denominator","internalType":"uint128","type":"uint128"}],"name":"setAlpha","outputs":[],"stateMutability":"nonpayable"}]

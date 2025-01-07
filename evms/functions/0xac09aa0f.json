@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"","internalType":"uint256","type":"uint256"}],"name":"itemType","outputs":[{"name":"","internalType":"enum IItemTypeV2.ItemType","type":"uint8"}],"stateMutability":"view"}]

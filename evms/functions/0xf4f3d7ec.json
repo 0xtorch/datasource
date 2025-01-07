@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"officialRewardsModule_","internalType":"contract RewardsModule","type":"address"}],"name":"setOfficialRewardsModule","outputs":[],"stateMutability":"nonpayable"}]

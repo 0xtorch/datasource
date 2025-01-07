@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"builder","internalType":"contract IURIBuilder","type":"address"}],"name":"setURIBuilder","outputs":[],"stateMutability":"nonpayable"}]

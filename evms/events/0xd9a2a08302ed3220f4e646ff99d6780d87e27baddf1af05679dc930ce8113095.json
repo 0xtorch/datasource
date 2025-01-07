@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"newTeamWallet","internalType":"address","type":"address","indexed":true},{"name":"oldTeamWallet","internalType":"address","type":"address","indexed":true}],"name":"TeamWalletUpdated"}]

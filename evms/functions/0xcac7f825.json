@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"newOwner","internalType":"address","type":"address"}],"name":"setSecondaryOwnership","outputs":[],"stateMutability":"nonpayable"}]

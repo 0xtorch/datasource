@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"token","internalType":"address","type":"address"},{"name":"dest","internalType":"address","type":"address"}],"name":"claimERC20yields","outputs":[],"stateMutability":"nonpayable"}]

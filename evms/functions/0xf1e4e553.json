@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"to","internalType":"address","type":"address"},{"name":"token","internalType":"contract IERC721_IERC1155","type":"address"},{"name":"tokenId","internalType":"uint256","type":"uint256"},{"name":"amount","internalType":"uint256","type":"uint256"}],"name":"withdrawNFT","outputs":[],"stateMutability":"nonpayable"}]

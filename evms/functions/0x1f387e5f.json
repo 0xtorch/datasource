@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_gmxPositionManager","internalType":"address","type":"address"},{"name":"_gmxRouter","internalType":"address","type":"address"},{"name":"_gmxVault","internalType":"address","type":"address"}],"name":"setGmxContracts","outputs":[],"stateMutability":"nonpayable"}]

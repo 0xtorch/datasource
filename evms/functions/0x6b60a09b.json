@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[],"name":"currentExecutor","outputs":[{"name":"executor","internalType":"address","type":"address"},{"name":"executorIndex","internalType":"uint256","type":"uint256"},{"name":"remainingBlocksInSlot","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

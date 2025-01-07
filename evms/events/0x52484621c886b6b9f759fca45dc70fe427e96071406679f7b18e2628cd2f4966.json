@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"orderIdArray","internalType":"uint256[]","type":"uint256[]","indexed":false},{"name":"withdrawAmount","internalType":"uint256","type":"uint256","indexed":false}],"name":"EventWithdraw"}]

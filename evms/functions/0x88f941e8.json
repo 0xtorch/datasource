@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"bundleIndex","internalType":"uint256","type":"uint256"},{"name":"quantity","internalType":"uint256","type":"uint256"}],"name":"buyTxnsBundle","outputs":[],"stateMutability":"payable"}]

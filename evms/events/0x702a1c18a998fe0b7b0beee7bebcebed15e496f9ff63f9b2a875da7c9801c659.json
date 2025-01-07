@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"executor","internalType":"address","type":"address","indexed":true},{"name":"service","internalType":"address","type":"address","indexed":true},{"name":"estimatedGasAmount","internalType":"uint256","type":"uint256","indexed":false}],"name":"LogPrepaidExecSuccess"}]

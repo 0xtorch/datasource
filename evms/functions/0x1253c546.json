@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"id","internalType":"uint256","type":"uint256"}],"name":"uris","outputs":[{"name":"uri","internalType":"string","type":"string"}],"stateMutability":"view"}]

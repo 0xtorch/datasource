@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"tokenId","internalType":"uint256","type":"uint256"},{"name":"adventure","internalType":"address","type":"address"},{"name":"questId","internalType":"uint256","type":"uint256"}],"name":"userExitQuest","outputs":[],"stateMutability":"nonpayable"}]

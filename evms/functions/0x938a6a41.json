@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"tokenContract","internalType":"address","type":"address"},{"name":"tokenId","internalType":"uint256","type":"uint256"},{"name":"loreIdx","internalType":"uint256","type":"uint256"},{"name":"newLoreMetadataURI","internalType":"string","type":"string"}],"name":"updateLoreMetadataURI","outputs":[],"stateMutability":"nonpayable"}]

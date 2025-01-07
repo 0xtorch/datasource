@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_gas","internalType":"uint256","type":"uint256"}],"name":"setGasToEstimateRandomFee","outputs":[],"stateMutability":"nonpayable"}]

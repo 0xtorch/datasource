@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"cToken","internalType":"address","type":"address"}],"name":"getUnderlyingPrice","outputs":[{"name":"","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

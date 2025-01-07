@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"keyHashes","internalType":"uint256[]","type":"uint256[]"},{"name":"tokenId","internalType":"uint256","type":"uint256"}],"name":"getManyByHash","outputs":[{"name":"keys","internalType":"string[]","type":"string[]"},{"name":"values","internalType":"string[]","type":"string[]"}],"stateMutability":"view"}]

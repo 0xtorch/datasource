@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"","internalType":"uint256","type":"uint256"}],"name":"crossDomainMessengerWrappers","outputs":[{"name":"","internalType":"contract IMessengerWrapper","type":"address"}],"stateMutability":"view"}]

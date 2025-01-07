@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"dodoAmount","internalType":"uint256","type":"uint256"}],"name":"getWithdrawResult","outputs":[{"name":"dodoReceive","internalType":"uint256","type":"uint256"},{"name":"burnDodoAmount","internalType":"uint256","type":"uint256"},{"name":"withdrawFeeDodoAmount","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

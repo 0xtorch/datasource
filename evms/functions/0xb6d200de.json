@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"agreementType","internalType":"bytes32","type":"bytes32"}],"name":"getAgreementClass","outputs":[{"name":"agreementClass","internalType":"contract ISuperAgreement","type":"address"}],"stateMutability":"view"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[],"name":"proposedFees","outputs":[{"name":"deposit","internalType":"uint64","type":"uint64"},{"name":"withdrawal","internalType":"uint64","type":"uint64"},{"name":"management","internalType":"uint64","type":"uint64"},{"name":"performance","internalType":"uint64","type":"uint64"}],"stateMutability":"view"}]

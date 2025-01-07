@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"addrs","internalType":"address[]","type":"address[]"},{"name":"level","internalType":"uint256","type":"uint256"}],"name":"batchAttest","outputs":[],"stateMutability":"nonpayable"}]

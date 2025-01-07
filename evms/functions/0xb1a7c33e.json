@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_oldStrategy","internalType":"address","type":"address"},{"name":"_newStrategy","internalType":"address","type":"address"}],"name":"proposeStrategy","outputs":[],"stateMutability":"nonpayable"}]

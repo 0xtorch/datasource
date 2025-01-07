@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"prodId","internalType":"uint24","type":"uint24","indexed":false}],"name":"OffSale"}]

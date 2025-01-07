@@ -1,0 +1,1 @@
+[{"type":"function","constant":false,"inputs":[{"name":"hash","internalType":"bytes32","type":"bytes32"}],"name":"preSign","outputs":[],"payable":true,"stateMutability":"payable"}]

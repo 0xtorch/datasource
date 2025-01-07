@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"selfStakers","internalType":"address[]","type":"address[]"},{"name":"communityStakers","internalType":"address[]","type":"address[]"},{"name":"communityStakees","internalType":"address[]","type":"address[]"},{"name":"percent","internalType":"uint88","type":"uint88"}],"name":"slash","outputs":[],"stateMutability":"nonpayable"}]

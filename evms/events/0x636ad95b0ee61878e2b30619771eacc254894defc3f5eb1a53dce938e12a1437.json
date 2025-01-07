@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"wron","internalType":"contract IWRON","type":"address","indexed":false},{"name":"wronHelper","internalType":"contract IWRONHelper","type":"address","indexed":false}],"name":"WRONConfigUpdated"}]

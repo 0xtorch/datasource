@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_executors","internalType":"address[]","type":"address[]"},{"name":"_flag","internalType":"bool","type":"bool"}],"name":"setAuthorization","outputs":[],"stateMutability":"nonpayable"}]

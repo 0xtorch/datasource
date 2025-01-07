@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"owner","internalType":"address","type":"address","indexed":false},{"name":"token","internalType":"address","type":"address","indexed":false},{"name":"accountID","internalType":"uint32","type":"uint32","indexed":false}],"name":"ForcedWithdrawalRequested"}]

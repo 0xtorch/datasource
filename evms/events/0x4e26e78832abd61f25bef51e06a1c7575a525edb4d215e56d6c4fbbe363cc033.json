@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"oldRescuer","type":"address","indexed":true},{"name":"newRescuer","type":"address","indexed":true},{"name":"sender","type":"address","indexed":true}],"name":"RescuerChanged"}]

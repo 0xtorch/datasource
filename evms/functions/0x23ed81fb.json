@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"planId","internalType":"uint256","type":"uint256"},{"name":"newVestingAdmin","internalType":"address","type":"address"}],"name":"changeVestingPlanAdmin","outputs":[],"stateMutability":"nonpayable"}]

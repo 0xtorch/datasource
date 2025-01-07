@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_phase","internalType":"enum MafiaNuts.Phase","type":"uint8"},{"name":"_phaseInfo","internalType":"struct MafiaNuts.PhaseInfo","type":"tuple","components":[{"name":"merkleRoot","internalType":"bytes32","type":"bytes32"}]}],"name":"setPhaseInfo","outputs":[],"stateMutability":"nonpayable"}]

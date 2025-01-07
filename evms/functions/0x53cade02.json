@@ -1,0 +1,1 @@
+[{"type":"function","gas":40232,"inputs":[{"name":"_anchor_rewards_distributor","type":"bytes32"}],"name":"set_anchor_rewards_distributor","outputs":[],"stateMutability":"nonpayable"}]

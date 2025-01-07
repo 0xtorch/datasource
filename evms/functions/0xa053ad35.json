@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_aliasName","internalType":"string","type":"string"},{"name":"_daysLock","internalType":"uint256","type":"uint256"},{"name":"_minTokenAmount","internalType":"uint256","type":"uint256"},{"name":"_dailyPercentage","internalType":"uint256","type":"uint256"}],"name":"pushPackageDetail","outputs":[],"stateMutability":"nonpayable"}]

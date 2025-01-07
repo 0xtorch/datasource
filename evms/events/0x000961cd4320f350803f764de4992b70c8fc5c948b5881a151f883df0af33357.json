@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"c","internalType":"enum DataTypes.Contract","type":"uint8","indexed":true},{"name":"contractAddress","internalType":"address","type":"address","indexed":false}],"name":"SetContract"}]

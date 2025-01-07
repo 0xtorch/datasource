@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"minter","internalType":"address","type":"address","indexed":true},{"name":"startTokenId","internalType":"uint256","type":"uint256","indexed":false},{"name":"endTokenId","internalType":"uint256","type":"uint256","indexed":false}],"name":"SignedMintClaimed"}]

@@ -1,0 +1,1 @@
+[{"type":"function","constant":false,"inputs":[{"name":"_granted","type":"address"},{"name":"_index","type":"uint8"}],"name":"deleteLock","outputs":[],"payable":false,"stateMutability":"nonpayable"}]

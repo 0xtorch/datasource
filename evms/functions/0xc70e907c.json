@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"amounts","internalType":"uint256[]","type":"uint256[]"},{"name":"targets","internalType":"address[]","type":"address[]"},{"name":"stakeTimestamps","internalType":"uint256[]","type":"uint256[]"}],"name":"stakeOnBehalfGroup","outputs":[],"stateMutability":"nonpayable"}]

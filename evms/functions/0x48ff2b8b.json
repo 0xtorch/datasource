@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_address","internalType":"address","type":"address"},{"name":"_enabled","internalType":"bool","type":"bool"}],"name":"setisExempt","outputs":[],"stateMutability":"nonpayable"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"recipient","internalType":"address","type":"address"}],"name":"getRebate","outputs":[{"name":"","internalType":"uint64","type":"uint64"}],"stateMutability":"view"}]

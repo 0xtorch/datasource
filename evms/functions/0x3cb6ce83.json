@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[],"name":"payRegularFees","outputs":[{"name":"","internalType":"struct FixedPoint.Unsigned","type":"tuple","components":[{"name":"rawValue","internalType":"uint256","type":"uint256"}]}],"stateMutability":"nonpayable"}]

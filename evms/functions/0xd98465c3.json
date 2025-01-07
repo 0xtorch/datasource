@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"chainId","internalType":"uint16","type":"uint16"},{"name":"l2MessageReceive","internalType":"address","type":"address"}],"name":"setL2MessageReceive","outputs":[],"stateMutability":"nonpayable"}]

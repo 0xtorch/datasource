@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_antGRatio","internalType":"uint256","type":"uint256"},{"name":"_antGStakeDayRatio","internalType":"uint256","type":"uint256"}],"name":"updateRatios","outputs":[],"stateMutability":"nonpayable"}]

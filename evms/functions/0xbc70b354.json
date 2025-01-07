@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_eid","internalType":"uint32","type":"uint32"},{"name":"_msgType","internalType":"uint16","type":"uint16"},{"name":"_extraOptions","internalType":"bytes","type":"bytes"}],"name":"combineOptions","outputs":[{"name":"","internalType":"bytes","type":"bytes"}],"stateMutability":"view"}]

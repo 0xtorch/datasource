@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"dstEid","internalType":"uint32","type":"uint32","indexed":false},{"name":"busFare","internalType":"uint80","type":"uint80","indexed":false},{"name":"busAndNativeDropFare","internalType":"uint80","type":"uint80","indexed":false}],"name":"FaresSet"}]

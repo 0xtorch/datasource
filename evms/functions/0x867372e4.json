@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_amountToZip","internalType":"uint256","type":"uint256"},{"name":"_destinationChains","internalType":"uint256","type":"uint256"},{"name":"_recipient","internalType":"address","type":"address"}],"name":"depositToGasZipNative","outputs":[],"stateMutability":"payable"}]

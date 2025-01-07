@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"slaverChainId","internalType":"uint8","type":"uint8","indexed":false},{"name":"syncHash","internalType":"bytes32","type":"bytes32","indexed":false}],"name":"ReceiveSlaverSyncHash"}]

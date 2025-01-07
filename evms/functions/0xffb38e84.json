@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"minter","internalType":"address","type":"address"},{"name":"enable","internalType":"bool","type":"bool"}],"name":"_setMinter","outputs":[],"stateMutability":"nonpayable"}]

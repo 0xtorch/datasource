@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"lpTokenAmount","internalType":"uint256","type":"uint256","indexed":false}],"name":"BurnLiquidity"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"tokenIds","internalType":"uint256[]","type":"uint256[]"},{"name":"isBlock","internalType":"bool","type":"bool"}],"name":"blockTokenId","outputs":[],"stateMutability":"nonpayable"}]

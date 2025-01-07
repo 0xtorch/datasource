@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"amount","internalType":"uint256","type":"uint256"},{"name":"fraction","internalType":"uint256","type":"uint256"},{"name":"total","internalType":"uint256","type":"uint256"}],"name":"scaleByFraction","outputs":[{"name":"","internalType":"uint256","type":"uint256"}],"stateMutability":"pure"}]

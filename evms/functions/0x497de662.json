@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_pAmount","internalType":"uint256","type":"uint256"},{"name":"_pAppNonce","internalType":"uint256","type":"uint256"},{"name":"_pSigTime","internalType":"uint256","type":"uint256"},{"name":"_pSignature","internalType":"bytes","type":"bytes"}],"name":"fClaimToken","outputs":[],"stateMutability":"nonpayable"}]

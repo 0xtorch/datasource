@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[],"name":"getBlockProducers","outputs":[{"name":"_result","internalType":"address[]","type":"address[]"}],"stateMutability":"view"}]

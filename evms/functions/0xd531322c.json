@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"account","internalType":"address","type":"address"},{"name":"staker","internalType":"address","type":"address"}],"name":"transact","outputs":[],"stateMutability":"nonpayable"}]

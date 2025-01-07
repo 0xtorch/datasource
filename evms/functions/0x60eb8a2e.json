@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_token","internalType":"address","type":"address"},{"name":"_account","internalType":"address","type":"address"}],"name":"withdrawOtherTokens","outputs":[],"stateMutability":"nonpayable"}]

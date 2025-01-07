@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"engine","internalType":"address","type":"address"},{"name":"engineType","internalType":"enum IProductEngine.EngineType","type":"uint8"}],"name":"addEngine","outputs":[],"stateMutability":"nonpayable"}]

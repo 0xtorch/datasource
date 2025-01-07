@@ -1,0 +1,1 @@
+[{"type":"function","constant":true,"inputs":[{"name":"","internalType":"","type":"address"},{"name":"","internalType":"","type":"address"},{"name":"","internalType":"","type":"bytes4"}],"name":"operatorPermission","outputs":[{"name":"","internalType":"","type":"bool"}],"payable":false,"stateMutability":"view"}]

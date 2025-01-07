@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"name","type":"bytes32","indexed":true},{"name":"addr","type":"address","indexed":true}],"name":"PrimaryChanged"}]

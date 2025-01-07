@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"NFTId","internalType":"uint256","type":"uint256"}],"name":"NFTMouldSignatureData","outputs":[{"name":"signatureAddress","internalType":"address","type":"address"},{"name":"signatureHash","internalType":"string","type":"string"},{"name":"signatureMessage","internalType":"string","type":"string"}],"stateMutability":"view"}]

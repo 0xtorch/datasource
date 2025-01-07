@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"ids","internalType":"uint256[]","type":"uint256[]"},{"name":"urls","internalType":"string[]","type":"string[]"}],"name":"batchMint","outputs":[],"stateMutability":"nonpayable"}]

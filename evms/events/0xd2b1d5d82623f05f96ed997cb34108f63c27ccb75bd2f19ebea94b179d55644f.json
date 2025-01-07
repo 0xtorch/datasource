@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"_skin","internalType":"address","type":"address","indexed":false},{"name":"_status","internalType":"bool","type":"bool","indexed":false}],"name":"WhitelistSkinSet"}]

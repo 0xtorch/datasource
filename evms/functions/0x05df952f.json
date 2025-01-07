@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"","internalType":"address","type":"address"}],"name":"royaltiesByToken","outputs":[{"name":"initialized","internalType":"bool","type":"bool"}],"stateMutability":"view"}]

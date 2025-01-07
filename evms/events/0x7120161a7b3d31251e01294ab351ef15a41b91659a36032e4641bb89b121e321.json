@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"id","internalType":"Id","type":"bytes32","indexed":true},{"name":"avgBorrowRate","internalType":"uint256","type":"uint256","indexed":false},{"name":"rateAtTarget","internalType":"uint256","type":"uint256","indexed":false}],"name":"BorrowRateUpdate"}]

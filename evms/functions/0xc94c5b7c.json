@@ -1,0 +1,1 @@
+[{"type":"function","constant":false,"inputs":[{"name":"_token","internalType":"contract IERC20","type":"address"},{"name":"_amount","internalType":"uint128","type":"uint128"}],"name":"withdrawERC20","outputs":[],"payable":false,"stateMutability":"nonpayable"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"amountToMint","internalType":"uint256","type":"uint256"},{"name":"newTokenOwner","internalType":"address","type":"address"}],"name":"mintBatch","outputs":[{"name":"","internalType":"uint256[]","type":"uint256[]"}],"stateMutability":"nonpayable"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"wastrAmount","internalType":"uint256","type":"uint256"},{"name":"vastrAmount","internalType":"uint256","type":"uint256"}],"name":"createSilo","outputs":[{"name":"siloID","internalType":"uint256","type":"uint256"},{"name":"siloAddress","internalType":"address","type":"address"}],"stateMutability":"payable"}]

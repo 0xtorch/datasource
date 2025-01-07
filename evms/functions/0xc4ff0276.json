@@ -1,0 +1,1 @@
+[{"type":"function","constant":false,"inputs":[{"name":"addr","internalType":"address","type":"address"},{"name":"mode","internalType":"uint8","type":"uint8"}],"name":"setTransferLimit","outputs":[],"payable":false,"stateMutability":"nonpayable"}]

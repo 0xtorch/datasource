@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"insurance_connector","type":"address","indexed":false}],"name":"InsuranceConnectorUpdated"}]

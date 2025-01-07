@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"bailoutAccount","internalType":"address","type":"address","indexed":true},{"name":"bailoutAmount","internalType":"uint256","type":"uint256","indexed":false}],"name":"Bailout"}]

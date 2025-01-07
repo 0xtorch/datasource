@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"referrer","internalType":"address payable","type":"address"},{"name":"listingId","internalType":"uint40","type":"uint40"},{"name":"increase","internalType":"bool","type":"bool"}],"name":"offer","outputs":[],"stateMutability":"payable"}]

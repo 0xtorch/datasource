@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"defaultTakeRateInBasisPoints","internalType":"uint16","type":"uint16"},{"name":"worldPaymentAddress","internalType":"address payable","type":"address"},{"name":"name","internalType":"string","type":"string"}],"name":"mint","outputs":[{"name":"worldId","internalType":"uint256","type":"uint256"}],"stateMutability":"nonpayable"}]

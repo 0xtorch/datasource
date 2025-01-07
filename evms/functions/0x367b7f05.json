@@ -1,0 +1,1 @@
+[{"type":"function","constant":false,"inputs":[{"name":"borrower","internalType":"address","type":"address"},{"name":"jAvax_","internalType":"contract JWrappedNative","type":"address"}],"name":"repayBehalfExplicit","outputs":[],"payable":true,"stateMutability":"payable"}]

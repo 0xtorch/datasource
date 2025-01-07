@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"freeMintCount","internalType":"uint16","type":"uint16"},{"name":"calcModel","internalType":"uint16","type":"uint16"}],"name":"setFreeMints","outputs":[],"stateMutability":"nonpayable"}]

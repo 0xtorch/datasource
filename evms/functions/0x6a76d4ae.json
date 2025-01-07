@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[],"name":"getAmountsOnMint","outputs":[{"name":"dustAmountOnMint","internalType":"uint256","type":"uint256"},{"name":"gasTokenAmountOnMint","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

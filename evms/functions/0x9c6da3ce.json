@@ -1,0 +1,1 @@
+[{"type":"function","constant":false,"inputs":[{"name":"newProcessingCode","internalType":"string","type":"string"},{"name":"version","internalType":"uint256","type":"uint256"}],"name":"updateProcessingCode","outputs":[],"payable":false,"stateMutability":"nonpayable"}]

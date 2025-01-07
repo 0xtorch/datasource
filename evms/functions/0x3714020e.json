@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_factory","internalType":"address","type":"address"},{"name":"isMessagingDApp","internalType":"bool","type":"bool"}],"name":"addWhitelist","outputs":[],"stateMutability":"nonpayable"}]

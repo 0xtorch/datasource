@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"","internalType":"uint256","type":"uint256"}],"name":"ruleInfo","outputs":[{"name":"numberHero","internalType":"uint256","type":"uint256"},{"name":"requirementHeroOrRace","internalType":"uint256","type":"uint256"},{"name":"heroesTierFood","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

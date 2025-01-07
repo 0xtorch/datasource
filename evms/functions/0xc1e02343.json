@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"x","internalType":"int256","type":"int256"},{"name":"y","internalType":"int256","type":"int256"}],"name":"scaleQuadOwnerOf","outputs":[{"name":"","internalType":"address","type":"address"}],"stateMutability":"view"}]

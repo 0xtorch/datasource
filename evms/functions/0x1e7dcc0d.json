@@ -1,0 +1,1 @@
+[{"type":"function","constant":false,"inputs":[{"name":"borrower","internalType":"address","type":"address"},{"name":"receiver","internalType":"address","type":"address"},{"name":"borrowAmount","internalType":"uint256","type":"uint256"},{"name":"data","internalType":"bytes","type":"bytes"}],"name":"borrow","outputs":[],"payable":false,"stateMutability":"nonpayable"}]

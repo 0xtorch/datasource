@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"who","internalType":"address","type":"address"},{"name":"status","internalType":"bool","type":"bool"}],"name":"setPauser","outputs":[],"stateMutability":"nonpayable"}]

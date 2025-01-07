@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"route","internalType":"bytes4","type":"bytes4","indexed":false},{"name":"implementation","internalType":"address","type":"address","indexed":false},{"name":"isView","internalType":"bool","type":"bool","indexed":false}],"name":"RouteUpdated"}]

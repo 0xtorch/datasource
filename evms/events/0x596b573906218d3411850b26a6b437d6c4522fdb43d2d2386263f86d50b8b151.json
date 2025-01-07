@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"sender","internalType":"address","type":"address","indexed":true},{"name":"recipient","internalType":"address","type":"address","indexed":true},{"name":"amount0","internalType":"uint128","type":"uint128","indexed":false},{"name":"amount1","internalType":"uint128","type":"uint128","indexed":false}],"name":"CollectProtocol"}]

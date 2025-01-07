@@ -1,0 +1,1 @@
+[{"type":"function","constant":false,"inputs":[{"name":"tokenA","internalType":"address","type":"address"},{"name":"tokenB","internalType":"address","type":"address"}],"name":"createPair","outputs":[{"name":"pair","internalType":"address","type":"address"}],"payable":false,"stateMutability":"nonpayable"}]

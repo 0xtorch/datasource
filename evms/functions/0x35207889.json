@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"to","internalType":"address","type":"address"},{"name":"amount","internalType":"uint256","type":"uint256"},{"name":"erc1155id","internalType":"uint256","type":"uint256"}],"name":"assetsMint","outputs":[{"name":"","internalType":"uint256[]","type":"uint256[]"}],"stateMutability":"nonpayable"}]

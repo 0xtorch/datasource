@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"governanceChainId","internalType":"uint16","type":"uint16"},{"name":"governanceEmitterAddress","internalType":"bytes32","type":"bytes32"}],"name":"isValidGovernanceDataSource","outputs":[{"name":"","internalType":"bool","type":"bool"}],"stateMutability":"view"}]

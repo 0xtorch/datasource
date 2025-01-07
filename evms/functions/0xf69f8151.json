@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"messageHash","internalType":"bytes32","type":"bytes32"}],"name":"receivedMessages","outputs":[{"name":"isReceived","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

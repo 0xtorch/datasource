@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"strategy","type":"address","indexed":true},{"name":"maxDebtPerHarvest","type":"uint256","indexed":false}],"name":"StrategyUpdateMaxDebtPerHarvest"}]

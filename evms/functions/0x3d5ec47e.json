@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"","internalType":"uint256","type":"uint256"}],"name":"stakeInfos","outputs":[{"name":"owner","internalType":"address","type":"address"},{"name":"stakedAt","internalType":"uint64","type":"uint64"}],"stateMutability":"view"}]

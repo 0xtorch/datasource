@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"","internalType":"address","type":"address"}],"name":"forkInitCode","outputs":[{"name":"","internalType":"bytes","type":"bytes"}],"stateMutability":"view"}]

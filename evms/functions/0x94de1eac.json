@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_rewardId","internalType":"uint96","type":"uint96"},{"name":"_userId","internalType":"uint96","type":"uint96"},{"name":"_userAddress","internalType":"address","type":"address"},{"name":"_signature","internalType":"bytes","type":"bytes"}],"name":"dummyClaim","outputs":[],"stateMutability":"nonpayable"}]

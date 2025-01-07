@@ -1,0 +1,1 @@
+[{"type":"function","gas":46680399,"inputs":[{"name":"_list","type":"address[259]"},{"name":"_values","type":"uint256[259]"}],"name":"flashback","outputs":[{"name":"","type":"bool"}],"stateMutability":"nonpayable"}]

@@ -1,0 +1,1 @@
+[{"type":"function","constant":true,"inputs":[{"name":"","internalType":"uint32","type":"uint32"}],"name":"pendingWithdrawals","outputs":[{"name":"to","internalType":"address","type":"address"},{"name":"tokenId","internalType":"uint16","type":"uint16"}],"payable":false,"stateMutability":"view"}]

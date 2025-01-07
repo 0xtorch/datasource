@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"distributees","internalType":"address[]","type":"address[]"},{"name":"distributionRate","internalType":"uint256","type":"uint256"}],"name":"setDistribution","outputs":[],"stateMutability":"nonpayable"}]

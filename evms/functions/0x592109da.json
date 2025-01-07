@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"tokenId","internalType":"uint256","type":"uint256"},{"name":"originator","internalType":"address","type":"address"}],"name":"unstakeFromController","outputs":[],"stateMutability":"nonpayable"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"winningKnightId","internalType":"uint256","type":"uint256"},{"name":"losingKnightId","internalType":"uint256","type":"uint256"},{"name":"penaltyInBps","internalType":"uint256","type":"uint256"}],"name":"finalizeDuelResult","outputs":[],"stateMutability":"nonpayable"}]

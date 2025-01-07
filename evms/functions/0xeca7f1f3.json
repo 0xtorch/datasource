@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_collateralAsset","internalType":"address","type":"address"}],"name":"getCollateralExists","outputs":[{"name":"","internalType":"bool","type":"bool"}],"stateMutability":"view"}]

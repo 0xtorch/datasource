@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_allowlistAddresses","internalType":"address[]","type":"address[]"},{"name":"_toggle","internalType":"bool","type":"bool"}],"name":"toggleAllowlistTo","outputs":[],"stateMutability":"nonpayable"}]

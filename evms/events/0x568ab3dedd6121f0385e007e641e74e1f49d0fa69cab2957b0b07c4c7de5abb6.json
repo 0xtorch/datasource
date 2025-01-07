@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"previousRecoveryAddress","type":"address","indexed":false},{"name":"newRecoveryAddress","type":"address","indexed":false}],"name":"RecoveryAddressChanged"}]

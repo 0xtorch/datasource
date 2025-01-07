@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"owner_","internalType":"address","type":"address"}],"name":"ownerCollectionsByOwner","outputs":[{"name":"","internalType":"address[]","type":"address[]"}],"stateMutability":"view"}]

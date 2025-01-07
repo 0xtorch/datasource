@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"rescueAddress","internalType":"address","type":"address","indexed":false}],"name":"rescueAddressUpdated"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"channel","internalType":"address","type":"address"},{"name":"isOpen","internalType":"bool","type":"bool"}],"name":"updateChannel","outputs":[],"stateMutability":"nonpayable"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_users","internalType":"address[]","type":"address[]"},{"name":"_id","internalType":"uint256","type":"uint256"}],"name":"removeWhitelistBatch","outputs":[],"stateMutability":"nonpayable"}]

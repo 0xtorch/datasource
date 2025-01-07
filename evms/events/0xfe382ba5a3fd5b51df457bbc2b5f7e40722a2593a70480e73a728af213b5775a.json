@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"to","internalType":"address","type":"address","indexed":true},{"name":"id","internalType":"uint256","type":"uint256","indexed":true},{"name":"borderId","internalType":"uint256","type":"uint256","indexed":true},{"name":"quantity","internalType":"uint256","type":"uint256","indexed":false}],"name":"MoshiCreated"}]

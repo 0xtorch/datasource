@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"owner","type":"address","indexed":true},{"name":"cutieId","type":"uint40","indexed":false},{"name":"momId","type":"uint40","indexed":false},{"name":"dadId","type":"uint40","indexed":false},{"name":"genes","type":"uint256","indexed":false}],"name":"Birth"}]

@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"oldMaxAssets","internalType":"uint256","type":"uint256","indexed":false},{"name":"newMaxAssets","internalType":"uint256","type":"uint256","indexed":false}],"name":"NewMaxAssets"}]

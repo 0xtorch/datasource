@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_minter","internalType":"address","type":"address"},{"name":"__baseUri","internalType":"string","type":"string"},{"name":"_purchaseLimit","internalType":"uint256","type":"uint256"}],"name":"setMinter","outputs":[],"stateMutability":"nonpayable"}]

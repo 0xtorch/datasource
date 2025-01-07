@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"tokenId","internalType":"uint256","type":"uint256"}],"name":"getSignatureData","outputs":[{"name":"signatureAddress","internalType":"address","type":"address"},{"name":"signatureHash","internalType":"string","type":"string"},{"name":"signatureMessage","internalType":"string","type":"string"}],"stateMutability":"view"}]

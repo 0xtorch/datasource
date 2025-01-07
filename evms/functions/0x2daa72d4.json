@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_newNumberCakeToReactivate","internalType":"uint256","type":"uint256"},{"name":"_newNumberCakeToRegister","internalType":"uint256","type":"uint256"},{"name":"_newNumberCakeToUpdate","internalType":"uint256","type":"uint256"}],"name":"updateNumberCake","outputs":[],"stateMutability":"nonpayable"}]

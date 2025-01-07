@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"badgeId","internalType":"uint256","type":"uint256"},{"name":"newIpfsHash","internalType":"string","type":"string"}],"name":"updateBadgeIpfsHash","outputs":[],"stateMutability":"nonpayable"}]

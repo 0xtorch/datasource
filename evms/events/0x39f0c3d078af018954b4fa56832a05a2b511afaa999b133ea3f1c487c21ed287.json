@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"pid","internalType":"uint256","type":"uint256","indexed":true},{"name":"lpToken","internalType":"address","type":"address","indexed":false},{"name":"allocPoint","internalType":"uint256","type":"uint256","indexed":false},{"name":"depositFeeBP","internalType":"uint256","type":"uint256","indexed":false}],"name":"setPool"}]

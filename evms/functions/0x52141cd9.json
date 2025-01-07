@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_rootValidator","internalType":"ValidationId","type":"bytes21"},{"name":"hook","internalType":"contract IHook","type":"address"},{"name":"validatorData","internalType":"bytes","type":"bytes"},{"name":"hookData","internalType":"bytes","type":"bytes"}],"name":"changeRootValidator","outputs":[],"stateMutability":"payable"}]

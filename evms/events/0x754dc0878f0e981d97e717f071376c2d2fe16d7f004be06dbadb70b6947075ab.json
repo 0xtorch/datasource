@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"targetedRoute","internalType":"address","type":"address","indexed":false}],"name":"TargetedRouteAdded"}]

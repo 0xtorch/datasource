@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_user","internalType":"address","type":"address"}],"name":"getAllInfoFor","outputs":[{"name":"poolActive","internalType":"bool","type":"bool"},{"name":"info","internalType":"uint256[8]","type":"uint256[8]"}],"stateMutability":"view"}]

@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"previousAddress","internalType":"address","type":"address","indexed":true},{"name":"newAddress","internalType":"address","type":"address","indexed":true}],"name":"RoyaltyEngineUpdated"}]

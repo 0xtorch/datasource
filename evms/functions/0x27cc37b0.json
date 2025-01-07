@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"depositAmount","internalType":"uint256","type":"uint256"},{"name":"starkKey","internalType":"uint256","type":"uint256"},{"name":"positionId","internalType":"uint256","type":"uint256"},{"name":"signature","internalType":"bytes","type":"bytes"}],"name":"deposit","outputs":[],"stateMutability":"nonpayable"}]

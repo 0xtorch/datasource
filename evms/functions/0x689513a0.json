@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"investors","internalType":"address[]","type":"address[]"}],"name":"withdrawRaisedCapital","outputs":[{"name":"amount","internalType":"uint256","type":"uint256"}],"stateMutability":"nonpayable"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"newImplementation","internalType":"address","type":"address"}],"name":"submitContractUpgrade","outputs":[],"stateMutability":"nonpayable"}]

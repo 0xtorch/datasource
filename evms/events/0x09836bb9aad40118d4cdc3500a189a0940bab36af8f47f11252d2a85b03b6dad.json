@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"currentAdmin","internalType":"address","type":"address","indexed":false},{"name":"adminCandidate","internalType":"address","type":"address","indexed":false}],"name":"ProposeAdmin"}]

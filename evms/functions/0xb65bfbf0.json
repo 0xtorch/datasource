@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_bondingCurve","internalType":"address","type":"address"}],"name":"getIsBondingCurveApprove","outputs":[{"name":"","internalType":"bool","type":"bool"}],"stateMutability":"view"}]

@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"rolesContract","internalType":"address","type":"address","indexed":true}],"name":"RolesContractUpdated"}]

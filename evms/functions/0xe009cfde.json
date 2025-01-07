@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"prevModule","internalType":"address","type":"address"},{"name":"module","internalType":"address","type":"address"}],"name":"disableModule","outputs":[],"stateMutability":"nonpayable"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_erc20Oracle","internalType":"address","type":"address"}],"name":"updateERC20Oracle","outputs":[],"stateMutability":"nonpayable"}]

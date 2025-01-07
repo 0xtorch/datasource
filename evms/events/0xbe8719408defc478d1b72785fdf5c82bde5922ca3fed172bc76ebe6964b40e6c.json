@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"cToken","internalType":"address","type":"address","indexed":true},{"name":"oldBProtocol","internalType":"address","type":"address","indexed":false},{"name":"newBProtocol","internalType":"address","type":"address","indexed":false}],"name":"NewBProtocol"}]

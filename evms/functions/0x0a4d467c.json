@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_lock","internalType":"enum AtlasMine.Lock","type":"uint8"}],"name":"getLockBoost","outputs":[{"name":"boost","internalType":"uint256","type":"uint256"},{"name":"timelock","internalType":"uint256","type":"uint256"}],"stateMutability":"pure"}]

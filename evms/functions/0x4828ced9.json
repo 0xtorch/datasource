@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"rewardsAmount","internalType":"uint256","type":"uint256"}],"name":"mintRewards","outputs":[{"name":"ethToPufETHRate","internalType":"uint256","type":"uint256"},{"name":"pufETHAmount","internalType":"uint256","type":"uint256"}],"stateMutability":"nonpayable"}]

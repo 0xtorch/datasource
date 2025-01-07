@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_isEmergency","internalType":"bool","type":"bool"}],"name":"setIsEmergency","outputs":[],"stateMutability":"nonpayable"}]

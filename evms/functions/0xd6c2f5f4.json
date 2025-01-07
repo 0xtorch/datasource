@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"sender","internalType":"address","type":"address"},{"name":"eventId","internalType":"uint256","type":"uint256"},{"name":"logicId","internalType":"uint256","type":"uint256"}],"name":"checkClaimStatus","outputs":[{"name":"","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"oldVoteExtension","internalType":"uint64","type":"uint64","indexed":false},{"name":"newVoteExtension","internalType":"uint64","type":"uint64","indexed":false}],"name":"LateQuorumVoteExtensionSet"}]

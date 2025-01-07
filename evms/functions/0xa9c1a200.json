@@ -1,0 +1,1 @@
+[{"type":"function","constant":false,"inputs":[{"name":"_key","internalType":"bytes32","type":"bytes32"},{"name":"_value","internalType":"bytes32","type":"bytes32"}],"name":"setClassProperty","outputs":[],"payable":false,"stateMutability":"nonpayable"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"newAdminFeeRate","internalType":"uint256","type":"uint256"}],"name":"updateAdminFeeRate","outputs":[],"stateMutability":"nonpayable"}]

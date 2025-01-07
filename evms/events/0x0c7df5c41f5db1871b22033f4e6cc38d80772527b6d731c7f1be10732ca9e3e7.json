@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"phase","internalType":"enum IOKPC.Phase","type":"uint8","indexed":false}],"name":"MintingPhaseStarted"}]

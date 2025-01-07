@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"index","internalType":"uint256","type":"uint256"}],"name":"totalSupplyHistory","outputs":[{"name":"value","internalType":"uint256","type":"uint256"},{"name":"date","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"topic1","internalType":"bytes32","type":"bytes32"},{"name":"topic2","internalType":"bytes32","type":"bytes32"},{"name":"data","internalType":"bytes","type":"bytes"}],"name":"emitDataLog2","outputs":[],"stateMutability":"nonpayable"}]

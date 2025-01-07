@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"asset","internalType":"address","type":"address"},{"name":"depositAmount","internalType":"uint256","type":"uint256"},{"name":"referralId","internalType":"string","type":"string"}],"name":"getRSETHWithERC20","outputs":[],"stateMutability":"nonpayable"}]

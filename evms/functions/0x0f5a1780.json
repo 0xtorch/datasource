@@ -1,0 +1,1 @@
+[{"type":"function","constant":false,"inputs":[{"name":"_account","type":"address"},{"name":"_index","type":"uint256"}],"name":"changeOperator","outputs":[],"payable":false,"stateMutability":"nonpayable"}]

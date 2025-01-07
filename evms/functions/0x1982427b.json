@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"","internalType":"uint256","type":"uint256"}],"name":"cardLevelWithId","outputs":[{"name":"","internalType":"enum ChainbindersMelt.NftLevel","type":"uint8"}],"stateMutability":"view"}]

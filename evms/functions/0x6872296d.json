@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"poolTokenIds","internalType":"uint256[]","type":"uint256[]"}],"name":"claimMultipleTranchedPoolZaps","outputs":[],"stateMutability":"nonpayable"}]

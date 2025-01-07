@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"token_id_","internalType":"uint256","type":"uint256"},{"name":"data_","internalType":"uint256","type":"uint256"},{"name":"cid_head_","internalType":"bytes32","type":"bytes32"},{"name":"cid_tail_","internalType":"bytes32","type":"bytes32"}],"name":"setMeta","outputs":[],"stateMutability":"nonpayable"}]

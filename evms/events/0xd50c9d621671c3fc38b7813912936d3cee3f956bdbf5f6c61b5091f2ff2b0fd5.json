@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"poolId","internalType":"uint256","type":"uint256","indexed":true},{"name":"endRewardBlock","internalType":"uint256","type":"uint256","indexed":false},{"name":"rewardPerBlock","internalType":"uint256","type":"uint256","indexed":false}],"name":"UpdateRewardPool"}]

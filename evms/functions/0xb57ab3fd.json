@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"erc721Address","internalType":"address","type":"address"},{"name":"holderId","internalType":"uint256","type":"uint256"},{"name":"rewardAddress","internalType":"address","type":"address"},{"name":"rewardId","internalType":"uint256","type":"uint256"}],"name":"take1155Rewards","outputs":[],"stateMutability":"nonpayable"}]

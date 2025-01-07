@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"","internalType":"enum ChainbindersMelt.NftLevel","type":"uint8"}],"name":"nftRatio","outputs":[{"name":"","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

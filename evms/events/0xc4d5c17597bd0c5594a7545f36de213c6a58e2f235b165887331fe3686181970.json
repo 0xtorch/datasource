@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"oldCapper","type":"address","indexed":true},{"name":"newCapper","type":"address","indexed":true},{"name":"sender","type":"address","indexed":true}],"name":"CapperChanged"}]

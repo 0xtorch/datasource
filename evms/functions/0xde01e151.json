@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_accounts","internalType":"address[]","type":"address[]"},{"name":"_appliedLayers","internalType":"uint256[]","type":"uint256[]"}],"name":"migrate","outputs":[],"stateMutability":"nonpayable"}]

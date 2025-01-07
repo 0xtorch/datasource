@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"token1Id","internalType":"uint256","type":"uint256"},{"name":"token2Id","internalType":"uint256","type":"uint256"}],"name":"tokenPairID","outputs":[{"name":"","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

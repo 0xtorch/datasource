@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_hasLimits","internalType":"bool","type":"bool"},{"name":"_minTokensPerAddress","internalType":"uint256","type":"uint256"},{"name":"_maxTokensPerAddress","internalType":"uint256","type":"uint256"}],"name":"setLimits","outputs":[],"stateMutability":"nonpayable"}]

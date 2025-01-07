@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_minUsdg","internalType":"uint256","type":"uint256"},{"name":"_minKlp","internalType":"uint256","type":"uint256"}],"name":"mintAndStakeKlpETH","outputs":[{"name":"","internalType":"uint256","type":"uint256"}],"stateMutability":"payable"}]

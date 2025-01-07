@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"inboxAddress","internalType":"address","type":"address"},{"name":"routerAddress","internalType":"address","type":"address"}],"name":"initArbitrum","outputs":[],"stateMutability":"nonpayable"}]

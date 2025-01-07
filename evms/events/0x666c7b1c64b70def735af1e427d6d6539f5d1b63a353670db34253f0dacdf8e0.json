@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"collectionId","internalType":"uint256","type":"uint256","indexed":true},{"name":"registryDisabled","internalType":"bool","type":"bool","indexed":false}],"name":"NFTRegistryDisabled"}]

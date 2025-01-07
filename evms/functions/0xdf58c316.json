@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"accounts","internalType":"address[]","type":"address[]"},{"name":"totalAmounts","internalType":"uint256[]","type":"uint256[]"},{"name":"proof","internalType":"bytes32[]","type":"bytes32[]"},{"name":"proofFlags","internalType":"bool[]","type":"bool[]"}],"name":"claimMultiple","outputs":[],"stateMutability":"nonpayable"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"projectID","internalType":"bytes32","type":"bytes32"}],"name":"getApplicationIndexesByProjectID","outputs":[{"name":"","internalType":"uint256[]","type":"uint256[]"}],"stateMutability":"view"}]

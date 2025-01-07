@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"tokenId","internalType":"uint256","type":"uint256"},{"name":"newNum","internalType":"uint256","type":"uint256"},{"name":"newDen","internalType":"uint256","type":"uint256"}],"name":"setTokenRewardMultiplier","outputs":[],"stateMutability":"nonpayable"}]

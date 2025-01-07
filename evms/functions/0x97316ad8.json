@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"newQuoteBalanceLimit","internalType":"uint256","type":"uint256"}],"name":"setQuoteBalanceLimit","outputs":[],"stateMutability":"nonpayable"}]

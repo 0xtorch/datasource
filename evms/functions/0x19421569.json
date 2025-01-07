@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"code","internalType":"uint256","type":"uint256"},{"name":"bps","internalType":"uint16","type":"uint16"}],"name":"createReferralCode","outputs":[],"stateMutability":"nonpayable"}]

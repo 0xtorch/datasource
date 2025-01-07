@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"_firstDiceRoll","internalType":"uint256","type":"uint256","indexed":true},{"name":"_commitBlock","internalType":"uint256","type":"uint256","indexed":true},{"name":"_secondDiceRoll","internalType":"uint256","type":"uint256","indexed":false}],"name":"SecondDiceRoll"}]

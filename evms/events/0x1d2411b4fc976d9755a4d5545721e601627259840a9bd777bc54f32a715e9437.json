@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"index","internalType":"uint128","type":"uint128","indexed":true},{"name":"executionFeeReceiver","internalType":"address payable","type":"address","indexed":false}],"name":"IncreasePositionCancelled"}]

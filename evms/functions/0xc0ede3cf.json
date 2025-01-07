@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"tier","internalType":"uint8","type":"uint8"},{"name":"start","internalType":"uint256","type":"uint256"},{"name":"stop","internalType":"uint256","type":"uint256"}],"name":"tierTokenIdsIn","outputs":[{"name":"tokenIds","internalType":"uint256[]","type":"uint256[]"}],"stateMutability":"view"}]

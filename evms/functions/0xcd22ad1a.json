@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_ALArray","internalType":"address[]","type":"address[]"},{"name":"_mintAmountArray","internalType":"uint256[]","type":"uint256[]"}],"name":"setAllowList","outputs":[],"stateMutability":"nonpayable"}]

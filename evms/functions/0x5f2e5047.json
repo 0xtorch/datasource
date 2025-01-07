@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"minter","internalType":"address","type":"address"}],"name":"canWalletMintInPhase","outputs":[{"name":"","internalType":"bool","type":"bool"}],"stateMutability":"view"}]

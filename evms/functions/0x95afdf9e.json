@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"","internalType":"address","type":"address"}],"name":"_lockBoxStructs","outputs":[{"name":"beneficiary","internalType":"address","type":"address"},{"name":"balance","internalType":"uint256","type":"uint256"},{"name":"initialized","internalType":"bool","type":"bool"}],"stateMutability":"view"}]

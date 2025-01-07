@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"account","internalType":"address","type":"address"},{"name":"excluded","internalType":"bool","type":"bool"}],"name":"excludeFromMaxWallet","outputs":[],"stateMutability":"nonpayable"}]

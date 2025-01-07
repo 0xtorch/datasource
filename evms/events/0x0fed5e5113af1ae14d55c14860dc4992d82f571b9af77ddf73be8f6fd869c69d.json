@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"oldGasMargin","internalType":"uint256","type":"uint256","indexed":false},{"name":"newGasMargin","internalType":"uint256","type":"uint256","indexed":false}],"name":"LogSetGasMargin"}]

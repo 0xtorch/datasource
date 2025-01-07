@@ -1,0 +1,1 @@
+[{"type":"function","constant":false,"inputs":[{"name":"_recipient","internalType":"address","type":"address"}],"name":"swapAndBridgeAll","outputs":[],"payable":false,"stateMutability":"nonpayable"}]

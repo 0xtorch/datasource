@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_callBytes","internalType":"bytes","type":"bytes"},{"name":"_callType","internalType":"bool","type":"bool"}],"name":"executeOnAdapter","outputs":[{"name":"","internalType":"bytes","type":"bytes"}],"stateMutability":"payable"}]

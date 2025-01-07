@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"index","internalType":"uint256","type":"uint256"}],"name":"getExchangeRateSnapshot","outputs":[{"name":"","internalType":"struct SM1Types.Snapshot","type":"tuple","components":[{"name":"blockNumber","internalType":"uint256","type":"uint256"},{"name":"value","internalType":"uint256","type":"uint256"}]}],"stateMutability":"view"}]

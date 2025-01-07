@@ -1,0 +1,1 @@
+[{"type":"function","constant":false,"inputs":[{"name":"rewardPool","internalType":"address","type":"address"},{"name":"burnPool","internalType":"address","type":"address"}],"name":"setRewardPool","outputs":[],"payable":false,"stateMutability":"nonpayable"}]

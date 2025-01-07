@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"randomValue","internalType":"uint256","type":"uint256"},{"name":"_tokenId","internalType":"uint256","type":"uint256"}],"name":"decodeTokenId","outputs":[{"name":"","internalType":"uint256[]","type":"uint256[]"}],"stateMutability":"view"}]

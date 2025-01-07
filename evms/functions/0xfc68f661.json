@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"borrowersRegistry_","internalType":"contract IBorrowersRegistry","type":"address"}],"name":"setBorrowersRegistry","outputs":[],"stateMutability":"nonpayable"}]

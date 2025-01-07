@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"squareId","internalType":"uint256","type":"uint256"}],"name":"readOwnerMessage","outputs":[{"name":"ownerMessage","internalType":"struct IBulletinBoard.Message","type":"tuple","components":[{"name":"writer","internalType":"address","type":"address"},{"name":"message","internalType":"string","type":"string"}]}],"stateMutability":"view"}]

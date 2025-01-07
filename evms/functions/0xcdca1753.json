@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"path","internalType":"bytes","type":"bytes"},{"name":"amountIn","internalType":"uint256","type":"uint256"}],"name":"quoteExactInput","outputs":[{"name":"amountOut","internalType":"uint256","type":"uint256"},{"name":"fees","internalType":"uint16[]","type":"uint16[]"}],"stateMutability":"nonpayable"}]

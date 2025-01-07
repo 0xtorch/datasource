@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"borrowedAmount","internalType":"uint256","type":"uint256"},{"name":"creditAccount","internalType":"address","type":"address"}],"name":"lendCreditAccount","outputs":[],"stateMutability":"nonpayable"}]

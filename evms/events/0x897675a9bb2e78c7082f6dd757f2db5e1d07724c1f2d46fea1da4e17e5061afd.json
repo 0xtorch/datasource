@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"_dependencyType","internalType":"enum IGenArt721CoreContractV3_Engine_Flex.ExternalAssetDependencyType","type":"uint8","indexed":true},{"name":"_gatewayAddress","internalType":"string","type":"string","indexed":false}],"name":"GatewayUpdated"}]

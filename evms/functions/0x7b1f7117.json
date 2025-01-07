@@ -1,0 +1,1 @@
+[{"type":"function","constant":false,"inputs":[{"name":"_tokens","internalType":"address[]","type":"address[]"},{"name":"_amountOrTokens","internalType":"uint256[]","type":"uint256[]"},{"name":"_user","internalType":"address","type":"address"}],"name":"depositBulk","outputs":[],"payable":false,"stateMutability":"nonpayable"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"value","internalType":"bool","type":"bool"}],"name":"setContractCallerWhitelistToggle","outputs":[],"stateMutability":"nonpayable"}]

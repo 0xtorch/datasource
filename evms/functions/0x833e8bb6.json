@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"amount","internalType":"uint256","type":"uint256"}],"name":"increasePool","outputs":[{"name":"success","internalType":"bool","type":"bool"}],"stateMutability":"nonpayable"}]

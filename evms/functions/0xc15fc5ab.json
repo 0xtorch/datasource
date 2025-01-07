@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"user","internalType":"address","type":"address"},{"name":"banned","internalType":"bool","type":"bool"}],"name":"setWalletBanStatus","outputs":[],"stateMutability":"nonpayable"}]

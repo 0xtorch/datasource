@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_group","internalType":"string","type":"string"},{"name":"_categoryIndex","internalType":"uint32","type":"uint32"}],"name":"getCategoryNameAtIndex","outputs":[{"name":"","internalType":"string","type":"string"}],"stateMutability":"view"}]

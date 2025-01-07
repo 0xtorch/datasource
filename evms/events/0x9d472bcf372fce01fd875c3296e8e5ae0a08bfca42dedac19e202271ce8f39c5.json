@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"currentEra","internalType":"uint256","type":"uint256","indexed":false},{"name":"nextEraTime","internalType":"uint256","type":"uint256","indexed":false},{"name":"emission","internalType":"uint256","type":"uint256","indexed":false}],"name":"NewEra"}]

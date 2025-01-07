@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"","internalType":"uint256","type":"uint256"}],"name":"canvases","outputs":[{"name":"totalContributions","internalType":"uint256","type":"uint256"},{"name":"totalRaised","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

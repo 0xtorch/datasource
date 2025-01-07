@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"originToken","internalType":"address","type":"address"},{"name":"destinationChainId","internalType":"uint256","type":"uint256"},{"name":"enabled","internalType":"bool","type":"bool"}],"name":"setEnableRoute","outputs":[],"stateMutability":"nonpayable"}]

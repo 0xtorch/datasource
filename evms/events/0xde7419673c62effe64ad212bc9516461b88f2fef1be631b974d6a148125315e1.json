@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"sender","internalType":"address","type":"address","indexed":true},{"name":"contractAddress","internalType":"address","type":"address","indexed":true},{"name":"data","internalType":"bytes","type":"bytes","indexed":false}],"name":"CustomMintData"}]

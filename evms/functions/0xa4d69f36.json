@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"currentTokenAddress","internalType":"address","type":"address"}],"name":"getNativeTokenInfo","outputs":[{"name":"nativeChainId","internalType":"uint256","type":"uint256"},{"name":"nativeAddress","internalType":"bytes","type":"bytes"}],"stateMutability":"view"}]

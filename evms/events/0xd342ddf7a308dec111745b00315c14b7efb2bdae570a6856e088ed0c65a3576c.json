@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"globalRoot","internalType":"uint256","type":"uint256","indexed":false},{"name":"blockNumber","internalType":"int256","type":"int256","indexed":false},{"name":"blockHash","internalType":"uint256","type":"uint256","indexed":false}],"name":"LogStateUpdate"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"dataLength","internalType":"uint256","type":"uint256"},{"name":"baseFee","internalType":"uint256","type":"uint256"}],"name":"calculateRetryableSubmissionFee","outputs":[{"name":"","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

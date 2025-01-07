@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_pid","internalType":"uint256","type":"uint256"}],"name":"rewarderBonusTokenInfo","outputs":[{"name":"bonusTokenAddresses","internalType":"contract IERC20[]","type":"address[]"},{"name":"bonusTokenSymbols","internalType":"string[]","type":"string[]"}],"stateMutability":"view"}]

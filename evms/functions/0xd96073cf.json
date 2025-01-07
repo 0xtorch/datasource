@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"poolIndex","internalType":"uint256","type":"uint256"},{"name":"requestedPaymentAmount","internalType":"uint256","type":"uint256"}],"name":"swap","outputs":[{"name":"paymentAmount","internalType":"uint256","type":"uint256"},{"name":"issuanceAmount","internalType":"uint256","type":"uint256"}],"stateMutability":"nonpayable"}]

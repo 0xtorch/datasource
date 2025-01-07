@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"implementationTypesAndAddresses","internalType":"bytes32[]","type":"bytes32[]"},{"name":"delegatedCreationSigner_","internalType":"address","type":"address"},{"name":"ownerTokenURI","internalType":"string","type":"string"}],"name":"newContractImplementationsAndSigner","outputs":[],"stateMutability":"payable"}]

@@ -1,0 +1,1 @@
+[{"type":"function","constant":true,"inputs":[{"name":"memberAddr","internalType":"address","type":"address"}],"name":"xfLobbyPendingDays","outputs":[{"name":"words","internalType":"uint256[2]","type":"uint256[2]"}],"payable":false,"stateMutability":"view"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"amount","internalType":"uint256","type":"uint256"},{"name":"minAmount","internalType":"uint256","type":"uint256"}],"name":"vectorUnstakeSAVAX1","outputs":[],"stateMutability":"nonpayable"}]

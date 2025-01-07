@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"collection","internalType":"address","type":"address","indexed":true},{"name":"tradingFee","internalType":"uint256","type":"uint256","indexed":false}],"name":"CollectionUpdate"}]

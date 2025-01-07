@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_tokenId","internalType":"uint256","type":"uint256"}],"name":"get_last_user_slope","outputs":[{"name":"","internalType":"int128","type":"int128"}],"stateMutability":"view"}]

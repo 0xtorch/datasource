@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_user","internalType":"address","type":"address"}],"name":"reflinkInfoFor","outputs":[{"name":"balance","internalType":"uint256","type":"uint256"},{"name":"level","internalType":"uint256","type":"uint256"},{"name":"percent","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

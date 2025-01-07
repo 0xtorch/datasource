@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"listHeroId","internalType":"uint256[]","type":"uint256[]"}],"name":"upgradeHero","outputs":[],"stateMutability":"nonpayable"}]

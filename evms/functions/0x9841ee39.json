@@ -1,0 +1,1 @@
+[{"type":"function","constant":false,"inputs":[{"name":"_artistRoyaltyPercentage","type":"uint256"}],"name":"setArtistRoyaltyPercentage","outputs":[],"payable":false,"stateMutability":"nonpayable"}]

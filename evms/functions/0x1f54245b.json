@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"masterContract","internalType":"address","type":"address"},{"name":"data","internalType":"bytes","type":"bytes"},{"name":"useCreate2","internalType":"bool","type":"bool"}],"name":"deploy","outputs":[{"name":"cloneAddress","internalType":"address","type":"address"}],"stateMutability":"payable"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"debtId","internalType":"uint256","type":"uint256"}],"name":"getCurrentDebt","outputs":[{"name":"currentDebt","internalType":"uint256","type":"uint256"},{"name":"latestBorrowingIndex","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

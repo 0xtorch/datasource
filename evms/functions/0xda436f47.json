@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"protocolAddress","internalType":"address","type":"address"}],"name":"protocolAddressToProtocolId","outputs":[{"name":"protocolId","internalType":"bytes32","type":"bytes32"}],"stateMutability":"view"}]

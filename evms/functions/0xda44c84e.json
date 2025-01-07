@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[],"name":"getGasPriceOracle","outputs":[{"name":"gasPriceOracle","internalType":"address","type":"address"}],"stateMutability":"view"}]

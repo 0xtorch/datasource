@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"tierId","internalType":"string","type":"string","indexed":false},{"name":"totalN","internalType":"uint256","type":"uint256","indexed":false},{"name":"winnersN","internalType":"uint256","type":"uint256","indexed":false},{"name":"winners","internalType":"address[]","type":"address[]","indexed":false}],"name":"WinnersPicked"}]

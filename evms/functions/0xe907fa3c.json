@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[],"name":"isNotFinalized","outputs":[{"name":"notFinal","internalType":"bool","type":"bool"}],"stateMutability":"view"}]

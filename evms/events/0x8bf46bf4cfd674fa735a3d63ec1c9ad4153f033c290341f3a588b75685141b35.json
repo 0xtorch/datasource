@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"recipient","internalType":"address","type":"address","indexed":true},{"name":"attester","internalType":"address","type":"address","indexed":true},{"name":"uid","internalType":"bytes32","type":"bytes32","indexed":false},{"name":"schemaUID","internalType":"bytes32","type":"bytes32","indexed":true}],"name":"Attested"}]

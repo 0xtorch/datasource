@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"adapter","internalType":"address","type":"address","indexed":true},{"name":"maturity","internalType":"uint256","type":"uint256","indexed":true},{"name":"issuanceFee","internalType":"uint256","type":"uint256","indexed":false}],"name":"SeriesCreated"}]

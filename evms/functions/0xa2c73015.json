@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"tokenId","internalType":"uint256","type":"uint256"},{"name":"withBackground","internalType":"bool","type":"bool"}],"name":"getSvgByTokenId","outputs":[{"name":"","internalType":"string","type":"string"}],"stateMutability":"view"}]

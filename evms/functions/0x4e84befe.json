@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"data","internalType":"struct Cellar.AdaptorCall[]","type":"tuple[]","components":[{"name":"adaptor","internalType":"address","type":"address"},{"name":"callData","internalType":"bytes[]","type":"bytes[]"}]}],"name":"callOnAdaptor","outputs":[],"stateMutability":"nonpayable"}]

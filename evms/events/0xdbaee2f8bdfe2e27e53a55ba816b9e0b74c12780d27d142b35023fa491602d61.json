@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"challenger","internalType":"address","type":"address","indexed":true},{"name":"id","internalType":"uint256","type":"uint256","indexed":true},{"name":"maids","internalType":"contract IMaids","type":"address","indexed":true},{"name":"maidId","internalType":"uint256","type":"uint256","indexed":false}],"name":"Enter"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"poolId","internalType":"bytes32","type":"bytes32"}],"name":"updateLastTimestamp","outputs":[{"name":"lastTimestamp","internalType":"uint32","type":"uint32"}],"stateMutability":"nonpayable"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_phaseIndex","internalType":"uint256","type":"uint256"},{"name":"_whitelistRoot","internalType":"bytes32","type":"bytes32"}],"name":"setPresaleRoot","outputs":[],"stateMutability":"nonpayable"}]

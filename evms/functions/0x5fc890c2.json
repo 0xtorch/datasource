@@ -1,0 +1,1 @@
+[{"type":"function","constant":true,"inputs":[],"name":"marketSizes","outputs":[{"name":"long","internalType":"uint256","type":"uint256"},{"name":"short","internalType":"uint256","type":"uint256"}],"payable":false,"stateMutability":"view"}]

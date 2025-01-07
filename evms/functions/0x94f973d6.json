@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[],"name":"complementToken","outputs":[{"name":"","internalType":"contract IERC20MintedBurnable","type":"address"}],"stateMutability":"view"}]

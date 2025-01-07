@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"oldAccounter","internalType":"address","type":"address","indexed":true},{"name":"newAccounter","internalType":"address","type":"address","indexed":true}],"name":"UpdatedSlippageAccounter"}]

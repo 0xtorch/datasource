@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"staker","internalType":"address","type":"address"}],"name":"getUnstakes","outputs":[{"name":"oasUnstakes","internalType":"uint256","type":"uint256"},{"name":"woasUnstakes","internalType":"uint256","type":"uint256"},{"name":"soasUnstakes","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

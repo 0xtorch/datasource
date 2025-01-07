@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_cappedRewardPercentageForHolder","internalType":"uint256","type":"uint256"},{"name":"_rewardRateForClaimer","internalType":"uint256","type":"uint256"},{"name":"_rewardCappedForClaimer","internalType":"uint256","type":"uint256"}],"name":"configureRewardPercentage","outputs":[],"stateMutability":"nonpayable"}]

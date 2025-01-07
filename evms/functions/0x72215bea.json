@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[],"name":"getApprovedRouterAddresses","outputs":[{"name":"routerA","internalType":"address","type":"address"},{"name":"routerB","internalType":"address","type":"address"}],"stateMutability":"view"}]

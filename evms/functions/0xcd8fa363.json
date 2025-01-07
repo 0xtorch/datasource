@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_uri","internalType":"string","type":"string"},{"name":"_receiver","internalType":"address","type":"address"},{"name":"_royaltyPercentage","internalType":"uint256","type":"uint256"}],"name":"mintToWithRoyaltyPercentage","outputs":[],"stateMutability":"nonpayable"}]

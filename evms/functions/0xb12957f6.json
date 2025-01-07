@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"roundId","internalType":"uint256","type":"uint256"},{"name":"depositor","internalType":"address","type":"address"}],"name":"depositCount","outputs":[{"name":"depositCount","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

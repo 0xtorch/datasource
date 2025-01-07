@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_gauges","internalType":"address[]","type":"address[]"},{"name":"_rewards","internalType":"address[]","type":"address[]"}],"name":"whitelistGaugeRewards","outputs":[],"stateMutability":"nonpayable"}]

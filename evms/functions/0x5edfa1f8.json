@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[],"name":"calculateFees","outputs":[{"name":"_protocolFee","internalType":"uint256","type":"uint256"},{"name":"_managementFee","internalType":"uint256","type":"uint256"},{"name":"_performanceFee","internalType":"uint256","type":"uint256"}],"stateMutability":"nonpayable"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"receivers","internalType":"address[]","type":"address[]"},{"name":"qualities","internalType":"uint256[]","type":"uint256[]"}],"name":"batchAirDrop","outputs":[],"stateMutability":"nonpayable"}]

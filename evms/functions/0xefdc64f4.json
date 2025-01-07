@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"vaultAddresses","internalType":"address[]","type":"address[]"}],"name":"bulkCalculateVaultFinalPayoffs","outputs":[],"stateMutability":"nonpayable"}]

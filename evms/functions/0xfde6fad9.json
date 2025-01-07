@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"term","internalType":"uint256","type":"uint256"}],"name":"totalShareData","outputs":[{"name":"totalShare","internalType":"uint128","type":"uint128"},{"name":"totalCollateralPerToken","internalType":"uint128","type":"uint128"}],"stateMutability":"view"}]

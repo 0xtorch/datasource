@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"oldStakingBonus","internalType":"address","type":"address","indexed":true},{"name":"newStakingBonus","internalType":"address","type":"address","indexed":true}],"name":"StakingBonusAddressSet"}]

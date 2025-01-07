@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"_sport","internalType":"uint256","type":"uint256","indexed":false},{"name":"_minSupportedOddsPerSport","internalType":"uint256","type":"uint256","indexed":false},{"name":"_maxSpreadPerSport","internalType":"uint256","type":"uint256","indexed":false}],"name":"SetMinSupportedOddsAndMaxSpreadPerSport"}]

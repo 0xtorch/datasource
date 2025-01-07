@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[],"name":"getAllAssetsPrices","outputs":[{"name":"","internalType":"struct SmartLoanViewFacet.AssetNamePrice[]","type":"tuple[]","components":[{"name":"name","internalType":"bytes32","type":"bytes32"},{"name":"price","internalType":"uint256","type":"uint256"}]}],"stateMutability":"nonpayable"}]

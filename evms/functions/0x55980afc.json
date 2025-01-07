@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_startTime","internalType":"uint256","type":"uint256"},{"name":"_totalTime","internalType":"uint256","type":"uint256"}],"name":"setVotingLock","outputs":[],"stateMutability":"nonpayable"}]

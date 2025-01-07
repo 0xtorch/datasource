@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_user","internalType":"address","type":"address"},{"name":"_proxy","internalType":"address","type":"address"}],"name":"setProxy","outputs":[],"stateMutability":"nonpayable"}]

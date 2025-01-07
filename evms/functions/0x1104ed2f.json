@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"caveId","internalType":"uint256","type":"uint256"},{"name":"_user","internalType":"address","type":"address"}],"name":"pendingFruit","outputs":[{"name":"","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

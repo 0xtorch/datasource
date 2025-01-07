@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_ids","internalType":"uint256[]","type":"uint256[]"},{"name":"_referral","internalType":"address","type":"address"}],"name":"multi721Deposit","outputs":[],"stateMutability":"nonpayable"}]

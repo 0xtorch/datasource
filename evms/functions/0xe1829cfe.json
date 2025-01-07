@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"token","internalType":"contract IWETH","type":"address"}],"name":"withdrawAllWETH","outputs":[],"stateMutability":"nonpayable"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"","internalType":"address","type":"address"}],"name":"modulesStatus","outputs":[{"name":"","internalType":"enum INiftyForgeModules.ModuleStatus","type":"uint8"}],"stateMutability":"view"}]

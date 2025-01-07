@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[],"name":"claimable_tokens","outputs":[{"name":"farmToken","internalType":"address[]","type":"address[]"},{"name":"totalDistributedValue","internalType":"uint256[]","type":"uint256[]"}],"stateMutability":"view"}]

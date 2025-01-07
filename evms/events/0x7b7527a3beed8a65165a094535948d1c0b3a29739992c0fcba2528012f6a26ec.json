@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"marketplaceId","internalType":"uint256","type":"uint256","indexed":false},{"name":"offerer","internalType":"address","type":"address","indexed":true},{"name":"offer","internalType":"uint128","type":"uint128","indexed":false},{"name":"nextMinimum","internalType":"uint256","type":"uint256","indexed":false}],"name":"NewOffer"}]

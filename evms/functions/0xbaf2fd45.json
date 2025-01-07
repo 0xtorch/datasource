@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"newMinTickDeviation","internalType":"int24","type":"int24"}],"name":"updateMinTickDeviation","outputs":[],"stateMutability":"nonpayable"}]

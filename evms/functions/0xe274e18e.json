@@ -1,0 +1,1 @@
+[{"type":"function","constant":false,"inputs":[{"name":"_landType","type":"uint16"},{"name":"_purchaseBy","type":"address"}],"name":"addEthToLandPool","outputs":[],"payable":true,"stateMutability":"payable"}]

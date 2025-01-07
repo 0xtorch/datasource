@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"basePrice","internalType":"uint256","type":"uint256"},{"name":"usedDeltaLiquidity","internalType":"uint256","type":"uint256"}],"name":"getTotalPoolValueQuote","outputs":[{"name":"","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

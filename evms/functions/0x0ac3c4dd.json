@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_stakedSamuRiseCount","internalType":"uint256","type":"uint256"},{"name":"_nonce","internalType":"uint256","type":"uint256"}],"name":"getDiceRolls","outputs":[{"name":"","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

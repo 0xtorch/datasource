@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"account","internalType":"address","type":"address"}],"name":"isQualified","outputs":[{"name":"qualified","internalType":"bool","type":"bool"}],"stateMutability":"view"}]

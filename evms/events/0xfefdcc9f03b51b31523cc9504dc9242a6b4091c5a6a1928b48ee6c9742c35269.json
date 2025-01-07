@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"status","internalType":"bool","type":"bool","indexed":false},{"name":"forgeId","internalType":"uint256","type":"uint256","indexed":false}],"name":"ForgeDepositEnabled"}]

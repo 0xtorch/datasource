@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"integrationAddresses_","internalType":"address[3]","type":"address[3]"},{"name":"baseParams_","internalType":"bytes","type":"bytes"},{"name":"supplyParams_","internalType":"bytes","type":"bytes"},{"name":"taxParams_","internalType":"bytes","type":"bytes"}],"name":"initialize","outputs":[],"stateMutability":"nonpayable"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"recipients","internalType":"address[]","type":"address[]"},{"name":"quantities","internalType":"uint16[]","type":"uint16[]"},{"name":"specialEdition","internalType":"uint256","type":"uint256"}],"name":"airdrop","outputs":[],"stateMutability":"nonpayable"}]

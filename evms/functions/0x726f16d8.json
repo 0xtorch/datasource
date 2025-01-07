@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"","internalType":"uint256","type":"uint256"}],"name":"routes","outputs":[{"name":"route","internalType":"address","type":"address"},{"name":"isEnabled","internalType":"bool","type":"bool"},{"name":"isMiddleware","internalType":"bool","type":"bool"}],"stateMutability":"view"}]

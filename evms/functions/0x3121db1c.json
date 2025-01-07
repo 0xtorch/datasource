@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"ensRegistry","internalType":"address","type":"address"},{"name":"ensName","internalType":"string","type":"string"}],"name":"setName","outputs":[],"stateMutability":"nonpayable"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"num","internalType":"uint256","type":"uint256"},{"name":"timestamp","internalType":"uint256","type":"uint256"},{"name":"amount","internalType":"uint256","type":"uint256"},{"name":"sign","internalType":"bytes","type":"bytes"}],"name":"validUser","outputs":[{"name":"","internalType":"bool","type":"bool"}],"stateMutability":"view"}]

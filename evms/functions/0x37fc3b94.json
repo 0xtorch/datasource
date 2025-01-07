@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"variety","internalType":"address","type":"address"},{"name":"maxPerCollect","internalType":"uint8","type":"uint8"}],"name":"setMaxPerCollect","outputs":[],"stateMutability":"nonpayable"}]

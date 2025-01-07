@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[],"name":"oraclePriceAndTimestamp","outputs":[{"name":"price","internalType":"uint256","type":"uint256"},{"name":"updatedAt","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

@@ -1,0 +1,1 @@
+[{"type":"function","constant":false,"inputs":[{"name":"cToken","internalType":"contract CToken","type":"address"},{"name":"version","internalType":"enum ComptrollerV1Storage.Version","type":"uint8"}],"name":"_supportMarket","outputs":[{"name":"","internalType":"uint256","type":"uint256"}],"payable":false,"stateMutability":"nonpayable"}]

@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"rewardToken","internalType":"address","type":"address","indexed":true},{"name":"receiver","internalType":"address","type":"address","indexed":true},{"name":"pullTokens","internalType":"bool","type":"bool","indexed":false}],"name":"RewardStopped"}]

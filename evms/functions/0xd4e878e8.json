@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"selector","internalType":"bytes4","type":"bytes4"}],"name":"handlingContractId","outputs":[{"name":"id","internalType":"string","type":"string"}],"stateMutability":"pure"}]

@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"ilkIndex","internalType":"uint8","type":"uint8","indexed":true},{"name":"usr","internalType":"address","type":"address","indexed":true},{"name":"wad","internalType":"int256","type":"int256","indexed":false}],"name":"MintAndBurnGem"}]

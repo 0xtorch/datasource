@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[],"name":"gen1SaleStage","outputs":[{"name":"stage","internalType":"enum GT.Gen1Stage","type":"uint8"}],"stateMutability":"view"}]

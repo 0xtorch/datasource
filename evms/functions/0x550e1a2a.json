@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"locked","internalType":"bool","type":"bool"},{"name":"_numTokensToReinvest","internalType":"uint256","type":"uint256"}],"name":"reinvestRewards","outputs":[],"stateMutability":"payable"}]

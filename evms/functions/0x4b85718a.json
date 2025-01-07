@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_spender","internalType":"address","type":"address"}],"name":"removeApprovedAll","outputs":[{"name":"","internalType":"bool","type":"bool"}],"stateMutability":"nonpayable"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"account","internalType":"address","type":"address"}],"name":"availableForClaim","outputs":[{"name":"reward","internalType":"uint256","type":"uint256"},{"name":"lastAccumulatedBlock","internalType":"uint256","type":"uint256"},{"name":"latestBlock","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

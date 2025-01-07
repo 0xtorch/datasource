@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"projectId_","internalType":"uint256","type":"uint256"},{"name":"feeTypes_","internalType":"enum FeeType[]","type":"uint8[]"},{"name":"fees_","internalType":"uint256[]","type":"uint256[]"}],"name":"updateProjectFee","outputs":[],"stateMutability":"nonpayable"}]

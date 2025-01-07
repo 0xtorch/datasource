@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"_asset","internalType":"address","type":"address","indexed":true},{"name":"openFee","internalType":"uint256","type":"uint256","indexed":false},{"name":"closeFee","internalType":"uint256","type":"uint256","indexed":false},{"name":"protocolFee","internalType":"uint256","type":"uint256","indexed":false}],"name":"FeeSet"}]

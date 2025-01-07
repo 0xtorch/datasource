@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[],"name":"vaultWithdrawPermitted","outputs":[{"name":"","internalType":"bool","type":"bool"},{"name":"","internalType":"string","type":"string"}],"stateMutability":"view"}]

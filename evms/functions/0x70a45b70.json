@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"tokenId","internalType":"uint256","type":"uint256"},{"name":"unlockTimestamp","internalType":"uint256","type":"uint256"}],"name":"lockTokenByContract","outputs":[],"stateMutability":"nonpayable"}]

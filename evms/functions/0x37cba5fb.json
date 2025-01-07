@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"xChainMessenger","internalType":"address","type":"address"},{"name":"authorized","internalType":"bool","type":"bool"}],"name":"updateXChainMessengerAuthorization","outputs":[],"stateMutability":"nonpayable"}]

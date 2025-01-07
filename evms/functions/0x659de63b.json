@@ -1,0 +1,1 @@
+[{"type":"function","constant":false,"inputs":[{"name":"addresses","type":"address[]"},{"name":"amounts","type":"uint256[]"}],"name":"distributeToken","outputs":[],"payable":false,"stateMutability":"nonpayable"}]

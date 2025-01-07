@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"deposit_limit_module","type":"address","indexed":true}],"name":"UpdateDepositLimitModule"}]

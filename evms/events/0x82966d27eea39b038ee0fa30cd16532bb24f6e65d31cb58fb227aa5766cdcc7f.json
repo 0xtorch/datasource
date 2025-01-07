@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"_newStabilityPoolAddress","internalType":"address","type":"address","indexed":false}],"name":"StabilityPoolAddressChanged"}]

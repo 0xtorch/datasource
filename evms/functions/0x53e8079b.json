@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"sender","internalType":"address","type":"address"},{"name":"to","internalType":"address","type":"address"},{"name":"swapForY","internalType":"bool","type":"bool"},{"name":"amountsOut","internalType":"bytes32","type":"bytes32"}],"name":"afterSwap","outputs":[{"name":"","internalType":"bytes4","type":"bytes4"}],"stateMutability":"nonpayable"}]

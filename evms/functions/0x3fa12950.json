@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_tokenid","internalType":"uint256","type":"uint256"},{"name":"_sendingamount","internalType":"uint256","type":"uint256"},{"name":"_receiveraddresses","internalType":"address[]","type":"address[]"}],"name":"BatchTransfer","outputs":[],"stateMutability":"nonpayable"}]

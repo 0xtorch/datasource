@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"names","internalType":"bytes32[]","type":"bytes32[]","indexed":false},{"name":"values","internalType":"bytes32[]","type":"bytes32[]","indexed":false}],"name":"MagicValues"}]

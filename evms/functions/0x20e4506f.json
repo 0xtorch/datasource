@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"a","internalType":"address","type":"address"},{"name":"id","internalType":"uint256","type":"uint256"},{"name":"approved","internalType":"bool","type":"bool"}],"name":"setApprovedMinter","outputs":[],"stateMutability":"nonpayable"}]

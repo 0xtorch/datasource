@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"role","internalType":"bytes32","type":"bytes32"},{"name":"accounts","internalType":"address[]","type":"address[]"}],"name":"revokeRoles","outputs":[],"stateMutability":"nonpayable"}]

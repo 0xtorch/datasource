@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"user","type":"address"}],"name":"read_user_tick_numbers","outputs":[{"name":"","type":"int256[2]"}],"stateMutability":"view"}]

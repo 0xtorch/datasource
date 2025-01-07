@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_ratios","internalType":"struct SwapAndAirdrop.RatioInfo[]","type":"tuple[]","components":[{"name":"account","internalType":"address","type":"address"},{"name":"ratio","internalType":"uint256","type":"uint256"}]}],"name":"updateUserVelaRatios","outputs":[],"stateMutability":"nonpayable"}]

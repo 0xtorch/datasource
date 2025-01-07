@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_contract","internalType":"address","type":"address"}],"name":"sendWhitelist","outputs":[{"name":"whitelisted","internalType":"bool","type":"bool"}],"stateMutability":"view"}]

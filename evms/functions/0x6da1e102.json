@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"nativeTokenAddress","internalType":"address","type":"address"}],"name":"setNativeToken","outputs":[],"stateMutability":"nonpayable"}]

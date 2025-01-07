@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"_royaltyReceiver","internalType":"address","type":"address","indexed":false},{"name":"_defaultRoyalty","internalType":"uint16","type":"uint16","indexed":false}],"name":"RoyaltyParamsUpdated"}]

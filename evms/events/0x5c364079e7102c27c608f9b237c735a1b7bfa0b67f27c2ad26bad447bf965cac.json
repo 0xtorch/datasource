@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"oldVault","internalType":"address","type":"address","indexed":true},{"name":"newVault","internalType":"address","type":"address","indexed":true},{"name":"effectiveTime","internalType":"uint256","type":"uint256","indexed":true}],"name":"LogChangeVault"}]

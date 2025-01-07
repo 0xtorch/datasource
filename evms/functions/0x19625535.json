@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_chainId","internalType":"uint256","type":"uint256"},{"name":"_object","internalType":"bytes32","type":"bytes32"},{"name":"_globalMetadata","internalType":"bytes27","type":"bytes27"}],"name":"pushBatchByChainId","outputs":[],"stateMutability":"nonpayable"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_maxDurability","internalType":"uint256","type":"uint256"},{"name":"_requiredRaysAmount","internalType":"uint256","type":"uint256"}],"name":"setParameters","outputs":[],"stateMutability":"nonpayable"}]

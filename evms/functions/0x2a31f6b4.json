@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"target","internalType":"address payable","type":"address"},{"name":"callData","internalType":"bytes","type":"bytes"}],"name":"proxyCall","outputs":[],"stateMutability":"nonpayable"}]

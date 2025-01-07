@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"reward","internalType":"address","type":"address"},{"name":"rewardOracle","internalType":"contract IEACAggregatorProxy","type":"address"}],"name":"setRewardOracle","outputs":[],"stateMutability":"nonpayable"}]

@@ -1,0 +1,1 @@
+[{"type":"function","gas":509626,"inputs":[{"name":"addr","type":"address"},{"name":"_block","type":"uint256"}],"name":"balanceOfAt","outputs":[{"name":"","type":"uint256"}],"stateMutability":"view"}]

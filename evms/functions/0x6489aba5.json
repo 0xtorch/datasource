@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"signatory","internalType":"address","type":"address"},{"name":"decrement","internalType":"uint256","type":"uint256"}],"name":"decreaseAuthQuota","outputs":[{"name":"quota","internalType":"uint256","type":"uint256"}],"stateMutability":"nonpayable"}]

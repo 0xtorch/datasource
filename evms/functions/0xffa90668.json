@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[],"name":"metadataInfo","outputs":[{"name":"baseURI","internalType":"bytes","type":"bytes"},{"name":"onchainPointer","internalType":"address","type":"address"}],"stateMutability":"view"}]

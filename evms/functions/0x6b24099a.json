@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_onlyWhitelisted","internalType":"bool","type":"bool"},{"name":"_limitPerOrder","internalType":"bool","type":"bool"},{"name":"_saleIsActive","internalType":"bool","type":"bool"}],"name":"setSaleStates","outputs":[],"stateMutability":"nonpayable"}]

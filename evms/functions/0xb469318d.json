@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"revoker","internalType":"address","type":"address"},{"name":"data","internalType":"bytes32","type":"bytes32"}],"name":"getRevokeOffchain","outputs":[{"name":"","internalType":"uint64","type":"uint64"}],"stateMutability":"view"}]

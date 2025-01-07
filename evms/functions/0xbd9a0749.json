@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"lps","internalType":"address[]","type":"address[]"}],"name":"getLvtxVoteForPools","outputs":[{"name":"lvtxVotes","internalType":"uint256[]","type":"uint256[]"}],"stateMutability":"view"}]

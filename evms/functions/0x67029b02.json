@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_assetAddr","internalType":"address","type":"address"},{"name":"_newOracleOrder","internalType":"enum Enums.OracleType[2]","type":"uint8[2]"}],"name":"setAssetOracleOrder","outputs":[],"stateMutability":"nonpayable"}]

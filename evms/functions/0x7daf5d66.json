@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"index","internalType":"uint256","type":"uint256"}],"name":"getLBPairAtIndex","outputs":[{"name":"lbPair","internalType":"contract ILBPair","type":"address"}],"stateMutability":"view"}]

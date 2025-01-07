@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"qToken","internalType":"address","type":"address"},{"name":"sender","internalType":"address","type":"address"},{"name":"receiver","internalType":"address","type":"address"}],"name":"notifyTransferred","outputs":[],"stateMutability":"nonpayable"}]

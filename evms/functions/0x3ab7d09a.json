@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"saleId","internalType":"uint256","type":"uint256"}],"name":"getStock","outputs":[{"name":"","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

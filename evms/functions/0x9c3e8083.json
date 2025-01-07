@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"contractAddress","internalType":"address","type":"address"},{"name":"contractName","internalType":"string","type":"string"},{"name":"softwareName","internalType":"string","type":"string"}],"name":"setNFTContract","outputs":[],"stateMutability":"nonpayable"}]

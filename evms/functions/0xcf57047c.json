@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"boxTokenId","internalType":"uint256","type":"uint256"}],"name":"getTokenIdIndex","outputs":[{"name":"","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

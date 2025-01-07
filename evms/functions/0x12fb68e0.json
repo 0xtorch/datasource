@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"dataHash","internalType":"bytes32","type":"bytes32"},{"name":"data","internalType":"bytes","type":"bytes"},{"name":"signatures","internalType":"bytes","type":"bytes"},{"name":"requiredSignatures","internalType":"uint256","type":"uint256"}],"name":"checkNSignatures","outputs":[],"stateMutability":"view"}]

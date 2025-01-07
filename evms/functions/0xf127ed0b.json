@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_newBaseURI","internalType":"string","type":"string"},{"name":"_tokensTransferable","internalType":"bool","type":"bool"},{"name":"_freezeUpdates","internalType":"bool","type":"bool"}],"name":"update","outputs":[],"stateMutability":"nonpayable"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"tokenX","internalType":"contract IERC20","type":"address"},{"name":"tokenY","internalType":"contract IERC20","type":"address"},{"name":"binStep","internalType":"uint16","type":"uint16"}],"name":"getExecutionFee","outputs":[{"name":"fee","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

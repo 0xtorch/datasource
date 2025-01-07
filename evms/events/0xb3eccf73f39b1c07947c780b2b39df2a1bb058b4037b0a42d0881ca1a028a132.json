@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"entity","internalType":"address","type":"address","indexed":false},{"name":"publicEncryptionKey","internalType":"string","type":"string","indexed":false}],"name":"Registered"}]

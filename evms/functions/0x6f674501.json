@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"","internalType":"uint8","type":"uint8"}],"name":"boxTypeMapping","outputs":[{"name":"","internalType":"enum DGFamilyReveal.BoxType","type":"uint8"}],"stateMutability":"view"}]

@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"since","type":"uint256","indexed":false},{"name":"until","type":"uint256","indexed":false},{"name":"purchaseType","type":"uint8","indexed":false}],"name":"CampaignUpdated"}]

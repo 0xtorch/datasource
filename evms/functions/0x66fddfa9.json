@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"allowance","internalType":"string","type":"string"},{"name":"proof","internalType":"bytes32[]","type":"bytes32[]"}],"name":"getAllowance","outputs":[{"name":"","internalType":"string","type":"string"}],"stateMutability":"view"}]

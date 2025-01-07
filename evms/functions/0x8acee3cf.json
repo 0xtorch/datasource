@@ -1,0 +1,1 @@
+[{"type":"function","constant":true,"inputs":[],"name":"lpContract","outputs":[{"name":"","internalType":"contract ILP","type":"address"}],"payable":false,"stateMutability":"view"}]

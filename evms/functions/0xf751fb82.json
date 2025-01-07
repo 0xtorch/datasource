@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"account","internalType":"address","type":"address"}],"name":"getTransferLimitDetails","outputs":[{"name":"transferable","internalType":"uint256","type":"uint256"},{"name":"percentTransferable","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"solvBTCMultiAssetPool","internalType":"address","type":"address","indexed":true}],"name":"SetSolvBTCMultiAssetPool"}]

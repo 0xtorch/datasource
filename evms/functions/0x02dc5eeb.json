@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"trigger","internalType":"uint256","type":"uint256"},{"name":"_amount","internalType":"uint256","type":"uint256"}],"name":"claimProfitsEarned","outputs":[],"stateMutability":"nonpayable"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"user","internalType":"address","type":"address"}],"name":"getPoolProtectionData","outputs":[{"name":"lastUpdate","internalType":"uint256","type":"uint256"},{"name":"pools","internalType":"address[2]","type":"address[2]"}],"stateMutability":"view"}]

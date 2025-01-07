@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"state","internalType":"bool","type":"bool"},{"name":"time","internalType":"uint256","type":"uint256"}],"name":"updateCooldown","outputs":[],"stateMutability":"nonpayable"}]

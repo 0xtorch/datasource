@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"","internalType":"uint256","type":"uint256"},{"name":"","internalType":"uint256","type":"uint256"}],"name":"creators","outputs":[{"name":"account","internalType":"address payable","type":"address"},{"name":"value","internalType":"uint96","type":"uint96"}],"stateMutability":"view"}]

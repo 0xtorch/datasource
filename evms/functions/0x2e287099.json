@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"boxTokenId","internalType":"uint256","type":"uint256"},{"name":"roleType","internalType":"uint256","type":"uint256"},{"name":"nonce","internalType":"uint256","type":"uint256"},{"name":"sig","internalType":"bytes","type":"bytes"}],"name":"exchange","outputs":[],"stateMutability":"nonpayable"}]

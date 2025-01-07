@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"request","internalType":"struct CollectForRequest[]","type":"tuple[]","components":[{"name":"mintFor","internalType":"address","type":"address"},{"name":"profileId","internalType":"uint256","type":"uint256"},{"name":"pubId","internalType":"uint256","type":"uint256"}]}],"name":"collectFor","outputs":[],"stateMutability":"nonpayable"}]

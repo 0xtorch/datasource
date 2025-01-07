@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[],"name":"sharedMetadata","outputs":[{"name":"name","internalType":"string","type":"string"},{"name":"description","internalType":"string","type":"string"},{"name":"imageURI","internalType":"string","type":"string"},{"name":"animationURI","internalType":"string","type":"string"}],"stateMutability":"view"}]

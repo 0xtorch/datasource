@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_token","internalType":"contract IERC20","type":"address"}],"name":"isQuoteAsset","outputs":[{"name":"","internalType":"bool","type":"bool"}],"stateMutability":"view"}]

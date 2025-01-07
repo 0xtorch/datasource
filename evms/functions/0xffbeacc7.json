@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"destinationIdentifier","internalType":"bytes32","type":"bytes32"},{"name":"implementation","internalType":"bytes","type":"bytes"}],"name":"setRemoteImplementation","outputs":[],"stateMutability":"nonpayable"}]

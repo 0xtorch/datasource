@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"owners","internalType":"address[]","type":"address[]"},{"name":"transactionHashes","internalType":"bytes32[]","type":"bytes32[]"}],"name":"approveTransactions","outputs":[],"stateMutability":"nonpayable"}]

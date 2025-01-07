@@ -1,0 +1,1 @@
+[{"type":"function","constant":false,"inputs":[{"name":"account","internalType":"address","type":"address"}],"name":"removeTokenPauser","outputs":[],"payable":false,"stateMutability":"nonpayable"}]

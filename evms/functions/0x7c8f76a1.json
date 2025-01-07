@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_beneficiaries","internalType":"address[]","type":"address[]"},{"name":"_itemIds","internalType":"uint256[]","type":"uint256[]"}],"name":"issueTokens","outputs":[],"stateMutability":"nonpayable"}]

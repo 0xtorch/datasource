@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_voter","internalType":"address","type":"address"},{"name":"_snapshot","internalType":"uint64","type":"uint64"},{"name":"_votes","internalType":"uint256","type":"uint256"},{"name":"_extraData","internalType":"bytes","type":"bytes"}],"name":"onVotesReceived","outputs":[],"stateMutability":"payable"}]

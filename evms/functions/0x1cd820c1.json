@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"indexes","internalType":"uint256[]","type":"uint256[]"}],"name":"isClaimedBatch","outputs":[{"name":"","internalType":"bool[]","type":"bool[]"}],"stateMutability":"view"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_projectId","internalType":"uint256","type":"uint256"},{"name":"_index","internalType":"uint256","type":"uint256"}],"name":"projectScriptByIndex","outputs":[{"name":"","internalType":"string","type":"string"}],"stateMutability":"view"}]

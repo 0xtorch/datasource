@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"_mintPaused","internalType":"bool","type":"bool","indexed":false},{"name":"_redeemPaused","internalType":"bool","type":"bool","indexed":false}],"name":"Toggled"}]

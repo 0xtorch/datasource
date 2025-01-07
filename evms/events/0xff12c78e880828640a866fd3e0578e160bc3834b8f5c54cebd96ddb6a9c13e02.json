@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"baseURI","internalType":"string","type":"string","indexed":false},{"name":"initialRobiBoost","internalType":"uint256","type":"uint256","indexed":false},{"name":"burnRBPeriod","internalType":"uint256","type":"uint256","indexed":false}],"name":"Initialize"}]

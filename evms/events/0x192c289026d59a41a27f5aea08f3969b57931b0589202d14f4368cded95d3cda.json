@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"disputeGame","internalType":"contract IDisputeGame","type":"address","indexed":true}],"name":"DisputeGameBlacklisted"}]

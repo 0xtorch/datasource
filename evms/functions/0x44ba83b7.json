@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"messageBus","internalType":"address","type":"address"},{"name":"chainId","internalType":"uint64","type":"uint64"}],"name":"initCeler","outputs":[],"stateMutability":"nonpayable"}]

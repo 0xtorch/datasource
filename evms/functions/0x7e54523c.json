@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_platformFeeRecipient","internalType":"address","type":"address"},{"name":"_flatFee","internalType":"uint256","type":"uint256"}],"name":"setFlatPlatformFeeInfo","outputs":[],"stateMutability":"nonpayable"}]

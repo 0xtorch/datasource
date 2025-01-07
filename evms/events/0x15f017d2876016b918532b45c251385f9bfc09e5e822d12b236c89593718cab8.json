@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"group","internalType":"string","type":"string","indexed":false},{"name":"member","internalType":"address","type":"address","indexed":false},{"name":"sender","internalType":"address","type":"address","indexed":false}],"name":"WhitelistMemberRemoved"}]

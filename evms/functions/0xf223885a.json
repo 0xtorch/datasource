@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"amounts","internalType":"uint256[]","type":"uint256[]"},{"name":"minAmounts","internalType":"uint256[]","type":"uint256[]"}],"name":"deposit","outputs":[{"name":"fairSupply","internalType":"uint256","type":"uint256"}],"stateMutability":"payable"}]

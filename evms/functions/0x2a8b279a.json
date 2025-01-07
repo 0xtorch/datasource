@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"","internalType":"address","type":"address"}],"name":"users1","outputs":[{"name":"claimedUnlocksCount","internalType":"uint16","type":"uint16"},{"name":"eliminatedAfterUnlock","internalType":"uint16","type":"uint16"},{"name":"allocation","internalType":"uint120","type":"uint120"}],"stateMutability":"view"}]

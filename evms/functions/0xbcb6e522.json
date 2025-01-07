@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"flashLoanPremiumTotal","internalType":"uint128","type":"uint128"},{"name":"flashLoanPremiumToProtocol","internalType":"uint128","type":"uint128"}],"name":"updateFlashloanPremiums","outputs":[],"stateMutability":"nonpayable"}]

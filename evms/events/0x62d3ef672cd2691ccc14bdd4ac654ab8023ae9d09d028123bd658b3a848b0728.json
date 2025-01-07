@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"validator","internalType":"contract IValidator","type":"address","indexed":false}],"name":"ValidatorUninstalled"}]

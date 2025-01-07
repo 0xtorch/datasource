@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"_totalStakesSnapshot","internalType":"uint256","type":"uint256","indexed":false},{"name":"_totalCollateralSnapshot","internalType":"uint256","type":"uint256","indexed":false}],"name":"SystemSnapshotsUpdated"}]

@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"claimableActive","internalType":"bool","type":"bool","indexed":true}],"name":"ClaimableStateChanged"}]

@@ -1,0 +1,1 @@
+[{"type":"function","constant":true,"inputs":[{"name":"_amount","type":"uint256"}],"name":"withinLimit","outputs":[{"name":"","type":"bool"}],"payable":false,"stateMutability":"view"}]

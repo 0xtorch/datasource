@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_name","internalType":"string","type":"string"}],"name":"getDocument","outputs":[{"name":"","internalType":"string","type":"string"},{"name":"","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

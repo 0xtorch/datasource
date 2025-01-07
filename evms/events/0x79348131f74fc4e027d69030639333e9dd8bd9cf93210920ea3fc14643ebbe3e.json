@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"ghostPlayer","internalType":"address","type":"address","indexed":true},{"name":"tokenId","internalType":"uint256","type":"uint256","indexed":true},{"name":"session","internalType":"uint256","type":"uint256","indexed":false}],"name":"GhostMapCreated"}]

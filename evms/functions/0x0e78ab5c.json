@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"fromIndex","internalType":"uint256","type":"uint256"},{"name":"toIndex","internalType":"uint256","type":"uint256"}],"name":"getNftContracts","outputs":[{"name":"","internalType":"address[]","type":"address[]"}],"stateMutability":"view"}]

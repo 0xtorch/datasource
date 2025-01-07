@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_wlNum","internalType":"uint256","type":"uint256"},{"name":"bool_","internalType":"bool","type":"bool"}],"name":"setDisabledPartWhitelistSale","outputs":[],"stateMutability":"nonpayable"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_percentForReferLv1","internalType":"uint256","type":"uint256"},{"name":"_percentForReferLv2","internalType":"uint256","type":"uint256"}],"name":"setPercentLPLevelRefer","outputs":[],"stateMutability":"nonpayable"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_collectionId","internalType":"uint256","type":"uint256"}],"name":"getCollectionName","outputs":[{"name":"","internalType":"string","type":"string"}],"stateMutability":"view"}]

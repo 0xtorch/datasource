@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_addresses","internalType":"address[]","type":"address[]"},{"name":"_counts","internalType":"uint8[]","type":"uint8[]"}],"name":"airdropByOwner","outputs":[],"stateMutability":"nonpayable"}]

@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"nameValue","internalType":"string","type":"string","indexed":false},{"name":"oldValue","internalType":"uint256","type":"uint256","indexed":false},{"name":"newValue","internalType":"uint256","type":"uint256","indexed":false}],"name":"SetNewValue"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"newRate","internalType":"uint256","type":"uint256"}],"name":"setSwapRate","outputs":[{"name":"","internalType":"bool","type":"bool"}],"stateMutability":"nonpayable"}]

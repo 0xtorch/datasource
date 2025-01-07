@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"presaleAddress","internalType":"address","type":"address"}],"name":"presaleAllowed","outputs":[{"name":"","internalType":"bool","type":"bool"}],"stateMutability":"view"}]

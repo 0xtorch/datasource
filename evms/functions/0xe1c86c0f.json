@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"inputParam","internalType":"struct DechatIDOClaim.InputParam[]","type":"tuple[]","components":[{"name":"account","internalType":"address","type":"address"},{"name":"amount","internalType":"uint256","type":"uint256"},{"name":"ref","internalType":"uint256","type":"uint256"}]}],"name":"inputData","outputs":[],"stateMutability":"nonpayable"}]

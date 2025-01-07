@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"chainId","internalType":"uint256","type":"uint256"},{"name":"isPaused","internalType":"bool","type":"bool"}],"name":"setChainIdDepositsPaused","outputs":[],"stateMutability":"nonpayable"}]

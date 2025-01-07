@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_user","internalType":"address","type":"address"},{"name":"_veToken","internalType":"address","type":"address"}],"name":"getUserTargetExpiry","outputs":[{"name":"","internalType":"uint128","type":"uint128"}],"stateMutability":"view"}]

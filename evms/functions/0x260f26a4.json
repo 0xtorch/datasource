@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_beneficialVaultBountyBps","internalType":"uint256","type":"uint256"},{"name":"_beneficialVault","internalType":"contract IVault","type":"address"},{"name":"_rewardPath","internalType":"address[]","type":"address[]"}],"name":"setBeneficialVaultConfig","outputs":[],"stateMutability":"nonpayable"}]

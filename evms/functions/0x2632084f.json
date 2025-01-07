@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_gameKey","internalType":"bytes32","type":"bytes32"},{"name":"_uri","internalType":"string","type":"string"}],"name":"setGameURI","outputs":[],"stateMutability":"nonpayable"}]

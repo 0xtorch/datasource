@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"asset","internalType":"contract IERC20","type":"address"}],"name":"protocolRevenues","outputs":[{"name":"revenues","internalType":"uint128","type":"uint128"}],"stateMutability":"view"}]

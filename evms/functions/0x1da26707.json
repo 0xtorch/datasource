@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"account","internalType":"address","type":"address"},{"name":"forced","internalType":"bool","type":"bool"}],"name":"setForcedFee","outputs":[],"stateMutability":"nonpayable"}]

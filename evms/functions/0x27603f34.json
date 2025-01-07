@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"maskedVillainTokenIds","internalType":"uint256[]","type":"uint256[]"},{"name":"villainPotionTokenIds","internalType":"uint256[]","type":"uint256[]"},{"name":"superVillainPotionTokenIds","internalType":"uint256[]","type":"uint256[]"}],"name":"startUnmaskingVillainsBatch","outputs":[],"stateMutability":"nonpayable"}]

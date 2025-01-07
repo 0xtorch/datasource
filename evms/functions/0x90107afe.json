@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_lpDepositor","internalType":"contract ILpDepositor","type":"address"},{"name":"_feeDistributor","internalType":"contract IFeeDistributor","type":"address"}],"name":"setAddresses","outputs":[],"stateMutability":"nonpayable"}]

@@ -1,0 +1,1 @@
+[{"type":"function","constant":true,"inputs":[{"name":"grade","type":"uint256"},{"name":"quality","type":"uint256"}],"name":"getFixRate","outputs":[{"name":"","type":"uint256"}],"payable":false,"stateMutability":"pure"}]

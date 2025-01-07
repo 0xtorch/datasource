@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"tableId","internalType":"ResourceId","type":"bytes32"},{"name":"keyTuple","internalType":"bytes32[]","type":"bytes32[]"},{"name":"fieldIndex","internalType":"uint8","type":"uint8"},{"name":"data","internalType":"bytes","type":"bytes"}],"name":"setField","outputs":[],"stateMutability":"nonpayable"}]

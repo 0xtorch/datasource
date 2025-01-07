@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_priceProvider","internalType":"contract IPriceProvider","type":"address"}],"name":"setPriceProvider","outputs":[],"stateMutability":"nonpayable"}]

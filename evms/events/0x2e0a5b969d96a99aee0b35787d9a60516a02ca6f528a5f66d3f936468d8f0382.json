@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"oldBaseUri","internalType":"string","type":"string","indexed":false},{"name":"newBaseURI","internalType":"string","type":"string","indexed":false}],"name":"BaseURISet"}]

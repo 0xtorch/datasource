@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"lp","internalType":"address","type":"address","indexed":true},{"name":"rewarder","internalType":"address","type":"address","indexed":true}],"name":"AddPool"}]

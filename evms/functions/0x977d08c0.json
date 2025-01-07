@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"baseURI","internalType":"string","type":"string"},{"name":"initialRobiBoost","internalType":"uint256","type":"uint256"},{"name":"burnRBPeriod","internalType":"uint256","type":"uint256"}],"name":"initialize","outputs":[],"stateMutability":"nonpayable"}]

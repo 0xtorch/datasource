@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[],"name":"CloneContract","outputs":[{"name":"","internalType":"contract CloneFactory","type":"address"}],"stateMutability":"view"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"newReward","internalType":"uint16","type":"uint16"}],"name":"setReferralReward","outputs":[{"name":"","internalType":"bool","type":"bool"}],"stateMutability":"nonpayable"}]

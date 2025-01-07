@@ -1,0 +1,1 @@
+[{"type":"function","constant":false,"inputs":[{"name":"_signature","type":"bytes"},{"name":"_referrer","type":"address"}],"name":"requestDailyActionReward","outputs":[],"payable":false,"stateMutability":"nonpayable"}]

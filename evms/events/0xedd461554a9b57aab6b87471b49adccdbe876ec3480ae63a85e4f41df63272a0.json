@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"previousLocker","internalType":"address","type":"address","indexed":false},{"name":"newLocker","internalType":"address","type":"address","indexed":false}],"name":"LockerUpdated"}]

@@ -1,0 +1,1 @@
+[{"type":"function","constant":true,"inputs":[{"name":"_objId","type":"uint64"}],"name":"getObjBattleInfo","outputs":[{"name":"classId","type":"uint32"},{"name":"exp","type":"uint32"},{"name":"isGason","type":"bool"},{"name":"ancestorLength","type":"uint256"},{"name":"xfactorsLength","type":"uint256"}],"payable":false,"stateMutability":"view"}]

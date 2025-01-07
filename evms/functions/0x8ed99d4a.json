@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"eggsIds","internalType":"uint256[]","type":"uint256[]"}],"name":"incubateEggs","outputs":[],"stateMutability":"nonpayable"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_pToken","internalType":"contract IERC20","type":"address"},{"name":"_pTo","internalType":"address","type":"address"}],"name":"fEmerERC20Tokens","outputs":[],"stateMutability":"nonpayable"}]

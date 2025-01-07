@@ -1,0 +1,1 @@
+[{"type":"function","gas":41467,"inputs":[{"name":"strategy","type":"address"},{"name":"rateLimit","type":"uint256"}],"name":"updateStrategyRateLimit","outputs":[],"stateMutability":"nonpayable"}]

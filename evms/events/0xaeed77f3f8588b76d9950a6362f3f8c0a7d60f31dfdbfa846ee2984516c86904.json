@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"newURI","internalType":"string","type":"string","indexed":false}],"name":"SetNewURI"}]

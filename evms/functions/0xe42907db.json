@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_pid","internalType":"uint256","type":"uint256"},{"name":"_name","internalType":"string","type":"string"},{"name":"_allocPoints","internalType":"uint256","type":"uint256"},{"name":"_withUpdate","internalType":"bool","type":"bool"}],"name":"setLP","outputs":[],"stateMutability":"nonpayable"}]

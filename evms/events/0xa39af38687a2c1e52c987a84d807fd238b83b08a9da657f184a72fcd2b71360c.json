@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"safe","internalType":"address","type":"address","indexed":true},{"name":"delegate","internalType":"address","type":"address","indexed":false},{"name":"token","internalType":"address","type":"address","indexed":false}],"name":"ResetAllowance"}]

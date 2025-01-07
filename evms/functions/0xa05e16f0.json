@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_withdrawalFeeIntervals","internalType":"uint256[]","type":"uint256[]"},{"name":"_withdrawalFeeBP","internalType":"uint16[]","type":"uint16[]"}],"name":"setWithdrawFee","outputs":[],"stateMutability":"nonpayable"}]

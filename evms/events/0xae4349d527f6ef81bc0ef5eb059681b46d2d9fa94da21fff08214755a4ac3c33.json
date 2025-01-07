@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"tokenId","internalType":"uint256","type":"uint256","indexed":true},{"name":"_startTime","internalType":"uint256","type":"uint256","indexed":false},{"name":"_endTime","internalType":"uint256","type":"uint256","indexed":false}],"name":"StartAndEndTimeSet"}]

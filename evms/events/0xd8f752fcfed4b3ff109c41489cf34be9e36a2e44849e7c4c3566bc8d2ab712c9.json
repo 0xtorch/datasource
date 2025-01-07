@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"previousyyAvax","internalType":"address","type":"address","indexed":false},{"name":"newyyAvax","internalType":"address","type":"address","indexed":false}],"name":"yyAvaxUpdated"}]

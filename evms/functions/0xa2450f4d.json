@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"uniV2Router","internalType":"contract IUniswapV2Router","type":"address"},{"name":"amountIn","internalType":"uint256","type":"uint256"},{"name":"path","internalType":"address[]","type":"address[]"}],"name":"getAmountOutUniV2","outputs":[{"name":"amount","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

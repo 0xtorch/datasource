@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"_oldPausedState","internalType":"bool","type":"bool","indexed":false},{"name":"_newPausedState","internalType":"bool","type":"bool","indexed":false}],"name":"PausedStateUpdated"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[],"name":"total_borrow","outputs":[{"name":"","type":"tuple","components":[{"name":"elastic","type":"uint128"},{"name":"base","type":"uint128"}]}],"stateMutability":"view"}]

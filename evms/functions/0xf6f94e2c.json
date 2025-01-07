@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"poolIndex","internalType":"uint256","type":"uint256"},{"name":"intervalIndex","internalType":"uint256","type":"uint256"}],"name":"unlockInterval","outputs":[{"name":"withdrawnIssuanceAmount","internalType":"uint256","type":"uint256"}],"stateMutability":"nonpayable"}]

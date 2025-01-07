@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"prizeProbability","internalType":"struct ProbabilityUtils.Rate[][]","type":"tuple[][]","components":[{"name":"class","internalType":"uint8","type":"uint8"},{"name":"rate","internalType":"uint256","type":"uint256"}]}],"name":"setPrizeProbability","outputs":[],"stateMutability":"nonpayable"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"newErc20PaymentAddress","internalType":"address","type":"address"}],"name":"changeERC20PaymentAddress","outputs":[],"stateMutability":"payable"}]

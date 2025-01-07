@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"share","internalType":"uint256","type":"uint256"},{"name":"vault","internalType":"address","type":"address"}],"name":"withdrawToV1Vault","outputs":[],"stateMutability":"nonpayable"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_key","internalType":"bytes32","type":"bytes32"},{"name":"_executionFeeReceiver","internalType":"address payable","type":"address"}],"name":"cancelClosePosition","outputs":[{"name":"","internalType":"bool","type":"bool"}],"stateMutability":"nonpayable"}]

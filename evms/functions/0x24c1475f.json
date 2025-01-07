@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_nfcsId","internalType":"uint256","type":"uint256"}],"name":"getTotalOutstanding","outputs":[{"name":"globalOutstanding","internalType":"uint256","type":"uint256"},{"name":"userOutstanding","internalType":"uint256","type":"uint256"},{"name":"nfcsOutstanding","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

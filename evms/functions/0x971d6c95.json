@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"feeCollector_","internalType":"address","type":"address"},{"name":"liquidationFeeTo","internalType":"address","type":"address"},{"name":"protocolShare","internalType":"uint256","type":"uint256"},{"name":"liquidatorShare","internalType":"uint256","type":"uint256"}],"name":"emitLiquidationFeeEvent","outputs":[],"stateMutability":"nonpayable"}]

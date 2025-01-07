@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"assetType","internalType":"bytes4","type":"bytes4","indexed":true},{"name":"proxy","internalType":"address","type":"address","indexed":false}],"name":"ProxyChange"}]

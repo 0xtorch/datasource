@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[],"name":"mapSettings","outputs":[{"name":"minX","internalType":"uint8","type":"uint8"},{"name":"maxX","internalType":"uint8","type":"uint8"},{"name":"minY","internalType":"uint8","type":"uint8"},{"name":"maxY","internalType":"uint8","type":"uint8"}],"stateMutability":"view"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"programOutput","internalType":"uint256[]","type":"uint256[]"},{"name":"onchainDataHash","internalType":"uint256","type":"uint256"},{"name":"onchainDataSize","internalType":"uint256","type":"uint256"}],"name":"updateState","outputs":[],"stateMutability":"nonpayable"}]

@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"implementation","internalType":"address","type":"address","indexed":true},{"name":"initializer","internalType":"bytes","type":"bytes","indexed":false},{"name":"finalize","internalType":"bool","type":"bool","indexed":false}],"name":"ImplementationRemoved"}]

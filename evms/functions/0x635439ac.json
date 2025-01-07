@@ -1,0 +1,1 @@
+[{"type":"function","constant":false,"inputs":[{"name":"_gameCardNumber","type":"uint256"},{"name":"_playerId","type":"uint256"}],"name":"updateCurrentGameCardId","outputs":[],"payable":false,"stateMutability":"nonpayable"}]

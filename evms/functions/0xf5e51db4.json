@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"pooltype","internalType":"uint8","type":"uint8"}],"name":"poolCoefficients","outputs":[{"name":"coefficient","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

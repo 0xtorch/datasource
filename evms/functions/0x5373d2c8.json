@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_tester","internalType":"address","type":"address"},{"name":"_isActive","internalType":"bool","type":"bool"}],"name":"setTester","outputs":[],"stateMutability":"nonpayable"}]

@@ -1,0 +1,1 @@
+[{"type":"function","constant":false,"inputs":[{"name":"_address","type":"address"}],"name":"rockOwningHistory","outputs":[{"name":"","type":"uint256[]"}],"payable":false,"stateMutability":"nonpayable"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"newWL1Supply","internalType":"uint256","type":"uint256"},{"name":"newWL2Supply","internalType":"uint256","type":"uint256"}],"name":"setWLSupply","outputs":[],"stateMutability":"nonpayable"}]

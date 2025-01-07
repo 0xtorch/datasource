@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"","internalType":"uint256","type":"uint256"}],"name":"totalSupplySnapshots","outputs":[{"name":"fromBlock","internalType":"uint128","type":"uint128"},{"name":"value","internalType":"uint128","type":"uint128"}],"stateMutability":"view"}]

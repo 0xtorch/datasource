@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"od","internalType":"contract IOperatorDelegator","type":"address","indexed":false},{"name":"allocation","internalType":"uint256","type":"uint256","indexed":false}],"name":"OperatorDelegatorAllocationUpdated"}]

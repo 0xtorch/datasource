@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"delegator","internalType":"address","type":"address","indexed":true},{"name":"delegatee","internalType":"address","type":"address","indexed":true},{"name":"delegationType","internalType":"enum IGovernancePowerDelegationToken.DelegationType","type":"uint8","indexed":false}],"name":"DelegateChanged"}]

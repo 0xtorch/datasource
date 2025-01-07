@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"amountRewardsOut","internalType":"uint256[]","type":"uint256[]","indexed":false},{"name":"syOut","internalType":"uint256","type":"uint256","indexed":false}],"name":"WithdrawFeeToTreasury"}]

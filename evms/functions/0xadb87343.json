@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"randomness","internalType":"uint256","type":"uint256"},{"name":"requestId","internalType":"uint256","type":"uint256"}],"name":"processReveal","outputs":[],"stateMutability":"nonpayable"}]

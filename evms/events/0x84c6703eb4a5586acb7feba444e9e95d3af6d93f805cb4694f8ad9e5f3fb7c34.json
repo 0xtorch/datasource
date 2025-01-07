@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"isPaused","internalType":"bool","type":"bool","indexed":false},{"name":"totalClaimed","internalType":"uint256","type":"uint256","indexed":false}],"name":"PauseStatus"}]

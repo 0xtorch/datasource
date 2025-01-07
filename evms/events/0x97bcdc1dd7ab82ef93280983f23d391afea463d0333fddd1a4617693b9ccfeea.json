@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"partnerId","internalType":"bytes2","type":"bytes2","indexed":true},{"name":"token","internalType":"address","type":"address","indexed":false},{"name":"wrapperFee","internalType":"uint256","type":"uint256","indexed":false},{"name":"callerFee","internalType":"uint256","type":"uint256","indexed":false}],"name":"WrapperFees"}]

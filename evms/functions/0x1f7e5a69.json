@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_vaultMaster","internalType":"contract IVaultMaster","type":"address"}],"name":"setVaultMaster","outputs":[],"stateMutability":"nonpayable"}]

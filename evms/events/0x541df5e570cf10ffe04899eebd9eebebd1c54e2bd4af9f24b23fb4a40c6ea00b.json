@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"chainIds","internalType":"uint64[]","type":"uint64[]","indexed":false},{"name":"feePercs","internalType":"uint32[]","type":"uint32[]","indexed":false}],"name":"FeePercUpdated"}]

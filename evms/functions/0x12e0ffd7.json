@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"answer","internalType":"uint256","type":"uint256"},{"name":"quantity","internalType":"uint256","type":"uint256"},{"name":"proof","internalType":"bytes32[]","type":"bytes32[]"}],"name":"spritelistMint","outputs":[],"stateMutability":"payable"}]

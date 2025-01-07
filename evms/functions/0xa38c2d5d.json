@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"option","internalType":"contract IPodOption","type":"address"},{"name":"collateralAmount","internalType":"uint256","type":"uint256"}],"name":"mintAndAddLiquidityWithCollateral","outputs":[],"stateMutability":"nonpayable"}]

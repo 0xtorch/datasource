@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_projectId","internalType":"uint256","type":"uint256"},{"name":"_currencySymbol","internalType":"string","type":"string"},{"name":"_currencyAddress","internalType":"address","type":"address"}],"name":"updateProjectCurrencyInfo","outputs":[],"stateMutability":"nonpayable"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_dstEid","internalType":"uint32","type":"uint32"}],"name":"getAmountCanBeSent","outputs":[{"name":"currentAmountInFlight","internalType":"uint256","type":"uint256"},{"name":"amountCanBeSent","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

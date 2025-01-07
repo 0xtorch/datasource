@@ -1,0 +1,1 @@
+[{"type":"function","constant":false,"inputs":[{"name":"_rescuer","type":"address"},{"name":"_operator1","type":"address"},{"name":"_operator2","type":"address"}],"name":"initializeV3","outputs":[],"payable":false,"stateMutability":"nonpayable"}]

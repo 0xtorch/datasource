@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"tokenId","internalType":"uint256","type":"uint256"}],"name":"getEquipments","outputs":[{"name":"","internalType":"struct Sloth.Equipment[5]","type":"tuple[5]","components":[{"name":"itemId","internalType":"uint256","type":"uint256"},{"name":"itemAddr","internalType":"address","type":"address"}]}],"stateMutability":"view"}]

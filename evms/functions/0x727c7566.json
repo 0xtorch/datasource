@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"newDevWallet1Address","internalType":"address","type":"address"},{"name":"newDevWallet2Address","internalType":"address","type":"address"},{"name":"newDevWallet3Address","internalType":"address","type":"address"}],"name":"changeDevWallets","outputs":[],"stateMutability":"nonpayable"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_paymentToken","internalType":"address","type":"address"},{"name":"_approve","internalType":"bool","type":"bool"}],"name":"setPaymentTokenApprove","outputs":[],"stateMutability":"nonpayable"}]

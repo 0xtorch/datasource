@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"immContract","internalType":"contract IERC721ASafeMintable","type":"address"},{"name":"keeperContract","internalType":"contract IVRFKeeper","type":"address"}],"name":"setContracts","outputs":[],"stateMutability":"nonpayable"}]

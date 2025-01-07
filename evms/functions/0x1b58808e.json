@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"isWL1Active","internalType":"bool","type":"bool"},{"name":"isWL2Active","internalType":"bool","type":"bool"},{"name":"isMainActive","internalType":"bool","type":"bool"}],"name":"flipAllState","outputs":[],"stateMutability":"nonpayable"}]

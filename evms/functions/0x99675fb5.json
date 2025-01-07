@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_uln","internalType":"address","type":"address"}],"name":"isSupportedUln","outputs":[{"name":"","internalType":"bool","type":"bool"}],"stateMutability":"view"}]

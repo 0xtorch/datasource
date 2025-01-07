@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"_renderer","internalType":"address","type":"address","indexed":true}],"name":"RendererUpdated"},{"type":"event","anonymous":false,"inputs":[{"name":"renderer","internalType":"address","type":"address","indexed":false}],"name":"RendererUpdated"}]

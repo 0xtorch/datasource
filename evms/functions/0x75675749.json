@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"recipients","internalType":"address[]","type":"address[]"},{"name":"quantities","internalType":"uint256[]","type":"uint256[]"}],"name":"mintDrop","outputs":[],"stateMutability":"nonpayable"}]

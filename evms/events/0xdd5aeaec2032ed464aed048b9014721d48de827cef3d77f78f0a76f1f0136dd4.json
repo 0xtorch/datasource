@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"removedValidCaller","internalType":"bytes32","type":"bytes32","indexed":false}],"name":"ValidCallerRemoved"}]

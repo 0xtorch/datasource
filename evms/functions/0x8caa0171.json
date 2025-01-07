@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"token0","internalType":"address","type":"address"},{"name":"token1","internalType":"address","type":"address"}],"name":"obtainReserves","outputs":[{"name":"reserve0","internalType":"uint256","type":"uint256"},{"name":"reserve1","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

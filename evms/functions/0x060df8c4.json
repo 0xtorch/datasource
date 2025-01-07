@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"from","internalType":"uint256","type":"uint256"},{"name":"to","internalType":"uint256","type":"uint256"},{"name":"amountOfEgg","internalType":"uint256","type":"uint256"}],"name":"airdropToExistingHolder","outputs":[],"stateMutability":"nonpayable"}]

@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"oldLiquidatorContract","internalType":"address","type":"address","indexed":false},{"name":"newLiquidatorContract","internalType":"address","type":"address","indexed":false}],"name":"NewLiquidatorContract"}]

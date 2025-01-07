@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"quantity","internalType":"uint256","type":"uint256"},{"name":"charitable","internalType":"bool","type":"bool"}],"name":"charitableCost","outputs":[{"name":"","internalType":"uint256","type":"uint256"}],"stateMutability":"pure"}]

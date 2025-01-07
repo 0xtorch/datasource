@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_amount","internalType":"uint256","type":"uint256"},{"name":"_minGasLimit","internalType":"uint32","type":"uint32"},{"name":"_extraData","internalType":"bytes","type":"bytes"}],"name":"depositMNT","outputs":[],"stateMutability":"nonpayable"}]

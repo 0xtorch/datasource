@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"user","internalType":"address","type":"address","indexed":true},{"name":"delegatedAccount","internalType":"bytes32","type":"bytes32","indexed":false}],"name":"UnDelegated"}]

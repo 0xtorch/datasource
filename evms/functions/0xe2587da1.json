@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"selectorIds","internalType":"bytes4[]","type":"bytes4[]"},{"name":"values","internalType":"bool[]","type":"bool[]"}],"name":"setAccessSelectorId","outputs":[],"stateMutability":"nonpayable"}]

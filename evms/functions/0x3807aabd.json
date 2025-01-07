@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"destination","internalType":"address","type":"address"},{"name":"tokenIndex","internalType":"uint256","type":"uint256"}],"name":"generate","outputs":[{"name":"","internalType":"uint256","type":"uint256"}],"stateMutability":"nonpayable"}]

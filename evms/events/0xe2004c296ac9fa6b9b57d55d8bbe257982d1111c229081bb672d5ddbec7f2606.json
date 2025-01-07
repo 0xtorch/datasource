@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"_brokerHash","internalType":"bytes32","type":"bytes32","indexed":true},{"name":"_allowed","internalType":"bool","type":"bool","indexed":false}],"name":"SetAllowedBroker"}]

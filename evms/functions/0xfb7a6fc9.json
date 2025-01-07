@@ -1,0 +1,1 @@
+[{"type":"function","constant":true,"inputs":[{"name":"account","internalType":"address","type":"address"}],"name":"getAllowStatus","outputs":[{"name":"","internalType":"enum GraphSale.AllowStatus","type":"uint8"}],"payable":false,"stateMutability":"view"}]

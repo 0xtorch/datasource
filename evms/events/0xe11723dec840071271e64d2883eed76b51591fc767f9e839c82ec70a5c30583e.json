@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"startLotteryRound","internalType":"uint256","type":"uint256","indexed":false},{"name":"finalLotteryRound","internalType":"uint256","type":"uint256","indexed":false}],"name":"NewLotteryRounds"}]

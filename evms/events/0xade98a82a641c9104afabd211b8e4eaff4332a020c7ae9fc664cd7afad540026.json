@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"oldName","internalType":"bytes32","type":"bytes32","indexed":false},{"name":"newName","internalType":"bytes32","type":"bytes32","indexed":false},{"name":"userAddress","internalType":"address","type":"address","indexed":true}],"name":"NameChanged"}]

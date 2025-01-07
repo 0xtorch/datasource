@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"partnerId","internalType":"uint256","type":"uint256"},{"name":"destChainIdBytes","internalType":"bytes32","type":"bytes32"},{"name":"recipient","internalType":"bytes32","type":"bytes32"},{"name":"amount","internalType":"uint256","type":"uint256"}],"name":"iDepositUSDC","outputs":[],"stateMutability":"payable"}]

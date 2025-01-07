@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_messengerProxy","internalType":"contract I_L2_PolygonMessengerProxy","type":"address"}],"name":"setMessengerProxy","outputs":[],"stateMutability":"nonpayable"}]

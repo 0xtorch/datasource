@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"owner","internalType":"address","type":"address"}],"name":"getOwnerClaimableWithdrawalRequestInfo","outputs":[{"name":"claimableRequestIds","internalType":"uint256[]","type":"uint256[]"},{"name":"totalClaimableAmount","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

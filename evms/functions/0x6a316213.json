@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_sellFeeRate","internalType":"uint256","type":"uint256"},{"name":"_buyFeeRate","internalType":"uint256","type":"uint256"}],"name":"setTransferFeeRate","outputs":[],"stateMutability":"nonpayable"}]

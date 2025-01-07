@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"identifier","internalType":"uint256","type":"uint256","indexed":false},{"name":"minDomainLength","internalType":"uint256","type":"uint256","indexed":false}],"name":"SetMinDomainLength"}]

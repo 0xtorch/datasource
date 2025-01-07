@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_feeHandler","internalType":"contract ILzFeeHandler","type":"address"}],"name":"setFeeHandler","outputs":[],"stateMutability":"nonpayable"}]

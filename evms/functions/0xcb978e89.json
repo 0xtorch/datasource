@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_life","internalType":"uint256","type":"uint256"},{"name":"_colonyStage","internalType":"uint256","type":"uint256"},{"name":"_name","internalType":"string","type":"string"}],"name":"createBoss","outputs":[],"stateMutability":"nonpayable"}]

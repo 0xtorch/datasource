@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"pos","internalType":"address","type":"address"},{"name":"deposit0Max","internalType":"uint256","type":"uint256"},{"name":"deposit1Max","internalType":"uint256","type":"uint256"},{"name":"maxTotalSupply","internalType":"uint256","type":"uint256"}],"name":"customDeposit","outputs":[],"stateMutability":"nonpayable"}]

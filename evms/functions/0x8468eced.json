@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"entrant","internalType":"address","type":"address"},{"name":"entries","internalType":"uint256","type":"uint256"}],"name":"migrateEntrant","outputs":[],"stateMutability":"nonpayable"}]

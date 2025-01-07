@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"stakingPoolAddress","internalType":"address","type":"address","indexed":false}],"name":"StakingPoolSet"}]

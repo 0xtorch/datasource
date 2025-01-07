@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"additionalAmountToLock","internalType":"uint128","type":"uint128"},{"name":"newExpiry","internalType":"uint128","type":"uint128"}],"name":"increaseEsLockPosition","outputs":[{"name":"newVeBalance","internalType":"uint128","type":"uint128"}],"stateMutability":"nonpayable"}]

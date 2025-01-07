@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"user","internalType":"address","type":"address"},{"name":"stakeUserId","internalType":"uint256","type":"uint256"},{"name":"rate","internalType":"uint256","type":"uint256"}],"name":"getTokenAmountAfterUnstake","outputs":[{"name":"","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

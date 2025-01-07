@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"strikeId","internalType":"uint256","type":"uint256"},{"name":"secondsAgo","internalType":"uint256","type":"uint256"}],"name":"getSkewGWAV","outputs":[{"name":"skewGWAV","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

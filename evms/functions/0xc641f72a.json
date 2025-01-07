@@ -1,0 +1,1 @@
+[{"type":"function","constant":true,"inputs":[],"name":"getRecipientsInfo","outputs":[{"name":"","internalType":"address","type":"address"},{"name":"","internalType":"address payable[]","type":"address[]"},{"name":"","internalType":"uint256[]","type":"uint256[]"}],"payable":false,"stateMutability":"view"}]

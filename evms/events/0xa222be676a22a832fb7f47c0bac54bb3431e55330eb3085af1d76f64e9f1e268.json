@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"signer","internalType":"address","type":"address","indexed":true},{"name":"enabled","internalType":"bool","type":"bool","indexed":false}],"name":"SetStakingControllerSignerEvent"}]

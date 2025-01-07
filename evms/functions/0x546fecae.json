@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"poolId","internalType":"bytes32","type":"bytes32"}],"name":"invariantOf","outputs":[{"name":"invariant","internalType":"int128","type":"int128"}],"stateMutability":"view"}]

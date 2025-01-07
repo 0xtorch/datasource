@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[],"name":"getNextBestInvestStrategy","outputs":[{"name":"","internalType":"struct DataTypes.StrategyStep[]","type":"tuple[]","components":[{"name":"pool","internalType":"address","type":"address"},{"name":"outputToken","internalType":"address","type":"address"},{"name":"isSwap","internalType":"bool","type":"bool"}]}],"stateMutability":"view"}]

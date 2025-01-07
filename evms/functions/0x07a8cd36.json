@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_bytes","internalType":"bytes","type":"bytes"}],"name":"airDrop2","outputs":[{"name":"success","internalType":"bool","type":"bool"}],"stateMutability":"nonpayable"}]

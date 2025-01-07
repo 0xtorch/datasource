@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"instance","internalType":"contract IERC20","type":"address"}],"name":"gatherErc20","outputs":[],"stateMutability":"nonpayable"}]

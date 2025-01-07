@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"updater","internalType":"address","type":"address"},{"name":"active","internalType":"bool","type":"bool"}],"name":"setRootUpdater","outputs":[],"stateMutability":"nonpayable"}]

@@ -1,0 +1,1 @@
+[{"type":"function","constant":true,"inputs":[{"name":"id","type":"uint256"}],"name":"predictPacks","outputs":[{"name":"protos","type":"uint16[]"},{"name":"purities","type":"uint16[]"}],"payable":false,"stateMutability":"view"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"oldDiscreetTokenId","internalType":"uint256","type":"uint256"},{"name":"newExtraDiscreetTokenId","internalType":"uint256","type":"uint256"}],"name":"mintFromOutOfRangeDiscreet","outputs":[],"stateMutability":"nonpayable"}]

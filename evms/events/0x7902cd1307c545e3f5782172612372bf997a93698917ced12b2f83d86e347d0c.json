@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"interestRateModel","internalType":"contract InterestRateModel","type":"address","indexed":true}],"name":"InterestRateModelSet"}]

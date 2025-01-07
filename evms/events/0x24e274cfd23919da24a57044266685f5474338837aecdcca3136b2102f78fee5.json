@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"router","internalType":"contract LSSVMRouter","type":"address","indexed":false},{"name":"isAllowed","internalType":"bool","type":"bool","indexed":false}],"name":"RouterStatusUpdate"}]

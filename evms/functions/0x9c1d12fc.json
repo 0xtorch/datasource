@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"phase","internalType":"enum NFes2State.SalePhase","type":"uint8"},{"name":"addr","internalType":"address[]","type":"address[]"},{"name":"alloc","internalType":"uint16[]","type":"uint16[]"}],"name":"setAllowList","outputs":[],"stateMutability":"nonpayable"}]

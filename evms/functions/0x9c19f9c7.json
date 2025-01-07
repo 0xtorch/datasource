@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_rewardPool","internalType":"address","type":"address"},{"name":"_outputToNativeRoute","internalType":"address[]","type":"address[]"},{"name":"_outputToWantRoute","internalType":"address[]","type":"address[]"}],"name":"swapRewardPool","outputs":[],"stateMutability":"nonpayable"}]

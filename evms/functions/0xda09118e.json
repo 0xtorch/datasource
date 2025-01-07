@@ -1,0 +1,1 @@
+[{"type":"function","constant":false,"inputs":[{"name":"_recipient","type":"address"},{"name":"_startTime","type":"uint256"},{"name":"_amount","type":"uint128"},{"name":"_vestingDuration","type":"uint16"},{"name":"_vestingCliff","type":"uint16"}],"name":"addTokenGrant","outputs":[],"payable":false,"stateMutability":"nonpayable"}]

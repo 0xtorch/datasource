@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"node","internalType":"bytes32","type":"bytes32"},{"name":"key","internalType":"string","type":"string"}],"name":"text","outputs":[{"name":"","internalType":"string","type":"string"}],"stateMutability":"view"}]

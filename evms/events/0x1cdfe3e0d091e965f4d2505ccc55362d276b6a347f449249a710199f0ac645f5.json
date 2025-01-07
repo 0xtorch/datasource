@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"sender","internalType":"address","type":"address","indexed":true},{"name":"gauage_addr","internalType":"address","type":"address","indexed":true},{"name":"chainId","internalType":"uint256","type":"uint256","indexed":false},{"name":"hash","internalType":"bytes32","type":"bytes32","indexed":false}],"name":"GaugeKilled"}]

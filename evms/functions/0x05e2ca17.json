@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"destinationChainID","internalType":"uint8","type":"uint8"},{"name":"resourceID","internalType":"bytes32","type":"bytes32"},{"name":"data","internalType":"bytes","type":"bytes"}],"name":"deposit","outputs":[],"stateMutability":"payable"}]

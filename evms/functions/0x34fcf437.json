@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_newRate","internalType":"uint256","type":"uint256"}],"name":"setRate","outputs":[{"name":"success","internalType":"bool","type":"bool"}],"stateMutability":"nonpayable"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"__name","internalType":"string","type":"string"},{"name":"__symbol","internalType":"string","type":"string"},{"name":"allowedSeaDrop","internalType":"address[]","type":"address[]"},{"name":"initialOwner","internalType":"address","type":"address"}],"name":"initialize","outputs":[],"stateMutability":"nonpayable"}]

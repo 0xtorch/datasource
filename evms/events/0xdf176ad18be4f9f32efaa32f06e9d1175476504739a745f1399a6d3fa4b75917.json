@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"newRState","internalType":"enum PMMPricing.RState","type":"uint8","indexed":false}],"name":"RChange"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_ownerAddressDigest","internalType":"bytes32","type":"bytes32"}],"name":"getClaimedNftAmount","outputs":[{"name":"","internalType":"uint256[6]","type":"uint256[6]"}],"stateMutability":"view"}]

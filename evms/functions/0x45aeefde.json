@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_payoutAddress","internalType":"address","type":"address"}],"name":"setRoyaltyPayoutAddress","outputs":[],"stateMutability":"nonpayable"}]

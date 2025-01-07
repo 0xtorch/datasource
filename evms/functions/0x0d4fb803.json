@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_teamName","internalType":"string","type":"string"},{"name":"_teamDescription","internalType":"string","type":"string"}],"name":"addTeam","outputs":[],"stateMutability":"nonpayable"}]

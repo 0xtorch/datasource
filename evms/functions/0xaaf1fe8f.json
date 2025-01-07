@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"lockedDeal","internalType":"address","type":"address"}],"name":"SetLockedDealAddress","outputs":[],"stateMutability":"nonpayable"}]

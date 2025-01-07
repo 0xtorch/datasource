@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"","internalType":"uint256","type":"uint256"}],"name":"vectorMutabilities","outputs":[{"name":"updatesFrozen","internalType":"uint8","type":"uint8"},{"name":"deleteFrozen","internalType":"uint8","type":"uint8"},{"name":"pausesFrozen","internalType":"uint8","type":"uint8"}],"stateMutability":"view"}]

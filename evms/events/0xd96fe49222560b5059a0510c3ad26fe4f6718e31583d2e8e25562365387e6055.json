@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"tokenAddress","internalType":"address","type":"address","indexed":true},{"name":"svgHelper","internalType":"contract ISvgHelper","type":"address","indexed":true}],"name":"SvgHelperUpdated"}]

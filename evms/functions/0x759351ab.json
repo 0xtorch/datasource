@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_tokens","internalType":"uint256[]","type":"uint256[]"},{"name":"_names","internalType":"string[]","type":"string[]"}],"name":"setNames","outputs":[{"name":"","internalType":"bool[]","type":"bool[]"}],"stateMutability":"payable"}]

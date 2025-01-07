@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"newEpoch","internalType":"uint8","type":"uint8","indexed":true},{"name":"previousEpoch","internalType":"uint8","type":"uint8","indexed":true}],"name":"NewEpoch"}]

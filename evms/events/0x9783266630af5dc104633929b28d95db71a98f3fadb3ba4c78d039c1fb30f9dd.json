@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"_monarchProvenance","internalType":"string","type":"string","indexed":false}],"name":"provenanceisLocked"}]

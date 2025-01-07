@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"encodedMessage","internalType":"bytes","type":"bytes"},{"name":"action","internalType":"uint8","type":"uint8"}],"name":"verifyGovernanceMessage","outputs":[{"name":"messageHash","internalType":"bytes32","type":"bytes32"},{"name":"payload","internalType":"bytes","type":"bytes"}],"stateMutability":"view"}]

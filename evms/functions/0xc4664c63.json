@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"positionId","internalType":"uint256","type":"uint256"}],"name":"assetAddressOf","outputs":[{"name":"","internalType":"address","type":"address"}],"stateMutability":"view"}]

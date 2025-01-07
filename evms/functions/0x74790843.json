@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_allUnfrozen","internalType":"bool","type":"bool"}],"name":"setAllUnfrozen","outputs":[{"name":"","internalType":"bool","type":"bool"}],"stateMutability":"nonpayable"}]

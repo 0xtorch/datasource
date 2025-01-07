@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"batchNumber","internalType":"uint256","type":"uint256","indexed":false},{"name":"l2LogsRootHash","internalType":"bytes32","type":"bytes32","indexed":false},{"name":"forwardEthAmount","internalType":"uint256","type":"uint256","indexed":false}],"name":"SyncBatchRoot"}]

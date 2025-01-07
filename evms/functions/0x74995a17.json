@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"newFee","internalType":"uint16","type":"uint16"}],"name":"queueFeeUpdate","outputs":[],"stateMutability":"nonpayable"}]

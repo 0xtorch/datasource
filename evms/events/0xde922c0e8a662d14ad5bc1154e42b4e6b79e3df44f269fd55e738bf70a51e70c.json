@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"vestingScheduleId","internalType":"bytes32","type":"bytes32","indexed":true},{"name":"amount","internalType":"uint256","type":"uint256","indexed":true}],"name":"Release"}]

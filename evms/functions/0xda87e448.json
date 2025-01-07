@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"domain","internalType":"uint32","type":"uint32"},{"name":"tokenMessenger","internalType":"bytes32","type":"bytes32"}],"name":"addRemoteTokenMessenger","outputs":[],"stateMutability":"nonpayable"}]

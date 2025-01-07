@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[],"name":"getRebalanceParams","outputs":[{"name":"rebalanceTimeThreshold","internalType":"uint32","type":"uint32"},{"name":"rebalanceDeltaThresholdBps","internalType":"uint16","type":"uint16"},{"name":"rebalanceHfThresholdBps","internalType":"uint16","type":"uint16"}],"stateMutability":"view"}]

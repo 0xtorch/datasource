@@ -1,0 +1,1 @@
+[{"type":"function","constant":false,"inputs":[{"name":"_shellsToBurn","internalType":"uint256","type":"uint256"},{"name":"_deadline","internalType":"uint256","type":"uint256"}],"name":"proportionalWithdraw","outputs":[{"name":"withdrawals_","internalType":"uint256[]","type":"uint256[]"}],"payable":false,"stateMutability":"nonpayable"}]

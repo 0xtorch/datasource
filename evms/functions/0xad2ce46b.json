@@ -1,0 +1,1 @@
+[{"type":"function","constant":false,"inputs":[{"name":"_distributeFeesEnabled","internalType":"bool","type":"bool"}],"name":"setDistributeFeesEnabled","outputs":[],"payable":false,"stateMutability":"nonpayable"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_extension","internalType":"contract IPoolExtension","type":"address"}],"name":"setPoolExtension","outputs":[],"stateMutability":"nonpayable"}]

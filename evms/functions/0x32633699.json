@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"startTokensBought","internalType":"uint256","type":"uint256"},{"name":"endTokensBought","internalType":"uint256","type":"uint256"},{"name":"weiPerToken","internalType":"uint256","type":"uint256"}],"name":"addSaleStage","outputs":[],"stateMutability":"nonpayable"}]

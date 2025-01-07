@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"tokenId_","internalType":"uint256","type":"uint256"}],"name":"slotOf","outputs":[{"name":"","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"token","internalType":"address","type":"address","indexed":false},{"name":"creditLimitMantissa","internalType":"uint128","type":"uint128","indexed":false},{"name":"creditRateMantissa","internalType":"uint128","type":"uint128","indexed":false}],"name":"CreditPlanSet"}]

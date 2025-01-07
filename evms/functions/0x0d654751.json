@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"tokenID","internalType":"uint256","type":"uint256"},{"name":"name","internalType":"string","type":"string"}],"name":"nextBidFloorPrice","outputs":[{"name":"","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

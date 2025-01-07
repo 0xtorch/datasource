@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"freeMintStartTime_","internalType":"uint256","type":"uint256"},{"name":"allowListStartTime_","internalType":"uint256","type":"uint256"},{"name":"publicStartTime_","internalType":"uint256","type":"uint256"}],"name":"setPhaseTimes","outputs":[],"stateMutability":"nonpayable"}]

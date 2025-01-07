@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[],"name":"extractTimestampsAndAssertAllAreEqual","outputs":[{"name":"extractedTimestamp","internalType":"uint256","type":"uint256"}],"stateMutability":"pure"}]

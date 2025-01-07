@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"depositor","internalType":"address","type":"address"}],"name":"calculateDepositorWeight","outputs":[{"name":"unaffectedWeight","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

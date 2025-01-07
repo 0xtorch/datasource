@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"streamIds","internalType":"uint256[]","type":"uint256[]"},{"name":"amounts","internalType":"uint128[]","type":"uint128[]"}],"name":"withdrawMultiple","outputs":[],"stateMutability":"nonpayable"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_chainId","internalType":"uint16","type":"uint16"},{"name":"_proofType","internalType":"uint16","type":"uint16"}],"name":"enableSupportedOutboundProof","outputs":[],"stateMutability":"nonpayable"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"vaultId_","internalType":"bytes12","type":"bytes12"},{"name":"to","internalType":"address","type":"address"},{"name":"ink","internalType":"int128","type":"int128"},{"name":"max","internalType":"uint128","type":"uint128"}],"name":"repayVault","outputs":[{"name":"base","internalType":"uint128","type":"uint128"}],"stateMutability":"payable"}]

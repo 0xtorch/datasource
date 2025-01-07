@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_poolId","internalType":"uint256","type":"uint256"},{"name":"_stargateEthVault","internalType":"address","type":"address"}],"name":"setStargateEthVaults","outputs":[],"stateMutability":"nonpayable"}]

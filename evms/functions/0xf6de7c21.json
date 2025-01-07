@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"startTime","internalType":"uint256","type":"uint256"},{"name":"endTime","internalType":"uint256","type":"uint256"}],"name":"setMintlistSalePeriod","outputs":[],"stateMutability":"nonpayable"}]

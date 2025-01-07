@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"questId","internalType":"uint256","type":"uint256"},{"name":"admin","internalType":"address","type":"address"},{"name":"whitelistedTokens","internalType":"address[]","type":"address[]"},{"name":"treasury","internalType":"address","type":"address"}],"name":"createEscrow","outputs":[],"stateMutability":"nonpayable"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"minOutR","internalType":"uint256","type":"uint256"}],"name":"getSplitForR","outputs":[{"name":"inQ","internalType":"uint256","type":"uint256"},{"name":"outB","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

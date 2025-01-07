@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"forwarderAddress","internalType":"address","type":"address"}],"name":"removeTrustedForwarder","outputs":[],"stateMutability":"nonpayable"}]

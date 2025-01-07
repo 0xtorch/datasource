@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"nodehash","internalType":"bytes32","type":"bytes32"},{"name":"_available","internalType":"bool","type":"bool"}],"name":"setBaseNode","outputs":[],"stateMutability":"nonpayable"}]

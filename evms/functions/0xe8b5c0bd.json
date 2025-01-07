@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_group","internalType":"string","type":"string"},{"name":"_member","internalType":"address","type":"address"},{"name":"_qty","internalType":"uint256","type":"uint256"}],"name":"consume","outputs":[],"stateMutability":"nonpayable"}]

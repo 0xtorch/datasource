@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"registrant","internalType":"address","type":"address"},{"name":"index","internalType":"uint256","type":"uint256"}],"name":"filteredOperatorAt","outputs":[{"name":"","internalType":"address","type":"address"}],"stateMutability":"view"}]

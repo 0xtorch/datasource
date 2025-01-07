@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"configs","internalType":"struct OFTWrapperFacet.WhitelistConfig[]","type":"tuple[]","components":[{"name":"contractAddress","internalType":"address","type":"address"},{"name":"whitelisted","internalType":"bool","type":"bool"}]}],"name":"batchWhitelist","outputs":[],"stateMutability":"nonpayable"}]

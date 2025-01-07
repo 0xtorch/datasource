@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"merkleRoot","internalType":"bytes32","type":"bytes32","indexed":false},{"name":"metadata","internalType":"struct Metadata","type":"tuple","components":[{"name":"protocol","internalType":"uint256","type":"uint256"},{"name":"pointer","internalType":"string","type":"string"}],"indexed":false}],"name":"DistributionUpdated"}]

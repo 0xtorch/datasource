@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"vault","internalType":"address","type":"address"}],"name":"isGeyserVault","outputs":[{"name":"","internalType":"bool","type":"bool"}],"stateMutability":"view"}]

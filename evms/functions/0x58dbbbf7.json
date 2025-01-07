@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"campaignId","internalType":"bytes12","type":"bytes12"},{"name":"merkleRoot","internalType":"bytes32","type":"bytes32"},{"name":"expireAt","internalType":"uint64","type":"uint64"}],"name":"createCampaign","outputs":[],"stateMutability":"nonpayable"}]

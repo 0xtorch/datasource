@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"rewardToken","internalType":"address","type":"address"},{"name":"swapRoute","internalType":"bytes","type":"bytes"}],"name":"addRewardToken","outputs":[],"stateMutability":"nonpayable"}]

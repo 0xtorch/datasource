@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"protocolRewardRatio","internalType":"uint256","type":"uint256","indexed":false},{"name":"pikaRewardRatio","internalType":"uint256","type":"uint256","indexed":false}],"name":"RewardRatioUpdated"}]

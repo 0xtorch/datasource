@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"waveId","internalType":"string","type":"string"},{"name":"holder","internalType":"address","type":"address"}],"name":"claimedAirdropWaveStatusOf","outputs":[{"name":"claimed","internalType":"bool","type":"bool"}],"stateMutability":"view"}]

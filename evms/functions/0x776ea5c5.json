@@ -1,0 +1,1 @@
+[{"type":"function","constant":true,"inputs":[{"name":"count","internalType":"uint256","type":"uint256"}],"name":"getStateSize","outputs":[{"name":"","internalType":"uint256","type":"uint256"}],"payable":false,"stateMutability":"pure"}]

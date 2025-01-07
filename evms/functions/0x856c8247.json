@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"sender","internalType":"address","type":"address"}],"name":"getSenderNonce","outputs":[{"name":"","internalType":"uint64","type":"uint64"}],"stateMutability":"view"}]

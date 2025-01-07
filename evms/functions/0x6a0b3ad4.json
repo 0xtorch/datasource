@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_lzChainIds","internalType":"uint16[]","type":"uint16[]"}],"name":"destinationAmountCap","outputs":[{"name":"","internalType":"uint128[]","type":"uint128[]"}],"stateMutability":"view"}]

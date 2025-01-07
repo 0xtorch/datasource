@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"amountRequested","internalType":"uint16","type":"uint16"}],"name":"calculateMintFee","outputs":[{"name":"mintFee","internalType":"uint128","type":"uint128"}],"stateMutability":"view"}]

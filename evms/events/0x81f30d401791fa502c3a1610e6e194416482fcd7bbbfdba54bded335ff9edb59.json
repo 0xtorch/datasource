@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"originalBaseAssetAddress","internalType":"address","type":"address","indexed":false},{"name":"originalQuoteAssetAddress","internalType":"address","type":"address","indexed":false}],"name":"LiquidityPoolAssetsReversed"}]

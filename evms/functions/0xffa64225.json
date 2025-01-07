@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[],"name":"getExpectedTarget","outputs":[{"name":"baseTarget","internalType":"uint256","type":"uint256"},{"name":"quoteTarget","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

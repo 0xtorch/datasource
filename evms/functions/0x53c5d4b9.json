@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_oftAddress","internalType":"address","type":"address"},{"name":"_targetLzChainId","internalType":"uint16","type":"uint16"}],"name":"oftTargetGasParameters","outputs":[{"name":"useCustomParameters","internalType":"bool","type":"bool"},{"name":"minTargetGas","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

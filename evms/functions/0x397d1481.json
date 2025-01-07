@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"dna","internalType":"bytes1","type":"bytes1"},{"name":"range","internalType":"uint256[2]","type":"uint256[2]"}],"name":"setWearableRange","outputs":[],"stateMutability":"nonpayable"}]

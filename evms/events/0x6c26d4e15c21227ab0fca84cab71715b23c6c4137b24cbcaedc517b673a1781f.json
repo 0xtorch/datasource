@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"authorizedToSnapshot","internalType":"address","type":"address","indexed":true},{"name":"authorized","internalType":"bool","type":"bool","indexed":false}],"name":"ChangeAuthorizedToSnapshot"}]

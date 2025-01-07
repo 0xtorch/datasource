@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"vault","internalType":"contract IBaseVault","type":"address"},{"name":"strategy","internalType":"address","type":"address"}],"name":"linkVaultToStrategy","outputs":[],"stateMutability":"nonpayable"}]

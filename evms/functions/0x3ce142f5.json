@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"signerAddress","internalType":"address","type":"address"}],"name":"getAuthorisedSignerIndex","outputs":[{"name":"","internalType":"uint8","type":"uint8"}],"stateMutability":"view"}]

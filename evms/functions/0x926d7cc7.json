@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"vault","internalType":"contract IERC4626Upgradeable","type":"address"},{"name":"gauge","internalType":"contract ICurveGauge","type":"address"},{"name":"burnAmount","internalType":"uint256","type":"uint256"},{"name":"receiver","internalType":"address","type":"address"}],"name":"unstakeAndWithdraw","outputs":[],"stateMutability":"nonpayable"}]

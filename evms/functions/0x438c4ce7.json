@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"numTokens","internalType":"uint256","type":"uint256"}],"name":"timeValue","outputs":[{"name":"numSeconds","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"newStrategyWhitelister","internalType":"address","type":"address"}],"name":"setStrategyWhitelister","outputs":[],"stateMutability":"nonpayable"}]

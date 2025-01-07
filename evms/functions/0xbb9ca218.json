@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"mintUser","internalType":"address","type":"address"},{"name":"quantity","internalType":"uint256","type":"uint256"},{"name":"characterName","internalType":"string[]","type":"string[]"}],"name":"mintByCharacterName","outputs":[],"stateMutability":"nonpayable"}]

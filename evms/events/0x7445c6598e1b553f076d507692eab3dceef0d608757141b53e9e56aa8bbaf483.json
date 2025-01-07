@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"adaptor","internalType":"address","type":"address","indexed":false},{"name":"data","internalType":"bytes","type":"bytes","indexed":false}],"name":"AdaptorCalled"}]

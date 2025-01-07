@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_eventId","internalType":"uint256","type":"uint256"},{"name":"_to","internalType":"address","type":"address"},{"name":"_transferContribut","internalType":"uint256","type":"uint256"}],"name":"TransferContribut","outputs":[],"stateMutability":"nonpayable"}]

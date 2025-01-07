@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"msgType","type":"uint8","indexed":false},{"name":"nonce","type":"uint64","indexed":false}],"name":"SendMsg"}]

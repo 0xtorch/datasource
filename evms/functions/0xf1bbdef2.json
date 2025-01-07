@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"member","internalType":"address","type":"address"}],"name":"mintSynth","outputs":[{"name":"outputAmount","internalType":"uint256","type":"uint256"},{"name":"fee","internalType":"uint256","type":"uint256"}],"stateMutability":"nonpayable"}]

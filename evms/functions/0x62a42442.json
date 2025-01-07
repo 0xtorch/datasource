@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_minBonusTime","internalType":"uint256","type":"uint256"},{"name":"_bonusPercent","internalType":"uint256","type":"uint256"}],"name":"setBoostParams","outputs":[],"stateMutability":"nonpayable"}]

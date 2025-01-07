@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"saleTermsId","internalType":"uint256","type":"uint256","indexed":true}],"name":"CancelSaleTerms"}]

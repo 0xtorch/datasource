@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"newTransferProhibitedUntil","internalType":"uint256","type":"uint256"}],"name":"setTransferProhibitedUntil","outputs":[],"stateMutability":"nonpayable"}]

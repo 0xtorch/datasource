@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"","internalType":"uint256","type":"uint256"}],"name":"classIdForData","outputs":[{"name":"value","internalType":"string","type":"string"},{"name":"classType","internalType":"enum ISemantic.FieldType","type":"uint8"}],"stateMutability":"view"}]

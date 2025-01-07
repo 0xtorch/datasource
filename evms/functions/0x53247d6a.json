@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_market","internalType":"address","type":"address"},{"name":"_sizeDelta","internalType":"int256","type":"int256"}],"name":"getExpectedOrderFlowFee","outputs":[{"name":"orderFlowFee","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

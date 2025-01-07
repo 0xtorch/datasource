@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_oboAddress","internalType":"address","type":"address"}],"name":"isValidApprovedOBO","outputs":[{"name":"","internalType":"bool","type":"bool"}],"stateMutability":"view"}]

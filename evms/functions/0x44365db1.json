@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"shroomId","internalType":"uint256","type":"uint256"},{"name":"message","internalType":"string","type":"string"}],"name":"broadcastMycelialMessage","outputs":[],"stateMutability":"nonpayable"}]

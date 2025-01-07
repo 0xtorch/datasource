@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"orderId","internalType":"uint256","type":"uint256"}],"name":"withdrawProceedsFromLongTermSwap","outputs":[{"name":"is_expired","internalType":"bool","type":"bool"},{"name":"rewardTkn","internalType":"address","type":"address"},{"name":"totalReward","internalType":"uint256","type":"uint256"}],"stateMutability":"nonpayable"}]

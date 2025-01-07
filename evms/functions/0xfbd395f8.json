@@ -1,0 +1,1 @@
+[{"type":"function","constant":false,"inputs":[{"name":"_tokenId","internalType":"uint256","type":"uint256"}],"name":"pauseToken","outputs":[],"payable":false,"stateMutability":"nonpayable"}]

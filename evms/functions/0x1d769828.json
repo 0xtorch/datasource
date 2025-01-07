@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"token","internalType":"address","type":"address"}],"name":"collectProtocol","outputs":[{"name":"amount0","internalType":"uint128","type":"uint128"},{"name":"amount1","internalType":"uint128","type":"uint128"}],"stateMutability":"nonpayable"}]

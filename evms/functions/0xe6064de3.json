@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[],"name":"nativeTokenPriceOracle","outputs":[{"name":"","internalType":"contract IOracleOrL2OracleWithSequencerCheck","type":"address"}],"stateMutability":"view"}]

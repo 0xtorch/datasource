@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"interfaceName","internalType":"string","type":"string"}],"name":"getInterface","outputs":[{"name":"","internalType":"address","type":"address"}],"stateMutability":"view"}]

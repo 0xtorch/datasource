@@ -1,0 +1,1 @@
+[{"type":"function","constant":true,"inputs":[{"name":"_objId","type":"uint64"}],"name":"getObjInfoWithBp","outputs":[{"name":"owner","type":"address"},{"name":"classId","type":"uint32"},{"name":"exp","type":"uint32"},{"name":"createIndex","type":"uint32"},{"name":"bp","type":"uint256"}],"payable":false,"stateMutability":"view"}]

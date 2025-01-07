@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"mintId","internalType":"uint256","type":"uint256"},{"name":"newCreator","internalType":"address","type":"address"}],"name":"setMintCreator","outputs":[],"stateMutability":"nonpayable"}]

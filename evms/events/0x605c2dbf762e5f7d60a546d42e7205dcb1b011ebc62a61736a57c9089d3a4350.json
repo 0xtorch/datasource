@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"oldManager","internalType":"address","type":"address","indexed":false},{"name":"newManager","internalType":"address","type":"address","indexed":false}],"name":"ManagerChanged"}]

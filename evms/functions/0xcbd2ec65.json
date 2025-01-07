@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"minNonce","internalType":"uint256","type":"uint256"}],"name":"cancelAllOrdersForSender","outputs":[],"stateMutability":"nonpayable"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"currMarketPrice","internalType":"uint256","type":"uint256"},{"name":"_isLong","internalType":"bool","type":"bool"},{"name":"tpPrice","internalType":"uint256","type":"uint256"},{"name":"slPrice","internalType":"uint256","type":"uint256"}],"name":"_validateTPSLOrderPrices","outputs":[],"stateMutability":"pure"}]

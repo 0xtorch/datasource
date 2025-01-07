@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"transferValidator","internalType":"address","type":"address"},{"name":"customSecurityPolicies","internalType":"bytes[]","type":"bytes[]"}],"name":"setTransferValidatorAndSecurityPolicy","outputs":[],"stateMutability":"payable"}]

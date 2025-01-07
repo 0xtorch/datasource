@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"provider","type":"address","indexed":true},{"name":"token_amounts","type":"uint256[3]","indexed":false},{"name":"fees","type":"uint256[3]","indexed":false},{"name":"token_supply","type":"uint256","indexed":false}],"name":"RemoveLiquidity"}]

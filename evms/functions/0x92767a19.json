@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"userAddresses","internalType":"address[]","type":"address[]"},{"name":"allocations","internalType":"uint120[]","type":"uint120[]"},{"name":"options","internalType":"uint8[]","type":"uint8[]"},{"name":"last","internalType":"bool","type":"bool"}],"name":"whitelistUsers","outputs":[],"stateMutability":"nonpayable"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"poolAddress","internalType":"address","type":"address"},{"name":"allocPoint","internalType":"uint256","type":"uint256"},{"name":"withUpdate","internalType":"bool","type":"bool"}],"name":"set","outputs":[],"stateMutability":"nonpayable"}]

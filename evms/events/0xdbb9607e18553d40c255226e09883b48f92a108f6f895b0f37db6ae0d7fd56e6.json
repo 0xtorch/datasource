@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"winners","internalType":"address[]","type":"address[]","indexed":false}],"name":"WinnersAnnouncement"}]

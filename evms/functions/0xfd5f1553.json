@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"tokenId","internalType":"uint256","type":"uint256"},{"name":"initialDelegate","internalType":"address","type":"address"},{"name":"gateData","internalType":"bytes","type":"bytes"}],"name":"contribute","outputs":[{"name":"votingPower","internalType":"uint96","type":"uint96"}],"stateMutability":"payable"}]

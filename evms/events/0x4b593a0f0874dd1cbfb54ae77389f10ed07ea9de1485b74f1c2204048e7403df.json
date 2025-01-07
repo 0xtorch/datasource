@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"creatorContract","internalType":"address","type":"address","indexed":true},{"name":"instanceId","internalType":"uint256","type":"uint256","indexed":true},{"name":"initializer","internalType":"address","type":"address","indexed":false}],"name":"FrameClaimInitialized"}]

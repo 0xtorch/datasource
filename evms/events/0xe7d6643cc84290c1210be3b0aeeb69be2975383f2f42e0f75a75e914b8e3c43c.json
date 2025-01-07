@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"Redeemer","internalType":"address","type":"address","indexed":false},{"name":"TicketID","internalType":"uint256","type":"uint256","indexed":false},{"name":"Data","internalType":"string","type":"string","indexed":false},{"name":"Type","internalType":"string","type":"string","indexed":false}],"name":"QRRedeemed"}]

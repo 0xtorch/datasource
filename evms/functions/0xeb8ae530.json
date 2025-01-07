@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"name","internalType":"bytes","type":"bytes"},{"name":"wrappedOwner","internalType":"address","type":"address"},{"name":"resolver","internalType":"address","type":"address"}],"name":"wrap","outputs":[],"stateMutability":"nonpayable"}]

@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"user","internalType":"address","type":"address","indexed":true},{"name":"quantity","internalType":"uint8","type":"uint8","indexed":false}],"name":"RadbroMinted"}]

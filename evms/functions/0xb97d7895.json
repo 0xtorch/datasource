@@ -1,0 +1,1 @@
+[{"type":"function","constant":true,"inputs":[{"name":"_assetType","internalType":"uint32","type":"uint32"}],"name":"existingType","outputs":[{"name":"","internalType":"bool","type":"bool"}],"payable":false,"stateMutability":"view"}]

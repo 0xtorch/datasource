@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"typeId","internalType":"uint256","type":"uint256"},{"name":"index","internalType":"uint256","type":"uint256"}],"name":"getTokenId","outputs":[{"name":"","internalType":"uint256","type":"uint256"}],"stateMutability":"pure"}]

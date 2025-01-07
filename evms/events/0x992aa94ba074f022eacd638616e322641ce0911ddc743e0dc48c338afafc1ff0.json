@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"to","internalType":"address","type":"address","indexed":true},{"name":"reward","internalType":"uint256","type":"uint256","indexed":false},{"name":"staked","internalType":"uint256","type":"uint256","indexed":false},{"name":"totalAmount","internalType":"uint256","type":"uint256","indexed":false}],"name":"Withdrawed"}]

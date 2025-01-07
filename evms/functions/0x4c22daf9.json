@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"tokenAddress","internalType":"address","type":"address"}],"name":"collectionBountySettings","outputs":[{"name":"royaltyBountyNumerator","internalType":"uint16","type":"uint16"},{"name":"exclusiveBountyReceiver","internalType":"address","type":"address"}],"stateMutability":"view"}]

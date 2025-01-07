@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_tier","internalType":"uint256","type":"uint256"},{"name":"numberHero","internalType":"uint256","type":"uint256"},{"name":"heroesTierFood","internalType":"uint256","type":"uint256"}],"name":"editRuleSpecial","outputs":[],"stateMutability":"nonpayable"}]

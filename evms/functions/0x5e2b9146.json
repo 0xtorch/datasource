@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"tokenId","internalType":"uint256","type":"uint256"},{"name":"invitee","internalType":"uint256","type":"uint256"}],"name":"inviteCatForPlaying","outputs":[],"stateMutability":"nonpayable"}]

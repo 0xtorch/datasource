@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"vault_","internalType":"address","type":"address","indexed":true},{"name":"releaseStartBlock_","internalType":"uint256","type":"uint256","indexed":false},{"name":"releaseInterval_","internalType":"uint256","type":"uint256","indexed":false}],"name":"NewVAIVaultInfo"}]

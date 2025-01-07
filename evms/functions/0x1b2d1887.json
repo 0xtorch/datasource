@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"winner","internalType":"uint256","type":"uint256"},{"name":"loser","internalType":"uint256","type":"uint256"}],"name":"elimination","outputs":[],"stateMutability":"nonpayable"}]

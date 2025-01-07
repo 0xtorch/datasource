@@ -1,0 +1,1 @@
+[{"type":"function","constant":false,"inputs":[{"name":"_projectId","internalType":"uint256","type":"uint256"},{"name":"_additionalPayee","internalType":"address","type":"address"},{"name":"_additionalPayeePercentage","internalType":"uint256","type":"uint256"}],"name":"updateProjectAdditionalPayeeInfo","outputs":[],"payable":false,"stateMutability":"nonpayable"}]

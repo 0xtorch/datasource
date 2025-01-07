@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"asset","internalType":"address","type":"address"},{"name":"interestRateMode","internalType":"uint256","type":"uint256"}],"name":"swapBorrowRateMode","outputs":[],"stateMutability":"nonpayable"}]

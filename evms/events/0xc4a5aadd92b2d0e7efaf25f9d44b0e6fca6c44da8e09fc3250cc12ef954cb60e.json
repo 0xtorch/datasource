@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"_func","internalType":"bytes4","type":"bytes4","indexed":false},{"name":"flag","internalType":"bool","type":"bool","indexed":false}],"name":"EditFuncBlackList"}]

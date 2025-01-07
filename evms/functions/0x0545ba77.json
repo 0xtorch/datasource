@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_chainId","internalType":"uint256","type":"uint256"},{"name":"_index","internalType":"uint256","type":"uint256"},{"name":"_globalMetadata","internalType":"bytes27","type":"bytes27"}],"name":"deleteBatchElementsAfterInclusiveByChainId","outputs":[],"stateMutability":"nonpayable"}]

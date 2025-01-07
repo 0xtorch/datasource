@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"","internalType":"uint256","type":"uint256"}],"name":"_sellHistories","outputs":[{"name":"time","internalType":"uint256","type":"uint256"},{"name":"bnbAmount","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

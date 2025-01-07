@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"signature","internalType":"bytes","type":"bytes"},{"name":"newImplementation","internalType":"address","type":"address"}],"name":"upgradeTo","outputs":[],"stateMutability":"nonpayable"}]

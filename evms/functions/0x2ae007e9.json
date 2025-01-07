@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"amount","internalType":"uint256[]","type":"uint256[]"},{"name":"owners","internalType":"address[]","type":"address[]"}],"name":"airdropEgg","outputs":[],"stateMutability":"nonpayable"}]

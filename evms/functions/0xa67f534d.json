@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"controllerId","internalType":"uint32","type":"uint32"}],"name":"getController","outputs":[{"name":"","internalType":"address","type":"address"}],"stateMutability":"view"}]

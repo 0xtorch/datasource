@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_tokenId","internalType":"uint256","type":"uint256"},{"name":"_rarity","internalType":"enum SnpitCameraNft.RARITY","type":"uint8"}],"name":"setRarity","outputs":[],"stateMutability":"nonpayable"}]

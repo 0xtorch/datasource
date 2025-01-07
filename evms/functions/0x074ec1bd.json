@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_splitAddresses","internalType":"address payable[]","type":"address[]"},{"name":"_splitPercentages","internalType":"uint256[]","type":"uint256[]"}],"name":"resetAddressesAndPercentages","outputs":[],"stateMutability":"nonpayable"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"id","internalType":"BookId","type":"uint192"}],"name":"getHighest","outputs":[{"name":"","internalType":"Tick","type":"int24"}],"stateMutability":"view"}]

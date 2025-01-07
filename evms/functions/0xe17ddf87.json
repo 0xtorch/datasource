@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"beneficiary","internalType":"address","type":"address"},{"name":"rawAmount","internalType":"uint256","type":"uint256"},{"name":"investorType","internalType":"enum IOndo.InvestorType","type":"uint8"}],"name":"updateTrancheBalance","outputs":[],"stateMutability":"nonpayable"}]

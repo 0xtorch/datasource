@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_tokenDrawingPrint","internalType":"uint256[3][]","type":"uint256[3][]"},{"name":"enabled","internalType":"bool","type":"bool"}],"name":"setSwapList","outputs":[],"stateMutability":"nonpayable"}]

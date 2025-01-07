@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_address","internalType":"address","type":"address"},{"name":"_requestedEpoch","internalType":"uint256","type":"uint256"}],"name":"calculateOwedDividends_d6","outputs":[{"name":"","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

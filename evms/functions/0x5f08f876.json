@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"splitMain","internalType":"address","type":"address"},{"name":"splitData","internalType":"bytes","type":"bytes"}],"name":"createSplit","outputs":[{"name":"split","internalType":"address","type":"address"}],"stateMutability":"nonpayable"}]

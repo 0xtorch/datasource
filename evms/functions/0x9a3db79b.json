@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"ilkIndex","internalType":"uint8","type":"uint8"},{"name":"user","internalType":"address","type":"address"}],"name":"vault","outputs":[{"name":"","internalType":"uint256","type":"uint256"},{"name":"","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

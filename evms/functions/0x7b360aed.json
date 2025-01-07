@@ -1,0 +1,1 @@
+[{"type":"function","constant":true,"inputs":[{"name":"","type":"uint256"}],"name":"rewardMap","outputs":[{"name":"addr","type":"address"},{"name":"btc","type":"uint256"},{"name":"eth","type":"uint256"},{"name":"withdrawBtc","type":"uint256"},{"name":"withdrawEth","type":"uint256"}],"payable":false,"stateMutability":"view"}]

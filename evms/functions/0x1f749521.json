@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"stakingType","internalType":"enum IP2PPairStaking.StakingType","type":"uint8"}],"name":"getApeCoinStakingCap","outputs":[{"name":"","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

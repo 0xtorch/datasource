@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_skin","internalType":"address","type":"address"},{"name":"_skinTokenId","internalType":"uint256","type":"uint256"},{"name":"_status","internalType":"bool","type":"bool"}],"name":"setApprovedSkin","outputs":[],"stateMutability":"nonpayable"}]

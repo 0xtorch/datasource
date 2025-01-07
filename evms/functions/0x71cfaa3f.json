@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_token","internalType":"address","type":"address"},{"name":"_decimals","internalType":"uint8","type":"uint8"},{"name":"_name","internalType":"bytes32","type":"bytes32"},{"name":"_symbol","internalType":"bytes32","type":"bytes32"}],"name":"setGasPayingToken","outputs":[],"stateMutability":"nonpayable"}]

@@ -1,0 +1,1 @@
+[{"type":"function","constant":true,"inputs":[{"name":"_buyer","internalType":"address","type":"address"},{"name":"_blockNum","internalType":"uint256","type":"uint256"},{"name":"_currentBlock","internalType":"uint256","type":"uint256"}],"name":"isApplicable","outputs":[{"name":"","internalType":"bool","type":"bool"}],"payable":false,"stateMutability":"view"}]

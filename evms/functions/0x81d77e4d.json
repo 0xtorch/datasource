@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"","internalType":"enum StarCards.Status","type":"uint8"}],"name":"_priceAtStage","outputs":[{"name":"","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

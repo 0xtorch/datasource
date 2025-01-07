@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_collateralRatioPaused","internalType":"bool","type":"bool"}],"name":"toggleCollateralRatio","outputs":[],"stateMutability":"nonpayable"}]

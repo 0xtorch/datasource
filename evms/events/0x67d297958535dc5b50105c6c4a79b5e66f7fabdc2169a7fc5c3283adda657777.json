@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"baseImageURI","internalType":"string","type":"string","indexed":false}],"name":"BaseImageURIChanged"}]

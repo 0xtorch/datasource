@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"user","type":"address","indexed":true},{"name":"key","type":"string","indexed":false}],"name":"LogRegister"}]

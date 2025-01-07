@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[],"name":"getAmplificationParameter","outputs":[{"name":"value","internalType":"uint256","type":"uint256"},{"name":"isUpdating","internalType":"bool","type":"bool"},{"name":"precision","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

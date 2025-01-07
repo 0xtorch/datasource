@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"status","internalType":"enum MURI.ContractStatus","type":"uint8"}],"name":"setContractStatus","outputs":[],"stateMutability":"nonpayable"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"buyer","internalType":"address","type":"address"},{"name":"actionKey","internalType":"bytes32","type":"bytes32"},{"name":"data","internalType":"bytes32","type":"bytes32"}],"name":"buy","outputs":[],"stateMutability":"nonpayable"}]

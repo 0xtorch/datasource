@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"index1","internalType":"uint32","type":"uint32"},{"name":"index2","internalType":"uint32","type":"uint32"},{"name":"inDebtArray","internalType":"bool","type":"bool"}],"name":"swapPositions","outputs":[],"stateMutability":"nonpayable"}]

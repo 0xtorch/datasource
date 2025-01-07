@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"nTokens","internalType":"uint256","type":"uint256"},{"name":"to","internalType":"address","type":"address"},{"name":"extraData","internalType":"bytes32","type":"bytes32"}],"name":"mintExternal","outputs":[],"stateMutability":"payable"}]

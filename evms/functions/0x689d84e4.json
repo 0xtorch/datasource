@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"","internalType":"uint256","type":"uint256"}],"name":"poolInfos","outputs":[{"name":"accARSWPerShare","internalType":"uint128","type":"uint128"},{"name":"lastRewardBlock","internalType":"uint64","type":"uint64"},{"name":"allocPoint","internalType":"uint64","type":"uint64"}],"stateMutability":"view"}]

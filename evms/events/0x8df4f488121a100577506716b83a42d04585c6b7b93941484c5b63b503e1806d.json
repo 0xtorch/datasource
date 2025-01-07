@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"old","type":"string","indexed":true},{"name":"newURI","type":"string","indexed":true}],"name":"UpdateBaseURI"}]

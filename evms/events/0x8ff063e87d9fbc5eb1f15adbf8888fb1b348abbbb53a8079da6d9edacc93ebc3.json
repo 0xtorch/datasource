@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"redemptionRebate","internalType":"uint256","type":"uint256","indexed":false}],"name":"RedemptionRebateUpdated"}]

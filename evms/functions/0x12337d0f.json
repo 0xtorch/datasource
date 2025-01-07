@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"polygonRootReceiverAddress_","internalType":"address","type":"address"},{"name":"receivePacketProofs_","internalType":"struct SocketBatcher.ReceivePacketProofRequest[]","type":"tuple[]","components":[{"name":"proof","internalType":"bytes","type":"bytes"}]}],"name":"receiveMessageBatch","outputs":[],"stateMutability":"nonpayable"}]

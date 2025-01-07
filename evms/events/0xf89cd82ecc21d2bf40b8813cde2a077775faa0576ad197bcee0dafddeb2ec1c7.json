@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"actor","internalType":"address","type":"address","indexed":true},{"name":"_disallowOthersClaimForMe","internalType":"bool","type":"bool","indexed":false},{"name":"_enableAutoInstantClaim","internalType":"bool","type":"bool","indexed":false}],"name":"ChangeClaimConfiguration"}]

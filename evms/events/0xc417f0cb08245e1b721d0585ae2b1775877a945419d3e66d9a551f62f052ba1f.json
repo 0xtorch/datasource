@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"authority","internalType":"address","type":"address","indexed":true},{"name":"messageHash","internalType":"bytes32","type":"bytes32","indexed":true}],"name":"WithdrawMessageHashDeleted"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_onramper","internalType":"address","type":"address"},{"name":"enabled","internalType":"bool","type":"bool"}],"name":"setMultiCollateralOnOffRamp","outputs":[],"stateMutability":"nonpayable"}]

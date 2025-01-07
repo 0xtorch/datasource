@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"from","internalType":"address[]","type":"address[]"}],"name":"transferOutBlacklistedFunds","outputs":[],"stateMutability":"nonpayable"}]

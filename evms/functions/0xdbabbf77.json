@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[],"name":"getPoolMargin","outputs":[{"name":"poolMargin","internalType":"int256","type":"int256"},{"name":"isAMMSafe","internalType":"bool","type":"bool"}],"stateMutability":"view"}]

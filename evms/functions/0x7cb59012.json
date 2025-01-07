@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_to","internalType":"address","type":"address"},{"name":"_guid","internalType":"bytes32","type":"bytes32"},{"name":"_index","internalType":"uint16","type":"uint16"},{"name":"_message","internalType":"bytes","type":"bytes"}],"name":"sendCompose","outputs":[],"stateMutability":"nonpayable"}]

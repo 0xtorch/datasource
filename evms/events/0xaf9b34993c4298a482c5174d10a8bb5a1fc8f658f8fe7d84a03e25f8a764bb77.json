@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"_newVal","internalType":"enum ICICUserDefinedTypes.EligibilityModes","type":"uint8","indexed":true}],"name":"EligibilityModeUpdated"}]

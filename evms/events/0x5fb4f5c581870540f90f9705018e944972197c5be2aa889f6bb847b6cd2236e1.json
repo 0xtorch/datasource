@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"previousContractManager","internalType":"address","type":"address","indexed":true},{"name":"newContractManager","internalType":"address","type":"address","indexed":true}],"name":"ContractManagerTransferred"}]

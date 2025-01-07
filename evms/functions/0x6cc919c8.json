@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_config","internalType":"contract IVaultConfig","type":"address"}],"name":"updateConfig","outputs":[],"stateMutability":"nonpayable"}]

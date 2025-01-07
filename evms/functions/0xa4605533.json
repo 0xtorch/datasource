@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_news","internalType":"address[]","type":"address[]"},{"name":"_state","internalType":"bool","type":"bool"}],"name":"setTxFeeExempt","outputs":[],"stateMutability":"nonpayable"}]

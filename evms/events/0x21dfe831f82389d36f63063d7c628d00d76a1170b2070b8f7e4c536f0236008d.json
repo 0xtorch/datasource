@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"defaultNFTRegistry","internalType":"contract INFTRegistry","type":"address","indexed":true}],"name":"DefaultNFTRegistrySet"}]

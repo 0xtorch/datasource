@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[],"name":"getRedeemableBonds","outputs":[{"name":"_redeemableBonds","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

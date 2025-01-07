@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_RevFee","internalType":"uint8","type":"uint8"},{"name":"_TreasuryFee","internalType":"uint8","type":"uint8"},{"name":"_teamFee","internalType":"uint8","type":"uint8"}],"name":"setDistributionFees","outputs":[],"stateMutability":"nonpayable"}]

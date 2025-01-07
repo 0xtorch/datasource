@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"currMarketPrice","internalType":"uint256","type":"uint256"},{"name":"_isLong","internalType":"bool","type":"bool"},{"name":"limitPrice","internalType":"uint256","type":"uint256"}],"name":"_validateLimitOrderPrices","outputs":[],"stateMutability":"pure"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"to","internalType":"address payable","type":"address"},{"name":"projectIds","internalType":"uint256[]","type":"uint256[]"},{"name":"coreContracts","internalType":"address[]","type":"address[]"}],"name":"reclaimProjectsExcessSettlementFundsTo","outputs":[],"stateMutability":"nonpayable"}]

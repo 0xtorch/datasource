@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"gauge","internalType":"contract IGauge","type":"address"},{"name":"kill","internalType":"bool","type":"bool"}],"name":"killGauge","outputs":[],"stateMutability":"nonpayable"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"fiduAmount","internalType":"uint256","type":"uint256"}],"name":"withdrawInFidu","outputs":[{"name":"amount","internalType":"uint256","type":"uint256"}],"stateMutability":"nonpayable"}]

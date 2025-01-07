@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"currentNumberOfTokens","internalType":"uint256","type":"uint256"},{"name":"numberOfAdditionalTokens","internalType":"uint256","type":"uint256"}],"name":"registerNewTokens","outputs":[{"name":"oceanIds","internalType":"uint256[]","type":"uint256[]"}],"stateMutability":"nonpayable"}]

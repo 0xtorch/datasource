@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"Recipient","internalType":"address payable","type":"address"},{"name":"Amount","internalType":"uint256","type":"uint256"}],"name":"___WithdrawEtherToAddress","outputs":[],"stateMutability":"nonpayable"}]

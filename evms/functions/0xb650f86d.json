@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_incentivesVault","internalType":"contract IIncentivesVault","type":"address"}],"name":"setIncentivesVault","outputs":[],"stateMutability":"nonpayable"}]

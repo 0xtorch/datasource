@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"target","internalType":"address","type":"address"},{"name":"imageURI","internalType":"string","type":"string"},{"name":"animationURI","internalType":"string","type":"string"}],"name":"updateMediaURIs","outputs":[],"stateMutability":"nonpayable"}]

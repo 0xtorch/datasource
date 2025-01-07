@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"interfaceName","internalType":"string","type":"string"},{"name":"data","internalType":"bytes","type":"bytes"}],"name":"interactWith","outputs":[],"stateMutability":"payable"}]

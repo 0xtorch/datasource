@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"affiliate","internalType":"address","type":"address"},{"name":"bp","internalType":"uint256","type":"uint256"}],"name":"updateAffiliateRate","outputs":[],"stateMutability":"nonpayable"}]

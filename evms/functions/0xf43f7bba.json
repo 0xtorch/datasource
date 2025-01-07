@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"erc20Contract","internalType":"address","type":"address"},{"name":"tokenId","internalType":"uint256","type":"uint256"},{"name":"amount","internalType":"uint256","type":"uint256"},{"name":"data","internalType":"bytes","type":"bytes"}],"name":"transferERC20ToToken","outputs":[],"stateMutability":"nonpayable"}]

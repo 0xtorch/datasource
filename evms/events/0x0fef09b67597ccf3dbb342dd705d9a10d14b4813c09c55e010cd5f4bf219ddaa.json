@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"oldMinInterestAccumulated","internalType":"uint256","type":"uint256","indexed":false},{"name":"newMinInterestAccumulated","internalType":"uint256","type":"uint256","indexed":false}],"name":"NewMinInterestAccumulated"}]

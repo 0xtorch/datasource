@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_delToken","internalType":"address","type":"address"}],"name":"delWhitelist","outputs":[{"name":"","internalType":"bool","type":"bool"}],"stateMutability":"nonpayable"}]

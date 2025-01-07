@@ -1,0 +1,1 @@
+[{"type":"function","constant":true,"inputs":[{"name":"","type":"uint256"}],"name":"monsters","outputs":[{"name":"name","type":"string"},{"name":"level","type":"uint256"},{"name":"attackPower","type":"uint256"},{"name":"defensePower","type":"uint256"},{"name":"magicPower","type":"uint256"},{"name":"magicResist","type":"uint256"}],"payable":false,"stateMutability":"view"}]

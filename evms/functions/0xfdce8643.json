@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_harvester","internalType":"address","type":"address"}],"name":"getUtilization","outputs":[{"name":"util","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

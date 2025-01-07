@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"phaseIndex","internalType":"uint256","type":"uint256"},{"name":"quantities","internalType":"uint64[]","type":"uint64[]"},{"name":"recipients","internalType":"address[]","type":"address[]"}],"name":"airdropForPhase","outputs":[],"stateMutability":"nonpayable"}]

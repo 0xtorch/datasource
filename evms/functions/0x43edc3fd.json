@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"pool","internalType":"address","type":"address"},{"name":"gaugeRewards","internalType":"address[]","type":"address[]"},{"name":"bribeRewards","internalType":"address[]","type":"address[]"}],"name":"claimLockerRewards","outputs":[],"stateMutability":"nonpayable"}]

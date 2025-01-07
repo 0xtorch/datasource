@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_addrs","internalType":"address[]","type":"address[]"},{"name":"_vault","internalType":"address","type":"address"}],"name":"batchLiquidate","outputs":[],"stateMutability":"payable"}]

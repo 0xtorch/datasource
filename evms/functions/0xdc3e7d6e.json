@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"newEnTokenURI","internalType":"string","type":"string"},{"name":"newJpTokenURI","internalType":"string","type":"string"}],"name":"setTokenURIS","outputs":[],"stateMutability":"nonpayable"}]

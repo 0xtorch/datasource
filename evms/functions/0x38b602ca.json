@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"endAmpl","internalType":"uint256","type":"uint256"},{"name":"endTimestamp","internalType":"uint256","type":"uint256"}],"name":"updateAmplRamp","outputs":[],"stateMutability":"nonpayable"}]

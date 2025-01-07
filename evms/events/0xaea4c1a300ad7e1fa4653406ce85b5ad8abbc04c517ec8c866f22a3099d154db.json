@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"from","internalType":"address","type":"address","indexed":true},{"name":"to","internalType":"address","type":"address","indexed":true},{"name":"tokenHash","internalType":"bytes32","type":"bytes32","indexed":true},{"name":"token","internalType":"string","type":"string","indexed":false}],"name":"Transfer"}]

@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"setter","internalType":"address","type":"address","indexed":true},{"name":"pairFactory","internalType":"address","type":"address","indexed":true},{"name":"gaugeFactory","internalType":"address","type":"address","indexed":true}],"name":"FactoryAdded"}]

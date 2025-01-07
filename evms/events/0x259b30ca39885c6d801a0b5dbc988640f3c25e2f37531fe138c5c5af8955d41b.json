@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"sender","type":"address","indexed":true},{"name":"owner","type":"address","indexed":true},{"name":"proxy","type":"address","indexed":false},{"name":"cache","type":"address","indexed":false}],"name":"Created"}]

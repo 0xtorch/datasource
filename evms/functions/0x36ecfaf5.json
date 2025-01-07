@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_childContracts","internalType":"address[]","type":"address[]"},{"name":"_indices","internalType":"uint256[]","type":"uint256[]"},{"name":"_beneficiaries","internalType":"address[]","type":"address[]"}],"name":"updateChildTokenAllowlistsBeneficiary","outputs":[],"stateMutability":"nonpayable"}]

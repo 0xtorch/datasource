@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"withdrawalWallet","internalType":"address","type":"address"}],"name":"isWithdrawalWallet","outputs":[{"name":"","internalType":"bool","type":"bool"}],"stateMutability":"view"}]

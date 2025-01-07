@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_target","internalType":"address","type":"address"},{"name":"_data","internalType":"bytes","type":"bytes"},{"name":"_isRelayContext","internalType":"bool","type":"bool"},{"name":"_correlationId","internalType":"bytes32","type":"bytes32"}],"name":"callWithSyncFeeV2","outputs":[],"stateMutability":"nonpayable"}]

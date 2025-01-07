@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"newTaxRate","internalType":"uint256","type":"uint256"}],"name":"setTransactionTaxRate","outputs":[],"stateMutability":"nonpayable"}]

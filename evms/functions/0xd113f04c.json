@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_referrer","internalType":"address","type":"address"}],"name":"getReferred","outputs":[{"name":"","internalType":"struct DarkAgeOfBeastReferral.Referred[]","type":"tuple[]","components":[{"name":"user","internalType":"address","type":"address"}]}],"stateMutability":"view"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_name","internalType":"string","type":"string"},{"name":"_symbol","internalType":"string","type":"string"},{"name":"_metadataURI","internalType":"string","type":"string"},{"name":"_bridge","internalType":"address","type":"address"}],"name":"initialize","outputs":[],"stateMutability":"nonpayable"}]

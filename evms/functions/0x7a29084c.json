@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"limiter","internalType":"contract ILimiter","type":"address"}],"name":"setLimiter","outputs":[],"stateMutability":"nonpayable"}]

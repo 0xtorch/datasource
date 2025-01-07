@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"_winner","internalType":"uint256","type":"uint256","indexed":true},{"name":"_loser","internalType":"uint256","type":"uint256","indexed":true}],"name":"BattleResult"}]

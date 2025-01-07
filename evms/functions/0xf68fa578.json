@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_tokenIds","internalType":"uint256[]","type":"uint256[]"},{"name":"_difficulties","internalType":"enum QuestDifficulty[]","type":"uint8[]"},{"name":"_questLoops","internalType":"uint256[]","type":"uint256[]"}],"name":"startQuests","outputs":[],"stateMutability":"nonpayable"}]

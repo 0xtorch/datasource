@@ -8,6 +8,7 @@
     "@0xtorch/evm": "^0.0.121",
     "@0xtorch/solana": "^0.0.43",
     "abitype": "^1.0.6",
+    "viem": "2.21.18",
     "zod": "^3.22.4"
   },
   "devDependencies": {

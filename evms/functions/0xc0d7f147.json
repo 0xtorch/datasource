@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"phaseIndices","internalType":"uint256[]","type":"uint256[]"},{"name":"pausePublic","internalType":"bool","type":"bool"}],"name":"pausePhases","outputs":[],"stateMutability":"nonpayable"}]

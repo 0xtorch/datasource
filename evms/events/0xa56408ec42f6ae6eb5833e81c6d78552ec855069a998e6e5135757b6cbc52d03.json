@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"_pointer","internalType":"address","type":"address","indexed":false}],"name":"OnchainPointerUpdated"}]

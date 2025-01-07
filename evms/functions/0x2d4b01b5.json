@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"chainId","internalType":"uint256","type":"uint256"}],"name":"otherBridges","outputs":[{"name":"bridgeAddress","internalType":"bytes32","type":"bytes32"}],"stateMutability":"view"}]

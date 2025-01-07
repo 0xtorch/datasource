@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"orders","internalType":"struct SignedOrder[]","type":"tuple[]","components":[{"name":"order","internalType":"bytes","type":"bytes"},{"name":"sig","internalType":"bytes","type":"bytes"}]},{"name":"callbackData","internalType":"bytes","type":"bytes"}],"name":"executeBatchWithCallback","outputs":[],"stateMutability":"payable"}]

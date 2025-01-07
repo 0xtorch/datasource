@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"coreContract","internalType":"address","type":"address"}],"name":"isEngineView","outputs":[{"name":"","internalType":"bool","type":"bool"}],"stateMutability":"view"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"calls","internalType":"bytes[]","type":"bytes[]"}],"name":"executeWithoutChainIdValidation","outputs":[],"stateMutability":"payable"}]

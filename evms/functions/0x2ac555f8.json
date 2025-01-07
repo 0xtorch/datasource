@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[],"name":"getTokenAdmin","outputs":[{"name":"","internalType":"contract ITokenAdmin","type":"address"}],"stateMutability":"view"}]

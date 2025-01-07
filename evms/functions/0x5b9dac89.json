@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_interestRate","internalType":"uint256","type":"uint256"},{"name":"_accrualInterval","internalType":"uint256","type":"uint256"}],"name":"setInterestRate","outputs":[],"stateMutability":"nonpayable"}]

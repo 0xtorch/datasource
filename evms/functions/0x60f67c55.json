@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"tokenId","internalType":"uint256","type":"uint256"},{"name":"forgingAddress","internalType":"address","type":"address"}],"name":"setForgingAddress","outputs":[],"stateMutability":"nonpayable"}]

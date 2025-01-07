@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"functionName","internalType":"string","type":"string","indexed":true},{"name":"data","internalType":"bytes","type":"bytes","indexed":false}],"name":"MetaData"}]

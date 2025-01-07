@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"drawing","internalType":"contract CypherDrawing","type":"address"}],"name":"setDrawingContract","outputs":[],"stateMutability":"nonpayable"}]

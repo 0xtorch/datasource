@@ -1,0 +1,1 @@
+[{"type":"function","constant":true,"inputs":[{"name":"_momId","type":"uint40"},{"name":"_dadId","type":"uint40"}],"name":"canBreedWith","outputs":[{"name":"","type":"bool"}],"payable":false,"stateMutability":"view"}]

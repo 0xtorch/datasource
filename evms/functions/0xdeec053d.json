@@ -1,0 +1,1 @@
+[{"type":"function","constant":true,"inputs":[{"name":"marketId","type":"uint256"}],"name":"getMarketCachedIndex","outputs":[{"name":"","type":"tuple","components":[{"name":"borrow","type":"uint96"},{"name":"supply","type":"uint96"},{"name":"lastUpdate","type":"uint32"}]}],"payable":false,"stateMutability":"view"}]

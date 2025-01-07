@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"encodedVm","internalType":"bytes","type":"bytes"}],"name":"createWrapped","outputs":[{"name":"token","internalType":"address","type":"address"}],"stateMutability":"nonpayable"}]

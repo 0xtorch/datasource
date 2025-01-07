@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"amount","internalType":"uint256","type":"uint256"},{"name":"vault","internalType":"address","type":"address"},{"name":"to","internalType":"address","type":"address"},{"name":"referrer","internalType":"bytes3","type":"bytes3"}],"name":"borrow","outputs":[],"stateMutability":"nonpayable"}]

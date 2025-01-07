@@ -1,0 +1,1 @@
+[{"type":"function","constant":true,"inputs":[{"name":"_sender","type":"address"},{"name":"_monsterType","type":"uint256"},{"name":"_monsterId","type":"uint256"},{"name":"_seed","type":"uint256"}],"name":"getTargetSite","outputs":[{"name":"","type":"uint256"}],"payable":false,"stateMutability":"view"}]

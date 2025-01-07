@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_burnTokenIds","internalType":"uint256[]","type":"uint256[]"},{"name":"_allocated","internalType":"uint256","type":"uint256"},{"name":"_signature","internalType":"bytes","type":"bytes"}],"name":"burnMint","outputs":[],"stateMutability":"payable"}]

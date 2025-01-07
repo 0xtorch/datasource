@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[],"name":"currentEthBlock","outputs":[{"name":"blockNumber","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

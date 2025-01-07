@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_addresses_list","internalType":"address[]","type":"address[]"},{"name":"uri","internalType":"string","type":"string"}],"name":"Mint","outputs":[],"stateMutability":"nonpayable"}]

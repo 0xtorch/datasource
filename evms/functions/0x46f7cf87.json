@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_id","internalType":"address","type":"address"},{"name":"_NICR","internalType":"uint256","type":"uint256"},{"name":"_prevId","internalType":"address","type":"address"},{"name":"_nextId","internalType":"address","type":"address"}],"name":"insert","outputs":[],"stateMutability":"nonpayable"}]

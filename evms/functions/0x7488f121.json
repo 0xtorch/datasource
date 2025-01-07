@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"tokenAddress","internalType":"address","type":"address"}],"name":"getCachedRoyaltySpec","outputs":[{"name":"","internalType":"int16","type":"int16"}],"stateMutability":"view"}]

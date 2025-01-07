@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"newAttackTimeLimit","internalType":"uint256","type":"uint256"}],"name":"setAttackTimeLimit","outputs":[],"stateMutability":"nonpayable"}]

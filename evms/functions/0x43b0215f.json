@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"","internalType":"address","type":"address"}],"name":"userInfos","outputs":[{"name":"finalTokens","internalType":"uint256","type":"uint256"},{"name":"finalEmissions","internalType":"uint256","type":"uint256"},{"name":"isClaimed","internalType":"bool","type":"bool"}],"stateMutability":"view"}]

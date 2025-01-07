@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_projectId","internalType":"uint256","type":"uint256"},{"name":"_scriptId","internalType":"uint256","type":"uint256"},{"name":"_script","internalType":"string","type":"string"}],"name":"updateProjectScript","outputs":[],"stateMutability":"nonpayable"}]

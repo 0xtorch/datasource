@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"spaceId","internalType":"uint256","type":"uint256"},{"name":"holder","internalType":"address","type":"address"}],"name":"holderSharesReward","outputs":[{"name":"reward","internalType":"uint256","type":"uint256"},{"name":"rewardPerSharePaid","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

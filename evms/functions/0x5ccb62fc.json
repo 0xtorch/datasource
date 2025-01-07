@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"questCreatorAddress_","internalType":"address","type":"address"}],"name":"getMintFeeRecipient","outputs":[{"name":"","internalType":"address","type":"address"}],"stateMutability":"view"}]

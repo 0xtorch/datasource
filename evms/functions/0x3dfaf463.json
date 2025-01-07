@@ -1,0 +1,1 @@
+[{"type":"function","constant":true,"inputs":[{"name":"_tokenId","internalType":"","type":"uint256"},{"name":"_operator","internalType":"","type":"address"},{"name":"_funcSig","internalType":"","type":"bytes4"}],"name":"isFunctionOperatorOfToken","outputs":[{"name":"","internalType":"","type":"bool"}],"payable":false,"stateMutability":"view"}]

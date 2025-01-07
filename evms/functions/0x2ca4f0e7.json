@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"uri","internalType":"string","type":"string"},{"name":"isUriFrozen","internalType":"bool","type":"bool"}],"name":"publicSetBaseURI","outputs":[],"stateMutability":"nonpayable"}]

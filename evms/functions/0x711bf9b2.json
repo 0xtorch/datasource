@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"addr","internalType":"address","type":"address"},{"name":"isAuthorized","internalType":"bool","type":"bool"}],"name":"setAuthorized","outputs":[],"stateMutability":"nonpayable"}]

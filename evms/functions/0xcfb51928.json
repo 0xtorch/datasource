@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"source","internalType":"string","type":"string"}],"name":"stringToBytes32","outputs":[{"name":"result","internalType":"bytes32","type":"bytes32"}],"stateMutability":"pure"}]

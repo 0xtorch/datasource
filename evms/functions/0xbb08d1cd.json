@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"frogTokenId","internalType":"uint256","type":"uint256"},{"name":"traitType","internalType":"uint256","type":"uint256"}],"name":"getTrait","outputs":[{"name":"","internalType":"uint8","type":"uint8"}],"stateMutability":"view"}]

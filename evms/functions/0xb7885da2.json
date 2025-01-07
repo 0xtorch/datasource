@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"metadataCid","internalType":"string","type":"string"},{"name":"totalSupply","internalType":"uint256","type":"uint256"},{"name":"_priceInWei","internalType":"uint256","type":"uint256"},{"name":"initialMintAmount","internalType":"uint256","type":"uint256"}],"name":"registerNFT","outputs":[],"stateMutability":"nonpayable"}]

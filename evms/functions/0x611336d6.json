@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"handlerAddress","internalType":"address","type":"address"},{"name":"resourceID","internalType":"bytes32","type":"bytes32"}],"name":"adminSetSequencerResource","outputs":[],"stateMutability":"nonpayable"}]

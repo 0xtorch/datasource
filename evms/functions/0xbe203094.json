@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_oleToken","internalType":"address","type":"address"},{"name":"_dexAgg","internalType":"contract DexAggregatorInterface","type":"address"},{"name":"_devFundRatio","internalType":"uint256","type":"uint256"},{"name":"_dev","internalType":"address","type":"address"}],"name":"initialize","outputs":[],"stateMutability":"nonpayable"}]

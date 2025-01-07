@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"version","internalType":"uint16","type":"uint16","indexed":true},{"name":"registry","internalType":"address","type":"address","indexed":true},{"name":"logic","internalType":"address","type":"address","indexed":true},{"name":"versionRoot","internalType":"bytes32","type":"bytes32","indexed":false}],"name":"VaultVersionAdded"}]

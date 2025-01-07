@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"treasury","internalType":"address","type":"address"},{"name":"quantity","internalType":"uint256","type":"uint256"}],"name":"treasuryMint","outputs":[],"stateMutability":"nonpayable"}]

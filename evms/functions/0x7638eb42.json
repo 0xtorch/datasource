@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"ilkIndex","internalType":"uint8","type":"uint8"},{"name":"newSpot","internalType":"contract SpotOracle","type":"address"}],"name":"updateIlkSpot","outputs":[],"stateMutability":"nonpayable"}]

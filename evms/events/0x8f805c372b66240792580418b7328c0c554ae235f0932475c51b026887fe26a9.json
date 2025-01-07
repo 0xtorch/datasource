@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"periodInSeconds","internalType":"uint256","type":"uint256","indexed":false},{"name":"limitInWei","internalType":"uint256","type":"uint256","indexed":false},{"name":"currentPeriodEnd","internalType":"uint256","type":"uint256","indexed":false}],"name":"RateLimitInitialized"}]

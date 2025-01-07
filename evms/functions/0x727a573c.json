@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_newProtocol","internalType":"contract IPokPokProtocol","type":"address"}],"name":"updateProtocol","outputs":[],"stateMutability":"nonpayable"}]

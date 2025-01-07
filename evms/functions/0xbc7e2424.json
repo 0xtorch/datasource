@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"purchaseLimit","internalType":"uint256","type":"uint256"},{"name":"presaleMintLimit","internalType":"uint256","type":"uint256"},{"name":"publicMintLimit","internalType":"uint256","type":"uint256"}],"name":"setPurchaseLimit","outputs":[],"stateMutability":"nonpayable"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"repaymentFeeRate","internalType":"uint128","type":"uint128"},{"name":"poolHash","internalType":"bytes32","type":"bytes32"}],"name":"setRepaymentFeeRate","outputs":[],"stateMutability":"nonpayable"}]

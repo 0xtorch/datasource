@@ -1,0 +1,1 @@
+[{"type":"function","constant":false,"inputs":[{"name":"assetData","internalType":"bytes","type":"bytes"},{"name":"amount","internalType":"uint256","type":"uint256"}],"name":"withdrawAsset","outputs":[],"payable":false,"stateMutability":"nonpayable"}]

@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"newState","internalType":"enum ZORIUM.StakingState","type":"uint8","indexed":false}],"name":"StakingStateChanged"}]

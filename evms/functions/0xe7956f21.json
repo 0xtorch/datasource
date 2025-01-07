@@ -1,0 +1,1 @@
+[{"type":"function","constant":false,"inputs":[{"name":"strats","internalType":"address[]","type":"address[]"},{"name":"isOk","internalType":"bool","type":"bool"}],"name":"setStrategyOk","outputs":[],"payable":false,"stateMutability":"nonpayable"}]

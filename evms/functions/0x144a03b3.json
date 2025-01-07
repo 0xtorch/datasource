@@ -1,0 +1,1 @@
+[{"type":"function","constant":false,"inputs":[{"name":"depositId","internalType":"uint256","type":"uint256"},{"name":"token","internalType":"address","type":"address"},{"name":"amountOrToken","internalType":"uint256","type":"uint256"}],"name":"startExitWithDepositedTokens","outputs":[],"payable":true,"stateMutability":"payable"}]

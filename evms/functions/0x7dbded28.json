@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"network","internalType":"uint256","type":"uint256"},{"name":"name","internalType":"string","type":"string"},{"name":"daoGoverned","internalType":"bool","type":"bool"},{"name":"daoManager","internalType":"address","type":"address"}],"name":"createNetwork","outputs":[],"stateMutability":"nonpayable"}]

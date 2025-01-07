@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_admin","internalType":"address","type":"address"},{"name":"_wron","internalType":"address","type":"address"},{"name":"_minClaimedTimeWindow","internalType":"uint256","type":"uint256"}],"name":"initialize","outputs":[],"stateMutability":"nonpayable"}]

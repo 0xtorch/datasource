@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"","internalType":"enum ToadAccessory","type":"uint8"}],"name":"accessoryToPNG","outputs":[{"name":"","internalType":"string","type":"string"}],"stateMutability":"view"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[],"name":"getFeeToAmounts","outputs":[{"name":"fees0_","internalType":"uint256","type":"uint256"},{"name":"fees1_","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

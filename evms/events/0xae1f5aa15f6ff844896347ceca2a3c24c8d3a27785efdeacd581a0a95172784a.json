@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"rollup","internalType":"address","type":"address","indexed":false}],"name":"RollupUpdated"}]

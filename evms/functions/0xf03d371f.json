@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"tokenId","internalType":"uint256","type":"uint256"}],"name":"getCurrentSize","outputs":[{"name":"","internalType":"uint16","type":"uint16"}],"stateMutability":"view"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_type","internalType":"enum LineaTravelbag.ItemsType","type":"uint8"},{"name":"_addr","internalType":"address","type":"address"}],"name":"setItemsContract","outputs":[],"stateMutability":"nonpayable"}]

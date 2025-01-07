@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[],"name":"oracleVars","outputs":[{"name":"rateIndex","internalType":"uint16","type":"uint16"},{"name":"rateCardinality","internalType":"uint16","type":"uint16"},{"name":"rateCardinalityNext","internalType":"uint16","type":"uint16"}],"stateMutability":"view"}]

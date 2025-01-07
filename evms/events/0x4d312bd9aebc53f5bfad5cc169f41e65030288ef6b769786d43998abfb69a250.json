@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"pubKey","internalType":"bytes","type":"bytes","indexed":true},{"name":"withdrawalCredential","internalType":"bytes","type":"bytes","indexed":false}],"name":"DepositSent"}]

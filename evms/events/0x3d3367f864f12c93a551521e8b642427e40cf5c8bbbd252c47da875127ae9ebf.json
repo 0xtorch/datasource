@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"nonce","internalType":"uint64","type":"uint64","indexed":true},{"name":"dstChainId","internalType":"uint16","type":"uint16","indexed":false},{"name":"dstAddress","internalType":"address","type":"address","indexed":false},{"name":"messageHash","internalType":"bytes32","type":"bytes32","indexed":false}],"name":"SendZkMessage"}]

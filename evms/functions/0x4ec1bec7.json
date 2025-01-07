@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"payloadId_","internalType":"uint256","type":"uint256"},{"name":"txInfo_","internalType":"uint256","type":"uint256"},{"name":"receiverAddressSP_","internalType":"address","type":"address"}],"name":"updateTxHistory","outputs":[],"stateMutability":"nonpayable"}]

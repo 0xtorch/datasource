@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"module","internalType":"address","type":"address"},{"name":"moduleCanMint","internalType":"bool","type":"bool"}],"name":"enableModule","outputs":[],"stateMutability":"nonpayable"}]

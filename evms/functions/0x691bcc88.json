@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"aToken","internalType":"address","type":"address"}],"name":"getUnderlyingToken","outputs":[{"name":"","internalType":"address","type":"address"}],"stateMutability":"nonpayable"}]

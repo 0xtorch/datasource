@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"connextStorage","internalType":"struct RangoConnextFacet.ConnextStorage","type":"tuple","components":[{"name":"connextAddress","internalType":"address","type":"address"}]}],"name":"initConnext","outputs":[],"stateMutability":"nonpayable"}]

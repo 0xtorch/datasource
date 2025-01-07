@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_signature","internalType":"bytes","type":"bytes"},{"name":"_sigValue","internalType":"string","type":"string"},{"name":"_timestamp","internalType":"string","type":"string"},{"name":"_message","internalType":"string","type":"string"}],"name":"updateIfSigned","outputs":[],"stateMutability":"nonpayable"}]

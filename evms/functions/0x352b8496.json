@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"","internalType":"address","type":"address"},{"name":"","internalType":"uint256","type":"uint256"}],"name":"weights","outputs":[{"name":"accountWeight","internalType":"uint256","type":"uint256"},{"name":"update_at","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

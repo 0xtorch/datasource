@@ -1,0 +1,1 @@
+[{"type":"function","constant":true,"inputs":[{"name":"","type":"uint256"}],"name":"disabledListings","outputs":[{"name":"","type":"bool"}],"payable":false,"stateMutability":"view"}]

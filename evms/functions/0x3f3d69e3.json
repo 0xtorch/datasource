@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_token","internalType":"address","type":"address"},{"name":"_status","internalType":"enum Monoswap.PoolStatus","type":"uint8"}],"name":"updatePoolStatus","outputs":[],"stateMutability":"nonpayable"}]

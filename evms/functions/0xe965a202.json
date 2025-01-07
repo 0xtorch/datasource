@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"nftContract","internalType":"address","type":"address"},{"name":"count","internalType":"uint256","type":"uint256"}],"name":"mintFromDutchAuction","outputs":[{"name":"firstTokenId","internalType":"uint256","type":"uint256"}],"stateMutability":"payable"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"to","internalType":"address","type":"address"},{"name":"status","internalType":"enum IERC721AntiScam.LockStatus","type":"uint8"}],"name":"setWalletLock","outputs":[],"stateMutability":"nonpayable"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_airdropArgs","internalType":"struct IOperatorComic.AirdropArgs[]","type":"tuple[]","components":[{"name":"_to","internalType":"address","type":"address"},{"name":"_batchId","internalType":"uint256","type":"uint256"}]}],"name":"airdrop","outputs":[],"stateMutability":"nonpayable"}]

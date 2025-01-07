@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"nftAddress","internalType":"address","type":"address"},{"name":"tokenId","internalType":"uint256","type":"uint256"}],"name":"getLatestSellIdERC721","outputs":[{"name":"found","internalType":"bool","type":"bool"},{"name":"id","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

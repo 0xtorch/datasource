@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"to","internalType":"address","type":"address"},{"name":"ipfsCID","internalType":"string","type":"string"}],"name":"whitelistMint","outputs":[],"stateMutability":"nonpayable"}]

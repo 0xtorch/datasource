@@ -1,0 +1,1 @@
+[{"type":"function","constant":true,"inputs":[{"name":"_reserve","internalType":"address","type":"address"}],"name":"getReserveAvailableLiquidity","outputs":[{"name":"","internalType":"uint256","type":"uint256"}],"payable":false,"stateMutability":"view"}]

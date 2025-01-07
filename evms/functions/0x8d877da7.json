@@ -1,0 +1,1 @@
+[{"type":"function","constant":true,"inputs":[{"name":"","type":"uint256"}],"name":"mintTransactions","outputs":[{"name":"destination","type":"address"},{"name":"amount","type":"uint256"},{"name":"executed","type":"bool"}],"payable":false,"stateMutability":"view"}]

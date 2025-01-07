@@ -1,0 +1,1 @@
+[{"type":"function","constant":true,"inputs":[{"name":"_token","type":"address"}],"name":"executionMaxPerTx","outputs":[{"name":"","type":"uint256"}],"payable":false,"stateMutability":"view"}]

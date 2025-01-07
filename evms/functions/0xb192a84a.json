@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"newAllocator","internalType":"address","type":"address"},{"name":"newIsAllocator","internalType":"bool","type":"bool"}],"name":"setIsAllocator","outputs":[],"stateMutability":"nonpayable"}]

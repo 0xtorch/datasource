@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_cost","internalType":"uint256","type":"uint256"},{"name":"ticket","internalType":"enum BlastPenguinTicketID","type":"uint8"}],"name":"setPresaleCost","outputs":[],"stateMutability":"nonpayable"}]

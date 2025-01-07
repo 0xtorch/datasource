@@ -1,0 +1,1 @@
+[{"type":"function","constant":false,"inputs":[{"name":"_merkleMineContract","type":"address"},{"name":"_recipients","type":"address[]"},{"name":"_merkleProofs","type":"bytes"}],"name":"multiGenerate","outputs":[],"payable":false,"stateMutability":"nonpayable"}]

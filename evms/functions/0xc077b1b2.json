@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_sradsV2","internalType":"contract UraniumBEP20","type":"address"},{"name":"_radsV2","internalType":"contract UraniumBEP20","type":"address"}],"name":"setupRadsv2Addresses","outputs":[],"stateMutability":"nonpayable"}]

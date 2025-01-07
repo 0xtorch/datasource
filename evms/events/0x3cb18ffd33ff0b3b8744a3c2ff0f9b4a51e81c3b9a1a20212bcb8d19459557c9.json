@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"epoch","internalType":"uint256","type":"uint256","indexed":true},{"name":"prevCap","internalType":"uint256","type":"uint256","indexed":false},{"name":"newCap","internalType":"uint256","type":"uint256","indexed":false}],"name":"MoveToNextEpoch"}]

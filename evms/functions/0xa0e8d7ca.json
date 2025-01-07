@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_tokenAmount","internalType":"uint256","type":"uint256"},{"name":"_tokenAddress","internalType":"address","type":"address"},{"name":"_destinationAddress","internalType":"string","type":"string"}],"name":"pegIn","outputs":[{"name":"","internalType":"bool","type":"bool"}],"stateMutability":"nonpayable"}]

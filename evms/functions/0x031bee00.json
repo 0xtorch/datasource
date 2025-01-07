@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[],"name":"marketInfo","outputs":[{"name":"startTime","internalType":"uint64","type":"uint64"},{"name":"endTime","internalType":"uint64","type":"uint64"},{"name":"totalTokens","internalType":"uint128","type":"uint128"}],"stateMutability":"view"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_managing","internalType":"enum SdogTreasury.MANAGING","type":"uint8"},{"name":"_address","internalType":"address","type":"address"}],"name":"queue","outputs":[{"name":"","internalType":"bool","type":"bool"}],"stateMutability":"nonpayable"}]

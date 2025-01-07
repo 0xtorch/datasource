@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"airdropContract","internalType":"address","type":"address"},{"name":"airdropParams","internalType":"bytes","type":"bytes"}],"name":"executeAirdrop","outputs":[],"stateMutability":"nonpayable"}]

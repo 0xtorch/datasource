@@ -1,0 +1,1 @@
+[{"type":"function","constant":false,"inputs":[{"name":"_admins","type":"address[]"},{"name":"_v","type":"bool"}],"name":"setAdmin","outputs":[],"payable":false,"stateMutability":"nonpayable"}]

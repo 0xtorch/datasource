@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"bribeTokensAddresses","internalType":"address[]","type":"address[]"}],"name":"updateTokensAllowedStates","outputs":[],"stateMutability":"nonpayable"}]

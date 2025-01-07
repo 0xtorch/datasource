@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"addressesToRemove","internalType":"address[]","type":"address[]"}],"name":"removeFromTokenTransferAllowlist","outputs":[],"stateMutability":"nonpayable"}]

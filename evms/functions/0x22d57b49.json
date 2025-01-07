@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"interfaces","internalType":"string[]","type":"string[]"},{"name":"addresses","internalType":"address[]","type":"address[]"}],"name":"setInterfaces","outputs":[],"stateMutability":"nonpayable"}]

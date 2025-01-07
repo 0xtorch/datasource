@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"tournamentID","type":"uint256","indexed":true},{"name":"roundID","type":"uint256","indexed":true},{"name":"endTime","type":"uint256","indexed":false},{"name":"resolutionTime","type":"uint256","indexed":false}],"name":"RoundCreated"}]

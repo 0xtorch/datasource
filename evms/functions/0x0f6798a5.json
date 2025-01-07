@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"owner","internalType":"address","type":"address"},{"name":"_rarity","internalType":"uint256","type":"uint256"}],"name":"Mint","outputs":[],"stateMutability":"payable"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"proof","internalType":"bytes32[]","type":"bytes32[]"},{"name":"path","internalType":"uint256","type":"uint256"},{"name":"item","internalType":"bytes32","type":"bytes32"}],"name":"calculateMerkleRoot","outputs":[{"name":"","internalType":"bytes32","type":"bytes32"}],"stateMutability":"pure"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"amountOutMin","internalType":"uint256","type":"uint256"},{"name":"data","internalType":"string","type":"string"}],"name":"swapEthForFloaties","outputs":[],"stateMutability":"payable"}]

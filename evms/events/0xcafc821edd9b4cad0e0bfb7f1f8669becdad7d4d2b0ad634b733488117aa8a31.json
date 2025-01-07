@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"_previousAddress","internalType":"address","type":"address","indexed":true},{"name":"_newAddress","internalType":"address","type":"address","indexed":true}],"name":"SetJonesRewards"}]

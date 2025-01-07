@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"reward","internalType":"uint256","type":"uint256"},{"name":"rewardPerWeight","internalType":"uint256","type":"uint256"}],"name":"rewardToWeight","outputs":[{"name":"","internalType":"uint256","type":"uint256"}],"stateMutability":"pure"}]

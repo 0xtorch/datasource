@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[],"name":"allocationInfo","outputs":[{"name":"totalUsers","internalType":"uint256","type":"uint256"},{"name":"inputTokenAmount","internalType":"uint256","type":"uint256"},{"name":"outputTokenAmount","internalType":"uint256","type":"uint256"},{"name":"snapshotDate","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

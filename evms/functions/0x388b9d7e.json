@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"","internalType":"uint256","type":"uint256"}],"name":"vaultTemplates","outputs":[{"name":"code","internalType":"bytes","type":"bytes"},{"name":"arguments","internalType":"bytes","type":"bytes"}],"stateMutability":"view"}]

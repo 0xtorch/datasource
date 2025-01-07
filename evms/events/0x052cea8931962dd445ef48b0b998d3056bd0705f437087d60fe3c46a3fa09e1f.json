@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"beaconProxy","internalType":"address","type":"address","indexed":true},{"name":"newBeaconLogic","internalType":"address","type":"address","indexed":false}],"name":"PoolBeaconLogicUpdated"}]

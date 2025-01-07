@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"mintTicketContractAddress","internalType":"address","type":"address"}],"name":"setTicketContractAddress","outputs":[],"stateMutability":"nonpayable"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_aggregatorAdaptor","internalType":"address","type":"address"},{"name":"_isSet","internalType":"bool","type":"bool"}],"name":"setAggregatorAdaptor","outputs":[],"stateMutability":"nonpayable"}]

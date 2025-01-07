@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"newContract","internalType":"address","type":"address"},{"name":"whitelist","internalType":"bool","type":"bool"}],"name":"whitelistClaimer","outputs":[],"stateMutability":"nonpayable"}]

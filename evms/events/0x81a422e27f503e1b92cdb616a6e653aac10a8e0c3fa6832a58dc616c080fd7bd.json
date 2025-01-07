@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"_component","internalType":"address","type":"address","indexed":true},{"name":"_positionModule","internalType":"address","type":"address","indexed":true},{"name":"_realUnit","internalType":"int256","type":"int256","indexed":false}],"name":"ExternalPositionUnitEdited"}]

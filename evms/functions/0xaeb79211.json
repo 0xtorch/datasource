@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_app","internalType":"address","type":"address"},{"name":"_admin","internalType":"address","type":"address"},{"name":"_flags","internalType":"uint256","type":"uint256"},{"name":"_whitelist","internalType":"address[]","type":"address[]"}],"name":"updateAppConfig","outputs":[],"stateMutability":"nonpayable"}]

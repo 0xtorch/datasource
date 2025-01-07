@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"tokenAmount","internalType":"uint256","type":"uint256"},{"name":"holdTime","internalType":"uint256","type":"uint256"},{"name":"referer","internalType":"address","type":"address"},{"name":"beneficiary","internalType":"address","type":"address"}],"name":"stake","outputs":[],"stateMutability":"nonpayable"}]

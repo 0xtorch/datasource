@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"nft1","internalType":"uint256","type":"uint256"},{"name":"nft2","internalType":"uint256","type":"uint256"}],"name":"sendGenerator","outputs":[],"stateMutability":"nonpayable"}]

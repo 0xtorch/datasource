@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"unpaused","internalType":"bool","type":"bool","indexed":true},{"name":"caller","internalType":"address","type":"address","indexed":true}],"name":"LogUnpause"}]

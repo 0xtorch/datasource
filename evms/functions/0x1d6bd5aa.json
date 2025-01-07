@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"targetChain","internalType":"uint16","type":"uint16"}],"name":"getOriginalOrDefaultDeliveryProvider","outputs":[{"name":"deliveryProvider","internalType":"address","type":"address"},{"name":"deliveryProviderOnTarget","internalType":"address","type":"address"}],"stateMutability":"view"}]

@@ -1,0 +1,1 @@
+[{"type":"function","constant":true,"inputs":[{"name":"_owner","type":"address"},{"name":"_index","type":"uint256"}],"name":"tokensOfOwnerByIndex","outputs":[{"name":"tokenId","type":"uint256"}],"payable":false,"stateMutability":"view"}]

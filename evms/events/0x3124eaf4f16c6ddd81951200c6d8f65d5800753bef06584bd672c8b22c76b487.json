@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"rootManager","internalType":"address","type":"address","indexed":false},{"name":"oldRootManager","internalType":"address","type":"address","indexed":false}],"name":"RootManagerChanged"}]

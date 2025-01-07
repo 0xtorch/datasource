@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_node","internalType":"bytes32","type":"bytes32"}],"name":"recordExists","outputs":[{"name":"","internalType":"bool","type":"bool"}],"stateMutability":"view"}]

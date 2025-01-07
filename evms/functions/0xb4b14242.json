@@ -1,0 +1,1 @@
+[{"type":"function","constant":false,"inputs":[{"name":"_token","internalType":"address","type":"address"},{"name":"_account","internalType":"address","type":"address"}],"name":"moveTokens","outputs":[{"name":"","internalType":"bool","type":"bool"}],"payable":false,"stateMutability":"nonpayable"}]

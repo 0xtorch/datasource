@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_feeOperators","internalType":"uint16","type":"uint16"},{"name":"_feeTreasury","internalType":"uint16","type":"uint16"},{"name":"_feeDevelopers","internalType":"uint16","type":"uint16"}],"name":"setFee","outputs":[],"stateMutability":"nonpayable"}]

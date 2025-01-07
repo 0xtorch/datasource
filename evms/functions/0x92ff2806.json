@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[],"name":"getProtocolFeeDefault","outputs":[{"name":"protocolFeeDefault","internalType":"struct Fee","type":"tuple","components":[{"name":"share","internalType":"uint256","type":"uint256"},{"name":"beneficiary","internalType":"address","type":"address"}]}],"stateMutability":"view"}]

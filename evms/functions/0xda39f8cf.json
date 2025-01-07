@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"wlId","internalType":"uint8","type":"uint8"},{"name":"count","internalType":"uint256","type":"uint256"},{"name":"proof","internalType":"bytes32[]","type":"bytes32[]"}],"name":"mint","outputs":[],"stateMutability":"payable"}]

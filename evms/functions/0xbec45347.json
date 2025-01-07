@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_newStatus","internalType":"struct IISBStaticData.StatusMaster","type":"tuple","components":[{"name":"statusText","internalType":"string","type":"string"},{"name":"withLevel","internalType":"bool","type":"bool"}]}],"name":"addStatusMaster","outputs":[],"stateMutability":"nonpayable"}]

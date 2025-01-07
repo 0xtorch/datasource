@@ -1,0 +1,1 @@
+[{"type":"function","constant":true,"inputs":[{"name":"","internalType":"","type":"address"}],"name":"whitelisted","outputs":[{"name":"","internalType":"","type":"bool"}],"payable":false,"stateMutability":"view"}]

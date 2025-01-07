@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"account","internalType":"address","type":"address","indexed":false}],"name":"SetOracle"},{"type":"event","anonymous":false,"inputs":[{"name":"oracle","internalType":"address","type":"address","indexed":true}],"name":"SetOracle"}]

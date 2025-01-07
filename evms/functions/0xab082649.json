@@ -1,0 +1,1 @@
+[{"type":"function","constant":true,"inputs":[{"name":"","type":"uint256"}],"name":"uid2User_","outputs":[{"name":"addr","type":"address"},{"name":"uid","type":"uint256"},{"name":"pid","type":"uint256"},{"name":"childCnt","type":"uint256"}],"payable":false,"stateMutability":"view"}]

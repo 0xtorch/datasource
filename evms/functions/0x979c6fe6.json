@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"term","internalType":"uint256","type":"uint256"}],"name":"getTermInfo","outputs":[{"name":"maturity","internalType":"uint64","type":"uint64"},{"name":"solidStrikePrice","internalType":"uint64","type":"uint64"},{"name":"SBTID","internalType":"bytes32","type":"bytes32"}],"stateMutability":"view"}]

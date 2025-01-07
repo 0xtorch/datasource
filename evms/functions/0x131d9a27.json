@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_tokenId","internalType":"uint256","type":"uint256"}],"name":"getBids","outputs":[{"name":"","internalType":"struct BidNFT.BidEntry[]","type":"tuple[]","components":[{"name":"bidder","internalType":"address","type":"address"},{"name":"price","internalType":"uint256","type":"uint256"}]}],"stateMutability":"view"}]

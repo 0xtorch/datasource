@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_srcChainId","internalType":"uint16","type":"uint16"},{"name":"_srcAddress","internalType":"bytes","type":"bytes"}],"name":"isTrustedRemote","outputs":[{"name":"","internalType":"bool","type":"bool"}],"stateMutability":"view"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_appID","internalType":"string","type":"string"},{"name":"_flag","internalType":"bool","type":"bool"}],"name":"setBlacklist","outputs":[],"stateMutability":"nonpayable"}]

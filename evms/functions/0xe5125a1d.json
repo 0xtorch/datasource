@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_consensusAddr","internalType":"address","type":"address"},{"name":"_effectiveDaysOnwards","internalType":"uint256","type":"uint256"},{"name":"_commissionRate","internalType":"uint256","type":"uint256"}],"name":"execRequestUpdateCommissionRate","outputs":[],"stateMutability":"nonpayable"}]

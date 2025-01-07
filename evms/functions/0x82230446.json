@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"routeAddresses","internalType":"address[]","type":"address[]"},{"name":"tokenAddresses","internalType":"address[]","type":"address[]"},{"name":"isMax","internalType":"bool","type":"bool"}],"name":"setApprovalForRouters","outputs":[],"stateMutability":"nonpayable"}]

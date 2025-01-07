@@ -1,0 +1,1 @@
+[{"type":"function","constant":false,"inputs":[{"name":"_editionNumber","type":"uint256"},{"name":"_totalAvailable","type":"uint256"}],"name":"updateTotalAvailable","outputs":[],"payable":false,"stateMutability":"nonpayable"}]

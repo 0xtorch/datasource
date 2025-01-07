@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"maxTX","internalType":"uint256","type":"uint256","indexed":false}],"name":"set_MaxTX"}]

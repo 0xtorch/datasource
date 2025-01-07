@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"comet","internalType":"address","type":"address"},{"name":"token","internalType":"address","type":"address"}],"name":"setRewardConfig","outputs":[],"stateMutability":"nonpayable"}]

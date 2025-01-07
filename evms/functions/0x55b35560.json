@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_token","internalType":"address","type":"address"},{"name":"_toChain","internalType":"uint256","type":"uint256"},{"name":"_enable","internalType":"bool","type":"bool"}],"name":"registerToken","outputs":[],"stateMutability":"nonpayable"}]

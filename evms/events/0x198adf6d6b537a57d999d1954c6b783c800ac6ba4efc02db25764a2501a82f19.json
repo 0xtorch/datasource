@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"receiverAddress","internalType":"address","type":"address","indexed":true}],"name":"ClaimReceiverContractSet"}]

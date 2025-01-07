@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_rewardMinter","internalType":"contract IFantasticStaking","type":"address"}],"name":"setRewardMinter","outputs":[],"stateMutability":"nonpayable"}]

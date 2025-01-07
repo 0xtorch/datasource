@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"programOutput","internalType":"uint256[]","type":"uint256[]"},{"name":"kzgProofs","internalType":"bytes[]","type":"bytes[]"}],"name":"updateStateKzgDA","outputs":[],"stateMutability":"nonpayable"}]

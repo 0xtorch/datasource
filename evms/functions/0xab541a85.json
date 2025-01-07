@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"","internalType":"contract IERC721","type":"address"},{"name":"","internalType":"uint256","type":"uint256"}],"name":"claims","outputs":[{"name":"startTime","internalType":"uint256","type":"uint256"},{"name":"totalClaimed","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

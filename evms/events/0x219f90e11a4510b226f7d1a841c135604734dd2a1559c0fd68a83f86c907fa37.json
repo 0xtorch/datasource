@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"lockedStakeMaxMultiplier","internalType":"uint256","type":"uint256","indexed":false},{"name":"lockedStakeTimeForMaxMultiplier","internalType":"uint256","type":"uint256","indexed":false}],"name":"MultipliersUpdated"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"token","internalType":"address","type":"address"},{"name":"wavaxPool","internalType":"address","type":"address"},{"name":"isLP","internalType":"bool","type":"bool"}],"name":"setTokenToWavaxPool","outputs":[],"stateMutability":"nonpayable"}]

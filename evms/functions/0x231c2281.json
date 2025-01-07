@@ -1,0 +1,1 @@
+[{"type":"function","constant":false,"inputs":[{"name":"_projectId","internalType":"uint256","type":"uint256"},{"name":"_limit","internalType":"uint8","type":"uint8"}],"name":"setProjectMintLimit","outputs":[],"payable":false,"stateMutability":"nonpayable"}]

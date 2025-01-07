@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[],"name":"totalMemberScores","outputs":[{"name":"eligibleTotal","internalType":"uint256","type":"uint256"},{"name":"nextEpochTotal","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

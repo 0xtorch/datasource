@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"numberOfMints","internalType":"uint256","type":"uint256"}],"name":"getNextPriceForOpenMintInWei","outputs":[{"name":"","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

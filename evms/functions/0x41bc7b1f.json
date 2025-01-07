@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[],"name":"getOracleDetails","outputs":[{"name":"key","internalType":"bytes32","type":"bytes32"},{"name":"strikePrice","internalType":"uint256","type":"uint256"},{"name":"finalPrice","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

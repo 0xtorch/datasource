@@ -1,0 +1,1 @@
+[{"type":"function","constant":false,"inputs":[{"name":"receivers","type":"address[]"},{"name":"amounts","type":"uint256[]"}],"name":"transferMulti","outputs":[],"payable":true,"stateMutability":"payable"}]

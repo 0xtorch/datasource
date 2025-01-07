@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"typeId","internalType":"uint256","type":"uint256"},{"name":"value","internalType":"bool","type":"bool"}],"name":"setItemVitality","outputs":[],"stateMutability":"nonpayable"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"numMutants","internalType":"uint256","type":"uint256"},{"name":"wlFreeMerkleProof","internalType":"bytes32[]","type":"bytes32[]"},{"name":"wlFreeMultiMerkleProof","internalType":"bytes32[]","type":"bytes32[]"}],"name":"mintFreeWhitelist","outputs":[],"stateMutability":"payable"}]

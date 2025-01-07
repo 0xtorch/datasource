@@ -1,0 +1,1 @@
+[{"type":"function","constant":true,"inputs":[{"name":"_id","internalType":"uint256","type":"uint256"}],"name":"symbolScheme","outputs":[{"name":"","internalType":"uint8","type":"uint8"}],"payable":false,"stateMutability":"view"}]

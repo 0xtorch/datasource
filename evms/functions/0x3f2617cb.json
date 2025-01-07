@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"swapper","internalType":"contract ISwapper","type":"address"},{"name":"enable","internalType":"bool","type":"bool"}],"name":"setSwapper","outputs":[],"stateMutability":"nonpayable"}]

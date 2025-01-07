@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"sig_id","internalType":"uint256","type":"uint256"}],"name":"check_claim_amount_from_signature","outputs":[{"name":"","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

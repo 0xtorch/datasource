@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"poolIndex","internalType":"uint256","type":"uint256"},{"name":"nominatedOwner_","internalType":"address","type":"address"}],"name":"nominateNewPoolOwner","outputs":[{"name":"success","internalType":"bool","type":"bool"}],"stateMutability":"nonpayable"}]

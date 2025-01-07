@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"packetId_","internalType":"bytes32","type":"bytes32"},{"name":"proposalCount_","internalType":"uint256","type":"uint256"},{"name":"switchboard_","internalType":"address","type":"address"}],"name":"isPacketProposed","outputs":[{"name":"","internalType":"bool","type":"bool"}],"stateMutability":"view"}]

@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"requestHash","internalType":"bytes32","type":"bytes32","indexed":true},{"name":"rewarded","internalType":"uint256","type":"uint256","indexed":false},{"name":"totalAxieRewards","internalType":"uint256","type":"uint256","indexed":false}],"name":"RewardingAxiesCorrupted"}]

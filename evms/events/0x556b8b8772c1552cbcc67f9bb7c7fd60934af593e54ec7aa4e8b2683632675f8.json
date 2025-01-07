@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"wToken","internalType":"address","type":"address","indexed":false}],"name":"SetWrappedToken"},{"type":"event","anonymous":false,"inputs":[{"name":"_wToken","internalType":"address","type":"address","indexed":true}],"name":"SetWrappedToken"}]

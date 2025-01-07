@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"previousKeeper","internalType":"address","type":"address","indexed":true},{"name":"newKeeper","internalType":"address","type":"address","indexed":true}],"name":"BotKeeperChanged"}]

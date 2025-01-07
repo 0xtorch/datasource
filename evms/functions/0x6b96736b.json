@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[],"name":"DEPOSIT_CONTRACT","outputs":[{"name":"","internalType":"contract IDepositContract","type":"address"}],"stateMutability":"view"}]

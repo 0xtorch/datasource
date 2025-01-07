@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_userAddress","internalType":"address","type":"address"},{"name":"_bunnyId","internalType":"uint8","type":"uint8"}],"name":"canClaimSingle","outputs":[{"name":"","internalType":"bool","type":"bool"}],"stateMutability":"view"}]

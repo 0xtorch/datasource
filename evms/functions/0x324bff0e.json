@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"strategyAddress","internalType":"address","type":"address"},{"name":"profitToken","internalType":"address","type":"address"},{"name":"userAddress","internalType":"address","type":"address"},{"name":"profitTokenAmount","internalType":"uint256","type":"uint256"}],"name":"profitRewardAddReward","outputs":[],"stateMutability":"nonpayable"}]

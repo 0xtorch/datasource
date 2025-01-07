@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_to","internalType":"address","type":"address"},{"name":"_amount","internalType":"uint256","type":"uint256"},{"name":"_l1Gas","internalType":"uint32","type":"uint32"},{"name":"_data","internalType":"bytes","type":"bytes"}],"name":"withdrawMetisTo","outputs":[],"stateMutability":"payable"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"presaleStatus","internalType":"bool","type":"bool"},{"name":"mintId","internalType":"uint256","type":"uint256"}],"name":"stopOrStartpresaleMint","outputs":[],"stateMutability":"nonpayable"}]

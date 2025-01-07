@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"newRecipient","internalType":"address","type":"address"}],"name":"setContractFundsRecipient","outputs":[],"stateMutability":"nonpayable"}]

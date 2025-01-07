@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"deployedContractAddress","internalType":"address","type":"address","indexed":false}],"name":"ContractDeployed"}]

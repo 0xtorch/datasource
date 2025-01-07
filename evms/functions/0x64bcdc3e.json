@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_proof","internalType":"bytes32[]","type":"bytes32[]"},{"name":"_amount","internalType":"uint256","type":"uint256"},{"name":"_holderAddress","internalType":"address","type":"address"}],"name":"checkRegularRemainAmount","outputs":[{"name":"","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

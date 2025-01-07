@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"lotteryFee","internalType":"uint256","type":"uint256"}],"name":"setLotteryFeePercent","outputs":[],"stateMutability":"nonpayable"}]

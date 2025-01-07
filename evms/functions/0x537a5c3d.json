@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"delegate","internalType":"address","type":"address"},{"name":"contract_","internalType":"address","type":"address"},{"name":"tokenId","internalType":"uint256","type":"uint256"},{"name":"value","internalType":"bool","type":"bool"}],"name":"delegateForToken","outputs":[],"stateMutability":"nonpayable"}]

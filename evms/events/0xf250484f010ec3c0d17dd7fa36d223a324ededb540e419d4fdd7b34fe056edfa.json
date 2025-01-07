@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"oldTransferable","internalType":"bool","type":"bool","indexed":false},{"name":"newTransferable","internalType":"bool","type":"bool","indexed":false}],"name":"EventUpdateTransferable"}]

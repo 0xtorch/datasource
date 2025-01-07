@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"newDelegateManager","internalType":"contract IDelegateManagerCommon","type":"address","indexed":false},{"name":"newId","internalType":"bytes32","type":"bytes32","indexed":false}],"name":"NewVoterParams"}]

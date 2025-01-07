@@ -1,0 +1,1 @@
+[{"type":"function","constant":false,"inputs":[{"name":"targets","type":"address[]"},{"name":"unixTimes","type":"uint256[]"}],"name":"lockupAccounts","outputs":[],"payable":false,"stateMutability":"nonpayable"}]

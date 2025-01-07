@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"previousFreezer","type":"address","indexed":true},{"name":"newFreezer","type":"address","indexed":true}],"name":"FreezershipTransferred"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_l2GasDiscountDivisor","internalType":"uint256","type":"uint256"},{"name":"_enqueueGasCost","internalType":"uint256","type":"uint256"}],"name":"setGasParams","outputs":[],"stateMutability":"nonpayable"}]

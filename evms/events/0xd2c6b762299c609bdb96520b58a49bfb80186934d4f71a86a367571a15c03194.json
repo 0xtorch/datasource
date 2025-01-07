@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"id","internalType":"bytes4","type":"bytes4","indexed":false},{"name":"assetProxy","internalType":"address","type":"address","indexed":false}],"name":"AssetProxyRegistered"}]

@@ -1,0 +1,1 @@
+[{"type":"function","constant":true,"inputs":[{"name":"currencyKeys","internalType":"bytes32[]","type":"bytes32[]"}],"name":"excludedIssuedDebts","outputs":[{"name":"excludedDebts","internalType":"uint256[]","type":"uint256[]"}],"payable":false,"stateMutability":"view"}]

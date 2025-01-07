@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"initialOwner","internalType":"address","type":"address","indexed":true},{"name":"contentURI","internalType":"string","type":"string","indexed":false}],"name":"ethscriptions_protocol_CreateEthscription"}]

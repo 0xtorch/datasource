@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_imageUrl","internalType":"string","type":"string"},{"name":"_animationUrl","internalType":"string","type":"string"}],"name":"updateEditionURLs","outputs":[],"stateMutability":"nonpayable"}]

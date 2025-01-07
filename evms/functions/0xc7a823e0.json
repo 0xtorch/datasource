@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_hash","internalType":"bytes32","type":"bytes32"},{"name":"_signatures","internalType":"bytes","type":"bytes"}],"name":"verifySignatures","outputs":[{"name":"","internalType":"bool","type":"bool"},{"name":"","internalType":"enum MultiSig.Errors","type":"uint8"}],"stateMutability":"view"}]

@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"depositHash","internalType":"bytes32","type":"bytes32","indexed":true},{"name":"relayHash","internalType":"bytes32","type":"bytes32","indexed":true},{"name":"disputer","internalType":"address","type":"address","indexed":true}],"name":"RelayCanceled"}]

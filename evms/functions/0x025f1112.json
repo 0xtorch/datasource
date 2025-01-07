@@ -1,0 +1,1 @@
+[{"type":"function","constant":false,"inputs":[{"name":"_minClaimedTimeWindow","internalType":"uint256","type":"uint256"}],"name":"setMinClaimedTimeWindow","outputs":[],"payable":false,"stateMutability":"nonpayable"}]

@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"liquidityAddress","internalType":"address","type":"address","indexed":false}],"name":"SetLiquidityAddress"}]

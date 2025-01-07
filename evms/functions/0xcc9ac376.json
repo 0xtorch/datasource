@@ -1,0 +1,1 @@
+[{"type":"function","constant":false,"inputs":[{"name":"_granted","type":"address"},{"name":"_amount","type":"uint256"},{"name":"_expiresAt","type":"uint256"}],"name":"addLock","outputs":[],"payable":false,"stateMutability":"nonpayable"}]

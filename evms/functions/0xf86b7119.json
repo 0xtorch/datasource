@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_venusToken","internalType":"address","type":"address"},{"name":"_holder","internalType":"address","type":"address"}],"name":"getClaimTokenCalldata","outputs":[{"name":"","internalType":"bytes","type":"bytes"},{"name":"","internalType":"address","type":"address"}],"stateMutability":"pure"}]

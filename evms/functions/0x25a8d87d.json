@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"underlyingAmount","internalType":"uint256","type":"uint256"}],"name":"convertToPrincipal","outputs":[{"name":"principalAmount","internalType":"uint256","type":"uint256"}],"stateMutability":"nonpayable"}]

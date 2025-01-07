@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"_index","internalType":"address","type":"address","indexed":true},{"name":"_tokens","internalType":"address[]","type":"address[]","indexed":false}],"name":"TokensClaimed"}]

@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"oldRedeemToken","internalType":"address","type":"address","indexed":false},{"name":"redeemToken","internalType":"address","type":"address","indexed":false}],"name":"UpdateRedeemToken"}]

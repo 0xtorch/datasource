@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"amount0Desired","internalType":"uint256","type":"uint256"},{"name":"amount1Desired","internalType":"uint256","type":"uint256"},{"name":"amount0Min","internalType":"uint256","type":"uint256"},{"name":"amount1Min","internalType":"uint256","type":"uint256"}],"name":"stakeSteakHutAVAXUSDC","outputs":[],"stateMutability":"nonpayable"}]

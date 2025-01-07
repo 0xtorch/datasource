@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"poolId","internalType":"bytes32","type":"bytes32","indexed":true},{"name":"poolAddress","internalType":"address","type":"address","indexed":true},{"name":"specialization","internalType":"enum IVault.PoolSpecialization","type":"uint8","indexed":false}],"name":"PoolRegistered"}]

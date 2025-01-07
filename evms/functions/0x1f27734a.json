@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_merkleRoot","internalType":"bytes32","type":"bytes32"},{"name":"_startTimestamp","internalType":"uint256","type":"uint256"},{"name":"_endTimestamp","internalType":"uint256","type":"uint256"},{"name":"_ipfsCid","internalType":"bytes","type":"bytes"}],"name":"proposeRoot","outputs":[],"stateMutability":"nonpayable"}]

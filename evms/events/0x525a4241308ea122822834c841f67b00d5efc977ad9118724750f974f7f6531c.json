@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"previousSize","internalType":"uint256","type":"uint256","indexed":false},{"name":"newSize","internalType":"uint256","type":"uint256","indexed":false}],"name":"OracleSizeIncreased"}]

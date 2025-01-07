@@ -1,0 +1,1 @@
+[{"type":"function","constant":true,"inputs":[{"name":"_classId","type":"uint32"}],"name":"getGen0COnfig","outputs":[{"name":"","type":"uint32"},{"name":"","type":"uint256"},{"name":"","type":"uint32"}],"payable":false,"stateMutability":"view"}]

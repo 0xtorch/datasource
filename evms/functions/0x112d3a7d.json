@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"moduleType","internalType":"uint256","type":"uint256"},{"name":"module","internalType":"address","type":"address"},{"name":"additionalContext","internalType":"bytes","type":"bytes"}],"name":"isModuleInstalled","outputs":[{"name":"","internalType":"bool","type":"bool"}],"stateMutability":"view"}]

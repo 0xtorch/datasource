@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"addr","internalType":"address","type":"address"}],"name":"remove_from_whitelist","outputs":[],"stateMutability":"nonpayable"}]

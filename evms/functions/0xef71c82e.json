@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_newURI","internalType":"string","type":"string"},{"name":"_newName","internalType":"string","type":"string"}],"name":"updateContractMetadata","outputs":[],"stateMutability":"nonpayable"}]

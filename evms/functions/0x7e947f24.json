@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"projectId","internalType":"uint256","type":"uint256"},{"name":"coreContract","internalType":"address","type":"address"},{"name":"pricePerTokenInWei","internalType":"uint248","type":"uint248"}],"name":"updatePricePerTokenInWei","outputs":[],"stateMutability":"nonpayable"}]

@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"l2GasDiscountDivisor","internalType":"uint256","type":"uint256","indexed":false},{"name":"enqueueGasCost","internalType":"uint256","type":"uint256","indexed":false},{"name":"enqueueL2GasPrepaid","internalType":"uint256","type":"uint256","indexed":false}],"name":"L2GasParamsUpdated"}]

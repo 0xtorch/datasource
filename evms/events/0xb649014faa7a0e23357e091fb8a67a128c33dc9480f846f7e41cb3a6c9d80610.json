@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"staker","internalType":"address","type":"address","indexed":true},{"name":"validator","internalType":"address","type":"address","indexed":true},{"name":"lockedUnstake","internalType":"uint256","type":"uint256","indexed":false}],"name":"UnstakedV2"}]

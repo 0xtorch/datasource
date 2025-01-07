@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"joe","internalType":"contract EIP20Interface","type":"address","indexed":true}],"name":"JoeSet"}]

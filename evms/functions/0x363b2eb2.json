@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"dstChainId","internalType":"uint16","type":"uint16"},{"name":"poolId","internalType":"uint256","type":"uint256"},{"name":"amount","internalType":"uint256","type":"uint256"},{"name":"recipient","internalType":"address","type":"address"}],"name":"transferToken","outputs":[],"stateMutability":"payable"}]

@@ -1,0 +1,1 @@
+[{"type":"function","constant":false,"inputs":[{"name":"holder","internalType":"address","type":"address"},{"name":"idx","internalType":"uint256","type":"uint256"}],"name":"unlock","outputs":[{"name":"","internalType":"bool","type":"bool"}],"payable":false,"stateMutability":"nonpayable"}]

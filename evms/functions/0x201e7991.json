@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_target","internalType":"uint256","type":"uint256"},{"name":"_denominator","internalType":"uint256","type":"uint256"}],"name":"setTargetLiquidity","outputs":[],"stateMutability":"nonpayable"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"a","internalType":"address","type":"address"},{"name":"b","internalType":"bool","type":"bool"}],"name":"setExcludedFromAutoLiquidity","outputs":[],"stateMutability":"nonpayable"}]

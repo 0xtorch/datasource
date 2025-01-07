@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"recipient","type":"address","indexed":false},{"name":"amountClaimed","type":"uint128","indexed":false}],"name":"GrantTokensClaimed"}]

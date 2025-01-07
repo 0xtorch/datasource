@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"billContract","internalType":"address","type":"address","indexed":true},{"name":"feeReceiver","internalType":"address","type":"address","indexed":false},{"name":"amountPayoutToken","internalType":"uint256","type":"uint256","indexed":false}],"name":"PayoutFee"}]

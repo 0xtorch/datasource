@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[],"name":"tokenConfig","outputs":[{"name":"depositToken1","internalType":"address","type":"address"},{"name":"depositToken2","internalType":"address","type":"address"},{"name":"factory","internalType":"address","type":"address"}],"stateMutability":"view"}]

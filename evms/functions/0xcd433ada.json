@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"txHash","internalType":"bytes32","type":"bytes32"},{"name":"logIndex","internalType":"uint256","type":"uint256"},{"name":"refundAddress","internalType":"address","type":"address"}],"name":"addNativeGas","outputs":[],"stateMutability":"payable"}]

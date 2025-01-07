@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"","internalType":"uint64","type":"uint64"}],"name":"priorityRequests","outputs":[{"name":"hashedPubData","internalType":"bytes20","type":"bytes20"},{"name":"expirationBlock","internalType":"uint64","type":"uint64"},{"name":"opType","internalType":"enum Operations.OpType","type":"uint8"}],"stateMutability":"view"}]

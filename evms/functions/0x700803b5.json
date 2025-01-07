@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_destChainID","internalType":"uint8","type":"uint8"},{"name":"_resourceID","internalType":"bytes32","type":"bytes32"}],"name":"genericDeposit","outputs":[{"name":"","internalType":"uint64","type":"uint64"}],"stateMutability":"nonpayable"}]

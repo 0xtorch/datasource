@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"gasOracle_","internalType":"contract IGasOracle","type":"address"}],"name":"setGasOracle","outputs":[],"stateMutability":"nonpayable"}]

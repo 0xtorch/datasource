@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"","internalType":"address","type":"address"},{"name":"","internalType":"address","type":"address"}],"name":"approvedPlugins","outputs":[{"name":"","internalType":"bool","type":"bool"}],"stateMutability":"view"}]

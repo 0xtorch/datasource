@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"asset","internalType":"address","type":"address"}],"name":"getAvailableAssetAmount","outputs":[{"name":"availableAssetAmount","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

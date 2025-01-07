@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_dividends","internalType":"contract IDividends","type":"address"}],"name":"changeDividendsContract","outputs":[],"stateMutability":"nonpayable"}]

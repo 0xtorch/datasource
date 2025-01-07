@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"wolfGameContractAddress","internalType":"address","type":"address"}],"name":"setWolfGameContractAddress","outputs":[],"stateMutability":"nonpayable"}]

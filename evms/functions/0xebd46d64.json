@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_itemId","internalType":"uint256","type":"uint256"},{"name":"_issuedId","internalType":"uint256","type":"uint256"}],"name":"encodeTokenId","outputs":[{"name":"id","internalType":"uint256","type":"uint256"}],"stateMutability":"pure"}]

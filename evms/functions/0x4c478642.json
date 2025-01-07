@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"tokensToApprove","internalType":"address[]","type":"address[]"}],"name":"setApprovalForBridge","outputs":[],"stateMutability":"nonpayable"}]

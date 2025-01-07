@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"receiver","internalType":"address","type":"address","indexed":true},{"name":"mintAmount","internalType":"uint256","type":"uint256","indexed":false},{"name":"amountXIn","internalType":"uint256","type":"uint256","indexed":false},{"name":"amountYIn","internalType":"uint256","type":"uint256","indexed":false}],"name":"Minted"}]

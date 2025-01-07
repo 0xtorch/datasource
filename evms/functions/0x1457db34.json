@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_poolRewarder","internalType":"contract IPoolRewarder","type":"address"}],"name":"setPoolRewarder","outputs":[],"stateMutability":"nonpayable"}]

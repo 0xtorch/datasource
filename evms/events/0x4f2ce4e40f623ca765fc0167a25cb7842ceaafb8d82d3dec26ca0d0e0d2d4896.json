@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"pool","internalType":"contract ITranchedPool","type":"address","indexed":true},{"name":"borrower","internalType":"address","type":"address","indexed":true}],"name":"PoolCreated"}]

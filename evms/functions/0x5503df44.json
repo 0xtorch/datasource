@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"card_type","internalType":"uint256","type":"uint256"},{"name":"target","internalType":"address","type":"address"}],"name":"mintTheRest","outputs":[],"stateMutability":"nonpayable"}]

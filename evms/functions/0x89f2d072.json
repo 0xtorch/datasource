@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"Recipient","internalType":"address","type":"address"},{"name":"Proof","internalType":"bytes32[]","type":"bytes32[]"}],"name":"readQREligibility","outputs":[{"name":"","internalType":"bool","type":"bool"}],"stateMutability":"view"}]

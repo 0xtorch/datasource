@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"recipient","internalType":"address","type":"address"},{"name":"erc20","internalType":"address","type":"address"},{"name":"amount","internalType":"uint256","type":"uint256"},{"name":"salt","internalType":"uint256","type":"uint256"}],"name":"transferERC20","outputs":[],"stateMutability":"nonpayable"}]

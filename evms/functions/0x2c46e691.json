@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"tokenId","internalType":"uint256","type":"uint256"},{"name":"metadata","internalType":"string","type":"string"}],"name":"setTokenMetadataURI","outputs":[],"stateMutability":"nonpayable"}]

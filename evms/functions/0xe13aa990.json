@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"vestingPeriod_","internalType":"uint256","type":"uint256"}],"name":"updateVestingSchedule","outputs":[{"name":"issuanceRate_","internalType":"uint256","type":"uint256"},{"name":"freeAssets_","internalType":"uint256","type":"uint256"}],"stateMutability":"nonpayable"}]

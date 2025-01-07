@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_nurseType","internalType":"uint256","type":"uint256"},{"name":"_parts","internalType":"uint256","type":"uint256"}],"name":"assemble","outputs":[],"stateMutability":"nonpayable"}]

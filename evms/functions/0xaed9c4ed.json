@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_round","internalType":"uint256","type":"uint256"},{"name":"_buyers","internalType":"address[]","type":"address[]"},{"name":"_allowed","internalType":"bool","type":"bool"}],"name":"setAllowList","outputs":[],"stateMutability":"nonpayable"}]

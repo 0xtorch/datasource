@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"nft","internalType":"contract IERC721","type":"address"},{"name":"id","internalType":"uint256","type":"uint256"}],"name":"getAgreementOf","outputs":[{"name":"agreementHash","internalType":"bytes32","type":"bytes32"}],"stateMutability":"view"}]

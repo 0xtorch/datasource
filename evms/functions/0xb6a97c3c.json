@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_tokenId","internalType":"uint16","type":"uint16"},{"name":"_claimTokenIds","internalType":"uint256[]","type":"uint256[]"}],"name":"checkFreeClaimEligibility","outputs":[{"name":"","internalType":"bool[]","type":"bool[]"}],"stateMutability":"view"}]

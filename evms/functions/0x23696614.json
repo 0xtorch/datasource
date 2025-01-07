@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_packId","internalType":"uint256","type":"uint256"},{"name":"_mintingStartTimestamp","internalType":"uint128","type":"uint128"},{"name":"_mintingEndTimestamp","internalType":"uint128","type":"uint128"}],"name":"updateStartEndTimePack","outputs":[{"name":"packId","internalType":"uint256","type":"uint256"}],"stateMutability":"nonpayable"}]

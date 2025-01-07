@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"partner","internalType":"address","type":"address","indexed":false},{"name":"val","internalType":"bool","type":"bool","indexed":false}],"name":"SetPauseWhiteList"}]

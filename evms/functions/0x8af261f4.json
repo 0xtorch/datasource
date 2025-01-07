@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"","internalType":"contract IBhavishPrediction","type":"address"}],"name":"activePredictionMap","outputs":[{"name":"","internalType":"bool","type":"bool"}],"stateMutability":"view"}]

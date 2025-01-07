@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[],"name":"getProviderInfo","outputs":[{"name":"","internalType":"struct IAssetProvider.ProviderInfo","type":"tuple","components":[{"name":"key","internalType":"string","type":"string"},{"name":"name","internalType":"string","type":"string"},{"name":"provider","internalType":"contract IAssetProvider","type":"address"}]}],"stateMutability":"view"}]

@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"admin","internalType":"address","type":"address","indexed":true},{"name":"asset","internalType":"contract IERC20","type":"address","indexed":true},{"name":"protocolRevenues","internalType":"uint128","type":"uint128","indexed":false}],"name":"ClaimProtocolRevenues"}]

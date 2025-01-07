@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"newOwner","internalType":"address","type":"address"},{"name":"direct","internalType":"bool","type":"bool"},{"name":"renounce","internalType":"bool","type":"bool"}],"name":"transferOwnership","outputs":[],"stateMutability":"nonpayable"}]

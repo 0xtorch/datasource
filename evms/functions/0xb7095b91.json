@@ -1,0 +1,1 @@
+[{"type":"function","constant":false,"inputs":[{"name":"_cardId","type":"uint256"},{"name":"_newPrice","type":"uint256"},{"name":"_newLimit","type":"uint256"}],"name":"setCardPrice","outputs":[{"name":"","type":"bool"}],"payable":false,"stateMutability":"nonpayable"}]

@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"previousWallet","internalType":"address","type":"address","indexed":true},{"name":"newWallet","internalType":"address","type":"address","indexed":true}],"name":"RoyaltyWalletChanged"}]

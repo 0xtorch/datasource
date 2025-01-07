@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"suggestionId","internalType":"uint256","type":"uint256"},{"name":"votes","internalType":"uint256","type":"uint256"},{"name":"comment","internalType":"string","type":"string"}],"name":"multiVote","outputs":[],"stateMutability":"nonpayable"}]

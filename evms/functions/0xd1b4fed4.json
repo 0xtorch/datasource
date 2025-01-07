@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"tokenOwner","internalType":"address","type":"address"},{"name":"itemContractAddress","internalType":"address","type":"address"},{"name":"itemTokenId","internalType":"uint256","type":"uint256"}],"name":"receiveItem","outputs":[],"stateMutability":"nonpayable"}]

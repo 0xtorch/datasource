@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"","internalType":"contract LockFarm","type":"address"}],"name":"fnft","outputs":[{"name":"","internalType":"contract FNFT","type":"address"}],"stateMutability":"view"}]

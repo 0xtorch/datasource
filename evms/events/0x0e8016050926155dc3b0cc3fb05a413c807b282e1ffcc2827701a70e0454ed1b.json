@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"liquidityProvider","internalType":"address","type":"address","indexed":false}],"name":"RemoveLiquidityProvider"}]

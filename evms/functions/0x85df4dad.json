@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"uris","internalType":"struct FairxyzPolygonzkEVM.AllURIs","type":"tuple","components":[{"name":"URI1","internalType":"string","type":"string"},{"name":"URI2","internalType":"string","type":"string"},{"name":"URI3","internalType":"string","type":"string"}]}],"name":"changeURI","outputs":[],"stateMutability":"nonpayable"}]

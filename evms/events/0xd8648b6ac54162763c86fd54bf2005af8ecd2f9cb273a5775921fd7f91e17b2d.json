@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"seller","internalType":"address","type":"address","indexed":true},{"name":"payBase","internalType":"uint256","type":"uint256","indexed":false},{"name":"receiveQuote","internalType":"uint256","type":"uint256","indexed":false}],"name":"SellBaseToken"}]

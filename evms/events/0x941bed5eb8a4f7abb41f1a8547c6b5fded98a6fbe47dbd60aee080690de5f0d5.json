@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"previousFeeTo","internalType":"address","type":"address","indexed":true},{"name":"newFeeTo","internalType":"address","type":"address","indexed":true}],"name":"FeeToTransferred"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_colors","internalType":"string[]","type":"string[]"},{"name":"_objects","internalType":"string[]","type":"string[]"}],"name":"mintItems","outputs":[],"stateMutability":"payable"}]

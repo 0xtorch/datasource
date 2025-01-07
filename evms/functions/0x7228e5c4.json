@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_dexList","internalType":"address[]","type":"address[]"},{"name":"_funcs","internalType":"string[]","type":"string[]"},{"name":"_codecs","internalType":"address[]","type":"address[]"}],"name":"setDexCodecs","outputs":[],"stateMutability":"nonpayable"}]

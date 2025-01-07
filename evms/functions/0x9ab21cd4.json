@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_customLicenseName","internalType":"string","type":"string"},{"name":"_customLicenseURI","internalType":"string","type":"string"}],"name":"setCustomLicense","outputs":[],"stateMutability":"nonpayable"}]

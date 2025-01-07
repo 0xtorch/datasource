@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_owner","internalType":"address","type":"address"},{"name":"_defaultIsm","internalType":"address","type":"address"},{"name":"_defaultHook","internalType":"address","type":"address"},{"name":"_requiredHook","internalType":"address","type":"address"}],"name":"initialize","outputs":[],"stateMutability":"nonpayable"}]

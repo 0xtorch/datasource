@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"id","type":"uint256","indexed":true},{"name":"amount","type":"uint256","indexed":false},{"name":"erc20","type":"address","indexed":false}],"name":"GegoBurn"}]

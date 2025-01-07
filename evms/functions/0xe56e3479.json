@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"NFTId","internalType":"uint256","type":"uint256"},{"name":"_recipient","internalType":"address","type":"address"}],"name":"NFTMachineFor","outputs":[],"stateMutability":"nonpayable"}]

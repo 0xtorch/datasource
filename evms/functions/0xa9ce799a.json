@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"inventoryType","internalType":"string","type":"string"},{"name":"numTokens","internalType":"uint256","type":"uint256"}],"name":"setInventoryTypeNumTokens","outputs":[],"stateMutability":"nonpayable"}]

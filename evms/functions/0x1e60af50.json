@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_proposalId","internalType":"uint256","type":"uint256"},{"name":"_eids","internalType":"uint32[]","type":"uint32[]"}],"name":"getCastVoteReceivedCounts","outputs":[{"name":"counts","internalType":"uint256[]","type":"uint256[]"}],"stateMutability":"view"}]

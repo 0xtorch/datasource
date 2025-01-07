@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"","internalType":"uint256","type":"uint256"}],"name":"tokenState","outputs":[{"name":"creator","internalType":"address","type":"address"},{"name":"uri","internalType":"string","type":"string"},{"name":"underlyingType","internalType":"enum NFTCollection.UnderlyingType","type":"uint8"}],"stateMutability":"view"}]

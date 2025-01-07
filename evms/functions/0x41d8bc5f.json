@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"newOracle","internalType":"address","type":"address"}],"name":"setExchangeRateOracle","outputs":[],"stateMutability":"nonpayable"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"newDecimals","internalType":"uint8","type":"uint8"}],"name":"setFeedPricePrecision","outputs":[],"stateMutability":"nonpayable"}]

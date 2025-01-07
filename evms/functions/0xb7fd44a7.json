@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"tier1Invites","internalType":"uint256[]","type":"uint256[]"},{"name":"tier2Invites","internalType":"uint256[]","type":"uint256[]"}],"name":"mintMasksWithInvites","outputs":[],"stateMutability":"payable"}]

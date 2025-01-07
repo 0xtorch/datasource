@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"tokenId","internalType":"uint256","type":"uint256"}],"name":"getTokenMintAvailability","outputs":[{"name":"mintEndTime","internalType":"uint256","type":"uint256"},{"name":"quantityAvailableToMint","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

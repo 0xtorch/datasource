@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"darkSpiritTokenIds","internalType":"uint256[]","type":"uint256[]"},{"name":"darkHeroSpiritTokenIds","internalType":"uint256[]","type":"uint256[]"}],"name":"startCraftingPotionsBatch","outputs":[],"stateMutability":"nonpayable"}]

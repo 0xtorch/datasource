@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_contributors","internalType":"address[]","type":"address[]"}],"name":"withdrawContributions","outputs":[{"name":"result","internalType":"bool[]","type":"bool[]"}],"stateMutability":"nonpayable"}]

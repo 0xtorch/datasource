@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_router","internalType":"contract LSSVMRouter","type":"address"},{"name":"isAllowed","internalType":"bool","type":"bool"}],"name":"setRouterAllowed","outputs":[],"stateMutability":"nonpayable"}]

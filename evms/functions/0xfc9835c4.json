@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_publicFundPercent","internalType":"uint256","type":"uint256"},{"name":"_communityFundPercent","internalType":"uint256","type":"uint256"},{"name":"_teamFundPercent","internalType":"uint256","type":"uint256"}],"name":"setSplitPercents","outputs":[],"stateMutability":"nonpayable"}]

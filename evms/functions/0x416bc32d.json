@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"cooperator","internalType":"address","type":"address"}],"name":"getApprovedLengthForOperator","outputs":[{"name":"","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

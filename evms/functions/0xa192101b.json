@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"domainName","internalType":"string","type":"string"},{"name":"newTime","internalType":"uint256","type":"uint256"}],"name":"otherChainRenew","outputs":[],"stateMutability":"nonpayable"}]

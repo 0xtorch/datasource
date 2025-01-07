@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_quoteType","internalType":"enum IOFTWrapper.QUOTE_TYPE","type":"uint8"}],"name":"setDefaultQuoteType","outputs":[],"stateMutability":"nonpayable"}]

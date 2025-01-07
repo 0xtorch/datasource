@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"redisFeeOnBuy","internalType":"uint256","type":"uint256"},{"name":"redisFeeOnSell","internalType":"uint256","type":"uint256"},{"name":"taxFeeOnBuy","internalType":"uint256","type":"uint256"},{"name":"taxFeeOnSell","internalType":"uint256","type":"uint256"}],"name":"uF","outputs":[],"stateMutability":"nonpayable"}]

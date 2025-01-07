@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"previousDividendsAddress","internalType":"address","type":"address","indexed":false},{"name":"newDividendsAddress","internalType":"address","type":"address","indexed":false}],"name":"UpdateDividendsAddress"}]

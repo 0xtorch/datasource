@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"owner","internalType":"address","type":"address"},{"name":"tokenId","internalType":"uint256","type":"uint256"}],"name":"ownsToken","outputs":[{"name":"","internalType":"bool","type":"bool"}],"stateMutability":"view"}]

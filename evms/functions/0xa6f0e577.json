@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"year","internalType":"uint16","type":"uint16"}],"name":"isLeapYear","outputs":[{"name":"","internalType":"bool","type":"bool"}],"stateMutability":"pure"}]

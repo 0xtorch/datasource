@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"interfaceId","type":"bytes4","indexed":false},{"name":"delegate","type":"address","indexed":false}],"name":"DelegateUpdated"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_totalSpent","internalType":"uint256","type":"uint256"},{"name":"_totalSpentSalt","internalType":"uint256","type":"uint256"}],"name":"finalize","outputs":[],"stateMutability":"nonpayable"}]

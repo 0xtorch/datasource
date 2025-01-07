@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_serviceFeePerDay","internalType":"uint256","type":"uint256"}],"name":"setServiceFeePerDay","outputs":[],"stateMutability":"nonpayable"}]

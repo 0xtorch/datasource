@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_lpToken","internalType":"contract IBoringERC20","type":"address"},{"name":"_rewarders","internalType":"contract IComplexRewarder[]","type":"address[]"},{"name":"_enableCooldown","internalType":"bool","type":"bool"}],"name":"add","outputs":[],"stateMutability":"nonpayable"}]

@@ -1,0 +1,1 @@
+[{"type":"function","constant":true,"inputs":[{"name":"","type":"address"}],"name":"airCountOf","outputs":[{"name":"","type":"uint32"}],"payable":false,"stateMutability":"view"}]

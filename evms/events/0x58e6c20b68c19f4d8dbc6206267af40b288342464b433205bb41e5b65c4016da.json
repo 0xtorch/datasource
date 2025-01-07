@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"suspended","internalType":"bool","type":"bool","indexed":false}],"name":"Suspended"}]

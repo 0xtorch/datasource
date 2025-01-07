@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"checksum","internalType":"bytes32","type":"bytes32"}],"name":"checksumExists","outputs":[{"name":"","internalType":"bool","type":"bool"}],"stateMutability":"view"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"reqs","internalType":"struct SimpleClaimRequest[]","type":"tuple[]","components":[{"name":"index","internalType":"uint24","type":"uint24"},{"name":"account","internalType":"address","type":"address"}]}],"name":"batchSimpleClaim","outputs":[],"stateMutability":"nonpayable"}]

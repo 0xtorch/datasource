@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"l2LockBox","internalType":"address","type":"address","indexed":false},{"name":"initialSupply","internalType":"uint256","type":"uint256","indexed":false}],"name":"InitializeAndMintSupply"}]

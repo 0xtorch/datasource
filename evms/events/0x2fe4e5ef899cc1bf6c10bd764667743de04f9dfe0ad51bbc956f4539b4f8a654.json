@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"ladle","internalType":"contract ILadle","type":"address","indexed":false},{"name":"cauldron","internalType":"contract ICauldron","type":"address","indexed":false}],"name":"YieldSet"}]

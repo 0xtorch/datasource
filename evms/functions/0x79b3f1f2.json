@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"keyIndex","internalType":"uint256","type":"uint256"},{"name":"tokenId","internalType":"uint256","type":"uint256"},{"name":"value","internalType":"string","type":"string"}],"name":"setSuffixValue","outputs":[],"stateMutability":"nonpayable"}]

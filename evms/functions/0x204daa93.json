@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_token","internalType":"address","type":"address"},{"name":"_flag","internalType":"bool","type":"bool"}],"name":"setSupportToken","outputs":[],"stateMutability":"nonpayable"}]

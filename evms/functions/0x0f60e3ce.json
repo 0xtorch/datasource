@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"fromAddress","internalType":"address","type":"address"}],"name":"getTokensForAddress","outputs":[{"name":"","internalType":"uint256[]","type":"uint256[]"}],"stateMutability":"view"}]

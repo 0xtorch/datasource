@@ -1,0 +1,1 @@
+[{"type":"function","constant":true,"inputs":[],"name":"sanctionsList","outputs":[{"name":"","internalType":"contract ISanctionsList","type":"address"}],"payable":false,"stateMutability":"view"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"addressKey","internalType":"uint256","type":"uint256"}],"name":"getAddressName","outputs":[{"name":"","internalType":"string","type":"string"}],"stateMutability":"pure"}]

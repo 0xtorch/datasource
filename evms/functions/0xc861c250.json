@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"initialAuthority","internalType":"address","type":"address"},{"name":"royaltyReceiver","internalType":"address","type":"address"},{"name":"royaltyFeeNumerator","internalType":"uint96","type":"uint96"}],"name":"initialize","outputs":[],"stateMutability":"nonpayable"}]

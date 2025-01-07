@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"dvn","internalType":"address","type":"address","indexed":false},{"name":"header","internalType":"bytes","type":"bytes","indexed":false},{"name":"cmdHash","internalType":"bytes32","type":"bytes32","indexed":false},{"name":"payloadHash","internalType":"bytes32","type":"bytes32","indexed":false}],"name":"PayloadVerified"}]

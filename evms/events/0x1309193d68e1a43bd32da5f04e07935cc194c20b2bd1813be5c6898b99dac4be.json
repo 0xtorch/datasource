@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"tokensSwapped","internalType":"uint256","type":"uint256","indexed":false},{"name":"valueReceived","internalType":"uint256","type":"uint256","indexed":false}],"name":"SwapAndSend"}]

@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"penalty_k","type":"uint256","indexed":false}],"name":"PenaltySpeed"}]

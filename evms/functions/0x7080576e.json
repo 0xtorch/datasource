@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"","internalType":"uint256","type":"uint256"}],"name":"lendings","outputs":[{"name":"lender","internalType":"address","type":"address"},{"name":"tokenId","internalType":"uint256","type":"uint256"},{"name":"isCanceled","internalType":"bool","type":"bool"},{"name":"cancelAt","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"newSubOracle","internalType":"contract PriceOracleInterface","type":"address","indexed":false}],"name":"SetSubOracle"}]

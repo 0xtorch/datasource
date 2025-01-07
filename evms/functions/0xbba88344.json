@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"periodOfCycle","internalType":"uint256","type":"uint256"},{"name":"numberOfCycle","internalType":"uint256","type":"uint256"},{"name":"startTime","internalType":"uint256","type":"uint256"},{"name":"firstRate","internalType":"uint256","type":"uint256"}],"name":"setupRewardParameters","outputs":[],"stateMutability":"nonpayable"}]

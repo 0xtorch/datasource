@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_reserveToken","internalType":"contract IERC20Token","type":"address"}],"name":"reserveWeight","outputs":[{"name":"","internalType":"uint32","type":"uint32"}],"stateMutability":"view"}]

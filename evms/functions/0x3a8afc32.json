@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_amountInUsd","internalType":"uint256","type":"uint256"}],"name":"getWeiPrice","outputs":[{"name":"","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

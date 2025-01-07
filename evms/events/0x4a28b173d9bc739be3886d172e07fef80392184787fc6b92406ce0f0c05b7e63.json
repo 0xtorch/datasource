@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"wrappeds","internalType":"address[]","type":"address[]","indexed":false},{"name":"newAllowed","internalType":"bool[]","type":"bool[]","indexed":false}],"name":"ChangeWrappedAllowed"}]

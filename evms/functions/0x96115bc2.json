@@ -1,0 +1,1 @@
+[{"type":"function","constant":false,"inputs":[{"name":"removedOperator","internalType":"address","type":"address"}],"name":"unregisterOperator","outputs":[],"payable":false,"stateMutability":"nonpayable"}]

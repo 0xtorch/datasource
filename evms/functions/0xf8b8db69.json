@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_seedReferral","internalType":"contract ISeedReferral","type":"address"}],"name":"setSeedReferral","outputs":[],"stateMutability":"nonpayable"}]

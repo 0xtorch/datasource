@@ -1,0 +1,1 @@
+[{"type":"function","constant":false,"inputs":[{"name":"_since","type":"uint256"},{"name":"_until","type":"uint256"},{"name":"_purchaseType","type":"uint8"}],"name":"setCampaign","outputs":[],"payable":false,"stateMutability":"nonpayable"}]

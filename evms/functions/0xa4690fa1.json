@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"owner","internalType":"address","type":"address"}],"name":"getAddressScore","outputs":[{"name":"","internalType":"struct GalxeScore.Score","type":"tuple","components":[{"name":"owner","internalType":"uint160","type":"uint160"},{"name":"cid","internalType":"uint96","type":"uint96"}]}],"stateMutability":"view"}]

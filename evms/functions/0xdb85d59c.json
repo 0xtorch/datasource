@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"","internalType":"uint256","type":"uint256"}],"name":"extensions","outputs":[{"name":"","internalType":"contract INFTExtension","type":"address"}],"stateMutability":"view"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"presaleStartTimestamp_","internalType":"uint256","type":"uint256"},{"name":"presaleDurationSeconds_","internalType":"uint256","type":"uint256"},{"name":"tgeStartTimestamp_","internalType":"uint256","type":"uint256"}],"name":"schedule","outputs":[],"stateMutability":"nonpayable"}]

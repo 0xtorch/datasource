@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"start","internalType":"address","type":"address"},{"name":"pageSize","internalType":"uint256","type":"uint256"}],"name":"getModulesPaginated","outputs":[{"name":"array","internalType":"address[]","type":"address[]"},{"name":"next","internalType":"address","type":"address"}],"stateMutability":"view"}]

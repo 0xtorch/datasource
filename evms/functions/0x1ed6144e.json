@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_operators","internalType":"address[]","type":"address[]"},{"name":"_isOperator","internalType":"bool","type":"bool"}],"name":"setOperator","outputs":[],"stateMutability":"nonpayable"}]

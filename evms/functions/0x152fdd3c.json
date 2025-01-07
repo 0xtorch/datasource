@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_newTokens","internalType":"struct IISBStaticData.Tokens","type":"tuple","components":[{"name":"SINN","internalType":"contract IERC20","type":"address"},{"name":"GOV","internalType":"contract IERC20","type":"address"}]}],"name":"setTokens","outputs":[],"stateMutability":"nonpayable"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"tokenId","internalType":"uint256","type":"uint256"},{"name":"occupation","internalType":"uint256","type":"uint256"},{"name":"xAttribute","internalType":"bool","type":"bool"}],"name":"initializeCharacter","outputs":[],"stateMutability":"nonpayable"}]

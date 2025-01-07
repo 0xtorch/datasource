@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"node","internalType":"bytes32","type":"bytes32"},{"name":"interfaceID","internalType":"bytes4","type":"bytes4"}],"name":"interfaceImplementer","outputs":[{"name":"","internalType":"address","type":"address"}],"stateMutability":"view"}]

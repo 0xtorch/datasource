@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"updateData","internalType":"bytes[]","type":"bytes[]"}],"name":"getUpdateFee","outputs":[{"name":"feeAmount","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

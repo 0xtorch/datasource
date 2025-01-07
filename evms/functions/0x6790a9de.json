@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_newPrefix","internalType":"string","type":"string"},{"name":"_newSuffix","internalType":"string","type":"string"}],"name":"setBaseURI","outputs":[],"stateMutability":"nonpayable"}]

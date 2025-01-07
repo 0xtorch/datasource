@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"success","internalType":"bool","type":"bool"},{"name":"data","internalType":"bytes","type":"bytes"},{"name":"errorMessage","internalType":"string","type":"string"}],"name":"propagateError","outputs":[],"stateMutability":"pure"}]

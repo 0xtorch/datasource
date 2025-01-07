@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"agreementType","internalType":"bytes32","type":"bytes32","indexed":false},{"name":"code","internalType":"address","type":"address","indexed":false}],"name":"AgreementClassUpdated"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"token","internalType":"contract IERC20","type":"address"},{"name":"pid","internalType":"uint256","type":"uint256"}],"name":"_stakeTokenToPiggyBreeder","outputs":[],"stateMutability":"nonpayable"}]

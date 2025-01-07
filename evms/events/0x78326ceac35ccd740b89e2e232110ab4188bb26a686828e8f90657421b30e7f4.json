@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"key","internalType":"bytes32","type":"bytes32","indexed":false},{"name":"realisedPnl","internalType":"int256","type":"int256","indexed":false},{"name":"markPrice","internalType":"uint256","type":"uint256","indexed":false},{"name":"feeUsd","internalType":"uint256","type":"uint256","indexed":false}],"name":"ClosePosition"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"params","internalType":"struct IBulkActionsEntry.ProcessQueueParams[]","type":"tuple[]","components":[{"name":"vaultAddress","internalType":"address","type":"address"},{"name":"maxProcessCount","internalType":"uint256","type":"uint256"}]}],"name":"bulkProcessDepositQueues","outputs":[],"stateMutability":"nonpayable"}]

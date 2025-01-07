@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"collectionId","internalType":"bytes32","type":"bytes32"},{"name":"seed","internalType":"int32","type":"int32"}],"name":"setSeed","outputs":[],"stateMutability":"nonpayable"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"requests","internalType":"struct IMintingManager.BulkSLDIssueRequest[]","type":"tuple[]","components":[{"name":"to","internalType":"address","type":"address"},{"name":"label","internalType":"string","type":"string"},{"name":"tld","internalType":"uint256","type":"uint256"}]}],"name":"bulkIssue","outputs":[],"stateMutability":"nonpayable"}]

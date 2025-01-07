@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_savedSpartans","internalType":"address","type":"address"},{"name":"_saveAmount","internalType":"uint256","type":"uint256"}],"name":"saveFallenSpartans","outputs":[],"stateMutability":"nonpayable"}]

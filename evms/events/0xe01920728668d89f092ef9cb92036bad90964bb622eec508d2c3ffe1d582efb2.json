@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"tokenAddr","type":"address","indexed":true},{"name":"toAddr","type":"address","indexed":true},{"name":"amount","type":"uint256","indexed":false}],"name":"Rescue"}]

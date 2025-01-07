@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"extStableAmount","internalType":"uint256","type":"uint256"}],"name":"lockup","outputs":[{"name":"lockupAmount","internalType":"uint256","type":"uint256"}],"stateMutability":"nonpayable"}]

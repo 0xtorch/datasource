@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"mintPrices","internalType":"uint256[]","type":"uint256[]"},{"name":"seriesNumbers","internalType":"uint16[]","type":"uint16[]"}],"name":"setEditionMintPrices","outputs":[],"stateMutability":"nonpayable"}]

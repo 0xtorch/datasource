@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"epochParameters","internalType":"struct MD1Types.EpochParameters","type":"tuple","components":[{"name":"interval","internalType":"uint128","type":"uint128"},{"name":"offset","internalType":"uint128","type":"uint128"}],"indexed":false}],"name":"EpochScheduleUpdated"}]

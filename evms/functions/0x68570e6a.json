@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[],"name":"escrowPool","outputs":[{"name":"","internalType":"contract ITimeLockPool","type":"address"}],"stateMutability":"view"}]

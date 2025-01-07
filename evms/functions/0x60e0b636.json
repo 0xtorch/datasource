@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"","internalType":"bytes6","type":"bytes6"}],"name":"joins","outputs":[{"name":"","internalType":"contract IJoin","type":"address"}],"stateMutability":"view"}]

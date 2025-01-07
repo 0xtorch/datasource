@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[],"name":"getNfDropMarketAddress","outputs":[{"name":"market","internalType":"address","type":"address"}],"stateMutability":"view"}]

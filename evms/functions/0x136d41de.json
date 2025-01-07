@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"","internalType":"uint256","type":"uint256"},{"name":"","internalType":"address","type":"address"},{"name":"","internalType":"uint256","type":"uint256"}],"name":"quests","outputs":[{"name":"questId","internalType":"uint64","type":"uint64"},{"name":"startTimestamp","internalType":"uint64","type":"uint64"}],"stateMutability":"view"}]

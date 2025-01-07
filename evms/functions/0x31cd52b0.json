@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"amount","internalType":"uint256","type":"uint256"},{"name":"minAmounts","internalType":"uint256[]","type":"uint256[]"},{"name":"deadline","internalType":"uint256","type":"uint256"}],"name":"removeLiquidity","outputs":[{"name":"","internalType":"uint256[]","type":"uint256[]"}],"stateMutability":"nonpayable"}]

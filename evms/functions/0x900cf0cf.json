@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[],"name":"epoch","outputs":[{"name":"length","internalType":"uint256","type":"uint256"},{"name":"number","internalType":"uint256","type":"uint256"},{"name":"endBlock","internalType":"uint256","type":"uint256"},{"name":"distribute","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

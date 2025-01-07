@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"amount","internalType":"uint128","type":"uint128"},{"name":"daysToStake","internalType":"uint16","type":"uint16"}],"name":"boostHFTStake","outputs":[],"stateMutability":"nonpayable"}]

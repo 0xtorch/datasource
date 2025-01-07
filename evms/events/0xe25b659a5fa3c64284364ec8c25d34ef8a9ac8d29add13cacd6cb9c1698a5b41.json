@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"guildAction","internalType":"enum IGuildPin.GuildAction","type":"uint8","indexed":false}],"name":"PinStringsSet"}]

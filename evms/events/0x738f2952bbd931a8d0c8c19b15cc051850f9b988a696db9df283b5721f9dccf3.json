@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"oldExecutor","internalType":"address","type":"address","indexed":false},{"name":"newExecutor","internalType":"address","type":"address","indexed":false}],"name":"ChangeAutomation"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_to","internalType":"address","type":"address"}],"name":"isEligibleForDiscount","outputs":[{"name":"","internalType":"bool","type":"bool"}],"stateMutability":"view"}]

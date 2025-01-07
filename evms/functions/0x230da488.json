@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"questType","internalType":"uint8","type":"uint8"},{"name":"remark","internalType":"string","type":"string"}],"name":"doQuest","outputs":[],"stateMutability":"payable"}]

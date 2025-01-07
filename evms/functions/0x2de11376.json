@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_sender","internalType":"address","type":"address"}],"name":"hasAcl","outputs":[{"name":"","internalType":"bool","type":"bool"}],"stateMutability":"view"}]

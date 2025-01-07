@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"account","internalType":"address","type":"address"},{"name":"token","internalType":"contract ERC20","type":"address"}],"name":"getERC20Balance","outputs":[{"name":"","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"vault","internalType":"address","type":"address"},{"name":"contract_","internalType":"address","type":"address"}],"name":"getDelegatesForContract","outputs":[{"name":"delegates","internalType":"address[]","type":"address[]"}],"stateMutability":"view"}]

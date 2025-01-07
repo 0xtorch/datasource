@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[],"name":"lockedCollateral","outputs":[{"name":"quote","internalType":"uint256","type":"uint256"},{"name":"base","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

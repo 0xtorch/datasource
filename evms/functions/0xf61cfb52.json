@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"assetAddr","internalType":"address","type":"address"},{"name":"newDepositFee","internalType":"uint16","type":"uint16"}],"name":"setDepositFee","outputs":[],"stateMutability":"nonpayable"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_maxWalletAmount","internalType":"uint256","type":"uint256"}],"name":"changeLimit","outputs":[{"name":"","internalType":"bool","type":"bool"}],"stateMutability":"nonpayable"}]

@@ -1,0 +1,1 @@
+[{"type":"function","constant":true,"inputs":[{"name":"","internalType":"address","type":"address"}],"name":"entries","outputs":[{"name":"claimable","internalType":"uint128","type":"uint128"},{"name":"entryAccumulatedRewards","internalType":"uint128","type":"uint128"}],"payable":false,"stateMutability":"view"}]

@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"pairIndex","internalType":"uint256","type":"uint256","indexed":false},{"name":"valueAbove","internalType":"uint256","type":"uint256","indexed":false},{"name":"valueBelow","internalType":"uint256","type":"uint256","indexed":false}],"name":"OnePercentDepthUpdated"}]

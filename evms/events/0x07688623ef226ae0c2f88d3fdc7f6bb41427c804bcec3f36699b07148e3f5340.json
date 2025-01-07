@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"changedBy","internalType":"address","type":"address","indexed":true},{"name":"oldAggregatorProgramHash","internalType":"uint256","type":"uint256","indexed":false},{"name":"newAggregatorProgramHash","internalType":"uint256","type":"uint256","indexed":false}],"name":"AggregatorProgramHashChanged"}]

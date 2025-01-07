@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[],"name":"getNativeReserves","outputs":[{"name":"_nativeReserve0","internalType":"uint256","type":"uint256"},{"name":"_nativeReserve1","internalType":"uint256","type":"uint256"},{"name":"_blockTimestampLast","internalType":"uint32","type":"uint32"}],"stateMutability":"view"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"lootId","internalType":"uint256","type":"uint256"}],"name":"isLootClaimed","outputs":[{"name":"","internalType":"bool","type":"bool"}],"stateMutability":"view"}]

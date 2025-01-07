@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_feePercent","internalType":"uint256","type":"uint256"}],"name":"updateCancellationFee","outputs":[],"stateMutability":"nonpayable"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"newSecondaryOracle","internalType":"contract IPriceOracle","type":"address"}],"name":"setSecondaryOracle","outputs":[],"stateMutability":"nonpayable"}]

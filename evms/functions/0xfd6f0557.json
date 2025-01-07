@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_eid","internalType":"uint32","type":"uint32"},{"name":"_gasLimit","internalType":"uint128","type":"uint128"},{"name":"_nativeDropGasLimit","internalType":"uint128","type":"uint128"}],"name":"setGasLimit","outputs":[],"stateMutability":"nonpayable"}]

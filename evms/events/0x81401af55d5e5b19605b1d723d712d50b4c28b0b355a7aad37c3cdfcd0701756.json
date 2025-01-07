@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"recipeId","internalType":"uint256","type":"uint256","indexed":true},{"name":"active","internalType":"bool","type":"bool","indexed":false},{"name":"owner","internalType":"address","type":"address","indexed":true}],"name":"ChangeRecipeStatus"}]

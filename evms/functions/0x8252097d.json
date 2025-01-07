@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"","internalType":"uint256","type":"uint256"}],"name":"rewardPeriods","outputs":[{"name":"start","internalType":"uint256","type":"uint256"},{"name":"rate","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

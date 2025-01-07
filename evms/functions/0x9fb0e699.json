@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"contractAddress","internalType":"address","type":"address"},{"name":"contractURI","internalType":"string","type":"string"}],"name":"flipContractState","outputs":[{"name":"","internalType":"string","type":"string"}],"stateMutability":"nonpayable"}]

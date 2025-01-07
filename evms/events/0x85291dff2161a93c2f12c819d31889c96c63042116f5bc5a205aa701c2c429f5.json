@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"token","internalType":"address","type":"address","indexed":true},{"name":"_userFrom","internalType":"address","type":"address","indexed":true},{"name":"_userTo","internalType":"address","type":"address","indexed":true},{"name":"gateway","internalType":"address","type":"address","indexed":false}],"name":"TransferRouted"}]

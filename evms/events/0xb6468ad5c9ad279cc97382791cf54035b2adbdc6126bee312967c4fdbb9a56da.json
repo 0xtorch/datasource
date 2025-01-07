@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"term","internalType":"uint64","type":"uint64","indexed":true},{"name":"newFeeBase","internalType":"int16","type":"int16","indexed":false},{"name":"maturity","internalType":"uint64","type":"uint64","indexed":false}],"name":"UpdateMaturity"}]

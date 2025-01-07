@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"implementation","internalType":"address","type":"address"},{"name":"owner","internalType":"address","type":"address"},{"name":"lockTime","internalType":"uint256","type":"uint256"},{"name":"chainId","internalType":"uint16","type":"uint16"}],"name":"setup","outputs":[],"stateMutability":"nonpayable"}]

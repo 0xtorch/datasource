@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"","internalType":"uint256","type":"uint256"}],"name":"realms","outputs":[{"name":"name","internalType":"string","type":"string"},{"name":"size","internalType":"uint256","type":"uint256"},{"name":"createdAt","internalType":"uint256","type":"uint256"},{"name":"partner","internalType":"bool","type":"bool"}],"stateMutability":"view"}]

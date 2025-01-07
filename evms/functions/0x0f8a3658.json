@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"treasury","internalType":"address","type":"address"}],"name":"setWithdrawalTreasury","outputs":[],"stateMutability":"nonpayable"}]

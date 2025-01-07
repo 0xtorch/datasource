@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_depositPaused","internalType":"bool","type":"bool"},{"name":"_withdrawPaused","internalType":"bool","type":"bool"},{"name":"_claimPaused","internalType":"bool","type":"bool"}],"name":"pause","outputs":[],"stateMutability":"nonpayable"}]

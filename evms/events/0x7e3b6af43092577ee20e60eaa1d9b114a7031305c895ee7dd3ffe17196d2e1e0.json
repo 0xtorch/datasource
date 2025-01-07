@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"channelId","internalType":"uint8","type":"uint8","indexed":true},{"name":"contractAddr","internalType":"address","type":"address","indexed":true}],"name":"addChannel"}]

@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"DAO","internalType":"address","type":"address","indexed":true},{"name":"asset","internalType":"address","type":"address","indexed":true}],"name":"DelistedAsset"}]

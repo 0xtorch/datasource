@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[],"name":"mintState","outputs":[{"name":"","internalType":"enum SamuRiseLandV2.MintState","type":"uint8"}],"stateMutability":"view"}]

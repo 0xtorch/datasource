@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"merkleProof","internalType":"bytes32[]","type":"bytes32[]"}],"name":"mintEarlyBirds","outputs":[],"stateMutability":"payable"}]

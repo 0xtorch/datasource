@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_whitelist","internalType":"address","type":"address"},{"name":"isWL","internalType":"bool","type":"bool"}],"name":"whitelistContract","outputs":[],"stateMutability":"nonpayable"}]

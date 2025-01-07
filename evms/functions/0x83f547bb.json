@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"","internalType":"address","type":"address"}],"name":"mintRestrictedVaults","outputs":[{"name":"supplyCap","internalType":"uint256","type":"uint256"},{"name":"hasWhitelist","internalType":"bool","type":"bool"}],"stateMutability":"view"}]

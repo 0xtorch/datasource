@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_modules","internalType":"enum LibDataTypes.Module[]","type":"uint8[]"},{"name":"_moduleAddresses","internalType":"address[]","type":"address[]"}],"name":"setModule","outputs":[],"stateMutability":"nonpayable"}]

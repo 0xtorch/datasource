@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"pair","internalType":"address","type":"address"}],"name":"getSellDisabled","outputs":[{"name":"","internalType":"bool","type":"bool"}],"stateMutability":"view"}]

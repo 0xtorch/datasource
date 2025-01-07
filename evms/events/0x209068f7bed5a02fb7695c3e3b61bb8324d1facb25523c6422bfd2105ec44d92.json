@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"collateral_ratio_paused","internalType":"bool","type":"bool","indexed":false}],"name":"CollateralRatioToggled"}]

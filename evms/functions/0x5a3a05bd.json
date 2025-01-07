@@ -1,0 +1,1 @@
+[{"type":"function","constant":true,"inputs":[{"name":"_name","type":"bytes32"}],"name":"subRegistrar","outputs":[{"name":"o_subRegistrar","type":"address"}],"payable":false,"stateMutability":"view"}]

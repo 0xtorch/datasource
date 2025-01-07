@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"optionMarket","internalType":"address","type":"address"},{"name":"amountQuote","internalType":"uint256","type":"uint256"}],"name":"exchangeFromExactQuote","outputs":[{"name":"baseReceived","internalType":"uint256","type":"uint256"}],"stateMutability":"nonpayable"}]

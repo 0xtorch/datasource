@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"assetsToRepay","internalType":"bytes32[]","type":"bytes32[]"},{"name":"amountsToRepay","internalType":"uint256[]","type":"uint256[]"},{"name":"_liquidationBonusPercent","internalType":"uint256","type":"uint256"}],"name":"unsafeLiquidateLoan","outputs":[],"stateMutability":"payable"}]

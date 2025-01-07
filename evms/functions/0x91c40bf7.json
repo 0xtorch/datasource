@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"class","internalType":"string","type":"string"},{"name":"oneAddress","internalType":"address","type":"address"}],"name":"dropAddress","outputs":[{"name":"","internalType":"bool","type":"bool"}],"stateMutability":"nonpayable"}]

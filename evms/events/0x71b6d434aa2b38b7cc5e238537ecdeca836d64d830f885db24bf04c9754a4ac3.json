@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"uri","internalType":"string","type":"string","indexed":false}],"name":"TokenBaseURIUpdated"}]

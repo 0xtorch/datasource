@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"","internalType":"uint256","type":"uint256"}],"name":"tokenIdToSettableTraits","outputs":[{"name":"hasPurchasedBlueprint","internalType":"bool","type":"bool"},{"name":"emptySpace","internalType":"uint248","type":"uint248"}],"stateMutability":"view"}]

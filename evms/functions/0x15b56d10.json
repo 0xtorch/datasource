@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"nameString","internalType":"string","type":"string"}],"name":"isNameReserved","outputs":[{"name":"","internalType":"bool","type":"bool"}],"stateMutability":"view"}]

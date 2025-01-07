@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"postId","internalType":"string","type":"string"},{"name":"name","internalType":"string","type":"string"},{"name":"description","internalType":"string","type":"string"},{"name":"image","internalType":"string","type":"string"}],"name":"setMetadata","outputs":[],"stateMutability":"nonpayable"}]

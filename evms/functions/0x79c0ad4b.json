@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_dstChainId","internalType":"uint16","type":"uint16"},{"name":"_enabled","internalType":"bool","type":"bool"},{"name":"_feeBp","internalType":"uint16","type":"uint16"}],"name":"setFeeBp","outputs":[],"stateMutability":"nonpayable"}]

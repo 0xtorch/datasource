@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"tos_","internalType":"address[]","type":"address[]"},{"name":"id_","internalType":"uint256","type":"uint256"},{"name":"amount_","internalType":"uint256","type":"uint256"}],"name":"DropOne_Some","outputs":[],"stateMutability":"nonpayable"}]

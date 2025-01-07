@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"","internalType":"uint256","type":"uint256"}],"name":"_allowedERC20","outputs":[{"name":"payERC20","internalType":"contract IERC20Upgradeable","type":"address"},{"name":"layer","internalType":"uint256","type":"uint256"},{"name":"erc20Price","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

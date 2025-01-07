@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_native","internalType":"bytes32","type":"bytes32"},{"name":"_chainId","internalType":"uint32","type":"uint32"}],"name":"initialize","outputs":[],"stateMutability":"nonpayable"}]

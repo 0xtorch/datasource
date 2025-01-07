@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"perpetualIndex","internalType":"uint256","type":"uint256","indexed":false}],"name":"SetNormalState"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"tokenIds_","internalType":"uint256[]","type":"uint256[]"}],"name":"burnMulti","outputs":[{"name":"","internalType":"bool","type":"bool"}],"stateMutability":"nonpayable"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_phaseEndBlockNumber","internalType":"uint256","type":"uint256"},{"name":"_phasePerBlockReward","internalType":"uint256","type":"uint256"}],"name":"addMiningPhase","outputs":[],"stateMutability":"nonpayable"}]

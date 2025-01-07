@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"offeringAmountPool","internalType":"uint256","type":"uint256","indexed":false},{"name":"raisingAmountPool","internalType":"uint256","type":"uint256","indexed":false},{"name":"pid","internalType":"uint8","type":"uint8","indexed":false}],"name":"PoolParametersSet"}]

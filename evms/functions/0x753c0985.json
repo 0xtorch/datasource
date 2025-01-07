@@ -1,0 +1,1 @@
+[{"type":"function","gas":160503,"inputs":[{"name":"gain","type":"uint256"},{"name":"loss","type":"uint256"}],"name":"report","outputs":[],"stateMutability":"nonpayable"}]

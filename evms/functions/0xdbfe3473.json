@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"tokenIDs","internalType":"uint256[]","type":"uint256[]"}],"name":"getTokensBalance","outputs":[{"name":"","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

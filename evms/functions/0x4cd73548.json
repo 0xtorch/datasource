@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"token","internalType":"address","type":"address"},{"name":"shouldBlacklist","internalType":"bool","type":"bool"}],"name":"setTokenStatus","outputs":[],"stateMutability":"nonpayable"}]

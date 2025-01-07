@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_funcSig","internalType":"string","type":"string"},{"name":"_codec","internalType":"address","type":"address"}],"name":"setCodec","outputs":[],"stateMutability":"nonpayable"}]

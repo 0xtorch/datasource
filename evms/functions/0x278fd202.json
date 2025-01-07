@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_maxFeeRate","internalType":"uint256","type":"uint256"},{"name":"_maxNativeFee","internalType":"uint256","type":"uint256"}],"name":"setReferrerMaxFee","outputs":[],"stateMutability":"nonpayable"}]

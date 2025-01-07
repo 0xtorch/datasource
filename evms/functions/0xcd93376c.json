@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"stakeIsPaused_","internalType":"bool","type":"bool"},{"name":"unstakeIsPaused_","internalType":"bool","type":"bool"}],"name":"_setPause","outputs":[{"name":"","internalType":"bool","type":"bool"}],"stateMutability":"nonpayable"}]

@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"sender","internalType":"address","type":"address","indexed":true},{"name":"recipient","internalType":"bytes32","type":"bytes32","indexed":true},{"name":"amountWei","internalType":"uint256","type":"uint256","indexed":false},{"name":"amountLamports","internalType":"uint256","type":"uint256","indexed":false}],"name":"Deposited"}]

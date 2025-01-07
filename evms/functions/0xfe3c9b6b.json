@@ -1,0 +1,1 @@
+[{"type":"function","constant":false,"inputs":[{"name":"newTime","type":"uint256"}],"name":"setIcoEndTime","outputs":[{"name":"","type":"bool"}],"payable":false,"stateMutability":"nonpayable"}]

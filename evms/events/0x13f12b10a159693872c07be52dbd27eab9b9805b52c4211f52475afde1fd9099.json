@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"orderId","internalType":"bytes32","type":"bytes32","indexed":false},{"name":"data","internalType":"bytes","type":"bytes","indexed":false}],"name":"OrderCreated"}]

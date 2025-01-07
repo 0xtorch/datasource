@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"sender","internalType":"address","type":"address"},{"name":"relayer","internalType":"address","type":"address"},{"name":"approved","internalType":"bool","type":"bool"}],"name":"setRelayerApproval","outputs":[],"stateMutability":"nonpayable"}]

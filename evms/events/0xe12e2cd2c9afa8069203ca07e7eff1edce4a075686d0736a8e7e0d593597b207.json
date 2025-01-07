@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"_S","internalType":"uint256","type":"uint256","indexed":false},{"name":"_epoch","internalType":"uint128","type":"uint128","indexed":false},{"name":"_scale","internalType":"uint128","type":"uint128","indexed":false}],"name":"S_Updated"}]

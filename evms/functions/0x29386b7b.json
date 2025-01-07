@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"baseToken","internalType":"address","type":"address"}],"name":"getMaxTickCrossedWithinBlock","outputs":[{"name":"","internalType":"uint24","type":"uint24"}],"stateMutability":"view"}]

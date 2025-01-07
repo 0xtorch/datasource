@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"newMainOracle","internalType":"contract PriceOracleInterface","type":"address","indexed":false}],"name":"ReturnFromRecoveryPhase"}]

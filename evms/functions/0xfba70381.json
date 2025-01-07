@@ -1,0 +1,1 @@
+[{"type":"function","constant":false,"inputs":[{"name":"_player","type":"address"},{"name":"_token","type":"uint256"},{"name":"_param1","type":"uint256"},{"name":"_param2","type":"uint256"},{"name":"_param3","type":"uint64"},{"name":"_param4","type":"uint64"}],"name":"adventureByToken","outputs":[],"payable":false,"stateMutability":"nonpayable"}]

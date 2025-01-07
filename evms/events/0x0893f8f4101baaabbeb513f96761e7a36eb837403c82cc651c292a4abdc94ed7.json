@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"oldTreasuryPercent","internalType":"uint256","type":"uint256","indexed":false},{"name":"newTreasuryPercent","internalType":"uint256","type":"uint256","indexed":false}],"name":"NewTreasuryPercent"}]

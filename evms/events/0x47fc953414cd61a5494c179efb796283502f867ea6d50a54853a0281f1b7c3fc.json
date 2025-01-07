@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"guildType","type":"uint16","indexed":true},{"name":"txSender","type":"address","indexed":false},{"name":"purchaseBy","type":"address","indexed":true},{"name":"value","type":"uint256","indexed":false},{"name":"at","type":"uint256","indexed":false}],"name":"EthAddedToPool"}]

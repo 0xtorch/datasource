@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"wrapperAddress","internalType":"contract INameWrapper","type":"address"}],"name":"setNewNameWrapper","outputs":[],"stateMutability":"nonpayable"}]

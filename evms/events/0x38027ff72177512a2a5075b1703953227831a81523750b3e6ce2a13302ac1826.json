@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"_currentEpochTs","internalType":"uint256","type":"uint256","indexed":false},{"name":"_targetEpochTs","internalType":"uint256","type":"uint256","indexed":true}],"name":"SettleEpoch"}]

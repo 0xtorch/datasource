@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_incentiveReceiver","internalType":"contract IIncentiveReceiver","type":"address"},{"name":"_stableTracker","internalType":"address","type":"address"},{"name":"_glpTracker","internalType":"address","type":"address"}],"name":"setBeneficiaries","outputs":[],"stateMutability":"nonpayable"}]

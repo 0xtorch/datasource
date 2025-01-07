@@ -1,0 +1,1 @@
+[{"type":"function","constant":true,"inputs":[{"name":"","type":"uint256"}],"name":"potSplit_","outputs":[{"name":"endNext","type":"uint256"},{"name":"endGen","type":"uint256"}],"payable":false,"stateMutability":"view"}]

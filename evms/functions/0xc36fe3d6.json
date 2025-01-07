@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"","internalType":"uint256","type":"uint256"}],"name":"profiles","outputs":[{"name":"userId","internalType":"string","type":"string"},{"name":"merkleRoot","internalType":"bytes32","type":"bytes32"},{"name":"badgeCount","internalType":"uint64","type":"uint64"}],"stateMutability":"view"}]

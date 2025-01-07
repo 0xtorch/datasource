@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_data","internalType":"bytes","type":"bytes"}],"name":"tradeStrategiesC2","outputs":[{"name":"_destAmount","internalType":"uint256","type":"uint256"}],"stateMutability":"payable"}]

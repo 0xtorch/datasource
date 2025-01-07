@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"shareholder","internalType":"address","type":"address"}],"name":"getUnpaidEarnings","outputs":[{"name":"","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

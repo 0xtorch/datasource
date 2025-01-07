@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[],"name":"assetInfo","outputs":[{"name":"assetType","internalType":"enum IStandardizedYield.AssetType","type":"uint8"},{"name":"assetAddress","internalType":"address","type":"address"},{"name":"assetDecimals","internalType":"uint8","type":"uint8"}],"stateMutability":"view"}]

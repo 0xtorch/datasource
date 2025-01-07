@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_osea","internalType":"address","type":"address"},{"name":"_minOseaPerCollection","internalType":"uint256","type":"uint256"},{"name":"_isEnabled","internalType":"bool","type":"bool"}],"name":"setOSEA","outputs":[],"stateMutability":"nonpayable"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"x","internalType":"uint256","type":"uint256"},{"name":"y","internalType":"uint256","type":"uint256"},{"name":"z","internalType":"uint256","type":"uint256"}],"name":"mulDiv","outputs":[{"name":"","internalType":"uint256","type":"uint256"}],"stateMutability":"pure"}]

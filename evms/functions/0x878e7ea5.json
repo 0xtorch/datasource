@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"ownerIndexStart","internalType":"uint256","type":"uint256"},{"name":"ownerIndexEnd","internalType":"uint256","type":"uint256"}],"name":"claimRangeForOwner","outputs":[],"stateMutability":"nonpayable"}]

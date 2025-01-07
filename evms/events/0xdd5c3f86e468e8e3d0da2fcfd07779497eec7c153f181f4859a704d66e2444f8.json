@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"_tokenHash","internalType":"bytes32","type":"bytes32","indexed":true},{"name":"_tokenAddress","internalType":"address","type":"address","indexed":false}],"name":"ChangeTokenAddressAndAllow"}]

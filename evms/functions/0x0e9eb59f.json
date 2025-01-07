@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_name","internalType":"string","type":"string"},{"name":"_symbol","internalType":"string","type":"string"},{"name":"totalSupply","internalType":"uint256","type":"uint256"}],"name":"tokenInit","outputs":[],"stateMutability":"nonpayable"}]

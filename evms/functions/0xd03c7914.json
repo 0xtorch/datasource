@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"mode","internalType":"ExecMode","type":"bytes32"}],"name":"supportsExecutionMode","outputs":[{"name":"","internalType":"bool","type":"bool"}],"stateMutability":"pure"}]

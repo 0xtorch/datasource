@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"recipient","internalType":"address","type":"address"},{"name":"amt","internalType":"uint256","type":"uint256"}],"name":"sendRafflePrize","outputs":[{"name":"","internalType":"bool","type":"bool"}],"stateMutability":"nonpayable"}]

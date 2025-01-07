@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"bridgeAddressId","internalType":"uint256","type":"uint256","indexed":true},{"name":"bridgeAddress","internalType":"address","type":"address","indexed":true},{"name":"bridgeGasLimit","internalType":"uint256","type":"uint256","indexed":false}],"name":"BridgeAdded"}]

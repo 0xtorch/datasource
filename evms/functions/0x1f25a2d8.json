@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"feeWallet_","internalType":"address","type":"address"},{"name":"feeSettle_","internalType":"uint256","type":"uint256"},{"name":"feeRefund_","internalType":"uint256","type":"uint256"},{"name":"pledgeRate_","internalType":"uint256","type":"uint256"}],"name":"updateConfig","outputs":[],"stateMutability":"nonpayable"}]

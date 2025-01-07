@@ -1,0 +1,1 @@
+[{"type":"function","constant":true,"inputs":[],"name":"eraStatus","outputs":[{"name":"","internalType":"enum Era.Status","type":"uint8"}],"payable":false,"stateMutability":"view"}]

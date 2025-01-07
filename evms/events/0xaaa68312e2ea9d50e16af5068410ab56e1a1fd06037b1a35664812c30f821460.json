@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"oldReserveFactorMantissa","internalType":"uint256","type":"uint256","indexed":false},{"name":"newReserveFactorMantissa","internalType":"uint256","type":"uint256","indexed":false}],"name":"NewReserveFactor"}]

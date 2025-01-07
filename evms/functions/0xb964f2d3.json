@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"contracts","internalType":"address[]","type":"address[]"},{"name":"account","internalType":"address","type":"address"}],"name":"batchClaim","outputs":[],"stateMutability":"nonpayable"}]

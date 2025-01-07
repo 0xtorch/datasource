@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_lower","internalType":"uint256","type":"uint256"},{"name":"_upper","internalType":"uint256","type":"uint256"}],"name":"setSlippageAdj","outputs":[],"stateMutability":"nonpayable"}]

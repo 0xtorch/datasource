@@ -1,0 +1,1 @@
+[{"type":"function","constant":false,"inputs":[{"name":"oldAdmin","internalType":"address","type":"address"}],"name":"unregisterTokenAdmin","outputs":[],"payable":false,"stateMutability":"nonpayable"}]

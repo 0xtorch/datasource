@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"to","internalType":"address payable","type":"address"},{"name":"ammount","internalType":"uint256","type":"uint256"}],"name":"transferBalance","outputs":[],"stateMutability":"nonpayable"}]

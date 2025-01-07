@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"_tokenId","internalType":"uint256","type":"uint256","indexed":false},{"name":"_questLevel","internalType":"uint8","type":"uint8","indexed":false},{"name":"_qpFinal","internalType":"uint256","type":"uint256","indexed":false}],"name":"QPGained"}]

@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"setter","internalType":"address","type":"address","indexed":true},{"name":"gauge","internalType":"address","type":"address","indexed":true},{"name":"externalBribe","internalType":"address","type":"address","indexed":false}],"name":"ExternalBribeSet"}]

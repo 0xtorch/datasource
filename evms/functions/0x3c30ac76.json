@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_markets","internalType":"address[]","type":"address[]"},{"name":"_capPerMarket","internalType":"uint256","type":"uint256"}],"name":"setCapPerMarket","outputs":[],"stateMutability":"nonpayable"}]

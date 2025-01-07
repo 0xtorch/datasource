@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"usdAmount","internalType":"uint256","type":"uint256"}],"name":"usdToToken","outputs":[{"name":"","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

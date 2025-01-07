@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"box_id","internalType":"uint256","type":"uint256"},{"name":"qualification_data","internalType":"bytes32","type":"bytes32"}],"name":"setQualificationData","outputs":[],"stateMutability":"nonpayable"}]

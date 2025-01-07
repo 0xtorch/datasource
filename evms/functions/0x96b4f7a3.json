@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_to","internalType":"address","type":"address"},{"name":"_gmxRouter","internalType":"address","type":"address"}],"name":"transferAccount","outputs":[],"stateMutability":"nonpayable"}]

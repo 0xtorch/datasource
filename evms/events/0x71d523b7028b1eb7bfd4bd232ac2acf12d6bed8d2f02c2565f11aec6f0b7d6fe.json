@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"lowerTick","internalType":"int24","type":"int24","indexed":false},{"name":"upperTick","internalType":"int24","type":"int24","indexed":false}],"name":"PointsSet"}]

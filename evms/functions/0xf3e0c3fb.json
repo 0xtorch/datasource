@@ -1,0 +1,1 @@
+[{"type":"function","constant":false,"inputs":[{"name":"newAdmin","internalType":"address","type":"address"}],"name":"registerUserAdmin","outputs":[],"payable":false,"stateMutability":"nonpayable"}]

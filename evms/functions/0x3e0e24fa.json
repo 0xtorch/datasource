@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"minLpRewards","internalType":"uint256","type":"uint256"},{"name":"waitBlock","internalType":"uint256","type":"uint256"}],"name":"setRewardsInfo","outputs":[],"stateMutability":"nonpayable"}]

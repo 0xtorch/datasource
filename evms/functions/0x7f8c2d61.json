@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_contractAddress","internalType":"address","type":"address"},{"name":"_isPaused","internalType":"bool","type":"bool"}],"name":"setMarketPaused","outputs":[],"stateMutability":"nonpayable"}]

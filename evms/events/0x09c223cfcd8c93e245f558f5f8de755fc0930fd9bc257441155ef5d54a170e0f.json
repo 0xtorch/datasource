@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"liquidator","internalType":"address","type":"address","indexed":false},{"name":"vaultId","internalType":"uint256","type":"uint256","indexed":true},{"name":"reward","internalType":"uint256","type":"uint256","indexed":false}],"name":"Liquidated"}]

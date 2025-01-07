@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_maxQuestLevel","internalType":"uint8","type":"uint8"},{"name":"_qpNeededForEachLevel","internalType":"uint256[]","type":"uint256[]"},{"name":"_qpGainedAtEachLevel","internalType":"uint256[]","type":"uint256[]"}],"name":"setLevelSteps","outputs":[],"stateMutability":"nonpayable"}]

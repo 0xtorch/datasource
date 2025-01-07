@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_exchange","internalType":"address","type":"address"},{"name":"decimals","internalType":"uint8","type":"uint8"},{"name":"_payoutManager","internalType":"address","type":"address"}],"name":"migrationInit","outputs":[],"stateMutability":"nonpayable"}]

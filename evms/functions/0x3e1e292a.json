@@ -1,0 +1,1 @@
+[{"type":"function","constant":true,"inputs":[{"name":"arrToCopy","type":"bytes"}],"name":"testCopy","outputs":[{"name":"","type":"bytes"}],"payable":false,"stateMutability":"pure"}]

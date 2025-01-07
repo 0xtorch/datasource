@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"amulet","internalType":"string","type":"string"}],"name":"getScore","outputs":[{"name":"","internalType":"uint32","type":"uint32"}],"stateMutability":"pure"}]

@@ -1,0 +1,1 @@
+[{"type":"function","constant":true,"inputs":[],"name":"liqStrat","outputs":[{"name":"","internalType":"contract Strategy","type":"address"}],"payable":false,"stateMutability":"view"}]

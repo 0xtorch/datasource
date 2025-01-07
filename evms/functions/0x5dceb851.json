@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_tokensForCreditHaircut","internalType":"uint128","type":"uint128"},{"name":"_creditForTokensHaircut","internalType":"uint128","type":"uint128"}],"name":"setCrossChainHaircut","outputs":[],"stateMutability":"nonpayable"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"","internalType":"uint256","type":"uint256"}],"name":"investStrategySteps","outputs":[{"name":"pool","internalType":"address","type":"address"},{"name":"outputToken","internalType":"address","type":"address"},{"name":"isSwap","internalType":"bool","type":"bool"}],"stateMutability":"view"}]

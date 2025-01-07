@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"liquidity","internalType":"address","type":"address"},{"name":"job","internalType":"address","type":"address"}],"name":"removeLiquidityFromJob","outputs":[],"stateMutability":"nonpayable"}]

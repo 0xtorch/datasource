@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"relayer","internalType":"address","type":"address","indexed":true}],"name":"RelayerRemoved"},{"type":"event","anonymous":false,"inputs":[{"name":"relayer","internalType":"address","type":"address","indexed":false}],"name":"RelayerRemoved"}]

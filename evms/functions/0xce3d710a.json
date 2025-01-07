@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"maker","internalType":"address","type":"address"},{"name":"series","internalType":"uint256","type":"uint256"},{"name":"makerEpoch","internalType":"uint256","type":"uint256"}],"name":"epochEquals","outputs":[{"name":"","internalType":"bool","type":"bool"}],"stateMutability":"view"}]

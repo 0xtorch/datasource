@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"smgID","type":"bytes32","indexed":true},{"name":"timeStamp","type":"uint256","indexed":true},{"name":"receiver","type":"address","indexed":true},{"name":"fee","type":"uint256","indexed":false}],"name":"WithdrawHistoryFeeLogger"}]

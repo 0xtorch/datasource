@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_multiSigOwner","internalType":"address","type":"address"}],"name":"setMultisigOwner","outputs":[],"stateMutability":"nonpayable"}]

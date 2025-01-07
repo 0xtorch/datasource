@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_beforeTransferContract","internalType":"address","type":"address"}],"name":"setBeforeTransferContract","outputs":[],"stateMutability":"nonpayable"}]

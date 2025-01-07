@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"lzEndId","internalType":"uint32","type":"uint32","indexed":false},{"name":"peerAddr","internalType":"bytes32","type":"bytes32","indexed":false},{"name":"allowed","internalType":"bool","type":"bool","indexed":false}],"name":"UpdatePeerEndWhitelist"}]

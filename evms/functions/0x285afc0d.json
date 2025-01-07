@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_nftContractAddress","internalType":"address","type":"address"},{"name":"_chapterId","internalType":"uint8","type":"uint8"},{"name":"_baseUrl","internalType":"string","type":"string"}],"name":"setBaseUrlForChapter","outputs":[],"stateMutability":"nonpayable"}]

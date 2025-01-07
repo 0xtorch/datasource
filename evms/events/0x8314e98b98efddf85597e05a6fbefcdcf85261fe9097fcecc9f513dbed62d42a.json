@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"intermToken","internalType":"address","type":"address","indexed":false},{"name":"feeToIntermToken","internalType":"uint24","type":"uint24","indexed":false},{"name":"path","internalType":"bytes","type":"bytes","indexed":false}],"name":"PathUpdated"}]

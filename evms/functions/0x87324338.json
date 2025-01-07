@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"sender","internalType":"address","type":"address"},{"name":"transaction","internalType":"bytes","type":"bytes"}],"name":"processSlowModeTransaction","outputs":[],"stateMutability":"nonpayable"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"executor","internalType":"address","type":"address"}],"name":"revokeExecutor","outputs":[],"stateMutability":"nonpayable"}]

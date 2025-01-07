@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_openingTime","internalType":"uint256","type":"uint256"},{"name":"_closingTime","internalType":"uint256","type":"uint256"}],"name":"gen1StartCrowdSale","outputs":[],"stateMutability":"nonpayable"}]

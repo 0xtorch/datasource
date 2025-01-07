@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"newOrderHash","type":"bytes32","indexed":true},{"name":"newAmount","type":"uint256","indexed":false},{"name":"oldOrderHash","type":"bytes32","indexed":true},{"name":"oldAmount","type":"uint256","indexed":false},{"name":"senderAddress","type":"address","indexed":true}],"name":"DepositChanged"}]

@@ -1,0 +1,1 @@
+[{"type":"function","constant":false,"inputs":[{"name":"_attributes","type":"uint256"},{"name":"_owner","type":"address"},{"name":"_model","type":"uint64"},{"name":"count","type":"uint256"},{"name":"startNo","type":"uint256"}],"name":"bulkCreateLambo","outputs":[],"payable":false,"stateMutability":"nonpayable"}]

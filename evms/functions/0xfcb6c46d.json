@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"eventId","internalType":"uint256","type":"uint256"}],"name":"getEventHostById","outputs":[{"name":"","internalType":"address","type":"address"}],"stateMutability":"view"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_targetReserveRatio","internalType":"uint256","type":"uint256"}],"name":"setReserveRatio","outputs":[],"stateMutability":"nonpayable"}]

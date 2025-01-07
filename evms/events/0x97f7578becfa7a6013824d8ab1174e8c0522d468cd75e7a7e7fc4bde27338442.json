@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"asset","internalType":"enum IChickenData.Asset","type":"uint8","indexed":true},{"name":"feedAddress","internalType":"address","type":"address","indexed":true}],"name":"PriceFeedUpdated"}]

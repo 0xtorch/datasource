@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_erc20","internalType":"address","type":"address"},{"name":"_permit","internalType":"bool","type":"bool"}],"name":"setERC20Permit","outputs":[],"stateMutability":"nonpayable"}]

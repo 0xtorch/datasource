@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"opHash","internalType":"uint256","type":"uint256","indexed":false},{"name":"success","internalType":"bool","type":"bool","indexed":false},{"name":"ret","internalType":"bytes","type":"bytes","indexed":false}],"name":"ProposalExecuted"}]

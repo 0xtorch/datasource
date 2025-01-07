@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"tokenId","internalType":"uint256","type":"uint256"}],"name":"tokenAffinityOf","outputs":[{"name":"","internalType":"string[3]","type":"string[3]"}],"stateMutability":"view"}]

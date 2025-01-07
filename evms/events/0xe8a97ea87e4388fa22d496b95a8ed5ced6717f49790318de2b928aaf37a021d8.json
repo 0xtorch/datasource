@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"oldState","internalType":"enum Vault.State","type":"uint8","indexed":false},{"name":"newState","internalType":"enum Vault.State","type":"uint8","indexed":false}],"name":"StateChanged"}]

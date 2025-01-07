@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"skuEntities","internalType":"uint256[]","type":"uint256[]"},{"name":"quantities","internalType":"uint256[]","type":"uint256[]"}],"name":"purchase","outputs":[],"stateMutability":"nonpayable"}]

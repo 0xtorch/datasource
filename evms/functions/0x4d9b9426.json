@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_recipient","internalType":"address","type":"address"},{"name":"_mintPrice","internalType":"uint128","type":"uint128"},{"name":"_lockPeriod","internalType":"uint64","type":"uint64"},{"name":"_quantity","internalType":"uint24","type":"uint24"}],"name":"ownerMint","outputs":[],"stateMutability":"payable"}]

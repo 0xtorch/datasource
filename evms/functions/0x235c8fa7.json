@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"who","internalType":"address","type":"address"},{"name":"amount","internalType":"uint32","type":"uint32"}],"name":"burn","outputs":[],"stateMutability":"nonpayable"}]

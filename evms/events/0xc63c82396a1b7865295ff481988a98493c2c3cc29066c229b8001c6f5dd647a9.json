@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"orderDigest","internalType":"bytes32","type":"bytes32","indexed":true},{"name":"account","internalType":"address","type":"address","indexed":true},{"name":"wasCancellation","internalType":"bool","type":"bool","indexed":false}],"name":"OrderDigestInvalidated"}]

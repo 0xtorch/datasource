@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"prevVal","internalType":"address","type":"address","indexed":true},{"name":"newVal","internalType":"address","type":"address","indexed":true}],"name":"BasculeChanged"}]

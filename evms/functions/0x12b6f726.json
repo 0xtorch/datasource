@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_layerIndex","internalType":"uint256","type":"uint256"},{"name":"_itemIndex","internalType":"uint256","type":"uint256"}],"name":"getSupply","outputs":[{"name":"","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_maxMintAmountPerTx","internalType":"uint256","type":"uint256"}],"name":"setMaxMintAmountPerTx","outputs":[],"stateMutability":"nonpayable"}]

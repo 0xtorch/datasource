@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"account","internalType":"address","type":"address"}],"name":"getExcludedAccount","outputs":[{"name":"exists","internalType":"bool","type":"bool"},{"name":"excludeSenderFromFee","internalType":"bool","type":"bool"},{"name":"excludeRecipientFromFee","internalType":"bool","type":"bool"}],"stateMutability":"view"}]

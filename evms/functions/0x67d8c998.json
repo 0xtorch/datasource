@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_addressLs","internalType":"address[]","type":"address[]"},{"name":"_tokenIdLs","internalType":"uint256[]","type":"uint256[]"},{"name":"_distributeTokenAmountLs","internalType":"uint256[]","type":"uint256[]"}],"name":"setERC1155Rule","outputs":[],"stateMutability":"nonpayable"}]

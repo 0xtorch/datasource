@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"marketplaceId","internalType":"uint256","type":"uint256"}],"name":"getMarketItemAmount","outputs":[{"name":"","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

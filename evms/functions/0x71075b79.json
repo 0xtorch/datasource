@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"poolHash","internalType":"bytes32","type":"bytes32"}],"name":"getPoolFeeRates","outputs":[{"name":"establishmentFeeRate","internalType":"uint128","type":"uint128"},{"name":"repaymentFeeRate","internalType":"uint128","type":"uint128"}],"stateMutability":"view"}]

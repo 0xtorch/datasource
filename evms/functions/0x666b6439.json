@@ -1,0 +1,1 @@
+[{"type":"function","constant":false,"inputs":[{"name":"_address","type":"address"},{"name":"_tier","type":"uint256"}],"name":"setAddressToVip","outputs":[],"payable":false,"stateMutability":"nonpayable"}]

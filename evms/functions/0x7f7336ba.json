@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_mToken","internalType":"contract MToken","type":"address"},{"name":"_emissionToken","internalType":"address","type":"address"},{"name":"_newBorrowSpeed","internalType":"uint256","type":"uint256"}],"name":"_updateBorrowSpeed","outputs":[],"stateMutability":"nonpayable"}]

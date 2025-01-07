@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"provider","internalType":"address","type":"address"},{"name":"numerator","internalType":"uint256","type":"uint256"},{"name":"denominator","internalType":"uint256","type":"uint256"},{"name":"nativeToken","internalType":"string","type":"string"}],"name":"initialize","outputs":[],"stateMutability":"nonpayable"}]

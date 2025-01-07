@@ -1,0 +1,1 @@
+[{"type":"function","constant":false,"inputs":[{"name":"cdp","internalType":"uint256","type":"uint256"},{"name":"dst","internalType":"address","type":"address"},{"name":"rad","internalType":"uint256","type":"uint256"}],"name":"move","outputs":[],"payable":false,"stateMutability":"nonpayable"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"adventure","internalType":"address","type":"address"},{"name":"questsLockTokens","internalType":"bool","type":"bool"}],"name":"whitelistAdventure","outputs":[],"stateMutability":"nonpayable"}]

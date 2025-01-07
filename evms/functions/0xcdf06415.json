@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"typeId","internalType":"uint256","type":"uint256"}],"name":"getTreasure","outputs":[{"name":"","internalType":"string","type":"string"}],"stateMutability":"view"}]

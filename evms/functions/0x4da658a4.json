@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"bridge_token_address","internalType":"address","type":"address"},{"name":"_brdg_to_can_fee","internalType":"uint256","type":"uint256"},{"name":"_can_to_brdg_fee","internalType":"uint256","type":"uint256"}],"name":"addBridgeToken","outputs":[],"stateMutability":"nonpayable"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_periodDistributableAmount","internalType":"uint256","type":"uint256"},{"name":"_poolPeriodTvl","internalType":"uint256","type":"uint256"},{"name":"_userPeriodTvl","internalType":"uint256","type":"uint256"}],"name":"calculateUserDistribution","outputs":[{"name":"","internalType":"uint256","type":"uint256"}],"stateMutability":"pure"}]

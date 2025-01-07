@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"asset","internalType":"contract ERC20","type":"address"},{"name":"allowDeposits","internalType":"bool","type":"bool"},{"name":"allowWithdraws","internalType":"bool","type":"bool"},{"name":"sharePremium","internalType":"uint16","type":"uint16"}],"name":"updateAssetData","outputs":[],"stateMutability":"nonpayable"}]

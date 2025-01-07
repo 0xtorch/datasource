@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"tokenAddress","internalType":"address","type":"address","indexed":false},{"name":"oracleAddress","internalType":"address","type":"address","indexed":false}],"name":"LogRegisterWhitelist"}]

@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"vaultName","internalType":"address","type":"address","indexed":true},{"name":"underlyingAsset","internalType":"address","type":"address","indexed":true}],"name":"Initialized"}]

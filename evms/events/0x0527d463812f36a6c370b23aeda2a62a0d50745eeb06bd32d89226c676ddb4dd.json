@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"newOwner","internalType":"address","type":"address","indexed":true},{"name":"fromSquareId","internalType":"uint256","type":"uint256","indexed":true},{"name":"toSquareId","internalType":"uint256","type":"uint256","indexed":true}],"name":"TransferOwner"}]

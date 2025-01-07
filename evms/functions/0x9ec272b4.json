@@ -1,0 +1,1 @@
+[{"type":"function","constant":true,"inputs":[{"name":"index","type":"uint256"}],"name":"getPremiumPack","outputs":[{"name":"premium","type":"uint256"}],"payable":false,"stateMutability":"view"}]

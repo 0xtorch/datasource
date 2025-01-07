@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"delegate","internalType":"address","type":"address"},{"name":"contract_","internalType":"address","type":"address"},{"name":"value","internalType":"bool","type":"bool"}],"name":"delegateForContract","outputs":[],"stateMutability":"nonpayable"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"","internalType":"address","type":"address"}],"name":"stakers","outputs":[{"name":"signer","internalType":"address","type":"address"}],"stateMutability":"view"}]

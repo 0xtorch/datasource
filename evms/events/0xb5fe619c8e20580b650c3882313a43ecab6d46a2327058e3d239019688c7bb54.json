@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"gateway","internalType":"address","type":"address","indexed":false},{"name":"l1token","internalType":"address","type":"address","indexed":false}],"name":"ArbitrumGatewayL1TokenChanged"}]

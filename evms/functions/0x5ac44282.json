@@ -1,0 +1,1 @@
+[{"type":"function","constant":true,"inputs":[{"name":"index","internalType":"uint256","type":"uint256"}],"name":"getBatch","outputs":[{"name":"userID","internalType":"uint48","type":"uint48"},{"name":"size","internalType":"uint16","type":"uint16"}],"payable":false,"stateMutability":"view"}]

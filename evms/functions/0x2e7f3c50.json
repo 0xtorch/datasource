@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"","internalType":"address","type":"address"}],"name":"xSynthBalances","outputs":[{"name":"allocatedAmount","internalType":"uint256","type":"uint256"},{"name":"redeemingAmount","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

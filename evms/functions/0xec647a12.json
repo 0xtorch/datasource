@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"trader","internalType":"address","type":"address"},{"name":"baseToken","internalType":"address","type":"address"},{"name":"amount","internalType":"int256","type":"int256"}],"name":"settleQuoteToOwedRealizedPnl","outputs":[],"stateMutability":"nonpayable"}]

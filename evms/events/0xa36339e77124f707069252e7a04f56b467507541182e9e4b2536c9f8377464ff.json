@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"sft","internalType":"address","type":"address","indexed":true},{"name":"slot","internalType":"uint256","type":"uint256","indexed":true},{"name":"depositAllowed","internalType":"bool","type":"bool","indexed":false},{"name":"withdrawAllowed","internalType":"bool","type":"bool","indexed":false}],"name":"SftSlotAllowedChanged"}]

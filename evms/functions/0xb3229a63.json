@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"vaultID","internalType":"uint256","type":"uint256"}],"name":"checkRiskyVault","outputs":[{"name":"","internalType":"bool","type":"bool"}],"stateMutability":"view"}]

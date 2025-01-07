@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_newCoolDownPeriod","internalType":"uint256","type":"uint256"}],"name":"updateCoolDownPeriod","outputs":[],"stateMutability":"nonpayable"}]

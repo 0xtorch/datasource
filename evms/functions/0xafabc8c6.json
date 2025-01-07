@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_address","internalType":"address","type":"address"},{"name":"_enable","internalType":"bool","type":"bool"},{"name":"_addressTaxFee","internalType":"uint256","type":"uint256"},{"name":"_addressLiquidityFee","internalType":"uint256","type":"uint256"}],"name":"setBuyAddressFee","outputs":[],"stateMutability":"nonpayable"}]

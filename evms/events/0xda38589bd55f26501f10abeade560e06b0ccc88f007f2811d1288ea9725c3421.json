@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"nutter","internalType":"address","type":"address","indexed":true},{"name":"tokenId","internalType":"uint256","type":"uint256","indexed":true},{"name":"phase","internalType":"enum MafiaNuts.Phase","type":"uint8","indexed":true}],"name":"Nut"}]

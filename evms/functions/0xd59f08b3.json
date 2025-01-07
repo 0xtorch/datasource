@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"openMint","internalType":"bool","type":"bool"},{"name":"openWhitelistMint","internalType":"bool","type":"bool"}],"name":"setMint","outputs":[],"stateMutability":"nonpayable"}]

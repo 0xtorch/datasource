@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"vault_","internalType":"address","type":"address"},{"name":"supplyCap_","internalType":"uint256","type":"uint256"},{"name":"hasWhitelist_","internalType":"bool","type":"bool"}],"name":"setMintRules","outputs":[],"stateMutability":"nonpayable"}]

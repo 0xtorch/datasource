@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"factorType","internalType":"enum IVault.FactorType","type":"uint8","indexed":false},{"name":"newFactorA","internalType":"uint64","type":"uint64","indexed":false},{"name":"newFactorB","internalType":"uint64","type":"uint64","indexed":false}],"name":"FactorChanged"}]

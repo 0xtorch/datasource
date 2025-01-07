@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_weth","internalType":"address","type":"address"},{"name":"_spokePool","internalType":"address","type":"address"}],"name":"initAcross","outputs":[],"stateMutability":"nonpayable"}]

@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"oldOrderSigner","internalType":"address","type":"address","indexed":false},{"name":"orderSigner","internalType":"address","type":"address","indexed":false}],"name":"UpdateOrderSigner"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_minExecutionFeeIncreaseMarketOrder","internalType":"uint256","type":"uint256"},{"name":"_minExecutionFeeDecreaseMarketOrder","internalType":"uint256","type":"uint256"}],"name":"setMinExecutionFeeMarketOrder","outputs":[],"stateMutability":"nonpayable"}]

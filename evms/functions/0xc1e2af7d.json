@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"traitId","internalType":"uint64","type":"uint64"},{"name":"_traitValue","internalType":"string","type":"string"}],"name":"addTrait","outputs":[],"stateMutability":"nonpayable"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_operatorAddress","internalType":"address","type":"address"},{"name":"_access","internalType":"bool","type":"bool"}],"name":"setDividendsOperator","outputs":[],"stateMutability":"nonpayable"}]

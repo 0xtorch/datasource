@@ -1,0 +1,1 @@
+[{"type":"function","constant":false,"inputs":[{"name":"contractName","internalType":"bytes32","type":"bytes32"},{"name":"records","internalType":"bytes32[]","type":"bytes32[]"},{"name":"values","internalType":"int256[]","type":"int256[]"}],"name":"setIntValues","outputs":[],"payable":false,"stateMutability":"nonpayable"}]

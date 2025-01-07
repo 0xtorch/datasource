@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"orderId","internalType":"uint256","type":"uint256"}],"name":"getTwammOrderProceeds","outputs":[{"name":"orderExpired","internalType":"bool","type":"bool"},{"name":"totalReward","internalType":"uint256","type":"uint256"}],"stateMutability":"nonpayable"}]

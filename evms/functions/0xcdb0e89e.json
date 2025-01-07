@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"__tokenId","internalType":"uint256","type":"uint256"},{"name":"__name","internalType":"string","type":"string"}],"name":"setTokenName","outputs":[],"stateMutability":"nonpayable"}]

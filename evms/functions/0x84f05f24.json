@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"creatorContractAddress","internalType":"address","type":"address"},{"name":"instanceId","internalType":"uint256","type":"uint256"}],"name":"getBurnRedeemToken","outputs":[{"name":"tokenId","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

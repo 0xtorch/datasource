@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"fee","internalType":"uint96","type":"uint96"},{"name":"receiver","internalType":"address","type":"address"}],"name":"changeFeeRoyalty","outputs":[],"stateMutability":"nonpayable"}]

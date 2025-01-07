@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_user","internalType":"address","type":"address"}],"name":"hashMessage","outputs":[{"name":"","internalType":"bytes32","type":"bytes32"}],"stateMutability":"view"}]

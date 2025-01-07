@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_index","internalType":"uint256","type":"uint256"}],"name":"getWhitelistedUserAtIndex","outputs":[{"name":"","internalType":"address","type":"address"}],"stateMutability":"view"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"tableId","internalType":"ResourceId","type":"bytes32"},{"name":"keyTuple","internalType":"bytes32[]","type":"bytes32[]"},{"name":"start","internalType":"uint48","type":"uint48"},{"name":"data","internalType":"bytes","type":"bytes"}],"name":"spliceStaticData","outputs":[],"stateMutability":"nonpayable"}]

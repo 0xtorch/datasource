@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_productId","internalType":"uint256","type":"uint256"}],"name":"getFundingRate","outputs":[{"name":"","internalType":"int256","type":"int256"}],"stateMutability":"view"}]

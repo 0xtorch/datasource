@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"implementationAddress","internalType":"address","type":"address"},{"name":"newOwner","internalType":"address","type":"address"},{"name":"params","internalType":"bytes","type":"bytes"}],"name":"init","outputs":[],"stateMutability":"nonpayable"}]

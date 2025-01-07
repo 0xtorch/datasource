@@ -1,0 +1,1 @@
+[{"type":"function","constant":false,"inputs":[{"name":"cToken","internalType":"contract CToken","type":"address"},{"name":"force","internalType":"bool","type":"bool"}],"name":"_delistMarket","outputs":[],"payable":false,"stateMutability":"nonpayable"}]

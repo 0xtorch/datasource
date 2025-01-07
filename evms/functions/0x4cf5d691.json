@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_mintAmount","internalType":"uint256","type":"uint256"},{"name":"_preMint1Max","internalType":"uint256","type":"uint256"},{"name":"_merkleProof","internalType":"bytes32[]","type":"bytes32[]"}],"name":"preMint1","outputs":[],"stateMutability":"payable"}]

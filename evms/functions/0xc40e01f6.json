@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_updateTokenPriceInAVAXPercentageThreshold","internalType":"uint8","type":"uint8"},{"name":"_updateTokenPriceInAVAXTimeLimit","internalType":"uint256","type":"uint256"}],"name":"setUpdateTokenPriceInAVAXParams","outputs":[],"stateMutability":"nonpayable"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"","internalType":"address","type":"address"}],"name":"userVoteDetails","outputs":[{"name":"totalUsedVotes","internalType":"uint256","type":"uint256"},{"name":"totalAvailableVotes","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

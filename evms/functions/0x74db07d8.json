@@ -1,0 +1,1 @@
+[{"type":"function","constant":false,"inputs":[{"name":"account","internalType":"address","type":"address"}],"name":"addTokenPauser","outputs":[],"payable":false,"stateMutability":"nonpayable"}]

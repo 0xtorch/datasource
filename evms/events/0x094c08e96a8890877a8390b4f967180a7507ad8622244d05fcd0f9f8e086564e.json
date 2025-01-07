@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"_depositor","internalType":"address","type":"address","indexed":true},{"name":"_frontEnd","internalType":"address","type":"address","indexed":true}],"name":"FrontEndTagSet"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_pool","internalType":"address","type":"address"},{"name":"_userSellNum","internalType":"uint256","type":"uint256"}],"name":"stakeFT","outputs":[],"stateMutability":"payable"}]

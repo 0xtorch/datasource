@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"amount","internalType":"uint256","type":"uint256"},{"name":"to","internalType":"bytes32","type":"bytes32"}],"name":"burn","outputs":[],"stateMutability":"nonpayable"}]

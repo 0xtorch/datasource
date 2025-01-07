@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"geryListed","type":"address","indexed":true},{"name":"value","type":"bool","indexed":false}],"name":"Gerylist"}]

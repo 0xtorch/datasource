@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"equippableGroupId","internalType":"uint64","type":"uint64"},{"name":"parentAddress","internalType":"address","type":"address"},{"name":"partId","internalType":"uint64","type":"uint64"}],"name":"setValidParentForEquippableGroup","outputs":[],"stateMutability":"nonpayable"}]

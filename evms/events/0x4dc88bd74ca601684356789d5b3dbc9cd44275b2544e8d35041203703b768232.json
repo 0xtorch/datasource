@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"role","internalType":"bytes32","type":"bytes32","indexed":true},{"name":"domain","internalType":"uint256","type":"uint256","indexed":false},{"name":"account","internalType":"address","type":"address","indexed":true},{"name":"sender","internalType":"address","type":"address","indexed":true}],"name":"RoleGranted"}]

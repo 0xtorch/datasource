@@ -1,0 +1,1 @@
+[{"type":"function","constant":false,"inputs":[{"name":"account","type":"address"}],"name":"updateFTToken","outputs":[{"name":"","type":"address"}],"payable":false,"stateMutability":"nonpayable"}]

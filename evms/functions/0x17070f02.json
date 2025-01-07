@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"vault","internalType":"contract IVault","type":"address"},{"name":"amount","internalType":"uint256","type":"uint256"},{"name":"minSharesOut","internalType":"uint256","type":"uint256"}],"name":"depositAndGimmie","outputs":[{"name":"shares","internalType":"uint256","type":"uint256"}],"stateMutability":"nonpayable"}]

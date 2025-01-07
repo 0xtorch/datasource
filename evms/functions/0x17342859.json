@@ -1,0 +1,1 @@
+[{"type":"function","constant":false,"inputs":[{"name":"_spenders","type":"address[]"},{"name":"_approved","type":"bool"}],"name":"batchSetApprovalForAll","outputs":[],"payable":false,"stateMutability":"nonpayable"}]

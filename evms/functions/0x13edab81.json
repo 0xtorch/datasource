@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"a","internalType":"contract IERC721","type":"address"},{"name":"nftIds","internalType":"uint256[]","type":"uint256[]"}],"name":"withdrawERC721","outputs":[],"stateMutability":"nonpayable"}]

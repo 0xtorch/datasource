@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"recipient","internalType":"address","type":"address"},{"name":"quantity","internalType":"uint256","type":"uint256"},{"name":"comment","internalType":"string","type":"string"}],"name":"purchaseWithRecipient","outputs":[{"name":"","internalType":"uint256","type":"uint256"}],"stateMutability":"payable"}]

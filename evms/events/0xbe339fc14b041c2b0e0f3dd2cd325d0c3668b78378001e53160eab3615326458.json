@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"customerAddress","internalType":"address","type":"address","indexed":true},{"name":"maticReinvested","internalType":"uint256","type":"uint256","indexed":false},{"name":"tokensMinted","internalType":"uint256","type":"uint256","indexed":false}],"name":"onReinvestment"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"tokenId","internalType":"uint256","type":"uint256"},{"name":"newUri","internalType":"string","type":"string"}],"name":"setTokenURIs","outputs":[],"stateMutability":"nonpayable"}]

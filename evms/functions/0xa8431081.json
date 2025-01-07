@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"newLiquidationIncentive","internalType":"uint256","type":"uint256"}],"name":"setLiquidationIncentive","outputs":[],"stateMutability":"nonpayable"}]

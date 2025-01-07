@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"sIdx","internalType":"uint256","type":"uint256"},{"name":"len","internalType":"uint256","type":"uint256"}],"name":"getCreators","outputs":[{"name":"","internalType":"address[]","type":"address[]"}],"stateMutability":"view"}]

@@ -1,0 +1,1 @@
+[{"type":"function","constant":true,"inputs":[{"name":"_editionNumber","type":"uint256"}],"name":"purchaseDatesEdition","outputs":[{"name":"_startDate","type":"uint256"},{"name":"_endDate","type":"uint256"}],"payable":false,"stateMutability":"view"}]

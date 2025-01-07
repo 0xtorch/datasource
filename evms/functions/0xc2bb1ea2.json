@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_tallyResult","internalType":"uint256","type":"uint256"},{"name":"_spent","internalType":"uint256","type":"uint256"}],"name":"getAllocatedAmount","outputs":[{"name":"","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

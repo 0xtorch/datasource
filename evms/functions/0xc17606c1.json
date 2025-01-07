@@ -1,0 +1,1 @@
+[{"type":"function","constant":false,"inputs":[{"name":"toTreasury","internalType":"bool","type":"bool"}],"name":"setReinvestToTreasury","outputs":[],"payable":false,"stateMutability":"nonpayable"}]

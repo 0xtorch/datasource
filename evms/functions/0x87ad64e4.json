@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_petType","internalType":"uint256","type":"uint256"}],"name":"idoBnb","outputs":[{"name":"amountPet","internalType":"uint256","type":"uint256"},{"name":"amountToken","internalType":"uint256","type":"uint256"}],"stateMutability":"payable"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_galaxy","internalType":"contract IERC20","type":"address"},{"name":"_share","internalType":"contract IERC20","type":"address"},{"name":"_treasury","internalType":"contract ITreasury","type":"address"}],"name":"initialize","outputs":[],"stateMutability":"nonpayable"}]

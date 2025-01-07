@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"","internalType":"address","type":"address"}],"name":"groupsPubKey","outputs":[{"name":"x","internalType":"uint256","type":"uint256"},{"name":"parity","internalType":"uint8","type":"uint8"}],"stateMutability":"view"}]

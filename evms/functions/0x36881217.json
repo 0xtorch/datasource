@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"index","internalType":"uint256","type":"uint256"},{"name":"duplicateIndex","internalType":"uint256","type":"uint256"}],"name":"removeExtraRewardToken","outputs":[],"stateMutability":"nonpayable"}]

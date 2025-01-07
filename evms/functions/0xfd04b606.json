@@ -1,0 +1,1 @@
+[{"type":"function","constant":true,"inputs":[{"name":"marketId","type":"uint256"}],"name":"getMarketMarginPremium","outputs":[{"name":"","type":"tuple","components":[{"name":"value","type":"uint256"}]}],"payable":false,"stateMutability":"view"}]

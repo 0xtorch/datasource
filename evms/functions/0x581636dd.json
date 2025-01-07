@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"addressToAdd","internalType":"address[]","type":"address[]"},{"name":"mintId","internalType":"uint256","type":"uint256"},{"name":"_mintQuotas","internalType":"uint256[]","type":"uint256[]"}],"name":"setMintQuota","outputs":[],"stateMutability":"nonpayable"}]

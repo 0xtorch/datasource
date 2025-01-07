@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"minCliffSeconds_","internalType":"uint48","type":"uint48"},{"name":"maxCliffSeconds_","internalType":"uint48","type":"uint48"}],"name":"updateCliffTime","outputs":[],"stateMutability":"nonpayable"}]

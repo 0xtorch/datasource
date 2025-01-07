@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[],"name":"stratCandidate","outputs":[{"name":"implementation","internalType":"address","type":"address"},{"name":"proposedTime","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

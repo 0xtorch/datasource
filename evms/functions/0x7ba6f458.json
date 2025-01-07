@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_user","internalType":"address","type":"address"}],"name":"getStakes","outputs":[{"name":"","internalType":"struct TokenStaking.Position[]","type":"tuple[]","components":[{"name":"amount","internalType":"uint128","type":"uint128"},{"name":"unlockBlock","internalType":"uint128","type":"uint128"}]}],"stateMutability":"view"}]

@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"currentSegment","internalType":"uint64","type":"uint64","indexed":false},{"name":"oldFee","internalType":"uint64","type":"uint64","indexed":false},{"name":"newFee","internalType":"uint64","type":"uint64","indexed":false}],"name":"EarlyWithdrawalFeeChanged"}]

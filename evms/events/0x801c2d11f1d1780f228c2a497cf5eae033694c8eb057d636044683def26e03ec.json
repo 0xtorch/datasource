@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"rewardDecreasePerCheckpoint","internalType":"uint256","type":"uint256","indexed":false},{"name":"maxRewardedCheckpoints","internalType":"uint256","type":"uint256","indexed":false},{"name":"checkpointRewardDelta","internalType":"uint256","type":"uint256","indexed":false}],"name":"RewardParams"}]

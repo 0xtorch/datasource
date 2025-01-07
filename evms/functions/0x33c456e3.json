@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"","internalType":"address","type":"address"},{"name":"","internalType":"address","type":"address"}],"name":"margins","outputs":[{"name":"balanceRisky","internalType":"uint128","type":"uint128"},{"name":"balanceStable","internalType":"uint128","type":"uint128"}],"stateMutability":"view"}]

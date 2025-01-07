@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_substitute","internalType":"uint256","type":"uint256"}],"name":"showSubstituteElected","outputs":[{"name":"_substitutes","internalType":"address[]","type":"address[]"}],"stateMutability":"view"}]

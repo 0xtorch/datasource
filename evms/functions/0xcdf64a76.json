@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_validatorContract","internalType":"contract IWeightedValidator","type":"address"}],"name":"setValidatorContract","outputs":[],"stateMutability":"nonpayable"}]

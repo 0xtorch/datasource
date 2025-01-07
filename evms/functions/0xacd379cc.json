@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_hash","internalType":"bytes32","type":"bytes32"},{"name":"_signature","internalType":"bytes","type":"bytes"}],"name":"mint","outputs":[],"stateMutability":"nonpayable"}]

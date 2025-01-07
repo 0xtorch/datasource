@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"withdrawalRequestId","internalType":"bytes32","type":"bytes32"},{"name":"airnode","internalType":"address","type":"address"},{"name":"sponsor","internalType":"address","type":"address"}],"name":"fulfillWithdrawal","outputs":[],"stateMutability":"payable"}]

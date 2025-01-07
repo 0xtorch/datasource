@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"lotteryId","internalType":"uint256","type":"uint256"},{"name":"unWinners","internalType":"address[]","type":"address[]"}],"name":"removeWinnersFromLottery","outputs":[],"stateMutability":"nonpayable"}]

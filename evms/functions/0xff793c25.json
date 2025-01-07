@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"","internalType":"uint256","type":"uint256"},{"name":"","internalType":"uint256","type":"uint256"}],"name":"highestStakerInPool","outputs":[{"name":"deposited","internalType":"uint256","type":"uint256"},{"name":"addr","internalType":"address","type":"address"}],"stateMutability":"view"}]

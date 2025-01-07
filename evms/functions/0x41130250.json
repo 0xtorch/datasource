@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_interestRatesManager","internalType":"contract IInterestRatesManager","type":"address"}],"name":"setInterestRatesManager","outputs":[],"stateMutability":"nonpayable"}]

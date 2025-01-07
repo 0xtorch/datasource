@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"deadline","type":"uint256","indexed":false},{"name":"new_fee","type":"uint256","indexed":false}],"name":"CommitNewFee"}]

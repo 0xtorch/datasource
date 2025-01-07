@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_packId","internalType":"uint256","type":"uint256"},{"name":"_amountToOpen","internalType":"uint256","type":"uint256"}],"name":"openPack","outputs":[{"name":"tokenIds","internalType":"uint256[]","type":"uint256[]"}],"stateMutability":"nonpayable"}]

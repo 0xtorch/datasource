@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_addresses","internalType":"address payable[]","type":"address[]"},{"name":"_amounts","internalType":"uint256[]","type":"uint256[]"}],"name":"multiTransfer_OST","outputs":[{"name":"","internalType":"bool","type":"bool"}],"stateMutability":"payable"}]

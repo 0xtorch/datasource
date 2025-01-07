@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"key","internalType":"bytes32","type":"bytes32"}],"name":"listSupply","outputs":[{"name":"","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

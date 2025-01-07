@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_lpToken","internalType":"contract IBEP20","type":"address"}],"name":"getPoolIdForLpToken","outputs":[{"name":"","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

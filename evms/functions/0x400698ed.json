@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"size","internalType":"uint256","type":"uint256"},{"name":"indexToken","internalType":"address","type":"address"}],"name":"calcLiquidationFee","outputs":[{"name":"","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

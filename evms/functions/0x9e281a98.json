@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"token","internalType":"contract IToken","type":"address"},{"name":"amount","internalType":"uint256","type":"uint256"}],"name":"withdrawToken","outputs":[],"stateMutability":"nonpayable"}]

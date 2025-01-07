@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_loanAllocationPCT","internalType":"uint32","type":"uint32"},{"name":"_optionAllocationPCT","internalType":"uint32","type":"uint32"}],"name":"setAllocationPCT","outputs":[],"stateMutability":"nonpayable"}]

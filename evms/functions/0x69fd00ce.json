@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"","internalType":"address","type":"address"}],"name":"frrState","outputs":[{"name":"receiveFvor","internalType":"bool","type":"bool"},{"name":"frrStamp","internalType":"uint256","type":"uint256"},{"name":"nextRewardEpoch","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

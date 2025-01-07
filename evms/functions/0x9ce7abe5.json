@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_proxy","internalType":"contract IGraphProxy","type":"address"},{"name":"_data","internalType":"bytes","type":"bytes"}],"name":"acceptProxyAndCall","outputs":[],"stateMutability":"nonpayable"}]

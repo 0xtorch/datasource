@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"listingId","internalType":"uint40","type":"uint40"},{"name":"offerAddresses","internalType":"address[]","type":"address[]"}],"name":"rescind","outputs":[],"stateMutability":"nonpayable"}]

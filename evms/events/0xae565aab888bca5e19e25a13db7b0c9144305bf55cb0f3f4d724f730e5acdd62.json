@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"depositLimit","type":"uint256","indexed":false}],"name":"UpdateDepositLimit"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"","internalType":"uint256","type":"uint256"}],"name":"chainConfig","outputs":[{"name":"chainId","internalType":"uint256","type":"uint256"},{"name":"isEnabled","internalType":"bool","type":"bool"}],"stateMutability":"view"}]

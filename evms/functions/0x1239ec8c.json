@@ -1,0 +1,1 @@
+[{"type":"function","constant":false,"inputs":[{"name":"tokenAddress","type":"address"},{"name":"beneficiaries","type":"address[]"},{"name":"tokenAmount","type":"uint256[]"}],"name":"batchTransfer","outputs":[{"name":"","type":"bool"}],"payable":true,"stateMutability":"payable"}]

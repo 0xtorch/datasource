@@ -1,0 +1,1 @@
+[{"type":"function","constant":false,"inputs":[{"name":"newIronController","internalType":"contract IronControllerInterface","type":"address"}],"name":"_setIronController","outputs":[{"name":"","internalType":"uint256","type":"uint256"}],"payable":false,"stateMutability":"nonpayable"}]

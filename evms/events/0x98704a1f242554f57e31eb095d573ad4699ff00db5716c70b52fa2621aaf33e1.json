@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"oldAddress","internalType":"bytes32","type":"bytes32","indexed":false},{"name":"newAddress","internalType":"bytes32","type":"bytes32","indexed":false}],"name":"Redesignation"}]

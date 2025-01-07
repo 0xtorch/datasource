@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"maxInitiatorFee","internalType":"uint80","type":"uint80","indexed":false}],"name":"MaxInitiatorFeeSet"}]

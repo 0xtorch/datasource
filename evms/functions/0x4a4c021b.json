@@ -1,0 +1,1 @@
+[{"type":"function","constant":true,"inputs":[{"name":"_from","internalType":"address","type":"address"},{"name":"_hash","internalType":"bytes32","type":"bytes32"},{"name":"_time","internalType":"int64","type":"int64"}],"name":"encodeData","outputs":[{"name":"","internalType":"bytes32","type":"bytes32"}],"payable":false,"stateMutability":"pure"}]

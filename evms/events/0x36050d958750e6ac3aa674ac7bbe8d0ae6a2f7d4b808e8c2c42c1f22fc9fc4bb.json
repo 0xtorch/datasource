@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"l2ChainId","internalType":"uint256","type":"uint256","indexed":false},{"name":"adapter","internalType":"address","type":"address","indexed":false},{"name":"spokePool","internalType":"address","type":"address","indexed":false}],"name":"CrossChainContractsSet"}]

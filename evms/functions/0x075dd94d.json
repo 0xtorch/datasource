@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"postId","internalType":"string","type":"string"},{"name":"nft721","internalType":"address","type":"address"}],"name":"setPostToAddress","outputs":[],"stateMutability":"nonpayable"}]

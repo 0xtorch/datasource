@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"staker","internalType":"address","type":"address"},{"name":"stakee","internalType":"address","type":"address"},{"name":"amountToRelease","internalType":"uint88","type":"uint88"},{"name":"slashRound","internalType":"uint16","type":"uint16"}],"name":"release","outputs":[],"stateMutability":"nonpayable"}]

@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"creator","internalType":"address","type":"address","indexed":true},{"name":"name","internalType":"string","type":"string","indexed":false},{"name":"symbol","internalType":"string","type":"string","indexed":false}],"name":"CreateERC1155_v1"}]

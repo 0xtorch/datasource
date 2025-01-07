@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"urn","internalType":"address","type":"address"},{"name":"wad","internalType":"uint256","type":"uint256"},{"name":"_msgSender","internalType":"address","type":"address"}],"name":"join","outputs":[],"stateMutability":"nonpayable"}]

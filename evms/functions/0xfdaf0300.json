@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_errorCodes","internalType":"uint256[]","type":"uint256[]"},{"name":"_errorMessages","internalType":"string[]","type":"string[]"}],"name":"batchSetErrors","outputs":[],"stateMutability":"nonpayable"}]

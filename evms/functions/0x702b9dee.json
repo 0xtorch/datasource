@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_about","internalType":"address","type":"address"},{"name":"_key","internalType":"bytes32","type":"bytes32"},{"name":"_val","internalType":"bytes","type":"bytes"}],"name":"attest","outputs":[],"stateMutability":"nonpayable"}]

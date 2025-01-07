@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"account","internalType":"address","type":"address"},{"name":"sender","internalType":"address[]","type":"address[]"},{"name":"blockNumber","internalType":"uint256[]","type":"uint256[]"}],"name":"getVotesAtBlock","outputs":[{"name":"","internalType":"uint256","type":"uint256"}],"stateMutability":"nonpayable"}]

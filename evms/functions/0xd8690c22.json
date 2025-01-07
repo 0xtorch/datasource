@@ -1,0 +1,1 @@
+[{"type":"function","constant":true,"inputs":[{"name":"_account","type":"address"},{"name":"_term","type":"uint256"}],"name":"isAvailableLockSlot","outputs":[{"name":"","type":"bool"}],"payable":false,"stateMutability":"view"}]

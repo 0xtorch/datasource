@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"transceiver","internalType":"address","type":"address","indexed":false},{"name":"transceiversNum","internalType":"uint256","type":"uint256","indexed":false},{"name":"threshold","internalType":"uint8","type":"uint8","indexed":false}],"name":"TransceiverAdded"}]

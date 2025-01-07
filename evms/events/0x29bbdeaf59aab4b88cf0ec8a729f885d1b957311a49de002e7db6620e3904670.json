@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"sequence","internalType":"uint64","type":"uint64","indexed":true},{"name":"chainId","internalType":"uint16","type":"uint16","indexed":true}],"name":"PorticoSwapStart"}]

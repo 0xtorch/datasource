@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_rbWagerOnSwap","internalType":"uint256","type":"uint256"},{"name":"_percentMarket","internalType":"uint256","type":"uint256"},{"name":"_percentAuction","internalType":"uint256","type":"uint256"}],"name":"setRobiBoostReward","outputs":[],"stateMutability":"nonpayable"}]

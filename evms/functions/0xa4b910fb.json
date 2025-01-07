@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_PoolId","internalType":"uint256","type":"uint256"}],"name":"WithdrawToken","outputs":[{"name":"","internalType":"bool","type":"bool"}],"stateMutability":"nonpayable"}]

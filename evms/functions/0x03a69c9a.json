@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_users","internalType":"address[]","type":"address[]"},{"name":"_silos","internalType":"contract ISilo[]","type":"address[]"}],"name":"checkDebt","outputs":[{"name":"","internalType":"bool[]","type":"bool[]"}],"stateMutability":"view"}]

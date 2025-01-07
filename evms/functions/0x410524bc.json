@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_range","internalType":"uint256","type":"uint256"}],"name":"generateRandomStartingIndex","outputs":[{"name":"","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

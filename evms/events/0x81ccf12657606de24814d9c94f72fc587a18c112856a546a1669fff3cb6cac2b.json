@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"oldVault","internalType":"address","type":"address","indexed":false},{"name":"newVault","internalType":"address","type":"address","indexed":false},{"name":"caller","internalType":"address","type":"address","indexed":false}],"name":"RelayerFeeVaultUpdated"}]

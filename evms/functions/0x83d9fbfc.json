@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"status","internalType":"bool","type":"bool"},{"name":"forgeId","internalType":"uint256","type":"uint256"}],"name":"setWithdraw","outputs":[],"stateMutability":"nonpayable"}]

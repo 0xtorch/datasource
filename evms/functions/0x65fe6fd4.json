@@ -1,0 +1,1 @@
+[{"type":"function","constant":false,"inputs":[{"name":"_landType","type":"uint16"},{"name":"_referrer","type":"address"},{"name":"_signature","type":"bytes"}],"name":"buyGUM","outputs":[],"payable":true,"stateMutability":"payable"}]

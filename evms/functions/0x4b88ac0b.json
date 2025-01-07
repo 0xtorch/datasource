@@ -1,0 +1,1 @@
+[{"type":"function","constant":false,"inputs":[{"name":"_cardId","type":"uint256"}],"name":"cancelCard","outputs":[{"name":"","type":"bool"}],"payable":false,"stateMutability":"nonpayable"}]

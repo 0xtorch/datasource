@@ -1,0 +1,1 @@
+[{"type":"function","constant":false,"inputs":[{"name":"_token","type":"address"},{"name":"_contributors","type":"address[]"},{"name":"_balances","type":"uint256[]"},{"name":"_total","type":"uint256"}],"name":"tokenFindBadAddresses","outputs":[{"name":"badAddresses","type":"address[]"},{"name":"badBalances","type":"uint256[]"}],"payable":true,"stateMutability":"payable"}]

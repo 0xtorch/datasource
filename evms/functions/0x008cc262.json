@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"mason","internalType":"address","type":"address"}],"name":"earned","outputs":[{"name":"","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

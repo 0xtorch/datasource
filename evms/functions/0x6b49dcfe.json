@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[],"name":"getInvitersDetail","outputs":[{"name":"inviType","internalType":"uint256","type":"uint256"},{"name":"ido","internalType":"address","type":"address"},{"name":"inviterFee","internalType":"uint256","type":"uint256"},{"name":"inviters","internalType":"uint256[]","type":"uint256[]"}],"stateMutability":"view"}]

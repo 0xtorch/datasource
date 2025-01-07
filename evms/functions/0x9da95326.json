@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_unstakingFrozenTime","internalType":"uint256","type":"uint256"}],"name":"setUnstakingFrozenTime","outputs":[],"stateMutability":"nonpayable"}]

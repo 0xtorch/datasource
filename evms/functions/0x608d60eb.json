@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_commands","internalType":"enum IAccount.Command[]","type":"uint8[]"},{"name":"_inputs","internalType":"bytes[]","type":"bytes[]"}],"name":"execute","outputs":[],"stateMutability":"payable"}]

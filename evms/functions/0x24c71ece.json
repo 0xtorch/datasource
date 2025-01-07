@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"","internalType":"address","type":"address"}],"name":"ratios","outputs":[{"name":"leverageRatio","internalType":"uint256","type":"uint256"},{"name":"juniorTrancheLockedUntil","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

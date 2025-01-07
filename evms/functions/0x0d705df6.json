@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[],"name":"getTransferValidationFunction","outputs":[{"name":"functionSignature","internalType":"bytes4","type":"bytes4"},{"name":"isViewFunction","internalType":"bool","type":"bool"}],"stateMutability":"pure"}]

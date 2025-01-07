@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"","internalType":"uint256","type":"uint256"}],"name":"starfishMap","outputs":[{"name":"savedXP","internalType":"uint256","type":"uint256"},{"name":"lastSaveBlock","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

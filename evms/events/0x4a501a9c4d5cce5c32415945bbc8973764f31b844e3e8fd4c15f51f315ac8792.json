@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"newProposerBonus","internalType":"uint256","type":"uint256","indexed":false},{"name":"oldProposerBonus","internalType":"uint256","type":"uint256","indexed":false}],"name":"ProposerBonusChange"}]

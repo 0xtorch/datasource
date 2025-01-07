@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"oldComptroller","internalType":"contract IComptroller","type":"address","indexed":false},{"name":"newComptroller","internalType":"contract IComptroller","type":"address","indexed":false}],"name":"NewComptroller"}]

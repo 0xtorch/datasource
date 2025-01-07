@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"accountant","type":"address","indexed":true}],"name":"UpdateAccountant"}]

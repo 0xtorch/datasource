@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"deployer","internalType":"address","type":"address","indexed":true},{"name":"contractAddress","internalType":"address","type":"address","indexed":true}],"name":"SeriesDeployed"}]

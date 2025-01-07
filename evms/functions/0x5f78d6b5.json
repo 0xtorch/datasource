@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"blueprints","internalType":"address","type":"address"},{"name":"model","internalType":"uint256","type":"uint256"}],"name":"assembleMecha","outputs":[],"stateMutability":"payable"}]

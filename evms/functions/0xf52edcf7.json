@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"mToken","internalType":"address","type":"address"}],"name":"mTokenRefundRatioGuard","outputs":[{"name":"minRatio","internalType":"uint256","type":"uint256"},{"name":"maxRatio","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

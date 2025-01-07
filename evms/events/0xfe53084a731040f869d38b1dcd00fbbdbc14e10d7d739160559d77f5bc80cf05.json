@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"amount","internalType":"int128","type":"int128","indexed":false},{"name":"subaccount","internalType":"bytes32","type":"bytes32","indexed":true},{"name":"productId","internalType":"uint32","type":"uint32","indexed":false}],"name":"ModifyCollateral"}]

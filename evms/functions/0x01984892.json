@@ -1,0 +1,1 @@
+[{"type":"function","constant":true,"inputs":[{"name":"_owner","type":"address"}],"name":"name","outputs":[{"name":"o_name","type":"bytes32"}],"payable":false,"stateMutability":"view"}]

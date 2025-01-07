@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"token","internalType":"contract IERC20","type":"address"},{"name":"from","internalType":"address","type":"address"},{"name":"tos","internalType":"address[]","type":"address[]"},{"name":"shares","internalType":"uint256[]","type":"uint256[]"}],"name":"transferMultiple","outputs":[],"stateMutability":"nonpayable"}]

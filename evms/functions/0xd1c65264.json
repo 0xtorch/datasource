@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"proofData","internalType":"bytes","type":"bytes"},{"name":"signatures","internalType":"bytes","type":"bytes"},{"name":"viewingKeys","internalType":"bytes","type":"bytes"}],"name":"escapeHatch","outputs":[],"stateMutability":"nonpayable"}]

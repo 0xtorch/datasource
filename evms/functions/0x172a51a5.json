@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[],"name":"projectsMetaPtr","outputs":[{"name":"protocol","internalType":"uint256","type":"uint256"},{"name":"pointer","internalType":"string","type":"string"}],"stateMutability":"view"}]

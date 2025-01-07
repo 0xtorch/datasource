@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"catClass","internalType":"uint256[]","type":"uint256[]","indexed":false},{"name":"bonus","internalType":"uint256[]","type":"uint256[]","indexed":false}],"name":"LogSetCatClassBonus"}]

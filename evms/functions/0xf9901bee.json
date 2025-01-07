@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"tokenId","internalType":"uint256","type":"uint256"}],"name":"getCutieDetail","outputs":[{"name":"detail","internalType":"struct CutieBears.CutieDetail","type":"tuple","components":[{"name":"first_encounter","internalType":"uint256","type":"uint256"}]}],"stateMutability":"view"}]

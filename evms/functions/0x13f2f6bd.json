@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_itemIdsStartIndexInclusive","internalType":"uint256","type":"uint256"},{"name":"_limit","internalType":"uint256","type":"uint256"}],"name":"paginateItemSupplies","outputs":[{"name":"","internalType":"uint256[][]","type":"uint256[][]"}],"stateMutability":"view"}]

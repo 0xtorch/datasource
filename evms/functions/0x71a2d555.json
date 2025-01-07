@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_depositCoins","internalType":"address[]","type":"address[]"},{"name":"_depositBalances","internalType":"uint256[]","type":"uint256[]"}],"name":"setDepositCoins","outputs":[],"stateMutability":"nonpayable"}]

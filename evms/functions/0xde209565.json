@@ -1,0 +1,1 @@
+[{"type":"function","constant":false,"inputs":[{"name":"transactionId","type":"uint256"}],"name":"confirmMintTransaction","outputs":[],"payable":false,"stateMutability":"nonpayable"}]

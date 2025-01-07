@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_endIndexForMintRequests","internalType":"uint256","type":"uint256"},{"name":"_endIndexForBurnRequests","internalType":"uint256","type":"uint256"}],"name":"executeLPRequests","outputs":[{"name":"","internalType":"uint256","type":"uint256"},{"name":"","internalType":"uint256","type":"uint256"}],"stateMutability":"nonpayable"}]

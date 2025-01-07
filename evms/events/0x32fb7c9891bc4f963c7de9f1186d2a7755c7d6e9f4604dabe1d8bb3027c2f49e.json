@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"time","type":"uint256","indexed":true}],"name":"Paused"},{"type":"event","anonymous":false,"inputs":[{"name":"block","internalType":"uint256","type":"uint256","indexed":false}],"name":"Paused"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[],"name":"endingTime","outputs":[{"name":"estimatedTime","internalType":"uint256","type":"uint256"},{"name":"lastUpdatedTime","internalType":"uint256","type":"uint256"},{"name":"updateCadence","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

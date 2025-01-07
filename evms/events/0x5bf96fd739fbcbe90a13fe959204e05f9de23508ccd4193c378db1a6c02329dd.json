@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"oldMiddleLayer","internalType":"address","type":"address","indexed":false},{"name":"newMiddleLayer","internalType":"address","type":"address","indexed":false}],"name":"SetMiddleLayer"}]

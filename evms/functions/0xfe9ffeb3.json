@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[],"name":"getRewardedRange","outputs":[{"name":"binStart","internalType":"uint256","type":"uint256"},{"name":"binEnd","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

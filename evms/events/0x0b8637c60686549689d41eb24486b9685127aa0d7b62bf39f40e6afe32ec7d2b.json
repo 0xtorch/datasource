@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"bridgeReserve","internalType":"uint256","type":"uint256","indexed":false},{"name":"_bridgeReserve","internalType":"uint256","type":"uint256","indexed":false}],"name":"BridgeReserveSet"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_goldenEggs","internalType":"contract IERC20","type":"address"}],"name":"setGoldenEggsAddress","outputs":[],"stateMutability":"nonpayable"}]

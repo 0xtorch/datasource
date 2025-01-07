@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"valid","internalType":"bool","type":"bool","indexed":false}],"name":"DisputeResolved"}]

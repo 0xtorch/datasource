@@ -1,0 +1,1 @@
+[{"type":"function","constant":true,"inputs":[{"name":"packIndex","type":"uint16"},{"name":"cardIndex","type":"uint8"},{"name":"result","type":"uint256"}],"name":"getCardDetails","outputs":[{"name":"proto","type":"uint16"},{"name":"purity","type":"uint16"}],"payable":false,"stateMutability":"view"}]

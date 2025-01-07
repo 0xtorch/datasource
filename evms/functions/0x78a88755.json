@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"currency_","internalType":"address","type":"address"},{"name":"isAllowed_","internalType":"bool","type":"bool"}],"name":"setCurrencyOnlyOwner","outputs":[],"stateMutability":"nonpayable"}]

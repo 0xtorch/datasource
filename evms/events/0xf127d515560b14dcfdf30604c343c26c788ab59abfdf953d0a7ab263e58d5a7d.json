@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"address1","internalType":"address","type":"address","indexed":false},{"name":"address2","internalType":"address","type":"address","indexed":false},{"name":"lastUpdate","internalType":"uint40","type":"uint40","indexed":false}],"name":"PoolProtectionSet"}]

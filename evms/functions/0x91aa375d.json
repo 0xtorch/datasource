@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[],"name":"getBlockSlope","outputs":[{"name":"blockChange","internalType":"uint256","type":"uint256"},{"name":"timeChange","internalType":"uint32","type":"uint32"}],"stateMutability":"view"}]

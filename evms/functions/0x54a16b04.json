@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"","internalType":"address","type":"address"},{"name":"","internalType":"address","type":"address"}],"name":"cooldowns","outputs":[{"name":"timestamp","internalType":"uint40","type":"uint40"},{"name":"amount","internalType":"uint216","type":"uint216"}],"stateMutability":"view"}]

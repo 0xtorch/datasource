@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"summonThreshold","internalType":"uint256","type":"uint256","indexed":false}],"name":"SetSummonThreshold"}]

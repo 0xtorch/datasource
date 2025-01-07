@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_collection","internalType":"address","type":"address"},{"name":"_approve","internalType":"bool","type":"bool"}],"name":"setCollectionApprove","outputs":[],"stateMutability":"nonpayable"}]

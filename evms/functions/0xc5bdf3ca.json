@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"messages","internalType":"bytes32[]","type":"bytes32[]"}],"name":"batchedFinalizeWithdrawals","outputs":[],"stateMutability":"nonpayable"}]

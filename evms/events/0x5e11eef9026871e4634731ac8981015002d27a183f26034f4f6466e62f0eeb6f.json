@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"rewardsToken2","internalType":"contract IERC20","type":"address","indexed":false}],"name":"SetRewardsToken2"}]

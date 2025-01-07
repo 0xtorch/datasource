@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"saleTermsId","internalType":"uint256","type":"uint256"},{"name":"tokenQuantity","internalType":"uint256","type":"uint256"},{"name":"tokenRecipient","internalType":"address","type":"address"},{"name":"referrer","internalType":"address payable","type":"address"}],"name":"mintFromFixedPriceSale","outputs":[],"stateMutability":"payable"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"newRouter","internalType":"address","type":"address"},{"name":"newPair","internalType":"address","type":"address"}],"name":"updateRouterAndPair","outputs":[],"stateMutability":"nonpayable"}]

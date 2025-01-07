@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"user","internalType":"address","type":"address","indexed":false},{"name":"currentUnlock","internalType":"uint16","type":"uint16","indexed":false}],"name":"UserElimination"}]

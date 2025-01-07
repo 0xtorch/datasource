@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"tokenId","internalType":"uint256","type":"uint256"},{"name":"attributeId","internalType":"uint256","type":"uint256"}],"name":"getUserAttribute","outputs":[{"name":"","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

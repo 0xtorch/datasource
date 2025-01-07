@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"signatory","internalType":"address","type":"address","indexed":true},{"name":"increment","internalType":"uint256","type":"uint256","indexed":false},{"name":"quota","internalType":"uint256","type":"uint256","indexed":false}],"name":"IncreaseAuthQuota"}]

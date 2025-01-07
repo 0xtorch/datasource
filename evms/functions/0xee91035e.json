@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_networkContractName","internalType":"string","type":"string"},{"name":"_tokenAddress","internalType":"contract IERC20","type":"address"},{"name":"_amount","internalType":"uint256","type":"uint256"}],"name":"transferToken","outputs":[],"stateMutability":"nonpayable"}]

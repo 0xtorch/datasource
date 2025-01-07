@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"id","internalType":"uint256","type":"uint256"},{"name":"_oldTokenId","internalType":"uint256","type":"uint256"},{"name":"_newTokenId","internalType":"uint256","type":"uint256"}],"name":"updateClubToken","outputs":[],"stateMutability":"nonpayable"}]

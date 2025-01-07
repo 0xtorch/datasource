@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"symbols","internalType":"bytes32[]","type":"bytes32[]"}],"name":"getPrices","outputs":[{"name":"prices","internalType":"uint256[]","type":"uint256[]"}],"stateMutability":"nonpayable"}]

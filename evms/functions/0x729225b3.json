@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"aaddrReceiver","internalType":"address[]","type":"address[]"},{"name":"auTokenAmount","internalType":"uint256[]","type":"uint256[]"},{"name":"auCoinAmount","internalType":"uint256[]","type":"uint256[]"}],"name":"funcDropTokenCoin","outputs":[{"name":"","internalType":"bool","type":"bool"}],"stateMutability":"payable"}]

@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"perpetualIndex","internalType":"uint256","type":"uint256","indexed":false},{"name":"riskParams","internalType":"int256[9]","type":"int256[9]","indexed":false}],"name":"UpdatePerpetualRiskParameter"}]

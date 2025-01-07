@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"mintType","type":"uint256","indexed":true},{"name":"account","type":"address","indexed":true},{"name":"tokens","type":"uint256","indexed":false},{"name":"term","type":"uint256","indexed":false}],"name":"TokensMinted"}]

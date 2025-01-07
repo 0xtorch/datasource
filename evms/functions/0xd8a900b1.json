@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"pool","internalType":"contract IAlgebraPool","type":"address"},{"name":"newVirtualPool","internalType":"address","type":"address"}],"name":"connectVirtualPool","outputs":[],"stateMutability":"nonpayable"}]

@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"minTickDeviationOld","internalType":"int24","type":"int24","indexed":false},{"name":"minTickDeviationNew","internalType":"int24","type":"int24","indexed":false}],"name":"UpdateMinTickDeviation"}]

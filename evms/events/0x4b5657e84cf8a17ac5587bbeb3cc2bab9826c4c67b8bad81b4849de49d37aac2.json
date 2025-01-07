@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"contributor","internalType":"address","type":"address","indexed":true},{"name":"isContributor","internalType":"bool","type":"bool","indexed":false}],"name":"ContributorUpdate"}]

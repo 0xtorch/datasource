@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"ownerCanUpdateTraitKeys","internalType":"bytes32[]","type":"bytes32[]"},{"name":"onlyOnceTraitKeys","internalType":"bytes32[]","type":"bytes32[]"}],"name":"setTraitsPermissions","outputs":[],"stateMutability":"payable"}]

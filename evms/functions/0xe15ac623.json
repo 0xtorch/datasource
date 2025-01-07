@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"reward","internalType":"address","type":"address"},{"name":"transferStrategy","internalType":"contract ITransferStrategyBase","type":"address"}],"name":"setTransferStrategy","outputs":[],"stateMutability":"nonpayable"}]

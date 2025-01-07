@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_message","internalType":"bytes","type":"bytes"}],"name":"calcFee","outputs":[{"name":"","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

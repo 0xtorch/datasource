@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"from_pubKey","internalType":"bytes","type":"bytes","indexed":false},{"name":"to_pubKey","internalType":"bytes","type":"bytes","indexed":false},{"name":"from_idx","internalType":"uint256","type":"uint256","indexed":false},{"name":"to_idx","internalType":"uint256","type":"uint256","indexed":false}],"name":"ValidatorsSwapped"}]

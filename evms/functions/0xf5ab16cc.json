@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_rewardToken","internalType":"address","type":"address"}],"name":"rewardTokens","outputs":[{"name":"","internalType":"bool","type":"bool"}],"stateMutability":"view"}]

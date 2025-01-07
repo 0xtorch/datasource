@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"tokenIdStart","internalType":"uint256","type":"uint256"},{"name":"tokenIdEnd","internalType":"uint256","type":"uint256"}],"name":"setSaleTokenIdRange","outputs":[],"stateMutability":"nonpayable"}]

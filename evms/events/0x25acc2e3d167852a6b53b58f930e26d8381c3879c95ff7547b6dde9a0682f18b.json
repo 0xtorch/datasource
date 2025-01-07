@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"oldSwapMining","internalType":"address","type":"address","indexed":true},{"name":"newSwapMining","internalType":"address","type":"address","indexed":true}],"name":"ChangeSwapMining"}]

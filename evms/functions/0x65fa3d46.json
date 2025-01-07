@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_gauge","internalType":"address","type":"address"},{"name":"_plus","internalType":"bool","type":"bool"},{"name":"_weight","internalType":"uint256","type":"uint256"},{"name":"_rewardPerDay","internalType":"uint256","type":"uint256"}],"name":"addGauge","outputs":[],"stateMutability":"nonpayable"}]

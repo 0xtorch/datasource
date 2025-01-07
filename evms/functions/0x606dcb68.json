@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_tokenBorderId","internalType":"uint8","type":"uint8"},{"name":"_addresses","internalType":"address[]","type":"address[]"}],"name":"devMintTokensToAddresses","outputs":[],"stateMutability":"nonpayable"}]

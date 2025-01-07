@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"name","internalType":"string","type":"string"},{"name":"symbol","internalType":"string","type":"string"},{"name":"nonce","internalType":"uint256","type":"uint256"}],"name":"createCollection","outputs":[{"name":"","internalType":"address","type":"address"}],"stateMutability":"nonpayable"}]

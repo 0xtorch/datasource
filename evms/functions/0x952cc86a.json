@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"vaultID","internalType":"uint256","type":"uint256"},{"name":"_front","internalType":"uint256","type":"uint256"}],"name":"liquidateVault","outputs":[],"stateMutability":"nonpayable"}]

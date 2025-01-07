@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"stageId_","internalType":"uint8","type":"uint8"},{"name":"limit_","internalType":"uint256","type":"uint256"}],"name":"updateBalanceLimit","outputs":[],"stateMutability":"nonpayable"}]

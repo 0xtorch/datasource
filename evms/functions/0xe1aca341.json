@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"","internalType":"address","type":"address"},{"name":"","internalType":"enum Token.Type","type":"uint8"},{"name":"","internalType":"uint256","type":"uint256"}],"name":"unstake","outputs":[],"stateMutability":"nonpayable"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_fromBatchNumber","internalType":"uint256","type":"uint256"},{"name":"_toBatchNumber","internalType":"uint256","type":"uint256"},{"name":"_l2LogsRootHashes","internalType":"bytes32[]","type":"bytes32[]"}],"name":"openRangeBatchRootHash","outputs":[],"stateMutability":"nonpayable"}]

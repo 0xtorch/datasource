@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_swapIds","internalType":"uint256[]","type":"uint256[]"},{"name":"_YPoolToken","internalType":"address","type":"address"},{"name":"signatures","internalType":"bytes[]","type":"bytes[]"}],"name":"batchClaim","outputs":[],"stateMutability":"nonpayable"}]

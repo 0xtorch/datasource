@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"s","internalType":"string","type":"string"}],"name":"fromHex","outputs":[{"name":"","internalType":"uint256","type":"uint256"}],"stateMutability":"pure"}]

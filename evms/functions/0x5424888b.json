@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"token","internalType":"address","type":"address"},{"name":"router","internalType":"address","type":"address"},{"name":"bridgeToken","internalType":"address","type":"address"}],"name":"setTokenBridgeForRouter","outputs":[],"stateMutability":"nonpayable"}]

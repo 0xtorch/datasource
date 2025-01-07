@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"ctx","internalType":"bytes","type":"bytes"},{"name":"appCreditUsedMore","internalType":"int256","type":"int256"}],"name":"ctxUseCredit","outputs":[{"name":"newCtx","internalType":"bytes","type":"bytes"}],"stateMutability":"nonpayable"}]

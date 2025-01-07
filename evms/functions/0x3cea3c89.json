@@ -1,0 +1,1 @@
+[{"type":"function","constant":true,"inputs":[{"name":"_deposit","internalType":"uint256","type":"uint256"}],"name":"viewProportionalDeposit","outputs":[{"name":"shellsToMint_","internalType":"uint256","type":"uint256"},{"name":"depositsToMake_","internalType":"uint256[]","type":"uint256[]"}],"payable":false,"stateMutability":"view"}]

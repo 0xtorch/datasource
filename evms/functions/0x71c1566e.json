@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_withdrawalHash","internalType":"bytes32","type":"bytes32"},{"name":"_proofSubmitter","internalType":"address","type":"address"}],"name":"checkWithdrawal","outputs":[],"stateMutability":"view"}]

@@ -1,0 +1,1 @@
+[{"type":"function","constant":true,"inputs":[{"name":"proposed","type":"address"},{"name":"ids","type":"uint256[]"}],"name":"ownsAll","outputs":[{"name":"","type":"bool"}],"payable":false,"stateMutability":"view"}]

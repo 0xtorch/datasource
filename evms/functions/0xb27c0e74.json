@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[],"name":"accrueInfo","outputs":[{"name":"lastAccrued","internalType":"uint64","type":"uint64"},{"name":"feesEarned","internalType":"uint128","type":"uint128"},{"name":"INTEREST_PER_SECOND","internalType":"uint64","type":"uint64"}],"stateMutability":"view"}]

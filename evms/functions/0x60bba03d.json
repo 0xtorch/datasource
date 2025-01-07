@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_team","internalType":"address","type":"address"},{"name":"_enabled","internalType":"bool","type":"bool"}],"name":"setTeamMember","outputs":[],"stateMutability":"nonpayable"}]

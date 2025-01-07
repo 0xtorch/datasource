@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"new_emergency_admin","type":"address","indexed":false}],"name":"EmergencyAdminChanged"}]

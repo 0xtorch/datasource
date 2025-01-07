@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_storeID","internalType":"string","type":"string"},{"name":"_feature","internalType":"string","type":"string"}],"name":"getFeatureStatus","outputs":[{"name":"","internalType":"bool","type":"bool"}],"stateMutability":"view"}]

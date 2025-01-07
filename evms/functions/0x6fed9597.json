@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"","internalType":"address","type":"address"}],"name":"distributionType","outputs":[{"name":"","internalType":"enum CvxDistribution.DistributType","type":"uint8"}],"stateMutability":"view"}]

@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"by","internalType":"address","type":"address","indexed":true},{"name":"tokenAddress","internalType":"address","type":"address","indexed":true},{"name":"totalTransfers","internalType":"uint256","type":"uint256","indexed":false}],"name":"NFTAirdrop"}]

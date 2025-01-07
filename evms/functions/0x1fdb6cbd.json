@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"strikeId","internalType":"uint256","type":"uint256"}],"name":"getSettlementParameters","outputs":[{"name":"strikePrice","internalType":"uint256","type":"uint256"},{"name":"priceAtExpiry","internalType":"uint256","type":"uint256"},{"name":"strikeToBaseReturned","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

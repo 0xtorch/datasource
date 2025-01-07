@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"account","internalType":"address","type":"address"}],"name":"getBalanceSummary","outputs":[{"name":"totalBalance","internalType":"uint256","type":"uint256"},{"name":"holdingBalance","internalType":"uint256","type":"uint256"},{"name":"totalRewards","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

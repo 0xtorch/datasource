@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"","internalType":"uint256","type":"uint256"}],"name":"rewardPoolInfo","outputs":[{"name":"rewardToken","internalType":"address","type":"address"},{"name":"rewardPerBlock","internalType":"uint256","type":"uint256"},{"name":"totalPaidRewards","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"deltaBinA","internalType":"int24","type":"int24","indexed":false},{"name":"deltaBinB","internalType":"int24","type":"int24","indexed":false}],"name":"DeltaBinsSet"}]

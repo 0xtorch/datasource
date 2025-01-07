@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"airdropId","internalType":"uint256","type":"uint256"},{"name":"tokenId","internalType":"uint256","type":"uint256"}],"name":"isClaimable","outputs":[{"name":"","internalType":"bool","type":"bool"}],"stateMutability":"view"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"index","internalType":"uint256","type":"uint256"},{"name":"epoch","internalType":"uint256","type":"uint256"}],"name":"isClaimed","outputs":[{"name":"","internalType":"bool","type":"bool"}],"stateMutability":"view"}]

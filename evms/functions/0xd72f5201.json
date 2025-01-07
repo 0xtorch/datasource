@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_delegationManager","internalType":"contract IDelegateManagerCommon","type":"address"},{"name":"_newId","internalType":"bytes32","type":"bytes32"}],"name":"setVoterParams","outputs":[],"stateMutability":"nonpayable"}]

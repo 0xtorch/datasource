@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"addresses","internalType":"address[]","type":"address[]"}],"name":"safeMint_batch","outputs":[],"stateMutability":"nonpayable"}]

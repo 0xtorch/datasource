@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"delegateAddress","internalType":"address","type":"address"},{"name":"delegateHandle","internalType":"string","type":"string"},{"name":"percentage","internalType":"uint256","type":"uint256"}],"name":"addDelegateException","outputs":[],"stateMutability":"nonpayable"}]

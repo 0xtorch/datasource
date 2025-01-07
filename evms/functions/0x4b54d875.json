@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"receiveCalls","internalType":"struct ICCTPRelayer.ReceiveCall[]","type":"tuple[]","components":[{"name":"message","internalType":"bytes","type":"bytes"},{"name":"attestation","internalType":"bytes","type":"bytes"}]}],"name":"batchReceiveMessage","outputs":[],"stateMutability":"nonpayable"}]

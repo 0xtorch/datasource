@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"avatar_","internalType":"contract Avatar","type":"address"}],"name":"setAvatarContract","outputs":[],"stateMutability":"nonpayable"}]

@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"minCliffSeconds","internalType":"uint48","type":"uint48","indexed":false},{"name":"maxCliffSeconds","internalType":"uint48","type":"uint48","indexed":false}],"name":"EventCliffUpdated"}]

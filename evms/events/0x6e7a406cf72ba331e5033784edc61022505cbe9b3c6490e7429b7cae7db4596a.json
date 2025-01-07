@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"isDepositEnabled","internalType":"bool","type":"bool","indexed":false},{"name":"cap","internalType":"uint256","type":"uint256","indexed":false},{"name":"pokeInterval","internalType":"uint256","type":"uint256","indexed":false},{"name":"isKeeperOnly","internalType":"bool","type":"bool","indexed":false}],"name":"ParametersSet"}]

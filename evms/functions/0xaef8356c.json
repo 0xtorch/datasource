@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_index","internalType":"uint256","type":"uint256"},{"name":"_blpAmount","internalType":"uint256","type":"uint256"},{"name":"_ticketSize","internalType":"uint256","type":"uint256"},{"name":"_allocation","internalType":"uint256","type":"uint256"}],"name":"updateTier","outputs":[],"stateMutability":"nonpayable"}]

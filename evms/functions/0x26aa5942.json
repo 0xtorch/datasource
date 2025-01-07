@@ -1,0 +1,1 @@
+[{"type":"function","constant":true,"inputs":[{"name":"_tokenId","type":"uint256"}],"name":"determineSaleValues","outputs":[{"name":"_sellerTotal","type":"uint256"},{"name":"_platformFee","type":"uint256"},{"name":"_royaltyFee","type":"uint256"}],"payable":false,"stateMutability":"view"}]

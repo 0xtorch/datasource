@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"","internalType":"enum BridgeTransferLib.BridgeSendType","type":"uint8"}],"name":"bridges","outputs":[{"name":"","internalType":"address","type":"address"}],"stateMutability":"view"}]

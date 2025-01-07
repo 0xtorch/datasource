@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_caveId","internalType":"uint256","type":"uint256"},{"name":"_allocPoint","internalType":"uint256","type":"uint256"},{"name":"_bossBattlePower","internalType":"uint256","type":"uint256"},{"name":"_withUpdate","internalType":"bool","type":"bool"}],"name":"add","outputs":[],"stateMutability":"nonpayable"}]

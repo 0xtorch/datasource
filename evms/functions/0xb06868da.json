@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"frameId","internalType":"uint16","type":"uint16"},{"name":"colors","internalType":"uint8[]","type":"uint8[]"}],"name":"permutationIsAvailable","outputs":[{"name":"isAvailable","internalType":"bool","type":"bool"}],"stateMutability":"view"}]

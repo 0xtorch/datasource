@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"bondID","internalType":"bytes32","type":"bytes32","indexed":true},{"name":"isAcceptable","internalType":"bool","type":"bool","indexed":false}],"name":"LogIsAcceptableSBT"}]

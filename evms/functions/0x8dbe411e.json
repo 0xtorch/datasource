@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"earlyRepay","internalType":"bool","type":"bool"},{"name":"poolHash","internalType":"bytes32","type":"bytes32"}],"name":"setEarlyRepay","outputs":[],"stateMutability":"nonpayable"}]

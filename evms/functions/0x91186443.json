@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_bidLockupPeriod","internalType":"uint256","type":"uint256"}],"name":"updateBidLockupPeriod","outputs":[],"stateMutability":"nonpayable"}]

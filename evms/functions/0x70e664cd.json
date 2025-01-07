@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_relock","internalType":"bool","type":"bool"},{"name":"_spendRatio","internalType":"uint256","type":"uint256"},{"name":"_withdrawTo","internalType":"address","type":"address"}],"name":"processExpiredLocks","outputs":[],"stateMutability":"nonpayable"}]

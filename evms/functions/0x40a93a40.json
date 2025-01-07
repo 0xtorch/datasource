@@ -1,0 +1,1 @@
+[{"type":"function","constant":false,"inputs":[{"name":"_depositRewardDistributor","internalType":"address","type":"address"}],"name":"setDepositRewardDistributor","outputs":[],"payable":false,"stateMutability":"nonpayable"}]

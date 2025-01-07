@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"oldDefaultERC20Gateway","internalType":"address","type":"address","indexed":true},{"name":"newDefaultERC20Gateway","internalType":"address","type":"address","indexed":true}],"name":"SetDefaultERC20Gateway"}]

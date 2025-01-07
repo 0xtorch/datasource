@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"petId","internalType":"uint256","type":"uint256","indexed":true},{"name":"genes1","internalType":"uint256","type":"uint256","indexed":false},{"name":"genes2","internalType":"uint256","type":"uint256","indexed":false}],"name":"PAPAEvolved"}]

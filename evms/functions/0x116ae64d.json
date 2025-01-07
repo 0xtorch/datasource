@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[],"name":"saleDates","outputs":[{"name":"dropDateTimestamp","internalType":"uint256","type":"uint256"},{"name":"endDateTimestamp","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

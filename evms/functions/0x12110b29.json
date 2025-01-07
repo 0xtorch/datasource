@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"tba","internalType":"address","type":"address"}],"name":"isTbaRegisteredAgent","outputs":[{"name":"isRegistered","internalType":"bool","type":"bool"}],"stateMutability":"view"}]

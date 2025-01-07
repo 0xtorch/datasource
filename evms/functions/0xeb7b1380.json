@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"tokenId","internalType":"uint256","type":"uint256"},{"name":"seed","internalType":"struct IISBStaticData.Status","type":"tuple","components":[{"name":"statusId","internalType":"uint256","type":"uint256"},{"name":"status","internalType":"uint16","type":"uint16"}]}],"name":"addSeed","outputs":[],"stateMutability":"nonpayable"}]

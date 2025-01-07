@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_legionGeneration","internalType":"uint256","type":"uint256"},{"name":"_legionRarity","internalType":"uint256","type":"uint256"}],"name":"getLegionBoost","outputs":[{"name":"","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

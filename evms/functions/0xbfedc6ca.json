@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"adminAddress","internalType":"address","type":"address"},{"name":"access","internalType":"bool","type":"bool"}],"name":"adjustAdminAccess","outputs":[],"stateMutability":"nonpayable"}]

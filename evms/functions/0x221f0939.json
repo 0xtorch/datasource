@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"subaccount","internalType":"bytes32","type":"bytes32"},{"name":"productId","internalType":"uint32","type":"uint32"},{"name":"amount","internalType":"uint128","type":"uint128"},{"name":"referralCode","internalType":"string","type":"string"}],"name":"depositCollateralWithReferral","outputs":[],"stateMutability":"nonpayable"}]

@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"platform","internalType":"address","type":"address","indexed":true},{"name":"signer","internalType":"address","type":"address","indexed":false}],"name":"PlatformSignerSet"}]

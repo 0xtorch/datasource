@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"oldJoetroller","internalType":"contract JoetrollerInterface","type":"address","indexed":false},{"name":"newJoetroller","internalType":"contract JoetrollerInterface","type":"address","indexed":false}],"name":"NewJoetroller"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_shortsTracker","internalType":"contract IShortsTracker","type":"address"}],"name":"setShortsTracker","outputs":[],"stateMutability":"nonpayable"}]

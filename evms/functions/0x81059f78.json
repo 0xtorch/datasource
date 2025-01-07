@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[],"name":"priceInfo","outputs":[{"name":"token","internalType":"address","type":"address"},{"name":"price","internalType":"uint256","type":"uint256"},{"name":"billingType","internalType":"enum ICheckouter.BillingType","type":"uint8"}],"stateMutability":"view"}]

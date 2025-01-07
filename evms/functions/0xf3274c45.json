@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"spender","internalType":"address","type":"address"},{"name":"amount","internalType":"uint256","type":"uint256"}],"name":"approveMR","outputs":[],"stateMutability":"nonpayable"}]

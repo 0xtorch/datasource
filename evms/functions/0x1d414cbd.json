@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"airnode","internalType":"address","type":"address"},{"name":"sponsorWallet","internalType":"address","type":"address"}],"name":"requestWithdrawal","outputs":[],"stateMutability":"nonpayable"}]

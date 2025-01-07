@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"orderId","internalType":"uint256","type":"uint256"},{"name":"addressArray","internalType":"address[]","type":"address[]"},{"name":"maxPurchaseAmountArray","internalType":"uint256[]","type":"uint256[]"}],"name":"updateWhitelist","outputs":[],"stateMutability":"nonpayable"}]

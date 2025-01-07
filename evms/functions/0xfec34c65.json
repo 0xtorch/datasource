@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_chainId","internalType":"uint256","type":"uint256"},{"name":"_layerZeroChainId","internalType":"uint16","type":"uint16"}],"name":"setOFTLayerZeroChainId","outputs":[],"stateMutability":"nonpayable"}]

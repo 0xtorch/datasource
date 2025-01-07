@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"token","internalType":"contract ISuperfluidToken","type":"address"},{"name":"account","internalType":"address","type":"address"}],"name":"getNetFlow","outputs":[{"name":"flowRate","internalType":"int96","type":"int96"}],"stateMutability":"view"}]

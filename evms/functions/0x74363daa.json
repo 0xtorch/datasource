@@ -1,0 +1,1 @@
+[{"type":"function","constant":true,"inputs":[{"name":"_user","internalType":"address","type":"address"}],"name":"getStakingAmount","outputs":[{"name":"","internalType":"uint256","type":"uint256"}],"payable":false,"stateMutability":"view"}]

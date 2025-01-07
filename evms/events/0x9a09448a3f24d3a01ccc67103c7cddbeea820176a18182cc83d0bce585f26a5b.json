@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"expirationDuration","internalType":"uint256","type":"uint256","indexed":false},{"name":"maxNumberOfKeys","internalType":"uint256","type":"uint256","indexed":false},{"name":"maxKeysPerAcccount","internalType":"uint256","type":"uint256","indexed":false}],"name":"LockConfig"}]

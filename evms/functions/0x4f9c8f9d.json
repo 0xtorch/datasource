@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[],"name":"getOracleY","outputs":[{"name":"oracleY","internalType":"contract IAggregatorV3","type":"address"}],"stateMutability":"pure"}]

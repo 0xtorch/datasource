@@ -1,0 +1,1 @@
+[{"type":"function","constant":false,"inputs":[{"name":"batchReceivers","type":"address[]"},{"name":"batchAmounts","type":"uint256[]"}],"name":"batchDistributeWithAmount","outputs":[],"payable":false,"stateMutability":"nonpayable"}]

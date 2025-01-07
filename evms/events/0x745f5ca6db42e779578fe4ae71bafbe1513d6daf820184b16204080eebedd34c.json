@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"loanReceiptHash","internalType":"bytes32","type":"bytes32","indexed":true},{"name":"proceeds","internalType":"uint256","type":"uint256","indexed":false},{"name":"borrowerProceeds","internalType":"uint256","type":"uint256","indexed":false}],"name":"CollateralLiquidated"}]

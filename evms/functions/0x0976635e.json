@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_buffer","internalType":"uint256","type":"uint256"}],"name":"mySlotStatus","outputs":[{"name":"","internalType":"enum LibConcurrentCanExec.SlotStatus","type":"uint8"}],"stateMutability":"view"}]

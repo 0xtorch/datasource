@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[],"name":"getMainnetBridge","outputs":[{"name":"mainnetBridge","internalType":"contract IMainnetBridge","type":"address"}],"stateMutability":"view"}]

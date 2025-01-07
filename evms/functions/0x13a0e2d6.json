@@ -1,0 +1,1 @@
+[{"type":"function","gas":77323,"inputs":[{"name":"_to","type":"address"},{"name":"_value","type":"uint256"}],"name":"manager_burn","outputs":[{"name":"","type":"bool"}],"stateMutability":"nonpayable"}]

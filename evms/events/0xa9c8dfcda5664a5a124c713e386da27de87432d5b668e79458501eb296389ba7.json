@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"tokenId","type":"uint256","indexed":false},{"name":"startingPrice","type":"uint256","indexed":false},{"name":"endingPrice","type":"uint256","indexed":false},{"name":"duration","type":"uint256","indexed":false}],"name":"AuctionCreated"}]

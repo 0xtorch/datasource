@@ -1,0 +1,1 @@
+[{"type":"function","constant":true,"inputs":[],"name":"totalNonSnxBackedDebt","outputs":[{"name":"excludedDebt","internalType":"uint256","type":"uint256"},{"name":"isInvalid","internalType":"bool","type":"bool"}],"payable":false,"stateMutability":"view"}]

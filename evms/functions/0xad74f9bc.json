@@ -1,0 +1,1 @@
+[{"type":"function","constant":true,"inputs":[{"name":"attoTokensBought","type":"uint256"}],"name":"calculateCurrentPrice","outputs":[{"name":"result","type":"uint256"}],"payable":false,"stateMutability":"view"}]

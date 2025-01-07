@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"account","internalType":"address","type":"address"},{"name":"encodedData","internalType":"bytes","type":"bytes"}],"name":"depositWithPermit","outputs":[],"stateMutability":"payable"}]

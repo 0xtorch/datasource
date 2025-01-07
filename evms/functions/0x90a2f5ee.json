@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"newDisableTransferPeriod","internalType":"uint256","type":"uint256"}],"name":"setDisableTransferPeriod","outputs":[],"stateMutability":"nonpayable"}]

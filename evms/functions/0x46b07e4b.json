@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"maxPerTxnAllowlist_","internalType":"uint256","type":"uint256"}],"name":"setMaxPerTxnAllowlist","outputs":[],"stateMutability":"nonpayable"}]

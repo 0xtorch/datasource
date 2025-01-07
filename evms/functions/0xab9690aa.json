@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[],"name":"globalFundingRateSample","outputs":[{"name":"lastAdjustFundingRateTime","internalType":"uint64","type":"uint64"},{"name":"sampleCount","internalType":"uint16","type":"uint16"},{"name":"cumulativePremiumRateX96","internalType":"int176","type":"int176"}],"stateMutability":"view"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_lpToken","internalType":"address","type":"address"},{"name":"mainRewardToken","internalType":"address","type":"address"}],"name":"createRewarder","outputs":[{"name":"","internalType":"address","type":"address"}],"stateMutability":"nonpayable"}]

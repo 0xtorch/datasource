@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"minter","internalType":"address","type":"address"}],"name":"getMintStats","outputs":[{"name":"minterNumMinted","internalType":"uint256","type":"uint256"},{"name":"currentTotalSupply","internalType":"uint256","type":"uint256"},{"name":"maxSupply","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_token","internalType":"address","type":"address"},{"name":"_canStake","internalType":"bool","type":"bool"}],"name":"setStakable","outputs":[],"stateMutability":"nonpayable"}]

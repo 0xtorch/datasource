@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_token","internalType":"contract IERC20Token","type":"address"},{"name":"_weight","internalType":"uint32","type":"uint32"}],"name":"addReserve","outputs":[],"stateMutability":"nonpayable"}]

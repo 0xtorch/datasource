@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"newRobinHoodWallet","internalType":"address","type":"address"}],"name":"changeRobinHoodWallet","outputs":[{"name":"","internalType":"bool","type":"bool"}],"stateMutability":"nonpayable"}]

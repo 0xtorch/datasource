@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"sourceImplementation","internalType":"bytes","type":"bytes","indexed":true},{"name":"chainIdentifier","internalType":"bytes32","type":"bytes32","indexed":false},{"name":"messageIdentifier","internalType":"bytes32","type":"bytes32","indexed":true}],"name":"MessageDelivered"}]

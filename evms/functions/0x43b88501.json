@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"amtforpresale","internalType":"uint256","type":"uint256"},{"name":"tokensperBNB","internalType":"uint256","type":"uint256"},{"name":"maxbuyper","internalType":"uint256","type":"uint256"},{"name":"maxtotalbuy","internalType":"uint256","type":"uint256"}],"name":"setupRound2","outputs":[],"stateMutability":"nonpayable"}]

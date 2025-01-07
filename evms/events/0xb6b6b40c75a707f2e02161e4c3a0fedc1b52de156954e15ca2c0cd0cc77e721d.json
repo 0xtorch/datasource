@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"currentSegment","internalType":"uint64","type":"uint64","indexed":false},{"name":"winnerCount","internalType":"uint64","type":"uint64","indexed":false},{"name":"depositRoundInterestSharePercentage","internalType":"uint64","type":"uint64","indexed":false}],"name":"EmergencyWithdrawalEnabled"}]

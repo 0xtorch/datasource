@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_contract","internalType":"address","type":"address"},{"name":"_organization","internalType":"string","type":"string"}],"name":"addTrustedContract","outputs":[],"stateMutability":"nonpayable"}]

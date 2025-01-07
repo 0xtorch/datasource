@@ -1,0 +1,1 @@
+[{"type":"function","constant":true,"inputs":[{"name":"fromAssetHash","internalType":"address","type":"address"}],"name":"getBalanceFor","outputs":[{"name":"","internalType":"uint256","type":"uint256"}],"payable":false,"stateMutability":"view"}]

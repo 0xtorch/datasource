@@ -1,0 +1,1 @@
+[{"type":"function","constant":false,"inputs":[{"name":"blockIndices","internalType":"uint256[]","type":"uint256[]"},{"name":"proofs","internalType":"uint256[]","type":"uint256[]"}],"name":"verifyBlocks","outputs":[],"payable":false,"stateMutability":"nonpayable"}]

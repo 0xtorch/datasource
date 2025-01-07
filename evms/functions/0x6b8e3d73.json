@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"delegatee","internalType":"address","type":"address"},{"name":"token","internalType":"address","type":"address"}],"name":"delegatedBalances","outputs":[{"name":"delegatedBalance","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

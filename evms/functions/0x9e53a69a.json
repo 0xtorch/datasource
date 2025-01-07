@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"orderNonces","internalType":"uint256[]","type":"uint256[]"}],"name":"cancelMultipleMakerOrders","outputs":[],"stateMutability":"nonpayable"}]

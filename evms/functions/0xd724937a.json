@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[],"name":"getReviewAdmins","outputs":[{"name":"reviewAdmins_","internalType":"address[]","type":"address[]"}],"stateMutability":"view"}]

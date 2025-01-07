@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_nativeChainId","internalType":"uint16","type":"uint16"},{"name":"_nativeContract","internalType":"address","type":"address"},{"name":"_wrapper","internalType":"address","type":"address"}],"name":"setWrappedAsset","outputs":[],"stateMutability":"nonpayable"}]

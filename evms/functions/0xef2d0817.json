@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"","internalType":"bytes","type":"bytes"},{"name":"rawReceipt","internalType":"bytes","type":"bytes"},{"name":"proofSignature","internalType":"bytes","type":"bytes"}],"name":"withdrawFromBridge","outputs":[],"stateMutability":"nonpayable"}]

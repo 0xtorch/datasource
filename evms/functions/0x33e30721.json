@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"data_","internalType":"struct AMBMessage","type":"tuple","components":[{"name":"txInfo","internalType":"uint256","type":"uint256"},{"name":"params","internalType":"bytes","type":"bytes"}]}],"name":"stateSync","outputs":[{"name":"srcChainId_","internalType":"uint64","type":"uint64"}],"stateMutability":"nonpayable"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"colorIds","internalType":"uint256[]","type":"uint256[]"},{"name":"nums","internalType":"uint256[]","type":"uint256[]"},{"name":"amountMax","internalType":"uint256","type":"uint256"},{"name":"merkleProofMax","internalType":"bytes32[]","type":"bytes32[]"}],"name":"PUBLIC_mint","outputs":[],"stateMutability":"payable"}]

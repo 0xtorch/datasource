@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"gfi","internalType":"uint256","type":"uint256"},{"name":"capital","internalType":"uint256","type":"uint256"}],"name":"calculateMembershipScore","outputs":[{"name":"","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

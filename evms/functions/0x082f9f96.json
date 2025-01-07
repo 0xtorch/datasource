@@ -1,0 +1,1 @@
+[{"type":"function","constant":false,"inputs":[{"name":"_packId","type":"uint256"},{"name":"_mId","type":"uint256"},{"name":"_amount","type":"uint256"},{"name":"_price","type":"uint256"}],"name":"setSinglePack","outputs":[],"payable":false,"stateMutability":"nonpayable"}]

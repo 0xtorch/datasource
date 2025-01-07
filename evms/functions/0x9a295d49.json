@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_app","internalType":"address","type":"address"},{"name":"_appDefaultMode","internalType":"uint256","type":"uint256"},{"name":"_toChainIDs","internalType":"uint256[]","type":"uint256[]"},{"name":"_appCustomModes","internalType":"uint256[]","type":"uint256[]"}],"name":"setAppModes","outputs":[],"stateMutability":"nonpayable"}]

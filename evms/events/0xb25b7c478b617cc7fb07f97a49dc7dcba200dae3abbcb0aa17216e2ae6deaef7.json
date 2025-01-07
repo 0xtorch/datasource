@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"minimumAskPrice","internalType":"uint256","type":"uint256","indexed":false},{"name":"maximumAskPrice","internalType":"uint256","type":"uint256","indexed":false}],"name":"NewMinimumAndMaximumAskPrices"}]

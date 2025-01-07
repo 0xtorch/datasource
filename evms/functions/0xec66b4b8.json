@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_sweeper","internalType":"address","type":"address"},{"name":"_allowed","internalType":"bool","type":"bool"}],"name":"setAllowedBridgeSweeper","outputs":[],"stateMutability":"nonpayable"}]

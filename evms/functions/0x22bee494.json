@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"target","internalType":"address","type":"address"},{"name":"message","internalType":"bytes","type":"bytes"}],"name":"forwardCall","outputs":[{"name":"returnData","internalType":"bytes","type":"bytes"}],"stateMutability":"payable"}]

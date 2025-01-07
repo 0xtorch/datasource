@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_pools","internalType":"contract IPool[]","type":"address[]"},{"name":"_rewardsPerSecond","internalType":"uint128[]","type":"uint128[]"}],"name":"setPoolsReward","outputs":[],"stateMutability":"nonpayable"}]

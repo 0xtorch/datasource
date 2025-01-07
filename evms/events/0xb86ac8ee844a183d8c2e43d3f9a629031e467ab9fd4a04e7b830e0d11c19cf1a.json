@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"id","internalType":"uint256","type":"uint256","indexed":true},{"name":"startTimestamp_","internalType":"uint64","type":"uint64","indexed":false},{"name":"endTimestamp_","internalType":"uint64","type":"uint64","indexed":false},{"name":"name_","internalType":"string","type":"string","indexed":false}],"name":"RewardPoolCreated"}]

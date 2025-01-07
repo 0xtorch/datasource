@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_easyLevel","internalType":"uint8","type":"uint8"},{"name":"_mediumLevel","internalType":"uint8","type":"uint8"},{"name":"_hardLevel","internalType":"uint8","type":"uint8"}],"name":"setLevelDifficultyUnlocks","outputs":[],"stateMutability":"nonpayable"}]

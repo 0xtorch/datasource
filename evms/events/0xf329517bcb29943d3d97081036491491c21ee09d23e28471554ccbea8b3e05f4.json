@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"birdId","internalType":"uint256","type":"uint256","indexed":true},{"name":"user","internalType":"address","type":"address","indexed":false},{"name":"speciesName","internalType":"string","type":"string","indexed":false}],"name":"BirdIdentification"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"borrower","internalType":"address","type":"address"}],"name":"clearBadDebt","outputs":[],"stateMutability":"nonpayable"}]

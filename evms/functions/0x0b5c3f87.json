@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_sender","internalType":"address","type":"address"},{"name":"_recipient","internalType":"address","type":"address"}],"name":"addReferral","outputs":[],"stateMutability":"nonpayable"}]

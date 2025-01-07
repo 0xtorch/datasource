@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"etherId","internalType":"bytes6","type":"bytes6"}],"name":"joinEther","outputs":[{"name":"ethTransferred","internalType":"uint256","type":"uint256"}],"stateMutability":"payable"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_tos","internalType":"address[]","type":"address[]"},{"name":"_id","internalType":"uint256","type":"uint256"},{"name":"_amounts","internalType":"uint256[]","type":"uint256[]"}],"name":"airdropMint","outputs":[],"stateMutability":"nonpayable"}]

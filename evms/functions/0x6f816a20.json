@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_tokenVote","internalType":"address[]","type":"address[]"},{"name":"_weights","internalType":"uint256[]","type":"uint256[]"}],"name":"vote","outputs":[],"stateMutability":"nonpayable"}]

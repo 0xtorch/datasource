@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"","internalType":"enum ToadEyes","type":"uint8"}],"name":"eyesToPNG","outputs":[{"name":"","internalType":"string","type":"string"}],"stateMutability":"view"}]

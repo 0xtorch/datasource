@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"bonder","internalType":"address","type":"address"}],"name":"getCredit","outputs":[{"name":"","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

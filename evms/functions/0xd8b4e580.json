@@ -1,0 +1,1 @@
+[{"type":"function","constant":false,"inputs":[{"name":"recipients","type":"address[]"},{"name":"balances","type":"uint256[]"}],"name":"uploadBalances","outputs":[],"payable":false,"stateMutability":"nonpayable"}]

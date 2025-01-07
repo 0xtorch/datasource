@@ -1,0 +1,1 @@
+[{"type":"function","constant":false,"inputs":[{"name":"candidate","internalType":"address","type":"address"}],"name":"emergencyCommit","outputs":[],"payable":false,"stateMutability":"nonpayable"}]

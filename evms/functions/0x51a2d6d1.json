@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[],"name":"withdrawQueue","outputs":[{"name":"","internalType":"contract IWithdrawQueue","type":"address"}],"stateMutability":"view"}]

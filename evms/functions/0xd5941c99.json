@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"","internalType":"bytes32","type":"bytes32"}],"name":"requestTypes","outputs":[{"name":"destination","internalType":"address","type":"address"},{"name":"functionSignature","internalType":"bytes4","type":"bytes4"}],"stateMutability":"view"}]

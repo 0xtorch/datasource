@@ -1,0 +1,1 @@
+[{"type":"function","constant":false,"inputs":[{"name":"_spender","type":"address"},{"name":"_currentValue","type":"uint256"},{"name":"_value","type":"uint256"}],"name":"approve_fixed","outputs":[{"name":"success","type":"bool"}],"payable":false,"stateMutability":"nonpayable"}]

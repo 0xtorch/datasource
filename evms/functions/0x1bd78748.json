@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"","internalType":"uint256","type":"uint256"}],"name":"affiliates","outputs":[{"name":"affiliate","internalType":"address","type":"address"},{"name":"isActive","internalType":"bool","type":"bool"}],"stateMutability":"view"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"transferLockOverride","internalType":"bool","type":"bool"}],"name":"setTransferLockOverride","outputs":[],"stateMutability":"nonpayable"}]

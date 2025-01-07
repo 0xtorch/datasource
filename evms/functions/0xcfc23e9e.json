@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"pairIndex","internalType":"uint256","type":"uint256"}],"name":"getOnePercentDepthAbove","outputs":[{"name":"","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

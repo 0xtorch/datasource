@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[],"name":"getThreshold","outputs":[{"name":"num_","internalType":"uint256","type":"uint256"},{"name":"denom_","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

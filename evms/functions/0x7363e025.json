@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"versionId","internalType":"uint256","type":"uint256"},{"name":"amount","internalType":"uint256","type":"uint256"}],"name":"claimMoonKnight","outputs":[],"stateMutability":"payable"}]

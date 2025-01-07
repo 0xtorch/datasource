@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_freeRoot","internalType":"bytes32","type":"bytes32"},{"name":"_firstRoot","internalType":"bytes32","type":"bytes32"},{"name":"_secondRoot","internalType":"bytes32","type":"bytes32"}],"name":"setSaleRoots","outputs":[],"stateMutability":"nonpayable"}]

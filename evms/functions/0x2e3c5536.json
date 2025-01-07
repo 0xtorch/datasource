@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"slot_","internalType":"uint256","type":"uint256"},{"name":"interestRate_","internalType":"int32","type":"int32"}],"name":"setInterestRateOnlySupervisor","outputs":[],"stateMutability":"nonpayable"}]

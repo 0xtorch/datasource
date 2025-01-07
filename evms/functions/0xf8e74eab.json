@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_name","internalType":"string","type":"string"},{"name":"_desc","internalType":"string","type":"string"},{"name":"_size","internalType":"uint16","type":"uint16"},{"name":"_blocksTokenIds","internalType":"uint256[]","type":"uint256[]"}],"name":"mintPanel","outputs":[],"stateMutability":"payable"}]

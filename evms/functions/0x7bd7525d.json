@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"","internalType":"uint256","type":"uint256"}],"name":"Bazaar","outputs":[{"name":"tokenId","internalType":"uint256","type":"uint256"},{"name":"price","internalType":"uint256","type":"uint256"},{"name":"state","internalType":"enum ERC721.TokenState","type":"uint8"}],"stateMutability":"view"}]

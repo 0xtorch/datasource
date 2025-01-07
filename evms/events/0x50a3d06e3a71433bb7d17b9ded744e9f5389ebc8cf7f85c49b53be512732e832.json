@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"_editionId","internalType":"uint256","type":"uint256","indexed":true},{"name":"_oldValue","internalType":"bool","type":"bool","indexed":false},{"name":"_newValue","internalType":"bool","type":"bool","indexed":false}],"name":"EditionSalesDisabledToggled"}]

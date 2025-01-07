@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"gmAmount","internalType":"uint256","type":"uint256"},{"name":"minLongTokenAmount","internalType":"uint256","type":"uint256"},{"name":"minShortTokenAmount","internalType":"uint256","type":"uint256"},{"name":"executionFee","internalType":"uint256","type":"uint256"}],"name":"withdrawAvaxUsdcGmxV2","outputs":[],"stateMutability":"payable"}]

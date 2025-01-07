@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"lookupTimestamp","internalType":"uint40","type":"uint40"}],"name":"getOracleSampleAt","outputs":[{"name":"cumulativeId","internalType":"uint64","type":"uint64"},{"name":"cumulativeVolatility","internalType":"uint64","type":"uint64"},{"name":"cumulativeBinCrossed","internalType":"uint64","type":"uint64"}],"stateMutability":"view"}]

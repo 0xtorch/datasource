@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[],"name":"getCurrentMaxPayableMintBatch","outputs":[{"name":"_currentMaxaPaybleMintBatch","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

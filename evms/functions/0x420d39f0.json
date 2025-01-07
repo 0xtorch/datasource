@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_maxAmountPerTx","internalType":"uint256","type":"uint256"},{"name":"_maxAmountPerAccount","internalType":"uint256","type":"uint256"}],"name":"setLimitConfig","outputs":[],"stateMutability":"nonpayable"}]

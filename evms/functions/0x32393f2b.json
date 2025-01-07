@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"airnode","internalType":"address","type":"address"},{"name":"endpointId","internalType":"bytes32","type":"bytes32"},{"name":"parameters","internalType":"bytes","type":"bytes"}],"name":"createTemplate","outputs":[{"name":"templateId","internalType":"bytes32","type":"bytes32"}],"stateMutability":"nonpayable"}]

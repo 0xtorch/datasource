@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"auctionId","internalType":"uint256","type":"uint256"},{"name":"amount","internalType":"uint256","type":"uint256"}],"name":"placeBidOf","outputs":[],"stateMutability":"payable"}]

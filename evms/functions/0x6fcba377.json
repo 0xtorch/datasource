@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_ecdPtpIncentive","internalType":"uint256","type":"uint256"},{"name":"_ecdLockedIncentive","internalType":"uint256","type":"uint256"},{"name":"_callerFees","internalType":"uint256","type":"uint256"},{"name":"_platform","internalType":"uint256","type":"uint256"}],"name":"setFees","outputs":[],"stateMutability":"nonpayable"}]

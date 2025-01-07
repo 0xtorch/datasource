@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"minMultiplierRate","internalType":"uint256","type":"uint256","indexed":false},{"name":"maxMultiplierRate","internalType":"uint256","type":"uint256","indexed":false},{"name":"groupId","internalType":"uint256","type":"uint256","indexed":false}],"name":"MultiplierUpdated"}]

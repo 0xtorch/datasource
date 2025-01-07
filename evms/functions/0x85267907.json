@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"dropId","internalType":"uint256","type":"uint256"},{"name":"signer","internalType":"address","type":"address"}],"name":"setSigner","outputs":[],"stateMutability":"nonpayable"}]

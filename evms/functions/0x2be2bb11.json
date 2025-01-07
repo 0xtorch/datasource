@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"account","internalType":"address","type":"address"},{"name":"snapshotId","internalType":"uint256","type":"uint256"}],"name":"claimableRevenue","outputs":[{"name":"","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

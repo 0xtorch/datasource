@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"dstWormholeChainId","internalType":"uint16","type":"uint16"},{"name":"baseGas","internalType":"uint256","type":"uint256"},{"name":"gasPerBytes","internalType":"uint256","type":"uint256"}],"name":"setWormholeGas","outputs":[],"stateMutability":"nonpayable"}]

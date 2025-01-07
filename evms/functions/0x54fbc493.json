@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"newFactory","internalType":"contract ISuperTokenFactory","type":"address"}],"name":"updateSuperTokenFactory","outputs":[],"stateMutability":"nonpayable"}]

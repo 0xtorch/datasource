@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"borrower","internalType":"address","type":"address","indexed":true},{"name":"creditLine","internalType":"address","type":"address","indexed":true}],"name":"CreditLineCreated"}]

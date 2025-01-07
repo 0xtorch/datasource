@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"requestID","internalType":"bytes32","type":"bytes32"}],"name":"isRequestFulfilled","outputs":[{"name":"","internalType":"bool","type":"bool"}],"stateMutability":"view"}]

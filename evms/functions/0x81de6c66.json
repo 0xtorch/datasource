@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_currencyId","internalType":"string","type":"string"},{"name":"_tokenAddress","internalType":"address","type":"address"},{"name":"_feeRate","internalType":"uint256","type":"uint256"}],"name":"setTokenFee","outputs":[],"stateMutability":"nonpayable"}]

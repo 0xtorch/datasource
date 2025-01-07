@@ -1,0 +1,1 @@
+[{"type":"function","constant":true,"inputs":[],"name":"getRegisteredAvailabilityVerifiers","outputs":[{"name":"_verifers","internalType":"address[]","type":"address[]"}],"payable":false,"stateMutability":"view"}]

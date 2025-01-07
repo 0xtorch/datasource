@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"staker","internalType":"address","type":"address"},{"name":"strategies","internalType":"contract IStrategy[]","type":"address[]"},{"name":"shares","internalType":"uint256[]","type":"uint256[]"}],"name":"decreaseDelegatedShares","outputs":[],"stateMutability":"nonpayable"}]

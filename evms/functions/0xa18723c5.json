@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[],"name":"getRaffles","outputs":[{"name":"raffles_","internalType":"struct RafflesContract.RaffleIO[]","type":"tuple[]","components":[{"name":"raffleId","internalType":"uint256","type":"uint256"},{"name":"raffleEnd","internalType":"uint256","type":"uint256"},{"name":"isOpen","internalType":"bool","type":"bool"}]}],"stateMutability":"view"}]

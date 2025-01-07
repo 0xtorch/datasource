@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"orderId","internalType":"uint256[]","type":"uint256[]"},{"name":"floatAmount","internalType":"uint256[]","type":"uint256[]"},{"name":"signature","internalType":"bytes[]","type":"bytes[]"}],"name":"batchClaim","outputs":[],"stateMutability":"nonpayable"}]

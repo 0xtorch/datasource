@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"ballotIndex","internalType":"uint256","type":"uint256"},{"name":"squareId","internalType":"uint256","type":"uint256"}],"name":"hasNFTVoted","outputs":[{"name":"","internalType":"bool","type":"bool"}],"stateMutability":"view"}]

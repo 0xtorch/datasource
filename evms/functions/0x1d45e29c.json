@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"amount","internalType":"uint256","type":"uint256"},{"name":"accAddress","internalType":"bytes","type":"bytes"},{"name":"memo","internalType":"bytes","type":"bytes"}],"name":"bridge","outputs":[],"stateMutability":"nonpayable"}]

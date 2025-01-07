@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_allocator","internalType":"address","type":"address"}],"name":"isValidAllocator","outputs":[{"name":"","internalType":"bool","type":"bool"}],"stateMutability":"view"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"asset","internalType":"contract ERC20","type":"address"},{"name":"to","internalType":"address","type":"address"}],"name":"withdraw","outputs":[],"stateMutability":"nonpayable"}]

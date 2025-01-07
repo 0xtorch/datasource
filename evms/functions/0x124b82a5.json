@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"requestId","internalType":"bytes32","type":"bytes32"}],"name":"withdrawalRequests","outputs":[{"name":"rsETHUnstaked","internalType":"uint256","type":"uint256"},{"name":"expectedAssetAmount","internalType":"uint256","type":"uint256"},{"name":"withdrawalStartBlock","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

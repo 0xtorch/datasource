@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"pastValue","internalType":"bool","type":"bool","indexed":false},{"name":"newValue","internalType":"bool","type":"bool","indexed":false}],"name":"ToggleVaultIdle"}]

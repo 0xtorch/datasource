@@ -1,0 +1,1 @@
+[{"type":"function","constant":false,"inputs":[{"name":"_stakeHolder","internalType":"address","type":"address"}],"name":"setStakeHolder","outputs":[],"payable":false,"stateMutability":"nonpayable"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"sType","internalType":"enum IVaultFactory.StrategyType","type":"uint8"},{"name":"strategyImplementation","internalType":"address","type":"address"}],"name":"setStrategyImplementation","outputs":[],"stateMutability":"nonpayable"}]

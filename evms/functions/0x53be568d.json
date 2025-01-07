@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_week","internalType":"uint256","type":"uint256"}],"name":"totalWeightAt","outputs":[{"name":"","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

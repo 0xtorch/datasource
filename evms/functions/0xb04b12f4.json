@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"","internalType":"uint256","type":"uint256"}],"name":"taxBrackets","outputs":[{"name":"timeThreshold","internalType":"uint256","type":"uint256"},{"name":"buyTaxPercentage","internalType":"uint256","type":"uint256"},{"name":"sellTaxPercentage","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

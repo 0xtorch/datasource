@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"creator","internalType":"address","type":"address"},{"name":"hashes","internalType":"bytes32[]","type":"bytes32[]"},{"name":"blocked","internalType":"bool[]","type":"bool[]"}],"name":"configureBlockedOperatorHashes","outputs":[],"stateMutability":"nonpayable"}]

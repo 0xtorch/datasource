@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"batchSize","internalType":"uint256","type":"uint256"}],"name":"settleVault","outputs":[{"name":"settledBatchSize","internalType":"uint256","type":"uint256"}],"stateMutability":"nonpayable"}]

@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"recipientAddress","internalType":"address","type":"address","indexed":false}],"name":"ProtocolFeeRecipientUpdate"}]

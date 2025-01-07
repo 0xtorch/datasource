@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"rootHash","internalType":"bytes32","type":"bytes32"}],"name":"getRootIndexFromHash","outputs":[{"name":"","internalType":"uint32","type":"uint32"}],"stateMutability":"view"}]

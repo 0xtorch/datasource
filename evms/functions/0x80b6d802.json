@@ -1,0 +1,1 @@
+[{"type":"function","gas":37305,"inputs":[{"name":"new_emergency_admin","type":"address"}],"name":"set_emergency_admin","outputs":[],"stateMutability":"nonpayable"}]

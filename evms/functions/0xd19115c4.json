@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"newVrfSubscriptionId","internalType":"uint64","type":"uint64"},{"name":"newVrfKeyHash","internalType":"bytes32","type":"bytes32"},{"name":"newVrfCallbackGasLimit","internalType":"uint32","type":"uint32"}],"name":"updateChainlinkParameters","outputs":[],"stateMutability":"nonpayable"}]

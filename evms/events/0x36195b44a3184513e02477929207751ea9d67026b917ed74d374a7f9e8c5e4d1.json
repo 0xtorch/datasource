@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"target","internalType":"address","type":"address","indexed":true},{"name":"sender","internalType":"address","type":"address","indexed":false},{"name":"newDescription","internalType":"string","type":"string","indexed":false}],"name":"DescriptionUpdated"}]

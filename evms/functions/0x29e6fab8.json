@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"recipientAddress_","internalType":"address","type":"address"},{"name":"state_","internalType":"bool","type":"bool"}],"name":"setRecipientAddress","outputs":[],"stateMutability":"nonpayable"}]

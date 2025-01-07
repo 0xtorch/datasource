@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"","internalType":"string","type":"string"}],"name":"orderStatus","outputs":[{"name":"","internalType":"enum DollLandMarket.OrderStatus","type":"uint8"}],"stateMutability":"view"}]

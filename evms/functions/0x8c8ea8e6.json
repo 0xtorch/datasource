@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"minterAddress","internalType":"address","type":"address"}],"name":"totalWalletMints","outputs":[{"name":"","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

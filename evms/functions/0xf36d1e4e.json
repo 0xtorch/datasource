@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_startAt","internalType":"uint256","type":"uint256"},{"name":"_endAt","internalType":"uint256","type":"uint256"},{"name":"_ecdPerSec","internalType":"uint256","type":"uint256"}],"name":"setRewards","outputs":[],"stateMutability":"nonpayable"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"relayerAddress","internalType":"address","type":"address"}],"name":"adminRemoveRelayer","outputs":[],"stateMutability":"nonpayable"}]

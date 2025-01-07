@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"roundIds","internalType":"uint256[]","type":"uint256[]"},{"name":"userAddress","internalType":"address","type":"address"}],"name":"getAverageBetAmount","outputs":[{"name":"betAmount","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

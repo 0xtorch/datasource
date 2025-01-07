@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"messageHash","internalType":"bytes32","type":"bytes32"}],"name":"withdrawMessageStatus","outputs":[{"name":"","internalType":"enum ICanonicalBridge.WithdrawStatus","type":"uint8"}],"stateMutability":"view"}]

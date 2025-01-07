@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"userAddr","internalType":"address","type":"address","indexed":false},{"name":"NFTConut","internalType":"uint256","type":"uint256","indexed":false},{"name":"NFTAddr","internalType":"address","type":"address","indexed":false}],"name":"ActivityEvent"}]

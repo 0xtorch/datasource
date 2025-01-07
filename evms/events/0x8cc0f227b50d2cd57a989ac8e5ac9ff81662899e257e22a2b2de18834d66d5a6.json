@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"index","internalType":"uint8","type":"uint8","indexed":true},{"name":"account","internalType":"address","type":"address","indexed":true},{"name":"value","internalType":"address","type":"address","indexed":false}],"name":"BwAddressSet"}]

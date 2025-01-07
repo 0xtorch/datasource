@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"to","internalType":"address","type":"address"},{"name":"selector","internalType":"bytes4","type":"bytes4"},{"name":"data","internalType":"bytes","type":"bytes"}],"name":"externalCall","outputs":[{"name":"result","internalType":"bytes","type":"bytes"}],"stateMutability":"payable"}]

@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"_mpc","internalType":"address","type":"address","indexed":false},{"name":"_enable","internalType":"bool","type":"bool","indexed":false}],"name":"MpcChanged"}]

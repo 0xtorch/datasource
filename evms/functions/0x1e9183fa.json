@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"pid","internalType":"uint8","type":"uint8"},{"name":"from","internalType":"uint256","type":"uint256"},{"name":"to","internalType":"uint256","type":"uint256"}],"name":"getRewardPerBlock","outputs":[{"name":"","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"toList","internalType":"address[]","type":"address[]"},{"name":"id","internalType":"uint256","type":"uint256"},{"name":"amount","internalType":"uint256","type":"uint256"},{"name":"data","internalType":"bytes","type":"bytes"}],"name":"minToAll","outputs":[],"stateMutability":"nonpayable"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_dolphin","internalType":"address","type":"address"},{"name":"_signature","internalType":"bytes","type":"bytes"},{"name":"_ethToSell","internalType":"uint256","type":"uint256"}],"name":"canBuyDolphin","outputs":[{"name":"","internalType":"bool","type":"bool"}],"stateMutability":"view"}]

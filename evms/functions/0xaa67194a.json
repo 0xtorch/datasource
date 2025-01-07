@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_chainlinkContract","internalType":"contract AggregatorV3Interface","type":"address"}],"name":"setChainlinkContract","outputs":[],"stateMutability":"nonpayable"}]

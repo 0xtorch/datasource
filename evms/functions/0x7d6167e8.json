@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"integratorId","internalType":"uint16","type":"uint16"}],"name":"getTotalFeeInBps","outputs":[{"name":"","internalType":"uint16","type":"uint16"}],"stateMutability":"view"}]

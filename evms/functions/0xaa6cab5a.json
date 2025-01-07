@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"","internalType":"address","type":"address"}],"name":"whitelistedAdventures","outputs":[{"name":"isWhitelisted","internalType":"bool","type":"bool"},{"name":"arrayIndex","internalType":"uint128","type":"uint128"}],"stateMutability":"view"}]

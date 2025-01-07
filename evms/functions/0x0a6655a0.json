@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_indexer","internalType":"address","type":"address"},{"name":"_maxGas","internalType":"uint256","type":"uint256"},{"name":"_gasPriceBid","internalType":"uint256","type":"uint256"},{"name":"_maxSubmissionCost","internalType":"uint256","type":"uint256"}],"name":"transferLockedDelegationToL2","outputs":[],"stateMutability":"nonpayable"}]

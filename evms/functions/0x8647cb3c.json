@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_saddress","internalType":"address","type":"address"},{"name":"_astatus","internalType":"bool","type":"bool"}],"name":"setNormalTransferAddress","outputs":[],"stateMutability":"nonpayable"}]

@@ -1,0 +1,1 @@
+[{"type":"function","constant":true,"inputs":[{"name":"","type":"uint256"}],"name":"fees_","outputs":[{"name":"firstPot","type":"uint256"},{"name":"firstGive","type":"uint256"},{"name":"giveDev","type":"uint256"},{"name":"giveAffLeader","type":"uint256"}],"payable":false,"stateMutability":"view"}]

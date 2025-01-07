@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"hashm","internalType":"bytes32","type":"bytes32"},{"name":"r","internalType":"bytes32","type":"bytes32"},{"name":"s","internalType":"bytes32","type":"bytes32"},{"name":"v","internalType":"uint8","type":"uint8"}],"name":"Verify","outputs":[{"name":"","internalType":"address","type":"address"}],"stateMutability":"pure"}]

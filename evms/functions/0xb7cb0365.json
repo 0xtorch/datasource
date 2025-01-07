@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[],"name":"getTradeLiquidityEMAParams","outputs":[{"name":"_tradeLiquidityEMA","internalType":"uint112","type":"uint112"},{"name":"_lastTradeLiquiditySum","internalType":"uint112","type":"uint112"},{"name":"_lastTradeBlockNumber","internalType":"uint32","type":"uint32"}],"stateMutability":"view"}]

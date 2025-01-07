@@ -1,0 +1,1 @@
+[{"type":"function","constant":true,"inputs":[{"name":"account","type":"address"}],"name":"withdrawableInfo","outputs":[{"name":"withdrawableValue","type":"uint256"},{"name":"nextPeriod","type":"uint256"},{"name":"nextPeriodWithdrawableValue","type":"uint256"}],"payable":false,"stateMutability":"view"}]

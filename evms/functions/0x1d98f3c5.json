@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_fromTokenId","internalType":"uint256","type":"uint256"},{"name":"_to","internalType":"address","type":"address"},{"name":"_childContract","internalType":"address","type":"address"},{"name":"_childTokenId","internalType":"uint256","type":"uint256"}],"name":"safeTransferChild","outputs":[],"stateMutability":"nonpayable"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"indexes","internalType":"uint16[]","type":"uint16[]"},{"name":"contractAddresses","internalType":"address[]","type":"address[]"}],"name":"setErc721ContractAddresses","outputs":[],"stateMutability":"nonpayable"}]

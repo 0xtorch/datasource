@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"_poolToken","internalType":"address","type":"address","indexed":true},{"name":"_isPaused","internalType":"bool","type":"bool","indexed":false}],"name":"IsLiquidateCollateralPausedSet"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[],"name":"viewTeamWalletInfo","outputs":[{"name":"charityDivs","internalType":"uint256","type":"uint256"},{"name":"adminDivs","internalType":"uint256","type":"uint256"},{"name":"nftDivs","internalType":"uint256","type":"uint256"},{"name":"stakeDivs","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

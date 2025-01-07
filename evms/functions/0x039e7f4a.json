@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"action","internalType":"bytes32","type":"bytes32"},{"name":"params","internalType":"bytes","type":"bytes"}],"name":"initiateRebate","outputs":[],"stateMutability":"nonpayable"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"categoryKey","internalType":"bytes32","type":"bytes32"},{"name":"typeKey","internalType":"bytes32","type":"bytes32"}],"name":"newType","outputs":[],"stateMutability":"nonpayable"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_chainId","internalType":"uint64","type":"uint64"},{"name":"_kind","internalType":"bytes32","type":"bytes32"}],"name":"getSyncedChainHeight","outputs":[{"name":"","internalType":"uint64","type":"uint64"}],"stateMutability":"view"}]

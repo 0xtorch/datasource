@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"config","internalType":"struct ERC20BasicToken.Config","type":"tuple","components":[{"name":"name","internalType":"string","type":"string"},{"name":"symbol","internalType":"string","type":"string"}]},{"name":"deployer","internalType":"address","type":"address"}],"name":"initialize","outputs":[],"stateMutability":"nonpayable"}]

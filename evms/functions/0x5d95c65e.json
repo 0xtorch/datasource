@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"arg0","type":"address"}],"name":"get_gauge_from_lp_token","outputs":[{"name":"","type":"address"}],"stateMutability":"view"}]

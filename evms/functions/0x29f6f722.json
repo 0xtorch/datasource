@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"stakees","internalType":"address[]","type":"address[]"},{"name":"durations","internalType":"uint64[]","type":"uint64[]"}],"name":"extendMultipleCommunityStakes","outputs":[],"stateMutability":"nonpayable"}]

@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"cToken","internalType":"contract CToken","type":"address","indexed":false},{"name":"oldVersion","internalType":"enum ComptrollerV1Storage.Version","type":"uint8","indexed":false},{"name":"newVersion","internalType":"enum ComptrollerV1Storage.Version","type":"uint8","indexed":false}],"name":"NewCTokenVersion"}]

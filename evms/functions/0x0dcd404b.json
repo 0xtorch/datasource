@@ -1,0 +1,1 @@
+[{"type":"function","constant":true,"inputs":[],"name":"artblocksContract","outputs":[{"name":"","internalType":"contract GenArt721CoreContract","type":"address"}],"payable":false,"stateMutability":"view"}]

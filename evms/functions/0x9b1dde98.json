@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"","internalType":"contract IOperatorDelegator","type":"address"}],"name":"operatorDelegatorAllocations","outputs":[{"name":"","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

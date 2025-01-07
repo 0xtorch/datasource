@@ -1,0 +1,1 @@
+[{"type":"function","constant":true,"inputs":[{"name":"id","internalType":"uint256","type":"uint256"}],"name":"getTextColor","outputs":[{"name":"textColor","internalType":"uint256","type":"uint256"}],"payable":false,"stateMutability":"view"}]

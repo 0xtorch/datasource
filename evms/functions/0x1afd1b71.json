@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"to","internalType":"address","type":"address"},{"name":"vaultsOptions","internalType":"bytes[]","type":"bytes[]"}],"name":"withdraw","outputs":[{"name":"actualTokenAmounts","internalType":"uint256[]","type":"uint256[]"}],"stateMutability":"nonpayable"}]

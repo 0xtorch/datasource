@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"contractType","internalType":"enum ContractType","type":"uint8"}],"name":"getContract","outputs":[{"name":"contract_","internalType":"address","type":"address"}],"stateMutability":"view"}]

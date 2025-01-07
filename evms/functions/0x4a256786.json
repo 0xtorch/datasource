@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"maxGlobalMultiplier","internalType":"uint256","type":"uint256"},{"name":"maxBoostMultiplier","internalType":"uint256","type":"uint256"}],"name":"setBoostMultiplierSettings","outputs":[],"stateMutability":"nonpayable"}]

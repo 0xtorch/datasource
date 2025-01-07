@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_MinERC20Invest","internalType":"uint256","type":"uint256"},{"name":"_MaxERC20Invest","internalType":"uint256","type":"uint256"}],"name":"SetMinMaxERC20Invest","outputs":[],"stateMutability":"nonpayable"}]

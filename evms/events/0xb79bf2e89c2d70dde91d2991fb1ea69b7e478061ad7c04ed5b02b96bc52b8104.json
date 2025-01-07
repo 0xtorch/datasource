@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"oracle","internalType":"address","type":"address","indexed":true},{"name":"admin","internalType":"address","type":"address","indexed":false},{"name":"newAdmin","internalType":"address","type":"address","indexed":false}],"name":"OracleAdminUpdateRequested"}]

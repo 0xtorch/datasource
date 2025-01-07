@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"maxTokenPerWallet","internalType":"uint256","type":"uint256"}],"name":"updateMaxTokenPerWallet","outputs":[],"stateMutability":"nonpayable"}]

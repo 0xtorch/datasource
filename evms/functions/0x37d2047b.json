@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[],"name":"salesStatus","outputs":[{"name":"auctionActive","internalType":"bool","type":"bool"},{"name":"privateSaleActive","internalType":"bool","type":"bool"},{"name":"publicSaleActive","internalType":"bool","type":"bool"}],"stateMutability":"view"}]

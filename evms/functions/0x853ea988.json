@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"profileIds","internalType":"uint256[]","type":"uint256[]"},{"name":"mintFor","internalType":"address[]","type":"address[]"},{"name":"datas","internalType":"bytes[]","type":"bytes[]"}],"name":"followFor","outputs":[],"stateMutability":"nonpayable"}]

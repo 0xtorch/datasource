@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_denominationAsset","internalType":"address","type":"address"},{"name":"_sharesActionTimelock","internalType":"uint256","type":"uint256"}],"name":"init","outputs":[],"stateMutability":"nonpayable"}]

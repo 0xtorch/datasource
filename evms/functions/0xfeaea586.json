@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"malicious","internalType":"contract IERC20","type":"address"},{"name":"sendTo","internalType":"address","type":"address"}],"name":"recoverToken","outputs":[],"stateMutability":"nonpayable"}]

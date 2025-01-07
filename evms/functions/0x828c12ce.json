@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_revealed","internalType":"bool","type":"bool"},{"name":"_uri","internalType":"string","type":"string"}],"name":"updateReveal","outputs":[],"stateMutability":"nonpayable"}]

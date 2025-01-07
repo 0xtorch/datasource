@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_newPriceOracle","internalType":"contract IAggregatorV3","type":"address"}],"name":"setPriceAggregator","outputs":[],"stateMutability":"nonpayable"}]

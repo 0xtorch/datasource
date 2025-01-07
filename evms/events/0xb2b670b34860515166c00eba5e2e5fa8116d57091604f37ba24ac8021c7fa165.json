@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"oldAdmin","type":"address","indexed":false},{"name":"newAdmin","type":"address","indexed":false}],"name":"ExecutionAdminAdminChanged"}]

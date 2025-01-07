@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"reserve","internalType":"address","type":"address","indexed":true},{"name":"eTokenAddress","internalType":"address","type":"address","indexed":true},{"name":"stakingAddress","internalType":"address","type":"address","indexed":false},{"name":"id","internalType":"uint256","type":"uint256","indexed":false}],"name":"InitReserve"}]

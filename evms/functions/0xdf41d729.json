@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_gateway","internalType":"address","type":"address"},{"name":"_soFee","internalType":"address","type":"address"}],"name":"addFee","outputs":[],"stateMutability":"nonpayable"}]

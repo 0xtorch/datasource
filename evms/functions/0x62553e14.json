@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"collectionContract","internalType":"address","type":"address"}],"name":"removeWhitelistedCollection","outputs":[],"stateMutability":"nonpayable"}]

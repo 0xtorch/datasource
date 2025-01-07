@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_burnThreshold","internalType":"uint256","type":"uint256"}],"name":"setBurnThreshold","outputs":[{"name":"","internalType":"bool","type":"bool"}],"stateMutability":"nonpayable"}]

@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"oldUserApplication","internalType":"address","type":"address","indexed":false},{"name":"newUserApplication","internalType":"address","type":"address","indexed":false}],"name":"ModUserApplication"}]

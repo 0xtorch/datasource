@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"projectId_","internalType":"uint256","type":"uint256"},{"name":"baseTokenURI_","internalType":"string","type":"string"}],"name":"revealProject","outputs":[],"stateMutability":"nonpayable"}]

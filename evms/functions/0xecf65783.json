@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"","internalType":"uint8","type":"uint8"}],"name":"idToERC","outputs":[{"name":"","internalType":"contract ERC20","type":"address"}],"stateMutability":"view"}]

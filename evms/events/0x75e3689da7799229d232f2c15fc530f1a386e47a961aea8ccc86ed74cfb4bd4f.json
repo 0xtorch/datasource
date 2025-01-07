@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"oldId","internalType":"uint8","type":"uint8","indexed":false},{"name":"newId","internalType":"uint8","type":"uint8","indexed":false}],"name":"ChangeSale"}]

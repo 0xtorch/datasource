@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_ticketNumber","internalType":"uint256","type":"uint256"},{"name":"_allocated","internalType":"uint256","type":"uint256"},{"name":"_merkleProof","internalType":"bytes32[]","type":"bytes32[]"},{"name":"_mintAmount","internalType":"uint256","type":"uint256"}],"name":"allowListPartialMint","outputs":[],"stateMutability":"payable"}]

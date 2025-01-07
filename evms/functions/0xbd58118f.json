@@ -1,0 +1,1 @@
+[{"type":"function","constant":false,"inputs":[{"name":"angel","type":"address"},{"name":"tokens","type":"uint256"}],"name":"allocateAngelTokens","outputs":[],"payable":false,"stateMutability":"nonpayable"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"poawIds","internalType":"uint256[]","type":"uint256[]"},{"name":"brotIds","internalType":"uint256[]","type":"uint256[]"}],"name":"claimCollectorMints","outputs":[],"stateMutability":"payable"}]

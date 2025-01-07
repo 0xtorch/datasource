@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"providerAddress","internalType":"address","type":"address"},{"name":"amount","internalType":"uint256","type":"uint256"}],"name":"recordStakedDeposit","outputs":[],"stateMutability":"nonpayable"}]

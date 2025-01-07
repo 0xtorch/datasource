@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"wrapped","internalType":"address","type":"address"}],"name":"wrappedAllowed","outputs":[{"name":"","internalType":"bool","type":"bool"}],"stateMutability":"view"}]

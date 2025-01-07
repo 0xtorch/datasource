@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_from","internalType":"address","type":"address"},{"name":"_tos","internalType":"address[]","type":"address[]"},{"name":"_ids","internalType":"uint256[]","type":"uint256[]"},{"name":"_amounts","internalType":"uint256[]","type":"uint256[]"}],"name":"safeTransferFromMulti","outputs":[],"stateMutability":"nonpayable"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"pairName","internalType":"string","type":"string"},{"name":"countLeft","internalType":"uint256","type":"uint256"}],"name":"setOnSaleMBCountleft","outputs":[],"stateMutability":"nonpayable"}]

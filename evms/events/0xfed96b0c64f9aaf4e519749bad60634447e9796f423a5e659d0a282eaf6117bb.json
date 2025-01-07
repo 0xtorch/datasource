@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"PrimeFeeUpdated","type":"uint128","indexed":false}],"name":"PrimeFeeUpdated"}]

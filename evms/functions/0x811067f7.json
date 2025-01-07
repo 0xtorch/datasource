@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"tokenIds","internalType":"uint256[]","type":"uint256[]"},{"name":"_nodeName","internalType":"string","type":"string"},{"name":"_nodeType","internalType":"uint256","type":"uint256"}],"name":"registerNode","outputs":[{"name":"","internalType":"uint256","type":"uint256"}],"stateMutability":"nonpayable"}]

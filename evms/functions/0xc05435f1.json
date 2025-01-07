@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"oracle","internalType":"contract AggregatorV3Interface","type":"address"},{"name":"inverseAndSpread","internalType":"uint256","type":"uint256"},{"name":"amount","internalType":"uint256","type":"uint256"}],"name":"singlePrice","outputs":[{"name":"","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

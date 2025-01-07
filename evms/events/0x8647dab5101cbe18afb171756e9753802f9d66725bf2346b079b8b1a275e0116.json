@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"owner","internalType":"address","type":"address","indexed":true},{"name":"oldPrice","internalType":"uint256","type":"uint256","indexed":false},{"name":"newPrice","internalType":"uint256","type":"uint256","indexed":false},{"name":"nftID","internalType":"uint256","type":"uint256","indexed":false}],"name":"PriceUpdate"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_debtToken","internalType":"address","type":"address"},{"name":"_newPid","internalType":"uint256","type":"uint256"}],"name":"updateDebtToken","outputs":[],"stateMutability":"nonpayable"}]

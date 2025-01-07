@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"requestId","internalType":"uint256","type":"uint256","indexed":false},{"name":"sender","internalType":"address","type":"address","indexed":false},{"name":"modelId","internalType":"uint256","type":"uint256","indexed":false},{"name":"prompt","internalType":"string","type":"string","indexed":false}],"name":"promptRequest"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"newClaimedBitfields","internalType":"uint256[40]","type":"uint256[40]"}],"name":"setClaimed","outputs":[],"stateMutability":"nonpayable"}]

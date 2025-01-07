@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"oldTreasuryGuardian","internalType":"address","type":"address","indexed":false},{"name":"newTreasuryGuardian","internalType":"address","type":"address","indexed":false}],"name":"NewTreasuryGuardian"}]

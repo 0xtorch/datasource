@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"strikeId","internalType":"uint256","type":"uint256","indexed":false},{"name":"newSkew","internalType":"uint256","type":"uint256","indexed":false},{"name":"globalMaxSkewVariance","internalType":"uint256","type":"uint256","indexed":false}],"name":"StrikeSkewUpdated"}]

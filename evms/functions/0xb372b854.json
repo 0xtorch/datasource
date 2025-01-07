@@ -1,0 +1,1 @@
+[{"type":"function","constant":true,"gas":1183,"inputs":[{"name":"numbs","type":"uint256[100]"},{"name":"n","type":"int128"}],"name":"find","outputs":[{"name":"out","type":"uint256"}],"payable":false,"stateMutability":"view"}]

@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"canMint","internalType":"bool","type":"bool","indexed":false},{"name":"canWithdraw","internalType":"bool","type":"bool","indexed":false},{"name":"canRedeem","internalType":"bool","type":"bool","indexed":false},{"name":"canDeposit","internalType":"bool","type":"bool","indexed":false}],"name":"VaultParametersUpdated"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_pairIndex","internalType":"uint256","type":"uint256"},{"name":"_index","internalType":"uint256","type":"uint256"},{"name":"_newSl","internalType":"uint256","type":"uint256"},{"name":"priceUpdateData","internalType":"bytes[]","type":"bytes[]"}],"name":"updateSl","outputs":[],"stateMutability":"payable"}]

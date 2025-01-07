@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"tokenId","internalType":"uint256","type":"uint256"}],"name":"tokenFarmedIn","outputs":[{"name":"farmingCenterAddress","internalType":"address","type":"address"}],"stateMutability":"view"}]

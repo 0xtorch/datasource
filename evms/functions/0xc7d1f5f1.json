@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"referrer","internalType":"address","type":"address"}],"name":"getReferrerFee","outputs":[{"name":"","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

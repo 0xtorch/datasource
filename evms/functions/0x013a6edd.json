@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_amountShares","internalType":"uint256","type":"uint256"}],"name":"getUnderlyingForShares","outputs":[{"name":"","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

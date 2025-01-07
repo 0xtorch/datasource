@@ -1,0 +1,1 @@
+[{"type":"function","constant":true,"inputs":[],"name":"cacheInfo","outputs":[{"name":"debt","internalType":"uint256","type":"uint256"},{"name":"timestamp","internalType":"uint256","type":"uint256"},{"name":"isInvalid","internalType":"bool","type":"bool"},{"name":"isStale","internalType":"bool","type":"bool"}],"payable":false,"stateMutability":"view"}]

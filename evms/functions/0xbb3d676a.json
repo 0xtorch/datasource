@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_usersToBlacklist","internalType":"address[]","type":"address[]"}],"name":"blacklistUsers","outputs":[],"stateMutability":"nonpayable"}]

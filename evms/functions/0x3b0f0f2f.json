@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_user","internalType":"address","type":"address"}],"name":"getReferral","outputs":[{"name":"","internalType":"address","type":"address"}],"stateMutability":"view"}]

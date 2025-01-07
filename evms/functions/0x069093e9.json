@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_merkleProof","internalType":"bytes32[]","type":"bytes32[]"},{"name":"_root","internalType":"bytes32","type":"bytes32"},{"name":"sender","internalType":"address","type":"address"}],"name":"checkMerkleProof","outputs":[{"name":"isValid","internalType":"bool","type":"bool"}],"stateMutability":"pure"}]

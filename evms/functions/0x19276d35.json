@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_account","internalType":"address","type":"address"},{"name":"_token","internalType":"contract IERC20","type":"address"}],"name":"getAmountDue","outputs":[{"name":"","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

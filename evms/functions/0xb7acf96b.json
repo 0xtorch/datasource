@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_uniqueId","internalType":"string","type":"string"}],"name":"isUniqueIdAvailable","outputs":[{"name":"","internalType":"bool","type":"bool"}],"stateMutability":"view"}]

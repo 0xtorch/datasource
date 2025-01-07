@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"relayer","internalType":"address","type":"address","indexed":true},{"name":"oldFeeCollector","internalType":"address","type":"address","indexed":false},{"name":"newFeeCollector","internalType":"address","type":"address","indexed":false}],"name":"FeeCollectorUpdated"}]

@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"signatureValidityPeriod","internalType":"uint40","type":"uint40","indexed":false}],"name":"SignatureValidityPeriodUpdated"}]

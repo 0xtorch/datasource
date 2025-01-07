@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"startTimes","internalType":"uint256[]","type":"uint256[]"},{"name":"maxParticipations","internalType":"uint256[]","type":"uint256[]"}],"name":"setRounds","outputs":[],"stateMutability":"nonpayable"}]

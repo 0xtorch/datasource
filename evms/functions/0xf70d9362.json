@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[],"name":"getCurrentFee","outputs":[{"name":"_fee","internalType":"uint16","type":"uint16"}],"stateMutability":"view"}]

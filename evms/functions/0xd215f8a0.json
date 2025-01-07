@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"index","internalType":"uint256","type":"uint256"},{"name":"interestWeight_","internalType":"uint16","type":"uint16"}],"name":"setInterestWeightTranche","outputs":[],"stateMutability":"nonpayable"}]

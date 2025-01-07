@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"n","internalType":"uint256","type":"uint256"},{"name":"_to","internalType":"address","type":"address"},{"name":"_packType","internalType":"uint256","type":"uint256"}],"name":"mintMultiple","outputs":[],"stateMutability":"nonpayable"}]

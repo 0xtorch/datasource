@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_vaultProxy","internalType":"address","type":"address"},{"name":"_nextFeeBpsOverride","internalType":"uint256","type":"uint256"}],"name":"setFeeBpsOverrideForVault","outputs":[],"stateMutability":"nonpayable"}]

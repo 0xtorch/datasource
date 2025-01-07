@@ -1,0 +1,1 @@
+[{"type":"function","constant":false,"inputs":[{"name":"isETH","internalType":"bool","type":"bool"},{"name":"currency","internalType":"address","type":"address"},{"name":"amount","internalType":"uint256","type":"uint256"}],"name":"transferToCounterParty","outputs":[],"payable":false,"stateMutability":"nonpayable"}]

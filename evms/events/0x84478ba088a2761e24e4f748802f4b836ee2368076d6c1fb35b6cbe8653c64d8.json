@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"name","internalType":"string","type":"string","indexed":false},{"name":"symbol","internalType":"string","type":"string","indexed":false},{"name":"baseURI","internalType":"string","type":"string","indexed":false}],"name":"NFTMetadataUpdated"}]

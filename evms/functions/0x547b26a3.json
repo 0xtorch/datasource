@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"market","internalType":"address","type":"address"},{"name":"account","internalType":"address","type":"address"}],"name":"boostedRatioOf","outputs":[{"name":"boostedSupplyRatio","internalType":"uint256","type":"uint256"},{"name":"boostedBorrowRatio","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

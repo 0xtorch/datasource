@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_canonical","internalType":"struct TokenId","type":"tuple","components":[{"name":"domain","internalType":"uint32","type":"uint32"},{"name":"id","internalType":"bytes32","type":"bytes32"}]}],"name":"canonicalToRepresentation","outputs":[{"name":"","internalType":"address","type":"address"}],"stateMutability":"view"}]

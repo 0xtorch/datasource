@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"provider","internalType":"address","type":"address"},{"name":"currency","internalType":"Currency","type":"address"}],"name":"tokenOwed","outputs":[{"name":"amount","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

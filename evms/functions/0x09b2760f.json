@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"specialization","internalType":"enum IVault.PoolSpecialization","type":"uint8"}],"name":"registerPool","outputs":[{"name":"","internalType":"bytes32","type":"bytes32"}],"stateMutability":"nonpayable"}]

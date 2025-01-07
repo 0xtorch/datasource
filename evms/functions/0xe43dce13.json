@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_poolToken","internalType":"address","type":"address"},{"name":"_isPaused","internalType":"bool","type":"bool"}],"name":"setIsRepayPaused","outputs":[],"stateMutability":"nonpayable"}]

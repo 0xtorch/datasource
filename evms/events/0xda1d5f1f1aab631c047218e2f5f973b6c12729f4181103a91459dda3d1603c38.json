@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"pairIndex","internalType":"uint256","type":"uint256","indexed":false},{"name":"valueLong","internalType":"uint256","type":"uint256","indexed":false},{"name":"valueShort","internalType":"uint256","type":"uint256","indexed":false}],"name":"AccRolloverFeesStored"}]

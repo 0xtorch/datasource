@@ -1,0 +1,1 @@
+[{"type":"function","constant":true,"inputs":[{"name":"_objId","type":"uint64"}],"name":"isGason","outputs":[{"name":"","type":"bool"}],"payable":false,"stateMutability":"view"}]

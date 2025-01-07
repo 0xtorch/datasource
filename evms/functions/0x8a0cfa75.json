@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"token","internalType":"contract IToken","type":"address"},{"name":"targets","internalType":"address[]","type":"address[]"}],"name":"sendBatchTokensToAllTargets","outputs":[],"stateMutability":"nonpayable"}]

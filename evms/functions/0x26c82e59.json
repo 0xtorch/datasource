@@ -1,0 +1,1 @@
+[{"type":"function","constant":true,"inputs":[{"name":"erc1155Address","internalType":"address","type":"address"},{"name":"id","internalType":"uint256","type":"uint256"}],"name":"cardPoints","outputs":[{"name":"","internalType":"uint256","type":"uint256"}],"payable":false,"stateMutability":"view"}]

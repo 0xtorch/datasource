@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"messageBus","internalType":"address","type":"address"}],"name":"getNativeWrap","outputs":[{"name":"","internalType":"address","type":"address"}],"stateMutability":"view"}]

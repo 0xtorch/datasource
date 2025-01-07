@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"id","internalType":"BookId","type":"uint192"}],"name":"isOpened","outputs":[{"name":"","internalType":"bool","type":"bool"}],"stateMutability":"view"}]

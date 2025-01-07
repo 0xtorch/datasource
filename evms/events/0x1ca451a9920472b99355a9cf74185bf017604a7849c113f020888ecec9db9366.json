@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"consensusAddr","internalType":"address","type":"address","indexed":true},{"name":"treasuryAddr","internalType":"address","type":"address","indexed":true},{"name":"admin","internalType":"address","type":"address","indexed":true}],"name":"CandidateGranted"}]

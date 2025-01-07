@@ -1,0 +1,1 @@
+[{"type":"function","constant":false,"inputs":[{"name":"saleStart","type":"uint256"},{"name":"saleStop","type":"uint256"},{"name":"salePrice","type":"uint256"},{"name":"setBeneficiary","type":"address"}],"name":"startSale","outputs":[{"name":"success","type":"bool"}],"payable":false,"stateMutability":"nonpayable"}]

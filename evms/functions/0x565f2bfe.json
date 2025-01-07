@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"apeId","internalType":"uint256","type":"uint256"}],"name":"isApeEligibleForSerumMutation","outputs":[{"name":"","internalType":"bool","type":"bool"}],"stateMutability":"view"}]

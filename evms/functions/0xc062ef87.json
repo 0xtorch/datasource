@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"market","internalType":"address","type":"address"},{"name":"collateral","internalType":"address","type":"address"},{"name":"toEth","internalType":"bool","type":"bool"}],"name":"exerciseWithOfframp","outputs":[],"stateMutability":"nonpayable"}]

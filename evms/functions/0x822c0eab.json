@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"nftIds","internalType":"uint256[]","type":"uint256[]"}],"name":"unstakeNfts","outputs":[],"stateMutability":"nonpayable"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_tokenId","internalType":"uint256","type":"uint256"},{"name":"_POSW","internalType":"uint256","type":"uint256"},{"name":"Id_SocialPlatform","internalType":"uint256[]","type":"uint256[]"},{"name":"POSW_SocialPlatform","internalType":"uint256[]","type":"uint256[]"}],"name":"addPOSW_Builder","outputs":[],"stateMutability":"nonpayable"}]

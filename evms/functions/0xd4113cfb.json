@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_recoveredFundsReceiver","internalType":"address","type":"address"}],"name":"setRecoveredFundsReceiver","outputs":[],"stateMutability":"nonpayable"}]

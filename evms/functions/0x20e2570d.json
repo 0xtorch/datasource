@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[],"name":"requiredNestingLevel","outputs":[{"name":"","internalType":"enum NestingLevelLib.NestingLevel","type":"uint8"}],"stateMutability":"view"}]

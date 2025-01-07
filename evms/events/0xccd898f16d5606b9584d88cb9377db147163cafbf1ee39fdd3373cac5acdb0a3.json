@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"supplyCapOld","internalType":"uint256","type":"uint256","indexed":false},{"name":"supplyCapNew","internalType":"uint256","type":"uint256","indexed":false}],"name":"UpdateSupplyCap"}]

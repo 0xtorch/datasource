@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_sourceChainSelector","internalType":"uint64","type":"uint64"},{"name":"_sender","internalType":"address","type":"address"},{"name":"_isWhitelisted","internalType":"bool","type":"bool"}],"name":"updateWhitelistSender","outputs":[],"stateMutability":"nonpayable"}]

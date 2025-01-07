@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[],"name":"getExternalDelta","outputs":[{"name":"externalDelta","internalType":"int256","type":"int256"}],"stateMutability":"view"}]

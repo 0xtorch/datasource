@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_tokenId","internalType":"uint256","type":"uint256"},{"name":"_nftContract","internalType":"contract IERC721","type":"address"},{"name":"_nftId","internalType":"uint256","type":"uint256"}],"name":"merge","outputs":[],"stateMutability":"nonpayable"}]

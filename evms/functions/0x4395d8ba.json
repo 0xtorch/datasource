@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"provider","internalType":"address","type":"address"},{"name":"liquidity","internalType":"address","type":"address"},{"name":"job","internalType":"address","type":"address"}],"name":"applyCreditToJob","outputs":[],"stateMutability":"nonpayable"}]

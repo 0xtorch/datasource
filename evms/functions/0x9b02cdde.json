@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[],"name":"getLastInvariant","outputs":[{"name":"lastInvariant","internalType":"uint256","type":"uint256"},{"name":"lastInvariantAmp","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

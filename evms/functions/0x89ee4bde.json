@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"reward","internalType":"uint128","type":"uint128"},{"name":"duration","internalType":"uint64","type":"uint64"}],"name":"setRewardParams","outputs":[],"stateMutability":"nonpayable"}]

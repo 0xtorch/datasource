@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_externalToken","internalType":"address","type":"address"}],"name":"canAwardExternal","outputs":[{"name":"","internalType":"bool","type":"bool"}],"stateMutability":"view"}]

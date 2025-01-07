@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_dstChainId","internalType":"uint16","type":"uint16"},{"name":"_dstToken","internalType":"address","type":"address"},{"name":"_enable","internalType":"bool","type":"bool"}],"name":"emergencyStopSwap","outputs":[],"stateMutability":"nonpayable"}]

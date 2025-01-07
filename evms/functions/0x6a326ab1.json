@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_paymentToken","internalType":"address","type":"address"}],"name":"setPaymentToken","outputs":[],"stateMutability":"nonpayable"}]

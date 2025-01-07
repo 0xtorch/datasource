@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"trader","internalType":"address","type":"address"},{"name":"quoteAmount","internalType":"uint256","type":"uint256"}],"name":"closePosition","outputs":[{"name":"baseAmount","internalType":"uint256","type":"uint256"}],"stateMutability":"nonpayable"}]

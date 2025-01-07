@@ -1,0 +1,1 @@
+[{"type":"function","constant":true,"inputs":[{"name":"area","type":"uint256"}],"name":"getDeployArrayLength","outputs":[{"name":"","type":"uint256"}],"payable":false,"stateMutability":"view"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[],"name":"getRoyaltyInfo","outputs":[{"name":"receiver","internalType":"address","type":"address"},{"name":"numer","internalType":"uint256","type":"uint256"},{"name":"denom","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

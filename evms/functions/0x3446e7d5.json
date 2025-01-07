@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"ids_","internalType":"uint16[]","type":"uint16[]"},{"name":"recipients_","internalType":"address[]","type":"address[]"},{"name":"operators_","internalType":"address[]","type":"address[]"},{"name":"amounts_","internalType":"uint256[]","type":"uint256[]"}],"name":"claimRewardsBatch","outputs":[],"stateMutability":"nonpayable"}]

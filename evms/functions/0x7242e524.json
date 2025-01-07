@@ -1,0 +1,1 @@
+[{"type":"function","gas":38415,"inputs":[{"name":"_admin_fee_receiver","type":"address"}],"name":"set_admin_fee_receiver","outputs":[],"stateMutability":"nonpayable"}]

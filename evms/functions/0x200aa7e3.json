@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_tokenX","internalType":"contract IERC20","type":"address"},{"name":"_tokenY","internalType":"contract IERC20","type":"address"},{"name":"_binStep","internalType":"uint256","type":"uint256"},{"name":"_ignored","internalType":"bool","type":"bool"}],"name":"setLBPairIgnored","outputs":[],"stateMutability":"nonpayable"}]

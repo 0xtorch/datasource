@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"dayIndex","internalType":"uint256","type":"uint256"}],"name":"getSmashEggCountPerDay","outputs":[{"name":"","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

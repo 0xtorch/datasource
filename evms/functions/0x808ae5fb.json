@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_poolLogic","internalType":"address","type":"address"},{"name":"_poolManagerLogic","internalType":"address","type":"address"}],"name":"setLogic","outputs":[],"stateMutability":"nonpayable"}]

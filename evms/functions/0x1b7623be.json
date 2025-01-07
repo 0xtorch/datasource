@@ -1,0 +1,1 @@
+[{"type":"function","constant":false,"inputs":[{"name":"_token","type":"address"},{"name":"_amount","type":"uint256"}],"name":"payInterest","outputs":[],"payable":false,"stateMutability":"nonpayable"}]

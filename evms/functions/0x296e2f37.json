@@ -1,0 +1,1 @@
+[{"type":"function","constant":true,"inputs":[{"name":"starkKey","internalType":"uint256","type":"uint256"},{"name":"vaultId","internalType":"uint256","type":"uint256"}],"name":"getFullWithdrawalRequest","outputs":[{"name":"res","internalType":"uint256","type":"uint256"}],"payable":false,"stateMutability":"view"}]

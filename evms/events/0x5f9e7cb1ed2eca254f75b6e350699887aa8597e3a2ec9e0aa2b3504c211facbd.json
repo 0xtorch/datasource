@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"newTotalSupply","internalType":"struct VeBalance","type":"tuple","components":[{"name":"bias","internalType":"uint128","type":"uint128"},{"name":"slope","internalType":"uint128","type":"uint128"}],"indexed":false},{"name":"chainIds","internalType":"uint256[]","type":"uint256[]","indexed":false}],"name":"BroadcastTotalSupply"}]

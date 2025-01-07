@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"oldLoanTermLength","internalType":"uint256","type":"uint256","indexed":false},{"name":"newLoanTermLength","internalType":"uint256","type":"uint256","indexed":false}],"name":"NewLoanTermLength"}]

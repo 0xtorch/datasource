@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"chestId","internalType":"uint256","type":"uint256"}],"name":"ticketsRaw","outputs":[{"name":"winningTicketRaw","internalType":"bytes32","type":"bytes32"}],"stateMutability":"view"}]

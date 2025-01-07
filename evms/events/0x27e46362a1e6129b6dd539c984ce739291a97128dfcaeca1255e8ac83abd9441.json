@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"time","type":"uint256","indexed":false},{"name":"rate","type":"uint256","indexed":false},{"name":"supply","type":"uint256","indexed":false}],"name":"UpdateMiningParameters"}]

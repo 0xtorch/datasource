@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_staker","internalType":"address","type":"address"}],"name":"getCurrentTotalStakes","outputs":[{"name":"","internalType":"uint96","type":"uint96"},{"name":"","internalType":"uint96","type":"uint96"}],"stateMutability":"view"}]

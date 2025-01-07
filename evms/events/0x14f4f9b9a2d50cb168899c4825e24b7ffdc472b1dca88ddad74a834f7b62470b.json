@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"tokens","internalType":"address[]","type":"address[]","indexed":false},{"name":"tokenType","internalType":"enum IYoloV2.YoloV2__TokenType","type":"uint8","indexed":false},{"name":"isAllowed","internalType":"bool","type":"bool","indexed":false}],"name":"TokensStatusUpdated"}]

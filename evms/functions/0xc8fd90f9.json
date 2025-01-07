@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"token","internalType":"address","type":"address"},{"name":"method","internalType":"string","type":"string"},{"name":"_isValueFirst","internalType":"bool","type":"bool"}],"name":"setWithdrawSelector","outputs":[],"stateMutability":"nonpayable"}]

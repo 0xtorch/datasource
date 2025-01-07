@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_baseToken","internalType":"address","type":"address"}],"name":"getRewardRatePerSecond","outputs":[{"name":"","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

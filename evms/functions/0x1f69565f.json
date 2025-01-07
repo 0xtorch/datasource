@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"token","internalType":"address","type":"address"}],"name":"getTokenInfo","outputs":[{"name":"","internalType":"struct IERC721AirbaseController.Token","type":"tuple","components":[{"type":"bool"},{"type":"address"},{"type":"address"},{"type":"bool"}]}],"stateMutability":"view"}]

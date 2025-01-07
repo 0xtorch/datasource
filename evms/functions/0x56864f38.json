@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"originChainId","internalType":"uint256","type":"uint256"},{"name":"destinationChainId","internalType":"uint256","type":"uint256"},{"name":"originToken","internalType":"address","type":"address"},{"name":"depositsEnabled","internalType":"bool","type":"bool"}],"name":"setDepositRoute","outputs":[],"stateMutability":"nonpayable"}]

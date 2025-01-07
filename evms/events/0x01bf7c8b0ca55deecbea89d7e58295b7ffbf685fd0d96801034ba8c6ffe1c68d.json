@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"owner","internalType":"address","type":"address","indexed":true},{"name":"orderUid","internalType":"bytes","type":"bytes","indexed":false},{"name":"signed","internalType":"bool","type":"bool","indexed":false}],"name":"PreSignature"}]

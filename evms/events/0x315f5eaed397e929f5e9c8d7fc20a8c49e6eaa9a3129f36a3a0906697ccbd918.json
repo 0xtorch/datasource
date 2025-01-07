@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"action","internalType":"uint8","type":"uint8","indexed":false},{"name":"gas","internalType":"uint256","type":"uint256","indexed":false}],"name":"SetGasForAction"}]

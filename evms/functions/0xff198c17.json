@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_issuer","internalType":"address","type":"address"},{"name":"_mtmPayables","internalType":"uint256","type":"uint256"},{"name":"_actualPayables","internalType":"uint256","type":"uint256"}],"name":"updatePayables","outputs":[],"stateMutability":"nonpayable"}]

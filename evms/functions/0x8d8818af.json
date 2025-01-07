@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"numTokens","internalType":"uint256","type":"uint256"},{"name":"referralCode","internalType":"uint256","type":"uint256"},{"name":"referrer","internalType":"address","type":"address"}],"name":"mintWithReferral","outputs":[],"stateMutability":"payable"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"fromVault","internalType":"address","type":"address"},{"name":"toVault","internalType":"address","type":"address"}],"name":"revokeVault","outputs":[],"stateMutability":"nonpayable"}]

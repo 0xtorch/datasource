@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"creditLine","internalType":"contract ICreditLine","type":"address","indexed":true}],"name":"CreditLineCreated"}]

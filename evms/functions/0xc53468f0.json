@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"calculator_","internalType":"contract IArtistMiningCalculator","type":"address"}],"name":"setCalculator","outputs":[],"stateMutability":"nonpayable"}]

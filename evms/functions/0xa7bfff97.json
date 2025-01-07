@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"","internalType":"address","type":"address"}],"name":"frontEnds","outputs":[{"name":"kickbackRate","internalType":"uint256","type":"uint256"},{"name":"registered","internalType":"bool","type":"bool"}],"stateMutability":"view"}]

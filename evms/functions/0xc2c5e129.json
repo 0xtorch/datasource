@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"oracleSetHash","internalType":"uint256","type":"uint256"},{"name":"set","internalType":"address[]","type":"address[]"}],"name":"getNewSetId","outputs":[{"name":"result","internalType":"bytes32","type":"bytes32"}],"stateMutability":"view"}]

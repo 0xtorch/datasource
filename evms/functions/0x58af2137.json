@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"squareId","internalType":"uint256","type":"uint256"}],"name":"Bebobs","outputs":[{"name":"lastActivity","internalType":"uint256","type":"uint256"},{"name":"summonedAt","internalType":"uint256","type":"uint256"},{"name":"attackedAt","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

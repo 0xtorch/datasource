@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"fee","internalType":"uint24","type":"uint24"},{"name":"whitelistRequested","internalType":"bool","type":"bool"},{"name":"enabled","internalType":"bool","type":"bool"}],"name":"setFeeAmountExtraInfo","outputs":[],"stateMutability":"nonpayable"}]

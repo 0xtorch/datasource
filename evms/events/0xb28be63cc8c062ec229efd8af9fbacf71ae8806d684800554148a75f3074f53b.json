@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"oldRewardMultiplier","internalType":"uint256","type":"uint256","indexed":false},{"name":"newRewardMultiplier","internalType":"uint256","type":"uint256","indexed":false}],"name":"UpdateRewardMultiplier"}]

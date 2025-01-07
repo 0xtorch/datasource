@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"depositAmount","internalType":"uint256","type":"uint256"},{"name":"forwardCost","internalType":"uint256","type":"uint256"}],"name":"supply","outputs":[],"stateMutability":"payable"}]

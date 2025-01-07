@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"destination","internalType":"address payable","type":"address"},{"name":"amount","internalType":"uint256","type":"uint256"}],"name":"adminSendEth","outputs":[],"stateMutability":"nonpayable"}]

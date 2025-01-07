@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"sender","internalType":"address","type":"address"},{"name":"quantity","internalType":"uint256","type":"uint256"},{"name":"_clothType","internalType":"uint8","type":"uint8"},{"name":"_specialType","internalType":"uint256","type":"uint256"}],"name":"mintSlothCollection","outputs":[],"stateMutability":"nonpayable"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_migrator","internalType":"contract IMigratorChef","type":"address"}],"name":"setMigrator","outputs":[],"stateMutability":"nonpayable"}]

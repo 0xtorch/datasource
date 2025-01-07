@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"user_id","internalType":"uint256","type":"uint256","indexed":false},{"name":"account","internalType":"address","type":"address","indexed":false},{"name":"amount","internalType":"uint256","type":"uint256","indexed":false},{"name":"leaf","internalType":"bytes32","type":"bytes32","indexed":false}],"name":"Claimed"}]

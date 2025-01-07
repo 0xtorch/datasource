@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[],"name":"defaultMaxGasForMatching","outputs":[{"name":"supply","internalType":"uint64","type":"uint64"},{"name":"borrow","internalType":"uint64","type":"uint64"},{"name":"withdraw","internalType":"uint64","type":"uint64"},{"name":"repay","internalType":"uint64","type":"uint64"}],"stateMutability":"view"}]

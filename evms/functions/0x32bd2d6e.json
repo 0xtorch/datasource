@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"tokenId","internalType":"uint256","type":"uint256"},{"name":"palette","internalType":"bytes","type":"bytes"}],"name":"setPalette","outputs":[],"stateMutability":"nonpayable"}]

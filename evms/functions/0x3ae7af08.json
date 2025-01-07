@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"systemId","internalType":"ResourceId","type":"bytes32"},{"name":"callData","internalType":"bytes","type":"bytes"}],"name":"call","outputs":[{"name":"","internalType":"bytes","type":"bytes"}],"stateMutability":"payable"}]

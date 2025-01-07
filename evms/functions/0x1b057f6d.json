@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"hooksParameters","internalType":"bytes32","type":"bytes32"},{"name":"onHooksSetData","internalType":"bytes","type":"bytes"}],"name":"setHooksParameters","outputs":[],"stateMutability":"nonpayable"}]

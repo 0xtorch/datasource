@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"MicroMintFeeWei","internalType":"uint256","type":"uint256","indexed":false},{"name":"MicroFeeRecipient","internalType":"address","type":"address","indexed":false},{"name":"success","internalType":"bool","type":"bool","indexed":false}],"name":"FeePayout"}]

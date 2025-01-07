@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"hourlyLimit","internalType":"uint256","type":"uint256"}],"name":"setChainTotalHourlyLimit","outputs":[],"stateMutability":"nonpayable"}]

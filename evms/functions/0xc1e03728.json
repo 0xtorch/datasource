@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_id","internalType":"uint256","type":"uint256"}],"name":"getTokenDetails","outputs":[{"name":"","internalType":"struct SidusItems.TokenReq","type":"tuple","components":[{"name":"stopMintAfter","internalType":"uint256","type":"uint256"},{"name":"maxTotalSupply","internalType":"uint256","type":"uint256"}]}],"stateMutability":"view"}]

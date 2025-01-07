@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"maxPerAddressDuringMint","internalType":"uint256","type":"uint256","indexed":false}],"name":"MaxPerAddressDuringMintSet"}]

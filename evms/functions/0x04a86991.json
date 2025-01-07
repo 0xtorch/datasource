@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"newApprovalContract","internalType":"contract ApprovalInterface","type":"address"}],"name":"modifyApprovalContract","outputs":[],"stateMutability":"nonpayable"}]

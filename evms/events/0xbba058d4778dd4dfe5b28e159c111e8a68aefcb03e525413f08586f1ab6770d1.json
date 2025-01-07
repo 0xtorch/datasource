@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"inputAmount","internalType":"uint256","type":"uint256","indexed":false},{"name":"bill","internalType":"contract ICustomBill","type":"address","indexed":false}],"name":"ZapTBillNative"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_protocolFeeDestination","internalType":"address","type":"address"}],"name":"setProtocolFeeDestination","outputs":[],"stateMutability":"nonpayable"}]

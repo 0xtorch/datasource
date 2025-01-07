@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"minters","internalType":"address[]","type":"address[]"},{"name":"mintingAllowances","internalType":"uint256[]","type":"uint256[]"}],"name":"adjustMintingAllowances","outputs":[],"stateMutability":"nonpayable"}]

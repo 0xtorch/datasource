@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"newSaleState","internalType":"enum ISupremeSkulls.SaleState","type":"uint8","indexed":false}],"name":"SaleStateChanged"}]

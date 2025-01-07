@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_id","internalType":"bytes32","type":"bytes32"}],"name":"fetch_resourceIDToHandlerAddress","outputs":[{"name":"","internalType":"address","type":"address"}],"stateMutability":"view"}]

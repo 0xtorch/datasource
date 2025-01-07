@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_hash","internalType":"string","type":"string"}],"name":"hashToSVG","outputs":[{"name":"","internalType":"string","type":"string"}],"stateMutability":"view"}]

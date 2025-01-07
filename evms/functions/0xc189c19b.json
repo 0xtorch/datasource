@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_strike","internalType":"uint256","type":"uint256"}],"name":"getVolatility","outputs":[{"name":"","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[],"name":"poolInfos","outputs":[{"name":"","internalType":"struct MiniChefV2.PoolInfo[]","type":"tuple[]","components":[{"name":"accRewardPerShare","internalType":"uint128","type":"uint128"},{"name":"lastRewardTime","internalType":"uint64","type":"uint64"},{"name":"allocPoint","internalType":"uint64","type":"uint64"}]}],"stateMutability":"view"}]

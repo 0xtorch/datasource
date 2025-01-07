@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"owner","internalType":"address","type":"address"},{"name":"salt","internalType":"uint256","type":"uint256"}],"name":"getAddress","outputs":[{"name":"","internalType":"address","type":"address"}],"stateMutability":"view"}]

@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"_currentPeriodRewards","internalType":"uint256","type":"uint256","indexed":false},{"name":"_extraRewards","internalType":"uint256","type":"uint256","indexed":false},{"name":"_revShare","internalType":"uint256","type":"uint256","indexed":false}],"name":"ReceivedStakingRewardsUpdate"}]

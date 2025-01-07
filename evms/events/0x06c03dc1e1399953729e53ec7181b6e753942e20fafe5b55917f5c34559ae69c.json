@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"strategy","type":"address","indexed":true},{"name":"totalDebt","type":"uint256","indexed":false},{"name":"loss","type":"uint256","indexed":false}],"name":"WithdrawFromStrategy"}]

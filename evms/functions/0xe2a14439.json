@@ -1,0 +1,1 @@
+[{"type":"function","constant":true,"inputs":[],"name":"stakeModifier","outputs":[{"name":"","internalType":"contract IStakeModifier","type":"address"}],"payable":false,"stateMutability":"view"}]

@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"asset","internalType":"address","type":"address","indexed":true},{"name":"allowDeposits","internalType":"bool","type":"bool","indexed":false},{"name":"allowWithdraws","internalType":"bool","type":"bool","indexed":false},{"name":"sharePremium","internalType":"uint16","type":"uint16","indexed":false}],"name":"AssetDataUpdated"}]

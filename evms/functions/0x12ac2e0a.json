@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"encodedLoanReceipt","internalType":"bytes","type":"bytes"},{"name":"proceeds","internalType":"uint256","type":"uint256"}],"name":"onCollateralLiquidated","outputs":[],"stateMutability":"nonpayable"}]

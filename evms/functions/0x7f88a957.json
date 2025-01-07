@@ -1,0 +1,1 @@
+[{"type":"function","constant":false,"inputs":[{"name":"validatorId","internalType":"uint256","type":"uint256"},{"name":"user","internalType":"address","type":"address"},{"name":"totalStaked","internalType":"uint256","type":"uint256"}],"name":"logDelegatorRestaked","outputs":[],"payable":false,"stateMutability":"nonpayable"}]

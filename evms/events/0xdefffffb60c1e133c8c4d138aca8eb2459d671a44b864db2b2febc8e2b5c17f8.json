@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"sender","type":"address","indexed":false},{"name":"upgradeAgent","type":"address","indexed":false}],"name":"UpgradeFinalized"}]

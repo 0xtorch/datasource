@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"baseToken","internalType":"address","type":"address"},{"name":"maxTickCrossedWithinBlock","internalType":"uint24","type":"uint24"}],"name":"setMaxTickCrossedWithinBlock","outputs":[],"stateMutability":"nonpayable"}]

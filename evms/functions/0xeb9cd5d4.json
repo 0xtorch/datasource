@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_projectId","internalType":"uint256","type":"uint256"}],"name":"projectScriptDetails","outputs":[{"name":"scriptTypeAndVersion","internalType":"string","type":"string"},{"name":"aspectRatio","internalType":"string","type":"string"},{"name":"scriptCount","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

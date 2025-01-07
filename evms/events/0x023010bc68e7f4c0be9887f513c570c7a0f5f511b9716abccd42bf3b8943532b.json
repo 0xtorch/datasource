@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"epoch","internalType":"uint256","type":"uint256","indexed":true},{"name":"rewardRate","internalType":"uint256","type":"uint256","indexed":false},{"name":"treasuryRate","internalType":"uint256","type":"uint256","indexed":false}],"name":"RatesUpdated"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_royalty","internalType":"struct IRoyaltyManager.Royalty","type":"tuple","components":[{"name":"recipientAddress","internalType":"address","type":"address"},{"name":"royaltyPercentageBPS","internalType":"uint16","type":"uint16"}]}],"name":"setDefaultRoyalty","outputs":[],"stateMutability":"nonpayable"}]

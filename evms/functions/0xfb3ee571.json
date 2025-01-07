@@ -1,0 +1,1 @@
+[{"type":"function","constant":false,"inputs":[{"name":"asset","type":"address"}],"name":"seize","outputs":[{"name":"balance","type":"uint256"}],"payable":false,"stateMutability":"nonpayable"}]

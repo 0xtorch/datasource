@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"bridgeIndex","internalType":"uint256","type":"uint256","indexed":true},{"name":"enableBridgeTo","internalType":"bool","type":"bool","indexed":false},{"name":"enableBridgeFrom","internalType":"bool","type":"bool","indexed":false}],"name":"UpdateBridge"}]

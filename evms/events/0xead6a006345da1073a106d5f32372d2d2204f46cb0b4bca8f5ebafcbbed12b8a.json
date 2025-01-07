@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"module","internalType":"address","type":"address","indexed":false}],"name":"ModuleAdded"},{"type":"event","anonymous":false,"inputs":[{"name":"_module","internalType":"address","type":"address","indexed":true}],"name":"ModuleAdded"}]

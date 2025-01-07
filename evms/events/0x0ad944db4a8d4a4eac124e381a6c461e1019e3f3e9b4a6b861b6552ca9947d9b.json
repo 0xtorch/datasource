@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"store","type":"address","indexed":true},{"name":"name","type":"string","indexed":false},{"name":"symbol","type":"string","indexed":false}],"name":"StoreLaunch"}]

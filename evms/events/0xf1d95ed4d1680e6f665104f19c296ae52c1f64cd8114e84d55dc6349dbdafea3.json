@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"previousOwner","internalType":"address","type":"address","indexed":true},{"name":"recipient","internalType":"address","type":"address","indexed":true},{"name":"id","internalType":"bytes32","type":"bytes32","indexed":true}],"name":"ethscriptions_protocol_TransferEthscriptionForPreviousOwner"}]

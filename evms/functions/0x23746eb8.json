@@ -1,0 +1,1 @@
+[{"type":"function","constant":true,"gas":2190,"inputs":[{"name":"arg0","type":"int128"}],"name":"coins","outputs":[{"name":"","type":"address"}],"payable":false,"stateMutability":"view"}]

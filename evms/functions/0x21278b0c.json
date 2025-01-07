@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_traitType","internalType":"string","type":"string"},{"name":"_rarities","internalType":"uint8[]","type":"uint8[]"},{"name":"_aliases","internalType":"uint8[]","type":"uint8[]"}],"name":"setRaritiesForTrait","outputs":[],"stateMutability":"nonpayable"}]

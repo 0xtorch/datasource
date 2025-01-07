@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"contractAddr","internalType":"address","type":"address","indexed":true},{"name":"lowLevelData","internalType":"bytes","type":"bytes","indexed":false}],"name":"unexpectedFailureAssertionInPackageHandler"}]

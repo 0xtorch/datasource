@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[],"name":"securityLevel","outputs":[{"name":"","internalType":"enum IVariableRateTransfers.SecurityLevel","type":"uint8"}],"stateMutability":"view"}]

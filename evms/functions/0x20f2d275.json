@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_tokenLockContract","internalType":"address","type":"address"},{"name":"isEnabled","internalType":"bool","type":"bool"}],"name":"setTokenLockContract","outputs":[],"stateMutability":"nonpayable"}]

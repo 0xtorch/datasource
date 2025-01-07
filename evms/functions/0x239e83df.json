@@ -1,0 +1,1 @@
+[{"type":"function","constant":true,"inputs":[{"name":"array","type":"bytes"},{"name":"desired","type":"bytes"},{"name":"mask","type":"bytes"}],"name":"guardedArrayReplace","outputs":[{"name":"","type":"bytes"}],"payable":false,"stateMutability":"pure"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_erc1155AddressLs","internalType":"address[]","type":"address[]"},{"name":"_erc1155TokenIdLsLs","internalType":"uint256[][]","type":"uint256[][]"}],"name":"getBatch1155Rule","outputs":[{"name":"","internalType":"uint256[][]","type":"uint256[][]"}],"stateMutability":"view"}]

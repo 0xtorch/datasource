@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_passId","internalType":"uint256","type":"uint256"},{"name":"_maxMint","internalType":"uint256","type":"uint256"},{"name":"_hasPass","internalType":"bool","type":"bool"},{"name":"_signature","internalType":"bytes","type":"bytes"}],"name":"mintWithPass","outputs":[],"stateMutability":"payable"}]

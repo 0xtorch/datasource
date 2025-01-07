@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"vaultProxy","internalType":"address","type":"address","indexed":true},{"name":"sharesAmount","internalType":"uint256","type":"uint256","indexed":false},{"name":"secondsPaid","internalType":"uint256","type":"uint256","indexed":false}],"name":"FeePaidForVault"}]

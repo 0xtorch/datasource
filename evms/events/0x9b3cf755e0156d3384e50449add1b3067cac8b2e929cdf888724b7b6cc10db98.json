@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"name","internalType":"string","type":"string","indexed":false},{"name":"type_id","internalType":"uint256","type":"uint256","indexed":false}],"name":"AddType"}]

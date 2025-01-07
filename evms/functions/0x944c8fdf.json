@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"id","internalType":"uint256","type":"uint256"}],"name":"getElements","outputs":[{"name":"elements","internalType":"string[3]","type":"string[3]"}],"stateMutability":"view"}]

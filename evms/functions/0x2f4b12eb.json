@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_projectId","internalType":"uint256","type":"uint256"},{"name":"_walletAddress","internalType":"address","type":"address"}],"name":"getProjectExcessSettlementFunds","outputs":[{"name":"excessSettlementFundsInWei","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

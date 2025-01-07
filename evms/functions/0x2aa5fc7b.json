@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_dex","internalType":"address","type":"address"},{"name":"_enabled","internalType":"bool","type":"bool"}],"name":"setExternalSwap","outputs":[],"stateMutability":"nonpayable"}]

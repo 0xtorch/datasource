@@ -1,0 +1,1 @@
+[{"type":"function","constant":false,"inputs":[{"name":"user","type":"address"},{"name":"_numItems","type":"uint8"}],"name":"register","outputs":[],"payable":false,"stateMutability":"nonpayable"}]

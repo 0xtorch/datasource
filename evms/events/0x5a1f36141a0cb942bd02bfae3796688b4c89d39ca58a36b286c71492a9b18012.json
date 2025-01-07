@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"baseToken","internalType":"address","type":"address","indexed":true},{"name":"newThreshold","internalType":"uint256","type":"uint256","indexed":false},{"name":"newR","internalType":"uint256","type":"uint256","indexed":false}],"name":"ParametersUpdated"}]

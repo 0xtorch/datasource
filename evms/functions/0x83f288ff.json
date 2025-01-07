@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_nonceAndMeta","internalType":"uint256","type":"uint256"},{"name":"_newMakerAmount","internalType":"uint256","type":"uint256"},{"name":"_oldMakerAmount","internalType":"uint256","type":"uint256"}],"name":"updateOrderMakerAmount","outputs":[],"stateMutability":"nonpayable"}]

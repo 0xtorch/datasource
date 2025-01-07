@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"categoryKey","internalType":"bytes32","type":"bytes32","indexed":false},{"name":"typeKey","internalType":"bytes32","type":"bytes32","indexed":false},{"name":"itemId","internalType":"uint256","type":"uint256","indexed":false}],"name":"LogNewItem"}]

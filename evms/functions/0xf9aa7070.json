@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_pendingPools","internalType":"address[]","type":"address[]"}],"name":"pendingBribeCallerFee","outputs":[{"name":"rewardTokens","internalType":"address[][]","type":"address[][]"},{"name":"callerFeeAmount","internalType":"uint256[][]","type":"uint256[][]"}],"stateMutability":"view"}]

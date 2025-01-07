@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"priceInUSD","internalType":"uint256","type":"uint256","indexed":true},{"name":"internalPrice","internalType":"uint256","type":"uint256","indexed":true},{"name":"debtRatio","internalType":"uint256","type":"uint256","indexed":true}],"name":"BondPriceChanged"}]

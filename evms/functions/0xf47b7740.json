@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[],"name":"information","outputs":[{"name":"version","internalType":"string","type":"string"},{"name":"domainSeparator","internalType":"bytes32","type":"bytes32"},{"name":"conduitController","internalType":"address","type":"address"}],"stateMutability":"view"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"encodedLoanReceipt","internalType":"bytes","type":"bytes"}],"name":"liquidate","outputs":[],"stateMutability":"nonpayable"}]

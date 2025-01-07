@@ -1,0 +1,1 @@
+[{"type":"function","gas":34581,"inputs":[{"name":"amount","type":"uint256"}],"name":"calcSharesToMint","outputs":[{"name":"","type":"uint256"}],"stateMutability":"view"}]

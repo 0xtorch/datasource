@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"v1Contract","internalType":"address","type":"address"},{"name":"from","internalType":"uint16","type":"uint16"},{"name":"to","internalType":"uint16","type":"uint16"}],"name":"airdropToOwners","outputs":[],"stateMutability":"nonpayable"}]

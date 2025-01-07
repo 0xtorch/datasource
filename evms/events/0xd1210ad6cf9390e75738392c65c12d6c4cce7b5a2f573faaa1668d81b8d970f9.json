@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"liquidations_admin","type":"address","indexed":false},{"name":"no_liquidation_interval","type":"uint256","indexed":false},{"name":"restricted_liquidation_interval","type":"uint256","indexed":false}],"name":"LiquidationConfigUpdated"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"nftContract","internalType":"address","type":"address"},{"name":"tokenId","internalType":"uint256","type":"uint256"}],"name":"getIsPrimary","outputs":[{"name":"","internalType":"bool","type":"bool"}],"stateMutability":"view"}]

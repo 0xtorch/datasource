@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"prohibited","type":"address","indexed":true},{"name":"status","type":"bool","indexed":false},{"name":"sender","type":"address","indexed":true}],"name":"Prohibition"}]

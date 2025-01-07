@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"newRewardsDistribution","internalType":"address","type":"address","indexed":false}],"name":"RewardsDistributionUpdated"}]

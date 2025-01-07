@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_feeRecipient","internalType":"address payable","type":"address"},{"name":"_platformFee","internalType":"uint16","type":"uint16"}],"name":"initialize","outputs":[],"stateMutability":"nonpayable"}]

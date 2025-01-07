@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"newURI","internalType":"string","type":"string"},{"name":"maxSupply","internalType":"uint256","type":"uint256"},{"name":"createReferral","internalType":"address","type":"address"}],"name":"setupNewTokenWithCreateReferral","outputs":[{"name":"","internalType":"uint256","type":"uint256"}],"stateMutability":"nonpayable"}]

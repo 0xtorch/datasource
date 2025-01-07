@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_pool","internalType":"address","type":"address"},{"name":"_value","internalType":"bool","type":"bool"}],"name":"updateisZeroFeeContract","outputs":[],"stateMutability":"nonpayable"}]

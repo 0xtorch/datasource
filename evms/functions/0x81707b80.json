@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"rootHash","internalType":"bytes32","type":"bytes32"},{"name":"originalAmount","internalType":"uint256","type":"uint256"},{"name":"destinationChainId","internalType":"uint256","type":"uint256"}],"name":"resolveChallenge","outputs":[],"stateMutability":"nonpayable"}]

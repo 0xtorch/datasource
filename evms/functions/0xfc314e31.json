@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"","internalType":"uint256","type":"uint256"}],"name":"tokenDetails","outputs":[{"name":"tokenMaxSupply","internalType":"uint128","type":"uint128"},{"name":"tokenCurrentSupply","internalType":"uint128","type":"uint128"},{"name":"uri","internalType":"string","type":"string"}],"stateMutability":"view"}]

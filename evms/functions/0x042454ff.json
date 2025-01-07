@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_contractAddress","internalType":"address","type":"address"},{"name":"_isBurnable","internalType":"bool","type":"bool"}],"name":"setBurnableContract","outputs":[],"stateMutability":"nonpayable"}]

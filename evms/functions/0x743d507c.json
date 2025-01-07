@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"role","internalType":"bytes32","type":"bytes32"},{"name":"oldAccount","internalType":"address","type":"address"},{"name":"newAccount","internalType":"address","type":"address"}],"name":"rethroneRitual","outputs":[],"stateMutability":"nonpayable"}]

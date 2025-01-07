@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[],"name":"getRange","outputs":[{"name":"low","internalType":"uint24","type":"uint24"},{"name":"upper","internalType":"uint24","type":"uint24"}],"stateMutability":"view"}]

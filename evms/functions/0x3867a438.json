@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"","internalType":"uint256","type":"uint256"}],"name":"genesisQuestLookup","outputs":[{"name":"genesisTokenId","internalType":"uint16","type":"uint16"},{"name":"spiritTokenId","internalType":"uint16","type":"uint16"},{"name":"adventurer","internalType":"address","type":"address"}],"stateMutability":"view"}]

@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"inputAmount","internalType":"uint256","type":"uint256","indexed":false},{"name":"pool","internalType":"contract IBEP20RewardApeV5","type":"address","indexed":false}],"name":"ZapLPPoolNative"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"predicateInfos","internalType":"struct ISemantic.Predicate[]","type":"tuple[]","components":[{"name":"value","internalType":"string","type":"string"},{"name":"predicateType","internalType":"enum ISemantic.FieldType","type":"uint8"}]}],"name":"addPredicates","outputs":[],"stateMutability":"nonpayable"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"token","internalType":"address","type":"address"},{"name":"isUser","internalType":"bool","type":"bool"}],"name":"harvest","outputs":[],"stateMutability":"nonpayable"}]

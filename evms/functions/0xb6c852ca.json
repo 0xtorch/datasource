@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"lockStatus","internalType":"enum LockStatus","type":"uint8"}],"name":"setWalletLock","outputs":[],"stateMutability":"nonpayable"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"batchSize_","internalType":"uint256","type":"uint256"},{"name":"capacitorAddress_","internalType":"address","type":"address"},{"name":"signature_","internalType":"bytes","type":"bytes"}],"name":"seal","outputs":[],"stateMutability":"payable"}]

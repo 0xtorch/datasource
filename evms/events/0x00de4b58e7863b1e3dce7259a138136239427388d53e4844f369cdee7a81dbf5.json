@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"yield","internalType":"int256","type":"int256","indexed":false},{"name":"insurancePremiumPaid","internalType":"uint256","type":"uint256","indexed":false},{"name":"insuranceWithdrawn","internalType":"uint256","type":"uint256","indexed":false}],"name":"YieldReport"}]

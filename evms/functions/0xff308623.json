@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"who","internalType":"address","type":"address"}],"name":"hasClaimedKeysAndMedals","outputs":[{"name":"","internalType":"bool","type":"bool"},{"name":"","internalType":"bool","type":"bool"}],"stateMutability":"view"}]

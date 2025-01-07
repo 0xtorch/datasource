@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[],"name":"capParams","outputs":[{"name":"","internalType":"struct ICappedLiquidity.CapParams","type":"tuple","components":[{"name":"capEnabled","internalType":"bool","type":"bool"},{"name":"perAddressCap","internalType":"uint120","type":"uint120"},{"name":"globalCap","internalType":"uint128","type":"uint128"}]}],"stateMutability":"view"}]

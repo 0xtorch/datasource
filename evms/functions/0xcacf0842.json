@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_erc20TokenContract","internalType":"address","type":"address"}],"name":"disableERC20ContractAsPayment","outputs":[],"stateMutability":"nonpayable"}]

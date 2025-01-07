@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"pubKey","internalType":"bytes","type":"bytes","indexed":false},{"name":"useBuffer","internalType":"bool","type":"bool","indexed":false},{"name":"releasedAmount","internalType":"uint256","type":"uint256","indexed":false},{"name":"penalty","internalType":"uint256","type":"uint256","indexed":false}],"name":"SlashValidator"}]

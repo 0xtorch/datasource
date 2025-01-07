@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"newLiquidityReceiver","internalType":"address","type":"address"},{"name":"newMarketingWallet","internalType":"address","type":"address"},{"name":"newTeamdevWallet","internalType":"address","type":"address"}],"name":"changeFeeReceivers","outputs":[],"stateMutability":"nonpayable"}]

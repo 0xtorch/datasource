@@ -1,0 +1,1 @@
+[{"type":"function","constant":true,"inputs":[{"name":"_editionNumber","type":"uint256"}],"name":"priceInWeiEdition","outputs":[{"name":"_priceInWei","type":"uint256"}],"payable":false,"stateMutability":"view"}]

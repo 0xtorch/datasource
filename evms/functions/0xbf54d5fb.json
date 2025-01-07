@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"projectId","internalType":"uint256","type":"uint256"},{"name":"coreContract","internalType":"address","type":"address"}],"name":"getProjectBalance","outputs":[{"name":"projectBalance","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

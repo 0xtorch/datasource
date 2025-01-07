@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"_startingQueueIndex","internalType":"uint256","type":"uint256","indexed":false},{"name":"_numQueueElements","internalType":"uint256","type":"uint256","indexed":false},{"name":"_totalElements","internalType":"uint256","type":"uint256","indexed":false}],"name":"QueueBatchAppended"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"amount","internalType":"uint256","type":"uint256"},{"name":"from","internalType":"uint8","type":"uint8"},{"name":"to","internalType":"uint8","type":"uint8"}],"name":"changeAllocation","outputs":[],"stateMutability":"nonpayable"}]

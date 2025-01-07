@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"index","internalType":"uint256","type":"uint256"},{"name":"account","internalType":"address","type":"address"},{"name":"tokenGrant","internalType":"uint256","type":"uint256"},{"name":"merkleProof","internalType":"bytes32[]","type":"bytes32[]"}],"name":"claimVested","outputs":[],"stateMutability":"nonpayable"}]

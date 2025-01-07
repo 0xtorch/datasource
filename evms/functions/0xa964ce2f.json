@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"to","internalType":"address","type":"address"},{"name":"qty","internalType":"uint8","type":"uint8"}],"name":"publicMint","outputs":[],"stateMutability":"payable"}]

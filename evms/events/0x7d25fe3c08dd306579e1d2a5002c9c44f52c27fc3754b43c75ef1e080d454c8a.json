@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"oldRegistry","internalType":"address","type":"address","indexed":false},{"name":"newRegistry","internalType":"address","type":"address","indexed":false}],"name":"KYCRegistrySet"}]

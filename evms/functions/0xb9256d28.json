@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"updateData","internalType":"bytes[]","type":"bytes[]"},{"name":"priceIds","internalType":"bytes32[]","type":"bytes32[]"},{"name":"publishTimes","internalType":"uint64[]","type":"uint64[]"}],"name":"updatePriceFeedsIfNecessary","outputs":[],"stateMutability":"payable"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"coinTokenIds","internalType":"uint256[]","type":"uint256[]"},{"name":"exps","internalType":"uint256[]","type":"uint256[]"}],"name":"revealBatch","outputs":[],"stateMutability":"nonpayable"}]

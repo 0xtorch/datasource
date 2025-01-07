@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_pool","internalType":"address","type":"address"}],"name":"pathToTrade","outputs":[{"name":"path","internalType":"address[]","type":"address[]"}],"stateMutability":"view"}]

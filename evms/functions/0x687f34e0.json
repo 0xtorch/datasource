@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"users","internalType":"address[]","type":"address[]"},{"name":"unclaimedCredits","internalType":"uint256[]","type":"uint256[]"},{"name":"bonusCredits","internalType":"uint256[]","type":"uint256[]"},{"name":"diamondHands","internalType":"bool[]","type":"bool[]"}],"name":"setInitialCredits","outputs":[],"stateMutability":"nonpayable"}]

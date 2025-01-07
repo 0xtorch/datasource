@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"oldLimit","internalType":"uint96","type":"uint96","indexed":false},{"name":"newLimit","internalType":"uint96","type":"uint96","indexed":false}],"name":"DailyWithdrawalLimitSet"}]

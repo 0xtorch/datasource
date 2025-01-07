@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"recipient","internalType":"address","type":"address"}],"name":"removeLiquidity","outputs":[{"name":"underlyingOut","internalType":"uint256","type":"uint256"},{"name":"baseLptOut","internalType":"uint256","type":"uint256"}],"stateMutability":"nonpayable"}]

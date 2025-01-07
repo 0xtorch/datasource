@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"tokenAddress","internalType":"address","type":"address","indexed":true},{"name":"floorPrice","internalType":"uint256","type":"uint256","indexed":false},{"name":"ceilingPrice","internalType":"uint256","type":"uint256","indexed":false}],"name":"UpdatedCollectionLevelPricingBoundaries"}]

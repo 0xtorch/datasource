@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"resourceID","internalType":"bytes32","type":"bytes32"},{"name":"tokenAddress","internalType":"address","type":"address"},{"name":"amount","internalType":"uint256","type":"uint256"}],"name":"unstake","outputs":[],"stateMutability":"nonpayable"}]

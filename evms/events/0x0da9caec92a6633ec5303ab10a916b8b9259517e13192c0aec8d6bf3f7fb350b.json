@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"target","type":"address","indexed":true},{"name":"caller","type":"address","indexed":true}],"name":"WithdrawOperatorAdded"}]

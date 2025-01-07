@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"account","internalType":"address","type":"address"},{"name":"tokenId","internalType":"uint64","type":"uint64"},{"name":"amount","internalType":"uint256","type":"uint256"}],"name":"mintToAccount","outputs":[],"stateMutability":"payable"}]

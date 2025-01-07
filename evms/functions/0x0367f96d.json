@@ -1,0 +1,1 @@
+[{"type":"function","constant":false,"inputs":[{"name":"newHardcap","type":"uint256"}],"name":"setHardCapValue","outputs":[{"name":"success","type":"bool"}],"payable":false,"stateMutability":"nonpayable"}]

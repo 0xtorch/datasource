@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"agreementClassLogic","internalType":"contract ISuperAgreement","type":"address"}],"name":"updateAgreementClass","outputs":[],"stateMutability":"nonpayable"}]

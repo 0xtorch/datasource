@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"badgeId","internalType":"uint64","type":"uint64","indexed":true},{"name":"porjectId","internalType":"uint64","type":"uint64","indexed":true},{"name":"userId","internalType":"string","type":"string","indexed":true},{"name":"tier","internalType":"uint8","type":"uint8","indexed":false}],"name":"OkapiBadgeMint"}]

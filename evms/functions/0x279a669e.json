@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_airdropAddresses","internalType":"address[]","type":"address[]"},{"name":"_UserMintAmount","internalType":"uint256[]","type":"uint256[]"}],"name":"airdropMint","outputs":[],"stateMutability":"nonpayable"}]

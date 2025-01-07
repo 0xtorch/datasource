@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"devTaxReceiver","internalType":"address","type":"address"},{"name":"devTokenReceiver","internalType":"address","type":"address"}],"name":"setDevAddress","outputs":[],"stateMutability":"nonpayable"}]

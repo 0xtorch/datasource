@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"messageData","internalType":"bytes","type":"bytes"}],"name":"sendL2Message","outputs":[{"name":"","internalType":"uint256","type":"uint256"}],"stateMutability":"nonpayable"}]

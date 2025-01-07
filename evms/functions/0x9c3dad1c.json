@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"targetChain","internalType":"uint16","type":"uint16"}],"name":"depositETH","outputs":[{"name":"messageSequence","internalType":"uint64","type":"uint64"}],"stateMutability":"payable"}]

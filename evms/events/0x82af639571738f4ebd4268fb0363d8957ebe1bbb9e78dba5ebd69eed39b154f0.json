@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"makerAddress","type":"address","indexed":true},{"name":"senderAddress","type":"address","indexed":true},{"name":"orderEpoch","type":"uint256","indexed":false}],"name":"CancelUpTo"}]

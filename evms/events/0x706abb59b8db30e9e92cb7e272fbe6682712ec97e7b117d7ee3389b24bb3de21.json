@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"bridgeTransactionCost","internalType":"uint256","type":"uint256","indexed":false},{"name":"messageTransactionCost","internalType":"uint256","type":"uint256","indexed":false}],"name":"ReceiveFee"}]

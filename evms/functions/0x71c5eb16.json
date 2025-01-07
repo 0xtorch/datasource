@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_typeName","internalType":"string","type":"string"},{"name":"_typeSuffix","internalType":"string","type":"string"},{"name":"_destinationContract","internalType":"address","type":"address"},{"name":"_functionSignature","internalType":"bytes4","type":"bytes4"}],"name":"registerRequestType","outputs":[],"stateMutability":"nonpayable"}]

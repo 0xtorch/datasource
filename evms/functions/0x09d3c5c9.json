@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"pcId","internalType":"uint256","type":"uint256"},{"name":"artId","internalType":"uint256","type":"uint256"}],"name":"setGalleryArt","outputs":[],"stateMutability":"nonpayable"}]

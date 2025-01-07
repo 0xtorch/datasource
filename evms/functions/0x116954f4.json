@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"length","internalType":"uint256","type":"uint256"}],"name":"getFeeListLatest","outputs":[{"name":"indexes","internalType":"uint256[]","type":"uint256[]"},{"name":"fees","internalType":"uint256[]","type":"uint256[]"}],"stateMutability":"view"}]

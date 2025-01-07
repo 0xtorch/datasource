@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"id","internalType":"uint256","type":"uint256"},{"name":"amount","internalType":"uint256","type":"uint256"},{"name":"goRogue","internalType":"bool","type":"bool"},{"name":"data","internalType":"bytes","type":"bytes"}],"name":"addCollateral","outputs":[],"stateMutability":"payable"}]

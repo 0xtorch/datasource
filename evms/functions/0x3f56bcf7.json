@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"owner","internalType":"address","type":"address"},{"name":"contractAdd","internalType":"address","type":"address"}],"name":"viewMinterCount","outputs":[{"name":"","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_tokenAddr","internalType":"address","type":"address"},{"name":"_afCode","internalType":"string","type":"string"}],"name":"purchaseTokenListing","outputs":[{"name":"success","internalType":"bool","type":"bool"}],"stateMutability":"payable"}]

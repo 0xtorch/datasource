@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"router","internalType":"address","type":"address","indexed":true},{"name":"prevProposed","internalType":"address","type":"address","indexed":true},{"name":"newProposed","internalType":"address","type":"address","indexed":true}],"name":"RouterOwnerProposed"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_bmSaleCount","internalType":"uint256","type":"uint256"},{"name":"_maxBmAmount","internalType":"uint8","type":"uint8"}],"name":"setMaxBMAmount","outputs":[],"stateMutability":"nonpayable"}]

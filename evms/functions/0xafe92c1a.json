@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_fxs_oracle_addr","internalType":"address","type":"address"},{"name":"_weth_address","internalType":"address","type":"address"}],"name":"setFXSEthOracle","outputs":[],"stateMutability":"nonpayable"}]

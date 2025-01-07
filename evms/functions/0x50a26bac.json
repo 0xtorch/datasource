@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"index","internalType":"uint256","type":"uint256"},{"name":"_newToken","internalType":"address","type":"address"},{"name":"_newTotalLimit","internalType":"uint256","type":"uint256"},{"name":"_minStakingAmount","internalType":"uint256","type":"uint256"}],"name":"setStakingPool","outputs":[],"stateMutability":"nonpayable"}]

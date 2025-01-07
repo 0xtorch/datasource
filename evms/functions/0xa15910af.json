@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"page","internalType":"uint256","type":"uint256"},{"name":"pageSize","internalType":"uint256","type":"uint256"}],"name":"historicalTcLpsList","outputs":[{"name":"","internalType":"address[]","type":"address[]"}],"stateMutability":"view"}]

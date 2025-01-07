@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_mintPaused","internalType":"bool","type":"bool"},{"name":"_redeemPaused","internalType":"bool","type":"bool"}],"name":"toggle","outputs":[],"stateMutability":"nonpayable"}]

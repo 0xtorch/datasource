@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"vReserve0","internalType":"uint256","type":"uint256","indexed":false},{"name":"vReserve1","internalType":"uint256","type":"uint256","indexed":false},{"name":"reserve0","internalType":"uint256","type":"uint256","indexed":false},{"name":"reserve1","internalType":"uint256","type":"uint256","indexed":false}],"name":"Sync"}]

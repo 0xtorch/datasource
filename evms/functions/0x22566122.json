@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_supportedToken","internalType":"address","type":"address"},{"name":"amount","internalType":"uint256","type":"uint256"}],"name":"setMaxYPoolTokenSwapAmount","outputs":[],"stateMutability":"nonpayable"}]

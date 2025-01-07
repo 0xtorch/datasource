@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"restricted","internalType":"bool","type":"bool","indexed":false}],"name":"TransfersRestricted"}]

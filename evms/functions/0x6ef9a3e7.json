@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"fromPair","internalType":"address","type":"address"},{"name":"toPair","internalType":"address","type":"address"}],"name":"upgradeProdutivity","outputs":[],"stateMutability":"nonpayable"}]

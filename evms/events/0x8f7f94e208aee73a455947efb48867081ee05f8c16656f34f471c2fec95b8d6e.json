@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"newPair","internalType":"contract IPair","type":"address","indexed":true},{"name":"newPaymentToken","internalType":"address","type":"address","indexed":true}],"name":"SetPairAndPaymentToken"}]

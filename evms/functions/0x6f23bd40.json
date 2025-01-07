@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"bondGroupID","internalType":"uint256","type":"uint256"},{"name":"oracleHintID","internalType":"uint256","type":"uint256"}],"name":"liquidateBond","outputs":[],"stateMutability":"nonpayable"}]

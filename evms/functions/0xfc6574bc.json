@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_chainId","internalType":"uint256","type":"uint256"},{"name":"_depositId","internalType":"uint256","type":"uint256"},{"name":"_voter","internalType":"address","type":"address"}],"name":"depositVoted","outputs":[{"name":"","internalType":"bool","type":"bool"}],"stateMutability":"view"}]

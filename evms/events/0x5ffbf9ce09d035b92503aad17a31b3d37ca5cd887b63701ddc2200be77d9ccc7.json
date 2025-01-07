@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"_by","internalType":"address","type":"address","indexed":true},{"name":"yieldRewardsPerWeight","internalType":"uint256","type":"uint256","indexed":false},{"name":"lastYieldDistribution","internalType":"uint64","type":"uint64","indexed":false}],"name":"Synchronized"}]

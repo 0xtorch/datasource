@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_chainIdFrom","internalType":"uint256","type":"uint256"},{"name":"_dlnSourceAddress","internalType":"bytes","type":"bytes"},{"name":"_chainEngine","internalType":"enum DlnBase.ChainEngine","type":"uint8"}],"name":"setDlnSourceAddress","outputs":[],"stateMutability":"nonpayable"}]

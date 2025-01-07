@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"oldValue","internalType":"enum IOFTWrapper.QUOTE_TYPE","type":"uint8","indexed":false},{"name":"newValue","internalType":"enum IOFTWrapper.QUOTE_TYPE","type":"uint8","indexed":false}],"name":"LogDefaultQuoteTypeChanged"}]

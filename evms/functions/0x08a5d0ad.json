@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_account","internalType":"address","type":"address"}],"name":"getTokenIdsOfOwner","outputs":[{"name":"tokenIds","internalType":"uint256[]","type":"uint256[]"},{"name":"priceOfTokenIds","internalType":"uint256[]","type":"uint256[]"},{"name":"tokenURIs","internalType":"string[]","type":"string[]"}],"stateMutability":"view"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"approvals","internalType":"struct IAllowanceTransfer.TokenSpenderPair[]","type":"tuple[]","components":[{"name":"token","internalType":"address","type":"address"},{"name":"spender","internalType":"address","type":"address"}]}],"name":"lockdown","outputs":[],"stateMutability":"nonpayable"}]

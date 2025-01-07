@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"adapter","internalType":"address","type":"address"},{"name":"data","internalType":"bytes","type":"bytes"}],"name":"initializeAdapter","outputs":[],"stateMutability":"nonpayable"}]

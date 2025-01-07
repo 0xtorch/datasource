@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"","internalType":"address","type":"address"}],"name":"traderPositionMap","outputs":[{"name":"quoteSize","internalType":"int256","type":"int256"},{"name":"baseSize","internalType":"int256","type":"int256"},{"name":"tradeSize","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

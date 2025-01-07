@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"partnerId","internalType":"bytes2","type":"bytes2","indexed":true},{"name":"tenthBps","internalType":"uint256","type":"uint256","indexed":false},{"name":"widgetFee","internalType":"uint256","type":"uint256","indexed":false}],"name":"WidgetSwapped"}]

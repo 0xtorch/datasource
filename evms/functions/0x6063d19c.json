@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"lineageId","internalType":"uint256","type":"uint256"}],"name":"lineageExists","outputs":[{"name":"","internalType":"bool","type":"bool"}],"stateMutability":"view"}]

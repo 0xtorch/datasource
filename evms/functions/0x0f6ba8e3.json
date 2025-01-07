@@ -1,0 +1,1 @@
+[{"type":"function","gas":1489,"inputs":[{"name":"_first_balances","type":"uint256[2]"},{"name":"_last_balances","type":"uint256[2]"},{"name":"_time_elapsed","type":"uint256"}],"name":"get_twap_balances","outputs":[{"name":"","type":"uint256[2]"}],"stateMutability":"view"}]

@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"initiator","internalType":"address","type":"address","indexed":true},{"name":"owner","internalType":"address","type":"address","indexed":true},{"name":"avatar","internalType":"address","type":"address","indexed":true},{"name":"target","internalType":"address","type":"address","indexed":false}],"name":"RolesModSetup"}]

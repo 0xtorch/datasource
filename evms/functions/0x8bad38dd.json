@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"newComptroller","internalType":"contract ISablierV2Comptroller","type":"address"}],"name":"setComptroller","outputs":[],"stateMutability":"nonpayable"}]

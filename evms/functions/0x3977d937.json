@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"toAddAddesses","internalType":"address[]","type":"address[]"},{"name":"toRemoveAddesses","internalType":"address[]","type":"address[]"}],"name":"setAntibotModeWhitelist","outputs":[],"stateMutability":"nonpayable"}]

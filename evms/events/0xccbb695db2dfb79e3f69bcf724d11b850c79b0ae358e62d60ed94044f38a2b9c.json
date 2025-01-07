@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"id","internalType":"bytes32","type":"bytes32","indexed":false},{"name":"dstAmount","internalType":"uint256","type":"uint256","indexed":false},{"name":"status","internalType":"enum SwapBase.SwapStatus","type":"uint8","indexed":false}],"name":"SwapRequestDone"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_freeTrialLength","internalType":"uint256","type":"uint256"},{"name":"_refundPenaltyBasisPoints","internalType":"uint256","type":"uint256"}],"name":"updateRefundPenalty","outputs":[],"stateMutability":"nonpayable"}]

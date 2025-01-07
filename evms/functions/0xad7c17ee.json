@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"srcToken","internalType":"address","type":"address"},{"name":"feeAmount","internalType":"uint256","type":"uint256"},{"name":"depositId","internalType":"uint256","type":"uint256"},{"name":"initiatewithdrawal","internalType":"bool","type":"bool"}],"name":"iDepositInfoUpdate","outputs":[],"stateMutability":"payable"}]

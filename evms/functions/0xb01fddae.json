@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_beamAmount","internalType":"uint256","type":"uint256"}],"name":"BEAMForxBEAM","outputs":[{"name":"xBEAMAmount_","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

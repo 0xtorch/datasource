@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"addedOwner","type":"address","indexed":true},{"name":"addedBy","type":"address","indexed":true}],"name":"OwnerAdded"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_taxBuyForMarketing","internalType":"uint256","type":"uint256"},{"name":"_taxSellForMarketing","internalType":"uint256","type":"uint256"}],"name":"changeTaxForMarketing","outputs":[{"name":"","internalType":"bool","type":"bool"}],"stateMutability":"nonpayable"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_assetAddr","internalType":"address","type":"address"}],"name":"getMarketStatus","outputs":[{"name":"","internalType":"bool","type":"bool"}],"stateMutability":"view"}]

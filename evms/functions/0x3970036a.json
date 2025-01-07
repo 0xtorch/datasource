@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"underlying","internalType":"address","type":"address"}],"name":"getUniswapV2Pair","outputs":[{"name":"","internalType":"address","type":"address"}],"stateMutability":"view"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"adminAccounts","internalType":"address[]","type":"address[]"},{"name":"treasuryAccounts","internalType":"address[]","type":"address[]"},{"name":"initialTokens","internalType":"address[]","type":"address[]"}],"name":"initialize","outputs":[],"stateMutability":"nonpayable"}]

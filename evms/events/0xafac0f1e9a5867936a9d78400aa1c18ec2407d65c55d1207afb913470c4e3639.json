@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"token","internalType":"contract IERC20","type":"address","indexed":true},{"name":"isBlacklisted","internalType":"bool","type":"bool","indexed":false}],"name":"TokenBlacklistUpdated"}]

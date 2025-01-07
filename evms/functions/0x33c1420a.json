@@ -1,0 +1,1 @@
+[{"type":"function","constant":true,"inputs":[],"name":"raffle","outputs":[{"name":"","internalType":"contract IRaffle","type":"address"}],"payable":false,"stateMutability":"view"}]

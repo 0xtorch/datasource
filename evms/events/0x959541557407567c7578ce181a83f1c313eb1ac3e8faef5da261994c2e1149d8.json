@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"configs","internalType":"struct MayanFacet.Config[]","type":"tuple[]","components":[{"name":"chainId","internalType":"uint256","type":"uint256"},{"name":"wormholeChainId","internalType":"uint16","type":"uint16"}],"indexed":false}],"name":"MayanInitialized"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"token_quantities","internalType":"uint256[]","type":"uint256[]"}],"name":"hashTokenQuantities","outputs":[{"name":"","internalType":"bytes32","type":"bytes32"}],"stateMutability":"pure"}]

@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"whitelistConfigs","internalType":"struct OFTWrapperFacet.WhitelistConfig[]","type":"tuple[]","components":[{"name":"contractAddress","internalType":"address","type":"address"},{"name":"whitelisted","internalType":"bool","type":"bool"}],"indexed":false}],"name":"WhitelistUpdated"}]

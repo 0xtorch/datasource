@@ -1,0 +1,1 @@
+[{"type":"function","constant":true,"inputs":[],"name":"messageSourceChainId","outputs":[{"name":"id","type":"uint256"}],"payable":false,"stateMutability":"view"}]

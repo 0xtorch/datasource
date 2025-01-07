@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"tokenCID","internalType":"string","type":"string"},{"name":"paymentAddressFactory","internalType":"address","type":"address"},{"name":"paymentAddressCall","internalType":"bytes","type":"bytes"}],"name":"mintWithCreatorPaymentFactory","outputs":[{"name":"tokenId","internalType":"uint256","type":"uint256"}],"stateMutability":"nonpayable"}]

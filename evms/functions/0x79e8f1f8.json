@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"","internalType":"uint256","type":"uint256"}],"name":"_petQuestData","outputs":[{"name":"dailyQuests","internalType":"uint8","type":"uint8"},{"name":"timestamp","internalType":"uint48","type":"uint48"}],"stateMutability":"view"}]

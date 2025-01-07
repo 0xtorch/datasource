@@ -1,0 +1,1 @@
+[{"type":"function","constant":false,"inputs":[{"name":"_oldAddress","type":"address"},{"name":"_fromIndex","type":"uint40"},{"name":"_toIndex","type":"uint40"},{"name":"saleAddress","type":"address"},{"name":"breedingAddress","type":"address"}],"name":"migrate2","outputs":[],"payable":false,"stateMutability":"nonpayable"}]

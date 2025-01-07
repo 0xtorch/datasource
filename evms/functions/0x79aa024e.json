@@ -1,0 +1,1 @@
+[{"type":"function","constant":false,"inputs":[{"name":"_admin","type":"address"},{"name":"_isAdmin","type":"bool"}],"name":"setAirdropAdmin","outputs":[],"payable":false,"stateMutability":"nonpayable"}]

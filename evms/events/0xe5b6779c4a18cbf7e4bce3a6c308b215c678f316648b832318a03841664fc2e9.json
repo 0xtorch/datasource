@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"allocPoint","internalType":"uint256","type":"uint256","indexed":true},{"name":"lpToken","internalType":"contract IERC20","type":"address","indexed":true},{"name":"withdrawFeeBP","internalType":"uint256","type":"uint256","indexed":false}],"name":"Add"}]

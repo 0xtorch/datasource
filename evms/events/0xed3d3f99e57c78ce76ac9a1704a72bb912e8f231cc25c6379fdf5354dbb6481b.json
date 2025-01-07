@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"platform","internalType":"address","type":"address","indexed":true},{"name":"price","internalType":"uint96","type":"uint96","indexed":false}],"name":"GAPriceSet"}]

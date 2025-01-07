@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"previousValue","internalType":"address","type":"address","indexed":false},{"name":"newValue","internalType":"address","type":"address","indexed":false}],"name":"ExchangeChanged"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"creator","internalType":"address","type":"address"},{"name":"operators","internalType":"address[]","type":"address[]"},{"name":"blocked","internalType":"bool[]","type":"bool[]"}],"name":"configureBlockedOperators","outputs":[],"stateMutability":"nonpayable"}]

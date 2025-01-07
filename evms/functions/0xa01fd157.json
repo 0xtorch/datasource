@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[],"name":"doesAutoProtocolFeeSharesBuyback","outputs":[{"name":"doesAutoBuyback_","internalType":"bool","type":"bool"}],"stateMutability":"view"}]

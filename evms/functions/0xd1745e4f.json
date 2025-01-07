@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[],"name":"getLastCompletedSnapshotId","outputs":[{"name":"_lastCompletedSnapshotId","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

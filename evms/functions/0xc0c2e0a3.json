@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_tokenuri","internalType":"contract ITokenURI","type":"address"}],"name":"setTokenURI","outputs":[],"stateMutability":"nonpayable"}]

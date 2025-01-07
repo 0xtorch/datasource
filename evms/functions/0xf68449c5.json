@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_mTokens","internalType":"address[]","type":"address[]"},{"name":"_allowStake","internalType":"bool","type":"bool"},{"name":"_allowUnstake","internalType":"bool","type":"bool"}],"name":"batchSetMTokenStatus","outputs":[],"stateMutability":"nonpayable"}]

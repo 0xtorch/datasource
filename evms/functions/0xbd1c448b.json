@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"configWord","internalType":"uint256","type":"uint256"},{"name":"registrationKey","internalType":"string","type":"string"}],"name":"registerAppWithKey","outputs":[],"stateMutability":"nonpayable"}]

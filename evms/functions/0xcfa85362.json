@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"amount0Max","internalType":"uint256","type":"uint256"},{"name":"amount1Max","internalType":"uint256","type":"uint256"}],"name":"getNewLiquidityFromAmounts","outputs":[{"name":"","internalType":"uint128","type":"uint128"}],"stateMutability":"view"}]

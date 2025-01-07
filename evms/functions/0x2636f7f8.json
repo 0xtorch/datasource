@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_receiver","internalType":"address","type":"address"},{"name":"_data","internalType":"bytes","type":"bytes"}],"name":"callBytes","outputs":[],"stateMutability":"payable"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"initPayload","internalType":"bytes","type":"bytes"}],"name":"init","outputs":[{"name":"","internalType":"bool","type":"bool"}],"stateMutability":"nonpayable"}]

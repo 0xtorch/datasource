@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"vaultId","internalType":"bytes12","type":"bytes12","indexed":true},{"name":"owner","internalType":"address","type":"address","indexed":true},{"name":"seriesId","internalType":"bytes6","type":"bytes6","indexed":true},{"name":"ilkId","internalType":"bytes6","type":"bytes6","indexed":false}],"name":"VaultBuilt"}]

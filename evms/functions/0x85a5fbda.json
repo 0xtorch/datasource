@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"voteEveryBlockLimit","internalType":"uint256","type":"uint256"}],"name":"setProxyRateLimit","outputs":[],"stateMutability":"nonpayable"}]

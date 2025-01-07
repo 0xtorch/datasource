@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"_token","internalType":"address","type":"address","indexed":true},{"name":"_receiver","internalType":"address","type":"address","indexed":true}],"name":"EmergencyWithdrawal"}]

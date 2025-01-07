@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"isLong","internalType":"bool","type":"bool"},{"name":"quoteAmount","internalType":"uint256","type":"uint256"}],"name":"querySwapBaseWithAmm","outputs":[{"name":"","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

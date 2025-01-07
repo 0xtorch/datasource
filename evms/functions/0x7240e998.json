@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_stickerId","internalType":"uint256","type":"uint256"},{"name":"_baseURI","internalType":"string","type":"string"}],"name":"setStickerBaseURI","outputs":[],"stateMutability":"nonpayable"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_afCode","internalType":"string","type":"string"}],"name":"becomeOneMonthMember","outputs":[{"name":"success","internalType":"bool","type":"bool"}],"stateMutability":"payable"}]

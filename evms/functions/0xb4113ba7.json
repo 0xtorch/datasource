@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"newDiscount","internalType":"uint16","type":"uint16"}],"name":"setMaxLiquidationDiscount","outputs":[],"stateMutability":"nonpayable"}]

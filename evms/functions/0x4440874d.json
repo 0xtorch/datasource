@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_token","internalType":"contract IERC20","type":"address"},{"name":"_addresses","internalType":"address[]","type":"address[]"},{"name":"_amounts","internalType":"uint256[]","type":"uint256[]"},{"name":"_totalAmount","internalType":"uint256","type":"uint256"}],"name":"disperseERC20","outputs":[],"stateMutability":"payable"}]

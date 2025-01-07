@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"realizedProfitGrowthAfterX64","internalType":"uint256","type":"uint256","indexed":false}],"name":"GlobalLiquidityPositionRealizedProfitGrowthChanged"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_validators","internalType":"address[]","type":"address[]"},{"name":"epochs","internalType":"uint256","type":"uint256"}],"name":"getTotalRewards","outputs":[{"name":"rewards","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

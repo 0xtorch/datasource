@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_trader","internalType":"address","type":"address"}],"name":"getTrader","outputs":[{"name":"","internalType":"struct TraderDefs.Trader","type":"tuple","components":[{"name":"ddxBalance","internalType":"uint96","type":"uint96"},{"name":"ddxWalletContract","internalType":"address","type":"address"}]}],"stateMutability":"view"}]

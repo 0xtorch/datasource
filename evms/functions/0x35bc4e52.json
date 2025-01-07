@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"","internalType":"address","type":"address"}],"name":"moduleStates","outputs":[{"name":"","internalType":"enum ISetToken.ModuleState","type":"uint8"}],"stateMutability":"view"}]

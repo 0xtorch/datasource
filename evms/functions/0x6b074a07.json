@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_provider","internalType":"address","type":"address"}],"name":"isProvider","outputs":[{"name":"","internalType":"bool","type":"bool"}],"stateMutability":"view"}]

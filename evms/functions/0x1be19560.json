@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"token","internalType":"contract EIP20NonStandardInterface","type":"address"}],"name":"sweepToken","outputs":[],"stateMutability":"nonpayable"}]

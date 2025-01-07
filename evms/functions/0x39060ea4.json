@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[],"name":"CHAINLINK_PRICE_PROVIDER","outputs":[{"name":"","internalType":"contract ChainlinkV3PriceProvider","type":"address"}],"stateMutability":"view"}]

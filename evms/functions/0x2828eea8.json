@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"battleId","internalType":"uint256","type":"uint256"}],"name":"calcEthFee","outputs":[{"name":"","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"_glpDeposited","internalType":"uint256","type":"uint256","indexed":false},{"name":"_glpMinted","internalType":"uint256","type":"uint256","indexed":false}],"name":"Leverage"}]

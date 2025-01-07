@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"indices","internalType":"uint256[]","type":"uint256[]"},{"name":"valuesAbove","internalType":"uint256[]","type":"uint256[]"},{"name":"valuesBelow","internalType":"uint256[]","type":"uint256[]"}],"name":"setOnePercentDepthArray","outputs":[],"stateMutability":"nonpayable"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"mta","internalType":"uint256","type":"uint256"},{"name":"alv","internalType":"uint256","type":"uint256"}],"name":"setAmount","outputs":[],"stateMutability":"nonpayable"}]

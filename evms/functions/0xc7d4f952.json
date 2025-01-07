@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_cooldownDuration","internalType":"uint256","type":"uint256"},{"name":"_feeRewardsBasisPoints","internalType":"uint256","type":"uint256"}],"name":"setVaultSettings","outputs":[],"stateMutability":"nonpayable"}]

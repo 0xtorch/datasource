@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"owner_","internalType":"address","type":"address"}],"name":"ticketsOfOwner","outputs":[{"name":"ownerTickets","internalType":"uint256[]","type":"uint256[]"}],"stateMutability":"view"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"gasLimit","internalType":"uint256","type":"uint256"}],"name":"getMaxPaymentForGas","outputs":[{"name":"maxPayment","internalType":"uint96","type":"uint96"}],"stateMutability":"view"}]

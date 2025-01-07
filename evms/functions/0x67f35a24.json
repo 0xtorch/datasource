@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"BackupAddrs","internalType":"address[]","type":"address[]"}],"name":"setBackuplist","outputs":[],"stateMutability":"nonpayable"}]

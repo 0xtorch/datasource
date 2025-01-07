@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"node","internalType":"bytes32","type":"bytes32","indexed":true},{"name":"coinType","internalType":"uint256","type":"uint256","indexed":false},{"name":"newAddress","internalType":"bytes","type":"bytes","indexed":false}],"name":"AddressChanged"}]

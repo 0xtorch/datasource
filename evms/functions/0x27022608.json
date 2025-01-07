@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_offerId","internalType":"uint256","type":"uint256"},{"name":"_quantity","internalType":"uint256","type":"uint256"}],"name":"buyToken1155","outputs":[],"stateMutability":"payable"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_token","internalType":"address","type":"address"},{"name":"_totalStakedCapPT","internalType":"uint256","type":"uint256"},{"name":"_perAccountCapPT","internalType":"uint256","type":"uint256"}],"name":"setStakeCap","outputs":[],"stateMutability":"nonpayable"}]

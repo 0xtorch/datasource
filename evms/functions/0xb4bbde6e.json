@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_bonusAddr","internalType":"address","type":"address"},{"name":"_addpoolfee","internalType":"uint256","type":"uint256"},{"name":"_bonusPoolFeeRate","internalType":"uint256","type":"uint256"}],"name":"set_bonusInfo","outputs":[],"stateMutability":"nonpayable"}]

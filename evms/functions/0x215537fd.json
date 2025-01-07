@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_lock","internalType":"bool","type":"bool"},{"name":"_stakeAddress","internalType":"address","type":"address"}],"name":"depositAll","outputs":[],"stateMutability":"nonpayable"}]

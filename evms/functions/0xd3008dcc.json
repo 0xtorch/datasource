@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"words","internalType":"string[]","type":"string[]"}],"name":"wordVerify","outputs":[{"name":"","internalType":"bool","type":"bool"},{"name":"","internalType":"enum WordVerifyStatus","type":"uint8"}],"stateMutability":"view"}]

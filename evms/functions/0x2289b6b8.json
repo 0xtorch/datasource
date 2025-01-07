@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"","internalType":"address","type":"address"}],"name":"rewardConfig","outputs":[{"name":"token","internalType":"address","type":"address"},{"name":"rescaleFactor","internalType":"uint64","type":"uint64"},{"name":"shouldUpscale","internalType":"bool","type":"bool"}],"stateMutability":"view"}]

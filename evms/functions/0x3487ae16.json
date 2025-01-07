@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_pointers","internalType":"bytes32[]","type":"bytes32[]"}],"name":"concatenateChunks","outputs":[{"name":"fileContent","internalType":"bytes","type":"bytes"}],"stateMutability":"view"}]

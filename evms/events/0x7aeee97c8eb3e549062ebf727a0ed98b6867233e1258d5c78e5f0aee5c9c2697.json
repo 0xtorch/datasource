@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"rToken","internalType":"contract IRToken","type":"address","indexed":false},{"name":"feeRecipient","internalType":"address","type":"address","indexed":false}],"name":"PositionManagerDeployed"}]

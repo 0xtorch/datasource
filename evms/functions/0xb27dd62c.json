@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"from","internalType":"address","type":"address"},{"name":"petTokenId","internalType":"uint256","type":"uint256"},{"name":"itemTokenId","internalType":"uint256","type":"uint256"}],"name":"interact","outputs":[],"stateMutability":"nonpayable"}]

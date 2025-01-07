@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"owner","internalType":"address","type":"address","indexed":false},{"name":"tokenAddress","internalType":"address","type":"address","indexed":false},{"name":"royaltyAddress","internalType":"address","type":"address","indexed":false}],"name":"RoyaltyOverride"}]

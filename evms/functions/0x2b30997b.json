@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"newSkimRecipient","internalType":"address","type":"address"}],"name":"setSkimRecipient","outputs":[],"stateMutability":"nonpayable"}]

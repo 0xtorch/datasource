@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[],"name":"getEpochParameters","outputs":[{"name":"","internalType":"struct SM1Types.EpochParameters","type":"tuple","components":[{"name":"interval","internalType":"uint128","type":"uint128"},{"name":"offset","internalType":"uint128","type":"uint128"}]}],"stateMutability":"view"}]

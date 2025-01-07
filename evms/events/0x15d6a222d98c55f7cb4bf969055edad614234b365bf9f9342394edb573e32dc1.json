@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"previousDistributor","type":"address","indexed":true},{"name":"newDistributor","type":"address","indexed":true}],"name":"DistributorshipTransferred"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"encodedVotes","internalType":"bytes[]","type":"bytes[]"},{"name":"voterAddress","internalType":"address","type":"address"}],"name":"vote","outputs":[],"stateMutability":"payable"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"siblingChainSlug_","internalType":"uint32","type":"uint32"},{"name":"siblingPlug_","internalType":"address","type":"address"},{"name":"inboundSwitchboard_","internalType":"address","type":"address"},{"name":"outboundSwitchboard_","internalType":"address","type":"address"}],"name":"connect","outputs":[],"stateMutability":"nonpayable"}]

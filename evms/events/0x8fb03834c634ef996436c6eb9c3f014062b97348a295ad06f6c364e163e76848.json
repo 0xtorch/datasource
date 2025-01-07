@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"wormhole","internalType":"address","type":"address","indexed":false}],"name":"SetWormholeEvent"}]

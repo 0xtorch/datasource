@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"veTranche","internalType":"address","type":"address","indexed":true}],"name":"VeTrancheUpdated"}]

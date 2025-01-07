@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"tokenId","internalType":"uint8","type":"uint8"},{"name":"destination","internalType":"uint8","type":"uint8"},{"name":"directTransferAllowed","internalType":"bool","type":"bool"}],"name":"setDirectTransferAllowed","outputs":[],"stateMutability":"nonpayable"}]

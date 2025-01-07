@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[],"name":"airdropConfig","outputs":[{"name":"merkleRoot","internalType":"bytes32","type":"bytes32"},{"name":"startTime","internalType":"uint128","type":"uint128"},{"name":"endTime","internalType":"uint128","type":"uint128"}],"stateMutability":"view"}]

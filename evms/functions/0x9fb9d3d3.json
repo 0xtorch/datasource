@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"version","internalType":"uint8[3]","type":"uint8[3]"}],"name":"getByVersion","outputs":[{"name":"","internalType":"address","type":"address"}],"stateMutability":"view"}]

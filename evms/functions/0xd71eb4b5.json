@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_holderTaxAlloc","internalType":"uint256","type":"uint256"},{"name":"_charityTaxAlloc","internalType":"uint256","type":"uint256"},{"name":"_burnTaxAlloc","internalType":"uint256","type":"uint256"},{"name":"_adminTaxAlloc","internalType":"uint256","type":"uint256"}],"name":"setTaxAllocations","outputs":[],"stateMutability":"nonpayable"}]

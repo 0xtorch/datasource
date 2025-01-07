@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_loanId","internalType":"uint32","type":"uint32"},{"name":"_borrower","internalType":"address","type":"address"}],"name":"mintObligationReceipt","outputs":[],"stateMutability":"nonpayable"}]

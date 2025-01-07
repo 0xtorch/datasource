@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_zkLinkAddress","internalType":"bytes32","type":"bytes32"},{"name":"_subAccountId","internalType":"uint8","type":"uint8"}],"name":"depositETH","outputs":[],"stateMutability":"payable"}]

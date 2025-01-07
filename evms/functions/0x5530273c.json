@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_collWithdrawal","internalType":"uint256","type":"uint256"},{"name":"_upperHint","internalType":"address","type":"address"},{"name":"_lowerHint","internalType":"address","type":"address"}],"name":"withdrawColl","outputs":[],"stateMutability":"nonpayable"}]

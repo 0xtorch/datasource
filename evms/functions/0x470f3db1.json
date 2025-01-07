@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_address","internalType":"address[]","type":"address[]"},{"name":"state","internalType":"bool","type":"bool"}],"name":"setIsExcludeFee","outputs":[{"name":"","internalType":"bool","type":"bool"}],"stateMutability":"nonpayable"}]

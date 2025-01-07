@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"destAddress","type":"address","indexed":true},{"name":"ethCost","type":"uint256","indexed":false},{"name":"gotTokens","type":"uint256","indexed":false}],"name":"eveNewSale"}]

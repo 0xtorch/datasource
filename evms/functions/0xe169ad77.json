@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_from","internalType":"address","type":"address"}],"name":"isWhitelistedBlessed","outputs":[{"name":"","internalType":"bool","type":"bool"}],"stateMutability":"view"}]

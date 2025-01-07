@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_admin","internalType":"address","type":"address"},{"name":"_isAdmin","internalType":"bool","type":"bool"}],"name":"changeSoulboundAdmin","outputs":[],"stateMutability":"nonpayable"}]

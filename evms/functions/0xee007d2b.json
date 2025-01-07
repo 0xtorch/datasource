@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[],"name":"defaultActiveSkin","outputs":[{"name":"owner","internalType":"address","type":"address"},{"name":"skin","internalType":"address","type":"address"},{"name":"skinTokenId","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

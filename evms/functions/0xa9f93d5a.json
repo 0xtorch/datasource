@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"","internalType":"address","type":"address"}],"name":"mTokens","outputs":[{"name":"registered","internalType":"bool","type":"bool"},{"name":"allowStake","internalType":"bool","type":"bool"},{"name":"allowUnstake","internalType":"bool","type":"bool"}],"stateMutability":"view"}]

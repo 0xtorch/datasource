@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"safe","internalType":"contract GnosisSafe","type":"address"},{"name":"token","internalType":"address","type":"address"},{"name":"to","internalType":"address payable","type":"address"},{"name":"amount","internalType":"uint96","type":"uint96"}],"name":"executeAllowanceTransfer","outputs":[],"stateMutability":"nonpayable"}]

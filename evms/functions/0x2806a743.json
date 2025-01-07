@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_liquidationPenalty","internalType":"uint256","type":"uint256"}],"name":"setLiquidationPenalty","outputs":[],"stateMutability":"nonpayable"}]

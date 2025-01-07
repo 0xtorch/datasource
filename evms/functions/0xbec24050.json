@@ -1,0 +1,1 @@
+[{"type":"function","constant":false,"inputs":[{"name":"_owner","internalType":"address","type":"address"},{"name":"_token","internalType":"address","type":"address"},{"name":"_amount","internalType":"uint256","type":"uint256"}],"name":"withdrawERC20For","outputs":[{"name":"","internalType":"uint256","type":"uint256"}],"payable":false,"stateMutability":"nonpayable"}]

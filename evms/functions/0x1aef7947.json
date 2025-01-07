@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"data","internalType":"bytes","type":"bytes"},{"name":"burnGasTokenAmount","internalType":"uint256","type":"uint256"}],"name":"sendCake","outputs":[],"stateMutability":"nonpayable"}]

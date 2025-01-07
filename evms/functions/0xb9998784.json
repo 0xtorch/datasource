@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"tokenIds","internalType":"uint256[]","type":"uint256[]"},{"name":"_burnProof","internalType":"bytes32[]","type":"bytes32[]"}],"name":"Burn","outputs":[],"stateMutability":"nonpayable"}]

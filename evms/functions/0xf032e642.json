@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"stakee","internalType":"address","type":"address"},{"name":"amount","internalType":"uint88","type":"uint88"}],"name":"withdrawCommunityStake","outputs":[],"stateMutability":"nonpayable"}]

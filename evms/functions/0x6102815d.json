@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"vaultId","internalType":"uint256","type":"uint256"},{"name":"_d2Asset","internalType":"address","type":"address"}],"name":"setD2AssetAddress","outputs":[],"stateMutability":"nonpayable"}]

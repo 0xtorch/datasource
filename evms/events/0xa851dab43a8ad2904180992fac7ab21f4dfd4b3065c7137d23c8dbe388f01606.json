@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"maxMintable","internalType":"uint256","type":"uint256","indexed":false}],"name":"LogMaxMintableSet"}]

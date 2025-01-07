@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[],"name":"getTotalAmounts","outputs":[{"name":"total0","internalType":"uint256","type":"uint256"},{"name":"total1","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

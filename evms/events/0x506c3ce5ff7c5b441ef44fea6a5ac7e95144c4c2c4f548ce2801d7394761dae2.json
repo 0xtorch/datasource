@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"oldEthOracle","internalType":"address","type":"address","indexed":true},{"name":"newEthOracle","internalType":"address","type":"address","indexed":true}],"name":"EthOracleUpdated"}]

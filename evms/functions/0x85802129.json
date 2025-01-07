@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"handlerAddress","internalType":"address","type":"address"},{"name":"tokenAddress","internalType":"address","type":"address"},{"name":"burnable","internalType":"bool","type":"bool"}],"name":"adminSetBurnable","outputs":[],"stateMutability":"nonpayable"}]

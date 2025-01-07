@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"messageIdentifier","internalType":"bytes32","type":"bytes32","indexed":true},{"name":"newDeliveryGasPrice","internalType":"uint96","type":"uint96","indexed":false},{"name":"newAckGasPrice","internalType":"uint96","type":"uint96","indexed":false}],"name":"BountyIncreased"}]

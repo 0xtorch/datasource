@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"savingAmount","internalType":"uint256","type":"uint256"},{"name":"savingPeriodPlan","internalType":"uint8","type":"uint8"},{"name":"savingRate","internalType":"uint256","type":"uint256"}],"name":"calculateSavingInterest","outputs":[{"name":"","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

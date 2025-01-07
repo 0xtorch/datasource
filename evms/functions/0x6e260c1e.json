@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"payees","internalType":"address[]","type":"address[]"},{"name":"shares_","internalType":"uint256[]","type":"uint256[]"}],"name":"initializePaymentSplitter","outputs":[],"stateMutability":"nonpayable"}]

@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"minter","internalType":"address","type":"address","indexed":false},{"name":"factor","internalType":"uint256","type":"uint256","indexed":false},{"name":"quota","internalType":"uint256","type":"uint256","indexed":false},{"name":"block","internalType":"uint256","type":"uint256","indexed":false}],"name":"AddMinter"}]

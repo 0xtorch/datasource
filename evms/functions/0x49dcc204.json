@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"","internalType":"uint256","type":"uint256"},{"name":"","internalType":"uint256","type":"uint256"}],"name":"checkpoints","outputs":[{"name":"timestamp","internalType":"uint256","type":"uint256"},{"name":"balanceOf","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

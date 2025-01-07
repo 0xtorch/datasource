@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"tokenid","internalType":"uint256","type":"uint256"}],"name":"GetLinks","outputs":[{"name":"results","internalType":"uint256[]","type":"uint256[]"}],"stateMutability":"view"}]

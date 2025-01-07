@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"params","internalType":"struct Settings.SettingParams","type":"tuple","components":[{"name":"rewardPerSecond","internalType":"uint256","type":"uint256"},{"name":"minStakingAmount","internalType":"uint256","type":"uint256"}],"indexed":false}],"name":"UpdateSettings"}]

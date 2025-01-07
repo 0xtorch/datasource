@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[],"name":"privateSale","outputs":[{"name":"beginBlock","internalType":"uint256","type":"uint256"},{"name":"endBlock","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

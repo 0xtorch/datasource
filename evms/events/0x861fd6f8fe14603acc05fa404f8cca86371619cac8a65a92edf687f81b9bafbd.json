@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"id","type":"uint256","indexed":true},{"name":"user","type":"address","indexed":true},{"name":"count","type":"uint16","indexed":false}],"name":"PacksPurchased"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_tokenId","internalType":"uint256","type":"uint256"}],"name":"debugTokenURI","outputs":[{"name":"uri","internalType":"string","type":"string"},{"name":"gas","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"totalSupply","internalType":"uint256","type":"uint256","indexed":false},{"name":"rebasingCredits","internalType":"uint256","type":"uint256","indexed":false},{"name":"rebasingCreditsPerToken","internalType":"uint256","type":"uint256","indexed":false}],"name":"TotalSupplyUpdatedHighres"}]

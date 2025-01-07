@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"ids","internalType":"uint256[]","type":"uint256[]"},{"name":"_tier","internalType":"enum Constants.Tier","type":"uint8"}],"name":"setCanTier","outputs":[],"stateMutability":"nonpayable"}]

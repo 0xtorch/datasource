@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_amountToReceive","internalType":"uint256","type":"uint256"},{"name":"_to","internalType":"address","type":"address"},{"name":"_toBalance","internalType":"uint256","type":"uint256"}],"name":"getNextCooldownTimestamp","outputs":[{"name":"","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

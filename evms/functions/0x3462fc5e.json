@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"orders","internalType":"struct SecWareRouter.Order[]","type":"tuple[]","components":[{"name":"secWare","internalType":"address","type":"address"},{"name":"prodId","internalType":"uint24","type":"uint24"},{"name":"to","internalType":"address","type":"address"}]}],"name":"batchPurchase","outputs":[],"stateMutability":"payable"}]

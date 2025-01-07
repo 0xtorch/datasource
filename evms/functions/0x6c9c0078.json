@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[],"name":"getWNATIVE","outputs":[{"name":"wnative","internalType":"contract IWNATIVE","type":"address"}],"stateMutability":"view"}]

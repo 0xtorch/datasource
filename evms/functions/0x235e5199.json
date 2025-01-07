@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[],"name":"bridgeConfig","outputs":[{"name":"bridgeAddress","internalType":"address","type":"address"},{"name":"mintEnabled","internalType":"bool","type":"bool"},{"name":"burnEnabled","internalType":"bool","type":"bool"}],"stateMutability":"view"}]

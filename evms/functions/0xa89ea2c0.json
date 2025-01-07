@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_tag1","internalType":"uint256","type":"uint256"},{"name":"_tag2","internalType":"uint256","type":"uint256"},{"name":"_minSpread","internalType":"uint256","type":"uint256"}],"name":"setMinSpreadPerSport","outputs":[],"stateMutability":"nonpayable"}]

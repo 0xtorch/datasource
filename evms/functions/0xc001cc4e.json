@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"usdcAmount","internalType":"uint256","type":"uint256"},{"name":"lockupPeriod","internalType":"enum StakingRewards.LockupPeriod","type":"uint8"}],"name":"depositAndStakeWithLockup","outputs":[],"stateMutability":"nonpayable"}]

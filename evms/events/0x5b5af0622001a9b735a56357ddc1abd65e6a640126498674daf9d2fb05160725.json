@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"equippableGroupId","internalType":"uint64","type":"uint64","indexed":true},{"name":"slotPartId","internalType":"uint64","type":"uint64","indexed":true},{"name":"parentAddress","internalType":"address","type":"address","indexed":false}],"name":"ValidParentEquippableGroupIdSet"}]

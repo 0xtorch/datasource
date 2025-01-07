@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"current_A","type":"uint256","indexed":false},{"name":"current_gamma","type":"uint256","indexed":false},{"name":"time","type":"uint256","indexed":false}],"name":"StopRampA"}]

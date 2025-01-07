@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"productId","internalType":"uint32","type":"uint32"},{"name":"collectedFees","internalType":"int128","type":"int128"}],"name":"updateCollectedFees","outputs":[],"stateMutability":"nonpayable"}]

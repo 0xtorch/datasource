@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"streamId","internalType":"uint256","type":"uint256"}],"name":"getAsset","outputs":[{"name":"asset","internalType":"contract IERC20","type":"address"}],"stateMutability":"view"}]

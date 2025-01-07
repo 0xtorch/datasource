@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"masterOfCoin","internalType":"contract IMasterOfCoin","type":"address","indexed":false}],"name":"MasterOfCoin"}]

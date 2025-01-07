@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"id","type":"uint256","indexed":true},{"name":"startIndex","type":"uint16","indexed":false},{"name":"user","type":"address","indexed":true},{"name":"cardIDs","type":"uint256[]","indexed":false}],"name":"PackOpened"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"ids","internalType":"uint256[]","type":"uint256[]"}],"name":"getCanTierBatch","outputs":[{"name":"","internalType":"enum Constants.Tier[]","type":"uint8[]"}],"stateMutability":"view"}]

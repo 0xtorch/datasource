@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"_owner","internalType":"","type":"address","indexed":false},{"name":"_operator","internalType":"","type":"address","indexed":false},{"name":"_approved","internalType":"","type":"bool","indexed":false}],"name":"PermissionSetAll"}]

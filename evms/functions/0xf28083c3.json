@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[],"name":"getPlatformFeeType","outputs":[{"name":"","internalType":"enum IPlatformFee.PlatformFeeType","type":"uint8"}],"stateMutability":"view"}]

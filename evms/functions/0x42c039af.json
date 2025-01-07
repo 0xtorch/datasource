@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"fees_","internalType":"uint256[3]","type":"uint256[3]"},{"name":"feeVault_","internalType":"address","type":"address"}],"name":"addProject","outputs":[],"stateMutability":"nonpayable"}]

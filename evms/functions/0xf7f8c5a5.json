@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"","internalType":"uint256","type":"uint256"}],"name":"mintData","outputs":[{"name":"mintAt","internalType":"uint64","type":"uint64"}],"stateMutability":"view"}]

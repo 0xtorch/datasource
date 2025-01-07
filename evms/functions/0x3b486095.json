@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"type_","internalType":"string","type":"string"},{"name":"controller","internalType":"address","type":"address"}],"name":"isAdmin","outputs":[{"name":"","internalType":"bool","type":"bool"}],"stateMutability":"view"}]

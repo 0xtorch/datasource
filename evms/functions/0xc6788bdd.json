@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"","internalType":"address","type":"address"}],"name":"claims","outputs":[{"name":"claimed50","internalType":"bool","type":"bool"},{"name":"claimed100","internalType":"bool","type":"bool"},{"name":"claimed200","internalType":"bool","type":"bool"}],"stateMutability":"view"}]

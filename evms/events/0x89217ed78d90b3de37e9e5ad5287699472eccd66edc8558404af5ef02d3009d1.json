@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"collection","internalType":"address","type":"address","indexed":true},{"name":"creator","internalType":"address","type":"address","indexed":true},{"name":"isERC721","internalType":"bool","type":"bool","indexed":false}],"name":"CollectionRegistered"}]

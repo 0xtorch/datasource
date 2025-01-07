@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_assetAddr","internalType":"address","type":"address"},{"name":"_oracleType","internalType":"enum Enums.OracleType","type":"uint8"}],"name":"getFeedForAddress","outputs":[{"name":"","internalType":"address","type":"address"}],"stateMutability":"view"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"boardId","internalType":"uint256","type":"uint256"},{"name":"newBaseIv","internalType":"uint256","type":"uint256"}],"name":"setBoardIv","outputs":[],"stateMutability":"nonpayable"}]

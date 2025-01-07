@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_ammWrapper","internalType":"contract I_L2_AmmWrapper","type":"address"}],"name":"setAmmWrapper","outputs":[],"stateMutability":"nonpayable"}]

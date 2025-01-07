@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"collateralDelta","internalType":"uint256","type":"uint256","indexed":false},{"name":"prevLeverage","internalType":"uint256","type":"uint256","indexed":false},{"name":"nextLeverage","internalType":"uint256","type":"uint256","indexed":false}],"name":"LeverageDecreased"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"sendRequests","internalType":"struct MultiSender.SendRequest[]","type":"tuple[]","components":[{"name":"to","internalType":"address payable","type":"address"},{"name":"amount","internalType":"uint256","type":"uint256"}]}],"name":"sendBaseToken","outputs":[],"stateMutability":"payable"}]

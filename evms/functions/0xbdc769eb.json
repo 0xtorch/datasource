@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_merkleProof","internalType":"bytes32[]","type":"bytes32[]"},{"name":"numberOfTokens","internalType":"uint256","type":"uint256"},{"name":"maxMintsPerWallet","internalType":"uint256","type":"uint256"},{"name":"recipient","internalType":"address","type":"address"}],"name":"merkleMint","outputs":[],"stateMutability":"payable"}]

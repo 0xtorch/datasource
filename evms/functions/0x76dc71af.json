@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_account","internalType":"address","type":"address"},{"name":"_margin","internalType":"uint128","type":"uint128"},{"name":"_liquidity","internalType":"uint128","type":"uint128"}],"name":"openLiquidityPosition","outputs":[{"name":"positionID","internalType":"uint96","type":"uint96"}],"stateMutability":"nonpayable"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_token","internalType":"address","type":"address"},{"name":"_exchangeRateProvider","internalType":"address","type":"address"}],"name":"setExchangeRateProvider","outputs":[],"stateMutability":"nonpayable"}]

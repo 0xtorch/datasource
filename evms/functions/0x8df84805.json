@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"productId","internalType":"uint256","type":"uint256"},{"name":"orderCode","internalType":"string","type":"string"},{"name":"price","internalType":"uint256","type":"uint256"},{"name":"_signature","internalType":"bytes","type":"bytes"}],"name":"placeOrder","outputs":[],"stateMutability":"payable"}]

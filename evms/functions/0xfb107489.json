@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_address1","internalType":"address","type":"address"},{"name":"_address2","internalType":"address","type":"address"},{"name":"_address3","internalType":"address","type":"address"},{"name":"_address4","internalType":"address","type":"address"}],"name":"setNFTCollection","outputs":[],"stateMutability":"nonpayable"}]

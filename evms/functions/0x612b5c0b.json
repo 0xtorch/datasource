@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_whitelistRoot","internalType":"bytes32","type":"bytes32"},{"name":"_uwulistRoot","internalType":"bytes32","type":"bytes32"},{"name":"_teamRoot","internalType":"bytes32","type":"bytes32"}],"name":"setPresaleRoots","outputs":[],"stateMutability":"nonpayable"}]

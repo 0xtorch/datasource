@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"maxTxPercent","internalType":"uint256","type":"uint256"},{"name":"maxLimitHolding","internalType":"uint256","type":"uint256"}],"name":"configureAntiWhale","outputs":[],"stateMutability":"nonpayable"}]

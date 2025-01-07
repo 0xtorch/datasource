@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_tokenId","internalType":"uint256","type":"uint256"},{"name":"_amount","internalType":"uint16","type":"uint16"}],"name":"presaleClaim","outputs":[],"stateMutability":"payable"}]

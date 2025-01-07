@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[],"name":"getDeposited","outputs":[{"name":"_deposited0","internalType":"uint256","type":"uint256"},{"name":"_deposited1","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

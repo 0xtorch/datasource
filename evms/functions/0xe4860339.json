@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"","internalType":"address","type":"address"}],"name":"tokens","outputs":[{"name":"active","internalType":"bool","type":"bool"},{"name":"owner","internalType":"address","type":"address"},{"name":"creator","internalType":"address","type":"address"},{"name":"isExternal","internalType":"bool","type":"bool"}],"stateMutability":"view"}]

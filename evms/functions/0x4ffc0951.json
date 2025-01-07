@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"newIncentiveAddresses","internalType":"address[]","type":"address[]"},{"name":"newIncentiveAllocation","internalType":"uint256[]","type":"uint256[]"}],"name":"updateIncentiveAddresses","outputs":[],"stateMutability":"nonpayable"}]

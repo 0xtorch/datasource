@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_broadcastAddress","internalType":"address","type":"address"},{"name":"_value","internalType":"bool","type":"bool"}],"name":"updateBroadCaseEnabled","outputs":[],"stateMutability":"nonpayable"}]

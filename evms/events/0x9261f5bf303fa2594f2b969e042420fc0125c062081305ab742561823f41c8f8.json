@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"join","internalType":"address","type":"address","indexed":false}],"name":"TokenJoinReset"}]

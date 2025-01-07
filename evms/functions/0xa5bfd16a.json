@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[],"name":"getAllLoans","outputs":[{"name":"","internalType":"contract SmartLoan[]","type":"address[]"}],"stateMutability":"view"}]

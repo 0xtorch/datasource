@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"","internalType":"bytes32","type":"bytes32"}],"name":"replayStates","outputs":[{"name":"times","internalType":"uint128","type":"uint128"},{"name":"lastIndex","internalType":"uint128","type":"uint128"}],"stateMutability":"view"}]

@@ -1,0 +1,1 @@
+[{"type":"function","constant":false,"inputs":[{"name":"_classId","type":"uint256"},{"name":"_value","type":"uint256"},{"name":"_owner","type":"address"}],"name":"spawnItem","outputs":[{"name":"","type":"uint256"}],"payable":false,"stateMutability":"nonpayable"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[],"name":"getDefaultValidator","outputs":[{"name":"validator","internalType":"contract IKernelValidator","type":"address"}],"stateMutability":"view"}]

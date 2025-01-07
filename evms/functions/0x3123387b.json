@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"phase","internalType":"enum GigaSpaceLandV2.SalePhase","type":"uint8"}],"name":"enterPhase","outputs":[],"stateMutability":"nonpayable"}]

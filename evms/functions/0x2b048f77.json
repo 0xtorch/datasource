@@ -1,0 +1,1 @@
+[{"type":"function","constant":true,"inputs":[{"name":"area","type":"uint32"},{"name":"hour","type":"uint32"}],"name":"getMyDeployAt","outputs":[{"name":"","type":"uint32[3]"}],"payable":false,"stateMutability":"view"}]

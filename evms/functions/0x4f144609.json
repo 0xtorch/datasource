@@ -1,0 +1,1 @@
+[{"type":"function","constant":true,"inputs":[{"name":"_reserve","internalType":"address","type":"address"}],"name":"getReserveLastUpdate","outputs":[{"name":"timestamp","internalType":"uint40","type":"uint40"}],"payable":false,"stateMutability":"view"}]

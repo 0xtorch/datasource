@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"pool","internalType":"contract IAlgebraPool","type":"address"},{"name":"virtualPool","internalType":"address","type":"address"}],"name":"isIncentiveActiveInPool","outputs":[{"name":"","internalType":"bool","type":"bool"}],"stateMutability":"view"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"app","internalType":"contract ISuperApp","type":"address"},{"name":"targetApp","internalType":"contract ISuperApp","type":"address"}],"name":"isCompositeAppAllowed","outputs":[{"name":"","internalType":"bool","type":"bool"}],"stateMutability":"view"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"addressToVerify","internalType":"address","type":"address"},{"name":"value","internalType":"uint256","type":"uint256"},{"name":"signature","internalType":"bytes","type":"bytes"}],"name":"verifySignature","outputs":[{"name":"","internalType":"bool","type":"bool"}],"stateMutability":"view"}]

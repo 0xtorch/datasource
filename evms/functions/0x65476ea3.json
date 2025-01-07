@@ -1,0 +1,1 @@
+[{"type":"function","constant":true,"inputs":[{"name":"","type":"address"},{"name":"","type":"uint256"}],"name":"transferIns","outputs":[{"name":"amount","type":"uint256"},{"name":"time","type":"uint64"}],"payable":false,"stateMutability":"view"}]

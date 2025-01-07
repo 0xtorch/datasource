@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"","internalType":"uint8","type":"uint8"}],"name":"channelReceiveSequenceMap","outputs":[{"name":"","internalType":"uint64","type":"uint64"}],"stateMutability":"view"}]

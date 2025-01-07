@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"effectiveLoanAmount","internalType":"uint256","type":"uint256"},{"name":"principalRepaid","internalType":"uint256","type":"uint256"}],"name":"notifyPrincipalRepayment","outputs":[],"stateMutability":"nonpayable"}]

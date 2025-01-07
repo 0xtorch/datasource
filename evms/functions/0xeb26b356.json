@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_weth","internalType":"address","type":"address"},{"name":"_feeReceiver","internalType":"address payable","type":"address"}],"name":"initBaseSwapper","outputs":[],"stateMutability":"nonpayable"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"newSigningKey","internalType":"address","type":"address"}],"name":"setAllowlistSigningAddress","outputs":[],"stateMutability":"nonpayable"}]

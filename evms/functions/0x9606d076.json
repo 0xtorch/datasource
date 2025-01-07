@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"initArg","internalType":"bytes","type":"bytes"},{"name":"_bip","internalType":"uint128","type":"uint128"},{"name":"_feeReceiver","internalType":"address","type":"address"}],"name":"initialize","outputs":[],"stateMutability":"nonpayable"}]

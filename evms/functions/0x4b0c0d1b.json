@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"tokenContract","internalType":"contract IERC1155","type":"address"},{"name":"addresses","internalType":"address[]","type":"address[]"},{"name":"tokenIds","internalType":"uint256[]","type":"uint256[]"},{"name":"amounts","internalType":"uint256[]","type":"uint256[]"}],"name":"batchAirdrop1155","outputs":[],"stateMutability":"nonpayable"}]

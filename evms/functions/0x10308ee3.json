@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_l0","internalType":"bool","type":"bool"},{"name":"_l1","internalType":"bool","type":"bool"}],"name":"availableReserve","outputs":[{"name":"r0","internalType":"uint256","type":"uint256"},{"name":"r1","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

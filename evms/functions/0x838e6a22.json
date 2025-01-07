@@ -1,0 +1,1 @@
+[{"type":"function","constant":true,"inputs":[{"name":"_origin","internalType":"address","type":"address"},{"name":"_target","internalType":"address","type":"address"},{"name":"_originAmount","internalType":"uint256","type":"uint256"}],"name":"viewOriginSwap","outputs":[{"name":"targetAmount_","internalType":"uint256","type":"uint256"}],"payable":false,"stateMutability":"view"}]

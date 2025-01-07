@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"liquidationWeightTreasury_","internalType":"uint16","type":"uint16"}],"name":"setTreasuryLiquidationWeight","outputs":[],"stateMutability":"nonpayable"}]

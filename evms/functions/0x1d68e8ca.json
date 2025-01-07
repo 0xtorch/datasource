@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"merkleRoots","internalType":"bytes32[]","type":"bytes32[]"},{"name":"approvals","internalType":"bool[]","type":"bool[]"}],"name":"setMerkleRoots","outputs":[],"stateMutability":"nonpayable"}]

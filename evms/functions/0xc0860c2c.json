@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"ticketid_","internalType":"uint256","type":"uint256"}],"name":"ownerOfTicket","outputs":[{"name":"","internalType":"address","type":"address"}],"stateMutability":"view"}]

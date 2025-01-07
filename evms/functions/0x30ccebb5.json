@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"token","internalType":"address","type":"address"}],"name":"getStatus","outputs":[{"name":"","internalType":"enum StarknetTokenStorage.TokenStatus","type":"uint8"}],"stateMutability":"view"}]

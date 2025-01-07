@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"_checksum","internalType":"bytes32","type":"bytes32","indexed":true},{"name":"_names","internalType":"string[]","type":"string[]","indexed":false},{"name":"_inodeChecksums","internalType":"bytes32[]","type":"bytes32[]","indexed":false}],"name":"DirectoryCreated"}]

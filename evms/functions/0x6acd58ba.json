@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"newKeeper","internalType":"address","type":"address"},{"name":"status","internalType":"bool","type":"bool"}],"name":"setKeeperStatus","outputs":[],"stateMutability":"nonpayable"}]

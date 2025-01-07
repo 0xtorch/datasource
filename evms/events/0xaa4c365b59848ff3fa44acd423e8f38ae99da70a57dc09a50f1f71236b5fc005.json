@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"tokenOwner","internalType":"address","type":"address","indexed":false},{"name":"tokenId","internalType":"uint256","type":"uint256","indexed":false},{"name":"banEndTime","internalType":"uint64","type":"uint64","indexed":false}],"name":"EventBanUpdated"}]

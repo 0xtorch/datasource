@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"tokenId","internalType":"uint256","type":"uint256"},{"name":"radbroIds","internalType":"uint256[]","type":"uint256[]"}],"name":"radrollArt","outputs":[{"name":"newArt","internalType":"uint256","type":"uint256"}],"stateMutability":"nonpayable"}]

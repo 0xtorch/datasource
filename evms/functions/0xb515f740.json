@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"bondID","internalType":"bytes32","type":"bytes32"}],"name":"isAcceptableSBT","outputs":[{"name":"","internalType":"bool","type":"bool"}],"stateMutability":"nonpayable"}]

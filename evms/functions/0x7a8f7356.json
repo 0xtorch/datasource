@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"selectors","internalType":"bytes4[]","type":"bytes4[]"},{"name":"implementations","internalType":"address[]","type":"address[]"}],"name":"setOverrides","outputs":[],"stateMutability":"nonpayable"}]

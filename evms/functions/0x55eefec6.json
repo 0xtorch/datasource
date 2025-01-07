@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"items","internalType":"struct DepositItem[]","type":"tuple[]","components":[{"name":"token","internalType":"address","type":"address"},{"name":"identifier","internalType":"uint256","type":"uint256"}]},{"name":"requestId","internalType":"uint256","type":"uint256"}],"name":"bulkDeposit","outputs":[],"stateMutability":"nonpayable"}]

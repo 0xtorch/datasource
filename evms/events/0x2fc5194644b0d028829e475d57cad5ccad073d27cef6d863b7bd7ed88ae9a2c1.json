@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"_selectorId","internalType":"bytes4","type":"bytes4","indexed":false},{"name":"_enable","internalType":"bool","type":"bool","indexed":false}],"name":"AccessSelectorIdChanged"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"domain","internalType":"string","type":"string"}],"name":"getOwner","outputs":[{"name":"","internalType":"address","type":"address"}],"stateMutability":"view"}]

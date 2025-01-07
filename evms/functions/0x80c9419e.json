@@ -1,0 +1,1 @@
+[{"type":"function","constant":true,"inputs":[{"name":"","internalType":"uint256","type":"uint256"}],"name":"list","outputs":[{"name":"prev","internalType":"uint256","type":"uint256"},{"name":"next","internalType":"uint256","type":"uint256"}],"payable":false,"stateMutability":"view"}]

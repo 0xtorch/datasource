@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_addy","internalType":"address","type":"address"}],"name":"IsWhiteListContract","outputs":[{"name":"","internalType":"bool","type":"bool"}],"stateMutability":"view"}]

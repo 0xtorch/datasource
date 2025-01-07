@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"pToken","internalType":"contract PToken","type":"address"},{"name":"state","internalType":"bool","type":"bool"}],"name":"_setBorrowPaused","outputs":[{"name":"","internalType":"bool","type":"bool"}],"stateMutability":"nonpayable"}]

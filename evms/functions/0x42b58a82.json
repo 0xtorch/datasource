@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"poolNo_","internalType":"uint256","type":"uint256"},{"name":"amount","internalType":"uint256","type":"uint256"}],"name":"emergencyUnstake","outputs":[],"stateMutability":"nonpayable"}]

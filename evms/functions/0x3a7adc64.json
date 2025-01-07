@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"symbol","internalType":"string","type":"string"}],"name":"getSymbolHash","outputs":[{"name":"","internalType":"bytes32","type":"bytes32"}],"stateMutability":"pure"}]

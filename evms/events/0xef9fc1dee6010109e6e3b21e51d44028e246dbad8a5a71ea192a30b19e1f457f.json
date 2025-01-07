@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"oldAddress","type":"address","indexed":false},{"name":"newAddress","type":"address","indexed":false}],"name":"DelegateChanged"}]

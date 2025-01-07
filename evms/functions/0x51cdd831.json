@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"marketingAddress","internalType":"address payable","type":"address"},{"name":"developmentAddress","internalType":"address payable","type":"address"}],"name":"setTaxAddresses","outputs":[],"stateMutability":"nonpayable"}]

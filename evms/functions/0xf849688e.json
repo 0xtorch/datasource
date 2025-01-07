@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"pos","internalType":"uint256","type":"uint256"},{"name":"hashX","internalType":"bytes32","type":"bytes32"}],"name":"setSimpleHash200","outputs":[],"stateMutability":"nonpayable"}]

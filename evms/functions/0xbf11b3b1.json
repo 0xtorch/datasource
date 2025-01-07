@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"transaction","internalType":"bytes","type":"bytes"}],"name":"manualAssert","outputs":[],"stateMutability":"view"}]

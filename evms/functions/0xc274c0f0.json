@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"xDaiBridge","internalType":"address","type":"address"},{"name":"token","internalType":"address","type":"address"},{"name":"dstChainId","internalType":"uint64","type":"uint64"}],"name":"initGnosisBridge","outputs":[],"stateMutability":"nonpayable"}]

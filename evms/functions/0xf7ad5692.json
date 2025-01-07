@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_tokens","internalType":"address[]","type":"address[]"},{"name":"_multiplier","internalType":"uint256","type":"uint256"}],"name":"getAllRewards","outputs":[],"stateMutability":"nonpayable"}]

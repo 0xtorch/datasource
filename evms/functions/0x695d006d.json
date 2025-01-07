@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"beneficiaries","internalType":"address[]","type":"address[]"},{"name":"amounts","internalType":"uint256[]","type":"uint256[]"}],"name":"setReleaseBatch","outputs":[],"stateMutability":"nonpayable"}]

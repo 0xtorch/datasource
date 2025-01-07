@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"msgSender","internalType":"address","type":"address","indexed":false},{"name":"otherSigner","internalType":"address","type":"address","indexed":false},{"name":"operation","internalType":"bytes32","type":"bytes32","indexed":false}],"name":"BatchTransacted"}]

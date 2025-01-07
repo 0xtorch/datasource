@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_joeFeePercent","internalType":"uint256","type":"uint256"},{"name":"_joeFeeCollector","internalType":"address","type":"address"}],"name":"initializeJoeFee","outputs":[],"stateMutability":"nonpayable"}]

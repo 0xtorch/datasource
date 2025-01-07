@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"exchanger","internalType":"address","type":"address","indexed":false}],"name":"ExchangerUpdated"}]

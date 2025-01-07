@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"user","internalType":"address","type":"address"}],"name":"getAvailableSellOrdersIdListByUser","outputs":[{"name":"resultERC721","internalType":"uint256[]","type":"uint256[]"},{"name":"resultERC1155","internalType":"uint256[]","type":"uint256[]"}],"stateMutability":"view"}]

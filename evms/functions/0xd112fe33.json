@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_minter","internalType":"address","type":"address"},{"name":"_quantity","internalType":"uint24","type":"uint24"},{"name":"_merkleProof","internalType":"bytes32[]","type":"bytes32[]"},{"name":"_phaseId","internalType":"uint8","type":"uint8"}],"name":"mint","outputs":[],"stateMutability":"nonpayable"}]

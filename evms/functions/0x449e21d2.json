@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_maxamount","internalType":"uint256","type":"uint256"}],"name":"UpdateMaxStake","outputs":[{"name":"","internalType":"bool","type":"bool"}],"stateMutability":"nonpayable"}]

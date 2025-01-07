@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"pubKey","internalType":"struct MACISharedObjs.PubKey","type":"tuple","components":[{"name":"x","internalType":"uint256","type":"uint256"},{"name":"y","internalType":"uint256","type":"uint256"}]},{"name":"amount","internalType":"uint256","type":"uint256"}],"name":"contribute","outputs":[],"stateMutability":"nonpayable"}]

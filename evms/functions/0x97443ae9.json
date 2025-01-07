@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"styleId","internalType":"uint256","type":"uint256"}],"name":"canMintWithStyle","outputs":[{"name":"","internalType":"bool","type":"bool"}],"stateMutability":"view"}]

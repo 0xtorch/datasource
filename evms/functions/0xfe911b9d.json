@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"variety","internalType":"address","type":"address"},{"name":"recipient","internalType":"address","type":"address"},{"name":"seeds","internalType":"bytes32[]","type":"bytes32[]"}],"name":"plantFromCurated","outputs":[],"stateMutability":"nonpayable"}]

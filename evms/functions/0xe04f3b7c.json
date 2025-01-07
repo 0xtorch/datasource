@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"beneficiaries","internalType":"address[]","type":"address[]"},{"name":"amountTotals","internalType":"uint256[]","type":"uint256[]"}],"name":"addAddressAmount","outputs":[],"stateMutability":"nonpayable"}]

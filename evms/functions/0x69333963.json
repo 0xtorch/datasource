@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"knightId","internalType":"uint256","type":"uint256"},{"name":"petId","internalType":"uint256","type":"uint256"}],"name":"adoptPet","outputs":[],"stateMutability":"nonpayable"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"erc721Addresses","internalType":"address[]","type":"address[]"},{"name":"receiverIds","internalType":"uint256[]","type":"uint256[]"},{"name":"amountsOrIds","internalType":"uint256[]","type":"uint256[]"},{"name":"tokenAddress","internalType":"address","type":"address"}],"name":"send721Or20To721Ids","outputs":[],"stateMutability":"payable"}]

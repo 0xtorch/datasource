@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"callpath","internalType":"uint16","type":"uint16"},{"name":"cmd","internalType":"bytes","type":"bytes"},{"name":"client","internalType":"address","type":"address"}],"name":"userCmdRouter","outputs":[{"name":"","internalType":"bytes","type":"bytes"}],"stateMutability":"payable"}]

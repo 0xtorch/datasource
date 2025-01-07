@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"in_ids","internalType":"uint256[]","type":"uint256[]"},{"name":"in_amounts","internalType":"uint256[]","type":"uint256[]"},{"name":"out_ids","internalType":"uint256[]","type":"uint256[]"},{"name":"out_amounts","internalType":"uint256[]","type":"uint256[]"}],"name":"swap1155","outputs":[],"stateMutability":"nonpayable"}]

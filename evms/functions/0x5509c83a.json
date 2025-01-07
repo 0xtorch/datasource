@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_gameKey","internalType":"bytes32","type":"bytes32"},{"name":"_price","internalType":"uint256","type":"uint256"}],"name":"setCollectionPrice","outputs":[],"stateMutability":"nonpayable"}]

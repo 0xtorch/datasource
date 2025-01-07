@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[],"name":"getUsdcBorrowed","outputs":[{"name":"usdcAmount","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

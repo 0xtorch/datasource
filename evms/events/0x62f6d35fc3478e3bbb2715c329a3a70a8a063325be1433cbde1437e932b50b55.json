@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"lpm","internalType":"address","type":"address","indexed":true}],"name":"LiquidityProvidersUpdated"}]

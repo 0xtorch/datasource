@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_dividend","internalType":"address","type":"address"},{"name":"_management","internalType":"address","type":"address"},{"name":"_foundation","internalType":"address","type":"address"},{"name":"pools","internalType":"address[]","type":"address[]"}],"name":"setAddress","outputs":[],"stateMutability":"nonpayable"}]

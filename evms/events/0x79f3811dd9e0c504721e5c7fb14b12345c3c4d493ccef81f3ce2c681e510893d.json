@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"amount","internalType":"uint256","type":"uint256","indexed":false},{"name":"point","internalType":"int24","type":"int24","indexed":false},{"name":"sellXEarnY","internalType":"bool","type":"bool","indexed":false}],"name":"AddLimitOrder"}]

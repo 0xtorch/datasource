@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"niftyType","internalType":"uint256","type":"uint256"},{"name":"bips","internalType":"uint256","type":"uint256"}],"name":"setRoyaltyBips","outputs":[],"stateMutability":"nonpayable"}]

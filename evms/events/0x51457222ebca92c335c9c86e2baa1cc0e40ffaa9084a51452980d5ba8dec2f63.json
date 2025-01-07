@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"_depositor","internalType":"address","type":"address","indexed":true},{"name":"_ETH","internalType":"uint256","type":"uint256","indexed":false},{"name":"_LUSDLoss","internalType":"uint256","type":"uint256","indexed":false}],"name":"ETHGainWithdrawn"}]

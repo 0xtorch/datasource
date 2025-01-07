@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_tokenId","internalType":"uint256","type":"uint256"}],"name":"genAndRarityForLegion","outputs":[{"name":"","internalType":"enum LegionGeneration","type":"uint8"},{"name":"","internalType":"enum LegionRarity","type":"uint8"}],"stateMutability":"view"}]

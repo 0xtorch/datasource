@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"destinationIdentifier","internalType":"bytes32","type":"bytes32"}],"name":"proofValidPeriod","outputs":[{"name":"duration","internalType":"uint64","type":"uint64"}],"stateMutability":"view"}]

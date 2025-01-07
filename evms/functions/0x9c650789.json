@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"","internalType":"uint256","type":"uint256"}],"name":"miningApprovals","outputs":[{"name":"token","internalType":"address","type":"address"},{"name":"swapContract","internalType":"address","type":"address"}],"stateMutability":"view"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"roleId","internalType":"uint256","type":"uint256"}],"name":"getMember","outputs":[{"name":"","internalType":"address","type":"address"}],"stateMutability":"view"}]

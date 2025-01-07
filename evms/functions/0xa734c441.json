@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"data","internalType":"bytes[]","type":"bytes[]"}],"name":"multicallView","outputs":[{"name":"callResults","internalType":"struct MulticallView.Result[]","type":"tuple[]","components":[{"name":"success","internalType":"bool","type":"bool"},{"name":"returnData","internalType":"bytes","type":"bytes"}]}],"stateMutability":"view"}]

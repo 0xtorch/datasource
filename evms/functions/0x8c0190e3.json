@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"bPauseDeposits","internalType":"bool","type":"bool"},{"name":"bPauseWithdrawals","internalType":"bool","type":"bool"}],"name":"pauseDepositsAndWithdrawals","outputs":[],"stateMutability":"nonpayable"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"to","internalType":"address","type":"address"},{"name":"tokenId","internalType":"uint256","type":"uint256"},{"name":"mintingBlob","internalType":"bytes","type":"bytes"}],"name":"mintFor","outputs":[],"stateMutability":"nonpayable"}]

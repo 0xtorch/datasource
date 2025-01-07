@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"Character2","internalType":"uint256","type":"uint256"},{"name":"Character3","internalType":"uint256","type":"uint256"},{"name":"Character4more","internalType":"uint256","type":"uint256"}],"name":"setRegisterPrice","outputs":[],"stateMutability":"nonpayable"}]

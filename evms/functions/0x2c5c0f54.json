@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"niftyType","internalType":"uint256","type":"uint256"}],"name":"getPaymentSplitterByNiftyType","outputs":[{"name":"","internalType":"address","type":"address"}],"stateMutability":"view"}]

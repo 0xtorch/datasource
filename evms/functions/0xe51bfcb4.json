@@ -1,0 +1,1 @@
+[{"type":"function","constant":true,"inputs":[{"name":"account","type":"tuple","components":[{"name":"owner","type":"address"},{"name":"number","type":"uint256"}]}],"name":"getAccountStatus","outputs":[{"name":"","type":"uint8"}],"payable":false,"stateMutability":"view"}]

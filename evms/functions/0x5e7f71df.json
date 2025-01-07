@@ -1,0 +1,1 @@
+[{"type":"function","constant":false,"inputs":[{"name":"jToken","internalType":"contract JToken","type":"address"},{"name":"underlyingPriceMantissa","internalType":"uint256","type":"uint256"}],"name":"_setUnderlyingPrice","outputs":[],"payable":false,"stateMutability":"nonpayable"}]

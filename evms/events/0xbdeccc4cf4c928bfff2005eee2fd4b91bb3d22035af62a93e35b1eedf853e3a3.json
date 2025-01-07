@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"roundDuration","internalType":"uint40","type":"uint40","indexed":false}],"name":"RoundDurationUpdated"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"whChainId","internalType":"uint16","type":"uint16"}],"name":"isChainEnabled","outputs":[{"name":"","internalType":"bool","type":"bool"}],"stateMutability":"view"}]

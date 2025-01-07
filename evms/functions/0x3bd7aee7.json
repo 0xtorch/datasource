@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_voteOptionIndex","internalType":"uint256","type":"uint256"},{"name":"_spent","internalType":"uint256","type":"uint256"},{"name":"_spentProof","internalType":"uint256[][]","type":"uint256[][]"},{"name":"_spentSalt","internalType":"uint256","type":"uint256"}],"name":"claimFunds","outputs":[],"stateMutability":"nonpayable"}]

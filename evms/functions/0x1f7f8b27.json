@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_amountIn","internalType":"uint256","type":"uint256"},{"name":"_amountOut","internalType":"uint256","type":"uint256"},{"name":"_path","internalType":"address[]","type":"address[]"},{"name":"_adapters","internalType":"address[]","type":"address[]"}],"name":"yakSwap","outputs":[],"stateMutability":"nonpayable"}]

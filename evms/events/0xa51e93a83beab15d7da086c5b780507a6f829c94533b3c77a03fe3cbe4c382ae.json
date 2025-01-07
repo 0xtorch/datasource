@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"nftID","internalType":"uint256","type":"uint256","indexed":false},{"name":"value","internalType":"uint256","type":"uint256","indexed":false},{"name":"actionID","internalType":"uint256","type":"uint256","indexed":false},{"name":"payload","internalType":"string","type":"string","indexed":false}],"name":"CustomThing"}]

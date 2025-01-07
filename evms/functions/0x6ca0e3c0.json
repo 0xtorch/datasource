@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_lockPool","internalType":"address","type":"address"},{"name":"_heAsset","internalType":"address","type":"address"},{"name":"_payment","internalType":"address","type":"address"},{"name":"_paymentToWallet","internalType":"address","type":"address"}],"name":"setHEAssetSettings","outputs":[],"stateMutability":"nonpayable"}]

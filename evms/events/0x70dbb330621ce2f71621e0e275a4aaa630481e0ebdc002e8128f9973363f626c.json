@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"claimContractAddress","internalType":"address","type":"address","indexed":false},{"name":"vestingScheduleIds","internalType":"uint256[]","type":"uint256[]","indexed":false}],"name":"ReleaseFromWalletBasedClaimContract"}]

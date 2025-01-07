@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_minters","internalType":"struct RichTokenCover.mintBulkParam[]","type":"tuple[]","components":[{"name":"to","internalType":"address","type":"address"},{"name":"amount","internalType":"uint256","type":"uint256"}]}],"name":"mintBulk","outputs":[],"stateMutability":"nonpayable"}]

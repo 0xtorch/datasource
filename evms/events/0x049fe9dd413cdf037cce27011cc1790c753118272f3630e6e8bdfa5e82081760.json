@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"newGameType","internalType":"GameType","type":"uint32","indexed":true},{"name":"updatedAt","internalType":"Timestamp","type":"uint64","indexed":true}],"name":"RespectedGameTypeSet"}]

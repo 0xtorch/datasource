@@ -1,0 +1,1 @@
+[{"type":"function","constant":true,"inputs":[{"name":"_rarity","type":"uint16"}],"name":"getSectorVolumeByRarity","outputs":[{"name":"","type":"uint256"}],"payable":false,"stateMutability":"view"}]

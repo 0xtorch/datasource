@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"gen","internalType":"uint256","type":"uint256"},{"name":"url","internalType":"string","type":"string"}],"name":"setTokenURI","outputs":[],"stateMutability":"nonpayable"}]

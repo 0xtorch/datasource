@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"raffleId","internalType":"uint256","type":"uint256"}],"name":"getRaffleWinners","outputs":[{"name":"winTicketIds","internalType":"uint32[]","type":"uint32[]"}],"stateMutability":"view"}]

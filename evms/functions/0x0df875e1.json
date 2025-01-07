@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"","internalType":"address","type":"address"},{"name":"_indexToken","internalType":"address","type":"address"},{"name":"_isLong","internalType":"bool","type":"bool"}],"name":"getEntryBorrowingRate","outputs":[{"name":"","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

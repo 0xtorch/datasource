@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[],"name":"DEFAULT_TRANSFER_SECURITY_LEVEL","outputs":[{"name":"","internalType":"enum TransferSecurityLevels","type":"uint8"}],"stateMutability":"view"}]

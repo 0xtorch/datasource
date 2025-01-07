@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"raffle","internalType":"address","type":"address"},{"name":"provable","internalType":"address","type":"address"}],"name":"setupRaffleProvable","outputs":[],"stateMutability":"nonpayable"}]

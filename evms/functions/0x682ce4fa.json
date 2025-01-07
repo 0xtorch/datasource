@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"halfLock_","internalType":"uint256","type":"uint256"},{"name":"fullLock_","internalType":"uint256","type":"uint256"}],"name":"updateStakingPeriods","outputs":[],"stateMutability":"nonpayable"}]

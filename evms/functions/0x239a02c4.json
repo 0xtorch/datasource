@@ -1,0 +1,1 @@
+[{"type":"function","constant":true,"inputs":[{"name":"","type":"uint8"}],"name":"assetTypes","outputs":[{"name":"name","type":"string"},{"name":"isValue","type":"bool"}],"payable":false,"stateMutability":"view"}]

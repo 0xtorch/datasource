@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_staticCalls","internalType":"bytes[]","type":"bytes[]"},{"name":"_updateData","internalType":"bytes[]","type":"bytes[]"}],"name":"batchStaticCall","outputs":[{"name":"timestamp","internalType":"uint256","type":"uint256"},{"name":"results","internalType":"bytes[]","type":"bytes[]"}],"stateMutability":"payable"}]

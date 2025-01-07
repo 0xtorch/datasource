@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[],"name":"poolAddresses","outputs":[{"name":"pools","internalType":"address[]","type":"address[]"}],"stateMutability":"view"}]

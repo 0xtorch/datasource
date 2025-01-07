@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_vestingThreshold","internalType":"uint256","type":"uint256"},{"name":"_vestingRate","internalType":"uint256","type":"uint256"}],"name":"setVestingParameters","outputs":[],"stateMutability":"nonpayable"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"cid","internalType":"string","type":"string"}],"name":"getTokenId","outputs":[{"name":"","internalType":"uint256","type":"uint256"}],"stateMutability":"pure"}]

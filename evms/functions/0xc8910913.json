@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"","internalType":"address","type":"address"}],"name":"userData","outputs":[{"name":"amount","internalType":"uint256","type":"uint256"},{"name":"lockedTime","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

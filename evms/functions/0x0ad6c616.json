@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"newStart","internalType":"uint32","type":"uint32"},{"name":"newEnd","internalType":"uint32","type":"uint32"}],"name":"updateSaleStartEnd","outputs":[],"stateMutability":"nonpayable"}]

@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"isUserExecuteEnabled","internalType":"bool","type":"bool","indexed":false}],"name":"SetIsUserExecuteEnabled"}]

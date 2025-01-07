@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_ma_exp_time","type":"uint256"},{"name":"_D_ma_time","type":"uint256"}],"name":"set_ma_exp_time","outputs":[],"stateMutability":"nonpayable"}]

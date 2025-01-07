@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_rewardReservoir","internalType":"contract IReservoir","type":"address"}],"name":"setRewardReservoir","outputs":[],"stateMutability":"nonpayable"}]

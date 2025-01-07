@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"account","internalType":"address","type":"address","indexed":true},{"name":"liquidationFeeTo","internalType":"address","type":"address","indexed":true},{"name":"liquidationReceiver","internalType":"address","type":"address","indexed":false}],"name":"LiquidationReceiverCreated"}]

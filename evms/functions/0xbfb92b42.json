@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"nftContract","internalType":"address","type":"address"},{"name":"merkleRoot","internalType":"bytes32","type":"bytes32"}],"name":"getFixedPriceSaleEarlyAccessAllowlistSupported","outputs":[{"name":"supported","internalType":"bool","type":"bool"}],"stateMutability":"view"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[],"name":"rewardTokenInfos","outputs":[{"name":"bonusTokenAddresses","internalType":"address[]","type":"address[]"},{"name":"bonusTokenSymbols","internalType":"string[]","type":"string[]"}],"stateMutability":"view"}]

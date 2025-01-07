@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"ids","internalType":"uint256[]","type":"uint256[]"},{"name":"parts","internalType":"uint256[]","type":"uint256[]"}],"name":"elongateLifetime","outputs":[],"stateMutability":"nonpayable"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[],"name":"getCurrentBlockDifficulty","outputs":[{"name":"difficulty","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"healthGroup","internalType":"uint32","type":"uint32"}],"name":"getOraclePricesX18","outputs":[{"name":"","internalType":"struct IEndpoint.Prices","type":"tuple","components":[{"name":"spotPriceX18","internalType":"int128","type":"int128"},{"name":"perpPriceX18","internalType":"int128","type":"int128"}]}],"stateMutability":"view"}]

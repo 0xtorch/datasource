@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"chainId","internalType":"uint16","type":"uint16"},{"name":"bridgeContract","internalType":"bytes32","type":"bytes32"}],"name":"registerChain","outputs":[],"stateMutability":"nonpayable"}]

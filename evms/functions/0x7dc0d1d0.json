@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[],"name":"oracle","outputs":[{"name":"","internalType":"contract IPriceOracle","type":"address"}],"stateMutability":"view"}]

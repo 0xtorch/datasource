@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[],"name":"getVersionComponents","outputs":[{"name":"","internalType":"struct ISemVer.Version","type":"tuple","components":[{"name":"major","internalType":"uint8","type":"uint8"},{"name":"minor","internalType":"uint8","type":"uint8"},{"name":"patch","internalType":"uint8","type":"uint8"}]}],"stateMutability":"pure"}]

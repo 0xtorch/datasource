@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_name","internalType":"string","type":"string"},{"name":"_weight","internalType":"uint256","type":"uint256"}],"name":"addType","outputs":[],"stateMutability":"nonpayable"}]

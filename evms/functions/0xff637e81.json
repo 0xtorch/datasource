@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_openOrderIndexes","internalType":"uint256[]","type":"uint256[]"},{"name":"_closeOrderIndexes","internalType":"uint256[]","type":"uint256[]"}],"name":"cancelMultiple","outputs":[],"stateMutability":"nonpayable"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"worldId","internalType":"uint256","type":"uint256"},{"name":"sellers","internalType":"address[]","type":"address[]"}],"name":"addToAllowlistBySellers","outputs":[],"stateMutability":"nonpayable"}]

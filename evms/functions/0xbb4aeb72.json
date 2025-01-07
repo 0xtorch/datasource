@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"","internalType":"enum ToadSkin","type":"uint8"}],"name":"skinToPNG","outputs":[{"name":"","internalType":"string","type":"string"}],"stateMutability":"view"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_tierId","internalType":"string","type":"string"},{"name":"_allowWalletPromoCode","internalType":"bool","type":"bool"}],"name":"updateWalletPromoCodeAllowance","outputs":[],"stateMutability":"nonpayable"}]

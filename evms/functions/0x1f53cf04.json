@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"deadline","internalType":"uint256","type":"uint256"},{"name":"callbackGasLimit","internalType":"uint256","type":"uint256"}],"name":"requestRandomness","outputs":[{"name":"","internalType":"uint256","type":"uint256"}],"stateMutability":"payable"}]

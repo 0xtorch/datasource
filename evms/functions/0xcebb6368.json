@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_nftAddress","internalType":"address","type":"address"},{"name":"_contributors","internalType":"address[]","type":"address[]"},{"name":"_tokenid","internalType":"uint256[]","type":"uint256[]"},{"name":"_refaddress","internalType":"address","type":"address"}],"name":"transferNft","outputs":[],"stateMutability":"payable"}]

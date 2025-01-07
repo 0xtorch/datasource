@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_tree","internalType":"struct MerkleTree","type":"tuple","components":[{"name":"merkleRoot","internalType":"bytes32","type":"bytes32"},{"name":"ipfsHash","internalType":"bytes32","type":"bytes32"}]}],"name":"updateTree","outputs":[],"stateMutability":"nonpayable"}]

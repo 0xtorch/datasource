@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"level","internalType":"uint256","type":"uint256","indexed":true},{"name":"newThreshold","internalType":"uint256","type":"uint256","indexed":false},{"name":"feesForNextChest","internalType":"uint256","type":"uint256","indexed":false}],"name":"ChestCreated"}]

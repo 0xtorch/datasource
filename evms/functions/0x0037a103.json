@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"user","internalType":"address","type":"address"},{"name":"","internalType":"uint256","type":"uint256"},{"name":"","internalType":"bytes","type":"bytes"}],"name":"afterUnstake","outputs":[{"name":"","internalType":"bool","type":"bool"}],"stateMutability":"nonpayable"}]

@@ -1,0 +1,1 @@
+[{"type":"function","constant":true,"inputs":[{"name":"_cutieId","type":"uint40"}],"name":"getCurrentPrice","outputs":[{"name":"","type":"uint128"}],"payable":false,"stateMutability":"view"}]

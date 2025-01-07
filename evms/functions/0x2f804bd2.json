@@ -1,0 +1,1 @@
+[{"type":"function","constant":false,"inputs":[{"name":"_n","internalType":"uint64","type":"uint64"}],"name":"cancelOutstandingDepositsForExodusMode","outputs":[],"payable":false,"stateMutability":"nonpayable"}]

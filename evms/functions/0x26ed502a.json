@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_withdrawCoins","internalType":"address[]","type":"address[]"},{"name":"_withdrawBalances","internalType":"uint256[]","type":"uint256[]"}],"name":"setWithdrawCoins","outputs":[],"stateMutability":"nonpayable"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"spiritTokenId","internalType":"uint256","type":"uint256"}],"name":"isSpiritTokenSoulless","outputs":[{"name":"isSoulless","internalType":"bool","type":"bool"},{"name":"soullessOwner","internalType":"address","type":"address"}],"stateMutability":"view"}]

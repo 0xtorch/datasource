@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"gateway_address","internalType":"address","type":"address","indexed":false}],"name":"LogSetGateway"}]

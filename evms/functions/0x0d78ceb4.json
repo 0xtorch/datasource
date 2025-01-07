@@ -1,0 +1,1 @@
+[{"type":"function","constant":true,"inputs":[{"name":"account","internalType":"address","type":"address"},{"name":"epoch","internalType":"uint256","type":"uint256"}],"name":"balanceOfCouponUnderlying","outputs":[{"name":"","internalType":"uint256","type":"uint256"}],"payable":false,"stateMutability":"view"}]

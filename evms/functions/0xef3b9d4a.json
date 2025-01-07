@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"wallet","internalType":"address","type":"address"},{"name":"assetSymbol","internalType":"string","type":"string"}],"name":"loadBalanceInPipsBySymbol","outputs":[{"name":"","internalType":"uint64","type":"uint64"}],"stateMutability":"view"}]

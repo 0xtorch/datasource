@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"airdropType","internalType":"uint256","type":"uint256","indexed":true},{"name":"users","internalType":"address[]","type":"address[]","indexed":false},{"name":"message","internalType":"string","type":"string","indexed":false}],"name":"AirdropInitiated"}]

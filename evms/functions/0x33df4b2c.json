@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"","internalType":"uint256","type":"uint256"},{"name":"","internalType":"uint256","type":"uint256"}],"name":"rarities","outputs":[{"name":"","internalType":"uint8","type":"uint8"}],"stateMutability":"view"}]

@@ -1,0 +1,1 @@
+[{"type":"function","constant":false,"inputs":[{"name":"_addStrat","internalType":"contract Strategy","type":"address"},{"name":"_liqStrat","internalType":"contract Strategy","type":"address"}],"name":"setCriticalStrategies","outputs":[],"payable":false,"stateMutability":"nonpayable"}]

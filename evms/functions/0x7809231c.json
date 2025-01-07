@@ -1,0 +1,1 @@
+[{"type":"function","constant":false,"inputs":[{"name":"_participant","type":"address"},{"name":"_amount","type":"uint256"}],"name":"DistributeAirdrop","outputs":[],"payable":false,"stateMutability":"nonpayable"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_mintAmount","internalType":"uint256","type":"uint256"},{"name":"destination","internalType":"address","type":"address"}],"name":"gift","outputs":[],"stateMutability":"nonpayable"}]

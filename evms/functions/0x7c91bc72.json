@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"chainId","internalType":"uint16","type":"uint16"},{"name":"token","internalType":"address","type":"address"}],"name":"setSgETH","outputs":[],"stateMutability":"nonpayable"}]

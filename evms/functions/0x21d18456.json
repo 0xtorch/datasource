@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_borrowedAmount","internalType":"uint256","type":"uint256"},{"name":"_cumulativeIndexAtOpen","internalType":"uint256","type":"uint256"}],"name":"takeCreditAccount","outputs":[{"name":"","internalType":"address","type":"address"}],"stateMutability":"nonpayable"}]

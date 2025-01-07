@@ -1,0 +1,1 @@
+[{"type":"function","constant":false,"inputs":[{"name":"rate","internalType":"uint256","type":"uint256"}],"name":"setWithdrawalFeeRate","outputs":[],"payable":false,"stateMutability":"nonpayable"}]

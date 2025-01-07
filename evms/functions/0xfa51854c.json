@@ -1,0 +1,1 @@
+[{"type":"function","constant":false,"inputs":[{"name":"_reserve","internalType":"address","type":"address"},{"name":"_user","internalType":"address","type":"address"},{"name":"_useAsCollateral","internalType":"bool","type":"bool"}],"name":"setUserUseReserveAsCollateral","outputs":[],"payable":false,"stateMutability":"nonpayable"}]

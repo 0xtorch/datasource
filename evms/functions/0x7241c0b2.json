@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"human","internalType":"address","type":"address"},{"name":"amountOfFlufs","internalType":"uint256","type":"uint256"}],"name":"mintFluf","outputs":[{"name":"","internalType":"uint256","type":"uint256"}],"stateMutability":"payable"}]

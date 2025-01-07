@@ -1,0 +1,1 @@
+[{"type":"function","constant":false,"inputs":[{"name":"argsBs","internalType":"bytes","type":"bytes"},{"name":"fromContractAddr","internalType":"bytes","type":"bytes"},{"name":"fromChainId","internalType":"uint64","type":"uint64"}],"name":"unlock","outputs":[{"name":"","internalType":"bool","type":"bool"}],"payable":false,"stateMutability":"nonpayable"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_managementFeeBps","internalType":"uint256","type":"uint256"}],"name":"setManagementFeeBps","outputs":[],"stateMutability":"nonpayable"}]

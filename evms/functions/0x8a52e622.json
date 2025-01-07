@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_chainId","internalType":"uint256","type":"uint256"}],"name":"getTotalElementsByChainId","outputs":[{"name":"_totalElements","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

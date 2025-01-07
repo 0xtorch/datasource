@@ -1,0 +1,1 @@
+[{"type":"function","constant":true,"inputs":[{"name":"_id","type":"uint256"}],"name":"getLamboModel","outputs":[{"name":"model","type":"uint64"}],"payable":false,"stateMutability":"view"}]

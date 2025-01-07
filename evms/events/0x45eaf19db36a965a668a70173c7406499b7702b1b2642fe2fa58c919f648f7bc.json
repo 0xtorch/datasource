@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"sType","internalType":"enum IVaultFactory.StrategyType","type":"uint8","indexed":true},{"name":"strategyImplementation","internalType":"address","type":"address","indexed":true}],"name":"StrategyImplementationSet"}]

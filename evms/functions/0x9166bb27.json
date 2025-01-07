@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"tokenId","internalType":"uint256","type":"uint256"},{"name":"answer","internalType":"string","type":"string"},{"name":"credit","internalType":"string","type":"string"}],"name":"updateAnswer","outputs":[],"stateMutability":"nonpayable"}]

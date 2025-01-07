@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"tokenContract","internalType":"address","type":"address"},{"name":"isListed","internalType":"bool","type":"bool"}],"name":"setLoreTokenAllowlist","outputs":[],"stateMutability":"nonpayable"}]

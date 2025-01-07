@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"_gauge","type":"address","indexed":true},{"name":"_mirrored","type":"bool","indexed":false}],"name":"UpdateMirrored"}]

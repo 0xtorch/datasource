@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_merkle","internalType":"bytes32[]","type":"bytes32[]"},{"name":"_merkleid","internalType":"uint8[]","type":"uint8[]"},{"name":"_amounts","internalType":"uint256[]","type":"uint256[]"}],"name":"setMerkleRoot","outputs":[],"stateMutability":"nonpayable"}]

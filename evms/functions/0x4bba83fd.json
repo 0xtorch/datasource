@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"amount","internalType":"uint256","type":"uint256"},{"name":"amountAMin","internalType":"uint256","type":"uint256"},{"name":"amountBMin","internalType":"uint256","type":"uint256"},{"name":"isAvax","internalType":"bool","type":"bool"}],"name":"withdrawAndRemoveLiquidity","outputs":[],"stateMutability":"nonpayable"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"name","internalType":"string","type":"string"},{"name":"tld","internalType":"string","type":"string"}],"name":"getNodehash","outputs":[{"name":"","internalType":"bytes32","type":"bytes32"}],"stateMutability":"pure"}]

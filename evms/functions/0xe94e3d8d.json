@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[],"name":"getPairSettings","outputs":[{"name":"_tradeFee","internalType":"uint16","type":"uint16"},{"name":"_tradeState","internalType":"enum IImpossiblePair.TradeState","type":"uint8"},{"name":"_isXybk","internalType":"bool","type":"bool"}],"stateMutability":"view"}]

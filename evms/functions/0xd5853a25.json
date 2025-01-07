@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"pricePerQuantity","internalType":"uint256","type":"uint256"},{"name":"tokenQuantity","internalType":"uint256","type":"uint256"}],"name":"getRevenueDistributionForMint","outputs":[{"name":"creatorRevenue","internalType":"uint256","type":"uint256"},{"name":"protocolFee","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_allowlistId","internalType":"uint256","type":"uint256"}],"name":"getMintedByAllowlist","outputs":[{"name":"mintedBy","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

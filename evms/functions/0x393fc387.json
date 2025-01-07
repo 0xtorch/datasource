@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_creditCardMintAddresses","internalType":"address[]","type":"address[]"}],"name":"setCreditCardMintAddresses","outputs":[],"stateMutability":"nonpayable"}]

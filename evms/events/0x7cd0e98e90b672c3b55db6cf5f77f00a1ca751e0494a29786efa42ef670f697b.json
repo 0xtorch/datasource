@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"totalFee","internalType":"uint256","type":"uint256","indexed":false},{"name":"lpFee","internalType":"uint256","type":"uint256","indexed":false},{"name":"marketingFee","internalType":"uint256","type":"uint256","indexed":false}],"name":"SetBuyFees"}]

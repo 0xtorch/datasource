@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"packetId_","internalType":"bytes32","type":"bytes32"},{"name":"proposalCount_","internalType":"uint256","type":"uint256"},{"name":"root_","internalType":"bytes32","type":"bytes32"},{"name":"signature_","internalType":"bytes","type":"bytes"}],"name":"attest","outputs":[],"stateMutability":"nonpayable"}]

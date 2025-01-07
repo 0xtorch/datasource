@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"root","internalType":"bytes32","type":"bytes32"},{"name":"proofLength","internalType":"uint256","type":"uint256"}],"name":"hashBatchOrder","outputs":[{"name":"batchOrderHash","internalType":"bytes32","type":"bytes32"}],"stateMutability":"pure"}]

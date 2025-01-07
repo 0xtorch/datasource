@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"","internalType":"enum LibDataTypes.Module","type":"uint8"}],"name":"taskModuleAddresses","outputs":[{"name":"","internalType":"address","type":"address"}],"stateMutability":"view"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"stakingPoolAddress","internalType":"address","type":"address"}],"name":"claimStakingRewards","outputs":[],"stateMutability":"nonpayable"}]

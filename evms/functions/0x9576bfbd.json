@@ -1,0 +1,1 @@
+[{"type":"function","constant":false,"inputs":[{"name":"newWL","internalType":"address","type":"address"}],"name":"setWhiteLister","outputs":[],"payable":false,"stateMutability":"nonpayable"}]

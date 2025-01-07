@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"encodedPayload","internalType":"bytes","type":"bytes"}],"name":"parseSetFeePayload","outputs":[{"name":"sf","internalType":"struct PythGovernanceInstructions.SetFeePayload","type":"tuple","components":[{"name":"newFee","internalType":"uint256","type":"uint256"}]}],"stateMutability":"pure"}]

@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"total","type":"uint256","indexed":false},{"name":"tokenAddress","type":"address","indexed":false}],"name":"Multisended"}]

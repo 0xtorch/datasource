@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_glpBatchingManager","internalType":"contract IDnGmxBatchingManagerGlp","type":"address"}],"name":"setGlpBatchingManager","outputs":[],"stateMutability":"nonpayable"}]

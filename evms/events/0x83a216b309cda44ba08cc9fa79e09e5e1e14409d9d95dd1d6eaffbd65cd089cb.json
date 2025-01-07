@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"_mainAccount","internalType":"address","type":"address","indexed":false},{"name":"_newSubAccount","internalType":"address","type":"address","indexed":false}],"name":"subAccountCreate"}]

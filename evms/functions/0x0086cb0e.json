@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"recipient","internalType":"address","type":"address"},{"name":"actualMember","internalType":"address","type":"address"}],"name":"removeForMember","outputs":[{"name":"outputBase","internalType":"uint256","type":"uint256"},{"name":"outputToken","internalType":"uint256","type":"uint256"}],"stateMutability":"nonpayable"}]

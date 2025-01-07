@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_investors","internalType":"address[]","type":"address[]"},{"name":"_enabled","internalType":"bool","type":"bool"},{"name":"_value","internalType":"int128","type":"int128"}],"name":"multiSetWhiteListRecords","outputs":[],"stateMutability":"nonpayable"}]

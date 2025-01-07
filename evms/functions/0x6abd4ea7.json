@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_orderIds","internalType":"bytes32[]","type":"bytes32[]"},{"name":"_beneficiary","internalType":"address","type":"address"}],"name":"claimBatchUnlock","outputs":[],"stateMutability":"nonpayable"}]

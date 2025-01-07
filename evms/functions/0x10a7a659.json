@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_transferCheckerAddress","internalType":"address","type":"address"}],"name":"setShouldTransferChecker","outputs":[],"stateMutability":"nonpayable"}]

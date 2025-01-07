@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"riskManager","internalType":"address","type":"address","indexed":false}],"name":"RiskManagerUpdated"}]

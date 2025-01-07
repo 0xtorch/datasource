@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_newExpirationDuration","internalType":"uint256","type":"uint256"},{"name":"_maxNumberOfKeys","internalType":"uint256","type":"uint256"},{"name":"_maxKeysPerAcccount","internalType":"uint256","type":"uint256"}],"name":"updateLockConfig","outputs":[],"stateMutability":"nonpayable"}]

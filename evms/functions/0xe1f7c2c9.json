@@ -1,0 +1,1 @@
+[{"type":"function","constant":false,"inputs":[{"name":"_creditScoreAddress","internalType":"address","type":"address"}],"name":"setCreditScoreContract","outputs":[],"payable":false,"stateMutability":"nonpayable"}]

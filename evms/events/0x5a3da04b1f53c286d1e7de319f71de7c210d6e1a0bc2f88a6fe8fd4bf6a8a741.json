@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"Epoch","internalType":"uint256","type":"uint256","indexed":false},{"name":"release_SM","internalType":"uint256","type":"uint256","indexed":false},{"name":"release_BI","internalType":"uint256","type":"uint256","indexed":false},{"name":"time","internalType":"uint256","type":"uint256","indexed":false}],"name":"releaseRecord"}]

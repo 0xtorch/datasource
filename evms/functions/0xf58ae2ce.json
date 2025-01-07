@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"data","internalType":"bytes","type":"bytes"},{"name":"callTo","internalType":"bytes","type":"bytes"},{"name":"dstCalldata","internalType":"bytes","type":"bytes"}],"name":"validateDestinationCalldata","outputs":[{"name":"isValid","internalType":"bool","type":"bool"}],"stateMutability":"pure"}]

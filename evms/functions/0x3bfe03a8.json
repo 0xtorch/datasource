@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[],"name":"streamDurations","outputs":[{"name":"cliff","internalType":"uint40","type":"uint40"},{"name":"total","internalType":"uint40","type":"uint40"}],"stateMutability":"view"}]

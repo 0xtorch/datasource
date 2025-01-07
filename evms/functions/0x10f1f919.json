@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_feeRatios","internalType":"uint256[]","type":"uint256[]"}],"name":"setOwnerfeeRatio","outputs":[],"stateMutability":"nonpayable"}]

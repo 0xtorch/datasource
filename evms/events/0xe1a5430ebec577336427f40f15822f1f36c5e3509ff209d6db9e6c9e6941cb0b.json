@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"oldProtocolFeeCollector","internalType":"address","type":"address","indexed":false},{"name":"updatedProtocolFeeCollector","internalType":"address","type":"address","indexed":false}],"name":"ProtocolFeeCollectorAddress"}]

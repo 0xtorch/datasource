@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"stateId","internalType":"uint256","type":"uint256","indexed":true},{"name":"success","internalType":"bool","type":"bool","indexed":false}],"name":"StateCommitted"}]

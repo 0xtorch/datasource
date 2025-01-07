@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"rollHash","internalType":"bytes32","type":"bytes32","indexed":true},{"name":"roll","internalType":"struct Raffle.Roll","type":"tuple","components":[{"name":"commit","internalType":"bytes32","type":"bytes32"},{"name":"blockNumber","internalType":"uint256","type":"uint256"}],"indexed":false}],"name":"RollStarted"}]

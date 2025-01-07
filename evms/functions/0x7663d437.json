@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"","internalType":"uint8","type":"uint8"}],"name":"treeParameters","outputs":[{"name":"safeGuard","internalType":"address","type":"address"},{"name":"merkleRoot","internalType":"bytes32","type":"bytes32"},{"name":"maxAmountPerUserInCurrentTree","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

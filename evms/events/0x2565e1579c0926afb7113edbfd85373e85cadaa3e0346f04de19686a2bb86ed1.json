@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"oldXVSVToken","internalType":"address","type":"address","indexed":true},{"name":"newXVSVToken","internalType":"address","type":"address","indexed":true}],"name":"NewXVSVToken"}]

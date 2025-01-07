@@ -1,0 +1,1 @@
+[{"type":"function","constant":true,"inputs":[{"name":"_trainerId","type":"uint8"}],"name":"getTrainerInfo","outputs":[{"name":"","type":"uint32"},{"name":"","type":"uint8"},{"name":"","type":"uint8"},{"name":"","type":"uint8"},{"name":"","type":"uint8"},{"name":"","type":"uint8"},{"name":"","type":"uint8"}],"payable":false,"stateMutability":"view"}]

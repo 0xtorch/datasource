@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"l2Token","internalType":"address","type":"address"},{"name":"l1Token","internalType":"address","type":"address"}],"name":"whitelistToken","outputs":[],"stateMutability":"nonpayable"}]

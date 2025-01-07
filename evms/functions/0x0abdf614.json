@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"discordId","internalType":"string","type":"string"}],"name":"getAccountByDiscordId","outputs":[{"name":"","internalType":"address","type":"address"}],"stateMutability":"view"}]

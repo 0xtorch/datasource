@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"owner","internalType":"address","type":"address"},{"name":"_config","internalType":"contract GoldfinchConfig","type":"address"}],"name":"__initialize__","outputs":[],"stateMutability":"nonpayable"}]

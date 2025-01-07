@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"contractAddress","internalType":"address","type":"address"}],"name":"allowLists","outputs":[{"name":"isPermitToSendL2Request","internalType":"bool","type":"bool"}],"stateMutability":"view"}]

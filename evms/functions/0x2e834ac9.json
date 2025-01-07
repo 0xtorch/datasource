@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_begin","internalType":"uint256","type":"uint256"},{"name":"_end","internalType":"uint256","type":"uint256"},{"name":"_breaktime","internalType":"uint256","type":"uint256"}],"name":"_applyNewSchoolingPolicy","outputs":[],"stateMutability":"nonpayable"}]

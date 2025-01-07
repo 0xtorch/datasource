@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"newPrimaryMarket","internalType":"address","type":"address","indexed":true},{"name":"minTimestamp","internalType":"uint256","type":"uint256","indexed":false},{"name":"maxTimestamp","internalType":"uint256","type":"uint256","indexed":false}],"name":"PrimaryMarketUpdateProposed"}]

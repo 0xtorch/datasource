@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"nftAddress","internalType":"address","type":"address"},{"name":"tokenid","internalType":"uint256","type":"uint256"},{"name":"_initialAppraisal","internalType":"uint256","type":"uint256"},{"name":"_votingTime","internalType":"uint256","type":"uint256"}],"name":"createNewSession","outputs":[],"stateMutability":"payable"}]

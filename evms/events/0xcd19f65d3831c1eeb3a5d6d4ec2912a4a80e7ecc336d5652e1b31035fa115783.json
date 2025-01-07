@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"exchangeId","internalType":"uint256","type":"uint256","indexed":true},{"name":"oldAddressWhitelist","internalType":"address","type":"address","indexed":false},{"name":"newAddressWhitelist","internalType":"address","type":"address","indexed":false}],"name":"AddressWhitelistChanged"}]

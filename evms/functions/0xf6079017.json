@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"initialGuardians","internalType":"address[]","type":"address[]"},{"name":"chainId","internalType":"uint16","type":"uint16"},{"name":"governanceChainId","internalType":"uint16","type":"uint16"},{"name":"governanceContract","internalType":"bytes32","type":"bytes32"}],"name":"initialize","outputs":[],"stateMutability":"nonpayable"}]

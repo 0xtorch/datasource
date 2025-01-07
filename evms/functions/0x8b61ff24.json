@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"pair","internalType":"address","type":"address"},{"name":"tokenA","internalType":"address","type":"address"},{"name":"tokenB","internalType":"address","type":"address"},{"name":"users","internalType":"address[]","type":"address[]"}],"name":"migrateLiquidity","outputs":[],"stateMutability":"nonpayable"}]

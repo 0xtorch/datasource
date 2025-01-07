@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"dstWormholeChainId","internalType":"uint16","type":"uint16","indexed":false},{"name":"baseGas","internalType":"uint256","type":"uint256","indexed":false},{"name":"gasPerBytes","internalType":"uint256","type":"uint256","indexed":false}],"name":"UpdateWormholeGas"}]

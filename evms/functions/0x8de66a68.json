@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"fromToken","internalType":"address","type":"address"},{"name":"fromAmount","internalType":"uint256","type":"uint256"}],"name":"quoteSwapTokensForCredit","outputs":[{"name":"creditAmount","internalType":"uint256","type":"uint256"},{"name":"fromTokenFee","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

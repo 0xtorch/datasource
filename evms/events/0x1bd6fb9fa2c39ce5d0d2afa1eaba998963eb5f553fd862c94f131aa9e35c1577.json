@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"target","type":"address","indexed":true},{"name":"locked","type":"uint256","indexed":false}],"name":"LockedFunds"}]

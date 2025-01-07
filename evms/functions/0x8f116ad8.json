@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"tokenIds","internalType":"uint256[]","type":"uint256[]"},{"name":"randomNumbers","internalType":"uint256[]","type":"uint256[]"},{"name":"indexes","internalType":"uint256[]","type":"uint256[]"}],"name":"finishMentorMultiple","outputs":[],"stateMutability":"nonpayable"}]

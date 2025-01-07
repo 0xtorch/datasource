@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_bytes","internalType":"bytes","type":"bytes"},{"name":"addrCount","internalType":"uint256","type":"uint256"}],"name":"airDrop","outputs":[{"name":"success","internalType":"bool","type":"bool"}],"stateMutability":"nonpayable"}]

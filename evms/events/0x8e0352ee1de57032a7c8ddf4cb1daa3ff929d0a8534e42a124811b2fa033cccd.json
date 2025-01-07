@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"oldOracle","internalType":"contract IAggregator","type":"address","indexed":true},{"name":"newOracle","internalType":"contract IAggregator","type":"address","indexed":true}],"name":"LogOracleImplementationChange"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_dayIndex","internalType":"uint256","type":"uint256"},{"name":"userAddr","internalType":"address","type":"address"}],"name":"getUserClaimCountPerDay","outputs":[{"name":"","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

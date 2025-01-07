@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"tokenID","internalType":"uint16","type":"uint16"}],"name":"getTokenAddress","outputs":[{"name":"","internalType":"address","type":"address"}],"stateMutability":"view"}]

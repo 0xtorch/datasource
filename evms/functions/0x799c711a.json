@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"ratioType","internalType":"uint8","type":"uint8"},{"name":"ratio","internalType":"uint256","type":"uint256"}],"name":"setRatio","outputs":[],"stateMutability":"nonpayable"}]

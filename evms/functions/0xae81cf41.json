@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_name","internalType":"","type":"string"},{"name":"_symbol","internalType":"","type":"string"},{"name":"_baseTokenURI","internalType":"","type":"string"}],"name":"addTokenType","outputs":[{"name":"_tokenType","internalType":"","type":"uint256"}],"payable":false,"stateMutability":"nonpayable"}]

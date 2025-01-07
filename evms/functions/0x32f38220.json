@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"wallet","internalType":"address","type":"address"}],"name":"loadLastNonce","outputs":[{"name":"","internalType":"uint128","type":"uint128"}],"stateMutability":"view"}]

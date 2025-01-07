@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"previousTenguReferral","internalType":"address","type":"address","indexed":false},{"name":"newTenguReferral","internalType":"address","type":"address","indexed":false}],"name":"SetTenguReferral"}]

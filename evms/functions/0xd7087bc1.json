@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"collection","internalType":"address","type":"address"},{"name":"nftID","internalType":"uint256","type":"uint256"},{"name":"target","internalType":"address","type":"address"},{"name":"liquidation","internalType":"bool","type":"bool"}],"name":"withdrawERC721","outputs":[],"stateMutability":"nonpayable"}]

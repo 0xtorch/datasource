@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"jToken","internalType":"contract JToken","type":"address","indexed":false}],"name":"MarketDelisted"}]

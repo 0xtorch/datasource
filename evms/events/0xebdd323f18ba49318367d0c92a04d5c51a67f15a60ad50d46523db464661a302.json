@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"harvested","internalType":"uint256","type":"uint256","indexed":false},{"name":"profitFeeTaken","internalType":"uint256","type":"uint256","indexed":false},{"name":"operationalFeeTaken","internalType":"uint256","type":"uint256","indexed":false}],"name":"Harvested"}]

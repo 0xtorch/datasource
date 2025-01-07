@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_messenger","internalType":"contract iOVM_L2CrossDomainMessenger","type":"address"}],"name":"setMessenger","outputs":[],"stateMutability":"nonpayable"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_amount","internalType":"uint256","type":"uint256"},{"name":"_lockDays","internalType":"uint256","type":"uint256"}],"name":"lockHum","outputs":[{"name":"veHumToMint","internalType":"uint256","type":"uint256"}],"stateMutability":"nonpayable"}]

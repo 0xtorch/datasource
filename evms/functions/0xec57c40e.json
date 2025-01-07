@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"tokenId","internalType":"uint256","type":"uint256"},{"name":"val","internalType":"bool","type":"bool"}],"name":"unboxQubit","outputs":[],"stateMutability":"nonpayable"}]

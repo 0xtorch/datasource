@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_esVKA","internalType":"address","type":"address"},{"name":"_USDC","internalType":"address","type":"address"},{"name":"_VKA","internalType":"address","type":"address"}],"name":"setTokenAddresses","outputs":[],"stateMutability":"nonpayable"}]

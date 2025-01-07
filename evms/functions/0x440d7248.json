@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_tokenAddress","internalType":"address","type":"address"}],"name":"isReservedToken","outputs":[{"name":"","internalType":"bool","type":"bool"}],"stateMutability":"view"}]

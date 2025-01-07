@@ -1,0 +1,1 @@
+[{"type":"function","constant":false,"inputs":[{"name":"_cutieId","type":"uint40"},{"name":"_startPrice","type":"uint128"},{"name":"_endPrice","type":"uint128"},{"name":"_duration","type":"uint40"},{"name":"_seller","type":"address"}],"name":"createAuction","outputs":[],"payable":true,"stateMutability":"payable"}]

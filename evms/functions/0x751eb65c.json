@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"strikes","internalType":"uint256[]","type":"uint256[]"},{"name":"expiry","internalType":"uint256","type":"uint256"},{"name":"expirySymbol","internalType":"string","type":"string"}],"name":"bootstrap","outputs":[],"stateMutability":"nonpayable"}]

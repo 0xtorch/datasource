@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"","internalType":"uint256","type":"uint256"}],"name":"tokenSummary","outputs":[{"name":"score","internalType":"uint256","type":"uint256"},{"name":"creature","internalType":"string","type":"string"},{"name":"index","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

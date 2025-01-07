@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"pnl","internalType":"uint256","type":"uint256"}],"name":"calculateSettlementFees","outputs":[{"name":"","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

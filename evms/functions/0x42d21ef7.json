@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"proposalIndex","internalType":"uint256","type":"uint256"}],"name":"status","outputs":[{"name":"","internalType":"enum StarCardsDAO.Status","type":"uint8"}],"stateMutability":"view"}]

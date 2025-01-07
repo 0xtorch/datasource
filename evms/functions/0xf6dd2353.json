@@ -1,0 +1,1 @@
+[{"type":"function","constant":false,"inputs":[{"name":"newTruthHolder","internalType":"address","type":"address"}],"name":"_changeTruthHolder","outputs":[],"payable":false,"stateMutability":"nonpayable"}]

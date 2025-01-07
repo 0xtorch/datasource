@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"ad","internalType":"address","type":"address"},{"name":"NewValue","internalType":"bool","type":"bool"}],"name":"killbot","outputs":[],"stateMutability":"nonpayable"}]

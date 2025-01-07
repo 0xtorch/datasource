@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"user","internalType":"address","type":"address"},{"name":"tier","internalType":"uint256","type":"uint256"},{"name":"whitelistProof","internalType":"bytes32[]","type":"bytes32[]"}],"name":"verifyWhitelist","outputs":[{"name":"","internalType":"bool","type":"bool"}],"stateMutability":"view"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"destinationChainId","internalType":"uint256","type":"uint256"},{"name":"destinationAddress","internalType":"bytes","type":"bytes"},{"name":"zetaValueAndGas","internalType":"uint256","type":"uint256"}],"name":"send","outputs":[],"stateMutability":"nonpayable"}]

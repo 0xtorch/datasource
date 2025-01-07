@@ -1,0 +1,1 @@
+[{"type":"function","constant":false,"inputs":[{"name":"_name","internalType":"string","type":"string"},{"name":"_symbol","internalType":"string","type":"string"},{"name":"_creditScoreAddress","internalType":"address","type":"address"},{"name":"_skinManager","internalType":"address","type":"address"}],"name":"init","outputs":[],"payable":false,"stateMutability":"nonpayable"}]

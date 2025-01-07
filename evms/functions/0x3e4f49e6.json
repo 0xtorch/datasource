@@ -1,0 +1,1 @@
+[{"type":"function","constant":true,"inputs":[{"name":"proposalId","internalType":"uint256","type":"uint256"}],"name":"state","outputs":[{"name":"","internalType":"enum GovernorAlpha.ProposalState","type":"uint8"}],"payable":false,"stateMutability":"view"}]

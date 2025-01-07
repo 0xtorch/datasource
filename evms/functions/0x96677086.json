@@ -1,0 +1,1 @@
+[{"type":"function","constant":false,"inputs":[{"name":"_tokens","internalType":"address[]","type":"address[]"},{"name":"_amounts","internalType":"uint256[]","type":"uint256[]"}],"name":"partitionedWithdraw","outputs":[{"name":"withdrawals_","internalType":"uint256[]","type":"uint256[]"}],"payable":false,"stateMutability":"nonpayable"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_pid","internalType":"uint256","type":"uint256"}],"name":"getPoolReward","outputs":[{"name":"forBurn","internalType":"uint256","type":"uint256"},{"name":"forDev","internalType":"uint256","type":"uint256"},{"name":"forFarmer","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"newGov","internalType":"contract ISuperfluidGovernance","type":"address"}],"name":"replaceGovernance","outputs":[],"stateMutability":"nonpayable"}]

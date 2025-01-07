@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_user","internalType":"address","type":"address"}],"name":"previewV2Balances","outputs":[{"name":"radsAmount","internalType":"uint256","type":"uint256"},{"name":"sradsAmount","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

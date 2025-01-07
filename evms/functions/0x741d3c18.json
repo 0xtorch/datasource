@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_eth_usd_consumer_address","internalType":"address","type":"address"}],"name":"setETHUSDOracle","outputs":[],"stateMutability":"nonpayable"}]

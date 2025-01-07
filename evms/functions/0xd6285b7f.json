@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_lendManager","internalType":"contract IWooLendingManager","type":"address"}],"name":"setLendManager","outputs":[],"stateMutability":"nonpayable"}]

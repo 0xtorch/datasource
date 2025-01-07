@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"token","internalType":"contract IERC20","type":"address"},{"name":"poolConfig","internalType":"bytes","type":"bytes"}],"name":"setAssetManagerPoolConfig","outputs":[],"stateMutability":"nonpayable"}]

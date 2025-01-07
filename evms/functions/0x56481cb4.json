@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"fnMapID","internalType":"bytes32","type":"bytes32"}],"name":"getFnMap","outputs":[{"name":"","internalType":"bytes","type":"bytes"}],"stateMutability":"view"}]

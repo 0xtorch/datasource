@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_holder","internalType":"address","type":"address"}],"name":"getEstimatedPendingDivs","outputs":[{"name":"","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

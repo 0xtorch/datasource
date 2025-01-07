@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"","internalType":"address","type":"address"}],"name":"collectionRoyalties","outputs":[{"name":"royalty","internalType":"uint16","type":"uint16"},{"name":"creator","internalType":"address","type":"address"},{"name":"feeRecipient","internalType":"address","type":"address"}],"stateMutability":"view"}]

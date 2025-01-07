@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"sender","internalType":"address","type":"address"},{"name":"date","internalType":"string","type":"string"}],"name":"getClaimAmountPerDay","outputs":[{"name":"","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

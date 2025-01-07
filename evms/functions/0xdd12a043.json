@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_primaryTokenAmount","internalType":"uint256","type":"uint256"},{"name":"_complementTokenAmount","internalType":"uint256","type":"uint256"},{"name":"_underlyingEndRoundHints","internalType":"uint256[]","type":"uint256[]"}],"name":"redeem","outputs":[],"stateMutability":"nonpayable"}]

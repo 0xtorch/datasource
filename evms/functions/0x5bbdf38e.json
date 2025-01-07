@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_activePids","internalType":"uint16[]","type":"uint16[]"},{"name":"_newPids","internalType":"uint16[]","type":"uint16[]"},{"name":"_newAllocPoints","internalType":"uint256[]","type":"uint256[]"}],"name":"switchActivePool","outputs":[],"stateMutability":"nonpayable"}]

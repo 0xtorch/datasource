@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[],"name":"pendingGuardian","outputs":[{"name":"value","internalType":"address","type":"address"},{"name":"validAt","internalType":"uint64","type":"uint64"}],"stateMutability":"view"}]

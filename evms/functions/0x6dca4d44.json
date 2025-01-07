@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_token","internalType":"contract IERC20","type":"address"},{"name":"_votingEscrow","internalType":"contract IVotingEscrow","type":"address"},{"name":"_veDist","internalType":"contract IVeDist","type":"address"}],"name":"updateContracts","outputs":[],"stateMutability":"nonpayable"}]

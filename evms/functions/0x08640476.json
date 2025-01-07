@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_receivingAddress","internalType":"address","type":"address"},{"name":"_assetHash","internalType":"address","type":"address"},{"name":"_amount","internalType":"uint256","type":"uint256"}],"name":"extensionTransfer","outputs":[{"name":"","internalType":"bool","type":"bool"}],"stateMutability":"nonpayable"}]

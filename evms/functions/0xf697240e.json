@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"royalty","internalType":"uint8","type":"uint8"},{"name":"addresses","internalType":"address payable[]","type":"address[]"},{"name":"splits","internalType":"uint8[]","type":"uint8[]"}],"name":"updateOwnerData","outputs":[],"stateMutability":"nonpayable"}]

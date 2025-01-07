@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_name","internalType":"string","type":"string"}],"name":"getDataAddress","outputs":[{"name":"","internalType":"address","type":"address"}],"stateMutability":"view"}]

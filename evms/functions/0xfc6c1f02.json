@@ -1,0 +1,1 @@
+[{"type":"function","constant":false,"inputs":[{"name":"_validatorAddress","internalType":"address","type":"address"},{"name":"_validatorPower","internalType":"uint256","type":"uint256"}],"name":"addValidator","outputs":[],"payable":false,"stateMutability":"nonpayable"}]

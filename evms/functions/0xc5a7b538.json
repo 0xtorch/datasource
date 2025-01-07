@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"asset","internalType":"address","type":"address"},{"name":"reward","internalType":"address","type":"address"},{"name":"newDistributionEnd","internalType":"uint32","type":"uint32"}],"name":"setDistributionEnd","outputs":[],"stateMutability":"nonpayable"}]

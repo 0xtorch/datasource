@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"recipient","internalType":"address","type":"address"},{"name":"amount","internalType":"uint256","type":"uint256"},{"name":"tobeCostKeys","internalType":"uint256[]","type":"uint256[]"},{"name":"tobeCost","internalType":"uint256[]","type":"uint256[]"}],"name":"transferLockedFromFarmWithRecord","outputs":[],"stateMutability":"nonpayable"}]

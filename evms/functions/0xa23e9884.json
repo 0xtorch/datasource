@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_bhavishAdministrator","internalType":"contract IBhavishAdministrator","type":"address"}],"name":"setBhavishAdministrator","outputs":[],"stateMutability":"nonpayable"}]

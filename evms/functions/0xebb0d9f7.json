@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"pool","internalType":"address","type":"address"}],"name":"poolFeeProtocol","outputs":[{"name":"__poolFeeProtocol","internalType":"uint8","type":"uint8"}],"stateMutability":"view"}]

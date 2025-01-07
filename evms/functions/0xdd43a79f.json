@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"delegate","internalType":"address","type":"address"},{"name":"removeAllowances","internalType":"bool","type":"bool"}],"name":"removeDelegate","outputs":[],"stateMutability":"nonpayable"}]

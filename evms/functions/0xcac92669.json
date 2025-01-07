@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_royaltyBasisPoints","internalType":"uint96","type":"uint96"}],"name":"setRoyalty","outputs":[],"stateMutability":"nonpayable"}]

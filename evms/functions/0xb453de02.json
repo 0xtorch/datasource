@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"name","internalType":"string","type":"string"},{"name":"addr","internalType":"address","type":"address"}],"name":"winnerOrAvailable","outputs":[{"name":"","internalType":"bool","type":"bool"},{"name":"","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

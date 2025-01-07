@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[],"name":"rewardsVestingWallet","outputs":[{"name":"","internalType":"contract IVestingWallet","type":"address"}],"stateMutability":"view"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"integratorId","internalType":"uint16","type":"uint16"}],"name":"getValidIntegrator","outputs":[{"name":"","internalType":"bool","type":"bool"}],"stateMutability":"view"}]

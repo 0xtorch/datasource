@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"newStakeModifier","internalType":"address","type":"address","indexed":true},{"name":"oldStakeModifier","internalType":"address","type":"address","indexed":true}],"name":"SetStakeModifier"}]

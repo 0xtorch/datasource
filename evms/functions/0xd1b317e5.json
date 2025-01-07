@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_principalTokenAddress","internalType":"contract IERC20MetadataUpgradeable","type":"address"},{"name":"_amount","internalType":"uint256","type":"uint256"}],"name":"valueOfToken","outputs":[{"name":"value_","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

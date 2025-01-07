@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[],"name":"getAsyncDefiInteractionHashes","outputs":[{"name":"res","internalType":"bytes32[]","type":"bytes32[]"}],"stateMutability":"view"}]

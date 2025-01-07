@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_dexalotPortfolio","internalType":"address","type":"address"},{"name":"_dexalotUnlockTime","internalType":"uint256","type":"uint256"}],"name":"setAndSupportDexalotPortfolio","outputs":[],"stateMutability":"nonpayable"}]

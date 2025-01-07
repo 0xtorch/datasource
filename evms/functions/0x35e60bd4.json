@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"locked","internalType":"bool","type":"bool"}],"name":"setTransferLocked","outputs":[],"stateMutability":"nonpayable"}]

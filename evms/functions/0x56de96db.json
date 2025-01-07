@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_state","internalType":"enum PumaNitroToken.Status","type":"uint8"}],"name":"setState","outputs":[],"stateMutability":"nonpayable"}]

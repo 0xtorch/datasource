@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"","internalType":"address","type":"address"}],"name":"releaseVars","outputs":[{"name":"amount","internalType":"uint256","type":"uint256"},{"name":"lastUpdateTime","internalType":"uint128","type":"uint128"}],"stateMutability":"view"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"transaction","internalType":"bytes","type":"bytes"}],"name":"assertCode","outputs":[],"stateMutability":"view"}]

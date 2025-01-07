@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"user","internalType":"uint256","type":"uint256"},{"name":"i","internalType":"uint256","type":"uint256"},{"name":"j","internalType":"uint8","type":"uint8"}],"name":"CheckPacked","outputs":[{"name":"","internalType":"bool","type":"bool"}],"stateMutability":"view"}]

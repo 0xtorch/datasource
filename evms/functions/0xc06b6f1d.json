@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_rewardFund","internalType":"contract IFaaSRewardFund","type":"address"},{"name":"_unstakingFrozenTime","internalType":"uint256","type":"uint256"}],"name":"finalizeRewardFundInfo","outputs":[],"stateMutability":"nonpayable"}]

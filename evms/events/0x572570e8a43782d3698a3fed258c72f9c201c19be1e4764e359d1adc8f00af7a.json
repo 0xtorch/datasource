@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"adaptor","internalType":"address","type":"address","indexed":false},{"name":"inCatalogue","internalType":"bool","type":"bool","indexed":false}],"name":"AdaptorCatalogueAltered"}]

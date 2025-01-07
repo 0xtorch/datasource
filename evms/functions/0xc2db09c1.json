@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"","internalType":"contract Market","type":"address"}],"name":"distribution","outputs":[{"name":"availableRewardsCount","internalType":"uint8","type":"uint8"},{"name":"baseUnit","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

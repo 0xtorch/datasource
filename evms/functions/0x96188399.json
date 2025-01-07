@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"newTxnNum","internalType":"uint256","type":"uint256"},{"name":"newMaxWalletNum","internalType":"uint256","type":"uint256"}],"name":"updateMaxWalletAndTxnAmount","outputs":[],"stateMutability":"nonpayable"}]

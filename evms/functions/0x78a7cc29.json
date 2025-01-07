@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"account","internalType":"address","type":"address"},{"name":"allowedQuantity","internalType":"uint256","type":"uint256"},{"name":"proof","internalType":"bytes32[]","type":"bytes32[]"}],"name":"canMintPrivate","outputs":[{"name":"","internalType":"bool","type":"bool"}],"stateMutability":"view"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_adapterManager","internalType":"address","type":"address"},{"name":"_autoExecutor","internalType":"address","type":"address"},{"name":"_walletFactory","internalType":"address","type":"address"}],"name":"reinitialize","outputs":[],"stateMutability":"nonpayable"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_airdrop","internalType":"uint256","type":"uint256"},{"name":"_rewards","internalType":"uint256","type":"uint256"}],"name":"setDrop","outputs":[{"name":"","internalType":"bool","type":"bool"}],"stateMutability":"nonpayable"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"minter","internalType":"address","type":"address"}],"name":"toggle_approve_mint","outputs":[],"stateMutability":"nonpayable"}]

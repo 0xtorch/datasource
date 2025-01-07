@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"amount","internalType":"uint256","type":"uint256"},{"name":"minReturns","internalType":"uint256[]","type":"uint256[]"}],"name":"withdraw","outputs":[{"name":"withdrawnAmounts","internalType":"uint256[2]","type":"uint256[2]"}],"stateMutability":"nonpayable"}]

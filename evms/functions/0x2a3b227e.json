@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_yield","internalType":"enum YieldMode","type":"uint8"},{"name":"gasMode","internalType":"enum GasMode","type":"uint8"},{"name":"governor","internalType":"address","type":"address"}],"name":"configureYield","outputs":[],"stateMutability":"nonpayable"}]

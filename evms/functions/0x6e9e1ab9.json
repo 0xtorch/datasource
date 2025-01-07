@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"socketAddress_","internalType":"address","type":"address"},{"name":"packetIds_","internalType":"bytes32[]","type":"bytes32[]"}],"name":"getProposalCountBatch","outputs":[{"name":"","internalType":"uint256[]","type":"uint256[]"}],"stateMutability":"view"}]

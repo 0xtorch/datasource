@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"creatorContractAddress","internalType":"address","type":"address"},{"name":"instanceId","internalType":"uint256","type":"uint256"},{"name":"recipients","internalType":"address[]","type":"address[]"},{"name":"amounts","internalType":"uint256[]","type":"uint256[]"}],"name":"airdrop","outputs":[],"stateMutability":"nonpayable"}]

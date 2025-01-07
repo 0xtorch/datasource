@@ -1,0 +1,1 @@
+[{"type":"function","constant":false,"inputs":[{"name":"context","internalType":"bytes","type":"bytes"},{"name":"success","internalType":"bool","type":"bool"},{"name":"actualCharge","internalType":"uint256","type":"uint256"},{"name":"preRetVal","internalType":"bytes32","type":"bytes32"}],"name":"postRelayedCall","outputs":[],"payable":false,"stateMutability":"nonpayable"}]

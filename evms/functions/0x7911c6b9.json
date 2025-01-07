@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_operator","internalType":"","type":"address"},{"name":"_approved","internalType":"","type":"bool"}],"name":"setAllPermissionFor","outputs":[],"payable":false,"stateMutability":"nonpayable"}]

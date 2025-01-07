@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"fromTokenId","internalType":"uint256","type":"uint256"},{"name":"toTokenId","internalType":"uint256","type":"uint256"}],"name":"getVotes","outputs":[{"name":"tokensVotes","internalType":"address[][]","type":"address[][]"},{"name":"tokensWeights","internalType":"uint256[][]","type":"uint256[][]"}],"stateMutability":"view"}]

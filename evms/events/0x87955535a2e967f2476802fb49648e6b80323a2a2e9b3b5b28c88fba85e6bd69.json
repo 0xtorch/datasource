@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"from","internalType":"bytes","type":"bytes","indexed":false},{"name":"fromChainId","internalType":"bytes","type":"bytes","indexed":false},{"name":"message","internalType":"bytes","type":"bytes","indexed":false},{"name":"extraData","internalType":"bytes","type":"bytes","indexed":false}],"name":"MessageReceived"}]

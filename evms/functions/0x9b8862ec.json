@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_setToken","internalType":"contract ISetToken","type":"address"},{"name":"_issuanceModule","internalType":"address","type":"address"}],"name":"approveSetToken","outputs":[],"stateMutability":"nonpayable"}]

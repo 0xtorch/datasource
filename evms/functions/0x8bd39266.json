@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"rebateReceiver","internalType":"address","type":"address"},{"name":"token","internalType":"address","type":"address"},{"name":"amount","internalType":"uint256","type":"uint256"},{"name":"action","internalType":"bytes32","type":"bytes32"}],"name":"registerRebate","outputs":[],"stateMutability":"nonpayable"}]

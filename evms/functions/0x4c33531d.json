@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"userAddressInBytes","internalType":"bytes32","type":"bytes32"},{"name":"currentRecepientWallet","internalType":"address","type":"address"},{"name":"newRecepientWallet","internalType":"address","type":"address"}],"name":"adminUpdateRecepientWallet","outputs":[],"stateMutability":"nonpayable"}]

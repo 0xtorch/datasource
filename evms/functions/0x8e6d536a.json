@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_startTimes","internalType":"uint64[]","type":"uint64[]"},{"name":"_endTimes","internalType":"uint64[]","type":"uint64[]"}],"name":"getAverageTotalSuppliesBetween","outputs":[{"name":"","internalType":"uint256[]","type":"uint256[]"}],"stateMutability":"view"}]

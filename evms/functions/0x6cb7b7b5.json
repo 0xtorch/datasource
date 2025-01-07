@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"poopIds","internalType":"uint32[]","type":"uint32[]"},{"name":"smashTimes","internalType":"uint32[]","type":"uint32[]"}],"name":"smash","outputs":[],"stateMutability":"nonpayable"}]

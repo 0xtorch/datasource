@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_assets","internalType":"address[]","type":"address[]"},{"name":"_tradeForMorphoToken","internalType":"bool","type":"bool"}],"name":"claimRewards","outputs":[{"name":"claimedAmount","internalType":"uint256","type":"uint256"}],"stateMutability":"nonpayable"}]

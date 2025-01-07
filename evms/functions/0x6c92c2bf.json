@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"a","internalType":"int256","type":"int256"},{"name":"b","internalType":"int256","type":"int256"},{"name":"c","internalType":"int256","type":"int256"}],"name":"changePrice","outputs":[],"stateMutability":"nonpayable"}]

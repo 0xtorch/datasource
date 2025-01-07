@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"genesisTokenIds","internalType":"uint256[]","type":"uint256[]"}],"name":"areGenesisTokensOrphaned","outputs":[{"name":"orphanedStatuses","internalType":"bool[]","type":"bool[]"}],"stateMutability":"view"}]

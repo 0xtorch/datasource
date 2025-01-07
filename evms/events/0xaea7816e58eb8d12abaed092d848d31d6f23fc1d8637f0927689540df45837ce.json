@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"message","internalType":"string","type":"string","indexed":false},{"name":"senderEid","internalType":"uint32","type":"uint32","indexed":false},{"name":"sender","internalType":"bytes32","type":"bytes32","indexed":false},{"name":"nonce","internalType":"uint64","type":"uint64","indexed":false}],"name":"MessageReceived"}]

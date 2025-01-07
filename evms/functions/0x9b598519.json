@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_key","internalType":"bytes32","type":"bytes32"}],"name":"adoptedToLocalExternalPools","outputs":[{"name":"","internalType":"contract IStableSwap","type":"address"}],"stateMutability":"view"}]

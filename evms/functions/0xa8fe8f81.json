@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"trader","internalType":"address","type":"address"},{"name":"to","internalType":"address","type":"address"},{"name":"withdrawAmount","internalType":"uint256","type":"uint256"}],"name":"removeMargin","outputs":[],"stateMutability":"nonpayable"}]

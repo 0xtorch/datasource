@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"ilkIndex","internalType":"uint8","type":"uint8"},{"name":"newDust","internalType":"uint256","type":"uint256"}],"name":"updateIlkDust","outputs":[],"stateMutability":"nonpayable"}]

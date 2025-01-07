@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_mpcList","internalType":"address[]","type":"address[]"},{"name":"_v","internalType":"bool[]","type":"bool[]"}],"name":"setMpc","outputs":[],"stateMutability":"nonpayable"}]

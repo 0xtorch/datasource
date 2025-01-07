@@ -1,0 +1,1 @@
+[{"type":"function","constant":true,"inputs":[{"name":"_left","internalType":"bytes32","type":"bytes32"},{"name":"_right","internalType":"bytes32","type":"bytes32"}],"name":"hashLeftRight","outputs":[{"name":"","internalType":"bytes32","type":"bytes32"}],"payable":false,"stateMutability":"pure"}]

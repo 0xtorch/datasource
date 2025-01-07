@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"noChargeList","internalType":"bytes32[100]","type":"bytes32[100]"}],"name":"setNoChargeList","outputs":[],"stateMutability":"nonpayable"}]

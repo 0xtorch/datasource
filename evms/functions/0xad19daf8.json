@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_dQuickAmount","internalType":"uint256","type":"uint256"}],"name":"dQUICKForQUICK","outputs":[{"name":"quickAmount_","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

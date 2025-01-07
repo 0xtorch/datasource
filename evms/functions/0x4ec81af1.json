@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"tokenAddress_","internalType":"address","type":"address"},{"name":"tgeAmountPercent_","internalType":"uint256","type":"uint256"},{"name":"vestingDuration_","internalType":"uint256","type":"uint256"},{"name":"initTimestamp_","internalType":"uint256","type":"uint256"}],"name":"initialize","outputs":[],"stateMutability":"nonpayable"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_newPayables","internalType":"address[]","type":"address[]"},{"name":"_newFees","internalType":"uint256[]","type":"uint256[]"}],"name":"definePayables","outputs":[],"stateMutability":"nonpayable"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_pair","internalType":"address","type":"address"},{"name":"_path","internalType":"address[]","type":"address[]"}],"name":"updateLPPath","outputs":[{"name":"","internalType":"bool","type":"bool"}],"stateMutability":"nonpayable"}]

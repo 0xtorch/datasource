@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_keyOwner","internalType":"address","type":"address"}],"name":"totalKeys","outputs":[{"name":"","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

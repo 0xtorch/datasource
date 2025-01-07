@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"paymentsRecipient_","internalType":"address","type":"address"},{"name":"price_","internalType":"uint256","type":"uint256"},{"name":"supplyLimit_","internalType":"uint256","type":"uint256"}],"name":"updatePaymentsParams","outputs":[],"stateMutability":"nonpayable"}]

@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"submissionId","internalType":"bytes32","type":"bytes32","indexed":false},{"name":"lockedOrMintedAmount","internalType":"uint256","type":"uint256","indexed":false},{"name":"totalSupply","internalType":"uint256","type":"uint256","indexed":false}],"name":"MonitoringClaimEvent"}]

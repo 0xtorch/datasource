@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"ethSwapped","internalType":"uint256","type":"uint256","indexed":false},{"name":"tokensReceived","internalType":"uint256","type":"uint256","indexed":false},{"name":"ethIntoLiqudity","internalType":"uint256","type":"uint256","indexed":false}],"name":"SwapEthAndLiquify"}]

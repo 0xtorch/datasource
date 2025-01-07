@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_signIssuerAddress","internalType":"address","type":"address"},{"name":"_signValidDuration","internalType":"uint256","type":"uint256"}],"name":"setSignConf","outputs":[],"stateMutability":"nonpayable"}]

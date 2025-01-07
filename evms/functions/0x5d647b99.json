@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[],"name":"poolAllocations","outputs":[{"name":"poolIds","internalType":"uint256[]","type":"uint256[]"},{"name":"allocations","internalType":"uint256[]","type":"uint256[]"},{"name":"distributors","internalType":"address[]","type":"address[]"}],"stateMutability":"view"}]

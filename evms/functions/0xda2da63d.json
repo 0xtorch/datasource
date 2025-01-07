@@ -1,0 +1,1 @@
+[{"type":"function","constant":false,"inputs":[{"name":"disabled","internalType":"bool","type":"bool"}],"name":"setFundDisabled","outputs":[],"payable":false,"stateMutability":"nonpayable"}]

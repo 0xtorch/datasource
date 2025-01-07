@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_token","internalType":"address","type":"address"},{"name":"_escapeHatchDestination","internalType":"address payable","type":"address"}],"name":"escapeHatch","outputs":[],"stateMutability":"nonpayable"}]

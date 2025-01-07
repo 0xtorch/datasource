@@ -1,0 +1,1 @@
+[{"type":"function","constant":false,"gas":50175,"inputs":[{"name":"eth_bought","type":"uint256"},{"name":"max_tokens","type":"uint256"},{"name":"deadline","type":"uint256"}],"name":"tokenToEthSwapOutput","outputs":[{"name":"out","type":"uint256"}],"payable":false,"stateMutability":"nonpayable"}]

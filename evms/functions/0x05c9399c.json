@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"f","internalType":"enum DataTypes.Fees","type":"uint8"},{"name":"fee","internalType":"uint32","type":"uint32"}],"name":"setFee","outputs":[],"stateMutability":"nonpayable"}]

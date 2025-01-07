@@ -1,0 +1,1 @@
+[{"type":"function","constant":false,"inputs":[{"name":"_tokenIds","internalType":"uint256[]","type":"uint256[]"},{"name":"_landTypes","internalType":"enum LandV2.LandType[]","type":"uint8[]"}],"name":"setLandTypes","outputs":[],"payable":false,"stateMutability":"nonpayable"}]

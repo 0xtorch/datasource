@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_path","internalType":"address[]","type":"address[]"},{"name":"_triggerRatio","internalType":"uint256","type":"uint256"}],"name":"validateSwapOrderPriceWithTriggerAboveThreshold","outputs":[{"name":"","internalType":"bool","type":"bool"}],"stateMutability":"view"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"bep2Symbol","internalType":"string","type":"string"}],"name":"getBoundContract","outputs":[{"name":"","internalType":"address","type":"address"}],"stateMutability":"view"}]

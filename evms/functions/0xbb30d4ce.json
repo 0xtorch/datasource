@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"","internalType":"address","type":"address"}],"name":"royaltyOf","outputs":[{"name":"","internalType":"uint24","type":"uint24"}],"stateMutability":"view"}]

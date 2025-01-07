@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"projectId","internalType":"uint8","type":"uint8"}],"name":"tokenIdsByProjectId","outputs":[{"name":"","internalType":"uint256[]","type":"uint256[]"}],"stateMutability":"view"}]

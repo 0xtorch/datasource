@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"","internalType":"address","type":"address"}],"name":"borrowerWeights","outputs":[{"name":"exists","internalType":"bool","type":"bool"},{"name":"borrowerWeight","internalType":"uint128","type":"uint128"},{"name":"pendingBorrowerWeight","internalType":"uint128","type":"uint128"}],"stateMutability":"view"}]

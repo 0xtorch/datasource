@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"pos","internalType":"address","type":"address"},{"name":"_twapInterval","internalType":"uint32","type":"uint32"},{"name":"_priceThreshold","internalType":"uint256","type":"uint256"}],"name":"checkPriceChange","outputs":[{"name":"price","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

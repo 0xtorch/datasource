@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"newNonce","internalType":"uint256","type":"uint256","indexed":false},{"name":"offerer","internalType":"address","type":"address","indexed":true}],"name":"NonceIncremented"}]

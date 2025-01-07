@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_newRewardTokenPerBlock","internalType":"uint256","type":"uint256"}],"name":"changeRewardTokenPerBlock","outputs":[],"stateMutability":"nonpayable"}]

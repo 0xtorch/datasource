@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"removedPool","internalType":"address","type":"address","indexed":false}],"name":"LiquidityPoolRemoved"}]

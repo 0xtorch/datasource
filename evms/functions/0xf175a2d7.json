@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"issuerAddress","internalType":"uint256","type":"uint256"}],"name":"isValidIssuer","outputs":[{"name":"","internalType":"bool","type":"bool"}],"stateMutability":"view"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_debtToOffset","internalType":"uint256","type":"uint256"},{"name":"_collToAdd","internalType":"uint256","type":"uint256"}],"name":"offset","outputs":[],"stateMutability":"nonpayable"}]

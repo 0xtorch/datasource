@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_add","internalType":"address","type":"address"},{"name":"_blocked","internalType":"bool","type":"bool"}],"name":"governanceSetBlockedContracts","outputs":[],"stateMutability":"nonpayable"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[],"name":"isContractURIFrozen","outputs":[{"name":"isFrozen","internalType":"bool","type":"bool"}],"stateMutability":"view"}]

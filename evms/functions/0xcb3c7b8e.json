@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"trader","internalType":"address","type":"address"}],"name":"hasOrder","outputs":[{"name":"","internalType":"bool","type":"bool"}],"stateMutability":"view"}]

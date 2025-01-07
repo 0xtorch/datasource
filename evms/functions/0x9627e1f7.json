@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_wallet","internalType":"address","type":"address"},{"name":"_dcbAmount","internalType":"uint256","type":"uint256"},{"name":"_option","internalType":"uint256","type":"uint256"}],"name":"addWhitelist","outputs":[{"name":"","internalType":"bool","type":"bool"}],"stateMutability":"nonpayable"}]

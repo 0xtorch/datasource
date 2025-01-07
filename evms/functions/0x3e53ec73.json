@@ -1,0 +1,1 @@
+[{"type":"function","constant":true,"inputs":[{"name":"_owner","internalType":"address","type":"address"}],"name":"getCheckpoint","outputs":[{"name":"_amount","internalType":"uint256","type":"uint256"},{"name":"_createdAt","internalType":"uint256","type":"uint256"}],"payable":false,"stateMutability":"view"}]

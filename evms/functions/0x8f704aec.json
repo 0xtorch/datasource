@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_2chartimenew","internalType":"uint256","type":"uint256"},{"name":"_3chartimenew","internalType":"uint256","type":"uint256"},{"name":"_4chartimenew","internalType":"uint256","type":"uint256"}],"name":"setTimes","outputs":[],"stateMutability":"nonpayable"}]

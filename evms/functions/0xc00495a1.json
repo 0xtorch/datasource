@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"amount","internalType":"uint256","type":"uint256"},{"name":"dAmount","internalType":"uint256","type":"uint256"},{"name":"cumulativeIndexAtOpen","internalType":"uint256","type":"uint256"}],"name":"calcCumulativeIndexAtBorrowMore","outputs":[{"name":"","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

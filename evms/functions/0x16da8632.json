@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"coin","internalType":"contract ICoin","type":"address"}],"name":"addCoin","outputs":[],"stateMutability":"nonpayable"}]

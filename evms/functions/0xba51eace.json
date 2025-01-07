@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"swapForAvax","internalType":"bool","type":"bool"}],"name":"castVotes","outputs":[{"name":"finalRewardTokens","internalType":"address[]","type":"address[]"},{"name":"finalFeeAmounts","internalType":"uint256[]","type":"uint256[]"}],"stateMutability":"nonpayable"}]

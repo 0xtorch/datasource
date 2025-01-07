@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"fullDomainName","internalType":"string","type":"string"}],"name":"fullNameToAddress","outputs":[{"name":"","internalType":"address","type":"address"}],"stateMutability":"view"}]

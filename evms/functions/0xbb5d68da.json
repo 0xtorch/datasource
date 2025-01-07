@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"exemptedReceiversAddress","internalType":"address","type":"address"},{"name":"dutyFee","internalType":"bool","type":"bool"}],"name":"setExemptedReceivers","outputs":[],"stateMutability":"nonpayable"}]

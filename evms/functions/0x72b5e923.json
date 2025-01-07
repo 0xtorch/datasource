@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"trancheIndex","internalType":"uint256","type":"uint256"},{"name":"assets","internalType":"uint256","type":"uint256"}],"name":"donateToTranche","outputs":[],"stateMutability":"nonpayable"}]

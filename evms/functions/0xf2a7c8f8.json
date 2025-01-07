@@ -1,0 +1,1 @@
+[{"type":"function","constant":false,"inputs":[{"name":"_erc20address","internalType":"address","type":"address"},{"name":"_splitAddresses","internalType":"address payable[]","type":"address[]"},{"name":"_splitFees","internalType":"uint256[]","type":"uint256[]"}],"name":"RoiyaltysplitERC20","outputs":[],"payable":true,"stateMutability":"payable"}]

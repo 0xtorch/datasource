@@ -1,0 +1,1 @@
+[{"type":"function","constant":true,"inputs":[],"name":"stakingLogger","outputs":[{"name":"","internalType":"contract StakingInfo","type":"address"}],"payable":false,"stateMutability":"view"}]

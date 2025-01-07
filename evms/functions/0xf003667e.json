@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_whale","internalType":"address","type":"address"}],"name":"hasWhaleNeverBought","outputs":[{"name":"","internalType":"bool","type":"bool"}],"stateMutability":"view"}]

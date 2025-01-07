@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"l2TxHash","internalType":"bytes32","type":"bytes32"}],"name":"l2TxHashMap","outputs":[{"name":"primaryChainL2TxHash","internalType":"bytes32","type":"bytes32"}],"stateMutability":"view"}]

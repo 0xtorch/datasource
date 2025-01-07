@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"assets","internalType":"uint256","type":"uint256","indexed":false},{"name":"postFeeAmount","internalType":"uint256","type":"uint256","indexed":false},{"name":"_receiver","internalType":"address","type":"address","indexed":true}],"name":"RedeemWithPxEth"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"totalMint","internalType":"uint256","type":"uint256"},{"name":"player","internalType":"address","type":"address"}],"name":"p2ereward","outputs":[{"name":"","internalType":"bool","type":"bool"}],"stateMutability":"nonpayable"}]

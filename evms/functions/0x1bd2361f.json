@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"nftTokenId","internalType":"uint256","type":"uint256"},{"name":"multiplyAmount","internalType":"uint256","type":"uint256"}],"name":"multiplyAdd","outputs":[{"name":"payTokenAmount","internalType":"uint256","type":"uint256"}],"stateMutability":"payable"}]

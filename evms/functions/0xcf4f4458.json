@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_newProvider","internalType":"address","type":"address"},{"name":"_flashLoanAmount","internalType":"uint256","type":"uint256"},{"name":"_fee","internalType":"uint256","type":"uint256"}],"name":"executeSwitch","outputs":[],"stateMutability":"payable"}]

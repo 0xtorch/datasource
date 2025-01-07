@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_market","internalType":"address","type":"address"},{"name":"_position","internalType":"enum ISportsAMM.Position","type":"uint8"}],"name":"obtainOdds","outputs":[{"name":"oddsToReturn","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

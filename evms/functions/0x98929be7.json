@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_isLong","internalType":"bool","type":"bool"},{"name":"_maxAmount","internalType":"uint256","type":"uint256"}],"name":"setMaxOpenInterestPerSide","outputs":[],"stateMutability":"nonpayable"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"newSupplyQueue","internalType":"Id[]","type":"bytes32[]"}],"name":"setSupplyQueue","outputs":[],"stateMutability":"nonpayable"}]

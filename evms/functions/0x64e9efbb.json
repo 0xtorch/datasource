@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"amount","internalType":"uint256","type":"uint256"},{"name":"flowAddress","internalType":"bytes8","type":"bytes8"}],"name":"teleportIn","outputs":[],"stateMutability":"nonpayable"}]

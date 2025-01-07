@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"pubKey","internalType":"bytes","type":"bytes","indexed":false},{"name":"withdrawalCredential","internalType":"bytes","type":"bytes","indexed":false}],"name":"ValidatorAdded"}]

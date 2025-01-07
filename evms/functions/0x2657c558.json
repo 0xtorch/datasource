@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"nftContract","internalType":"address","type":"address"},{"name":"price","internalType":"uint80","type":"uint80"},{"name":"limitPerAccount","internalType":"uint16","type":"uint16"}],"name":"createFixedPriceSale","outputs":[],"stateMutability":"nonpayable"}]

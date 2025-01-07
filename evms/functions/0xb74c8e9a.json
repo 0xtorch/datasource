@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_receiver","internalType":"address","type":"address"},{"name":"_buyerAmount","internalType":"uint48","type":"uint48"},{"name":"_sellerAmount","internalType":"uint48","type":"uint48"}],"name":"setAllProtocolFeeData","outputs":[],"stateMutability":"nonpayable"}]

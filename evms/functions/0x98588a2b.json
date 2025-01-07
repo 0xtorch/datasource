@@ -1,0 +1,1 @@
+[{"type":"function","constant":false,"inputs":[{"name":"to","type":"address"},{"name":"amountToMint","type":"uint256"},{"name":"metaId","type":"string"},{"name":"setPrice","type":"uint256"},{"name":"isForSale","type":"bool"}],"name":"batchMint","outputs":[],"payable":false,"stateMutability":"nonpayable"}]

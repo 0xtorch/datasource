@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"rm","internalType":"address[]","type":"address[]"},{"name":"add","internalType":"address[]","type":"address[]"}],"name":"changeAllowlistSigners","outputs":[],"stateMutability":"nonpayable"}]

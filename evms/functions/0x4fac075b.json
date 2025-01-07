@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"term","internalType":"uint256","type":"uint256"}],"name":"getLiquidationData","outputs":[{"name":"isLiquidated","internalType":"bool","type":"bool"},{"name":"liquidatedBondGroupID","internalType":"uint32","type":"uint32"},{"name":"endBondGroupId","internalType":"uint32","type":"uint32"}],"stateMutability":"view"}]

@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"skyMavisTreasury","internalType":"address","type":"address","indexed":true},{"name":"axieInfinityTreasury","internalType":"address","type":"address","indexed":true},{"name":"roninNetworkTreasury","internalType":"address","type":"address","indexed":true}],"name":"MarketTreasuryAddressesUpdated"}]

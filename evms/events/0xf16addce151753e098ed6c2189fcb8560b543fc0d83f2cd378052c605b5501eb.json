@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"orgAddress","internalType":"address","type":"address","indexed":true},{"name":"memberAddress","internalType":"address","type":"address","indexed":false}],"name":"TeamMemberRemoved"}]

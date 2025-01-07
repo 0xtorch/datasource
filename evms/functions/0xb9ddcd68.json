@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"strategy","type":"address"},{"name":"new_max_debt","type":"uint256"}],"name":"update_max_debt_for_strategy","outputs":[],"stateMutability":"nonpayable"}]

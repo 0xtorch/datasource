@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_isAntiBlockTransfer","internalType":"bool","type":"bool"},{"name":"_isAntiMaxBalance","internalType":"bool","type":"bool"}],"name":"setAntiBot","outputs":[],"stateMutability":"nonpayable"}]

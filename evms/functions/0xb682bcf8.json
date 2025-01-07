@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"peggedToken","internalType":"address","type":"address"},{"name":"capWithPeggedTokenDecimals","internalType":"uint256","type":"uint256"}],"name":"setCollateralCap","outputs":[],"stateMutability":"nonpayable"}]

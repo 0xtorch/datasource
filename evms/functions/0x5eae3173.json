@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"registrant","internalType":"address","type":"address"},{"name":"operatorWithCode","internalType":"address","type":"address"}],"name":"isCodeHashOfFiltered","outputs":[{"name":"","internalType":"bool","type":"bool"}],"stateMutability":"view"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"buyTax","internalType":"uint256","type":"uint256"},{"name":"sellTax","internalType":"uint256","type":"uint256"},{"name":"dev","internalType":"uint256","type":"uint256"},{"name":"community","internalType":"uint256","type":"uint256"}],"name":"changeTaxPercent","outputs":[],"stateMutability":"nonpayable"}]

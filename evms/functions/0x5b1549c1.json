@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[],"name":"sharedData","outputs":[{"name":"totalAmount","internalType":"uint256","type":"uint256"},{"name":"rewardPerShareToken","internalType":"uint256","type":"uint256"},{"name":"rewardRemain","internalType":"uint256","type":"uint256"},{"name":"rewardDeposited","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"totalSyncedPriorityTxs","internalType":"uint256","type":"uint256","indexed":false},{"name":"syncHash","internalType":"bytes32","type":"bytes32","indexed":false},{"name":"forwardEthAmount","internalType":"uint256","type":"uint256","indexed":false}],"name":"SyncL2Requests"}]

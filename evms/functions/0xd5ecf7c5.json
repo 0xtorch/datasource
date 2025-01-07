@@ -1,0 +1,1 @@
+[{"type":"function","constant":true,"inputs":[{"name":"marketId","type":"uint256"}],"name":"getNumExcessTokens","outputs":[{"name":"","type":"tuple","components":[{"name":"sign","type":"bool"},{"name":"value","type":"uint256"}]}],"payable":false,"stateMutability":"view"}]

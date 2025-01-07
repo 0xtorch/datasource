@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"catIds","type":"bytes5[16]","indexed":false}],"name":"GenesisCatsAdded"}]

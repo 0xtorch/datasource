@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_newPerBlock","internalType":"uint256","type":"uint256"},{"name":"_withUpdate","internalType":"bool","type":"bool"}],"name":"setTokenPerBlock","outputs":[],"stateMutability":"nonpayable"}]

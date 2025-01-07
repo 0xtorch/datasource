@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[],"name":"getOwnedTraderJoeV2Bins","outputs":[{"name":"result","internalType":"struct ITraderJoeV2Facet.TraderJoeV2Bin[]","type":"tuple[]","components":[{"name":"pair","internalType":"contract ILBPair","type":"address"},{"name":"id","internalType":"uint24","type":"uint24"}]}],"stateMutability":"view"}]

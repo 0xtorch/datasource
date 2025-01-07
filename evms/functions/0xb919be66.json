@@ -1,0 +1,1 @@
+[{"type":"function","constant":false,"inputs":[{"name":"_token1","type":"uint256"},{"name":"_token2","type":"uint256"},{"name":"_token3","type":"uint256"},{"name":"_target","type":"uint256"},{"name":"_param","type":"uint256"}],"name":"useMultipleItem","outputs":[],"payable":false,"stateMutability":"nonpayable"}]

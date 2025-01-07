@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"path0","internalType":"address","type":"address"},{"name":"path1","internalType":"address","type":"address"}],"name":"updatePath","outputs":[],"stateMutability":"nonpayable"}]

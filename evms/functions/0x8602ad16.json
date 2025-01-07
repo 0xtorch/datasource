@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_dstChainId","internalType":"uint16","type":"uint16"},{"name":"_recipient","internalType":"address","type":"address"},{"name":"_message","internalType":"string","type":"string"}],"name":"estimateLzFee","outputs":[{"name":"nativeFee","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

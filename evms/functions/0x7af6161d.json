@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"d","internalType":"bool","type":"bool"},{"name":"amount","internalType":"uint256","type":"uint256"}],"name":"setBuyPara","outputs":[],"stateMutability":"nonpayable"}]

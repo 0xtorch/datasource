@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_accessControls","internalType":"contract IKOAccessControlsLookup","type":"address"}],"name":"updateAccessControls","outputs":[],"stateMutability":"nonpayable"}]

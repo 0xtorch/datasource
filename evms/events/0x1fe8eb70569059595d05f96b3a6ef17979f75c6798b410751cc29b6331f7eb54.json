@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"_oldGlpTracker","internalType":"address","type":"address","indexed":false},{"name":"_newGlpTracker","internalType":"address","type":"address","indexed":false}],"name":"UpdateGlpRewardTracker"}]

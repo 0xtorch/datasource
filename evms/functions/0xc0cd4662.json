@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"total","internalType":"uint256","type":"uint256"},{"name":"circulating","internalType":"uint256","type":"uint256"}],"name":"reloadSupply","outputs":[],"stateMutability":"nonpayable"}]

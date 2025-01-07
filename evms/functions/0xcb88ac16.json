@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"recipients","internalType":"struct Recipient[]","type":"tuple[]","components":[{"name":"recipient","internalType":"address payable","type":"address"},{"name":"bps","internalType":"uint16","type":"uint16"}]}],"name":"initialize","outputs":[],"stateMutability":"nonpayable"}]

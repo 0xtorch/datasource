@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"distributionId","internalType":"uint16","type":"uint16"},{"name":"endTime","internalType":"uint40","type":"uint40"}],"name":"setDistributionEnd","outputs":[],"stateMutability":"nonpayable"}]

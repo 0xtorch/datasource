@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"stageId_","internalType":"uint8","type":"uint8"},{"name":"account_","internalType":"address","type":"address"},{"name":"proof_","internalType":"bytes32[]","type":"bytes32[]"}],"name":"isWhitelisted","outputs":[{"name":"","internalType":"bool","type":"bool"}],"stateMutability":"view"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"termsOfUseMessage","internalType":"string","type":"string"},{"name":"termsOfUseHash","internalType":"bytes32","type":"bytes32"}],"name":"signTermsOfUse","outputs":[],"stateMutability":"nonpayable"}]

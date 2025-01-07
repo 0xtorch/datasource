@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"capitalProvider","internalType":"address","type":"address","indexed":true},{"name":"userAmount","internalType":"uint256","type":"uint256","indexed":false},{"name":"reserveAmount","internalType":"uint256","type":"uint256","indexed":false}],"name":"WithdrawalMade"}]

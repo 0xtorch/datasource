@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"asset","internalType":"address","type":"address"},{"name":"minRsEthAmountToWithdraw_","internalType":"uint256","type":"uint256"}],"name":"setMinRsEthAmountToWithdraw","outputs":[],"stateMutability":"nonpayable"}]

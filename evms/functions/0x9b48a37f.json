@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"tokenId","internalType":"uint256","type":"uint256"},{"name":"_tokenMemeTextTop","internalType":"string","type":"string"},{"name":"_tokenMemeTextBottom","internalType":"string","type":"string"}],"name":"changeMeme","outputs":[],"stateMutability":"nonpayable"}]

@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"pauserRegistry","internalType":"contract IPauserRegistry","type":"address","indexed":false},{"name":"newPauserRegistry","internalType":"contract IPauserRegistry","type":"address","indexed":false}],"name":"PauserRegistrySet"}]

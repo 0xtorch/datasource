@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"orderMakerAmount","internalType":"uint256","type":"uint256"},{"name":"orderTakerAmount","internalType":"uint256","type":"uint256"},{"name":"swapMakerAmount","internalType":"uint256","type":"uint256"}],"name":"getTakerAmount","outputs":[{"name":"","internalType":"uint256","type":"uint256"}],"stateMutability":"pure"}]

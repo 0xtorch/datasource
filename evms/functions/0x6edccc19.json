@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"token","internalType":"contract IERC721","type":"address"},{"name":"tasks","internalType":"struct BulkSend.ERC721TransferTask[]","type":"tuple[]","components":[{"name":"to","internalType":"address","type":"address"},{"name":"id","internalType":"uint256","type":"uint256"}]}],"name":"erc721send","outputs":[],"stateMutability":"payable"}]

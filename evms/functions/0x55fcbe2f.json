@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"startIndex","internalType":"uint256","type":"uint256"},{"name":"endIndex","internalType":"uint256","type":"uint256"}],"name":"getWhitelistedParticipants","outputs":[{"name":"","internalType":"address[]","type":"address[]"}],"stateMutability":"view"}]

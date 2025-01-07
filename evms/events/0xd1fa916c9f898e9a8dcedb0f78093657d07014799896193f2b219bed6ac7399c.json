@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"zone","internalType":"address","type":"address","indexed":false},{"name":"salt","internalType":"bytes32","type":"bytes32","indexed":false}],"name":"ZoneCreated"}]

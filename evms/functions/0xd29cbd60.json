@@ -1,0 +1,1 @@
+[{"type":"function","constant":true,"inputs":[{"name":"_monsterId","type":"uint64"}],"name":"getMonsterBaseStats","outputs":[{"name":"hp","type":"uint256"},{"name":"pa","type":"uint256"},{"name":"pd","type":"uint256"},{"name":"sa","type":"uint256"},{"name":"sd","type":"uint256"},{"name":"speed","type":"uint256"}],"payable":false,"stateMutability":"view"}]

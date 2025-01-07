@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_card","internalType":"struct LegendFactory.Card[]","type":"tuple[]","components":[{"name":"name","internalType":"string","type":"string"},{"name":"nft","internalType":"address","type":"address"},{"name":"odds","internalType":"uint256","type":"uint256"}]}],"name":"setCard","outputs":[],"stateMutability":"nonpayable"}]

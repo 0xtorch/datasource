@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_contract","internalType":"contract Pigeon","type":"address"}],"name":"setPigeonContract","outputs":[],"stateMutability":"nonpayable"}]

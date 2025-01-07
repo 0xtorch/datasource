@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"vaultId","internalType":"uint256","type":"uint256"},{"name":"_isClosed","internalType":"bool","type":"bool"}],"name":"setIsClosed","outputs":[],"stateMutability":"nonpayable"}]

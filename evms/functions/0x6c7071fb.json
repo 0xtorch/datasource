@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_ownerAddress","internalType":"address","type":"address"},{"name":"_swthAddress","internalType":"bytes","type":"bytes"},{"name":"_bytecodeHash","internalType":"bytes32","type":"bytes32"}],"name":"getWalletAddress","outputs":[{"name":"","internalType":"address","type":"address"}],"stateMutability":"view"}]

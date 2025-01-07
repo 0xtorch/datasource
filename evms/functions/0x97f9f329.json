@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"collectionAddress","internalType":"address[]","type":"address[]"}],"name":"toggleAuthorizedCollection","outputs":[],"stateMutability":"nonpayable"}]

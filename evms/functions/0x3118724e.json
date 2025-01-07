@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"underlyingAssetDecimals","internalType":"uint8","type":"uint8"},{"name":"tokenName","internalType":"string","type":"string"},{"name":"tokenSymbol","internalType":"string","type":"string"}],"name":"initialize","outputs":[],"stateMutability":"nonpayable"}]

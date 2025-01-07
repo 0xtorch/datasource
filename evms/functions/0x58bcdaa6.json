@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_fundingInterval","internalType":"uint256","type":"uint256"},{"name":"_fundingRateFactor","internalType":"uint256","type":"uint256"}],"name":"setFundingRate","outputs":[],"stateMutability":"nonpayable"}]

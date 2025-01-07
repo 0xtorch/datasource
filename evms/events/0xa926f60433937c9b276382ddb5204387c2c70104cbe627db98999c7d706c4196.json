@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"quoteLocked","internalType":"uint256","type":"uint256","indexed":false},{"name":"lockedCollateralQuote","internalType":"uint256","type":"uint256","indexed":false}],"name":"QuoteLocked"}]

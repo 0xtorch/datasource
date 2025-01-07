@@ -1,0 +1,1 @@
+[{"type":"function","constant":false,"inputs":[{"name":"starkKey","internalType":"uint256","type":"uint256"},{"name":"vaultId","internalType":"uint256","type":"uint256"},{"name":"tokenId","internalType":"uint256","type":"uint256"},{"name":"quantizedAmount","internalType":"uint256","type":"uint256"}],"name":"escape","outputs":[],"payable":false,"stateMutability":"nonpayable"}]

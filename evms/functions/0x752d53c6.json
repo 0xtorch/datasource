@@ -1,0 +1,1 @@
+[{"type":"function","gas":41823,"inputs":[{"name":"_token","type":"address"}],"name":"claim_balance","outputs":[{"name":"","type":"bool"}],"stateMutability":"nonpayable"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"tokenId","internalType":"uint256","type":"uint256"}],"name":"availableToWithdraw","outputs":[{"name":"interestRedeemable","internalType":"uint256","type":"uint256"},{"name":"principalRedeemable","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

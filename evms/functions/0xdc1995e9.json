@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"","internalType":"address","type":"address"}],"name":"getNativeInfo","outputs":[{"name":"nativeChainId","internalType":"uint256","type":"uint256"},{"name":"nativeAddress","internalType":"bytes","type":"bytes"}],"stateMutability":"view"}]

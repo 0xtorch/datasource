@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"worldOrExhibitionId","internalType":"uint256","type":"uint256"},{"name":"seller","internalType":"address","type":"address"}],"name":"isAllowedSellerForExhibition","outputs":[{"name":"allowedSeller","internalType":"bool","type":"bool"}],"stateMutability":"view"}]

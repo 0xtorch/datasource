@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"","internalType":"address","type":"address"},{"name":"","internalType":"uint256","type":"uint256"}],"name":"userTokensToClaim","outputs":[{"name":"taken","internalType":"bool","type":"bool"},{"name":"release","internalType":"uint256","type":"uint256"},{"name":"value","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"randomness","internalType":"uint256","type":"uint256"},{"name":"dataWithRound","internalType":"bytes","type":"bytes"}],"name":"fulfillRandomness","outputs":[],"stateMutability":"nonpayable"}]

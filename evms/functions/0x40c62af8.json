@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"addresses","internalType":"address[]","type":"address[]"},{"name":"amounts","internalType":"uint256[]","type":"uint256[]"},{"name":"tokentoSend","internalType":"contract IBEP20","type":"address"}],"name":"bulkSend","outputs":[],"stateMutability":"nonpayable"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"amount","internalType":"uint256","type":"uint256"},{"name":"isxUSDL","internalType":"bool","type":"bool"}],"name":"migrate","outputs":[],"stateMutability":"payable"}]

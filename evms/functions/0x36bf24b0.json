@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"wearable_","internalType":"contract Wearable","type":"address"}],"name":"setWearableContract","outputs":[],"stateMutability":"nonpayable"}]

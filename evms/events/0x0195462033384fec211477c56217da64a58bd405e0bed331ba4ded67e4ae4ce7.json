@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"periodNumber","internalType":"uint256","type":"uint256","indexed":true},{"name":"epochNumber","internalType":"uint256","type":"uint256","indexed":true},{"name":"periodEnding","internalType":"bool","type":"bool","indexed":false}],"name":"WrappedUpEpoch"}]

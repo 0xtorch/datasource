@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"","internalType":"uint8","type":"uint8"}],"name":"numToLandStage","outputs":[{"name":"stageId","internalType":"uint8","type":"uint8"},{"name":"isStart","internalType":"bool","type":"bool"}],"stateMutability":"view"}]

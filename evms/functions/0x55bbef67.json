@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"cooperator","internalType":"address","type":"address"},{"name":"tokenId","internalType":"uint256","type":"uint256"},{"name":"cooperatorThresholdKey","internalType":"string","type":"string"}],"name":"approve","outputs":[],"stateMutability":"nonpayable"}]

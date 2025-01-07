@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_price","internalType":"uint256","type":"uint256"},{"name":"_limit","internalType":"uint256","type":"uint256"}],"name":"startPublicMint","outputs":[],"stateMutability":"nonpayable"}]

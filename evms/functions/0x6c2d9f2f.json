@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"agreementClass","internalType":"address","type":"address"},{"name":"id","internalType":"bytes32","type":"bytes32"},{"name":"dataLength","internalType":"uint256","type":"uint256"}],"name":"getAgreementData","outputs":[{"name":"data","internalType":"bytes32[]","type":"bytes32[]"}],"stateMutability":"view"}]

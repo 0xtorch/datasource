@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"pool_","internalType":"contract IPool","type":"address"},{"name":"poolTokens","internalType":"uint256","type":"uint256"}],"name":"burnPoolTokens","outputs":[{"name":"baseReceived","internalType":"uint256","type":"uint256"},{"name":"fyTokenReceived","internalType":"uint256","type":"uint256"}],"stateMutability":"nonpayable"}]

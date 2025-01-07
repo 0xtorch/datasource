@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"deltas","internalType":"struct GermanBakery.AllocationDelta[]","type":"tuple[]","components":[{"name":"addr","internalType":"address","type":"address"},{"name":"value","internalType":"int80","type":"int80"}]}],"name":"changeAllocations","outputs":[],"stateMutability":"nonpayable"}]

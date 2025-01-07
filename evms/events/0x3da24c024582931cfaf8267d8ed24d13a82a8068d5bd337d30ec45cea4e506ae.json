@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"name","internalType":"string","type":"string","indexed":false},{"name":"label","internalType":"bytes32","type":"bytes32","indexed":true},{"name":"cost","internalType":"uint256","type":"uint256","indexed":false},{"name":"expires","internalType":"uint256","type":"uint256","indexed":false}],"name":"NameRenewed"}]

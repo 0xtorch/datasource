@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_recipients","internalType":"address[]","type":"address[]"},{"name":"_tokenIds","internalType":"uint256[]","type":"uint256[]"},{"name":"_amounts","internalType":"uint256[]","type":"uint256[]"},{"name":"_datas","internalType":"bytes[]","type":"bytes[]"}],"name":"airdrop","outputs":[],"stateMutability":"nonpayable"}]

@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"homeOdds","internalType":"uint256","type":"uint256","indexed":false},{"name":"awayOdds","internalType":"uint256","type":"uint256","indexed":false},{"name":"drawOdds","internalType":"uint256","type":"uint256","indexed":false}],"name":"StoredOddsOnCancellation"}]

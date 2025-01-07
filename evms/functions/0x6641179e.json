@@ -1,0 +1,1 @@
+[{"type":"function","constant":true,"inputs":[{"name":"_artistsAccount","type":"address"}],"name":"artistsEditions","outputs":[{"name":"_editionNumbers","type":"uint256[]"}],"payable":false,"stateMutability":"view"}]

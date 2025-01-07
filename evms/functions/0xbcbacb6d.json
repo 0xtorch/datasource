@@ -1,0 +1,1 @@
+[{"type":"function","constant":true,"inputs":[{"name":"from","type":"address"}],"name":"getPlayerLaffName","outputs":[{"name":"","type":"bytes32"}],"payable":false,"stateMutability":"view"}]

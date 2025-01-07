@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"coreContract","internalType":"address","type":"address","indexed":true},{"name":"minter","internalType":"address","type":"address","indexed":true}],"name":"MinterRevokedForContract"}]

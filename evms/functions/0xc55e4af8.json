@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[],"name":"changeDelay","outputs":[{"name":"implementation","internalType":"uint256","type":"uint256"},{"name":"proposedTime","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"tokenId","internalType":"bytes32","type":"bytes32"},{"name":"newValue","internalType":"uint48","type":"uint48"}],"name":"updateSettleDuration","outputs":[],"stateMutability":"nonpayable"}]

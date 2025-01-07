@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"thresholdPercent","internalType":"uint256","type":"uint256"},{"name":"thresholdDivisor","internalType":"uint256","type":"uint256"}],"name":"setSwapSettings","outputs":[],"stateMutability":"nonpayable"}]

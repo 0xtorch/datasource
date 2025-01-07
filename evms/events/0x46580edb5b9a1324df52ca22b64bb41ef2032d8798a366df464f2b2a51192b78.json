@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"_contributor","internalType":"address","type":"address","indexed":true}],"name":"ContributionWithdrawn"}]

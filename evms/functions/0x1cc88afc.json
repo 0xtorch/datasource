@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_tierId","internalType":"uint8","type":"uint8"},{"name":"_amount","internalType":"uint256","type":"uint256"}],"name":"updateTier","outputs":[],"stateMutability":"nonpayable"}]

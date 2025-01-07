@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"amount","internalType":"uint16","type":"uint16"},{"name":"editionIndex","internalType":"uint16","type":"uint16"},{"name":"tokenHashes","internalType":"uint256[]","type":"uint256[]"},{"name":"isBlindMint","internalType":"bool","type":"bool"}],"name":"mint","outputs":[],"stateMutability":"payable"}]

@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"oldCooldown","internalType":"uint256","type":"uint256","indexed":false},{"name":"newCooldown","internalType":"uint256","type":"uint256","indexed":false}],"name":"HarvestCooldownChanged"}]

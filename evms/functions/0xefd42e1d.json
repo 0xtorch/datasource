@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"newValue","internalType":"uint16","type":"uint16"},{"name":"chain","internalType":"bytes32","type":"bytes32"}],"name":"changeDepositRelativeCommission","outputs":[],"stateMutability":"nonpayable"}]

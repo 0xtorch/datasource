@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_waitlistMintPrice","internalType":"uint256","type":"uint256"},{"name":"_whitelistMintPrice","internalType":"uint256","type":"uint256"},{"name":"_publicMintPrice","internalType":"uint256","type":"uint256"},{"name":"_publicMintLimit","internalType":"uint256","type":"uint256"}],"name":"setSaleData","outputs":[],"stateMutability":"nonpayable"}]

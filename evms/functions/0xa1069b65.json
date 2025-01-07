@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[],"name":"reflects","outputs":[{"name":"reflects_","internalType":"struct SLib.Reflect_[]","type":"tuple[]","components":[{"name":"address_","internalType":"address","type":"address"},{"name":"flag","internalType":"bool","type":"bool"}]}],"stateMutability":"view"}]

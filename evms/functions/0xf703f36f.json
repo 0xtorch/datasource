@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"","internalType":"address","type":"address"}],"name":"investorInfoMap","outputs":[{"name":"totalInvested","internalType":"uint256","type":"uint256"},{"name":"totalClaimed","internalType":"uint256","type":"uint256"},{"name":"hasClaimed","internalType":"bool","type":"bool"}],"stateMutability":"view"}]

@@ -1,0 +1,1 @@
+[{"type":"function","constant":true,"inputs":[{"name":"","type":"uint16"}],"name":"limits","outputs":[{"name":"limit","type":"uint64"},{"name":"exists","type":"bool"}],"payable":false,"stateMutability":"view"}]

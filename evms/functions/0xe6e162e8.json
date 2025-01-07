@@ -1,0 +1,1 @@
+[{"type":"function","constant":false,"inputs":[{"name":"cToken","internalType":"address","type":"address"},{"name":"borrower","internalType":"address","type":"address"}],"name":"flywheelPreBorrowerAction","outputs":[],"payable":false,"stateMutability":"nonpayable"}]

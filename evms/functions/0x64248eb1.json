@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_key","internalType":"bytes32","type":"bytes32"},{"name":"_incrementer","internalType":"uint256","type":"uint256"},{"name":"_maxIssuance","internalType":"uint256","type":"uint256"}],"name":"setIssuance","outputs":[],"stateMutability":"nonpayable"}]

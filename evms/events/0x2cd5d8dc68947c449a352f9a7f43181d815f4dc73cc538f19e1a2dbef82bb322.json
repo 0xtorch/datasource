@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"consumableERC1155","internalType":"address","type":"address","indexed":false}],"name":"ConsumableERC1155ContractUpdated"}]

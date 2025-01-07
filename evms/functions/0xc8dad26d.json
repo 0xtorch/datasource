@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_signature","internalType":"bytes","type":"bytes"},{"name":"_nonce","internalType":"uint256","type":"uint256"},{"name":"_toStake","internalType":"bool","type":"bool"}],"name":"preSaleMint","outputs":[],"stateMutability":"payable"}]

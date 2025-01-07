@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"","internalType":"address","type":"address"}],"name":"userStatus","outputs":[{"name":"quota","internalType":"uint8","type":"uint8"}],"stateMutability":"view"}]

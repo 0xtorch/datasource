@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"qty","internalType":"uint32","type":"uint32"},{"name":"to","internalType":"address","type":"address"}],"name":"operatorMint","outputs":[],"stateMutability":"nonpayable"}]

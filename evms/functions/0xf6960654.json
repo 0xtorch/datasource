@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"pairIndex","internalType":"uint256","type":"uint256"},{"name":"valueAbove","internalType":"uint256","type":"uint256"},{"name":"valueBelow","internalType":"uint256","type":"uint256"}],"name":"setOnePercentDepth","outputs":[],"stateMutability":"nonpayable"}]

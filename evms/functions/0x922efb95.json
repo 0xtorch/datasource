@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_name","internalType":"string","type":"string"}],"name":"_checkName","outputs":[{"name":"","internalType":"bool","type":"bool"}],"stateMutability":"view"}]

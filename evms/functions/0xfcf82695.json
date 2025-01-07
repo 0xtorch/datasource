@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"ghostToken","internalType":"address","type":"address"},{"name":"ghostBonding","internalType":"address","type":"address"}],"name":"setGhostAddresses","outputs":[],"stateMutability":"nonpayable"}]

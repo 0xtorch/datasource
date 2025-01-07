@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"action","internalType":"enum Action","type":"uint8"}],"name":"isHalted","outputs":[{"name":"","internalType":"bool","type":"bool"}],"stateMutability":"view"}]

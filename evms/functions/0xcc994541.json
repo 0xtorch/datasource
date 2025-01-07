@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"listTokensToClaim","internalType":"uint256[]","type":"uint256[]"},{"name":"listAdress","internalType":"address[]","type":"address[]"}],"name":"change_Users_TokensToClaim","outputs":[{"name":"","internalType":"bool","type":"bool"}],"stateMutability":"nonpayable"}]

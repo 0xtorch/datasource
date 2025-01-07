@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"schema","internalType":"bytes32","type":"bytes32"},{"name":"approved","internalType":"bool","type":"bool"}],"name":"setAuthorizedSchema","outputs":[],"stateMutability":"nonpayable"}]

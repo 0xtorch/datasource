@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_snapshotAssetBalance","internalType":"uint256","type":"uint256"},{"name":"_snapshotSharesSupply","internalType":"uint256","type":"uint256"}],"name":"initialRun","outputs":[],"stateMutability":"nonpayable"}]

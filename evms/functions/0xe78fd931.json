@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_initialDebt","internalType":"uint256","type":"uint256"}],"name":"createAndFundLoan","outputs":[{"name":"","internalType":"contract SmartLoan","type":"address"}],"stateMutability":"payable"}]

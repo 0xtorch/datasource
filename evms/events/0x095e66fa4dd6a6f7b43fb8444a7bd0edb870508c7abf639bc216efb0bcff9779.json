@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"clientData","internalType":"bytes","type":"bytes","indexed":false}],"name":"ClientData"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"perpetualIndex","internalType":"uint256","type":"uint256"},{"name":"riskParams","internalType":"int256[9]","type":"int256[9]"}],"name":"updatePerpetualRiskParameter","outputs":[],"stateMutability":"nonpayable"}]

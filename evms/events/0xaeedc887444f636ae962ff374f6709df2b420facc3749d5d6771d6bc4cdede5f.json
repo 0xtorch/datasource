@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"rewardId","internalType":"uint96","type":"uint96","indexed":true},{"name":"userId","internalType":"uint96","type":"uint96","indexed":true},{"name":"userAddress","internalType":"address","type":"address","indexed":false}],"name":"ERC1155DummyClaim"}]

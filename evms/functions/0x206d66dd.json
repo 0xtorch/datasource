@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"permittedAccount","internalType":"address","type":"address"},{"name":"enabled","internalType":"bool","type":"bool"}],"name":"setPermittedAccount","outputs":[],"stateMutability":"nonpayable"}]

@@ -1,0 +1,1 @@
+[{"type":"function","constant":true,"inputs":[{"name":"_name","internalType":"string","type":"string"}],"name":"getRune","outputs":[{"name":"","internalType":"string","type":"string"}],"payable":false,"stateMutability":"pure"}]

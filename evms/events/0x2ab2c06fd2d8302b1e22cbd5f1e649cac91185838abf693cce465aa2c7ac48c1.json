@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"coin","internalType":"contract ICoin","type":"address","indexed":false}],"name":"AddCoin"}]

@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"round","internalType":"uint256","type":"uint256","indexed":true},{"name":"userUsdcAmount","internalType":"uint256","type":"uint256","indexed":false},{"name":"userGlpAmount","internalType":"uint256","type":"uint256","indexed":false}],"name":"BatchStake"}]

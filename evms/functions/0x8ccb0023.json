@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_address","internalType":"address payable","type":"address"},{"name":"_genesisAddressesToBurn","internalType":"address[]","type":"address[]"}],"name":"BuyStakeGenesis","outputs":[],"stateMutability":"payable"}]

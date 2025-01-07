@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"pTokens","internalType":"contract PToken[]","type":"address[]"},{"name":"newBorrowCaps","internalType":"uint256[]","type":"uint256[]"}],"name":"_setMarketBorrowCaps","outputs":[],"stateMutability":"nonpayable"}]

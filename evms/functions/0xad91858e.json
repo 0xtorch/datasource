@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_sendingAssetId","internalType":"address","type":"address"},{"name":"_withSrcSwap","internalType":"bool","type":"bool"}],"name":"determineOFTBridgeSendFunction","outputs":[{"name":"bridgeFunctionSelector","internalType":"bytes4","type":"bytes4"}],"stateMutability":"view"}]

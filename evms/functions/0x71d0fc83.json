@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_denominator","internalType":"uint248","type":"uint248"},{"name":"_positive","internalType":"bool","type":"bool"},{"name":"_pools","internalType":"address[]","type":"address[]"}],"name":"rebase","outputs":[],"stateMutability":"nonpayable"}]

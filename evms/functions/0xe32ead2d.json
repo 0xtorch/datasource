@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"","internalType":"uint256","type":"uint256"}],"name":"campaignFeeConfigs","outputs":[{"name":"erc20","internalType":"address","type":"address"},{"name":"erc20Fee","internalType":"uint256","type":"uint256"},{"name":"platformFee","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"offering","internalType":"uint256","type":"uint256"},{"name":"raising","internalType":"uint256","type":"uint256"},{"name":"raisingTiers","internalType":"uint256","type":"uint256"}],"name":"setAmounts","outputs":[],"stateMutability":"nonpayable"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"expirationTime","internalType":"uint64","type":"uint64"},{"name":"walletAddress","internalType":"address","type":"address"},{"name":"score","internalType":"uint32","type":"uint32"},{"name":"signature","internalType":"bytes","type":"bytes"}],"name":"attest0xScoreSimple","outputs":[],"stateMutability":"payable"}]

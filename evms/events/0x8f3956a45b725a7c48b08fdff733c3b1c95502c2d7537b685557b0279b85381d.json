@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"newMaster","type":"address","indexed":false}],"name":"ChangeUpgradeMaster"}]

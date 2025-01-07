@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"startTokenId","internalType":"uint256","type":"uint256"},{"name":"endTokenId","internalType":"uint256","type":"uint256"}],"name":"batchUpdateMetadata","outputs":[],"stateMutability":"nonpayable"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"lps","internalType":"address[]","type":"address[]"},{"name":"_user","internalType":"address","type":"address"}],"name":"getUserVoteForPools","outputs":[{"name":"votes","internalType":"uint256[]","type":"uint256[]"}],"stateMutability":"view"}]

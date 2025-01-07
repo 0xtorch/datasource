@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_editionId","internalType":"uint256","type":"uint256"},{"name":"_offerPrice","internalType":"uint256","type":"uint256"}],"name":"acceptEditionBid","outputs":[],"stateMutability":"nonpayable"}]

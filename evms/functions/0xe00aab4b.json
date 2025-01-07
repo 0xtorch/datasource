@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"to","internalType":"address","type":"address"},{"name":"count","internalType":"uint16","type":"uint16"}],"name":"mintExtensionBatch","outputs":[{"name":"tokenIds","internalType":"uint256[]","type":"uint256[]"}],"stateMutability":"nonpayable"}]

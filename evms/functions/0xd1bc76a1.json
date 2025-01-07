@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"","internalType":"uint256","type":"uint256"}],"name":"recipients","outputs":[{"name":"fundsClaimed","internalType":"bool","type":"bool"},{"name":"tallyVerified","internalType":"bool","type":"bool"},{"name":"tallyResult","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

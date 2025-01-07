@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_tokenId","internalType":"uint16","type":"uint16"},{"name":"_mintsPerBurn","internalType":"uint8","type":"uint8"}],"name":"updateMintsPerBurn","outputs":[],"stateMutability":"nonpayable"}]

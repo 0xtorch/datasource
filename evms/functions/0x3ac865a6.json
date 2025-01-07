@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"box_id","internalType":"uint256","type":"uint256"},{"name":"amount","internalType":"uint8","type":"uint8"},{"name":"payment_token_index","internalType":"uint8","type":"uint8"},{"name":"proof","internalType":"bytes","type":"bytes"}],"name":"openBox","outputs":[],"stateMutability":"payable"}]

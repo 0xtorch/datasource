@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"state","internalType":"enum OpynPerpVault.VaultState","type":"uint8","indexed":false}],"name":"StateUpdated"}]

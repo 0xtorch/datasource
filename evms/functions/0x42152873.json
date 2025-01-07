@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_amount","internalType":"uint256","type":"uint256"},{"name":"_tokenDiv","internalType":"address","type":"address"},{"name":"_tokenMul","internalType":"address","type":"address"}],"name":"adjustForDecimals","outputs":[{"name":"","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

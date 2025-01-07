@@ -1,0 +1,1 @@
+[{"type":"function","gas":40455,"inputs":[{"name":"feeOnTransfer","type":"bool"}],"name":"setFeeOnTransfer","outputs":[],"stateMutability":"nonpayable"}]

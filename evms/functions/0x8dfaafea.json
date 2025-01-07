@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"liquidationWeight","internalType":"uint16","type":"uint16"}],"name":"setLiquidationWeightTranche","outputs":[],"stateMutability":"nonpayable"}]

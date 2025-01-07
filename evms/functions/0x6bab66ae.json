@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_listingId","internalType":"uint256","type":"uint256"},{"name":"_closeFor","internalType":"address","type":"address"}],"name":"closeAuction","outputs":[],"stateMutability":"nonpayable"}]

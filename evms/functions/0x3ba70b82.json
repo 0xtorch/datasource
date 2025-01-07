@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"questId","internalType":"uint256","type":"uint256"}],"name":"getClaimedByQuest","outputs":[{"name":"totalUniqueClaimed","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

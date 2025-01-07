@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"adapters","internalType":"address[]","type":"address[]"},{"name":"shouldWhitelist","internalType":"bool[]","type":"bool[]"}],"name":"setAdapterWhitelist","outputs":[],"stateMutability":"nonpayable"}]

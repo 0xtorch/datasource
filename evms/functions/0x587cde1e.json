@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"delegator","internalType":"address","type":"address"}],"name":"delegates","outputs":[{"name":"","internalType":"address","type":"address"}],"stateMutability":"view"}]

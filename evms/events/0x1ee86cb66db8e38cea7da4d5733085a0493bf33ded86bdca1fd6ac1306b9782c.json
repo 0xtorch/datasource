@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"previousDeveloper","internalType":"address","type":"address","indexed":true},{"name":"newDeveloper","internalType":"address","type":"address","indexed":true}],"name":"DeveloperAddressSet"}]

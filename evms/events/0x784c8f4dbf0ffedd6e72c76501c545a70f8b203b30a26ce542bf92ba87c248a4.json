@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"_token","internalType":"contract IERC20","type":"address","indexed":false}],"name":"TokenAdded"},{"type":"event","anonymous":false,"inputs":[{"name":"token","internalType":"address","type":"address","indexed":true}],"name":"TokenAdded"}]

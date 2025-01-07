@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"dividendsAddress_","internalType":"contract IrawBERRYTokenUsage","type":"address"}],"name":"updateDividendsAddress","outputs":[],"stateMutability":"nonpayable"}]

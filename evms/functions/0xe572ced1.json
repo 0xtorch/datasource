@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_contract","internalType":"address","type":"address"},{"name":"_selector","internalType":"bytes4","type":"bytes4"},{"name":"_encodedArgs","internalType":"bytes","type":"bytes"}],"name":"vaultCallOnContract","outputs":[{"name":"returnData_","internalType":"bytes","type":"bytes"}],"stateMutability":"nonpayable"}]

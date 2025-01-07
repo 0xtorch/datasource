@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"auth_","internalType":"address","type":"address","indexed":false}],"name":"EventGrantAuthorized"}]

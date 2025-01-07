@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_routes","internalType":"struct Refuel.ChainData[]","type":"tuple[]","components":[{"name":"chainId","internalType":"uint256","type":"uint256"},{"name":"isEnabled","internalType":"bool","type":"bool"}]}],"name":"addRoutes","outputs":[],"stateMutability":"nonpayable"}]

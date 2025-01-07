@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"issuer","internalType":"address","type":"address"},{"name":"firstCollectionId","internalType":"uint256","type":"uint256"},{"name":"lastCollectionId","internalType":"uint256","type":"uint256"}],"name":"authorizeRange","outputs":[],"stateMutability":"nonpayable"}]

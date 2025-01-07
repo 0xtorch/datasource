@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"updAds","internalType":"address","type":"address"},{"name":"isEx","internalType":"bool","type":"bool"}],"name":"excludeFromMaxTrading","outputs":[],"stateMutability":"nonpayable"}]

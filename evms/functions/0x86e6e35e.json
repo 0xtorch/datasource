@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"userAddresses","internalType":"address[]","type":"address[]"},{"name":"amountsOrIds","internalType":"uint256[]","type":"uint256[]"},{"name":"tokenAddress","internalType":"address","type":"address"}],"name":"send721Or20ToAddresses","outputs":[],"stateMutability":"payable"}]

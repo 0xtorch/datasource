@@ -1,0 +1,1 @@
+[{"type":"function","constant":false,"inputs":[{"name":"state","internalType":"bool","type":"bool"}],"name":"_setProtocolPaused","outputs":[{"name":"","internalType":"bool","type":"bool"}],"payable":false,"stateMutability":"nonpayable"}]

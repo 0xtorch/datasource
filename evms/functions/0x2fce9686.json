@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"amounts","internalType":"uint256[]","type":"uint256[]"},{"name":"receiver","internalType":"address","type":"address"},{"name":"checkSlippage","internalType":"bool","type":"bool"}],"name":"deposits","outputs":[{"name":"shares","internalType":"uint256","type":"uint256"}],"stateMutability":"payable"}]

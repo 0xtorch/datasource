@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"previousStatus","internalType":"enum StarCards.Status","type":"uint8","indexed":false},{"name":"newStatus","internalType":"enum StarCards.Status","type":"uint8","indexed":false}],"name":"StatusChange"}]

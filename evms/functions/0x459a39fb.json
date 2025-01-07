@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"aggregatorId","internalType":"string","type":"string"},{"name":"addr","internalType":"address","type":"address"},{"name":"selector","internalType":"bytes4","type":"bytes4"},{"name":"data","internalType":"bytes","type":"bytes"}],"name":"setAdapter","outputs":[],"stateMutability":"nonpayable"}]

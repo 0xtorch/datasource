@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_token","internalType":"address","type":"address"},{"name":"_incentives","internalType":"contract IOnwardIncentivesController","type":"address"}],"name":"setOnwardIncentives","outputs":[],"stateMutability":"nonpayable"}]

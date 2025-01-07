@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"newBestFriend","internalType":"contract IBestFriend","type":"address"}],"name":"changeBestFriend","outputs":[],"stateMutability":"nonpayable"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"campaignIds","internalType":"bytes16[]","type":"bytes16[]"},{"name":"proofs","internalType":"bytes32[][]","type":"bytes32[][]"},{"name":"claimAmounts","internalType":"uint256[]","type":"uint256[]"}],"name":"claimMultiple","outputs":[],"stateMutability":"nonpayable"}]

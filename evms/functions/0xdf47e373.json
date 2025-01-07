@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_newBuyTaxPercent","internalType":"uint256","type":"uint256"},{"name":"_newSellTaxPercent","internalType":"uint256","type":"uint256"}],"name":"removeLaunchTax","outputs":[],"stateMutability":"nonpayable"}]

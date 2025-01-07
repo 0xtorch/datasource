@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_editionId","internalType":"uint256","type":"uint256"},{"name":"_endTime","internalType":"uint32","type":"uint32"}],"name":"setEndTime","outputs":[],"stateMutability":"nonpayable"}]

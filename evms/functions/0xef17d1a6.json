@@ -1,0 +1,1 @@
+[{"type":"function","constant":false,"inputs":[{"name":"_eventHash","type":"bytes32"},{"name":"_desired","type":"bool"}],"name":"setPastEventHash","outputs":[],"payable":false,"stateMutability":"nonpayable"}]

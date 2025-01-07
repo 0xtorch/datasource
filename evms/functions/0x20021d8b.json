@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"hashToCheck","internalType":"bytes32","type":"bytes32"}],"name":"isHashUsed","outputs":[{"name":"hashUsed","internalType":"bool","type":"bool"}],"stateMutability":"view"}]

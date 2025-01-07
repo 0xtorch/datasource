@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"user","internalType":"address","type":"address","indexed":true},{"name":"amount","internalType":"uint128","type":"uint128","indexed":false},{"name":"expiry","internalType":"uint128","type":"uint128","indexed":false}],"name":"NewLockPosition"}]

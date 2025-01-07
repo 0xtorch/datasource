@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"tokenContract","internalType":"address","type":"address"}],"name":"withdrawForeignERC20","outputs":[],"stateMutability":"nonpayable"}]

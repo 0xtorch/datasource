@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_initialConfig","internalType":"address","type":"address"},{"name":"numbersLength","internalType":"uint256","type":"uint256"},{"name":"addressesLength","internalType":"uint256","type":"uint256"}],"name":"initializeFromOtherConfig","outputs":[],"stateMutability":"nonpayable"}]

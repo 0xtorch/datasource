@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_masterOfCoin","internalType":"contract IMasterOfCoin","type":"address"}],"name":"setMasterOfCoin","outputs":[],"stateMutability":"nonpayable"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"totalReward","internalType":"uint256","type":"uint256"},{"name":"rewardPct","internalType":"uint256","type":"uint256"}],"name":"computeReward","outputs":[{"name":"","internalType":"uint256","type":"uint256"}],"stateMutability":"pure"}]

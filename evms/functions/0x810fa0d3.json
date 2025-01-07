@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"totalETH","internalType":"uint256","type":"uint256"},{"name":"totalTokens","internalType":"uint256","type":"uint256"}],"name":"getAverageTokenPrice","outputs":[{"name":"","internalType":"uint256","type":"uint256"}],"stateMutability":"pure"}]

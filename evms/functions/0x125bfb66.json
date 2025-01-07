@@ -1,0 +1,1 @@
+[{"type":"function","constant":false,"inputs":[{"name":"token","type":"address"},{"name":"_to","type":"address"},{"name":"_value","type":"uint256"}],"name":"claimToken","outputs":[{"name":"","type":"bool"}],"payable":false,"stateMutability":"nonpayable"}]

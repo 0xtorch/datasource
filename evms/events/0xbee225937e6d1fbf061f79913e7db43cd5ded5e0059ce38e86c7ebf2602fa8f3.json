@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"airdropArgs","internalType":"struct IOperatorComic.AirdropArgs[]","type":"tuple[]","components":[{"name":"_to","internalType":"address","type":"address"},{"name":"_batchId","internalType":"uint256","type":"uint256"}],"indexed":false}],"name":"Airdrop"}]

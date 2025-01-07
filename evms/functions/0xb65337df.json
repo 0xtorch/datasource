@@ -1,0 +1,1 @@
+[{"type":"function","constant":false,"inputs":[{"name":"i","internalType":"bytes32","type":"bytes32"},{"name":"u","internalType":"address","type":"address"},{"name":"rate","internalType":"int256","type":"int256"}],"name":"fold","outputs":[],"payable":false,"stateMutability":"nonpayable"}]

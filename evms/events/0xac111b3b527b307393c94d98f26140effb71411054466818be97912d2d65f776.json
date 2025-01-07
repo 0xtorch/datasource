@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"l1Token","internalType":"address","type":"address","indexed":false},{"name":"lpToken","internalType":"address","type":"address","indexed":false}],"name":"L2TokenDisabledForLiquidityProvision"}]

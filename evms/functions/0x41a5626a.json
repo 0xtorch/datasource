@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"oldAddresses_","internalType":"address[]","type":"address[]"},{"name":"newAddresses_","internalType":"address[]","type":"address[]"}],"name":"replaceAdvanceAddresses","outputs":[],"stateMutability":"nonpayable"}]

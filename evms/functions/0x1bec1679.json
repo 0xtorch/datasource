@@ -1,0 +1,1 @@
+[{"type":"function","constant":false,"inputs":[{"name":"jTokenAddresses","internalType":"address[]","type":"address[]"},{"name":"sources","internalType":"address[]","type":"address[]"}],"name":"_setAggregators","outputs":[],"payable":false,"stateMutability":"nonpayable"}]

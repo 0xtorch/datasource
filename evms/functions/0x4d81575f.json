@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"tokenId","internalType":"uint256","type":"uint256"},{"name":"quantity","internalType":"uint256","type":"uint256"},{"name":"remembrance","internalType":"bytes32","type":"bytes32"}],"name":"donate","outputs":[],"stateMutability":"payable"}]

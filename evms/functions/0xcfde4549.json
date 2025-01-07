@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_account","internalType":"address","type":"address"},{"name":"_entitlementAmount","internalType":"uint16","type":"uint16"},{"name":"_merkleProof","internalType":"bytes32[]","type":"bytes32[]"}],"name":"isFounderslisted","outputs":[{"name":"","internalType":"bool","type":"bool"}],"stateMutability":"view"}]

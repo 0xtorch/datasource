@@ -1,0 +1,1 @@
+[{"type":"function","constant":false,"inputs":[{"name":"_game","type":"address"},{"name":"tokenId","type":"uint256"}],"name":"buyWithoutCheckApproved","outputs":[],"payable":true,"stateMutability":"payable"}]

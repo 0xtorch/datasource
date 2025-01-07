@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"key","internalType":"bytes32","type":"bytes32"},{"name":"tokenAmount","internalType":"uint256","type":"uint256"},{"name":"tokenIndex","internalType":"uint8","type":"uint8"}],"name":"calculateRemoveSwapLiquidityOneToken","outputs":[{"name":"availableTokenAmount","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

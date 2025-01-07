@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[],"name":"entireSupplyHistory","outputs":[{"name":"","internalType":"struct AliERC20v2Base.KV[]","type":"tuple[]","components":[{"name":"k","internalType":"uint64","type":"uint64"},{"name":"v","internalType":"uint192","type":"uint192"}]}],"stateMutability":"view"}]

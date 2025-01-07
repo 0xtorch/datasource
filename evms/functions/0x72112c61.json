@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"consumerChainId","internalType":"uint32","type":"uint32"}],"name":"fromConsumerToBool","outputs":[{"name":"boolChainId","internalType":"uint32","type":"uint32"}],"stateMutability":"view"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"token","internalType":"contract ISuperfluidToken","type":"address"},{"name":"account","internalType":"address","type":"address"},{"name":"timestamp","internalType":"uint256","type":"uint256"}],"name":"isPatricianPeriod","outputs":[{"name":"","internalType":"bool","type":"bool"}],"stateMutability":"view"}]

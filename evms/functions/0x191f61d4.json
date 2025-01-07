@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_callbackGasLimit","internalType":"uint32","type":"uint32"},{"name":"_requestConfirmations","internalType":"uint16","type":"uint16"}],"name":"requestChainlinkVRF","outputs":[],"stateMutability":"nonpayable"}]

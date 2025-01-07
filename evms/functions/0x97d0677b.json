@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"tAmount","internalType":"uint256","type":"uint256"},{"name":"deductTransferFee","internalType":"bool","type":"bool"}],"name":"refractionFromToken","outputs":[{"name":"","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

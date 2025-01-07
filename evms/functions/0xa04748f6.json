@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[],"name":"metrics","outputs":[{"name":"purchaseCount","internalType":"uint256","type":"uint256"},{"name":"buyerCount","internalType":"uint256","type":"uint256"},{"name":"purchaseTotal","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

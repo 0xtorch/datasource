@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"reward","internalType":"uint256","type":"uint256"},{"name":"tokenId","internalType":"uint256","type":"uint256"}],"name":"distributeReward","outputs":[],"stateMutability":"nonpayable"}]

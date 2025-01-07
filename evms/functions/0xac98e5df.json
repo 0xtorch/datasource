@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[],"name":"treeDepths","outputs":[{"name":"stateTreeDepth","internalType":"uint8","type":"uint8"},{"name":"messageTreeDepth","internalType":"uint8","type":"uint8"},{"name":"voteOptionTreeDepth","internalType":"uint8","type":"uint8"}],"stateMutability":"view"}]

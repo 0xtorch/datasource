@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"provenance_hash","internalType":"string","type":"string"},{"name":"price","internalType":"uint256","type":"uint256"},{"name":"max_supply","internalType":"uint256","type":"uint256"}],"name":"update","outputs":[],"stateMutability":"nonpayable"}]

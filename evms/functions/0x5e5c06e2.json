@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"","internalType":"address","type":"address"}],"name":"accounts","outputs":[{"name":"active","internalType":"bool","type":"bool"},{"name":"verified","internalType":"bool","type":"bool"},{"name":"banned","internalType":"bool","type":"bool"},{"name":"discordId","internalType":"string","type":"string"}],"stateMutability":"view"}]

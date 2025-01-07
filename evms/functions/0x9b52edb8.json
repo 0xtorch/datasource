@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"pTokenCollateral","internalType":"address","type":"address"},{"name":"borrower","internalType":"address","type":"address"},{"name":"liquidator","internalType":"address","type":"address"},{"name":"distributeAll","internalType":"bool","type":"bool"}],"name":"distributeSeizeWpc","outputs":[],"stateMutability":"nonpayable"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"beneficiaryAddress","internalType":"address","type":"address"}],"name":"changeBeneficiary","outputs":[],"stateMutability":"nonpayable"}]

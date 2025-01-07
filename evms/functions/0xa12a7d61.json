@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"newBurnFee","internalType":"uint256","type":"uint256"},{"name":"newLiquidityTax","internalType":"uint256","type":"uint256"},{"name":"newMarketingTax","internalType":"uint256","type":"uint256"},{"name":"newXrpCharityTax","internalType":"uint256","type":"uint256"}],"name":"setTaxes","outputs":[],"stateMutability":"nonpayable"}]

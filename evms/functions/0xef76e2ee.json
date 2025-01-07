@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"linkedToken","internalType":"address","type":"address"},{"name":"supportsPermit","internalType":"bool","type":"bool"}],"name":"setSupportedAsset","outputs":[],"stateMutability":"nonpayable"}]

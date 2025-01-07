@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"limit","internalType":"uint256","type":"uint256"},{"name":"chainId_","internalType":"uint16","type":"uint16"}],"name":"setInboundLimit","outputs":[],"stateMutability":"nonpayable"}]

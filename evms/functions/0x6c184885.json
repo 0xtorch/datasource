@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_to","internalType":"contract Entity","type":"address"},{"name":"_amount","internalType":"uint256","type":"uint256"}],"name":"transferToEntityWithOverrides","outputs":[],"stateMutability":"nonpayable"}]

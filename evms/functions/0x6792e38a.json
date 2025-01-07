@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"token","internalType":"contract IBEP20","type":"address"},{"name":"recipient","internalType":"address","type":"address"}],"name":"recoverBEP20","outputs":[],"stateMutability":"nonpayable"}]

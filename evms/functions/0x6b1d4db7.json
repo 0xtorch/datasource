@@ -1,0 +1,1 @@
+[{"type":"function","constant":false,"gas":50463,"inputs":[{"name":"tokens_bought","type":"uint256"},{"name":"deadline","type":"uint256"}],"name":"ethToTokenSwapOutput","outputs":[{"name":"out","type":"uint256"}],"payable":true,"stateMutability":"payable"}]

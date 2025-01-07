@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_assetId","internalType":"uint256","type":"uint256"},{"name":"_amount","internalType":"uint256","type":"uint256"},{"name":"_owner","internalType":"address","type":"address"},{"name":"_proofHash","internalType":"bytes32","type":"bytes32"}],"name":"depositPendingFunds","outputs":[],"stateMutability":"payable"}]

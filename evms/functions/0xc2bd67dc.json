@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[],"name":"postTransferHooks","outputs":[{"name":"","internalType":"struct SLib.PTH[]","type":"tuple[]","components":[{"name":"signature","internalType":"string","type":"string"},{"name":"forwardNumber","internalType":"uint8","type":"uint8"}]}],"stateMutability":"view"}]

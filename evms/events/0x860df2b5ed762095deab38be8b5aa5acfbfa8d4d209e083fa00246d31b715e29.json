@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"gateway","internalType":"contract IL2Gateway","type":"address","indexed":true}],"name":"InitGateway"},{"type":"event","anonymous":false,"inputs":[{"name":"gateway","internalType":"contract IL2Gateway","type":"address","indexed":false}],"name":"InitGateway"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_deltaLiquidityAmount","internalType":"int256","type":"int256"}],"name":"getLPTokenPrice","outputs":[{"name":"","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_receiver","internalType":"address","type":"address"}],"name":"tradeEthToWeth","outputs":[{"name":"_destAmount","internalType":"uint256","type":"uint256"}],"stateMutability":"payable"}]

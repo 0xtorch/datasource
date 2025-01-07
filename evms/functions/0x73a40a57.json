@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_user","internalType":"address","type":"address"},{"name":"_wlSaleCount","internalType":"uint8","type":"uint8"}],"name":"getWLMintedAmount","outputs":[{"name":"","internalType":"uint8","type":"uint8"}],"stateMutability":"view"}]

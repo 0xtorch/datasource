@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_nextPayoutTime","internalType":"uint256","type":"uint256"},{"name":"_payoutPeriod","internalType":"uint256","type":"uint256"},{"name":"_payoutTimeRange","internalType":"uint256","type":"uint256"}],"name":"setPayoutTimes","outputs":[],"stateMutability":"nonpayable"}]

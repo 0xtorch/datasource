@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"wallet","internalType":"address","type":"address"},{"name":"flag","internalType":"bool","type":"bool"}],"name":"manageBoughtEarly","outputs":[],"stateMutability":"nonpayable"}]

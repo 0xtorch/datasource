@@ -1,0 +1,1 @@
+[{"type":"function","constant":true,"inputs":[],"name":"getOxRewardRates","outputs":[{"name":"rewardRate","internalType":"uint256","type":"uint256"},{"name":"rewardRateB","internalType":"uint256","type":"uint256"}],"payable":false,"stateMutability":"view"}]

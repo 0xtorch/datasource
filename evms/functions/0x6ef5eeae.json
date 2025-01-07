@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"vault","internalType":"address","type":"address"},{"name":"assets","internalType":"uint256","type":"uint256"},{"name":"minShares","internalType":"uint256","type":"uint256"},{"name":"receiver","internalType":"address","type":"address"}],"name":"erc4626Deposit","outputs":[],"stateMutability":"payable"}]

@@ -1,0 +1,1 @@
+[{"type":"function","constant":true,"inputs":[{"name":"_owner","type":"address"},{"name":"_kind","type":"uint256"}],"name":"getCrystalsByKind","outputs":[{"name":"tokenIds","type":"uint256[]"},{"name":"genes","type":"uint256[]"},{"name":"weights","type":"uint256[]"},{"name":"mintedAts","type":"uint256[]"}],"payable":false,"stateMutability":"view"}]

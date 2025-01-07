@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"masterV2Address","internalType":"address","type":"address","indexed":false},{"name":"masterV3Address","internalType":"address","type":"address","indexed":false}],"name":"InitializeMasterAddress"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_nftBasedClaimContracts","internalType":"address[]","type":"address[]"},{"name":"_walletBasedClaimContracts","internalType":"address[]","type":"address[]"}],"name":"addClaimContracts","outputs":[],"stateMutability":"nonpayable"}]

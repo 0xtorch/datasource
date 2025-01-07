@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_handler","internalType":"contract IHandler","type":"address"},{"name":"_unusePositionData","internalType":"bytes","type":"bytes"}],"name":"unusePosition","outputs":[{"name":"amounts","internalType":"uint256[]","type":"uint256[]"},{"name":"liquidity","internalType":"uint256","type":"uint256"}],"stateMutability":"nonpayable"}]

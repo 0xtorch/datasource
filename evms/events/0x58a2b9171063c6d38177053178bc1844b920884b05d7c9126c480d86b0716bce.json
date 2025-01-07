@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"descriptor","internalType":"contract IDCATokenDescriptor","type":"address","indexed":false}],"name":"NFTDescriptorSet"}]

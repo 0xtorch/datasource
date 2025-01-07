@@ -1,0 +1,1 @@
+[{"type":"function","constant":false,"inputs":[{"name":"_newEthBackRate","type":"uint256"}],"name":"changeEthBackRate","outputs":[],"payable":false,"stateMutability":"nonpayable"}]

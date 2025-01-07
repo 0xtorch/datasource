@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_seller","internalType":"address","type":"address"},{"name":"_paymentAmount","internalType":"uint256","type":"uint256"},{"name":"_feeAmount","internalType":"uint256","type":"uint256"}],"name":"payWithToken","outputs":[],"stateMutability":"nonpayable"}]

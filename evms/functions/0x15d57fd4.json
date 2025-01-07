@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"tssAddress_","internalType":"address","type":"address"},{"name":"connectorAddress_","internalType":"address","type":"address"}],"name":"updateTssAndConnectorAddresses","outputs":[],"stateMutability":"nonpayable"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"","internalType":"address","type":"address"},{"name":"","internalType":"address","type":"address"},{"name":"","internalType":"uint24","type":"uint24"}],"name":"subscribedInfos","outputs":[{"name":"prodId","internalType":"uint24","type":"uint24"},{"name":"autoRenew","internalType":"bool","type":"bool"}],"stateMutability":"view"}]

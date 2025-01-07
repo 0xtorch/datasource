@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"orderId","internalType":"uint256","type":"uint256"},{"name":"price","internalType":"uint256","type":"uint256"},{"name":"spreadP","internalType":"uint256","type":"uint256"}],"name":"openTradeMarketCallback","outputs":[],"stateMutability":"nonpayable"}]

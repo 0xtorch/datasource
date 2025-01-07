@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"tokenAddress","internalType":"contract IERC20","type":"address"},{"name":"symbol","internalType":"string","type":"string"},{"name":"decimals","internalType":"uint8","type":"uint8"}],"name":"registerToken","outputs":[],"stateMutability":"nonpayable"}]

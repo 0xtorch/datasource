@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_withdrawMode","internalType":"enum IWithdrawExtension.WithdrawMode","type":"uint8"}],"name":"setWithdrawMode","outputs":[],"stateMutability":"nonpayable"}]

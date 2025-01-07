@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"passportId","internalType":"uint256","type":"uint256"}],"name":"getScore","outputs":[{"name":"","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

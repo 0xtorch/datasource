@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"error","internalType":"uint256","type":"uint256","indexed":false},{"name":"info","internalType":"uint256","type":"uint256","indexed":false},{"name":"detail","internalType":"uint256","type":"uint256","indexed":false}],"name":"Failure"}]

@@ -1,0 +1,1 @@
+[{"type":"function","constant":false,"inputs":[{"name":"_season","type":"uint256"},{"name":"_value","type":"uint64"}],"name":"updateGenerationDict","outputs":[],"payable":false,"stateMutability":"nonpayable"}]

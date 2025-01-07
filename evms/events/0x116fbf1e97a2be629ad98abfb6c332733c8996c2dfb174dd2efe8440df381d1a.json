@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"swapSlippageBP","internalType":"uint256","type":"uint256","indexed":false},{"name":"navSlippageBP","internalType":"uint256","type":"uint256","indexed":false},{"name":"stakeSlippageBP","internalType":"uint256","type":"uint256","indexed":false}],"name":"SlippagesUpdated"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"subjectValue","internalType":"string","type":"string"},{"name":"className_","internalType":"string","type":"string"}],"name":"subjectIndex","outputs":[{"name":"","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_withdrawDelay","internalType":"uint24","type":"uint24"}],"name":"setWithdrawDelay","outputs":[],"stateMutability":"nonpayable"}]

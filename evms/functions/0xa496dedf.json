@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"addresses","internalType":"address[]","type":"address[]"},{"name":"token","internalType":"uint256","type":"uint256"},{"name":"amt_each","internalType":"uint256","type":"uint256"}],"name":"airdrop","outputs":[],"stateMutability":"nonpayable"}]

@@ -1,0 +1,1 @@
+[{"type":"function","constant":true,"inputs":[{"name":"_a","type":"address"}],"name":"getB","outputs":[{"name":"","type":"bool"}],"payable":false,"stateMutability":"view"}]

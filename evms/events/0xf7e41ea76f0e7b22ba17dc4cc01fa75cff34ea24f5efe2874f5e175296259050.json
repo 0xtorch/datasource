@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"keeper","internalType":"address","type":"address","indexed":true},{"name":"slasher","internalType":"address","type":"address","indexed":true},{"name":"block","internalType":"uint256","type":"uint256","indexed":false},{"name":"slash","internalType":"uint256","type":"uint256","indexed":false}],"name":"KeeperSlashed"}]

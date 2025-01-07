@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_sellTax","internalType":"uint8","type":"uint8"},{"name":"_buyTax","internalType":"uint8","type":"uint8"},{"name":"_transferTax","internalType":"uint8","type":"uint8"}],"name":"setTaxes","outputs":[],"stateMutability":"nonpayable"}]

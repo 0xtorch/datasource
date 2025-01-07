@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"portions","internalType":"uint256[]","type":"uint256[]"},{"name":"signature","internalType":"bytes","type":"bytes"},{"name":"sigExpTime","internalType":"uint256","type":"uint256"}],"name":"removePortionsFromMarket","outputs":[],"stateMutability":"nonpayable"}]

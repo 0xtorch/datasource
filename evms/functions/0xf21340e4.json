@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_requestId","internalType":"uint256","type":"uint256"},{"name":"_hintId","internalType":"uint256","type":"uint256"}],"name":"claimWithdrawal","outputs":[{"name":"success","internalType":"bool","type":"bool"}],"stateMutability":"nonpayable"}]

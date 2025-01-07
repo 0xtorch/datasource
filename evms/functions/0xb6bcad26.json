@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_upgradeAddress","internalType":"contract INameWrapperUpgrade","type":"address"}],"name":"setUpgradeContract","outputs":[],"stateMutability":"nonpayable"}]

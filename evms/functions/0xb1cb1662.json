@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"indices","internalType":"uint8[]","type":"uint8[]"},{"name":"names","internalType":"bytes32[]","type":"bytes32[]"}],"name":"createNewAttributes","outputs":[],"stateMutability":"nonpayable"}]

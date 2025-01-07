@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_depositReceiver","internalType":"address","type":"address"}],"name":"setDepositReceiver","outputs":[],"stateMutability":"nonpayable"}]

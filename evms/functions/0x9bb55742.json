@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"wormholeMessenger_","internalType":"contract WormholeMessenger","type":"address"}],"name":"setWormholeMessenger","outputs":[],"stateMutability":"nonpayable"}]

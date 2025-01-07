@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"usr","internalType":"address","type":"address","indexed":true},{"name":"own","internalType":"address","type":"address","indexed":true},{"name":"cdp","internalType":"uint256","type":"uint256","indexed":true}],"name":"NewCdp"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_kodaTokenId","internalType":"uint256","type":"uint256"},{"name":"_recipient","internalType":"address","type":"address"}],"name":"transferChild","outputs":[],"stateMutability":"nonpayable"}]

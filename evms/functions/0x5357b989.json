@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"fee","internalType":"uint256","type":"uint256"},{"name":"amount","internalType":"uint256","type":"uint256"},{"name":"promoFee","internalType":"uint256","type":"uint256"}],"name":"calculateFee","outputs":[{"name":"","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

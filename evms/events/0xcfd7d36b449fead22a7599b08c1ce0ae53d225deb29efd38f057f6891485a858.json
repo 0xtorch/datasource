@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"id","internalType":"uint256","type":"uint256","indexed":true},{"name":"oldPoints","internalType":"uint256","type":"uint256","indexed":true},{"name":"newPoints","internalType":"uint256","type":"uint256","indexed":true}],"name":"PowahUpdated"}]

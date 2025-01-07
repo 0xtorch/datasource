@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"from","internalType":"address","type":"address"},{"name":"interest","internalType":"uint256","type":"uint256"},{"name":"principal","internalType":"uint256","type":"uint256"}],"name":"collectInterestAndPrincipal","outputs":[],"stateMutability":"nonpayable"}]

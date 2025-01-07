@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"tokenId","internalType":"uint256","type":"uint256"}],"name":"getArtwork","outputs":[{"name":"","internalType":"struct FeralfileExhibitionV4.Artwork","type":"tuple","components":[{"name":"seriesId","internalType":"uint256","type":"uint256"},{"name":"tokenId","internalType":"uint256","type":"uint256"}]}],"stateMutability":"view"}]

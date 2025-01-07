@@ -1,0 +1,1 @@
+[{"type":"function","constant":true,"inputs":[{"name":"_tokenId","type":"uint256"}],"name":"tokenOffer","outputs":[{"name":"_bidder","type":"address"},{"name":"_offer","type":"uint256"},{"name":"_owner","type":"address"},{"name":"_enabled","type":"bool"},{"name":"_paused","type":"bool"}],"payable":false,"stateMutability":"view"}]

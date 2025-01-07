@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"","internalType":"address","type":"address"}],"name":"koCommissionOverrideForCreators","outputs":[{"name":"active","internalType":"bool","type":"bool"},{"name":"koCommission","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

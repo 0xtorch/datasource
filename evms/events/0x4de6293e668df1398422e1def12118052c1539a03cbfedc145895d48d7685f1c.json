@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"rewardsForAllSubmitter","internalType":"address","type":"address","indexed":true},{"name":"oldValue","internalType":"bool","type":"bool","indexed":true},{"name":"newValue","internalType":"bool","type":"bool","indexed":true}],"name":"RewardsForAllSubmitterSet"}]

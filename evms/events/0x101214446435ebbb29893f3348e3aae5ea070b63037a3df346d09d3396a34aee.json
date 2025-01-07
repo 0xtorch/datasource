@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"hash","type":"bytes32","indexed":false},{"name":"result","type":"uint256","indexed":false},{"name":"numOperations","type":"uint256","indexed":false}],"name":"InvocationSuccess"}]

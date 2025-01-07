@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"issuer","internalType":"address","type":"address"},{"name":"ranges","internalType":"struct Range[]","type":"tuple[]","components":[{"name":"min","internalType":"uint256","type":"uint256"},{"name":"max","internalType":"uint256","type":"uint256"}]}],"name":"authorizeRanges","outputs":[],"stateMutability":"nonpayable"}]

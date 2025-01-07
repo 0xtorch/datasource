@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_intermToken","internalType":"address","type":"address"},{"name":"feeToIntermToken","internalType":"uint24","type":"uint24"}],"name":"setPathWithIntermToken","outputs":[],"stateMutability":"nonpayable"}]

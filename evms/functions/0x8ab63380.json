@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_antGoldContract","internalType":"address","type":"address"},{"name":"_sugaContract","internalType":"address","type":"address"},{"name":"_bossesContract","internalType":"address","type":"address"}],"name":"setContractAddresses","outputs":[],"stateMutability":"nonpayable"}]

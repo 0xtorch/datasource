@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"base","internalType":"address","type":"address"},{"name":"quote","internalType":"address","type":"address"}],"name":"getPrice","outputs":[{"name":"","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

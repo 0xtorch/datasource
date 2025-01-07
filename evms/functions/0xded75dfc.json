@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_address","internalType":"address","type":"address"},{"name":"_unrektable","internalType":"bool","type":"bool"}],"name":"setUnrektable","outputs":[],"stateMutability":"nonpayable"}]
