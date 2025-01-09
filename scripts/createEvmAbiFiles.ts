@@ -28,6 +28,58 @@ const createEvmAbiFiles = async () => {
   // function id 毎に abi を管理
   const functionAbisMap = new Map<string, Map<string, AbiFunctionType>>()
 
+  // evms/events から既存のファイルを取得
+  const eventFileBasePath = 'evms/events'
+  const eventFiles = await readdir(eventFileBasePath)
+  for (const file of eventFiles) {
+    const json = await Bun.file(`${eventFileBasePath}/${file}`).json()
+    if (!Array.isArray(json)) {
+      console.debug('Event file is not an array:', json)
+      continue
+    }
+    for (const eventAbi of json) {
+      const result = AbiEvent.safeParse(eventAbi)
+      if (!result.success) {
+        console.debug('Failed to parse event ABI of', file)
+        console.debug(result.error.errors)
+        continue
+      }
+      const signature = toEventSelector(result.data)
+      const key = createEventKey(result.data)
+      const eventAbis = eventAbisMap.get(signature) ?? new Map()
+      if (!eventAbis.has(key)) {
+        eventAbis.set(key, result.data)
+      }
+      eventAbisMap.set(signature, eventAbis)
+    }
+  }
+
+  // evms/functions から既存のファイルを取得
+  const functionFileBasePath = 'evms/functions'
+  const functionFiles = await readdir(functionFileBasePath)
+  for (const file of functionFiles) {
+    const json = await Bun.file(`${functionFileBasePath}/${file}`).json()
+    if (!Array.isArray(json)) {
+      console.debug('Function file is not an array:', json)
+      continue
+    }
+    for (const functionAbi of json) {
+      const result = AbiFunction.safeParse(functionAbi)
+      if (!result.success) {
+        console.debug('Failed to parse function ABI of', file)
+        console.debug(result.error.errors)
+        continue
+      }
+      const id = toFunctionSelector(result.data)
+      const signature = toFunctionSignature(result.data)
+      const functionAbis = functionAbisMap.get(id) ?? new Map()
+      if (!functionAbis.has(signature)) {
+        functionAbis.set(signature, result.data)
+      }
+      functionAbisMap.set(id, functionAbis)
+    }
+  }
+
   // address から順番に abi を取得して処理
   // env で対象 address が指定されている場合は指定 address のみ処理
   const files = await getEvmAddressFiles()
@@ -46,7 +98,8 @@ const createEvmAbiFiles = async () => {
         if (abi.type === 'event') {
           const result = AbiEvent.safeParse(abi)
           if (!result.success) {
-            console.debug('Failed to parse event ABI:', result.error.errors)
+            console.debug('Failed to parse event ABI of', file)
+            console.debug(result.error.errors)
             continue
           }
           const eventAbi = result.data
@@ -61,7 +114,8 @@ const createEvmAbiFiles = async () => {
         if (abi.type === 'function') {
           const result = AbiFunction.safeParse(abi)
           if (!result.success) {
-            console.debug('Failed to parse function ABI:', result.error.errors)
+            console.debug('Failed to parse function ABI of', file)
+            console.debug(result.error.errors)
             continue
           }
           const functionAbi = result.data
