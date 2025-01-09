@@ -369,5 +369,43 @@
         ]
       }
     ]
+  },
+  "symbolAssetMap": {
+    "BTC": "crypto/bitcoin",
+    "ETH": "crypto/ethereum",
+    "LTC": "crypto/litecoin",
+    "ETC": "crypto/ethereum-classic",
+    "BCH": "crypto/bitcoin-cash",
+    "MONA": "crypto/monacoin",
+    "XRP": "crypto/ripple",
+    "BAT": "crypto/basic-attention-token",
+    "XLM": "crypto/stellar",
+    "XTZ": "crypto/tezos",
+    "DOT": "crypto/polkadot",
+    "LINK": "crypto/chainlink",
+    "XYM": "crypto/symbol",
+    "MATIC": "crypto/polygon-ecosystem-token",
+    "MKR": "crypto/maker",
+    "ZPG": "crypto/0xtorch-zipang-coin",
+    "FLR": "crypto/flare-networks",
+    "PLT": "crypto/palette",
+    "SAND": "crypto/the-sandbox",
+    "SHIB": "crypto/shiba-inu",
+    "AXS": "crypto/axie-infinity",
+    "MANA": "crypto/decentraland",
+    "IMX": "crypto/immutable-x",
+    "ELF": "crypto/the-land-elf-crossing",
+    "CHZ": "crypto/chiliz",
+    "APE": "crypto/apecoin",
+    "DAI": "crypto/dai",
+    "AVAX": "crypto/avalanche-2",
+    "RNDR": "crypto/render-token",
+    "GRT": "crypto/the-graph",
+    "DOGE": "crypto/dogecoin",
+    "LSK": "crypto/lisk",
+    "ZPGPT": "crypto/0xtorch-zipang-coin-platinum",
+    "ZPGAG": "crypto/0xtorch-zipang-coin-silver",
+    "MASK": "crypto/mask-network",
+    "POL": "crypto/polygon-ecosystem-token"
   }
 }
