@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_addressesToWhitelist","internalType":"address[]","type":"address[]"}],"name":"whitelistUsersForWERT","outputs":[],"stateMutability":"nonpayable"}]

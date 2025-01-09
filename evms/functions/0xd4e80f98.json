@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"newSinglePrice","internalType":"uint256","type":"uint256"},{"name":"newPackPrice","internalType":"uint256","type":"uint256"},{"name":"newPremintPrice","internalType":"uint256","type":"uint256"},{"name":"newPremintPackPrice","internalType":"uint256","type":"uint256"}],"name":"updatePrice","outputs":[],"stateMutability":"nonpayable"}]

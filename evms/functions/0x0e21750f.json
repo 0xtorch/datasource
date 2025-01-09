@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_fund","internalType":"contract IFundDistributor","type":"address"}],"name":"setFund","outputs":[],"stateMutability":"nonpayable"}]

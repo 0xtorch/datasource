@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"dstEid","internalType":"uint32","type":"uint32","indexed":false},{"name":"startTicketId","internalType":"uint72","type":"uint72","indexed":false},{"name":"numPassengers","internalType":"uint8","type":"uint8","indexed":false},{"name":"guid","internalType":"bytes32","type":"bytes32","indexed":false}],"name":"BusDriven"}]

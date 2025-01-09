@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_data","internalType":"bytes","type":"bytes"}],"name":"anyExecute","outputs":[{"name":"success","internalType":"bool","type":"bool"},{"name":"result","internalType":"bytes","type":"bytes"}],"stateMutability":"nonpayable"}]

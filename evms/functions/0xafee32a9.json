@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_spinFee","internalType":"uint256","type":"uint256"},{"name":"_nftFee","internalType":"uint256","type":"uint256"},{"name":"_marketFee","internalType":"uint256","type":"uint256"},{"name":"_lpFee","internalType":"uint256","type":"uint256"}],"name":"setBuyFeePercent","outputs":[],"stateMutability":"nonpayable"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"tokenA","internalType":"address","type":"address"},{"name":"tokenB","internalType":"address","type":"address"},{"name":"_factory","internalType":"address","type":"address"}],"name":"quoteStableLiquidityRatio","outputs":[{"name":"ratio","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"implementation_","internalType":"address","type":"address"},{"name":"allowResign","internalType":"bool","type":"bool"},{"name":"becomeImplementationData","internalType":"bytes","type":"bytes"}],"name":"_setImplementation","outputs":[],"stateMutability":"nonpayable"}]

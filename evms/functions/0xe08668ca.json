@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_pointer","internalType":"address[]","type":"address[]"},{"name":"startIndex","internalType":"uint256","type":"uint256"}],"name":"setOwnerPointers","outputs":[],"stateMutability":"nonpayable"}]

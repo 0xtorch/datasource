@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"newFeeReceiver","internalType":"address","type":"address"}],"name":"changeRouteFeeReceiver","outputs":[],"stateMutability":"nonpayable"}]

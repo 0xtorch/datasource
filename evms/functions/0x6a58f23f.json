@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"","internalType":"uint256","type":"uint256"}],"name":"pairsList","outputs":[{"name":"pair","internalType":"address","type":"address"},{"name":"percentReward","internalType":"uint256","type":"uint256"},{"name":"enabled","internalType":"bool","type":"bool"}],"stateMutability":"view"}]

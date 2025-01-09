@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_squaredPerpFundingMultiplier","internalType":"int256","type":"int256"}],"name":"setSquaredPerpFundingMultiplier","outputs":[],"stateMutability":"nonpayable"}]

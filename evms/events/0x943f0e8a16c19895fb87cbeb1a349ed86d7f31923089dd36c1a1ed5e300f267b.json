@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"chainId","internalType":"uint16","type":"uint16","indexed":false},{"name":"sequenceNumber","internalType":"uint64","type":"uint64","indexed":false}],"name":"BatchPriceFeedUpdate"}]

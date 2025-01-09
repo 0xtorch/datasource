@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"oldChainGasAmount","internalType":"uint256","type":"uint256","indexed":false},{"name":"newChainGasAmount","internalType":"uint256","type":"uint256","indexed":false}],"name":"ChainGasAmountUpdated"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_affiliateIndex","internalType":"uint256","type":"uint256"},{"name":"_affiliate","internalType":"address","type":"address"},{"name":"_IsActive","internalType":"bool","type":"bool"}],"name":"updateAffiliate","outputs":[],"stateMutability":"nonpayable"}]

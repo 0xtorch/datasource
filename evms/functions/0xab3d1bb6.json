@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"deus_price","internalType":"uint256","type":"uint256"},{"name":"dei_price","internalType":"uint256","type":"uint256"},{"name":"expire_block","internalType":"uint256","type":"uint256"},{"name":"sigs","internalType":"bytes[]","type":"bytes[]"}],"name":"refreshCollateralRatio","outputs":[],"stateMutability":"nonpayable"}]

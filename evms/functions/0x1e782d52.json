@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"partner","internalType":"address","type":"address"},{"name":"val","internalType":"bool","type":"bool"}],"name":"setPauseWhiteList","outputs":[],"stateMutability":"nonpayable"}]

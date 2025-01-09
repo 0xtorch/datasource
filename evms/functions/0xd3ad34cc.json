@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"pToken","internalType":"contract PToken","type":"address"},{"name":"wpcSpeed","internalType":"uint256","type":"uint256"}],"name":"_setWpcSpeed","outputs":[],"stateMutability":"nonpayable"}]

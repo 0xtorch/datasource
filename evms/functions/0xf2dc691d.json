@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"moduleTypeId","internalType":"uint256","type":"uint256"}],"name":"supportsModule","outputs":[{"name":"","internalType":"bool","type":"bool"}],"stateMutability":"pure"}]

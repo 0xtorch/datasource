@@ -1,0 +1,1 @@
+[{"type":"function","constant":false,"inputs":[{"name":"bridgeAddress","internalType":"address","type":"address"},{"name":"rawAmount","internalType":"uint256","type":"uint256"},{"name":"externalAddress","internalType":"string","type":"string"}],"name":"bridgeTransfer","outputs":[{"name":"","internalType":"bool","type":"bool"}],"payable":false,"stateMutability":"nonpayable"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"numerator","internalType":"uint256","type":"uint256"},{"name":"divisor","internalType":"uint256","type":"uint256"}],"name":"setMaxWallet","outputs":[],"stateMutability":"nonpayable"}]

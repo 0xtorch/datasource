@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_petId","internalType":"uint256","type":"uint256"},{"name":"_genes1","internalType":"uint256","type":"uint256"},{"name":"_genes2","internalType":"uint256","type":"uint256"}],"name":"evolvePAPA","outputs":[],"stateMutability":"nonpayable"}]

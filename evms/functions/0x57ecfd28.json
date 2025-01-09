@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"message","internalType":"bytes","type":"bytes"},{"name":"attestation","internalType":"bytes","type":"bytes"}],"name":"receiveMessage","outputs":[{"name":"success","internalType":"bool","type":"bool"}],"stateMutability":"nonpayable"}]

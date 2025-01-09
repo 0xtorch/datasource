@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_name","internalType":"string","type":"string"},{"name":"uri","internalType":"string","type":"string"},{"name":"_type","internalType":"uint8","type":"uint8"},{"name":"keysOut","internalType":"uint256","type":"uint256"}],"name":"createToken","outputs":[{"name":"id","internalType":"uint256","type":"uint256"}],"stateMutability":"nonpayable"}]

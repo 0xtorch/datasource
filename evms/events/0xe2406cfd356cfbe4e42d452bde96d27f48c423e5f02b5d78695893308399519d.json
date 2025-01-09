@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"creator","internalType":"address","type":"address","indexed":true},{"name":"tokenId","internalType":"uint256","type":"uint256","indexed":true},{"name":"indexedTokenCID","internalType":"string","type":"string","indexed":true},{"name":"tokenCID","internalType":"string","type":"string","indexed":false}],"name":"Minted"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"","internalType":"enum FeeType","type":"uint8"}],"name":"protocolFeeBps","outputs":[{"name":"","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_tierNumber","internalType":"uint8","type":"uint8"},{"name":"_maxAmount","internalType":"uint8","type":"uint8"},{"name":"_maxMintTx","internalType":"uint16","type":"uint16"}],"name":"setActiveTier","outputs":[],"stateMutability":"nonpayable"}]

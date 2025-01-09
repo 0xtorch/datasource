@@ -1,0 +1,1 @@
+[{"type":"function","constant":false,"inputs":[{"name":"_heroType","type":"uint16"},{"name":"_supplyLimit","type":"uint16"}],"name":"setSupplyLimit","outputs":[],"payable":false,"stateMutability":"nonpayable"}]

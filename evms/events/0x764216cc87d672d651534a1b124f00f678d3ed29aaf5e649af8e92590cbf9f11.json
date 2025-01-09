@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"status","internalType":"enum TradingCompV1.CompetitionStatus","type":"uint8","indexed":false}],"name":"NewCompetitionStatus"}]

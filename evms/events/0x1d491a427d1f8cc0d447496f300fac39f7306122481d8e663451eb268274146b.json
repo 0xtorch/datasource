@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"recipient","type":"address","indexed":false},{"name":"value","type":"uint256","indexed":false}],"name":"UserRequestForAffirmation"}]

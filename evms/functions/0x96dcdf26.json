@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"seriesId","internalType":"bytes6","type":"bytes6"},{"name":"baseId","internalType":"bytes6","type":"bytes6"},{"name":"fyToken","internalType":"contract IFYToken","type":"address"}],"name":"addSeries","outputs":[],"stateMutability":"nonpayable"}]

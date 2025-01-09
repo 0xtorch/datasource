@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"team","internalType":"address[]","type":"address[]"},{"name":"team_shares","internalType":"uint256[]","type":"uint256[]"}],"name":"setShares","outputs":[],"stateMutability":"nonpayable"}]

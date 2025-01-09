@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"address_","internalType":"address","type":"address"},{"name":"amount","internalType":"uint256","type":"uint256"}],"name":"addAirdroppingPoints","outputs":[],"stateMutability":"nonpayable"}]

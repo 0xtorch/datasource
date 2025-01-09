@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"feeRecipient","internalType":"address","type":"address","indexed":false}],"name":"FeeRecipientSet"},{"type":"event","anonymous":false,"inputs":[{"name":"feeRecipient","internalType":"address","type":"address","indexed":true}],"name":"FeeRecipientSet"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"newMintPrice","internalType":"uint256","type":"uint256"},{"name":"isDynamic","internalType":"bool","type":"bool"}],"name":"changeMintFee","outputs":[],"stateMutability":"payable"}]

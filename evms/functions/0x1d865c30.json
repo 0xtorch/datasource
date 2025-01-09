@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"sellMarketingFee","internalType":"uint256","type":"uint256"},{"name":"sellBurnFee","internalType":"uint256","type":"uint256"},{"name":"sellLiquidityFee","internalType":"uint256","type":"uint256"}],"name":"setSellFee","outputs":[],"stateMutability":"nonpayable"}]

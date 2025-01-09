@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_implementation","internalType":"address","type":"address"},{"name":"_data","internalType":"bytes","type":"bytes"},{"name":"_index","internalType":"uint256","type":"uint256"}],"name":"createAccount","outputs":[{"name":"proxy","internalType":"address","type":"address"}],"stateMutability":"payable"}]

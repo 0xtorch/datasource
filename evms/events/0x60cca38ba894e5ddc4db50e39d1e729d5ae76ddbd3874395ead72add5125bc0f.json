@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"f","internalType":"enum DataTypes.Fees","type":"uint8","indexed":true},{"name":"fee","internalType":"uint32","type":"uint32","indexed":false}],"name":"SetFee"}]

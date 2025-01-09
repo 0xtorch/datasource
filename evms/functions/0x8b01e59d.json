@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_addresses","internalType":"address[]","type":"address[]"},{"name":"numAllowedToMint","internalType":"uint256","type":"uint256"}],"name":"setPreSaleList","outputs":[],"stateMutability":"nonpayable"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"moment","internalType":"uint256","type":"uint256"}],"name":"getRate","outputs":[{"name":"","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

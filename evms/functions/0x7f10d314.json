@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"vaultId","internalType":"uint256","type":"uint256"},{"name":"id","internalType":"uint256","type":"uint256"},{"name":"_requester","internalType":"address","type":"address"}],"name":"setRequester","outputs":[],"stateMutability":"nonpayable"}]

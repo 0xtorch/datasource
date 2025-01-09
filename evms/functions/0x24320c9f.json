@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[],"name":"getDefaultDeliveryProvider","outputs":[{"name":"deliveryProvider","internalType":"address","type":"address"}],"stateMutability":"view"}]

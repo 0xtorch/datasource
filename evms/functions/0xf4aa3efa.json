@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"allocations_","internalType":"struct Allocation[]","type":"tuple[]","components":[{"name":"index","internalType":"uint256","type":"uint256"},{"name":"amount","internalType":"uint256","type":"uint256"}]},{"name":"redistribute","internalType":"bool","type":"bool"}],"name":"changeAllocations","outputs":[],"stateMutability":"nonpayable"}]

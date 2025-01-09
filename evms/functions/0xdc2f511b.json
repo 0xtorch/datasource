@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[],"name":"getTranches","outputs":[{"name":"","internalType":"struct Tranche[]","type":"tuple[]","components":[{"name":"time","internalType":"uint128","type":"uint128"},{"name":"vestedFraction","internalType":"uint128","type":"uint128"}]}],"stateMutability":"view"}]

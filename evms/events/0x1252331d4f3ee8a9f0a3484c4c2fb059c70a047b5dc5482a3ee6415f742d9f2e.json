@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"reportTimestamp","type":"uint256","indexed":true},{"name":"preCLValidators","type":"uint256","indexed":false},{"name":"postCLValidators","type":"uint256","indexed":false}],"name":"CLValidatorsUpdated"}]

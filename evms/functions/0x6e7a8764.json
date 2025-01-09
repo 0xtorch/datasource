@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_totalSupplyCap","internalType":"uint256","type":"uint256"},{"name":"_perAccountCap","internalType":"uint256","type":"uint256"}],"name":"setupMintCap","outputs":[],"stateMutability":"nonpayable"}]

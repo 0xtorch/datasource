@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"newContract","type":"address","indexed":true}],"name":"DelegatedTo"}]

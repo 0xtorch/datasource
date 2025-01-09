@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"selector","internalType":"bytes4","type":"bytes4","indexed":false},{"name":"vId","internalType":"ValidationId","type":"bytes21","indexed":false},{"name":"allowed","internalType":"bool","type":"bool","indexed":false}],"name":"SelectorSet"}]

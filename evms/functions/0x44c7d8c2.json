@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_eventHash","internalType":"bytes32","type":"bytes32"}],"name":"isTransactedEventHash","outputs":[{"name":"","internalType":"bool","type":"bool"}],"stateMutability":"view"}]

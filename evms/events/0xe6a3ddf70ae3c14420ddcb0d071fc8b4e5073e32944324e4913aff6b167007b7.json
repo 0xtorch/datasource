@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"userId","internalType":"string","type":"string","indexed":true},{"name":"merkleRoot","internalType":"bytes32","type":"bytes32","indexed":false},{"name":"badgeCount","internalType":"uint64","type":"uint64","indexed":false}],"name":"OkapiProfileUpdated"}]

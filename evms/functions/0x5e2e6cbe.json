@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[],"name":"partialCollatParams","outputs":[{"name":"penaltyRatio","internalType":"uint256","type":"uint256"},{"name":"liquidatorFeeRatio","internalType":"uint256","type":"uint256"},{"name":"smFeeRatio","internalType":"uint256","type":"uint256"},{"name":"minLiquidationFee","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

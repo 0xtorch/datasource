@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_ticker","internalType":"bytes32","type":"bytes32"},{"name":"_vaultAddr","internalType":"address","type":"address"}],"name":"setVaultFeed","outputs":[],"stateMutability":"nonpayable"}]

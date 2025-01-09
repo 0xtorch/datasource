@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"orderHashes","internalType":"bytes32[]","type":"bytes32[]"}],"name":"orderStatusesRaw","outputs":[{"name":"remainingsRaw","internalType":"uint256[]","type":"uint256[]"},{"name":"filledAmounts","internalType":"uint256[]","type":"uint256[]"}],"stateMutability":"view"}]

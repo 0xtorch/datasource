@@ -1,0 +1,1 @@
+[{"type":"function","constant":false,"inputs":[{"name":"_sireId","internalType":"uint256","type":"uint256"},{"name":"_matronId","internalType":"uint256","type":"uint256"},{"name":"_amount","internalType":"uint256","type":"uint256"}],"name":"bidOnSiringAuction","outputs":[],"payable":false,"stateMutability":"nonpayable"}]

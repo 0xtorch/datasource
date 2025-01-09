@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"disputer","internalType":"address","type":"address","indexed":true},{"name":"requestTime","internalType":"uint256","type":"uint256","indexed":false}],"name":"RootBundleCanceled"}]

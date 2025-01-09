@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"epochId","internalType":"uint256","type":"uint256","indexed":true},{"name":"newEndTime","internalType":"uint256","type":"uint256","indexed":false},{"name":"oldEndTime","internalType":"uint256","type":"uint256","indexed":false}],"name":"EpochExtended"}]

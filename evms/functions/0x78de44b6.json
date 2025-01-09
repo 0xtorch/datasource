@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"tag","internalType":"uint8","type":"uint8"},{"name":"value","internalType":"uint256","type":"uint256"}],"name":"update","outputs":[{"name":"","internalType":"bool","type":"bool"}],"stateMutability":"nonpayable"}]

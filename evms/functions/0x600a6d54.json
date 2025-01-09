@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"","internalType":"string","type":"string"}],"name":"aggregateClaimed","outputs":[{"name":"numClaimers","internalType":"uint256","type":"uint256"},{"name":"totalClaimed","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

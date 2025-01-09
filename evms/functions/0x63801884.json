@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"newname","internalType":"string","type":"string"},{"name":"newsymbol","internalType":"string","type":"string"}],"name":"setnameandsymbol","outputs":[],"stateMutability":"nonpayable"}]

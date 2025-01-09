@@ -1,0 +1,1 @@
+[{"type":"function","constant":false,"inputs":[{"name":"beneficiary","internalType":"address","type":"address"}],"name":"setInterestFeeMasterBeneficiary","outputs":[],"payable":false,"stateMutability":"nonpayable"}]

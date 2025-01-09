@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"dstEid","internalType":"uint32","type":"uint32"}],"name":"outboundCount","outputs":[{"name":"count","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

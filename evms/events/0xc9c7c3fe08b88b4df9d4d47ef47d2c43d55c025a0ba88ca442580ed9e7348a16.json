@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"prevURI","internalType":"string","type":"string","indexed":false},{"name":"newURI","internalType":"string","type":"string","indexed":false}],"name":"ContractURIUpdated"}]

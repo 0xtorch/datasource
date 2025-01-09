@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"trackId","internalType":"uint24","type":"uint24"},{"name":"amount","internalType":"uint104","type":"uint104"}],"name":"stake","outputs":[],"stateMutability":"nonpayable"}]

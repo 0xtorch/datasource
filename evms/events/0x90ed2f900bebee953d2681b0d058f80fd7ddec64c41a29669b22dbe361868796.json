@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"newProtocol","internalType":"address","type":"address","indexed":true}],"name":"ProtocolUpdated"},{"type":"event","anonymous":false,"inputs":[{"name":"newProtocol","internalType":"contract IPokPokProtocol","type":"address","indexed":false}],"name":"ProtocolUpdated"}]

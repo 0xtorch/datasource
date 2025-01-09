@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_axieId","internalType":"uint256","type":"uint256"}],"name":"stageOf","outputs":[{"name":"","internalType":"enum IAxie.AxieStage","type":"uint8"}],"stateMutability":"view"}]

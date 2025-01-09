@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[],"name":"totalScore","outputs":[{"name":"score","internalType":"uint256","type":"uint256"},{"name":"slope","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

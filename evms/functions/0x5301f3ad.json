@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"trackId","internalType":"uint24","type":"uint24"},{"name":"blockNumber","internalType":"uint80","type":"uint80"}],"name":"getTotalStakeWeight","outputs":[{"name":"","internalType":"uint192","type":"uint192"}],"stateMutability":"view"}]

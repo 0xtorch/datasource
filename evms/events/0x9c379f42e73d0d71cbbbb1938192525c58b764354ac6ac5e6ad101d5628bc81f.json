@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"user","internalType":"address","type":"address","indexed":true},{"name":"nftLevel","internalType":"enum Minter.NFTLevel","type":"uint8","indexed":false},{"name":"pandraKingAddress","internalType":"address","type":"address","indexed":false}],"name":"NFTClaimed"}]

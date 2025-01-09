@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_l2Token","internalType":"address","type":"address"}],"name":"getL1ERC20Address","outputs":[{"name":"","internalType":"address","type":"address"}],"stateMutability":"view"}]

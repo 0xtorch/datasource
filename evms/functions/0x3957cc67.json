@@ -1,0 +1,1 @@
+[{"type":"function","constant":true,"inputs":[{"name":"_game","type":"address"},{"name":"_tokenId","type":"uint256"},{"name":"_ethPrice","type":"uint256"},{"name":"_isHightLight","type":"uint256"}],"name":"calPriceFeeHBWALLET","outputs":[{"name":"","type":"uint256"}],"payable":false,"stateMutability":"view"}]

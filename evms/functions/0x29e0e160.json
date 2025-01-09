@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"nftContract","internalType":"address","type":"address"},{"name":"tokenId","internalType":"uint256","type":"uint256"},{"name":"offerFrom","internalType":"address","type":"address"},{"name":"minAmount","internalType":"uint256","type":"uint256"}],"name":"acceptOffer","outputs":[],"stateMutability":"nonpayable"}]

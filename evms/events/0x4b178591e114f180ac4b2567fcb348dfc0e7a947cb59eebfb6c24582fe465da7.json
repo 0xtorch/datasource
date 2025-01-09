@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"editionCutoffTime_","internalType":"uint32","type":"uint32","indexed":false}],"name":"EditionCutoffTimeSet"}]

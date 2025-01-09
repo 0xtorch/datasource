@@ -1,0 +1,1 @@
+[{"type":"function","constant":false,"inputs":[{"name":"target","internalType":"address","type":"address"}],"name":"addAuthorizedToSnapshot","outputs":[],"payable":false,"stateMutability":"nonpayable"}]

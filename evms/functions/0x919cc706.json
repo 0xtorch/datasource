@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_rollup","internalType":"contract IOwnable","type":"address"}],"name":"updateRollupAddress","outputs":[],"stateMutability":"nonpayable"}]

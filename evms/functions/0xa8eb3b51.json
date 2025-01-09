@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"nearRecipientAccountId","internalType":"string","type":"string"},{"name":"fee","internalType":"uint256","type":"uint256"}],"name":"depositToNear","outputs":[],"stateMutability":"payable"}]

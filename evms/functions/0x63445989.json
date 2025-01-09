@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"","internalType":"address","type":"address"}],"name":"depositInfo","outputs":[{"name":"depositTime","internalType":"uint256","type":"uint256"},{"name":"etherBalance","internalType":"uint256","type":"uint256"},{"name":"totalERC20Balance","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

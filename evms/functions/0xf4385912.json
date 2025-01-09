@@ -1,0 +1,1 @@
+[{"type":"function","constant":true,"inputs":[{"name":"_tokenId","type":"uint256"}],"name":"getPlayerId","outputs":[{"name":"playerId","type":"uint256"}],"payable":false,"stateMutability":"view"}]

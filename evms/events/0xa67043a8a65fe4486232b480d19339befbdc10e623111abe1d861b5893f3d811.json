@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"symbol","internalType":"string","type":"string","indexed":true},{"name":"kreskoAsset","internalType":"address","type":"address","indexed":true},{"name":"from","internalType":"uint256","type":"uint256","indexed":false},{"name":"to","internalType":"uint256","type":"uint256","indexed":false}],"name":"KFactorUpdated"}]

@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"previousBuyFee","internalType":"uint256","type":"uint256","indexed":false},{"name":"newBuyFee","internalType":"uint256","type":"uint256","indexed":false}],"name":"UpdateBuyFee"}]

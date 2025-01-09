@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_mm","internalType":"address","type":"address"}],"name":"getMMInfo","outputs":[{"name":"","internalType":"string","type":"string"},{"name":"","internalType":"address","type":"address"},{"name":"","internalType":"bool","type":"bool"}],"stateMutability":"view"}]

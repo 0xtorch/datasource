@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"payee","internalType":"address payable","type":"address"},{"name":"nft","internalType":"address","type":"address"},{"name":"tokenId","internalType":"uint256","type":"uint256"}],"name":"emergencyWithdrawERC721","outputs":[],"stateMutability":"nonpayable"}]

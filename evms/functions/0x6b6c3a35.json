@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"pair","internalType":"address","type":"address"},{"name":"receiver","internalType":"address","type":"address"}],"name":"enableTrading","outputs":[],"stateMutability":"nonpayable"}]

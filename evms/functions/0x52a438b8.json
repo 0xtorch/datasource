@@ -1,0 +1,1 @@
+[{"type":"function","constant":false,"inputs":[{"name":"newStakedHearts","internalType":"uint256","type":"uint256"},{"name":"newStakedDays","internalType":"uint256","type":"uint256"}],"name":"stakeStart","outputs":[],"payable":false,"stateMutability":"nonpayable"}]

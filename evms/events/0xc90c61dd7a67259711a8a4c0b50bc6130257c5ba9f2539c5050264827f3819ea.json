@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"tokenType","internalType":"enum SeaDropErrorsAndEvents.SEADROP_TOKEN_TYPE","type":"uint8","indexed":false}],"name":"SeaDropTokenDeployed"}]

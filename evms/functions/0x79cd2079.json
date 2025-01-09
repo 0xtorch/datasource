@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"to","internalType":"address","type":"address"},{"name":"quantity","internalType":"uint8","type":"uint8"},{"name":"characterId","internalType":"uint8","type":"uint8"}],"name":"mintFollowerPublic","outputs":[],"stateMutability":"payable"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"messagingProtocolContext","internalType":"bytes","type":"bytes"},{"name":"rawMessage","internalType":"bytes","type":"bytes"},{"name":"feeRecipient","internalType":"bytes32","type":"bytes32"}],"name":"processPacket","outputs":[],"stateMutability":"payable"}]

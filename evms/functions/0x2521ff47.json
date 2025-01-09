@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_easyLength","internalType":"uint256","type":"uint256"},{"name":"_mediumLength","internalType":"uint256","type":"uint256"},{"name":"_hardLength","internalType":"uint256","type":"uint256"}],"name":"setQuestLengths","outputs":[],"stateMutability":"nonpayable"}]

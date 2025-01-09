@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"lrtConfig","internalType":"address","type":"address","indexed":true}],"name":"UpdatedLRTConfig"}]

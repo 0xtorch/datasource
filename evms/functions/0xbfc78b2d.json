@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"projectId_","internalType":"uint256","type":"uint256"},{"name":"saleType_","internalType":"uint256","type":"uint256"},{"name":"amount_","internalType":"uint256","type":"uint256"},{"name":"signature_","internalType":"bytes","type":"bytes"}],"name":"buy","outputs":[],"stateMutability":"payable"}]

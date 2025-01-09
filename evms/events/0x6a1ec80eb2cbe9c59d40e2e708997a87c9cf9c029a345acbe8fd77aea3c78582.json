@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"previousSupporter","internalType":"address","type":"address","indexed":true},{"name":"newSupporter","internalType":"address","type":"address","indexed":true}],"name":"SupportershipTransferred"}]

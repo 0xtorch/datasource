@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_earlyUnstakingEnabled","internalType":"bool","type":"bool"},{"name":"_burnWallet","internalType":"address","type":"address"}],"name":"setBurnWallet","outputs":[],"stateMutability":"nonpayable"}]

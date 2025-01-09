@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"A","type":"uint256","indexed":false},{"name":"t","type":"uint256","indexed":false}],"name":"StopRampA"}]

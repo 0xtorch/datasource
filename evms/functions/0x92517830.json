@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_stage","internalType":"uint8","type":"uint8"},{"name":"_type","internalType":"uint8","type":"uint8"},{"name":"_code","internalType":"uint256","type":"uint256"}],"name":"getCodeToLand","outputs":[{"name":"","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

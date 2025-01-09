@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"_projectId","internalType":"uint96","type":"uint96","indexed":true},{"name":"_genArtToken","internalType":"address","type":"address","indexed":true},{"name":"_owner","internalType":"address","type":"address","indexed":true}],"name":"ProjectCreated"}]

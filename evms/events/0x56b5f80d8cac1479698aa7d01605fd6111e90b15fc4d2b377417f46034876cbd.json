@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"_oldPriceOracle","internalType":"address","type":"address","indexed":false},{"name":"_newPriceOracle","internalType":"address","type":"address","indexed":false}],"name":"PriceOracleUpdated"}]

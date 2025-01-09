@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"targets","internalType":"address[]","type":"address[]"},{"name":"isApproved","internalType":"bool[]","type":"bool[]"}],"name":"setApprovedTargets","outputs":[],"stateMutability":"nonpayable"}]

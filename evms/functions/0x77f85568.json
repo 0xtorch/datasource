@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"maxAmount","internalType":"uint256","type":"uint256"}],"name":"setMintlistSaleMaxBuyAmountPerAccount","outputs":[],"stateMutability":"nonpayable"}]

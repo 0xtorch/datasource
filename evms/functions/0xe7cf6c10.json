@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_shouldConvertWethToEth","internalType":"bool","type":"bool"},{"name":"_shouldAddIntoQLP","internalType":"bool","type":"bool"}],"name":"handleRewards","outputs":[],"stateMutability":"nonpayable"}]

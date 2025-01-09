@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_nftid","internalType":"uint256","type":"uint256"}],"name":"checkMetaaniGEN","outputs":[{"name":"","internalType":"address","type":"address"}],"stateMutability":"view"}]

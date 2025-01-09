@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"account","internalType":"address","type":"address","indexed":false},{"name":"zkBridgePaused","internalType":"bool","type":"bool","indexed":false},{"name":"layerZeroPaused","internalType":"bool","type":"bool","indexed":false}],"name":"PauseSendAction"}]

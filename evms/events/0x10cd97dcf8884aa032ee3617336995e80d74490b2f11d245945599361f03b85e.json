@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"gatewayAddress","internalType":"address","type":"address","indexed":true},{"name":"soFeeAddress","internalType":"address","type":"address","indexed":true}],"name":"GatewaySoFeeSelectorsChanged"}]

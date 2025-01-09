@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_key","internalType":"string","type":"string"},{"name":"_value","internalType":"string","type":"string"}],"name":"set","outputs":[],"stateMutability":"nonpayable"}]

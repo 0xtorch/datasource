@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_word","internalType":"string","type":"string"}],"name":"inDenyList","outputs":[{"name":"","internalType":"bool","type":"bool"}],"stateMutability":"view"}]

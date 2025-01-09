@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"_eventHash","internalType":"bytes32","type":"bytes32","indexed":false},{"name":"_desired","internalType":"bool","type":"bool","indexed":false}],"name":"SetTransactedEventHash"}]

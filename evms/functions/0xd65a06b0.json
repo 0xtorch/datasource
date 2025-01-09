@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"vdodoAmount","internalType":"uint256","type":"uint256"},{"name":"all","internalType":"bool","type":"bool"}],"name":"redeem","outputs":[],"stateMutability":"nonpayable"}]

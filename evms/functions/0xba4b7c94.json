@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"reserveId","internalType":"uint256","type":"uint256"},{"name":"_rate","internalType":"uint16","type":"uint16"}],"name":"setReserveFeeRate","outputs":[],"stateMutability":"nonpayable"}]

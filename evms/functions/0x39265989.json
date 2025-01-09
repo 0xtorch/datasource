@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"marketFee","internalType":"uint256","type":"uint256"}],"name":"setMarketFeePercent","outputs":[],"stateMutability":"nonpayable"}]

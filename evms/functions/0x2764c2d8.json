@@ -1,0 +1,1 @@
+[{"type":"function","constant":false,"inputs":[{"name":"_tokenContract","type":"address"},{"name":"_destination","type":"address"},{"name":"_amount","type":"uint256"}],"name":"invokeErc20Transfer","outputs":[],"payable":false,"stateMutability":"nonpayable"}]

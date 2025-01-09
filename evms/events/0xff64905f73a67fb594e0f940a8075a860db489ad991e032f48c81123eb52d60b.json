@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"messageNum","internalType":"uint256","type":"uint256","indexed":true},{"name":"data","internalType":"bytes","type":"bytes","indexed":false}],"name":"InboxMessageDelivered"}]

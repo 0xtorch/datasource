@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"heroType","type":"uint16","indexed":true},{"name":"startPrice","type":"uint128","indexed":false},{"name":"lowestPrice","type":"uint256","indexed":false},{"name":"becomeLowestAt","type":"uint256","indexed":false}],"name":"AddSalesEvent"}]

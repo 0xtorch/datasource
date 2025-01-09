@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"id","internalType":"uint256","type":"uint256","indexed":false},{"name":"requestedAirdropCount","internalType":"uint256","type":"uint256","indexed":false},{"name":"successfulAirdropCount","internalType":"uint256","type":"uint256","indexed":false}],"name":"SxTNFTAirdropped"}]

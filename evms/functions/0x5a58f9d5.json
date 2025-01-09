@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"strategy","internalType":"address","type":"address"}],"name":"changeLiquidationStrategy","outputs":[],"stateMutability":"nonpayable"}]

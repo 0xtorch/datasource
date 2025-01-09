@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"relicAddress","internalType":"address","type":"address"},{"name":"relicTokenId","internalType":"uint256","type":"uint256"}],"name":"removeRelic","outputs":[],"stateMutability":"nonpayable"}]

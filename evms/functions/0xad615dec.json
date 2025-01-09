@@ -1,0 +1,1 @@
+[{"type":"function","constant":true,"inputs":[{"name":"_amountA","internalType":"uint256","type":"uint256"},{"name":"_reserveA","internalType":"uint256","type":"uint256"},{"name":"_reserveB","internalType":"uint256","type":"uint256"}],"name":"quote","outputs":[{"name":"_amountB","internalType":"uint256","type":"uint256"}],"payable":false,"stateMutability":"pure"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"listingId","internalType":"uint40","type":"uint40"},{"name":"addresses","internalType":"address[]","type":"address[]"},{"name":"amounts","internalType":"uint256[]","type":"uint256[]"},{"name":"maxAmount","internalType":"uint256","type":"uint256"}],"name":"accept","outputs":[],"stateMutability":"nonpayable"}]

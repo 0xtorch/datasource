@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_leverageLevel","internalType":"uint256","type":"uint256"},{"name":"_safetyFactor","internalType":"uint256","type":"uint256"},{"name":"_minMinting","internalType":"uint256","type":"uint256"},{"name":"_leverageBips","internalType":"uint256","type":"uint256"}],"name":"updateLeverage","outputs":[],"stateMutability":"nonpayable"}]

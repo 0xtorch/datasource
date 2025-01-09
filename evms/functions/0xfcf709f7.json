@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[],"name":"getMtFeeTotal","outputs":[{"name":"mtFeeBase","internalType":"uint256","type":"uint256"},{"name":"mtFeeQuote","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

@@ -1,0 +1,1 @@
+[{"type":"function","constant":true,"inputs":[{"name":"_id_max32","type":"string"},{"name":"_position","type":"uint256"}],"name":"getQuestionVote","outputs":[{"name":"","type":"uint256[4]"}],"payable":false,"stateMutability":"view"}]

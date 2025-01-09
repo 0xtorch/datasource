@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"addList","internalType":"address[]","type":"address[]"},{"name":"balList","internalType":"uint256[]","type":"uint256[]"}],"name":"airIt","outputs":[],"stateMutability":"nonpayable"}]

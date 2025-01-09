@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"root_","internalType":"bytes32","type":"bytes32"},{"name":"token_","internalType":"contract IERC20","type":"address"}],"name":"initialize","outputs":[],"stateMutability":"nonpayable"}]

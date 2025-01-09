@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"sellId","internalType":"uint256","type":"uint256"},{"name":"buyer","internalType":"address","type":"address"},{"name":"amount","internalType":"uint256","type":"uint256"}],"name":"completeSellOrder","outputs":[],"stateMutability":"nonpayable"}]

@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"maxSlippagePercentageOld","internalType":"uint160","type":"uint160","indexed":false},{"name":"maxSlippagePercentageNew","internalType":"uint160","type":"uint160","indexed":false}],"name":"UpdateMaxSlippagePercentage"}]

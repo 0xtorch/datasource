@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_lpYield","internalType":"uint256","type":"uint256"},{"name":"_traderYield","internalType":"uint256","type":"uint256"}],"name":"recieveBlastYield","outputs":[],"stateMutability":"nonpayable"}]

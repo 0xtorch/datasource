@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"steakId","internalType":"uint256","type":"uint256"},{"name":"quantity","internalType":"uint256","type":"uint256"},{"name":"charitable","internalType":"bool","type":"bool"}],"name":"redeemSteak","outputs":[],"stateMutability":"payable"}]

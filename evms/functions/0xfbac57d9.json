@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"id","internalType":"uint256","type":"uint256"}],"name":"personality","outputs":[{"name":"res","internalType":"uint8[8]","type":"uint8[8]"}],"stateMutability":"view"}]

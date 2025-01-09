@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"auctionId","internalType":"uint256","type":"uint256"},{"name":"order","internalType":"bytes32","type":"bytes32"}],"name":"containsOrder","outputs":[{"name":"","internalType":"bool","type":"bool"}],"stateMutability":"view"}]

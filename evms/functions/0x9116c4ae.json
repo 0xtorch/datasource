@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_aumAddition","internalType":"uint256","type":"uint256"},{"name":"_aumDeduction","internalType":"uint256","type":"uint256"}],"name":"setAumAdjustment","outputs":[],"stateMutability":"nonpayable"}]

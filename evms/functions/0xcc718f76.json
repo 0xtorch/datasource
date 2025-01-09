@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"","internalType":"Id","type":"bytes32"}],"name":"config","outputs":[{"name":"cap","internalType":"uint184","type":"uint184"},{"name":"enabled","internalType":"bool","type":"bool"},{"name":"removableAt","internalType":"uint64","type":"uint64"}],"stateMutability":"view"}]

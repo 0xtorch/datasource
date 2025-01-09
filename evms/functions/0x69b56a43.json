@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"checkpoint","internalType":"uint256","type":"uint256"},{"name":"uri","internalType":"string","type":"string"}],"name":"addCheckpoint","outputs":[],"stateMutability":"nonpayable"}]

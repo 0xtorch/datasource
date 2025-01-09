@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"functionSelector","internalType":"bytes4","type":"bytes4"}],"name":"canSkipChainIdValidation","outputs":[{"name":"","internalType":"bool","type":"bool"}],"stateMutability":"pure"}]

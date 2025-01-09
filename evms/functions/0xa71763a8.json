@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"moduleType","internalType":"uint256","type":"uint256"},{"name":"module","internalType":"address","type":"address"},{"name":"deInitData","internalType":"bytes","type":"bytes"}],"name":"uninstallModule","outputs":[],"stateMutability":"payable"}]

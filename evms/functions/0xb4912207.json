@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"registry_","internalType":"contract IReadMetadata","type":"address"}],"name":"setNewRegistry","outputs":[],"stateMutability":"nonpayable"}]

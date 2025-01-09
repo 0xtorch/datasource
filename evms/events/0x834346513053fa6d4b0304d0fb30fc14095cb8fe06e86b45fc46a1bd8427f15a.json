@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"shareBonusBPPer1MTokens","internalType":"uint32","type":"uint32","indexed":false}],"name":"SetShareBonusBPPer1MTokens"}]

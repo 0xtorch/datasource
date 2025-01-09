@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_amountPet","internalType":"uint256","type":"uint256"},{"name":"_petType","internalType":"uint256","type":"uint256"}],"name":"buyNftByPet","outputs":[],"stateMutability":"nonpayable"}]

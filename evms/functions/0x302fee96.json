@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"token","internalType":"address","type":"address"},{"name":"bridgeFee","internalType":"uint256","type":"uint256"},{"name":"minFee","internalType":"uint256","type":"uint256"},{"name":"maxFee","internalType":"uint256","type":"uint256"}],"name":"setTokenFee","outputs":[],"stateMutability":"nonpayable"}]

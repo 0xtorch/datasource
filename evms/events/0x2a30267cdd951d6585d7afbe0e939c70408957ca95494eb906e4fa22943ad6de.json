@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"message","internalType":"bytes","type":"bytes","indexed":false},{"name":"attestation","internalType":"bytes","type":"bytes","indexed":false}],"name":"FailedReceiveMessage"}]

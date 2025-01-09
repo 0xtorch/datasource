@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"sender","type":"address","indexed":true},{"name":"amount","type":"uint256","indexed":false},{"name":"referral","type":"address","indexed":false}],"name":"Submitted"}]

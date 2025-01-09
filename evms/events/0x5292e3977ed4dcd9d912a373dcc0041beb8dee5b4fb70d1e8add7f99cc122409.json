@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"primaryFee","internalType":"uint16","type":"uint16","indexed":false},{"name":"secondaryFee","internalType":"uint16","type":"uint16","indexed":false}],"name":"DefaultFeesUpdated"}]

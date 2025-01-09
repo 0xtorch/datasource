@@ -1,0 +1,1 @@
+[{"type":"function","constant":false,"inputs":[{"name":"to","type":"address"},{"name":"addAddr","type":"address"},{"name":"addAmount","type":"uint256"}],"name":"CheckChangePlatformFlagAndAddAccountsInfo","outputs":[],"payable":false,"stateMutability":"nonpayable"}]

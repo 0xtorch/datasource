@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_oracles","internalType":"address[]","type":"address[]"},{"name":"_required","internalType":"bool[]","type":"bool[]"}],"name":"addOracles","outputs":[],"stateMutability":"nonpayable"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"usdtAmount","internalType":"uint256","type":"uint256"},{"name":"minDAIAmount","internalType":"uint256","type":"uint256"}],"name":"depositUSDT","outputs":[],"stateMutability":"nonpayable"}]

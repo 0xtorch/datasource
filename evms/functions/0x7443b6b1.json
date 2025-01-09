@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"oldImplementation","internalType":"address","type":"address"},{"name":"newBondStart","internalType":"uint256","type":"uint256"}],"name":"patch","outputs":[],"stateMutability":"nonpayable"}]

@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"disabler","internalType":"address","type":"address","indexed":true}],"name":"DepositsDisabled"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"token","internalType":"contract ISuperToken","type":"address"},{"name":"account","internalType":"address","type":"address"}],"name":"getAccountFlowrate","outputs":[{"name":"flowrate","internalType":"int96","type":"int96"}],"stateMutability":"view"}]

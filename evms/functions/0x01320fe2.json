@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"","internalType":"address","type":"address"}],"name":"cooldowns","outputs":[{"name":"cooldownEnd","internalType":"uint104","type":"uint104"},{"name":"underlyingAmount","internalType":"uint152","type":"uint152"}],"stateMutability":"view"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"forgeId","internalType":"uint256","type":"uint256"}],"name":"calculateContributionUsdc","outputs":[{"name":"contrib","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

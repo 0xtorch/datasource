@@ -1,0 +1,1 @@
+[{"type":"function","constant":false,"gas":12965,"inputs":[{"name":"min_tokens","type":"uint256"},{"name":"deadline","type":"uint256"},{"name":"recipient","type":"address"}],"name":"ethToTokenTransferInput","outputs":[{"name":"out","type":"uint256"}],"payable":true,"stateMutability":"payable"}]

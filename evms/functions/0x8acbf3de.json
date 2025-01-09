@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"account","internalType":"address","type":"address"},{"name":"reward","internalType":"contract ERC20","type":"address"}],"name":"allClaimable","outputs":[{"name":"unclaimedRewards","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

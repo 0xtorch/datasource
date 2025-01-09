@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_dstEid","internalType":"uint32","type":"uint32"},{"name":"_index","internalType":"uint16","type":"uint16"}],"name":"getPassengerHash","outputs":[{"name":"hash","internalType":"bytes32","type":"bytes32"}],"stateMutability":"view"}]

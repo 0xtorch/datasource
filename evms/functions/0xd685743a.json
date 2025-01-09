@@ -1,0 +1,1 @@
+[{"type":"function","constant":false,"inputs":[{"name":"currencyKey","internalType":"bytes32","type":"bytes32"},{"name":"currencyRate","internalType":"uint256","type":"uint256"}],"name":"updateCachedSynthDebtWithRate","outputs":[],"payable":false,"stateMutability":"nonpayable"}]

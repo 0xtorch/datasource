@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"","internalType":"address","type":"address"}],"name":"thresholdConfig","outputs":[{"name":"opened","internalType":"bool","type":"bool"},{"name":"amount","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

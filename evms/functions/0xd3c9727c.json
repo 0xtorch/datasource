@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"inputAmount","internalType":"uint256","type":"uint256"},{"name":"minOutputAmount","internalType":"uint256","type":"uint256"},{"name":"deadline","internalType":"uint256","type":"uint256"}],"name":"sell","outputs":[{"name":"outputAmount","internalType":"uint256","type":"uint256"}],"stateMutability":"nonpayable"}]

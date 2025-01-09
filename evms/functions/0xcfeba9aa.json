@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"ambId_","internalType":"uint8","type":"uint8"},{"name":"nativeValue_","internalType":"uint256","type":"uint256"},{"name":"data_","internalType":"bytes","type":"bytes"}],"name":"treatAMB","outputs":[],"stateMutability":"nonpayable"}]

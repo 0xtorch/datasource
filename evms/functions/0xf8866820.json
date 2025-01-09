@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"batch1","internalType":"uint256","type":"uint256"},{"name":"batch2","internalType":"uint256","type":"uint256"}],"name":"settle16","outputs":[],"stateMutability":"nonpayable"}]

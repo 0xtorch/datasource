@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"buyer","internalType":"address","type":"address","indexed":false},{"name":"boxType","internalType":"uint256","type":"uint256","indexed":false},{"name":"requestId","internalType":"bytes32","type":"bytes32","indexed":false}],"name":"NewPurchase"}]

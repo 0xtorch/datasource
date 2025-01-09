@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"exhibitionId","internalType":"uint256","type":"uint256"},{"name":"curator","internalType":"address","type":"address"}],"name":"worldsMigrateExhibition","outputs":[{"name":"name","internalType":"string","type":"string"},{"name":"takeRateInBasisPoints","internalType":"uint16","type":"uint16"}],"stateMutability":"nonpayable"}]

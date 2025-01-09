@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_tokenId","internalType":"uint256","type":"uint256"},{"name":"_constellation","internalType":"enum Constellation","type":"uint8"},{"name":"_to","internalType":"uint8","type":"uint8"}],"name":"increaseConstellationRank","outputs":[],"stateMutability":"nonpayable"}]

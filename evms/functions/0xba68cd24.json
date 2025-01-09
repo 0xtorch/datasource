@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"id","internalType":"uint256","type":"uint256"},{"name":"newTokenERC20Price","internalType":"uint256","type":"uint256"}],"name":"setTokenERC20Price","outputs":[],"stateMutability":"nonpayable"}]

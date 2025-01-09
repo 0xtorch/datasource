@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"_connectorToken","type":"address","indexed":true},{"name":"_tokenSupply","type":"uint256","indexed":false},{"name":"_connectorBalance","type":"uint256","indexed":false},{"name":"_connectorWeight","type":"uint32","indexed":false}],"name":"PriceDataUpdate"}]

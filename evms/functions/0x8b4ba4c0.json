@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"index_","internalType":"uint256","type":"uint256"},{"name":"voltAmountIn","internalType":"uint256","type":"uint256"},{"name":"maxPrice","internalType":"uint256","type":"uint256"}],"name":"zapIn","outputs":[],"stateMutability":"nonpayable"}]

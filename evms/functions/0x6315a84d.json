@@ -1,0 +1,1 @@
+[{"type":"function","constant":false,"inputs":[{"name":"_factory","internalType":"address","type":"address"},{"name":"_mythic","internalType":"uint16","type":"uint16"}],"name":"approveForMythic","outputs":[],"payable":false,"stateMutability":"nonpayable"}]

@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"admin","internalType":"address","type":"address","indexed":true},{"name":"oldNFTDescriptor","internalType":"contract ISablierV2NFTDescriptor","type":"address","indexed":false},{"name":"newNFTDescriptor","internalType":"contract ISablierV2NFTDescriptor","type":"address","indexed":false}],"name":"SetNFTDescriptor"}]

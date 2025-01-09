@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_messageId","internalType":"bytes32","type":"bytes32"},{"name":"_destinationDomain","internalType":"uint32","type":"uint32"},{"name":"_gasLimit","internalType":"uint256","type":"uint256"},{"name":"_refundAddress","internalType":"address","type":"address"}],"name":"payForGas","outputs":[],"stateMutability":"payable"}]

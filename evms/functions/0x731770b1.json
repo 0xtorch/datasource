@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"cenLat_","internalType":"int8","type":"int8"},{"name":"cenLon_","internalType":"int8","type":"int8"},{"name":"radius_","internalType":"int8","type":"int8"}],"name":"setLocationStatus","outputs":[],"stateMutability":"nonpayable"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[],"name":"defaultMinters","outputs":[{"name":"minters","internalType":"contract IMinter1155[]","type":"address[]"}],"stateMutability":"view"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_callers","internalType":"address[]","type":"address[]"},{"name":"_ok","internalType":"bool","type":"bool"}],"name":"setWhitelistedCheckpointCallers","outputs":[],"stateMutability":"nonpayable"}]

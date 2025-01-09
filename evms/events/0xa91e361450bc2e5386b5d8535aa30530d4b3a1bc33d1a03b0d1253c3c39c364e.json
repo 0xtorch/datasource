@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"_token","internalType":"address","type":"address","indexed":false},{"name":"oldStatus","internalType":"enum Monoswap.PoolStatus","type":"uint8","indexed":false},{"name":"newStatus","internalType":"enum Monoswap.PoolStatus","type":"uint8","indexed":false}],"name":"PoolStatusChanged"}]

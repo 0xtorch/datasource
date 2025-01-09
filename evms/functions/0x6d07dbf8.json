@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"implementationType","internalType":"bytes32","type":"bytes32"},{"name":"collectionId","internalType":"bytes32","type":"bytes32"}],"name":"predictDeterministicAddress","outputs":[{"name":"","internalType":"address","type":"address"}],"stateMutability":"view"}]

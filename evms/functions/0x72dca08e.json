@@ -1,0 +1,1 @@
+[{"type":"function","constant":false,"inputs":[{"name":"_max","internalType":"uint64","type":"uint64"}],"name":"setMaxLockup","outputs":[],"payable":false,"stateMutability":"nonpayable"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"amounts","internalType":"uint256[]","type":"uint256[]"},{"name":"metadataURIs","internalType":"string[]","type":"string[]"},{"name":"data","internalType":"bytes","type":"bytes"}],"name":"whitelistMintBatch","outputs":[{"name":"","internalType":"uint256[]","type":"uint256[]"}],"stateMutability":"nonpayable"}]

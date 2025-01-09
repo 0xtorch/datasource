@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"mintFeeBP","internalType":"uint256","type":"uint256","indexed":false}],"name":"FeesUpdated"},{"type":"event","anonymous":false,"inputs":[{"name":"newFees","internalType":"uint256","type":"uint256","indexed":true}],"name":"FeesUpdated"}]

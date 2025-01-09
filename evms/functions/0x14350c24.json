@@ -1,0 +1,1 @@
+[{"type":"function","constant":false,"inputs":[{"name":"newMinimumMakerProtocolFee","type":"uint256"}],"name":"changeMinimumMakerProtocolFee","outputs":[],"payable":false,"stateMutability":"nonpayable"}]

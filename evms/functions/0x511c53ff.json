@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"a","internalType":"uint256","type":"uint256"},{"name":"b","internalType":"uint256","type":"uint256"}],"name":"hash2","outputs":[{"name":"poseidonHash","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

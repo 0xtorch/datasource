@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"","internalType":"address","type":"address"},{"name":"","internalType":"uint32","type":"uint32"}],"name":"capacitors__","outputs":[{"name":"","internalType":"contract ICapacitor","type":"address"}],"stateMutability":"view"}]

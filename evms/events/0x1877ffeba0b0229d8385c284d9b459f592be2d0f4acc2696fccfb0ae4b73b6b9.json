@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"newRegistrarController","internalType":"address","type":"address","indexed":true}],"name":"RegistrarControllerUpdated"}]

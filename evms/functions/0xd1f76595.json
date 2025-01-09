@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_lender","internalType":"address","type":"address"},{"name":"_loanType","internalType":"bytes32","type":"bytes32"}],"name":"registerLoan","outputs":[{"name":"","internalType":"uint32","type":"uint32"}],"stateMutability":"nonpayable"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"token","internalType":"contract ERC20","type":"address"},{"name":"amount","internalType":"uint256","type":"uint256"}],"name":"withdrawERC20ProtocolFees","outputs":[],"stateMutability":"nonpayable"}]

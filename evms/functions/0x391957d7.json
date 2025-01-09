@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"newBorrowCapGuardian","internalType":"address","type":"address"}],"name":"_setBorrowCapGuardian","outputs":[],"stateMutability":"nonpayable"}]

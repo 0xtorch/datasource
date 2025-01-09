@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"fyTokenTo","internalType":"address","type":"address"},{"name":"baseTo","internalType":"address","type":"address"}],"name":"buyFYToken","outputs":[{"name":"soldFYToken","internalType":"uint256","type":"uint256"},{"name":"returnedBase","internalType":"uint256","type":"uint256"}],"stateMutability":"nonpayable"}]

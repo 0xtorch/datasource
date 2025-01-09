@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"newFxChild","internalType":"address","type":"address","indexed":true}],"name":"SetFxChild"}]

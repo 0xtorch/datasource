@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_isPaused","internalType":"bool","type":"bool"}],"name":"setIsPausedForAllMarkets","outputs":[],"stateMutability":"nonpayable"}]

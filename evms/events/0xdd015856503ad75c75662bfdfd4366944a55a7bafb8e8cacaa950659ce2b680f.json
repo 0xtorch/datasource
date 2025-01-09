@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"sendTo","type":"address","indexed":true},{"name":"result","type":"uint8","indexed":false},{"name":"amount","type":"uint256","indexed":false}],"name":"EventWithdrawEther"}]

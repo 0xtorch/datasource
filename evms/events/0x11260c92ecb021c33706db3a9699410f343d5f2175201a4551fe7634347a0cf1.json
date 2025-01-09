@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"symbol","internalType":"string","type":"string","indexed":false}],"name":"TokenFrozen"}]

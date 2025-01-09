@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"tokenId","internalType":"uint256","type":"uint256"}],"name":"getLayers","outputs":[{"name":"","internalType":"uint256[5]","type":"uint256[5]"}],"stateMutability":"view"}]

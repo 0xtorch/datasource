@@ -1,0 +1,1 @@
+[{"type":"function","constant":false,"inputs":[{"name":"_to","type":"address"},{"name":"_amount","type":"uint256"},{"name":"_releaseTime","type":"uint256"}],"name":"mintWithTimeLock","outputs":[{"name":"","type":"bool"}],"payable":false,"stateMutability":"nonpayable"}]

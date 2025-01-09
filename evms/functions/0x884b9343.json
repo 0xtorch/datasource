@@ -1,0 +1,1 @@
+[{"type":"function","constant":false,"inputs":[{"name":"borrowAmount","internalType":"uint256","type":"uint256"}],"name":"borrowNative","outputs":[{"name":"","internalType":"uint256","type":"uint256"}],"payable":false,"stateMutability":"nonpayable"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"mayanProtocol","internalType":"address","type":"address"},{"name":"protocolData","internalType":"bytes","type":"bytes"}],"name":"forwardEth","outputs":[],"stateMutability":"payable"}]

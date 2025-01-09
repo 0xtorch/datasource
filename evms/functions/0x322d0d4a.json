@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_lpToken","internalType":"contract IBEP20","type":"address"}],"name":"checkPoolDuplicate","outputs":[],"stateMutability":"view"}]

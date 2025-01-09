@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_cal","internalType":"contract IContractAllowListProxy","type":"address"}],"name":"setCalContract","outputs":[],"stateMutability":"nonpayable"}]

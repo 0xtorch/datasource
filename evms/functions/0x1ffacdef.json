@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"from","internalType":"address","type":"address"},{"name":"isAllowedFrom","internalType":"bool","type":"bool"}],"name":"setAllowedFrom","outputs":[],"stateMutability":"nonpayable"}]

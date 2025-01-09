@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_chainId","internalType":"uint256","type":"uint256"}],"name":"getBatchGlobalMetadataByChainId","outputs":[{"name":"","internalType":"bytes27","type":"bytes27"}],"stateMutability":"view"}]

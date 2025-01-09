@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"signature","internalType":"bytes","type":"bytes"},{"name":"tokens","internalType":"uint256[]","type":"uint256[]"}],"name":"claimAllSummer","outputs":[],"stateMutability":"payable"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"","internalType":"uint16","type":"uint16"}],"name":"blockUpdaters","outputs":[{"name":"","internalType":"contract IBlockUpdater","type":"address"}],"stateMutability":"view"}]

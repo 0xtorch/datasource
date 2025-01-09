@@ -1,0 +1,1 @@
+[{"type":"function","constant":true,"inputs":[],"name":"kycRegistry","outputs":[{"name":"","internalType":"contract IKYCRegistry","type":"address"}],"payable":false,"stateMutability":"view"}]

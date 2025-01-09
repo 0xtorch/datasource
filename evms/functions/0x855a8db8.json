@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"inventoryType","internalType":"string","type":"string"},{"name":"price","internalType":"uint256","type":"uint256"},{"name":"firstId","internalType":"uint256","type":"uint256"},{"name":"numTokens","internalType":"uint256","type":"uint256"}],"name":"setInventoryTypeConfig","outputs":[],"stateMutability":"nonpayable"}]

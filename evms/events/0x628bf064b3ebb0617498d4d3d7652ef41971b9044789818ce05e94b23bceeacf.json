@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"oldShare","internalType":"uint256","type":"uint256","indexed":false},{"name":"newShare","internalType":"uint256","type":"uint256","indexed":false}],"name":"NewBeJoeShare"}]

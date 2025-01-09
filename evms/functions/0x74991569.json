@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"dynamicVesting","internalType":"address","type":"address"}],"name":"setVestingContract","outputs":[],"stateMutability":"nonpayable"}]

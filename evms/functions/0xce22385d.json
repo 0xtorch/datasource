@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_hiddenURI","internalType":"string","type":"string"},{"name":"_name_","internalType":"string","type":"string"},{"name":"_symbol_","internalType":"string","type":"string"},{"name":"_totalSupply","internalType":"uint256","type":"uint256"}],"name":"_erc721Initializer","outputs":[],"stateMutability":"nonpayable"}]

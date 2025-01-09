@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_addr","internalType":"address","type":"address"}],"name":"getJailedTimeLeft","outputs":[{"name":"isJailed_","internalType":"bool","type":"bool"},{"name":"blockLeft_","internalType":"uint256","type":"uint256"},{"name":"epochLeft_","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

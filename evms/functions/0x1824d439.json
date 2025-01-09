@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_pool","internalType":"address","type":"address"},{"name":"_newRouter","internalType":"address","type":"address"}],"name":"setPoolRouter","outputs":[],"stateMutability":"nonpayable"}]

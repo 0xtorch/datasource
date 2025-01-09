@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"","internalType":"uint256","type":"uint256"}],"name":"changeWaterHistories","outputs":[{"name":"changer","internalType":"address","type":"address"},{"name":"changedAt","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

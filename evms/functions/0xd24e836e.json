@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"isUsdcCompound","internalType":"bool","type":"bool"},{"name":"isEsVKACompound","internalType":"bool","type":"bool"}],"name":"claimWithCompound","outputs":[],"stateMutability":"nonpayable"}]

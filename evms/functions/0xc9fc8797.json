@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_tokenHash","internalType":"bytes32","type":"bytes32"},{"name":"_allowed","internalType":"bool","type":"bool"}],"name":"setAllowedToken","outputs":[],"stateMutability":"nonpayable"}]

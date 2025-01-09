@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_controlledToken","internalType":"contract ControlledTokenInterface","type":"address"}],"name":"addControlledToken","outputs":[],"stateMutability":"nonpayable"}]

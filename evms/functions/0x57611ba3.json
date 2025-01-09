@@ -1,0 +1,1 @@
+[{"type":"function","constant":false,"inputs":[{"name":"drawingId","type":"uint256"},{"name":"printIndex","type":"uint256"},{"name":"minSalePriceInWei","type":"uint256"},{"name":"toAddress","type":"address"}],"name":"offerCollectibleForSaleToAddress","outputs":[],"payable":false,"stateMutability":"nonpayable"}]

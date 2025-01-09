@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_token","internalType":"address","type":"address"},{"name":"_impl","internalType":"address","type":"address"},{"name":"_minCashThreshold","internalType":"uint256","type":"uint256"}],"name":"initializeInterest","outputs":[],"stateMutability":"nonpayable"}]

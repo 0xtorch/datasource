@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"newDuration","internalType":"uint256","type":"uint256","indexed":false},{"name":"prevDuration","internalType":"uint256","type":"uint256","indexed":false}],"name":"UnbondingPeriodChanged"}]

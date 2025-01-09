@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_feeBps","internalType":"uint256","type":"uint256"}],"name":"setInstantWithdrawalFeeBps","outputs":[],"stateMutability":"nonpayable"}]

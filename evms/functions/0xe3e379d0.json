@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"privateSaleStatus","internalType":"bool","type":"bool"},{"name":"preSaleStatus","internalType":"bool","type":"bool"},{"name":"publicSaleStatus","internalType":"bool","type":"bool"}],"name":"updateOpenstatus","outputs":[],"stateMutability":"nonpayable"}]

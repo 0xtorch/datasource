@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_platformFee","internalType":"uint256","type":"uint256"},{"name":"_platformFeeRecipient","internalType":"address","type":"address"}],"name":"setPlatformFee","outputs":[],"stateMutability":"nonpayable"}]

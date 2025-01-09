@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"oldBasketsNeeded","internalType":"uint192","type":"uint192","indexed":false},{"name":"newBasketsNeeded","internalType":"uint192","type":"uint192","indexed":false}],"name":"BasketsNeededChanged"}]

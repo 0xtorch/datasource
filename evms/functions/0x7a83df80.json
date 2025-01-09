@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"role_","internalType":"bytes32","type":"bytes32"}],"name":"isNonWatcherRole","outputs":[{"name":"","internalType":"bool","type":"bool"}],"stateMutability":"pure"}]

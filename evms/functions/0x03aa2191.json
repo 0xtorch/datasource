@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"id","internalType":"uint256","type":"uint256"},{"name":"date","internalType":"uint256","type":"uint256"}],"name":"setUnlockDateForSBT","outputs":[],"stateMutability":"nonpayable"}]

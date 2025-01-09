@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[],"name":"getInfos","outputs":[{"name":"_type","internalType":"uint256","type":"uint256"},{"name":"_name","internalType":"string","type":"string"},{"name":"_symbol","internalType":"string","type":"string"},{"name":"_supply","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

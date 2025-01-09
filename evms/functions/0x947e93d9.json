@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"id","internalType":"uint256","type":"uint256"}],"name":"readSettings","outputs":[{"name":"bkg","internalType":"uint8","type":"uint8"},{"name":"duration","internalType":"uint8","type":"uint8"},{"name":"options","internalType":"uint8","type":"uint8"}],"stateMutability":"view"}]

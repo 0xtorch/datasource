@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"vaultId","internalType":"uint256","type":"uint256"},{"name":"_isFinalized","internalType":"bool","type":"bool"}],"name":"setIsFinalized","outputs":[],"stateMutability":"nonpayable"}]

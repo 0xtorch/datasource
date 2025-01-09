@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"newChainId","internalType":"uint8","type":"uint8"}],"name":"updateChainId","outputs":[{"name":"success","internalType":"bool","type":"bool"}],"stateMutability":"nonpayable"}]

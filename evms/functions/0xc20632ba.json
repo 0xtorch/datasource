@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_lptoken","internalType":"contract IERC20","type":"address"},{"name":"_GDlptoken","internalType":"contract GDtoken","type":"address"},{"name":"_fees","internalType":"uint256","type":"uint256"},{"name":"_apr","internalType":"uint256","type":"uint256"}],"name":"addPool","outputs":[],"stateMutability":"nonpayable"}]

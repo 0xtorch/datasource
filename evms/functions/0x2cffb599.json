@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_tradingOn","internalType":"bool","type":"bool"},{"name":"_sellingOn","internalType":"bool","type":"bool"},{"name":"_limitOn","internalType":"bool","type":"bool"},{"name":"_maxHoldingAmount","internalType":"uint256","type":"uint256"}],"name":"setRule","outputs":[],"stateMutability":"nonpayable"}]

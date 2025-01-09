@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"oldGuardian","internalType":"address","type":"address","indexed":false},{"name":"newGuardian","internalType":"address","type":"address","indexed":false}],"name":"WhitelistGuardianSet"}]

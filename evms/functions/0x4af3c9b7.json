@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_user","internalType":"address","type":"address"},{"name":"_pids","internalType":"uint8[]","type":"uint8[]"}],"name":"viewUserInfo","outputs":[{"name":"","internalType":"uint256[]","type":"uint256[]"},{"name":"","internalType":"bool[]","type":"bool[]"}],"stateMutability":"view"}]

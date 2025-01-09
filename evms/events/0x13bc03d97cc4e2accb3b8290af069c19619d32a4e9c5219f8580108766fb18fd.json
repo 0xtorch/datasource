@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"edition","internalType":"address","type":"address","indexed":true},{"name":"mintId","internalType":"uint128","type":"uint128","indexed":false},{"name":"startTime","internalType":"uint32","type":"uint32","indexed":false},{"name":"endTime","internalType":"uint32","type":"uint32","indexed":false}],"name":"TimeRangeSet"}]

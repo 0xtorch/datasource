@@ -1,0 +1,1 @@
+[{"type":"function","gas":1515,"inputs":[{"name":"_address","type":"address"}],"name":"checkWhenLast_USER_Transaction","outputs":[{"name":"","type":"uint256"}],"stateMutability":"view"}]

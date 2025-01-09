@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"encodedPayload","internalType":"bytes","type":"bytes"}],"name":"parseUpgradeContractPayload","outputs":[{"name":"uc","internalType":"struct PythGovernanceInstructions.UpgradeContractPayload","type":"tuple","components":[{"name":"newImplementation","internalType":"address","type":"address"}]}],"stateMutability":"pure"}]

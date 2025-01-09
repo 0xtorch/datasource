@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"withdrawals","internalType":"uint256[]","type":"uint256[]"},{"name":"signatures","internalType":"bytes[]","type":"bytes[]"}],"name":"bulkSubmitWithdrawalSignatures","outputs":[],"stateMutability":"nonpayable"}]

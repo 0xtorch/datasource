@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"roundId","internalType":"uint256","type":"uint256"},{"name":"users","internalType":"address[]","type":"address[]"},{"name":"amounts","internalType":"uint256[]","type":"uint256[]"}],"name":"stakeUsers","outputs":[],"stateMutability":"nonpayable"}]

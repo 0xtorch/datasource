@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"","internalType":"address","type":"address"}],"name":"redeemRequests","outputs":[{"name":"requestRound","internalType":"uint256","type":"uint256"},{"name":"requestShares","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

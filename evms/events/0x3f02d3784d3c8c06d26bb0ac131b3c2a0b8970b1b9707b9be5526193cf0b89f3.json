@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"protocolFeeManager","internalType":"address","type":"address","indexed":true}],"name":"NewProtocolFeeManager"}]

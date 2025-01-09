@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"packName","internalType":"string","type":"string"},{"name":"packSlug","internalType":"string","type":"string"}],"name":"changePackDetails","outputs":[],"stateMutability":"nonpayable"}]

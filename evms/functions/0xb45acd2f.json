@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_newPurchaseHook","internalType":"contract IPurchaseHook","type":"address"}],"name":"setPurchaseHook","outputs":[],"stateMutability":"nonpayable"}]

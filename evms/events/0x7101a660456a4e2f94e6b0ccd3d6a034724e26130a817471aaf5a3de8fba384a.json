@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"status","internalType":"enum IBaseToken.Status","type":"uint8","indexed":true}],"name":"StatusUpdated"}]

@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"tokenIn","internalType":"address","type":"address","indexed":true},{"name":"provider","internalType":"address","type":"address","indexed":true}],"name":"LogTokenAdded"}]

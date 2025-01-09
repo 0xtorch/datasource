@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_controller","internalType":"address","type":"address"},{"name":"_action","internalType":"bytes4","type":"bytes4"}],"name":"isApprovedController","outputs":[{"name":"","internalType":"bool","type":"bool"}],"stateMutability":"view"}]

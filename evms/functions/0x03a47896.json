@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[],"name":"getAllCats","outputs":[{"name":"","internalType":"struct SmartCatProxyV3.AllCatListItem[]","type":"tuple[]","components":[{"name":"tokenId","internalType":"uint256","type":"uint256"},{"name":"owner","internalType":"address","type":"address"},{"name":"level","internalType":"uint8","type":"uint8"}]}],"stateMutability":"view"}]

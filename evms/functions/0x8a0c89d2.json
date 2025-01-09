@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_allocPoint","internalType":"uint256","type":"uint256"},{"name":"_lpToken","internalType":"contract IBEP20","type":"address"},{"name":"__lastRewardBlock","internalType":"uint256","type":"uint256"},{"name":"__fee","internalType":"uint256","type":"uint256"}],"name":"add","outputs":[],"stateMutability":"nonpayable"}]

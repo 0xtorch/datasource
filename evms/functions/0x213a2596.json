@@ -1,0 +1,1 @@
+[{"type":"function","constant":false,"inputs":[{"name":"params","type":"tuple[]","components":[{"name":"tokenPairID","type":"uint256"},{"name":"contractFee","type":"uint256"}]}],"name":"setTokenPairFees","outputs":[],"payable":false,"stateMutability":"nonpayable"}]

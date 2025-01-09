@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_to","internalType":"address","type":"address"},{"name":"_letter","internalType":"bytes32","type":"bytes32"}],"name":"sendLetter","outputs":[],"stateMutability":"nonpayable"}]

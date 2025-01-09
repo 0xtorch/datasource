@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"contract_","internalType":"address","type":"address"},{"name":"tokenId","internalType":"uint256","type":"uint256"},{"name":"recoverer","internalType":"address","type":"address"}],"name":"setERC721Recoverable","outputs":[],"stateMutability":"nonpayable"}]

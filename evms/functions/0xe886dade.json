@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"erc721Address","internalType":"address","type":"address"},{"name":"to","internalType":"address[]","type":"address[]"},{"name":"tokenId","internalType":"uint256[]","type":"uint256[]"}],"name":"bulkTransfer","outputs":[],"stateMutability":"nonpayable"}]

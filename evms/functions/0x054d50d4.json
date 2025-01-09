@@ -1,0 +1,1 @@
+[{"type":"function","constant":true,"inputs":[{"name":"_amountIn","internalType":"uint256","type":"uint256"},{"name":"_reserveIn","internalType":"uint256","type":"uint256"},{"name":"_reserveOut","internalType":"uint256","type":"uint256"}],"name":"getAmountOut","outputs":[{"name":"_amountOut","internalType":"uint256","type":"uint256"}],"payable":false,"stateMutability":"pure"}]

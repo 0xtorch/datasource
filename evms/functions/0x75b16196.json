@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_controller","internalType":"address","type":"address"},{"name":"_approved","internalType":"bool","type":"bool"}],"name":"setControllerApprovalForAll","outputs":[],"stateMutability":"nonpayable"}]

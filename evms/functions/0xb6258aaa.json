@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"collat_usd_price","internalType":"uint256","type":"uint256"}],"name":"collatDollarBalance","outputs":[{"name":"","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

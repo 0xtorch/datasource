@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"fieldIndex","internalType":"uint16","type":"uint16"},{"name":"lockDay","internalType":"uint256","type":"uint256"}],"name":"restake","outputs":[],"stateMutability":"nonpayable"}]

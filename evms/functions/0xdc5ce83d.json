@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"sewerPassId","internalType":"uint256","type":"uint256"},{"name":"rank","internalType":"uint256","type":"uint256"},{"name":"merkleProof","internalType":"bytes32[]","type":"bytes32[]"}],"name":"summon","outputs":[],"stateMutability":"nonpayable"}]

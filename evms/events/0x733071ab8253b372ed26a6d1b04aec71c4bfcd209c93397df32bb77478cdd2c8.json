@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"oldWithdrawFee","internalType":"uint256","type":"uint256","indexed":false},{"name":"newWithdrawFee","internalType":"uint256","type":"uint256","indexed":false}],"name":"WithdrawFeeUpdated"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_tokenAddress","internalType":"address","type":"address"},{"name":"_svgHelper","internalType":"contract ISvgHelper","type":"address"}],"name":"setSvgHelper","outputs":[],"stateMutability":"nonpayable"}]

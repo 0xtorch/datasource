@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"newEscrow","internalType":"address","type":"address","indexed":false}],"name":"EscrowChanged"}]

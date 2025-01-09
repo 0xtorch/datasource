@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"_newVlEGP","internalType":"address","type":"address","indexed":false},{"name":"_oldVlEGP","internalType":"address","type":"address","indexed":false}],"name":"VLEGPUpdated"}]

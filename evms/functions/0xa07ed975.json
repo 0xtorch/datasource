@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"to","internalType":"bytes32","type":"bytes32"},{"name":"chainId","internalType":"uint256","type":"uint256"},{"name":"token","internalType":"contract ERC20Burnable","type":"address"},{"name":"amount","internalType":"uint256","type":"uint256"}],"name":"redeemV2","outputs":[],"stateMutability":"nonpayable"}]

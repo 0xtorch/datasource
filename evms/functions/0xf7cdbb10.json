@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"pool","internalType":"address","type":"address"},{"name":"minReceive","internalType":"uint256","type":"uint256"}],"name":"withdrawAllQuote","outputs":[{"name":"returnAmount","internalType":"uint256","type":"uint256"}],"stateMutability":"nonpayable"}]

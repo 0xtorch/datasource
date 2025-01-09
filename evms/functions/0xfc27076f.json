@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_staker","internalType":"address","type":"address"}],"name":"pendingVaultRewards","outputs":[{"name":"pending","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

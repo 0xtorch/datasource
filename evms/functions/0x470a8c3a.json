@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"publicCost","internalType":"uint256","type":"uint256"},{"name":"wlCost","internalType":"uint256","type":"uint256"},{"name":"veCost","internalType":"uint256","type":"uint256"}],"name":"changeMintCost","outputs":[],"stateMutability":"nonpayable"}]

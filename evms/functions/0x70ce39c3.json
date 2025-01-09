@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_pairs","internalType":"struct SwapRouteSetter[]","type":"tuple[]","components":[{"name":"assetIn","internalType":"address","type":"address"},{"name":"assetOut","internalType":"address","type":"address"},{"name":"enabled","internalType":"bool","type":"bool"}]}],"name":"setSwapRoutesSCDP","outputs":[],"stateMutability":"nonpayable"}]

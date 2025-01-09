@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_logArray","internalType":"bytes","type":"bytes"},{"name":"_logIndex","internalType":"uint256","type":"uint256"}],"name":"swapInVerifiedWithIndex","outputs":[],"stateMutability":"nonpayable"}]

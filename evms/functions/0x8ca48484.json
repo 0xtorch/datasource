@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"agreementClass","internalType":"contract ISuperAgreement","type":"address"}],"name":"isAgreementClassListed","outputs":[{"name":"yes","internalType":"bool","type":"bool"}],"stateMutability":"view"}]

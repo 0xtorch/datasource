@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"newAmount","internalType":"uint256","type":"uint256"},{"name":"_swapEnabled","internalType":"bool","type":"bool"}],"name":"setSwapTokensAtAmount","outputs":[],"stateMutability":"nonpayable"}]

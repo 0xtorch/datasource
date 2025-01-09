@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"manager","internalType":"address","type":"address"},{"name":"bypass","internalType":"bool","type":"bool"}],"name":"setManagerFeeBypass","outputs":[],"stateMutability":"nonpayable"}]

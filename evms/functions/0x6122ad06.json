@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"id","internalType":"bytes12","type":"bytes12"}],"name":"campaignExist","outputs":[{"name":"","internalType":"bool","type":"bool"}],"stateMutability":"view"}]

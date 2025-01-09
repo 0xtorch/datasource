@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"toChain","internalType":"bytes32","type":"bytes32"}],"name":"getDepositRelativeCommission","outputs":[{"name":"","internalType":"uint16","type":"uint16"}],"stateMutability":"view"}]

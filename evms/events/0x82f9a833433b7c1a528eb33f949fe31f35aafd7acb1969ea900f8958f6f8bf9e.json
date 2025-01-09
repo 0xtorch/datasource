@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"recipient","internalType":"address","type":"address","indexed":true},{"name":"erc721","internalType":"address","type":"address","indexed":true},{"name":"tokenId","internalType":"uint256","type":"uint256","indexed":false}],"name":"TokenRecoveredERC721"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_side","internalType":"Side","type":"uint8"}],"name":"marketPriceX96","outputs":[{"name":"_marketPriceX96","internalType":"uint160","type":"uint160"}],"stateMutability":"view"}]

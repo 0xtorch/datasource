@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"","internalType":"enum DataTypes.Transport","type":"uint8"}],"name":"channels","outputs":[{"name":"","internalType":"contract IChannel","type":"address"}],"stateMutability":"view"}]

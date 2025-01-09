@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"rootChainManager","internalType":"address","type":"address","indexed":false},{"name":"erc20Predicate","internalType":"address","type":"address","indexed":false}],"name":"PolygonBridgeInitialized"}]

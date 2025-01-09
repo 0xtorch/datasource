@@ -1,0 +1,1 @@
+[{"type":"function","constant":true,"inputs":[],"name":"packType","outputs":[{"name":"","internalType":"enum Pack.Type","type":"uint8"}],"payable":false,"stateMutability":"view"}]

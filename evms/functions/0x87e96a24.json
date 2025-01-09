@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"oldTokenAmount","internalType":"uint256","type":"uint256"},{"name":"recipient","internalType":"address","type":"address"}],"name":"drop","outputs":[{"name":"newTokenAmount","internalType":"uint256","type":"uint256"}],"stateMutability":"nonpayable"}]

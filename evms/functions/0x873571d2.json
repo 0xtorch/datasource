@@ -1,0 +1,1 @@
+[{"type":"function","constant":false,"inputs":[{"name":"pubkey","internalType":"bytes","type":"bytes"}],"name":"updateValidatorPubkey","outputs":[],"payable":false,"stateMutability":"nonpayable"}]

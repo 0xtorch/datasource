@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[],"name":"feeReceivers","outputs":[{"name":"_mktReceiver","internalType":"address","type":"address"},{"name":"_devReceiver","internalType":"address","type":"address"}],"stateMutability":"view"}]

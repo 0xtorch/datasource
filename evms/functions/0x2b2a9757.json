@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"partnerContract","internalType":"address","type":"address"},{"name":"partnerTokenId","internalType":"uint256","type":"uint256"}],"name":"requireSenderIsTokenOwnerAndAllocationNotClaimed","outputs":[],"stateMutability":"view"}]

@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"price","internalType":"uint256","type":"uint256","indexed":true},{"name":"volatility","internalType":"uint256","type":"uint256","indexed":true},{"name":"spread","internalType":"uint256","type":"uint256","indexed":true}],"name":"CalculateSpread"}]

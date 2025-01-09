@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"_supportedToken","internalType":"address","type":"address","indexed":false},{"name":"_vault","internalType":"address","type":"address","indexed":false},{"name":"_isSet","internalType":"bool","type":"bool","indexed":false}],"name":"YPoolVaultSet"}]

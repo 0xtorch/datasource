@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"","internalType":"uint256","type":"uint256"}],"name":"Community","outputs":[{"name":"name","internalType":"string","type":"string"},{"name":"_type","internalType":"uint256","type":"uint256"},{"name":"level","internalType":"uint256","type":"uint256"},{"name":"deployTime","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

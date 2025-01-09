@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"creatorContractAddress","internalType":"address","type":"address"},{"name":"claimIndex","internalType":"uint256","type":"uint256"},{"name":"mintIndex","internalType":"uint32","type":"uint32"},{"name":"merkleProof","internalType":"bytes32[]","type":"bytes32[]"}],"name":"mint","outputs":[],"stateMutability":"nonpayable"}]

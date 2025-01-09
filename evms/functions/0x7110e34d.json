@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_lzSourceChainId","internalType":"uint16","type":"uint16"},{"name":"_sourceApp","internalType":"address","type":"address"}],"name":"resumeReceive","outputs":[],"stateMutability":"nonpayable"}]

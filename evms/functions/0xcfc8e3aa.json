@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"bondGroupID","internalType":"uint256","type":"uint256"}],"name":"issueLBTAndIDOL","outputs":[{"name":"","internalType":"bytes32","type":"bytes32"},{"name":"","internalType":"uint256","type":"uint256"},{"name":"","internalType":"uint256","type":"uint256"}],"stateMutability":"payable"}]

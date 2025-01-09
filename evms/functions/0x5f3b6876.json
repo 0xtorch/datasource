@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"","internalType":"address","type":"address"},{"name":"","internalType":"uint256","type":"uint256"}],"name":"_propositionPowerSnapshots","outputs":[{"name":"blockNumber","internalType":"uint128","type":"uint128"},{"name":"value","internalType":"uint128","type":"uint128"}],"stateMutability":"view"}]

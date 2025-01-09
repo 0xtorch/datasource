@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"quantity","internalType":"uint256","type":"uint256"},{"name":"signature","internalType":"bytes","type":"bytes"},{"name":"alloc","internalType":"uint256","type":"uint256"}],"name":"mintPublic","outputs":[],"stateMutability":"payable"}]

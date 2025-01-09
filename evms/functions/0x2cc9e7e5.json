@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"circleToken","internalType":"address","type":"address"},{"name":"pool","internalType":"address","type":"address"}],"name":"setCircleTokenPool","outputs":[],"stateMutability":"nonpayable"}]

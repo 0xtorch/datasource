@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_merkleRootFreeMint","internalType":"bytes32","type":"bytes32"}],"name":"setFreeMintMerkleRoot","outputs":[],"stateMutability":"nonpayable"}]

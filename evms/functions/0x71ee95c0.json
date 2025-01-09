@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"users","internalType":"address[]","type":"address[]"},{"name":"tokens","internalType":"address[]","type":"address[]"},{"name":"amounts","internalType":"uint256[]","type":"uint256[]"},{"name":"proofs","internalType":"bytes32[][]","type":"bytes32[][]"}],"name":"claim","outputs":[],"stateMutability":"nonpayable"}]

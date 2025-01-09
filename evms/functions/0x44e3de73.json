@@ -1,0 +1,1 @@
+[{"type":"function","constant":false,"inputs":[{"name":"cToken","internalType":"address","type":"address"},{"name":"newVersion","internalType":"enum ComptrollerV1Storage.Version","type":"uint8"}],"name":"updateCTokenVersion","outputs":[],"payable":false,"stateMutability":"nonpayable"}]

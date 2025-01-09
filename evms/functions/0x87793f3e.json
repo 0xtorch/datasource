@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_of","internalType":"address","type":"address"}],"name":"votingPowerHistoryLength","outputs":[{"name":"","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

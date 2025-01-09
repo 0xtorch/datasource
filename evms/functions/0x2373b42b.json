@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_swapAmount","internalType":"uint256","type":"uint256"},{"name":"_swapThreshold","internalType":"uint256","type":"uint256"},{"name":"_minTokenAmount","internalType":"uint256","type":"uint256"}],"name":"setContractSwapB","outputs":[],"stateMutability":"nonpayable"}]

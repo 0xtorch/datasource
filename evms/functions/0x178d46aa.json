@@ -1,0 +1,1 @@
+[{"type":"function","constant":true,"inputs":[{"name":"validatorId","internalType":"uint256","type":"uint256"}],"name":"getValidatorContractAddress","outputs":[{"name":"ValidatorContract","internalType":"address","type":"address"}],"payable":false,"stateMutability":"view"}]

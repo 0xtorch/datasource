@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_originator","internalType":"address","type":"address"},{"name":"_collectionId","internalType":"uint256","type":"uint256"},{"name":"_numberToClaim","internalType":"uint256","type":"uint256"},{"name":"_maxAllocation","internalType":"uint256","type":"uint256"}],"name":"mintFromQuest","outputs":[],"stateMutability":"nonpayable"}]

@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"tokenBridge","internalType":"address","type":"address","indexed":false},{"name":"srcWormholeChainId","internalType":"uint16","type":"uint16","indexed":false}],"name":"InitWormholeEvent"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"vault","internalType":"contract IBaseVault","type":"address"}],"name":"createDefaultStrategy","outputs":[{"name":"strategy","internalType":"address","type":"address"}],"stateMutability":"nonpayable"}]

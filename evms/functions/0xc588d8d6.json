@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"checkTotalAssets","internalType":"bool","type":"bool"},{"name":"allowableRange","internalType":"uint16","type":"uint16"},{"name":"expectedPriceRouter","internalType":"address","type":"address"}],"name":"cachePriceRouter","outputs":[],"stateMutability":"nonpayable"}]

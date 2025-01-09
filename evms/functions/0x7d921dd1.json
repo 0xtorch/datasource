@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"newFeeRate_","internalType":"uint256","type":"uint256"},{"name":"newFeeCollector_","internalType":"address","type":"address"}],"name":"setProtocolFeeOnlyGovernor","outputs":[],"stateMutability":"nonpayable"}]

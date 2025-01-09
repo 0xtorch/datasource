@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"accounts","internalType":"address[]","type":"address[]"},{"name":"groupIds","internalType":"uint256[]","type":"uint256[]"},{"name":"vestAmounts","internalType":"uint256[]","type":"uint256[]"}],"name":"_setUserBulk","outputs":[],"stateMutability":"nonpayable"}]

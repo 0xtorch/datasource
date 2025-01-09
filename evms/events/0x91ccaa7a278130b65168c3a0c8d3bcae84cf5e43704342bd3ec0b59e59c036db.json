@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"token0","internalType":"address","type":"address","indexed":true},{"name":"token1","internalType":"address","type":"address","indexed":true},{"name":"pool","internalType":"address","type":"address","indexed":false}],"name":"Pool"}]

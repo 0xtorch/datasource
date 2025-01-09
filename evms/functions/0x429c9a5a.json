@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"nftAddress","internalType":"contract ERC721","type":"address"}],"name":"setAccessNFT","outputs":[],"stateMutability":"nonpayable"}]

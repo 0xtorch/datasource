@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"amountToDeposit","internalType":"uint256","type":"uint256"},{"name":"isToken0","internalType":"bool","type":"bool"},{"name":"callbackData","internalType":"bytes","type":"bytes"}],"name":"depositToken","outputs":[],"stateMutability":"nonpayable"}]

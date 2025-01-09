@@ -1,0 +1,1 @@
+[{"type":"function","constant":true,"inputs":[{"name":"","type":"uint256"}],"name":"isTokenSwapAllowed","outputs":[{"name":"","type":"bool"}],"payable":false,"stateMutability":"pure"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"id","internalType":"bytes32","type":"bytes32"}],"name":"check_claimed_id","outputs":[{"name":"claimed_token_id","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

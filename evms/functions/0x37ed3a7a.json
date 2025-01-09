@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"i","type":"uint256"},{"name":"j","type":"uint256"},{"name":"dy","type":"uint256"}],"name":"get_dx","outputs":[{"name":"","type":"uint256"}],"stateMutability":"view"}]

@@ -1,0 +1,1 @@
+[{"type":"function","constant":false,"inputs":[{"name":"cTokens","internalType":"contract CToken[]","type":"address[]"},{"name":"newSupplyCaps","internalType":"uint256[]","type":"uint256[]"}],"name":"_setMarketSupplyCaps","outputs":[],"payable":false,"stateMutability":"nonpayable"}]

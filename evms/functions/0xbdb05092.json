@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_minSecondsSinceLastUpdate","internalType":"uint256","type":"uint256"}],"name":"setMinSecondsSinceLastUpdate","outputs":[],"stateMutability":"nonpayable"}]

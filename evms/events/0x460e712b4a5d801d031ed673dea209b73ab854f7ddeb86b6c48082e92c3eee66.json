@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"token","internalType":"contract ITicket","type":"address","indexed":true}],"name":"ControlledTokenAdded"}]

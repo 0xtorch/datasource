@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_customRendererConfig","internalType":"struct ERC721GeneralSequenceBase.CustomRendererConfig","type":"tuple","components":[{"name":"renderer","internalType":"address","type":"address"},{"name":"processMintDataOnRenderer","internalType":"bool","type":"bool"}]}],"name":"setCustomRenderer","outputs":[],"stateMutability":"nonpayable"}]

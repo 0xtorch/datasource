@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"__pendingGovernor","internalType":"address","type":"address"}],"name":"setPendingGovernor","outputs":[],"stateMutability":"nonpayable"}]

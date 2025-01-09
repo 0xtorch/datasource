@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"callers","internalType":"address[]","type":"address[]"},{"name":"_permissions","internalType":"bool[]","type":"bool[]"}],"name":"setPermissions","outputs":[],"stateMutability":"nonpayable"}]

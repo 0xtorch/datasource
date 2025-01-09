@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"vType","internalType":"enum IVaultFactory.VaultType","type":"uint8"}],"name":"getNumberOfVaults","outputs":[{"name":"","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

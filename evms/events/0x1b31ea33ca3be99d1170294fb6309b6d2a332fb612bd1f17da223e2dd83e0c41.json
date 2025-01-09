@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"vType","internalType":"enum IVaultFactory.VaultType","type":"uint8","indexed":true},{"name":"vaultImplementation","internalType":"address","type":"address","indexed":true}],"name":"VaultImplementationSet"}]

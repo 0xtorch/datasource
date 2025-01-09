@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"maskIndex","internalType":"uint256","type":"uint256"},{"name":"minPrice","internalType":"uint256","type":"uint256"}],"name":"acceptBidForMask","outputs":[],"stateMutability":"nonpayable"}]

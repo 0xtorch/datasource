@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_batchShift","internalType":"uint256","type":"uint256"}],"name":"getxcKSMBalanceForBatch","outputs":[{"name":"","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

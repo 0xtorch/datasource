@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"prevSupply","internalType":"uint256","type":"uint256","indexed":false},{"name":"supply","internalType":"uint256","type":"uint256","indexed":false}],"name":"Supply"}]

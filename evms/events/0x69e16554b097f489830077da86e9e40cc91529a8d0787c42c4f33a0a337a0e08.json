@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"_implementation","type":"address","indexed":true},{"name":"_lp_token","type":"address","indexed":true},{"name":"_deployer","type":"address","indexed":true},{"name":"_salt","type":"bytes32","indexed":false},{"name":"_gauge","type":"address","indexed":false}],"name":"DeployedGauge"}]

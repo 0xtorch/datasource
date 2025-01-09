@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_appID","internalType":"string","type":"string"},{"name":"_toChainID","internalType":"uint256","type":"uint256"}],"name":"isUseCustomSrcFees","outputs":[{"name":"","internalType":"bool","type":"bool"}],"stateMutability":"view"}]

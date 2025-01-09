@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"strike","internalType":"uint256","type":"uint256"},{"name":"maturity","internalType":"uint256","type":"uint256"}],"name":"totalPositions","outputs":[{"name":"longAmount","internalType":"uint256","type":"uint256"},{"name":"shortAmount","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

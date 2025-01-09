@@ -1,0 +1,1 @@
+[{"type":"function","gas":74526498,"inputs":[{"name":"_unlock_time","type":"uint256"},{"name":"_isELCT","type":"bool"}],"name":"increase_unlock_time","outputs":[],"stateMutability":"nonpayable"}]

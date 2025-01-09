@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"","internalType":"bytes32","type":"bytes32"}],"name":"inventoryStatus","outputs":[{"name":"","internalType":"enum Market.InvStatus","type":"uint8"}],"stateMutability":"view"}]

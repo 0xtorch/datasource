@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[],"name":"listDonations","outputs":[{"name":"list","internalType":"address[]","type":"address[]"}],"stateMutability":"view"}]

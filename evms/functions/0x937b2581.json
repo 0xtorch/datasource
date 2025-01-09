@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"","internalType":"uint256","type":"uint256"}],"name":"withdrawalRequests","outputs":[{"name":"amountXYWrappedToken","internalType":"uint256","type":"uint256"},{"name":"sender","internalType":"address","type":"address"},{"name":"isComplete","internalType":"bool","type":"bool"}],"stateMutability":"view"}]

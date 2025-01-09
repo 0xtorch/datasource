@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"metadataId","internalType":"uint256","type":"uint256"},{"name":"cid","internalType":"string","type":"string"},{"name":"merkleProofs","internalType":"bytes32[]","type":"bytes32[]"}],"name":"verifyProvenance","outputs":[{"name":"","internalType":"bool","type":"bool"}],"stateMutability":"view"}]

@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"seriesId","internalType":"bytes6","type":"bytes6","indexed":true},{"name":"rateAtMaturity","internalType":"uint256","type":"uint256","indexed":false}],"name":"SeriesMatured"}]

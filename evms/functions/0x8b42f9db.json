@@ -1,0 +1,1 @@
+[{"type":"function","constant":true,"inputs":[{"name":"_amount","type":"uint256"}],"name":"getUltimatePackPrice","outputs":[{"name":"ethPrice","type":"uint256"},{"name":"emontPrice","type":"uint256"}],"payable":false,"stateMutability":"view"}]

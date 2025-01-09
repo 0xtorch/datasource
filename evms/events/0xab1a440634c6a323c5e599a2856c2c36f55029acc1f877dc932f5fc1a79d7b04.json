@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"lastZeroLossTimeAfter","internalType":"uint64","type":"uint64","indexed":false},{"name":"liquidityAfter","internalType":"uint128","type":"uint128","indexed":false},{"name":"liquidityTimesUnrealizedLossAfter","internalType":"uint256","type":"uint256","indexed":false}],"name":"GlobalUnrealizedLossMetricsChanged"}]

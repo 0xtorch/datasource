@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"tokens","internalType":"contract IERC20[]","type":"address[]"},{"name":"amounts","internalType":"uint256[]","type":"uint256[]"}],"name":"depositTokens","outputs":[],"stateMutability":"nonpayable"}]

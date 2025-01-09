@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"proxy","internalType":"address","type":"address"},{"name":"selector","internalType":"bytes4","type":"bytes4"}],"name":"addFunction","outputs":[],"stateMutability":"nonpayable"}]

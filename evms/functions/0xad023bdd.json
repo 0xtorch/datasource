@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"addr","internalType":"address","type":"address"}],"name":"getPlayerAddr","outputs":[{"name":"","internalType":"address","type":"address"}],"stateMutability":"view"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_account","internalType":"address","type":"address"},{"name":"_collateralAsset","internalType":"address","type":"address"},{"name":"_receiver","internalType":"address","type":"address"}],"name":"claimFeesSCDP","outputs":[{"name":"feeAmount","internalType":"uint256","type":"uint256"}],"stateMutability":"payable"}]

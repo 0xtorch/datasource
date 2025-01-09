@@ -1,0 +1,1 @@
+[{"type":"function","constant":true,"inputs":[{"name":"entity","internalType":"address","type":"address"}],"name":"operatorExists","outputs":[{"name":"","internalType":"bool","type":"bool"}],"payable":false,"stateMutability":"view"}]

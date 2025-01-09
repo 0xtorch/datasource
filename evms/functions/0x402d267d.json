@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"receiver","type":"address"}],"name":"maxDeposit","outputs":[{"name":"","type":"uint256"}],"stateMutability":"view"}]

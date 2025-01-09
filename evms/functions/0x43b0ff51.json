@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_xBOOAmount","internalType":"uint256","type":"uint256"}],"name":"xBOOForBOO","outputs":[{"name":"booAmount_","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

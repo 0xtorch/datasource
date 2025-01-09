@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_editionId","internalType":"uint16","type":"uint16"},{"name":"_erc20s","internalType":"address[]","type":"address[]"},{"name":"_amounts","internalType":"uint256[]","type":"uint256[]"}],"name":"composeERC20sAsCreator","outputs":[],"stateMutability":"nonpayable"}]

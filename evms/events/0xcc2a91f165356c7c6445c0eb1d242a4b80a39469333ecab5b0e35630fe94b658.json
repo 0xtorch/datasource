@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"bossId","internalType":"uint256","type":"uint256","indexed":false},{"name":"antId","internalType":"uint256","type":"uint256","indexed":false},{"name":"damage","internalType":"uint256","type":"uint256","indexed":false}],"name":"BossHit"}]

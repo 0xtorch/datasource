@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"id","internalType":"uint256","type":"uint256"}],"name":"getEpoch","outputs":[{"name":"epoch","internalType":"uint256","type":"uint256"},{"name":"length","internalType":"uint256","type":"uint256"},{"name":"aggX","internalType":"uint256","type":"uint256"},{"name":"aggY","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

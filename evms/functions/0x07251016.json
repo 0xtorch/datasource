@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"token","internalType":"address","type":"address"},{"name":"auctionId","internalType":"uint256","type":"uint256"},{"name":"keeper","internalType":"address","type":"address"}],"name":"resetAuction","outputs":[],"stateMutability":"nonpayable"}]

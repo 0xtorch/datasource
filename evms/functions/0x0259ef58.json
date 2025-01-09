@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"","internalType":"address","type":"address"}],"name":"userLocks","outputs":[{"name":"unlockTime","internalType":"uint256","type":"uint256"},{"name":"xOruAmount","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

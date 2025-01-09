@@ -1,0 +1,1 @@
+[{"type":"function","constant":false,"inputs":[{"name":"rewardA","internalType":"uint256","type":"uint256"},{"name":"rewardB","internalType":"uint256","type":"uint256"},{"name":"rewardsDuration","internalType":"uint256","type":"uint256"}],"name":"notifyRewardAmount","outputs":[],"payable":false,"stateMutability":"nonpayable"}]

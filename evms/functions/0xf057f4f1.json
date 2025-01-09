@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"fromChain","internalType":"uint256","type":"uint256"},{"name":"ids","internalType":"uint256[]","type":"uint256[]"}],"name":"pendingTxs","outputs":[{"name":"unclaimedIds","internalType":"bool[]","type":"bool[]"}],"stateMutability":"view"}]

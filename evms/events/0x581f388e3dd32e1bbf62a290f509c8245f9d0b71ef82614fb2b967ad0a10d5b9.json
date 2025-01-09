@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"oldMPC","internalType":"address","type":"address","indexed":true},{"name":"newMPC","internalType":"address","type":"address","indexed":true},{"name":"effectiveTime","internalType":"uint256","type":"uint256","indexed":false}],"name":"LogChangeMPC"}]

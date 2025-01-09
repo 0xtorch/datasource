@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_editionId","internalType":"uint256","type":"uint256"}],"name":"maxTokenIdOfEdition","outputs":[{"name":"_tokenId","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

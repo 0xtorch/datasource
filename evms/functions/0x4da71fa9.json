@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"t","internalType":"address","type":"address"}],"name":"getBR","outputs":[{"name":"","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

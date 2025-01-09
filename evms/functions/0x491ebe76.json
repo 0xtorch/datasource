@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"messageBus","internalType":"address","type":"address"},{"name":"message","internalType":"bytes","type":"bytes"}],"name":"getCelerMessageFee1","outputs":[{"name":"","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

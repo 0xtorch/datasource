@@ -1,0 +1,1 @@
+[{"type":"function","constant":true,"inputs":[{"name":"_classId","type":"uint32"}],"name":"getPrice","outputs":[{"name":"catchable","type":"bool"},{"name":"price","type":"uint256"}],"payable":false,"stateMutability":"view"}]

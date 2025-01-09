@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_wAddresses","internalType":"address[]","type":"address[]"},{"name":"_tokenId","internalType":"uint256","type":"uint256"}],"name":"airdropNfts","outputs":[],"stateMutability":"nonpayable"}]

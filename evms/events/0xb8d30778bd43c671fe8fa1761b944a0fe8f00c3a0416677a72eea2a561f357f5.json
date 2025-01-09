@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"transactionId","internalType":"bytes32","type":"bytes32","indexed":true},{"name":"layerZeroChainId","internalType":"uint16","type":"uint16","indexed":true},{"name":"receiver","internalType":"bytes32","type":"bytes32","indexed":false}],"name":"BridgeToNonEVMChain"}]

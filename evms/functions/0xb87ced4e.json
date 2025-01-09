@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_publicSale","internalType":"struct BlockBasedSale.SaleConfig","type":"tuple","components":[{"name":"beginBlock","internalType":"uint256","type":"uint256"},{"name":"endBlock","internalType":"uint256","type":"uint256"}]}],"name":"setPublicSaleConfig","outputs":[],"stateMutability":"nonpayable"}]

@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"collection","internalType":"address","type":"address","indexed":true},{"name":"seller","internalType":"address","type":"address","indexed":true},{"name":"tokenId","internalType":"uint256","type":"uint256","indexed":true},{"name":"askPrice","internalType":"uint256","type":"uint256","indexed":false}],"name":"AskUpdate"}]

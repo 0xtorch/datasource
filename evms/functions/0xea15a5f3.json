@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"","internalType":"uint16","type":"uint16"}],"name":"tokenStatus","outputs":[{"name":"","internalType":"enum FinalBosu.TokenStatus","type":"uint8"}],"stateMutability":"view"}]

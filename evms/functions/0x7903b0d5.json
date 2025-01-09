@@ -1,0 +1,1 @@
+[{"type":"function","constant":false,"gas":35873,"inputs":[{"name":"_sendEthFee","type":"uint256"}],"name":"setSendEthFee","outputs":[{"name":"out","type":"bool"}],"payable":false,"stateMutability":"nonpayable"}]

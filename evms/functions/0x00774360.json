@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"bytecode","internalType":"bytes","type":"bytes"}],"name":"deploy","outputs":[{"name":"","internalType":"address","type":"address"}],"stateMutability":"nonpayable"}]

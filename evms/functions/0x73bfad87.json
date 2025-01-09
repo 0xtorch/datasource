@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_a","internalType":"address[]","type":"address[]"},{"name":"_amount","internalType":"uint8[]","type":"uint8[]"}],"name":"setPresaleWalletsAmounts","outputs":[],"stateMutability":"nonpayable"}]

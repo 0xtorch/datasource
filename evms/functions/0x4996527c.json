@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"operatorFilterRegistry_","internalType":"contract IOperatorFilterRegistry","type":"address"}],"name":"setOperatorFilterRegistry","outputs":[],"stateMutability":"nonpayable"}]

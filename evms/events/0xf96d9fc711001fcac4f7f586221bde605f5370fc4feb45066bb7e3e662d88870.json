@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"pause","internalType":"bool","type":"bool","indexed":false}],"name":"FCFSEvent"}]

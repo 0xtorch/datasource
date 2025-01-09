@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_category","internalType":"string","type":"string"},{"name":"_traits","internalType":"uint8[]","type":"uint8[]"},{"name":"_strings","internalType":"string[]","type":"string[]"}],"name":"setTraitStrings","outputs":[],"stateMutability":"nonpayable"}]

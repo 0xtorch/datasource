@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"redeemedHoodies","internalType":"uint256","type":"uint256","indexed":true},{"name":"id","internalType":"string","type":"string","indexed":false}],"name":"HoodieRedeemed"}]

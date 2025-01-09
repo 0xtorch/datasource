@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"chainId_","internalType":"uint16","type":"uint16"}],"name":"getDomainFromChainId","outputs":[{"name":"","internalType":"uint32","type":"uint32"}],"stateMutability":"view"}]

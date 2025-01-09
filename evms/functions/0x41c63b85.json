@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_endID","internalType":"uint256","type":"uint256"},{"name":"_isBatch","internalType":"bool","type":"bool"},{"name":"_requiredIDS","internalType":"uint256[]","type":"uint256[]"}],"name":"setRequirementTokens","outputs":[],"stateMutability":"nonpayable"}]

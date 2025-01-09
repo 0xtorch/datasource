@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"","internalType":"address","type":"address"}],"name":"accountToRichFarm","outputs":[{"name":"account","internalType":"address","type":"address"},{"name":"recharge","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

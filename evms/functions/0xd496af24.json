@@ -1,0 +1,1 @@
+[{"type":"function","constant":false,"inputs":[{"name":"","type":"uint256"},{"name":"chainId","type":"uint256"},{"name":"sender","type":"address"},{"name":"threshold","type":"uint256"},{"name":"adapters","type":"address[]"},{"name":"data","type":"bytes"}],"name":"onMessage","outputs":[{"name":"","type":"bytes"}],"payable":false,"stateMutability":"nonpayable"}]

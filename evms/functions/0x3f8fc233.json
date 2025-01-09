@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"cancels","internalType":"struct Cancel[]","type":"tuple[]","components":[{"name":"hash","internalType":"bytes32","type":"bytes32"},{"name":"index","internalType":"uint256","type":"uint256"},{"name":"amount","internalType":"uint256","type":"uint256"}]}],"name":"cancelTrades","outputs":[],"stateMutability":"nonpayable"}]

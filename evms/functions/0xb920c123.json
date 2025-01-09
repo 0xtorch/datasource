@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"sharePercentage","internalType":"struct Decimal.D256","type":"tuple","components":[{"name":"value","internalType":"uint256","type":"uint256"}]},{"name":"amount","internalType":"uint256","type":"uint256"}],"name":"splitShare","outputs":[{"name":"","internalType":"uint256","type":"uint256"}],"stateMutability":"pure"}]

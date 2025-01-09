@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"nftToken","internalType":"address","type":"address","indexed":true},{"name":"recipients","internalType":"address[]","type":"address[]","indexed":false},{"name":"ids","internalType":"uint256[]","type":"uint256[]","indexed":false}],"name":"Disperse721"}]

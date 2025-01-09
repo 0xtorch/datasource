@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"proxy","internalType":"contract TransparentUpgradeableProxy","type":"address"}],"name":"getProxyAdmin","outputs":[{"name":"","internalType":"address","type":"address"}],"stateMutability":"view"}]

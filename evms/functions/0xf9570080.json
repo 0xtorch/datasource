@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"oldBatchOperators","internalType":"address[]","type":"address[]"}],"name":"removeBatchOperators","outputs":[],"stateMutability":"nonpayable"}]

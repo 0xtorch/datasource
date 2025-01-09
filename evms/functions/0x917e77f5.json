@@ -1,0 +1,1 @@
+[{"type":"function","constant":true,"inputs":[],"name":"unrecordedFunding","outputs":[{"name":"funding","internalType":"int256","type":"int256"},{"name":"invalid","internalType":"bool","type":"bool"}],"payable":false,"stateMutability":"view"}]

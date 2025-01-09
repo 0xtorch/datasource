@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"leafHash","internalType":"bytes32","type":"bytes32"},{"name":"smtProof","internalType":"bytes32[32]","type":"bytes32[32]"},{"name":"index","internalType":"uint32","type":"uint32"}],"name":"calculateRoot","outputs":[{"name":"","internalType":"bytes32","type":"bytes32"}],"stateMutability":"pure"}]

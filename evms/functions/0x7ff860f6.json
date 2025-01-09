@@ -1,0 +1,1 @@
+[{"type":"function","constant":false,"inputs":[{"name":"_tokenIds","type":"uint256[]"},{"name":"_startingPrices","type":"uint256[]"},{"name":"_endingPrices","type":"uint256[]"},{"name":"_durations","type":"uint256[]"}],"name":"batchCreateAssetSale","outputs":[],"payable":false,"stateMutability":"nonpayable"}]

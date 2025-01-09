@@ -1,0 +1,1 @@
+[{"type":"function","constant":false,"inputs":[{"name":"catId","type":"bytes5"}],"name":"acceptAdoptionRequest","outputs":[],"payable":false,"stateMutability":"nonpayable"}]

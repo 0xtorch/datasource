@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"partnerAndFee","internalType":"uint256","type":"uint256"}],"name":"parsePartnerAndFeeData","outputs":[{"name":"partner","internalType":"address payable","type":"address"},{"name":"feeData","internalType":"uint256","type":"uint256"}],"stateMutability":"pure"}]

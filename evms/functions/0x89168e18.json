@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_toChainIDs","internalType":"uint256[]","type":"uint256[]"},{"name":"_baseFees","internalType":"uint256[]","type":"uint256[]"},{"name":"_feesPerByte","internalType":"uint256[]","type":"uint256[]"}],"name":"setDefaultSrcFees","outputs":[],"stateMutability":"nonpayable"}]

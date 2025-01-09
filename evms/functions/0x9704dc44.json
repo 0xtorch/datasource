@@ -1,0 +1,1 @@
+[{"type":"function","constant":true,"inputs":[],"name":"ordersHolder","outputs":[{"name":"","internalType":"contract ExchangeOrdersHolderV1","type":"address"}],"payable":false,"stateMutability":"view"}]

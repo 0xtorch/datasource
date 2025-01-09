@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"signerAddress","type":"address","indexed":true},{"name":"validatorAddress","type":"address","indexed":true},{"name":"approved","type":"bool","indexed":false}],"name":"SignatureValidatorApproval"}]

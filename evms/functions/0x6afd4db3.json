@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[],"name":"updateTvl","outputs":[{"name":"minTokenAmounts","internalType":"uint256[]","type":"uint256[]"},{"name":"maxTokenAmounts","internalType":"uint256[]","type":"uint256[]"}],"stateMutability":"nonpayable"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"currency","internalType":"address","type":"address"},{"name":"amountToWithdraw","internalType":"uint256","type":"uint256"},{"name":"recipient","internalType":"address","type":"address"}],"name":"withdrawERC20","outputs":[],"stateMutability":"nonpayable"}]

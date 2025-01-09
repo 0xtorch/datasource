@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"editionId","internalType":"uint256","type":"uint256","indexed":true},{"name":"oldSize","internalType":"uint128","type":"uint128","indexed":false},{"name":"newSize","internalType":"uint128","type":"uint128","indexed":false}],"name":"HighlightUpdated1155EditionSize"}]

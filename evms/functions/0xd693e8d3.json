@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"rewardAddress_","internalType":"address","type":"address"},{"name":"allowed_","internalType":"bool","type":"bool"}],"name":"setRewardAllowlistAddress","outputs":[],"stateMutability":"nonpayable"}]

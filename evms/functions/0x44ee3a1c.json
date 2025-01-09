@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_daysToExtend","internalType":"uint256","type":"uint256"}],"name":"extendLock","outputs":[{"name":"veHumToMint","internalType":"uint256","type":"uint256"}],"stateMutability":"nonpayable"}]

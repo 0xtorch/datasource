@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"newMaxAmountPerUser","internalType":"uint256","type":"uint256"}],"name":"setMaxPerAddressDuringMint","outputs":[],"stateMutability":"nonpayable"}]

@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"oldToken","internalType":"contract IERC20","type":"address","indexed":false},{"name":"newToken","internalType":"contract IERC20","type":"address","indexed":false}],"name":"ChangeTokenAddress"}]

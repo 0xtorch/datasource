@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"exhibitionIndex","internalType":"uint16","type":"uint16"},{"name":"price","internalType":"uint256","type":"uint256"},{"name":"enabled","internalType":"bool","type":"bool"}],"name":"setSale","outputs":[],"stateMutability":"nonpayable"}]

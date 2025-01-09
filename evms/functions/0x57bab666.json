@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"newRafflelistMerkleRoot","internalType":"bytes32","type":"bytes32"}],"name":"setRafflelistMerkleRoot","outputs":[],"stateMutability":"nonpayable"}]

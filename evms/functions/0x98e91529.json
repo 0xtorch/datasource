@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"tokenContract","internalType":"address","type":"address"},{"name":"tokenId","internalType":"uint256","type":"uint256"},{"name":"loreIdx","internalType":"uint256","type":"uint256"},{"name":"newNSFW","internalType":"bool","type":"bool"}],"name":"updateLoreNSFW","outputs":[],"stateMutability":"nonpayable"}]

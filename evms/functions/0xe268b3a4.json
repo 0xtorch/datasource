@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"user","internalType":"address","type":"address"}],"name":"totalSupplyAndBalanceCurrent","outputs":[{"name":"","internalType":"uint128","type":"uint128"},{"name":"","internalType":"uint128","type":"uint128"}],"stateMutability":"nonpayable"}]

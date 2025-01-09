@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_subTokenIds","internalType":"uint256[]","type":"uint256[]"},{"name":"_recipients","internalType":"address[]","type":"address[]"}],"name":"batchMint","outputs":[],"stateMutability":"nonpayable"}]

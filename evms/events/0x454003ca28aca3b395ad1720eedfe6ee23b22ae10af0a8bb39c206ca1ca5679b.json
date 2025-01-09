@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"dex","internalType":"address","type":"address","indexed":false},{"name":"selector","internalType":"bytes4","type":"bytes4","indexed":false},{"name":"codec","internalType":"address","type":"address","indexed":false}],"name":"DexCodecUpdated"}]

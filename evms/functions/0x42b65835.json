@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"mintId","internalType":"uint256","type":"uint256"},{"name":"status","internalType":"enum MasterMintV2.MintStatus","type":"uint8"}],"name":"setMintStatus","outputs":[],"stateMutability":"nonpayable"}]

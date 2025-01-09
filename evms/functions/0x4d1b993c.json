@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_AUCTION_PRICE_CURVE_LENGTH","internalType":"uint256","type":"uint256"},{"name":"_AUCTION_START_PRICE","internalType":"uint256","type":"uint256"},{"name":"_AUCTION_END_PRICE","internalType":"uint256","type":"uint256"}],"name":"setAuctionDetails","outputs":[],"stateMutability":"nonpayable"}]

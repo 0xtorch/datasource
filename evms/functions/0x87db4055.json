@@ -1,0 +1,1 @@
+[{"type":"function","constant":false,"inputs":[{"name":"name","type":"string"},{"name":"symbol","type":"string"},{"name":"uri","type":"string"}],"name":"launchStore","outputs":[{"name":"item","type":"address"}],"payable":false,"stateMutability":"nonpayable"}]

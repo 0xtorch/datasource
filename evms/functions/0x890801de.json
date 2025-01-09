@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_pairIndex","internalType":"uint256","type":"uint256"},{"name":"_isBuy","internalType":"bool","type":"bool"},{"name":"_leveragePosition","internalType":"uint256","type":"uint256"}],"name":"getSkewImpactSpread","outputs":[{"name":"spread","internalType":"int256","type":"int256"}],"stateMutability":"view"}]

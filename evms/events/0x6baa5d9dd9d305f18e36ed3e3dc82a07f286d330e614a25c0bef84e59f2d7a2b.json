@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"sender","internalType":"address","type":"address","indexed":false},{"name":"LPs","internalType":"uint256","type":"uint256","indexed":false},{"name":"totalLPafter","internalType":"uint256","type":"uint256","indexed":false}],"name":"MultiLiquidityRemoved"}]

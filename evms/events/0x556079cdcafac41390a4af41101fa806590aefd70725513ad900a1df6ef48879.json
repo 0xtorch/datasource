@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"primaryFoundationFeeBasisPoints","internalType":"uint256","type":"uint256","indexed":false},{"name":"secondaryFoundationFeeBasisPoints","internalType":"uint256","type":"uint256","indexed":false},{"name":"secondaryCreatorFeeBasisPoints","internalType":"uint256","type":"uint256","indexed":false}],"name":"MarketFeesUpdated"}]

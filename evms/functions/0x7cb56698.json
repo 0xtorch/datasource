@@ -1,0 +1,1 @@
+[{"type":"function","constant":false,"inputs":[{"name":"_fighterId","type":"uint256"},{"name":"_recipient","type":"address"}],"name":"rescueLostFighter","outputs":[],"payable":false,"stateMutability":"nonpayable"}]

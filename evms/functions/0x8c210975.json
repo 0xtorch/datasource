@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"","internalType":"uint256","type":"uint256"}],"name":"nftData","outputs":[{"name":"subTokenId","internalType":"uint256","type":"uint256"},{"name":"subTokenCounter","internalType":"uint256","type":"uint256"},{"name":"maxSupply","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

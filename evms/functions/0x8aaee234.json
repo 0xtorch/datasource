@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"addressesToAdd","internalType":"address[]","type":"address[]"}],"name":"addToTokenTransferAllowlist","outputs":[],"stateMutability":"nonpayable"}]

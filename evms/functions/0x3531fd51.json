@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_mToken","internalType":"address","type":"address"},{"name":"_token","internalType":"address","type":"address"},{"name":"_stakePaused","internalType":"bool","type":"bool"},{"name":"_minDepositAmount","internalType":"uint256","type":"uint256"}],"name":"updateTokenStatus","outputs":[],"stateMutability":"nonpayable"}]

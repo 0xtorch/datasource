@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"newRegistry","internalType":"address","type":"address"},{"name":"subscriptionOrRegistrantToCopy","internalType":"address","type":"address"},{"name":"subscribe","internalType":"bool","type":"bool"}],"name":"updateOperatorFilterRegistry","outputs":[],"stateMutability":"nonpayable"}]

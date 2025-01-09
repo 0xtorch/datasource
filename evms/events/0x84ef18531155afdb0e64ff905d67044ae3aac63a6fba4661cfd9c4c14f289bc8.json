@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"root","internalType":"bytes32","type":"bytes32","indexed":true}],"name":"AggregateRootReceived"},{"type":"event","anonymous":false,"inputs":[{"name":"root","internalType":"bytes32","type":"bytes32","indexed":false}],"name":"AggregateRootReceived"}]

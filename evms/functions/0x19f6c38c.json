@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"routers_","internalType":"address[]","type":"address[]"},{"name":"routerDetails_","internalType":"struct Router[]","type":"tuple[]","components":[{"name":"isSupported","internalType":"bool","type":"bool"},{"name":"fees","internalType":"uint256","type":"uint256"}]}],"name":"updateRouters","outputs":[],"stateMutability":"nonpayable"}]

@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"owner","internalType":"address","type":"address","indexed":true},{"name":"recipient","internalType":"address","type":"address","indexed":true},{"name":"fee","internalType":"uint96","type":"uint96","indexed":false}],"name":"RoyaltyFeeSet"}]

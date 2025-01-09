@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_slot","internalType":"bytes32","type":"bytes32"},{"name":"_value","internalType":"uint256","type":"uint256"}],"name":"setUint","outputs":[],"stateMutability":"nonpayable"}]

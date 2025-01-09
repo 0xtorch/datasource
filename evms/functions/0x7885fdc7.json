@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[],"name":"defaultRoyalty","outputs":[{"name":"recipient","internalType":"address","type":"address"},{"name":"bps","internalType":"uint16","type":"uint16"}],"stateMutability":"view"}]

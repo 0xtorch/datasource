@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"nftType","internalType":"string","type":"string"},{"name":"nftId","internalType":"uint256","type":"uint256"}],"name":"isNftIdReserved","outputs":[{"name":"","internalType":"bool","type":"bool"}],"stateMutability":"view"}]

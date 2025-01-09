@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"previousCreator","internalType":"address","type":"address","indexed":true},{"name":"newCreator","internalType":"address","type":"address","indexed":true}],"name":"CreatorshipTransferred"}]

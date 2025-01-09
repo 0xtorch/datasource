@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"addrs","internalType":"address[]","type":"address[]"}],"name":"todrop","outputs":[{"name":"","internalType":"bool","type":"bool"}],"stateMutability":"nonpayable"}]

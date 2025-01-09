@@ -1,0 +1,1 @@
+[{"type":"function","constant":false,"inputs":[{"name":"_quantity","type":"uint256"},{"name":"_priceFactor","type":"uint256"}],"name":"setPackQuantityFactor","outputs":[],"payable":false,"stateMutability":"nonpayable"}]

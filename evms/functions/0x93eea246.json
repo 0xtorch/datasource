@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_account","internalType":"address","type":"address"},{"name":"_ids","internalType":"uint256[]","type":"uint256[]"},{"name":"_signatures","internalType":"bytes[]","type":"bytes[]"},{"name":"_data","internalType":"bytes[]","type":"bytes[]"}],"name":"batchMint","outputs":[],"stateMutability":"nonpayable"}]

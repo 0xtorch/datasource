@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_amounts","internalType":"uint256[4]","type":"uint256[4]"},{"name":"_poolsToCorrect","internalType":"bool[4]","type":"bool[4]"}],"name":"enforceSupplyRules","outputs":[],"stateMutability":"nonpayable"}]

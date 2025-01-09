@@ -1,0 +1,1 @@
+[{"type":"function","constant":true,"inputs":[],"name":"siringAuction","outputs":[{"name":"","internalType":"contract SiringClockAuction","type":"address"}],"payable":false,"stateMutability":"view"}]

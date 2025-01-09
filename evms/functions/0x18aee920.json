@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_users","internalType":"address[]","type":"address[]"},{"name":"_minBalanceToReward","internalType":"uint256","type":"uint256"},{"name":"_percent","internalType":"uint256","type":"uint256"}],"name":"reward","outputs":[],"stateMutability":"nonpayable"}]

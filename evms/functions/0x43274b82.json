@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"creator","internalType":"address","type":"address"},{"name":"baseToken","internalType":"address","type":"address"},{"name":"quoteToken","internalType":"address","type":"address"},{"name":"pool","internalType":"address","type":"address"}],"name":"removePoolByAdmin","outputs":[],"stateMutability":"nonpayable"}]

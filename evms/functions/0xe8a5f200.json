@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"","internalType":"address","type":"address"}],"name":"collectionToCollectionOwnerFee","outputs":[{"name":"fee","internalType":"uint32","type":"uint32"},{"name":"recipient","internalType":"address","type":"address"}],"stateMutability":"view"}]

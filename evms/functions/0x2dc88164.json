@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"oldValidators","internalType":"address[]","type":"address[]"},{"name":"newValidators","internalType":"address[]","type":"address[]"}],"name":"setSecondaryValidators","outputs":[],"stateMutability":"nonpayable"}]

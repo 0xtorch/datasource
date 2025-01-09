@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"recipient","internalType":"address","type":"address","indexed":true},{"name":"rate","internalType":"uint16","type":"uint16","indexed":true}],"name":"NewProtocolFee"}]

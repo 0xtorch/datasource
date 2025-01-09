@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_value","internalType":"uint256","type":"uint256"},{"name":"_unlock_time","internalType":"uint256","type":"uint256"}],"name":"voting_power_unlock_time","outputs":[{"name":"","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

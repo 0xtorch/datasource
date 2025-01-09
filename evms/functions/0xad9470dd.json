@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"operativeAddress","internalType":"address","type":"address"},{"name":"enabled","internalType":"bool","type":"bool"}],"name":"setTokenTradingEnabledForToken","outputs":[],"stateMutability":"nonpayable"}]

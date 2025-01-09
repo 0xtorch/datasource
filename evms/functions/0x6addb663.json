@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[],"name":"tokenInfo","outputs":[{"name":"","internalType":"struct IERC20Z.TokenInfo","type":"tuple","components":[{"name":"collection","internalType":"address","type":"address"},{"name":"tokenId","internalType":"uint256","type":"uint256"},{"name":"creator","internalType":"address","type":"address"}]}],"stateMutability":"view"}]

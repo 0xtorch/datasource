@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_pools","internalType":"address[]","type":"address[]"},{"name":"_weights","internalType":"int256[]","type":"int256[]"}],"name":"voteForPools","outputs":[],"stateMutability":"nonpayable"}]

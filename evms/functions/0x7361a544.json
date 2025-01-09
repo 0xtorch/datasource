@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"prevPositiveOpenPnl","internalType":"uint256","type":"uint256"},{"name":"newPositiveOpenPnl","internalType":"uint256","type":"uint256"}],"name":"updateAccPnlPerTokenUsed","outputs":[{"name":"","internalType":"uint256","type":"uint256"}],"stateMutability":"nonpayable"}]

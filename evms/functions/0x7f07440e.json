@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"newTokenURI","internalType":"string","type":"string"},{"name":"maxNewTokenSupply","internalType":"uint256","type":"uint256"}],"name":"addSxTNFT","outputs":[],"stateMutability":"nonpayable"}]

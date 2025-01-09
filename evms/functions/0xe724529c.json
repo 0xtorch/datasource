@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"target","internalType":"address","type":"address"},{"name":"freeze","internalType":"bool","type":"bool"}],"name":"freezeAccount","outputs":[],"stateMutability":"nonpayable"}]

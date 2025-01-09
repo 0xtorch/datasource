@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"whitelist","internalType":"address[]","type":"address[]"}],"name":"updateUniBlessedWhitelist","outputs":[],"stateMutability":"nonpayable"}]

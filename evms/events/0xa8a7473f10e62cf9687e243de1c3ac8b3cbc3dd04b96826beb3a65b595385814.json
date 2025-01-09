@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"buyer","internalType":"address","type":"address","indexed":true},{"name":"tokenAddress","internalType":"address","type":"address","indexed":true},{"name":"tokenId","internalType":"uint256","type":"uint256","indexed":true},{"name":"salePrice","internalType":"uint256","type":"uint256","indexed":false}],"name":"TokenSold"}]

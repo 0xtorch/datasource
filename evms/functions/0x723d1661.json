@@ -1,0 +1,1 @@
+[{"type":"function","constant":true,"inputs":[{"name":"token","type":"address"},{"name":"targets","type":"address[]"}],"name":"exploreERC20Balances","outputs":[{"name":"balances","type":"uint256[]"}],"payable":false,"stateMutability":"view"}]

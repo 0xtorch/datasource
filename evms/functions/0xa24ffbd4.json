@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_to","internalType":"address","type":"address"},{"name":"_qty","internalType":"uint8","type":"uint8"}],"name":"giveaway","outputs":[],"stateMutability":"nonpayable"}]

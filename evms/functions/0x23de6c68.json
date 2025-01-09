@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_starFeeDist","internalType":"address","type":"address"},{"name":"_hermFeeDist","internalType":"address","type":"address"}],"name":"setFeeDist","outputs":[],"stateMutability":"nonpayable"}]

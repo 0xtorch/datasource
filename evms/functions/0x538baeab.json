@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"token","type":"address"},{"name":"governance","type":"address"},{"name":"rewards","type":"address"},{"name":"nameOverride","type":"string"},{"name":"symbolOverride","type":"string"},{"name":"guardian","type":"address"},{"name":"management","type":"address"}],"name":"initialize","outputs":[],"stateMutability":"nonpayable"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"user","internalType":"address","type":"address"}],"name":"registerUser","outputs":[{"name":"userId","internalType":"uint64","type":"uint64"}],"stateMutability":"nonpayable"}]

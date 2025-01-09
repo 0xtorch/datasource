@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"pegBridgeV2","internalType":"address","type":"address","indexed":false}],"name":"PegBridgeV2Updated"}]

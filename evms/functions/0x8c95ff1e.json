@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"routeAddress","internalType":"address","type":"address"}],"name":"addRoute","outputs":[{"name":"","internalType":"uint32","type":"uint32"}],"stateMutability":"nonpayable"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_bridge","internalType":"address","type":"address"}],"name":"burningMaxLimitOf","outputs":[{"name":"_limit","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

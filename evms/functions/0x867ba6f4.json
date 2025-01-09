@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"box_id","internalType":"uint256","type":"uint256"},{"name":"customer","internalType":"address","type":"address"}],"name":"getPurchasedNft","outputs":[{"name":"nft_id_list","internalType":"uint256[]","type":"uint256[]"}],"stateMutability":"view"}]

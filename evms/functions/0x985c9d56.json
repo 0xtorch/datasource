@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_address","internalType":"address","type":"address"}],"name":"routePair","outputs":[{"name":"","internalType":"address","type":"address"}],"stateMutability":"view"}]

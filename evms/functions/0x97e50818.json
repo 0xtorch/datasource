@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"reward","internalType":"uint256","type":"uint256"},{"name":"rewardDurationInBlocks","internalType":"uint256","type":"uint256"}],"name":"updateRewards","outputs":[],"stateMutability":"nonpayable"}]

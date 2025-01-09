@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"encodedPayload","internalType":"bytes","type":"bytes"}],"name":"parseSetValidPeriodPayload","outputs":[{"name":"svp","internalType":"struct PythGovernanceInstructions.SetValidPeriodPayload","type":"tuple","components":[{"name":"newValidPeriod","internalType":"uint256","type":"uint256"}]}],"stateMutability":"pure"}]

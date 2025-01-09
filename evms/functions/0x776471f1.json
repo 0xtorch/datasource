@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"addr","internalType":"address","type":"address"}],"name":"isExemptFromPause","outputs":[{"name":"isExempt","internalType":"bool","type":"bool"}],"stateMutability":"view"}]

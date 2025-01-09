@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"_newNft","internalType":"contract IERC721Enumerable","type":"address","indexed":false}],"name":"SetNftToken"}]

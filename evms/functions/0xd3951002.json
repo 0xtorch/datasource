@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"user","internalType":"string","type":"string"},{"name":"nonce","internalType":"uint256","type":"uint256"}],"name":"registerUser","outputs":[{"name":"","internalType":"bool","type":"bool"}],"stateMutability":"nonpayable"}]

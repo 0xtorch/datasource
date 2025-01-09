@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_tokenId","internalType":"uint256","type":"uint256"}],"name":"getCancelAndRefundValue","outputs":[{"name":"refund","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

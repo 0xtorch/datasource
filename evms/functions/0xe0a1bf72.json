@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_l2TxHash","internalType":"bytes32","type":"bytes32"},{"name":"_primaryChainL2TxHash","internalType":"bytes32","type":"bytes32"}],"name":"syncL2TxHash","outputs":[],"stateMutability":"nonpayable"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_collection","internalType":"address","type":"address"},{"name":"_oseaAmount","internalType":"uint256","type":"uint256"},{"name":"_oseaAmountPerToken","internalType":"uint256","type":"uint256"}],"name":"addOseaToCollection","outputs":[],"stateMutability":"nonpayable"}]

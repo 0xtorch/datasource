@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"","internalType":"uint256","type":"uint256"}],"name":"lingerieGirls","outputs":[{"name":"originPower","internalType":"uint256","type":"uint256"},{"name":"supportedLPTokenAmount","internalType":"uint256","type":"uint256"},{"name":"sushiRewardDebt","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

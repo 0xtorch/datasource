@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"maxBuy","internalType":"uint256","type":"uint256"},{"name":"maxSell","internalType":"uint256","type":"uint256"}],"name":"updateMaxTxLimit","outputs":[],"stateMutability":"nonpayable"}]

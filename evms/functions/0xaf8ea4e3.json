@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"desiredPrice","internalType":"uint256","type":"uint256"},{"name":"timestamp","internalType":"string","type":"string"}],"name":"setPrice","outputs":[],"stateMutability":"nonpayable"}]

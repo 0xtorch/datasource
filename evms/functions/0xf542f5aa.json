@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"pair","internalType":"address","type":"address"},{"name":"interval","internalType":"uint32","type":"uint32"}],"name":"setTwapInterval","outputs":[],"stateMutability":"nonpayable"}]

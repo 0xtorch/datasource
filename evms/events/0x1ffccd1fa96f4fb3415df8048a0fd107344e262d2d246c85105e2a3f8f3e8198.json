@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"oldPauseManager","internalType":"address","type":"address","indexed":false},{"name":"newPauseManager","internalType":"address","type":"address","indexed":false}],"name":"PauseManagerChanged"}]

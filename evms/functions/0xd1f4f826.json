@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"newVault","internalType":"contract IYearnVault","type":"address"},{"name":"minOutputShares","internalType":"uint256","type":"uint256"}],"name":"transition","outputs":[],"stateMutability":"nonpayable"}]

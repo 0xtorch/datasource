@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"masterV2Share","internalType":"uint256","type":"uint256","indexed":false},{"name":"masterV3Share","internalType":"uint256","type":"uint256","indexed":false},{"name":"treasuryShare","internalType":"uint256","type":"uint256","indexed":false}],"name":"AllocationsDistributed"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[],"name":"distribute_stage","outputs":[{"name":"","internalType":"enum IDistribute.DistributeStage","type":"uint8"}],"stateMutability":"view"}]

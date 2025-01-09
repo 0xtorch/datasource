@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_adaptor","internalType":"contract IAdaptor","type":"address"}],"name":"setAdaptorAddr","outputs":[],"stateMutability":"nonpayable"}]

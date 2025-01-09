@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"merkleRoot","internalType":"bytes32","type":"bytes32"}],"name":"setZomiFriendsMerkleRoot","outputs":[],"stateMutability":"nonpayable"}]

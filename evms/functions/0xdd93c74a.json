@@ -1,0 +1,1 @@
+[{"type":"function","constant":false,"inputs":[{"name":"expiry","type":"uint256"}],"name":"setInactivityReleasePeriod","outputs":[{"name":"success","type":"bool"}],"payable":false,"stateMutability":"nonpayable"}]

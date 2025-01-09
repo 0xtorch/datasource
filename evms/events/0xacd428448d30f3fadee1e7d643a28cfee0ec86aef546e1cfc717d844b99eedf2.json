@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"_oldAddress","internalType":"contract IKOAccessControlsLookup","type":"address","indexed":true},{"name":"_newAddress","internalType":"contract IKOAccessControlsLookup","type":"address","indexed":true}],"name":"AdminUpdateAccessControls"}]

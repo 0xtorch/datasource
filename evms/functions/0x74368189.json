@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"version","internalType":"uint256","type":"uint256"},{"name":"query","internalType":"address","type":"address"}],"name":"isClone","outputs":[{"name":"result","internalType":"bool","type":"bool"}],"stateMutability":"view"}]

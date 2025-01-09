@@ -1,0 +1,1 @@
+[{"type":"function","constant":false,"inputs":[{"name":"amount","type":"uint256"}],"name":"incBtcPoolBalance","outputs":[{"name":"","type":"bool"}],"payable":false,"stateMutability":"nonpayable"}]

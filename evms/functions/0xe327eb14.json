@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_initializers","internalType":"struct Initializer[]","type":"tuple[]","components":[{"name":"initContract","internalType":"address","type":"address"},{"name":"initData","internalType":"bytes","type":"bytes"}]}],"name":"executeInitializers","outputs":[],"stateMutability":"nonpayable"}]

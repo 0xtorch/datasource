@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"adapter","internalType":"address","type":"address","indexed":false},{"name":"approvalAddress","internalType":"address","type":"address","indexed":false}],"name":"SetApprovalAddress"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[],"name":"getBasePosition","outputs":[{"name":"liquidity","internalType":"uint128","type":"uint128"},{"name":"amount0","internalType":"uint256","type":"uint256"},{"name":"amount1","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

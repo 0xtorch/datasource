@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_maxStakeLimit","internalType":"uint256","type":"uint256"},{"name":"_stakeLimitIncreasePerBlock","internalType":"uint256","type":"uint256"}],"name":"setStakingLimit","outputs":[],"stateMutability":"nonpayable"}]

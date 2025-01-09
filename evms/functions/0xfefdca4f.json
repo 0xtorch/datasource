@@ -1,0 +1,1 @@
+[{"type":"function","constant":false,"inputs":[{"name":"refer1Rate","type":"uint256"},{"name":"refer2Rate","type":"uint256"}],"name":"setReferRewardRate","outputs":[],"payable":false,"stateMutability":"nonpayable"}]

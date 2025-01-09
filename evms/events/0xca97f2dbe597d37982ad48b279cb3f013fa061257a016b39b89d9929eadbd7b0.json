@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"primaryOracle","internalType":"contract IPriceOracle","type":"address","indexed":false}],"name":"PrimaryOracleUpdated"}]

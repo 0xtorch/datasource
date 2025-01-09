@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"boardId","internalType":"uint256","type":"uint256","indexed":false},{"name":"newIv","internalType":"uint256","type":"uint256","indexed":false},{"name":"globalMaxIvVariance","internalType":"uint256","type":"uint256","indexed":false}],"name":"BoardIvUpdated"}]

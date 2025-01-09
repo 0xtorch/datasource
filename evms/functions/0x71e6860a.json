@@ -1,0 +1,1 @@
+[{"type":"function","constant":false,"inputs":[{"name":"nftType","type":"uint256"},{"name":"ruleProxy","type":"address"}],"name":"addGegoRuleProxy","outputs":[],"payable":false,"stateMutability":"nonpayable"}]

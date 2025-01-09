@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"totalTopHolders","internalType":"uint256","type":"uint256","indexed":false},{"name":"totalPayout","internalType":"uint256","type":"uint256","indexed":false},{"name":"snapshot","internalType":"uint256","type":"uint256","indexed":false}],"name":"UnclaimedRewardsDistribution"}]

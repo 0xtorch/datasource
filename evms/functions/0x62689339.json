@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"groupIdentifier","internalType":"bytes32","type":"bytes32"},{"name":"groupState","internalType":"enum Wandernaut.GroupState","type":"uint8"}],"name":"setGroupState","outputs":[],"stateMutability":"nonpayable"}]

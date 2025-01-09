@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"account","internalType":"address","type":"address"},{"name":"excludeSenderFromFee","internalType":"bool","type":"bool"},{"name":"excludeRecipientFromFee","internalType":"bool","type":"bool"}],"name":"excludeAccount","outputs":[],"stateMutability":"nonpayable"}]

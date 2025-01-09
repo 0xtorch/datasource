@@ -1,0 +1,1 @@
+[{"type":"function","constant":true,"inputs":[],"name":"CURVE","outputs":[{"name":"","internalType":"contract BondingCurve","type":"address"}],"payable":false,"stateMutability":"view"}]

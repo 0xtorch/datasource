@@ -1,0 +1,1 @@
+[{"type":"function","constant":false,"inputs":[{"name":"listId","type":"uint256"},{"name":"amount","type":"uint256"}],"name":"decreaseEndTime","outputs":[],"payable":false,"stateMutability":"nonpayable"}]

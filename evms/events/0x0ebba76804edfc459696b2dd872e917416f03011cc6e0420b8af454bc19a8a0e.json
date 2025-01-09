@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"salaryId","internalType":"uint256","type":"uint256","indexed":true},{"name":"streamId","internalType":"uint256","type":"uint256","indexed":true},{"name":"company","internalType":"address","type":"address","indexed":true}],"name":"CancelSalary"}]

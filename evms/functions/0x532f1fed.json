@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"pairAddress","internalType":"address","type":"address"},{"name":"durations","internalType":"uint256[]","type":"uint256[]"},{"name":"amountsMax","internalType":"uint256[]","type":"uint256[]"}],"name":"createLGEWhitelist","outputs":[],"stateMutability":"nonpayable"}]

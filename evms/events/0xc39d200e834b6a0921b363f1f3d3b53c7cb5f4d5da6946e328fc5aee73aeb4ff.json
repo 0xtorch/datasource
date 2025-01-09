@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"sXtToken","internalType":"contract IERC20","type":"address","indexed":false}],"name":"Erc20TokenSet"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"code","internalType":"uint256","type":"uint256"}],"name":"validateCallerLoyalty","outputs":[{"name":"","internalType":"string","type":"string"}],"stateMutability":"view"}]

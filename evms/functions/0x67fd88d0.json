@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"user","internalType":"address","type":"address"},{"name":"poolID","internalType":"bytes32","type":"bytes32"}],"name":"getLockedPool","outputs":[{"name":"","internalType":"uint64","type":"uint64"},{"name":"","internalType":"uint64","type":"uint64"}],"stateMutability":"view"}]

@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"functionSignature","internalType":"bytes4","type":"bytes4","indexed":true},{"name":"approved","internalType":"bool","type":"bool","indexed":true}],"name":"FunctionSignatureApprovalChanged"}]

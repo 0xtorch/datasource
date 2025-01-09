@@ -1,0 +1,1 @@
+[{"type":"function","constant":false,"inputs":[{"name":"_tokenContract","type":"address"},{"name":"_withdrawToAddress","type":"address"}],"name":"withdrawTokenFromBalance","outputs":[],"payable":false,"stateMutability":"nonpayable"}]

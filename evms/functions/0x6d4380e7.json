@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"inventoryType","internalType":"string","type":"string"},{"name":"isActive","internalType":"bool","type":"bool"}],"name":"setInventoryTypeActiveFlag","outputs":[],"stateMutability":"nonpayable"}]

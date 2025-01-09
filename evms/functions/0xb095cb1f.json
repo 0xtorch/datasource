@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_sendingAssetId","internalType":"address","type":"address"}],"name":"isOftV2WithFee","outputs":[{"name":"","internalType":"bool","type":"bool"}],"stateMutability":"view"}]

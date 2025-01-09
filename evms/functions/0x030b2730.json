@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"maker","internalType":"address","type":"address"},{"name":"nonceRange","internalType":"uint248","type":"uint248"}],"name":"getERC721OrderStatusBitVector","outputs":[{"name":"bitVector","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

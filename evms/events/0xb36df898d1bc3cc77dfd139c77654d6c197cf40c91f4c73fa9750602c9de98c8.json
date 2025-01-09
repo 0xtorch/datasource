@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"player","type":"address","indexed":true},{"name":"freeAmount","type":"uint256","indexed":false},{"name":"paidAmount","type":"uint256","indexed":false},{"name":"lastClaim","type":"uint256","indexed":false}],"name":"EventEnergyUpdate"}]

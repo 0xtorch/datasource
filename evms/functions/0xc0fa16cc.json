@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"updatedProtocolFeeCollector","internalType":"address","type":"address"}],"name":"setProtocolFeeCollectorAddress","outputs":[],"stateMutability":"nonpayable"}]

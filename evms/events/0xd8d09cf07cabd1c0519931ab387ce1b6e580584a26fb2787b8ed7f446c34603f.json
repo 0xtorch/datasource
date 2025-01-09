@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"oldWiper","type":"address","indexed":true},{"name":"newWiper","type":"address","indexed":true},{"name":"sender","type":"address","indexed":true}],"name":"WiperChanged"}]

@@ -1,0 +1,1 @@
+[{"type":"function","constant":false,"inputs":[{"name":"_level","type":"uint8"},{"name":"_exp","type":"uint32"}],"name":"setLevelExpGain","outputs":[],"payable":false,"stateMutability":"nonpayable"}]

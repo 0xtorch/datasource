@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[],"name":"PAYMENT_MODEL","outputs":[{"name":"","internalType":"enum KeeperRegistryBase.PaymentModel","type":"uint8"}],"stateMutability":"view"}]

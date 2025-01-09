@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"commitments","internalType":"bytes32[]","type":"bytes32[]"}],"name":"bulkCommit","outputs":[],"stateMutability":"nonpayable"}]

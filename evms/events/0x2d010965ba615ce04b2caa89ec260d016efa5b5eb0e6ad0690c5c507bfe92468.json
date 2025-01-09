@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"_market","internalType":"address","type":"address","indexed":false},{"name":"_home","internalType":"address","type":"address","indexed":false},{"name":"_away","internalType":"address","type":"address","indexed":false},{"name":"_draw","internalType":"address","type":"address","indexed":false}],"name":"PositionsInitialized"}]

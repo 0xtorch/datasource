@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"eid","internalType":"uint32","type":"uint32"}],"name":"gasLimits","outputs":[{"name":"gasLimit","internalType":"uint128","type":"uint128"},{"name":"nativeDropGasLimit","internalType":"uint128","type":"uint128"}],"stateMutability":"view"}]

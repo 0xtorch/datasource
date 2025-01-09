@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_poolId1","internalType":"uint256","type":"uint256"},{"name":"_poolId2","internalType":"uint256","type":"uint256"}],"name":"getRemoteChains","outputs":[{"name":"","internalType":"uint16[]","type":"uint16[]"}],"stateMutability":"view"}]

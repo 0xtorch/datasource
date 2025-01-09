@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"adapterId","internalType":"string","type":"string"},{"name":"srcToken","internalType":"address","type":"address"},{"name":"amount","internalType":"uint256","type":"uint256"},{"name":"data","internalType":"bytes","type":"bytes"}],"name":"bridge","outputs":[],"stateMutability":"payable"}]

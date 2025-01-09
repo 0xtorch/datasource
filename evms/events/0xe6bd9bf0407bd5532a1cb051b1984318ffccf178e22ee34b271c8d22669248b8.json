@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"lastFulfilledId","internalType":"uint256","type":"uint256","indexed":false},{"name":"depositAmount","internalType":"uint256","type":"uint256","indexed":false}],"name":"CultMandatorsReward"}]

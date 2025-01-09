@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"owner","internalType":"address","type":"address"}],"name":"getWalletAddress","outputs":[{"name":"","internalType":"address","type":"address"}],"stateMutability":"view"}]

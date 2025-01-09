@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"batch","internalType":"uint256[]","type":"uint256[]"},{"name":"_consume","internalType":"uint256[]","type":"uint256[]"}],"name":"setConsume","outputs":[],"stateMutability":"nonpayable"}]

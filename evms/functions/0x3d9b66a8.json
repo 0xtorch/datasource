@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_supporter","internalType":"address","type":"address"},{"name":"_paymentToken","internalType":"address","type":"address"}],"name":"getSupporterFee","outputs":[{"name":"","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

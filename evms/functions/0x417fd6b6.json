@@ -1,0 +1,1 @@
+[{"type":"function","constant":false,"inputs":[{"name":"_minBidAmount","type":"uint256"}],"name":"setMinBidAmount","outputs":[],"payable":false,"stateMutability":"nonpayable"}]

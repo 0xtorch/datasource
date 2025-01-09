@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[],"name":"getSupportedDEXes","outputs":[{"name":"dexes","internalType":"address[]","type":"address[]"}],"stateMutability":"view"}]

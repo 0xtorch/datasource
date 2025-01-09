@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"mintPrice","internalType":"uint256","type":"uint256"},{"name":"quantity","internalType":"uint256","type":"uint256"}],"name":"computeTotalReward","outputs":[{"name":"","internalType":"uint256","type":"uint256"}],"stateMutability":"pure"}]

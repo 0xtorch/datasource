@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"startingIndex","internalType":"uint256","type":"uint256"},{"name":"numDogs","internalType":"uint256","type":"uint256"}],"name":"adoptNDogs","outputs":[],"stateMutability":"nonpayable"}]

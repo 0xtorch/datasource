@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"LBPair","internalType":"contract ILBPair","type":"address","indexed":true},{"name":"ignored","internalType":"bool","type":"bool","indexed":false}],"name":"LBPairIgnoredStateChanged"}]

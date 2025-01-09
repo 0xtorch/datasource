@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"recipient","internalType":"address","type":"address"},{"name":"premium","internalType":"uint256","type":"uint256"},{"name":"freeLiquidity","internalType":"uint256","type":"uint256"},{"name":"reservedFee","internalType":"uint256","type":"uint256"}],"name":"sendShortPremium","outputs":[],"stateMutability":"nonpayable"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[],"name":"LINK_ETH_FEED","outputs":[{"name":"","internalType":"contract AggregatorV3Interface","type":"address"}],"stateMutability":"view"}]

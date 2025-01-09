@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_address","internalType":"address","type":"address"}],"name":"getAddressData","outputs":[{"name":"","internalType":"struct SS2ERC721PsiBurnable.AddressData","type":"tuple","components":[{"name":"id","internalType":"uint128","type":"uint128"},{"name":"balance","internalType":"uint128","type":"uint128"}]}],"stateMutability":"view"}]

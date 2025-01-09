@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"tokenIds","internalType":"uint256[]","type":"uint256[]"},{"name":"traitTypes","internalType":"string[][]","type":"string[][]"},{"name":"values","internalType":"string[][]","type":"string[][]"}],"name":"_updateTokenAttributesBatch","outputs":[],"stateMutability":"nonpayable"}]

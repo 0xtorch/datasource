@@ -1,0 +1,1 @@
+[{"type":"function","constant":true,"inputs":[{"name":"gegoId","type":"uint256"}],"name":"getStakeInfo","outputs":[{"name":"stakeRate","type":"uint256"},{"name":"degoAmount","type":"uint256"}],"payable":false,"stateMutability":"view"}]

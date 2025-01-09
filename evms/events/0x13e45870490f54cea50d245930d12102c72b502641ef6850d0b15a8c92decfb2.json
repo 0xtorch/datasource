@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"new_relative_weight_cap","type":"uint256","indexed":false}],"name":"RelativeWeightCapChanged"}]

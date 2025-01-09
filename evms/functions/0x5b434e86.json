@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"newRelativeFee","internalType":"uint16","type":"uint16"}],"name":"setRelativeFee","outputs":[],"stateMutability":"nonpayable"}]

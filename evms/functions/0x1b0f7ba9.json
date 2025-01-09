@@ -1,0 +1,1 @@
+[{"type":"function","constant":false,"inputs":[{"name":"dest","type":"address"},{"name":"howToCall","type":"uint8"},{"name":"calldata","type":"bytes"}],"name":"proxy","outputs":[{"name":"result","type":"bool"}],"payable":false,"stateMutability":"nonpayable"}]

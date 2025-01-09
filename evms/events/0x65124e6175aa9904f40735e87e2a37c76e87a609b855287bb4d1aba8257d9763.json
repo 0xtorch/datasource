@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"incentiveId","internalType":"bytes32","type":"bytes32","indexed":true},{"name":"refund","internalType":"uint256","type":"uint256","indexed":false}],"name":"IncentiveEnded"}]

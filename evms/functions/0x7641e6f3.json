@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"amount","internalType":"uint256","type":"uint256"},{"name":"log","internalType":"string","type":"string"}],"name":"burn","outputs":[],"stateMutability":"nonpayable"}]

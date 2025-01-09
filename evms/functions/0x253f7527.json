@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"season_","internalType":"uint256","type":"uint256"},{"name":"BasedGoldDisplayValue","internalType":"uint256","type":"uint256"}],"name":"daoSetSeasonAndBasedGoldPerTokenID","outputs":[],"stateMutability":"nonpayable"}]

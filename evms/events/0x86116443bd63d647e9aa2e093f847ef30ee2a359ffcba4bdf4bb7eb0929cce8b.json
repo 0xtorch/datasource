@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"steth_amount","type":"uint256","indexed":false},{"name":"ust_amount","type":"uint256","indexed":false}],"name":"RewardsCollected"}]

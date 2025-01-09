@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"target","internalType":"address","type":"address"},{"name":"data","internalType":"bytes","type":"bytes"}],"name":"adminCall","outputs":[],"stateMutability":"payable"}]

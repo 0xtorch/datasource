@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"tokenId","internalType":"uint256","type":"uint256"},{"name":"bidder","internalType":"address","type":"address"}],"name":"removeBid","outputs":[],"stateMutability":"nonpayable"}]

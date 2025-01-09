@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"bonder","internalType":"address","type":"address"},{"name":"transferId","internalType":"bytes32","type":"bytes32"}],"name":"getBondedWithdrawalAmount","outputs":[{"name":"","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

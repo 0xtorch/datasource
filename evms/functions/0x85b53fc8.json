@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"params","internalType":"struct IAgentRegistry.SetOperatorParam[]","type":"tuple[]","components":[{"name":"account","internalType":"address","type":"address"},{"name":"isAuthorized","internalType":"bool","type":"bool"}]}],"name":"setOperators","outputs":[],"stateMutability":"payable"}]

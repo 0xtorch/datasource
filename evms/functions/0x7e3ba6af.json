@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"nftContract","internalType":"address","type":"address"}],"name":"getSigners","outputs":[{"name":"","internalType":"address[]","type":"address[]"}],"stateMutability":"view"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_minMargin","internalType":"uint256","type":"uint256"},{"name":"_maxPositionMargin","internalType":"uint256","type":"uint256"}],"name":"setMargin","outputs":[],"stateMutability":"nonpayable"}]

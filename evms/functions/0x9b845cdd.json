@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_long","internalType":"bool","type":"bool"}],"name":"getPoolAddress","outputs":[{"name":"","internalType":"address","type":"address"}],"stateMutability":"view"}]

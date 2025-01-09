@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"newReserveFactorMantissa","internalType":"uint256","type":"uint256"}],"name":"_setReserveFactor","outputs":[{"name":"","internalType":"uint256","type":"uint256"}],"stateMutability":"nonpayable"}]

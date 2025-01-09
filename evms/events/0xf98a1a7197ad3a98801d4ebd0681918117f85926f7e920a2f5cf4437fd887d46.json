@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"_th","type":"address","indexed":true},{"name":"_limit","type":"uint256","indexed":false}],"name":"GuaranteedAddress"}]

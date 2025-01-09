@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"payerId","internalType":"address","type":"address"},{"name":"amount","internalType":"uint256","type":"uint256"},{"name":"data","internalType":"bytes","type":"bytes"}],"name":"operatorBurn","outputs":[{"name":"","internalType":"bool","type":"bool"}],"stateMutability":"nonpayable"}]

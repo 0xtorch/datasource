@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"dynamicURI_","internalType":"string","type":"string"},{"name":"freeze_","internalType":"bool","type":"bool"}],"name":"setDynamicURI","outputs":[],"stateMutability":"nonpayable"}]

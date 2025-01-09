@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_startNumber","internalType":"uint256","type":"uint256"},{"name":"_sectionSize","internalType":"uint256","type":"uint256"}],"name":"updateShriekingStartNumberAndSectionSize","outputs":[],"stateMutability":"nonpayable"}]

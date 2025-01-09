@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[],"name":"getAdminBalances","outputs":[{"name":"adminBalances","internalType":"uint256[]","type":"uint256[]"}],"stateMutability":"view"}]

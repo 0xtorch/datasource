@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"previousDistributionRatio","internalType":"uint256","type":"uint256","indexed":false},{"name":"newDistributionRatio","internalType":"uint256","type":"uint256","indexed":false}],"name":"DistributionRatioUpdated"}]

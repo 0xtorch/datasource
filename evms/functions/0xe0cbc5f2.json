@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"integratorFee","internalType":"uint256","type":"uint256"},{"name":"lifiFee","internalType":"uint256","type":"uint256"},{"name":"integratorAddress","internalType":"address","type":"address"}],"name":"collectNativeFees","outputs":[],"stateMutability":"payable"}]

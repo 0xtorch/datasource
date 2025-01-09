@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"previousMelter","internalType":"address","type":"address","indexed":true},{"name":"newMelter","internalType":"address","type":"address","indexed":true}],"name":"MelterTransferred"}]

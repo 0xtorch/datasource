@@ -1,0 +1,1 @@
+[{"type":"function","constant":false,"inputs":[{"name":"_id_max32","type":"string"},{"name":"_number","type":"uint128"},{"name":"_amount","type":"uint256"}],"name":"vote","outputs":[],"payable":false,"stateMutability":"nonpayable"}]

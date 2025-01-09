@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"tokenId","internalType":"uint256","type":"uint256"},{"name":"newStartTime","internalType":"uint64","type":"uint64"},{"name":"newMarketCountdown","internalType":"uint64","type":"uint64"}],"name":"updateSale","outputs":[],"stateMutability":"nonpayable"}]

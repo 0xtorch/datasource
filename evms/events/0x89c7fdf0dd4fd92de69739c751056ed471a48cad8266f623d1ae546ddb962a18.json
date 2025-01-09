@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"interfaces","internalType":"string[]","type":"string[]","indexed":false},{"name":"addresses","internalType":"address[]","type":"address[]","indexed":false}],"name":"InterfacesUpdated"}]

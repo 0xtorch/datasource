@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_debridgeId","internalType":"bytes32","type":"bytes32"},{"name":"_maxAmount","internalType":"uint256","type":"uint256"},{"name":"_minReservesBps","internalType":"uint16","type":"uint16"},{"name":"_amountThreshold","internalType":"uint256","type":"uint256"}],"name":"updateAsset","outputs":[],"stateMutability":"nonpayable"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"token","internalType":"address","type":"address"},{"name":"recipient","internalType":"address","type":"address"}],"name":"recoverERC20","outputs":[],"stateMutability":"nonpayable"}]

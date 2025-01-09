@@ -1,0 +1,1 @@
+[{"type":"function","constant":true,"inputs":[{"name":"_owner","type":"address"}],"name":"getPrivilegedBalance","outputs":[{"name":"balance","type":"uint256"}],"payable":false,"stateMutability":"view"}]

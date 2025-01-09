@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[],"name":"getVestings","outputs":[{"name":"vestings","internalType":"address[]","type":"address[]"}],"stateMutability":"view"}]

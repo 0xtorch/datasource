@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_action","internalType":"enum Enums.Action","type":"uint8"},{"name":"_assetAddr","internalType":"address","type":"address"}],"name":"assetActionPaused","outputs":[{"name":"","internalType":"bool","type":"bool"}],"stateMutability":"view"}]

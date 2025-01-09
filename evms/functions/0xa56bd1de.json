@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_userAddresses","internalType":"address[]","type":"address[]"},{"name":"_numberPoints","internalType":"uint256","type":"uint256"}],"name":"removeUserPointsMultiple","outputs":[],"stateMutability":"nonpayable"}]

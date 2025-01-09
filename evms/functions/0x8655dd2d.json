@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_nameWrapper","internalType":"address","type":"address"},{"name":"_resolver","internalType":"address","type":"address"},{"name":"_startNode","internalType":"bytes32","type":"bytes32"}],"name":"setEnsData","outputs":[],"stateMutability":"nonpayable"}]

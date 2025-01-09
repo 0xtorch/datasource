@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"tournamentID","type":"uint256","indexed":true},{"name":"roundID","type":"uint256","indexed":true},{"name":"stakerAddress","type":"address","indexed":true},{"name":"tag","type":"bytes32","indexed":false}],"name":"StakeDestroyed"}]

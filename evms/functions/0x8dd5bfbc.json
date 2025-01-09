@@ -1,0 +1,1 @@
+[{"type":"function","constant":false,"inputs":[{"name":"currencyKey","internalType":"bytes32","type":"bytes32"}],"name":"purgeCachedSynthDebt","outputs":[],"payable":false,"stateMutability":"nonpayable"}]

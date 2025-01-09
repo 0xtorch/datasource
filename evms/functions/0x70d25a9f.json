@@ -1,0 +1,1 @@
+[{"type":"function","constant":true,"inputs":[{"name":"_address","type":"address"}],"name":"lockUpAmountStrOf","outputs":[{"name":"Address","type":"address"},{"name":"a","type":"string"},{"name":"b","type":"string"},{"name":"c","type":"string"},{"name":"d","type":"string"},{"name":"e","type":"string"},{"name":"f","type":"string"}],"payable":false,"stateMutability":"view"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[],"name":"accrue_info","outputs":[{"name":"","type":"tuple","components":[{"name":"interest_per_second","type":"uint64"},{"name":"last_accrued","type":"uint64"},{"name":"fees_earned_fraction","type":"uint128"}]}],"stateMutability":"view"}]

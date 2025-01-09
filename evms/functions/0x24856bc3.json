@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"commands","internalType":"bytes","type":"bytes"},{"name":"inputs","internalType":"bytes[]","type":"bytes[]"}],"name":"execute","outputs":[],"stateMutability":"payable"}]

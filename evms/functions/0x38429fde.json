@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"id","internalType":"uint256","type":"uint256"},{"name":"extendData","internalType":"bytes","type":"bytes"}],"name":"modifyExtendData","outputs":[],"stateMutability":"nonpayable"}]

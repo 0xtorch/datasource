@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"_clientName","internalType":"string","type":"string","indexed":false}],"name":"Client"}]

@@ -1,0 +1,1 @@
+[{"type":"function","constant":true,"inputs":[{"name":"_addr","type":"address"}],"name":"isAvailableAccount","outputs":[{"name":"is_valid_account","type":"bool"}],"payable":false,"stateMutability":"view"}]

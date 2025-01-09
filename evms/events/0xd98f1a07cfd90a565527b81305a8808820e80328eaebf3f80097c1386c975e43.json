@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"_cardId","type":"uint256","indexed":false},{"name":"addr","type":"address","indexed":true}],"name":"WhiteListRemoved"}]

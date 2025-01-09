@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_lotteryId","internalType":"uint256","type":"uint256"},{"name":"_autoInjection","internalType":"bool","type":"bool"}],"name":"drawFinalNumberAndMakeLotteryClaimable","outputs":[],"stateMutability":"nonpayable"}]

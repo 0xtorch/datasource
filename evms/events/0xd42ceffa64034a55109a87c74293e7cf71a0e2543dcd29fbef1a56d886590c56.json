@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"collateralToken","internalType":"contract IERC20","type":"address","indexed":false},{"name":"isEnabled","internalType":"bool","type":"bool","indexed":false}],"name":"CollateralTokenModified"}]

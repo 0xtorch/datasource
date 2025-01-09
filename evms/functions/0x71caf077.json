@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_stakingToken","internalType":"contract IERC20","type":"address"},{"name":"status","internalType":"bool","type":"bool"}],"name":"setStatusERC20","outputs":[{"name":"","internalType":"contract IERC20","type":"address"}],"stateMutability":"nonpayable"}]

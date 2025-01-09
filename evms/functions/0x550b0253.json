@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"seriesId","internalType":"bytes6","type":"bytes6"},{"name":"art","internalType":"uint128","type":"uint128"}],"name":"debtToBase","outputs":[{"name":"base","internalType":"uint128","type":"uint128"}],"stateMutability":"nonpayable"}]

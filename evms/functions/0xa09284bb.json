@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_upperAmount","internalType":"uint256","type":"uint256"},{"name":"_lowerAmount","internalType":"uint256","type":"uint256"},{"name":"_state","internalType":"bool","type":"bool"}],"name":"setBuyback","outputs":[],"stateMutability":"nonpayable"}]

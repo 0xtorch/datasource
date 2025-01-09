@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"channelId","internalType":"uint8","type":"uint8"},{"name":"msgBytes","internalType":"bytes","type":"bytes"}],"name":"handleSynPackage","outputs":[{"name":"","internalType":"bytes","type":"bytes"}],"stateMutability":"nonpayable"}]

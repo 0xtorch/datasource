@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_amount","internalType":"uint256","type":"uint256"},{"name":"_durationIndex","internalType":"uint256","type":"uint256"},{"name":"_expectedDuration","internalType":"uint256","type":"uint256"},{"name":"_user","internalType":"address","type":"address"}],"name":"stake","outputs":[],"stateMutability":"nonpayable"}]

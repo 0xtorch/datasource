@@ -1,0 +1,1 @@
+[{"type":"function","constant":false,"inputs":[{"name":"halfExitPeriod","internalType":"uint256","type":"uint256"}],"name":"updateExitPeriod","outputs":[],"payable":false,"stateMutability":"nonpayable"}]

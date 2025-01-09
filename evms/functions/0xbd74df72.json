@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"lzChainId","internalType":"uint16","type":"uint16"},{"name":"lzDstAddress","internalType":"address","type":"address"},{"name":"recipient","internalType":"address","type":"address"},{"name":"message","internalType":"string","type":"string"}],"name":"lzSendMessage","outputs":[],"stateMutability":"payable"}]

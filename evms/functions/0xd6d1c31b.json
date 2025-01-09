@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"boardId","internalType":"uint256","type":"uint256"}],"name":"isBoardCacheStale","outputs":[{"name":"","internalType":"bool","type":"bool"}],"stateMutability":"view"}]

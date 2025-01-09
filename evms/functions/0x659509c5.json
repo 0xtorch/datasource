@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"sender","internalType":"address","type":"address"},{"name":"amountBIn","internalType":"uint256","type":"uint256"},{"name":"numberOfBlockIntervals","internalType":"uint256","type":"uint256"}],"name":"longTermSwapFromBToA","outputs":[{"name":"orderId","internalType":"uint256","type":"uint256"}],"stateMutability":"nonpayable"}]

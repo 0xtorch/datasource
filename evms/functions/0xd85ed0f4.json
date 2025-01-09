@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[],"name":"randomPick","outputs":[{"name":"_role","internalType":"string","type":"string"}],"stateMutability":"view"}]

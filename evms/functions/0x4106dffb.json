@@ -1,0 +1,1 @@
+[{"type":"function","constant":false,"inputs":[{"name":"seed","internalType":"uint256","type":"uint256"},{"name":"v1GlyphID","internalType":"uint256","type":"uint256"}],"name":"createWithV1","outputs":[],"payable":false,"stateMutability":"nonpayable"}]

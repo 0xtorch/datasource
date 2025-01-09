@@ -1,0 +1,1 @@
+[{"type":"function","constant":false,"inputs":[{"name":"_tournamentID","type":"uint256"},{"name":"_roundID","type":"uint256"},{"name":"_endTime","type":"uint256"},{"name":"_resolutionTime","type":"uint256"}],"name":"createRound","outputs":[{"name":"ok","type":"bool"}],"payable":false,"stateMutability":"nonpayable"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"randomNumber","internalType":"uint256","type":"uint256"}],"name":"draw","outputs":[{"name":"","internalType":"address","type":"address"}],"stateMutability":"view"}]

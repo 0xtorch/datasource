@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"minBoughtOle","internalType":"uint256","type":"uint256"}],"name":"swapETHForOLE","outputs":[{"name":"boughtOle","internalType":"uint256","type":"uint256"}],"stateMutability":"payable"}]

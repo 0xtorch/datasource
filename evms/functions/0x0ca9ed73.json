@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_ogMintStartTime","internalType":"uint256","type":"uint256"},{"name":"_whitelistMintStartTime","internalType":"uint256","type":"uint256"},{"name":"_publicMintStartTime","internalType":"uint256","type":"uint256"}],"name":"setMintingWindows","outputs":[],"stateMutability":"nonpayable"}]

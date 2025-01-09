@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"uaChainId","internalType":"uint16","type":"uint16"},{"name":"bridgeChainId","internalType":"uint16","type":"uint16"}],"name":"setChainMapping","outputs":[],"stateMutability":"nonpayable"}]

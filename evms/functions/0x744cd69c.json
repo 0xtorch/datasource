@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"member","internalType":"address","type":"address"},{"name":"enable","internalType":"bool","type":"bool"}],"name":"setMember","outputs":[],"stateMutability":"nonpayable"}]

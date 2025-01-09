@@ -1,0 +1,1 @@
+[{"type":"function","constant":false,"inputs":[{"name":"listAddress","type":"address"},{"name":"_isGeryListed","type":"bool"}],"name":"geryListAddress","outputs":[{"name":"success","type":"bool"}],"payable":false,"stateMutability":"nonpayable"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"startIdx","internalType":"uint256","type":"uint256"},{"name":"endIdx","internalType":"uint256","type":"uint256"},{"name":"premintAddr","internalType":"address","type":"address"}],"name":"premint","outputs":[],"stateMutability":"nonpayable"}]

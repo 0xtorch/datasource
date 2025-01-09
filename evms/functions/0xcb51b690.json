@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_transferBurnExceptAddress","internalType":"address","type":"address"}],"name":"removeTransferBurnExceptAddress","outputs":[],"stateMutability":"nonpayable"}]

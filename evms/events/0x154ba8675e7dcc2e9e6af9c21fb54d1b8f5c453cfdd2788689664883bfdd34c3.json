@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"oldShoOrganizer","internalType":"address","type":"address","indexed":false},{"name":"newShoOrganizer","internalType":"address","type":"address","indexed":false}],"name":"ShoOrganizerChanged"}]

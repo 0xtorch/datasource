@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"arg0","type":"address"}],"name":"integrate_checkpoint_of","outputs":[{"name":"","type":"uint256"}],"stateMutability":"view"}]

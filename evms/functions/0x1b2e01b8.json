@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"","internalType":"address","type":"address"},{"name":"","internalType":"uint192","type":"uint192"}],"name":"nonceSequenceNumber","outputs":[{"name":"","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

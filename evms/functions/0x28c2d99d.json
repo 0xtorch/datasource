@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"gid","internalType":"uint16","type":"uint16"},{"name":"supply","internalType":"uint16","type":"uint16"}],"name":"changeGSCap","outputs":[],"stateMutability":"nonpayable"}]

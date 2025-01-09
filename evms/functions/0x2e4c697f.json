@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"n","internalType":"uint256","type":"uint256"},{"name":"e","internalType":"uint256","type":"uint256"}],"name":"pow","outputs":[{"name":"","internalType":"uint256","type":"uint256"}],"stateMutability":"pure"}]

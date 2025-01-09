@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_referralFeePercentage","internalType":"uint256","type":"uint256"}],"name":"setReferralFeePercentage","outputs":[],"stateMutability":"nonpayable"}]

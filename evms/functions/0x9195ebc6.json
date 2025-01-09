@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_to","internalType":"address","type":"address"},{"name":"_assets","internalType":"address[]","type":"address[]"},{"name":"_withdrawNative","internalType":"bool","type":"bool"}],"name":"emergencyWithdraw","outputs":[],"stateMutability":"nonpayable"}]

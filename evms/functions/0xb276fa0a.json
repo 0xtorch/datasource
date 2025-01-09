@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"passportId","internalType":"uint256","type":"uint256"},{"name":"score","internalType":"uint256","type":"uint256"}],"name":"setScore","outputs":[{"name":"","internalType":"bool","type":"bool"}],"stateMutability":"nonpayable"}]

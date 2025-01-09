@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_type","internalType":"uint256","type":"uint256"},{"name":"_tokenId","internalType":"uint256","type":"uint256"},{"name":"_childContract","internalType":"address","type":"address"},{"name":"_childTokenId","internalType":"uint256","type":"uint256"}],"name":"childRescue","outputs":[],"stateMutability":"nonpayable"}]

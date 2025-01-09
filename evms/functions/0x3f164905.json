@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_rewardPid","internalType":"uint256","type":"uint256"},{"name":"_rewardToken","internalType":"address","type":"address"},{"name":"_rewardPerBlock","internalType":"uint256","type":"uint256"}],"name":"updateRewardToken","outputs":[],"stateMutability":"nonpayable"}]

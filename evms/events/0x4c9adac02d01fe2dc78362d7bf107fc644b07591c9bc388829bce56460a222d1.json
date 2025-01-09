@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"_oldMaximumRepricerswETHDifferencePercentage","internalType":"uint256","type":"uint256","indexed":false},{"name":"_newMaximumRepricerswETHDifferencePercentage","internalType":"uint256","type":"uint256","indexed":false}],"name":"MaximumRepricerswETHDifferencePercentageUpdated"}]

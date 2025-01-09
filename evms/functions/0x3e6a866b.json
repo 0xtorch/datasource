@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"chain","internalType":"enum AirdropSignal.PreferredChain","type":"uint8"},{"name":"friendENS","internalType":"string","type":"string"}],"name":"claimOn","outputs":[],"stateMutability":"nonpayable"}]

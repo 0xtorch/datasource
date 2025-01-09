@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"oldTerms","internalType":"string","type":"string","indexed":false},{"name":"newTerms","internalType":"string","type":"string","indexed":false}],"name":"TermsUpdated"}]

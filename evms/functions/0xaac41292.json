@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"encodedPayload","internalType":"bytes","type":"bytes"}],"name":"parseSetWormholeAddressPayload","outputs":[{"name":"sw","internalType":"struct PythGovernanceInstructions.SetWormholeAddressPayload","type":"tuple","components":[{"name":"newWormholeAddress","internalType":"address","type":"address"}]}],"stateMutability":"pure"}]

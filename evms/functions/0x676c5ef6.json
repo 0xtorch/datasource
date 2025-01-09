@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"recipient","internalType":"address","type":"address"},{"name":"amount","internalType":"uint256","type":"uint256"},{"name":"amountOutMin","internalType":"uint256","type":"uint256"},{"name":"deadline","internalType":"uint256","type":"uint256"}],"name":"attemptSwap","outputs":[],"stateMutability":"nonpayable"}]

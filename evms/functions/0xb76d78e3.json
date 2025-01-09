@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"user","internalType":"address","type":"address"},{"name":"productId","internalType":"uint32","type":"uint32"},{"name":"makerRateX18","internalType":"int64","type":"int64"},{"name":"takerRateX18","internalType":"int64","type":"int64"}],"name":"updateFeeRates","outputs":[],"stateMutability":"nonpayable"}]

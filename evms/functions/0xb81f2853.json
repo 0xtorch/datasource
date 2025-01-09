@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"share","internalType":"uint256","type":"uint256"}],"name":"withdrawAmountWithShares","outputs":[{"name":"amountAfterFee","internalType":"uint256","type":"uint256"},{"name":"feeAmount","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

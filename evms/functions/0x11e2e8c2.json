@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_tokenHash","internalType":"bytes32","type":"bytes32"},{"name":"_tokenAddress","internalType":"address","type":"address"}],"name":"changeTokenAddressAndAllow","outputs":[],"stateMutability":"nonpayable"}]

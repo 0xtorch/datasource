@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"secWare","internalType":"address","type":"address"},{"name":"prodId","internalType":"uint24","type":"uint24"}],"name":"cancelAutoRenew","outputs":[],"stateMutability":"nonpayable"}]

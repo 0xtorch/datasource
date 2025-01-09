@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"groupId","internalType":"uint8","type":"uint8","indexed":true},{"name":"account","internalType":"address","type":"address","indexed":true}],"name":"RemovedFromGroup"}]

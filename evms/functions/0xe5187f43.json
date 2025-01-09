@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"meta","internalType":"contract CypherMetadata","type":"address"}],"name":"setMetadataContract","outputs":[],"stateMutability":"nonpayable"}]

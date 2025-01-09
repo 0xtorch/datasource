@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_bhavishPrediction","internalType":"contract IBhavishPrediction","type":"address"},{"name":"_underlying","internalType":"bytes32","type":"bytes32"},{"name":"_strike","internalType":"bytes32","type":"bytes32"}],"name":"updatePredictionMarket","outputs":[],"stateMutability":"nonpayable"}]

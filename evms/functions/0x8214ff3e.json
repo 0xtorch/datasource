@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"stakeContract","internalType":"address","type":"address"}],"name":"isWhitelistedCollection","outputs":[{"name":"","internalType":"bool","type":"bool"}],"stateMutability":"view"}]

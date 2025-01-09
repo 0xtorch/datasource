@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_accountDepositLimit","internalType":"uint256","type":"uint256"},{"name":"_vaultTvlLimit","internalType":"uint256","type":"uint256"}],"name":"setLimits","outputs":[],"stateMutability":"nonpayable"}]

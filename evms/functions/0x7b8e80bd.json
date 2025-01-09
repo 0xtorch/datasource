@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"recipient","internalType":"address","type":"address"}],"name":"setTransferRecipient","outputs":[],"stateMutability":"nonpayable"}]

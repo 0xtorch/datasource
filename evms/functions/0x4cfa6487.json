@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[],"name":"listModules","outputs":[{"name":"list","internalType":"address[]","type":"address[]"},{"name":"status","internalType":"uint256[]","type":"uint256[]"}],"stateMutability":"view"}]

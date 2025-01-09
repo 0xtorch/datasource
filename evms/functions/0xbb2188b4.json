@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_wallets","internalType":"address[]","type":"address[]"},{"name":"_blacklist","internalType":"bool","type":"bool"}],"name":"blacklistWallets","outputs":[],"stateMutability":"nonpayable"}]

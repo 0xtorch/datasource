@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_recipient","internalType":"address","type":"address"},{"name":"_merkleProof","internalType":"bytes32[]","type":"bytes32[]"}],"name":"isAllowListed","outputs":[{"name":"","internalType":"bool","type":"bool"}],"stateMutability":"view"}]

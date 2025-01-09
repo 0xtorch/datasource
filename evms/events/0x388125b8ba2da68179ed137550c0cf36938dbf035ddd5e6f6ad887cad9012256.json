@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"pairAddress","internalType":"address","type":"address","indexed":false}],"name":"SetPairAddress"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"args1","internalType":"bytes32","type":"bytes32"},{"name":"args2","internalType":"bytes32","type":"bytes32"}],"name":"liquidationCall","outputs":[],"stateMutability":"nonpayable"}]

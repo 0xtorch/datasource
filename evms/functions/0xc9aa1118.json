@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"userDiscount","internalType":"uint16","type":"uint16"},{"name":"affiliatePercentage","internalType":"uint16","type":"uint16"},{"name":"affiliateAddress","internalType":"address","type":"address"}],"name":"setAffiliatesPercentageAndDiscount","outputs":[],"stateMutability":"nonpayable"}]

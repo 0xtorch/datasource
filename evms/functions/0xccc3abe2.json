@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"index","internalType":"uint256","type":"uint256"},{"name":"newTime","internalType":"uint256","type":"uint256"}],"name":"setTimeStart","outputs":[],"stateMutability":"nonpayable"}]

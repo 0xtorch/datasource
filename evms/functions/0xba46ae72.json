@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"","internalType":"address","type":"address"}],"name":"tokenInfos","outputs":[{"name":"reserve","internalType":"uint192","type":"uint192"},{"name":"feeRate","internalType":"uint16","type":"uint16"}],"stateMutability":"view"}]

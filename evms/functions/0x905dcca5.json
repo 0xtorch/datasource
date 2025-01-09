@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"account","internalType":"address","type":"address"},{"name":"id","internalType":"uint256","type":"uint256"},{"name":"amount","internalType":"uint256","type":"uint256"},{"name":"_isUnofficial","internalType":"bool","type":"bool"}],"name":"mintLp","outputs":[],"stateMutability":"nonpayable"}]

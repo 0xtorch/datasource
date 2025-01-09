@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"vaultId_","internalType":"bytes12","type":"bytes12"},{"name":"to","internalType":"address","type":"address"}],"name":"closeFromLadle","outputs":[{"name":"repaid","internalType":"uint256","type":"uint256"}],"stateMutability":"payable"}]

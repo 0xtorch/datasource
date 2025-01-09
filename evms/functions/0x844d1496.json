@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"gameName","internalType":"string","type":"string"},{"name":"betAmount","internalType":"uint256","type":"uint256"}],"name":"createLobby","outputs":[{"name":"epoch","internalType":"uint256","type":"uint256"}],"stateMutability":"nonpayable"}]

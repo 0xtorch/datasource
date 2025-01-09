@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"blockNumber","internalType":"uint32","type":"uint32","indexed":false},{"name":"syncHash","internalType":"bytes32","type":"bytes32","indexed":false}],"name":"SendMasterSyncHash"}]

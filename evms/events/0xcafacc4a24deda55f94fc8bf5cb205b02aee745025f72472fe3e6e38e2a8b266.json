@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"sender","internalType":"address","type":"address","indexed":true},{"name":"dog20","internalType":"address","type":"address","indexed":true}],"name":"BRC20Created"}]

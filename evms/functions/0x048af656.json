@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_canMint","internalType":"bool","type":"bool"},{"name":"_canWithdraw","internalType":"bool","type":"bool"},{"name":"_canRedeem","internalType":"bool","type":"bool"},{"name":"_canDeposit","internalType":"bool","type":"bool"}],"name":"setParams","outputs":[],"stateMutability":"nonpayable"}]

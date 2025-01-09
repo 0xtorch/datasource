@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"borrower","internalType":"address","type":"address"}],"name":"hasOpenedCreditAccount","outputs":[{"name":"","internalType":"bool","type":"bool"}],"stateMutability":"view"}]

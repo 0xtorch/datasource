@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_tokenId","internalType":"uint256","type":"uint256"},{"name":"_mintable","internalType":"bool","type":"bool"},{"name":"_tokenURI","internalType":"string","type":"string"}],"name":"updateItemAttr","outputs":[],"stateMutability":"nonpayable"}]

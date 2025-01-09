@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"newOleEthLp","internalType":"contract IUniV2ClassPair","type":"address"}],"name":"setOleEthLp","outputs":[],"stateMutability":"nonpayable"}]

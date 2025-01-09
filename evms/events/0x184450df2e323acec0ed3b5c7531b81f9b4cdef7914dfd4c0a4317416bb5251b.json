@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"usr","internalType":"address","type":"address","indexed":true}],"name":"Deny"},{"type":"event","anonymous":false,"inputs":[{"name":"user","internalType":"address","type":"address","indexed":false}],"name":"Deny"}]

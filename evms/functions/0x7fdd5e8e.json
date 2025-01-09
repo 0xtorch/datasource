@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_auctionStep","internalType":"uint256","type":"uint256"},{"name":"_auctionFloor","internalType":"uint256","type":"uint256"}],"name":"setAuctionParameters","outputs":[],"stateMutability":"nonpayable"}]

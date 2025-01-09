@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"assetAddr","internalType":"address","type":"address"},{"name":"user","internalType":"address","type":"address"}],"name":"maxMint","outputs":[{"name":"max","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

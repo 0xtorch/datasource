@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"userId","internalType":"uint256","type":"uint256"}],"name":"hasTheUserIdClaimed","outputs":[{"name":"claimed","internalType":"bool","type":"bool"}],"stateMutability":"view"}]

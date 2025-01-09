@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"participant","internalType":"address","type":"address","indexed":false},{"name":"amountBNBParticipated","internalType":"uint256","type":"uint256","indexed":false},{"name":"amountTokensBought","internalType":"uint256","type":"uint256","indexed":false}],"name":"Participated"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"","internalType":"uint256","type":"uint256"}],"name":"redemptionWindows","outputs":[{"name":"windowOpens","internalType":"uint256","type":"uint256"},{"name":"windowCloses","internalType":"uint256","type":"uint256"},{"name":"maxRedeemPerTxn","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

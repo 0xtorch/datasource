@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"finalAmount_","internalType":"uint256","type":"uint256"},{"name":"amount_","internalType":"uint256","type":"uint256"},{"name":"maxSlippage_","internalType":"uint256","type":"uint256"}],"name":"validateSlippage","outputs":[{"name":"","internalType":"bool","type":"bool"}],"stateMutability":"view"}]

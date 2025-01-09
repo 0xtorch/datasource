@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"index","internalType":"uint8","type":"uint8"}],"name":"getAttachedPools","outputs":[{"name":"pools","internalType":"address[]","type":"address[]"}],"stateMutability":"view"}]

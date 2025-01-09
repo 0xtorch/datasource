@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"burnShare","internalType":"uint256","type":"uint256"},{"name":"stakeShare","internalType":"uint256","type":"uint256"},{"name":"feeShare","internalType":"uint256","type":"uint256"},{"name":"swapBackShare","internalType":"uint256","type":"uint256"}],"name":"setShares","outputs":[],"stateMutability":"nonpayable"}]

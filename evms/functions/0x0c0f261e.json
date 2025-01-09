@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"signatory","internalType":"address","type":"address"}],"name":"authQuotaOf","outputs":[{"name":"quota","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

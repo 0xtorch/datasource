@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"duoAssetToken","internalType":"address","type":"address","indexed":true}],"name":"UpdateDuoAssetToken"}]

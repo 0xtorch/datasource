@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"characterId","internalType":"uint8","type":"uint8"},{"name":"proof","internalType":"bytes32[]","type":"bytes32[]"}],"name":"mint","outputs":[{"name":"tokenId","internalType":"uint256","type":"uint256"}],"stateMutability":"payable"}]

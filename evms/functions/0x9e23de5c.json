@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_otherToken","internalType":"address","type":"address"}],"name":"getUsdgMinPrice","outputs":[{"name":"","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

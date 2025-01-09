@@ -1,0 +1,1 @@
+[{"type":"function","constant":true,"inputs":[{"name":"testGovernor","internalType":"address","type":"address"}],"name":"mainIsGovernor","outputs":[{"name":"","internalType":"bool","type":"bool"}],"payable":false,"stateMutability":"view"}]

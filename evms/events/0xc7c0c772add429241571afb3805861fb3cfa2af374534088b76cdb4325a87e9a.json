@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"previousGovernor","internalType":"address","type":"address","indexed":true},{"name":"newGovernor","internalType":"address","type":"address","indexed":true}],"name":"GovernorshipTransferred"}]

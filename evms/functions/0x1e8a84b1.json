@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"strategy","internalType":"address","type":"address"},{"name":"approval","internalType":"bool","type":"bool"}],"name":"updateStrategyApproval","outputs":[],"stateMutability":"nonpayable"}]

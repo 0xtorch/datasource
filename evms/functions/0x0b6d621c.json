@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"","internalType":"address","type":"address"}],"name":"tokenAllocations","outputs":[{"name":"amount","internalType":"uint256","type":"uint256"},{"name":"initialAmount","internalType":"uint256","type":"uint256"},{"name":"totalClaimed","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

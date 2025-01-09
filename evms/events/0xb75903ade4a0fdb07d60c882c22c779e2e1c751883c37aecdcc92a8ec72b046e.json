@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"removedPauser","type":"address","indexed":true},{"name":"removedBy","type":"address","indexed":true}],"name":"PauserRemoved"}]

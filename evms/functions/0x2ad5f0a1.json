@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"vaultId","internalType":"uint256","type":"uint256"},{"name":"shouldNegate","internalType":"bool","type":"bool"}],"name":"setNegateEligibility","outputs":[],"stateMutability":"nonpayable"}]

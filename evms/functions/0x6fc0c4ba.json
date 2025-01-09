@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_priceManager","internalType":"contract IPriceManager","type":"address"},{"name":"_settingsManager","internalType":"contract ISettingsManager","type":"address"},{"name":"_positionVault","internalType":"contract IPositionVault","type":"address"}],"name":"setVaultSettings","outputs":[],"stateMutability":"nonpayable"}]

@@ -1,0 +1,1 @@
+[{"type":"function","constant":false,"inputs":[{"name":"_token0","internalType":"address","type":"address"},{"name":"_token1","internalType":"address","type":"address"},{"name":"_tokenWeight0","internalType":"uint32","type":"uint32"},{"name":"_swapFee","internalType":"uint32","type":"uint32"}],"name":"initialize","outputs":[],"payable":false,"stateMutability":"nonpayable"}]

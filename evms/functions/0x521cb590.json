@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"taskHash","internalType":"bytes32","type":"bytes32"}],"name":"dropTask","outputs":[{"name":"","internalType":"bool","type":"bool"}],"stateMutability":"nonpayable"}]

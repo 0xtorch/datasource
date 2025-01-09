@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"previousOperator","type":"address","indexed":true},{"name":"newOperator","type":"address","indexed":true}],"name":"PauseOperatorTransferred"}]

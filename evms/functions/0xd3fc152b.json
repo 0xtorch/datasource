@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"baseId","internalType":"bytes6","type":"bytes6"},{"name":"ilkId","internalType":"bytes6","type":"bytes6"},{"name":"max","internalType":"uint96","type":"uint96"},{"name":"min","internalType":"uint24","type":"uint24"},{"name":"dec","internalType":"uint8","type":"uint8"}],"name":"setDebtLimits","outputs":[],"stateMutability":"nonpayable"}]

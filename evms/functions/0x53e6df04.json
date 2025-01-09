@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"mToken","internalType":"address","type":"address"}],"name":"finalizedMTokenAmounts","outputs":[{"name":"finalizedMTokenAmount","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

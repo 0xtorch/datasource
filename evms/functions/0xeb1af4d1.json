@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_tokenId","internalType":"uint256","type":"uint256"},{"name":"_hashes","internalType":"bytes32[]","type":"bytes32[]"}],"name":"getRecords","outputs":[{"name":"values","internalType":"bytes32[]","type":"bytes32[]"},{"name":"trimmed","internalType":"bool[]","type":"bool[]"}],"stateMutability":"view"}]

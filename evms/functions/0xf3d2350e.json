@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"newManagingFee","internalType":"uint16","type":"uint16"},{"name":"newPerformanceFee","internalType":"uint16","type":"uint16"}],"name":"updateFees","outputs":[],"stateMutability":"nonpayable"}]

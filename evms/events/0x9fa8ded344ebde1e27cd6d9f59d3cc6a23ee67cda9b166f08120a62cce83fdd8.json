@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"admin","internalType":"address","type":"address","indexed":true},{"name":"message","internalType":"string","type":"string","indexed":false}],"name":"RuleUpdate"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"passID","internalType":"uint256","type":"uint256"},{"name":"_windowOpen","internalType":"uint256","type":"uint256"}],"name":"setRedeemStart","outputs":[],"stateMutability":"nonpayable"}]

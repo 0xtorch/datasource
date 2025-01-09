@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"contractAddress","internalType":"address","type":"address"},{"name":"supplyDecrement","internalType":"uint256","type":"uint256"}],"name":"removeSwapToken","outputs":[],"stateMutability":"nonpayable"}]

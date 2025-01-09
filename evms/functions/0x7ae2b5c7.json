@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"a","internalType":"uint256","type":"uint256"},{"name":"b","internalType":"uint256","type":"uint256"}],"name":"min","outputs":[{"name":"","internalType":"uint256","type":"uint256"}],"stateMutability":"pure"}]

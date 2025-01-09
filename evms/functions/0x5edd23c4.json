@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_gameId","internalType":"string","type":"string"},{"name":"_maxIssuance","internalType":"uint256","type":"uint256"},{"name":"_price","internalType":"uint256","type":"uint256"},{"name":"_gameURI","internalType":"string","type":"string"}],"name":"addGame","outputs":[],"stateMutability":"nonpayable"}]

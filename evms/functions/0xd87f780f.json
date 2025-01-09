@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"supplyCap","internalType":"uint16","type":"uint16"},{"name":"borrowCap","internalType":"uint16","type":"uint16"}],"name":"setCaps","outputs":[],"stateMutability":"nonpayable"}]

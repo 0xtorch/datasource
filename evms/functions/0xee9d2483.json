@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_peekaboo","internalType":"address","type":"address"},{"name":"_BOO","internalType":"address","type":"address"},{"name":"_daily_boo_reward_rate","internalType":"uint256[6]","type":"uint256[6]"}],"name":"initialize","outputs":[],"stateMutability":"nonpayable"}]

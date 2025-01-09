@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"inPath_","internalType":"bytes","type":"bytes"},{"name":"outPath_","internalType":"bytes","type":"bytes"}],"name":"updatePaths","outputs":[],"stateMutability":"nonpayable"}]

@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"methodID","internalType":"bytes4","type":"bytes4","indexed":true},{"name":"oldFeature","internalType":"address","type":"address","indexed":false},{"name":"newFeature","internalType":"address","type":"address","indexed":false}],"name":"FeatureFunctionUpdated"}]

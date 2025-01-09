@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"collectionType","internalType":"enum CollectionType","type":"uint8"},{"name":"creator","internalType":"address","type":"address"},{"name":"contractCreationNonce","internalType":"uint96","type":"uint96"}],"name":"predictCollectionAddress","outputs":[{"name":"collection","internalType":"address","type":"address"}],"stateMutability":"view"}]

@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"_vaultFeeP","internalType":"uint256","type":"uint256","indexed":false},{"name":"_liqFeeP","internalType":"uint256","type":"uint256","indexed":false},{"name":"_liqTotalFeeP","internalType":"uint256","type":"uint256","indexed":false}],"name":"FeeUpdated"}]

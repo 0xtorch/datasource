@@ -1,0 +1,1 @@
+[{"type":"function","constant":false,"inputs":[{"name":"jToken","internalType":"address","type":"address"},{"name":"newVersion","internalType":"enum JoetrollerV1Storage.Version","type":"uint8"}],"name":"updateJTokenVersion","outputs":[],"payable":false,"stateMutability":"nonpayable"}]

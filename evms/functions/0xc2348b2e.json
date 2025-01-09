@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"poolNo_","internalType":"uint8","type":"uint8"},{"name":"apyNoLock_","internalType":"uint256","type":"uint256"},{"name":"apy15Day_","internalType":"uint256","type":"uint256"},{"name":"apy30Day_","internalType":"uint256","type":"uint256"}],"name":"updatePoolApys","outputs":[],"stateMutability":"nonpayable"}]

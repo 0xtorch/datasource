@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"depositor","internalType":"address","type":"address"},{"name":"index","internalType":"uint256","type":"uint256"}],"name":"stakedByIndex","outputs":[{"name":"","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

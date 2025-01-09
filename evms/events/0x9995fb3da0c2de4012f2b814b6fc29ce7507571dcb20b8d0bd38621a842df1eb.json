@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"messageHashes","internalType":"bytes32[]","type":"bytes32[]","indexed":false}],"name":"L1L2MessageHashesAddedToInbox"}]

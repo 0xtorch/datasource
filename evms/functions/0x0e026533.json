@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"to","internalType":"address","type":"address"},{"name":"words","internalType":"string[]","type":"string[]"}],"name":"preMint","outputs":[],"stateMutability":"nonpayable"}]

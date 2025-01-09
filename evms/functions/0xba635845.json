@@ -1,0 +1,1 @@
+[{"type":"function","constant":false,"inputs":[{"name":"packType","internalType":"enum Pack.Type","type":"uint8"},{"name":"price","internalType":"uint256","type":"uint256"},{"name":"chest","internalType":"address","type":"address"},{"name":"chestSize","internalType":"uint256","type":"uint256"}],"name":"setPack","outputs":[],"payable":false,"stateMutability":"nonpayable"}]

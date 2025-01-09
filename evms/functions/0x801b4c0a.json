@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_withToken","internalType":"address","type":"address"},{"name":"_tokenID","internalType":"uint256","type":"uint256"},{"name":"_nftAmountForMint","internalType":"uint256","type":"uint256"}],"name":"mintWithERC20","outputs":[],"stateMutability":"nonpayable"}]

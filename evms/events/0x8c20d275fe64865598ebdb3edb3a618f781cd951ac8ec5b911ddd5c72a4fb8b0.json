@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"by","internalType":"address","type":"address","indexed":false},{"name":"merkleRoot","internalType":"bytes32","type":"bytes32","indexed":false}],"name":"SetMerkleRoot"}]

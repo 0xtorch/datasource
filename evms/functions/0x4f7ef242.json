@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_nftids","internalType":"uint256","type":"uint256"},{"name":"_comment","internalType":"string","type":"string"}],"name":"setNftcomment","outputs":[],"stateMutability":"nonpayable"}]

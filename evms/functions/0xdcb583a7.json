@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"specialTypeArray","internalType":"uint256[]","type":"uint256[]"},{"name":"patternArray","internalType":"uint256[]","type":"uint256[]"}],"name":"setClothPattern","outputs":[],"stateMutability":"nonpayable"}]

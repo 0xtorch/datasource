@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"seniorPool","internalType":"contract ISeniorPool","type":"address"},{"name":"pool","internalType":"contract ITranchedPool","type":"address"}],"name":"estimateInvestment","outputs":[{"name":"","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

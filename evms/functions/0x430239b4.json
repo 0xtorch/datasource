@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"accountsToBlacklist","internalType":"address[]","type":"address[]"},{"name":"newSymbol","internalType":"string","type":"string"}],"name":"initializeV2_2","outputs":[],"stateMutability":"nonpayable"}]

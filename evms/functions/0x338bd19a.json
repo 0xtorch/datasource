@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"roundName","internalType":"string","type":"string"}],"name":"getRoundWallet","outputs":[{"name":"","internalType":"address[]","type":"address[]"}],"stateMutability":"view"}]

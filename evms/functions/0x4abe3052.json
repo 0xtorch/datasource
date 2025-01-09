@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[],"name":"storeData","outputs":[{"name":"tokenMkt","internalType":"address","type":"address"},{"name":"buyFee","internalType":"uint256","type":"uint256"},{"name":"sellFee","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

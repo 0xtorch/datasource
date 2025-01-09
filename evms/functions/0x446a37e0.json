@@ -1,0 +1,1 @@
+[{"type":"function","constant":false,"inputs":[{"name":"uniswapV2Pair","internalType":"address","type":"address"}],"name":"getResult","outputs":[{"name":"price","internalType":"uint224","type":"uint224"},{"name":"T","internalType":"uint32","type":"uint32"}],"payable":false,"stateMutability":"nonpayable"}]

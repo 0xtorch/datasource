@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_phaseId","internalType":"uint256","type":"uint256"},{"name":"_address","internalType":"address","type":"address"}],"name":"getUserMintedAmountByPhaseId","outputs":[{"name":"","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

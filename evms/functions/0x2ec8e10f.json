@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"nftID","internalType":"uint256","type":"uint256"},{"name":"id","internalType":"uint256","type":"uint256"},{"name":"what","internalType":"string","type":"string"}],"name":"customThing","outputs":[],"stateMutability":"payable"}]

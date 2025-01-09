@@ -1,0 +1,1 @@
+[{"type":"function","constant":false,"inputs":[{"name":"from","type":"address"},{"name":"to","type":"address"},{"name":"sizes","type":"uint256[]"},{"name":"xs","type":"uint256[]"},{"name":"ys","type":"uint256[]"},{"name":"data","type":"bytes"}],"name":"batchTransferQuad","outputs":[],"payable":false,"stateMutability":"nonpayable"}]

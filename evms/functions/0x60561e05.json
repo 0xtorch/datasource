@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"from","internalType":"address","type":"address"},{"name":"to","internalType":"address","type":"address"},{"name":"fyDaiIn","internalType":"uint128","type":"uint128"}],"name":"sellFYDai","outputs":[{"name":"","internalType":"uint128","type":"uint128"}],"stateMutability":"nonpayable"}]

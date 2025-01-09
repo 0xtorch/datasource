@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_masterWombat","internalType":"address","type":"address"},{"name":"_booster","internalType":"address","type":"address"},{"name":"_depositor","internalType":"address","type":"address"}],"name":"setParams","outputs":[],"stateMutability":"nonpayable"}]

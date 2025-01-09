@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"starkKey","internalType":"uint256","type":"uint256"}],"name":"isRegistered","outputs":[{"name":"","internalType":"bool","type":"bool"}],"stateMutability":"view"}]

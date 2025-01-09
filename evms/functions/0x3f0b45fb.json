@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"liquidityFeeConract","internalType":"uint256","type":"uint256"}],"name":"setLiquidityFeeContractPercent","outputs":[],"stateMutability":"nonpayable"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_startDate","internalType":"uint64","type":"uint64"},{"name":"_maxMultiplier","internalType":"uint192","type":"uint192"}],"name":"setStartDateAndMaxMultiplier","outputs":[],"stateMutability":"nonpayable"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"a1","internalType":"address","type":"address"},{"name":"a2","internalType":"address","type":"address"},{"name":"a3","internalType":"address","type":"address"},{"name":"a4","internalType":"address","type":"address"}],"name":"updateStreams","outputs":[],"stateMutability":"nonpayable"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_vestingPercentage","internalType":"uint256","type":"uint256"}],"name":"setVestingPercentage","outputs":[],"stateMutability":"nonpayable"}]

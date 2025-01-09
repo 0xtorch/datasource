@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"sender","internalType":"address","type":"address"},{"name":"setQuantity","internalType":"uint256","type":"uint256"},{"name":"_specialType","internalType":"uint256","type":"uint256"}],"name":"mintSlothCollectionAll","outputs":[],"stateMutability":"nonpayable"}]

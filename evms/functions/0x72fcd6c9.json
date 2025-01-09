@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"questId","internalType":"uint256","type":"uint256"},{"name":"newAdmin","internalType":"address","type":"address"}],"name":"updateEscrowAdmin","outputs":[],"stateMutability":"nonpayable"}]

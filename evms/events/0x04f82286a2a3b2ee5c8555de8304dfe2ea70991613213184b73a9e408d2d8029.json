@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"account","internalType":"address","type":"address","indexed":false},{"name":"code","internalType":"bytes32","type":"bytes32","indexed":false}],"name":"RegisterCode"}]

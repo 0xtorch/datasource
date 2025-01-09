@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"termStartTimestampInWeiSeconds","internalType":"uint256","type":"uint256"},{"name":"termEndTimestampInWeiSeconds","internalType":"uint256","type":"uint256"}],"name":"variableFactor","outputs":[{"name":"resultWad","internalType":"uint256","type":"uint256"}],"stateMutability":"nonpayable"}]

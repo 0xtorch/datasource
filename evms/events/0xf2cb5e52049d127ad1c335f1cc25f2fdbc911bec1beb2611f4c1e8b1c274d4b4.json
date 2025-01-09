@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"minter","internalType":"address","type":"address","indexed":true},{"name":"price","internalType":"uint256","type":"uint256","indexed":false},{"name":"nftID","internalType":"uint256","type":"uint256","indexed":false},{"name":"uri","internalType":"string","type":"string","indexed":false}],"name":"Minted"}]

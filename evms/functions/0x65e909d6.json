@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"id","internalType":"uint256","type":"uint256"},{"name":"quantities","internalType":"uint32[]","type":"uint32[]"},{"name":"recipients","internalType":"address[]","type":"address[]"}],"name":"airdropToken","outputs":[],"stateMutability":"nonpayable"}]

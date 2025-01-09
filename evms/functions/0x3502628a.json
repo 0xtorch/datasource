@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"account","internalType":"address","type":"address"},{"name":"share","internalType":"uint256","type":"uint256"}],"name":"addFeeCollector","outputs":[],"stateMutability":"nonpayable"}]

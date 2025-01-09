@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"ctx","internalType":"bytes","type":"bytes"},{"name":"app","internalType":"contract ISuperApp","type":"address"},{"name":"reason","internalType":"uint256","type":"uint256"}],"name":"jailApp","outputs":[{"name":"newCtx","internalType":"bytes","type":"bytes"}],"stateMutability":"nonpayable"}]

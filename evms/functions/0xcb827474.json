@@ -1,0 +1,1 @@
+[{"type":"function","constant":false,"inputs":[{"name":"depositAmount","internalType":"uint256","type":"uint256"}],"name":"initiateDeposit","outputs":[],"payable":false,"stateMutability":"nonpayable"}]

@@ -1,0 +1,1 @@
+[{"type":"function","constant":true,"inputs":[{"name":"listId","type":"uint256"}],"name":"isAllowedForList","outputs":[{"name":"","type":"bool"}],"payable":false,"stateMutability":"view"}]

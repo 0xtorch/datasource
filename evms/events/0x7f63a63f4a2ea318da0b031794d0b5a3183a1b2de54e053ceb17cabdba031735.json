@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"assetAddress","internalType":"contract IERC20","type":"address","indexed":false},{"name":"assetSymbol","internalType":"string","type":"string","indexed":false}],"name":"TokenSymbolAdded"}]

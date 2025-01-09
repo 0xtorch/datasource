@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"newLiquidityTax","internalType":"uint256","type":"uint256"},{"name":"newMarketingTax","internalType":"uint256","type":"uint256"},{"name":"newsellBurnedFee","internalType":"uint256","type":"uint256"}],"name":"setselltax","outputs":[],"stateMutability":"nonpayable"}]

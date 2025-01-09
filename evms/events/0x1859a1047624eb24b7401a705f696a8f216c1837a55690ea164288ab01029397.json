@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"staker","internalType":"address","type":"address","indexed":true},{"name":"stakee","internalType":"address","type":"address","indexed":true},{"name":"amount","internalType":"uint88","type":"uint88","indexed":false}],"name":"Release"}]

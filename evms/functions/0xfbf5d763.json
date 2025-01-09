@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"","internalType":"bytes4","type":"bytes4"}],"name":"selector2codec","outputs":[{"name":"","internalType":"contract ICodec","type":"address"}],"stateMutability":"view"}]

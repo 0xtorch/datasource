@@ -1,0 +1,1 @@
+[{"type":"function","constant":false,"inputs":[{"name":"_lidoLocator","type":"address"},{"name":"_eip712StETH","type":"address"}],"name":"finalizeUpgrade_v2","outputs":[],"payable":false,"stateMutability":"nonpayable"}]

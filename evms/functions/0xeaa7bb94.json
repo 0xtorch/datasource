@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"tokenId","internalType":"uint256","type":"uint256"}],"name":"tokenMintData","outputs":[{"name":"data","internalType":"uint80","type":"uint80"}],"stateMutability":"view"}]

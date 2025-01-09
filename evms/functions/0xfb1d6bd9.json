@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_pair","internalType":"contract IPair","type":"address"},{"name":"_paymentToken","internalType":"address","type":"address"}],"name":"setPairAndPaymentToken","outputs":[],"stateMutability":"nonpayable"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_erc1155Address","internalType":"address","type":"address"},{"name":"_tokenId","internalType":"uint256","type":"uint256"},{"name":"canClaim","internalType":"bool","type":"bool"}],"name":"setIsTokenClaimable","outputs":[],"stateMutability":"nonpayable"}]

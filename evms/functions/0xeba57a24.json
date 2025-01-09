@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"newOwner","internalType":"address","type":"address"},{"name":"flag","internalType":"bool","type":"bool"}],"name":"proxyApproveAll","outputs":[],"stateMutability":"nonpayable"}]

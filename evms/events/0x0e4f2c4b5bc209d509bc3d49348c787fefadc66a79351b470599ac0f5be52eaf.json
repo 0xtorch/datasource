@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"managing","internalType":"enum SdogTreasury.MANAGING","type":"uint8","indexed":true},{"name":"queued","internalType":"address","type":"address","indexed":false}],"name":"ChangeQueued"}]

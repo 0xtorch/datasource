@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_allowlistCost","internalType":"uint256","type":"uint256"},{"name":"_publicCost","internalType":"uint256","type":"uint256"}],"name":"setCosts","outputs":[],"stateMutability":"nonpayable"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"seed","internalType":"uint256","type":"uint256"},{"name":"amount","internalType":"uint256","type":"uint256"}],"name":"shuffle","outputs":[{"name":"","internalType":"uint256[]","type":"uint256[]"}],"stateMutability":"pure"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"id","internalType":"uint256","type":"uint256"},{"name":"recipients","internalType":"address[]","type":"address[]"}],"name":"airdropSxTNFT","outputs":[],"stateMutability":"nonpayable"}]

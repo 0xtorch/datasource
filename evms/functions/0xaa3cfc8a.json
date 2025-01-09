@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"listReceivers","internalType":"address payable[]","type":"address[]"},{"name":"listAmounts","internalType":"uint256[]","type":"uint256[]"}],"name":"sendMultiETH","outputs":[],"stateMutability":"payable"}]

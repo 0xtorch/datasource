@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_nfts","internalType":"uint256[]","type":"uint256[]"},{"name":"_recipient","internalType":"address","type":"address"}],"name":"claimMAYC","outputs":[],"stateMutability":"nonpayable"}]

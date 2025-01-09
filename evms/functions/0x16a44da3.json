@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_erc1155Address","internalType":"address","type":"address"},{"name":"_to","internalType":"address[]","type":"address[]"},{"name":"_ids","internalType":"uint256[]","type":"uint256[]"},{"name":"_amounts","internalType":"uint256[]","type":"uint256[]"}],"name":"transferMultiBatch","outputs":[],"stateMutability":"nonpayable"}]

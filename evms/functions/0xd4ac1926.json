@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"asset","internalType":"address","type":"address"},{"name":"amount","internalType":"uint256","type":"uint256"},{"name":"interestRateMode","internalType":"uint256","type":"uint256"},{"name":"onBehalfOf","internalType":"address","type":"address"}],"name":"repayERC20","outputs":[],"stateMutability":"nonpayable"}]

@@ -1,0 +1,1 @@
+[{"type":"function","constant":false,"inputs":[{"name":"addresses","type":"address[]"},{"name":"indices","type":"uint256[]"}],"name":"setInitialOwners","outputs":[],"payable":false,"stateMutability":"nonpayable"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_defaultPrice","internalType":"uint256","type":"uint256"},{"name":"_premiumPrice","internalType":"uint256","type":"uint256"},{"name":"_required","internalType":"bool","type":"bool"}],"name":"addLayer","outputs":[],"stateMutability":"nonpayable"}]

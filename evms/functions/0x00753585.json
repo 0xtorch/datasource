@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"account","internalType":"address","type":"address"}],"name":"cancelGrantRequest","outputs":[],"stateMutability":"nonpayable"}]

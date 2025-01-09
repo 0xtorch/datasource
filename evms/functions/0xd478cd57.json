@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[],"name":"feeSchedule","outputs":[{"name":"feeCollector","internalType":"address","type":"address"},{"name":"feeBps","internalType":"uint16","type":"uint16"}],"stateMutability":"view"}]

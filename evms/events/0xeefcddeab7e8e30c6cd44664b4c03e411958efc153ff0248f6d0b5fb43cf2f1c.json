@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"boxId","internalType":"uint256","type":"uint256","indexed":false},{"name":"numberOfAnts","internalType":"uint256","type":"uint256","indexed":false}],"name":"OpenBox"}]

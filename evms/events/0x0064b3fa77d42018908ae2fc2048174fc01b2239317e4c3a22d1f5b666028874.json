@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"bowlImage","internalType":"string","type":"string","indexed":false},{"name":"updatedBy","internalType":"address","type":"address","indexed":false}],"name":"UpdatedBowlEmptyIPFS"}]

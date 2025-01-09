@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_currentOpenPnl","internalType":"int256","type":"int256"}],"name":"setCurrentOpenPnl","outputs":[],"stateMutability":"nonpayable"}]

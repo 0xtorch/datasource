@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"count_","internalType":"uint64","type":"uint64"}],"name":"getRootByCount","outputs":[{"name":"","internalType":"bytes32","type":"bytes32"}],"stateMutability":"view"}]

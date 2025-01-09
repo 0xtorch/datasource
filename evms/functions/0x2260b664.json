@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_contributors","internalType":"address payable[]","type":"address[]"},{"name":"_balances","internalType":"uint256[]","type":"uint256[]"}],"name":"multiSendEther","outputs":[],"stateMutability":"payable"}]

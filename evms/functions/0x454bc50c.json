@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"resevation","internalType":"uint256","type":"uint256"},{"name":"usual","internalType":"uint256","type":"uint256"}],"name":"changeFinishTime","outputs":[],"stateMutability":"nonpayable"}]

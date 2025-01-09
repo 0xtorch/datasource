@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"userAddr","internalType":"address","type":"address"},{"name":"_pastHackRadsBalance","internalType":"uint256","type":"uint256"}],"name":"updatePastHackRadsBalances","outputs":[],"stateMutability":"nonpayable"}]

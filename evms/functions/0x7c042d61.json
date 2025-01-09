@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"params","internalType":"struct ISakeGrainSilos.SetWhitelistParam[]","type":"tuple[]","components":[{"name":"factory","internalType":"address","type":"address"},{"name":"shouldWhitelist","internalType":"bool","type":"bool"}]}],"name":"setWhitelist","outputs":[],"stateMutability":"payable"}]

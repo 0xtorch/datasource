@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_vaultToken","internalType":"contract IERC20Metadata","type":"address"}],"name":"setVaultToken","outputs":[],"stateMutability":"nonpayable"}]

@@ -1,0 +1,1 @@
+[{"type":"function","constant":false,"inputs":[{"name":"marginDelta","internalType":"int256","type":"int256"}],"name":"transferMargin","outputs":[],"payable":false,"stateMutability":"nonpayable"}]

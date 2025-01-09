@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"owner","internalType":"address","type":"address","indexed":true},{"name":"assets","internalType":"uint256","type":"uint256","indexed":false},{"name":"receiver","internalType":"address","type":"address","indexed":false},{"name":"retention","internalType":"uint256","type":"uint256","indexed":false}],"name":"Withdraw"}]

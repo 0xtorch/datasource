@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"rollNum","internalType":"uint256","type":"uint256"},{"name":"gasPrice","internalType":"uint256","type":"uint256"}],"name":"estimateFee","outputs":[{"name":"estimatedFee","internalType":"uint256","type":"uint256"},{"name":"callbackGasLimit","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

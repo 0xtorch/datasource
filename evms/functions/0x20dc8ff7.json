@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"erc20Contract","internalType":"contract IERC20","type":"address"}],"name":"splitERC20Tokens","outputs":[],"stateMutability":"nonpayable"}]

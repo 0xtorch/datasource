@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_tokenId","internalType":"uint256","type":"uint256"},{"name":"_conditionId","internalType":"uint256","type":"uint256"},{"name":"_claimer","internalType":"address","type":"address"}],"name":"getSupplyClaimedByWallet","outputs":[{"name":"supplyClaimedByWallet","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

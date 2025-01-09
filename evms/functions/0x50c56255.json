@@ -1,0 +1,1 @@
+[{"type":"function","constant":true,"inputs":[{"name":"purchaseID","internalType":"uint256","type":"uint256"},{"name":"cardIndex","internalType":"uint256","type":"uint256"}],"name":"isActivated","outputs":[{"name":"","internalType":"bool","type":"bool"}],"payable":false,"stateMutability":"view"}]

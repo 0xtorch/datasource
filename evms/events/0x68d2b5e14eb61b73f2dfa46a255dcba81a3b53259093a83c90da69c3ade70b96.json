@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"_bridgeProviders","internalType":"string[]","type":"string[]","indexed":false},{"name":"_bridgeAdapters","internalType":"address[]","type":"address[]","indexed":false}],"name":"SupportedBridgesUpdated"}]

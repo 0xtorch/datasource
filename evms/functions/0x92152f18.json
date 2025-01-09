@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"deployerAddress","internalType":"address","type":"address"}],"name":"setDeployerAddress","outputs":[],"stateMutability":"nonpayable"}]

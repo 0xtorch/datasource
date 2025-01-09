@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"amount","internalType":"uint256","type":"uint256"}],"name":"toUnderlyingAmount","outputs":[{"name":"underlyingAmount","internalType":"uint256","type":"uint256"},{"name":"adjustedAmount","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

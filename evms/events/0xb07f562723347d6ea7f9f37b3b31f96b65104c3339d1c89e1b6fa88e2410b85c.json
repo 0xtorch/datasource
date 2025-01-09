@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"domain","internalType":"uint32","type":"uint32","indexed":false},{"name":"remote","internalType":"address","type":"address","indexed":false},{"name":"caller","internalType":"address","type":"address","indexed":false}],"name":"RemoteAdded"}]

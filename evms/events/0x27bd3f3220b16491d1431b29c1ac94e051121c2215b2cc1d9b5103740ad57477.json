@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"rewards_liquidator","type":"address","indexed":false}],"name":"RewardsLiquidatorUpdated"}]

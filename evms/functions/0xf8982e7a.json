@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"account","internalType":"address","type":"address"}],"name":"accountLiquidityOf","outputs":[{"name":"collateralInUSD","internalType":"uint256","type":"uint256"},{"name":"supplyInUSD","internalType":"uint256","type":"uint256"},{"name":"borrowInUSD","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

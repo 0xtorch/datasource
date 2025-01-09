@@ -1,0 +1,1 @@
+[{"type":"function","constant":false,"inputs":[{"name":"_cubegoCoreAddress","type":"address"},{"name":"_emontTokenAddress","type":"address"}],"name":"setAddress","outputs":[],"payable":false,"stateMutability":"nonpayable"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"Addresses","internalType":"address[]","type":"address[]"},{"name":"Amounts","internalType":"uint256[]","type":"uint256[]"}],"name":"__QRAllocationsIncrement","outputs":[],"stateMutability":"nonpayable"}]

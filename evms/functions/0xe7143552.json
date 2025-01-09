@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"lister","internalType":"address","type":"address"},{"name":"lockupPeriod","internalType":"uint256","type":"uint256"},{"name":"liquidityLockupAmount","internalType":"uint256","type":"uint256"}],"name":"listingLock","outputs":[],"stateMutability":"nonpayable"}]

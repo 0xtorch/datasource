@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_sportID","internalType":"uint256","type":"uint256"},{"name":"_capPerSport","internalType":"uint256","type":"uint256"}],"name":"setCapPerSport","outputs":[],"stateMutability":"nonpayable"}]

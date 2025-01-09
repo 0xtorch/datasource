@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"subaccountName","internalType":"bytes12","type":"bytes12"},{"name":"productId","internalType":"uint32","type":"uint32"},{"name":"amount","internalType":"uint128","type":"uint128"}],"name":"depositCollateral","outputs":[],"stateMutability":"nonpayable"}]

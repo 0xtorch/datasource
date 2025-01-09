@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[],"name":"stateBeforePause","outputs":[{"name":"","internalType":"enum OpynPerpVault.VaultState","type":"uint8"}],"stateMutability":"view"}]

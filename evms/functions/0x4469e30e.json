@@ -1,0 +1,1 @@
+[{"type":"function","gas":2311,"inputs":[],"name":"get_price_cumulative_last","outputs":[{"name":"","type":"uint256[2]"}],"stateMutability":"view"}]

@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"assetOwner","type":"address","indexed":true},{"name":"tokenId","type":"uint256","indexed":false},{"name":"at","type":"uint256","indexed":false},{"name":"eventHash","type":"bytes32","indexed":true}],"name":"WithdrawEvent"}]

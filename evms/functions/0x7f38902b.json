@@ -1,0 +1,1 @@
+[{"type":"function","constant":true,"inputs":[],"name":"genArtCoreContract","outputs":[{"name":"","internalType":"contract IGenArt721CoreV2_PBAB","type":"address"}],"payable":false,"stateMutability":"view"}]

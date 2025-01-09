@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"newMooniswapFactoryGovernance","internalType":"contract IMooniswapFactoryGovernance","type":"address"}],"name":"setMooniswapFactoryGovernance","outputs":[],"stateMutability":"nonpayable"}]

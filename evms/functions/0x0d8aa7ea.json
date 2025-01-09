@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"data","internalType":"struct RangoOptimismBridgeFacet.OptimismBridgeInitData[]","type":"tuple[]","components":[{"name":"bridgeAddress","internalType":"address","type":"address"}]}],"name":"initOptimism","outputs":[],"stateMutability":"nonpayable"}]

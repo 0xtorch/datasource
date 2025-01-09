@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_gene","internalType":"uint256","type":"uint256"},{"name":"_energy","internalType":"uint256","type":"uint256"},{"name":"_generation","internalType":"uint16","type":"uint16"},{"name":"_owner","internalType":"address","type":"address"}],"name":"createAlpaca","outputs":[],"stateMutability":"nonpayable"}]

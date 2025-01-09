@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_layerIndex","internalType":"uint256","type":"uint256"},{"name":"_supply","internalType":"uint256","type":"uint256"}],"name":"addSuppliableItem","outputs":[],"stateMutability":"nonpayable"}]

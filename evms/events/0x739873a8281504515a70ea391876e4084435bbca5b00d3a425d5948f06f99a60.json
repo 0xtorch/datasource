@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"_oldAdapter","internalType":"address","type":"address","indexed":false},{"name":"_newAdapter","internalType":"address","type":"address","indexed":false}],"name":"UpdateAdapter"}]

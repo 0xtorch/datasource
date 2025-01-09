@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_master","internalType":"address","type":"address"},{"name":"_list","internalType":"address","type":"address"},{"name":"_account","internalType":"address","type":"address"}],"name":"setBasics","outputs":[],"stateMutability":"nonpayable"}]

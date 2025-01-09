@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_requester","internalType":"address","type":"address"},{"name":"_authorized","internalType":"bool","type":"bool"},{"name":"_delay","internalType":"uint32","type":"uint32"}],"name":"setRequesterPermissions","outputs":[],"stateMutability":"nonpayable"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"queryAddress","internalType":"address","type":"address"}],"name":"isAllowedAddress","outputs":[{"name":"","internalType":"bool","type":"bool"}],"stateMutability":"view"}]

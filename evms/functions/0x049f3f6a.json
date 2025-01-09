@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"voteCode","internalType":"uint256","type":"uint256"}],"name":"claimVotedTokens","outputs":[],"stateMutability":"nonpayable"}]

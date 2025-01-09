@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"minterAddresses","internalType":"address[]","type":"address[]"},{"name":"stakingContract","internalType":"address","type":"address"}],"name":"init","outputs":[],"stateMutability":"nonpayable"}]

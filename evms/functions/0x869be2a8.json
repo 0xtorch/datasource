@@ -1,0 +1,1 @@
+[{"type":"function","constant":true,"inputs":[{"name":"","type":"uint8"}],"name":"_stageCondition","outputs":[{"name":"price","type":"uint256"},{"name":"limitFund","type":"uint256"},{"name":"startTime","type":"uint256"},{"name":"maxSoldAmount","type":"uint256"}],"payable":false,"stateMutability":"view"}]

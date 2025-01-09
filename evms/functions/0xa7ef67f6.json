@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"outputToken","internalType":"address","type":"address"},{"name":"outputAmount","internalType":"uint256","type":"uint256"},{"name":"anchorToken","internalType":"address","type":"address"}],"name":"getQuantity","outputs":[{"name":"","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

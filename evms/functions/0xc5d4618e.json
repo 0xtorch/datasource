@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_collection","internalType":"address","type":"address"},{"name":"_tokenIds","internalType":"uint256[]","type":"uint256[]"}],"name":"canTokensBeListed","outputs":[{"name":"listingStatuses","internalType":"bool[]","type":"bool[]"}],"stateMutability":"view"}]

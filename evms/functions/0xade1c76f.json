@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"newSellingTickets","internalType":"uint256","type":"uint256"},{"name":"newPrice","internalType":"uint256","type":"uint256"}],"name":"updateSellingInfo","outputs":[],"stateMutability":"nonpayable"}]

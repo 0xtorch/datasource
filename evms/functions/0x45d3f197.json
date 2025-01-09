@@ -1,0 +1,1 @@
+[{"type":"function","constant":true,"inputs":[{"name":"addr","type":"address"}],"name":"getInviteInfo","outputs":[{"name":"parent","type":"address"},{"name":"childCnt","type":"uint256"},{"name":"","type":"uint256[2]"}],"payable":false,"stateMutability":"view"}]

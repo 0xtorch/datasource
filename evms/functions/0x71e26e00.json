@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"shares","internalType":"uint256","type":"uint256"}],"name":"getValueByShares","outputs":[{"name":"value","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

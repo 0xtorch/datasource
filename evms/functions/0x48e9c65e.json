@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"arg0","type":"address"}],"name":"reward_data","outputs":[{"name":"","type":"tuple","components":[{"name":"distributor","type":"address"},{"name":"period_finish","type":"uint256"},{"name":"rate","type":"uint256"},{"name":"last_update","type":"uint256"},{"name":"integral","type":"uint256"}]}],"stateMutability":"view"}]

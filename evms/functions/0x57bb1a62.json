@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"lender","internalType":"address","type":"address"},{"name":"status","internalType":"bool","type":"bool"}],"name":"updateLenderStatus","outputs":[],"stateMutability":"nonpayable"}]

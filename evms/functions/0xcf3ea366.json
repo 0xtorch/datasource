@@ -1,0 +1,1 @@
+[{"type":"function","constant":false,"inputs":[{"name":"_amountUsdt","type":"uint256"},{"name":"_beneficiary","type":"address"}],"name":"buyTokensUsdt","outputs":[],"payable":false,"stateMutability":"nonpayable"}]

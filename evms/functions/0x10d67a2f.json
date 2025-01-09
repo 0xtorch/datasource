@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"newPauserRegistry","internalType":"contract IPauserRegistry","type":"address"}],"name":"setPauserRegistry","outputs":[],"stateMutability":"nonpayable"}]

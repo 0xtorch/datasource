@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_collateralAddress","internalType":"address","type":"address"}],"name":"_getSyntheticDecimals","outputs":[{"name":"decimals","internalType":"uint8","type":"uint8"}],"stateMutability":"view"}]

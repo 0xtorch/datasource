@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"account_","internalType":"address","type":"address"},{"name":"isLiquidityPool_","internalType":"bool","type":"bool"}],"name":"setIsLiquidityPool","outputs":[],"stateMutability":"nonpayable"}]

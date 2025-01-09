@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"newMax","internalType":"uint256","type":"uint256"}],"name":"setMaxBuy","outputs":[{"name":"","internalType":"bool","type":"bool"}],"stateMutability":"nonpayable"}]

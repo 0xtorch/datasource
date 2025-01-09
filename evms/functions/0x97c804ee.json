@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_tierLevel","internalType":"uint256[]","type":"uint256[]"},{"name":"_tierPrice","internalType":"uint256[]","type":"uint256[]"}],"name":"setTierPrice","outputs":[],"stateMutability":"nonpayable"}]

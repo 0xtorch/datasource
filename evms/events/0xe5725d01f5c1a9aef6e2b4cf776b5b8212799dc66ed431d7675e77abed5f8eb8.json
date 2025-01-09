@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"bunnyId","internalType":"uint8","type":"uint8","indexed":true},{"name":"thresholdUser","internalType":"uint256","type":"uint256","indexed":false},{"name":"costCake","internalType":"uint256","type":"uint256","indexed":false},{"name":"isActive","internalType":"bool","type":"bool","indexed":false}],"name":"BunnyChange"}]

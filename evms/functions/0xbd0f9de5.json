@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"underlying","internalType":"address","type":"address"},{"name":"symbol","internalType":"string","type":"string"},{"name":"priceMantissa","internalType":"uint256","type":"uint256"}],"name":"_setPrice","outputs":[],"stateMutability":"nonpayable"}]

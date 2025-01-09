@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"oldValidPeriod","internalType":"uint256","type":"uint256","indexed":false},{"name":"newValidPeriod","internalType":"uint256","type":"uint256","indexed":false}],"name":"ValidPeriodSet"}]

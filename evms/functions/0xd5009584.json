@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[],"name":"getManager","outputs":[{"name":"","internalType":"contract IAccountManager","type":"address"}],"stateMutability":"view"}]

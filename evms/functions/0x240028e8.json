@@ -1,0 +1,1 @@
+[{"type":"function","constant":true,"inputs":[{"name":"addr","type":"address"}],"name":"isSupportedToken","outputs":[{"name":"","type":"bool"}],"payable":false,"stateMutability":"view"}]

@@ -1,0 +1,1 @@
+[{"type":"function","constant":true,"inputs":[{"name":"_player","type":"address"}],"name":"getClaimStatus","outputs":[{"name":"","type":"bool"}],"payable":false,"stateMutability":"view"}]

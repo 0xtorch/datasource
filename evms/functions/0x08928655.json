@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"accounts","internalType":"address[]","type":"address[]"}],"name":"canRefund","outputs":[{"name":"refundable","internalType":"bool","type":"bool"}],"stateMutability":"view"}]

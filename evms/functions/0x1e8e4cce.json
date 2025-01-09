@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"to","internalType":"address","type":"address"},{"name":"blockNumber","internalType":"uint256","type":"uint256"},{"name":"styleId","internalType":"uint256","type":"uint256"},{"name":"metadata","internalType":"string","type":"string"}],"name":"mintArt","outputs":[],"stateMutability":"payable"}]

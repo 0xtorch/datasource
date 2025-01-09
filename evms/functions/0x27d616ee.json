@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"","internalType":"contract LockFarm","type":"address"}],"name":"stakingToken","outputs":[{"name":"","internalType":"contract IERC20","type":"address"}],"stateMutability":"view"}]

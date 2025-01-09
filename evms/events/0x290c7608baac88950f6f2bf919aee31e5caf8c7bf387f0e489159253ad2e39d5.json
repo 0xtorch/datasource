@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"oldMinStakingAmount","internalType":"uint256","type":"uint256","indexed":false},{"name":"newMinStakingAmount","internalType":"uint256","type":"uint256","indexed":false}],"name":"SettingsUpdated"}]

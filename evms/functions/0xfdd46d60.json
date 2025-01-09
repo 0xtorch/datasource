@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"streamId","internalType":"uint256","type":"uint256"},{"name":"to","internalType":"address","type":"address"},{"name":"amount","internalType":"uint128","type":"uint128"}],"name":"withdraw","outputs":[],"stateMutability":"nonpayable"}]

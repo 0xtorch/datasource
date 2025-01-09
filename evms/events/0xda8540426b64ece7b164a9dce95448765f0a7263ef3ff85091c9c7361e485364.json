@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"sequence","internalType":"uint64","type":"uint64","indexed":true},{"name":"deliveryQuote","internalType":"LocalNative","type":"uint256","indexed":false},{"name":"paymentForExtraReceiverValue","internalType":"LocalNative","type":"uint256","indexed":false}],"name":"SendEvent"}]

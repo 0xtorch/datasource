@@ -1,0 +1,1 @@
+[{"type":"function","constant":false,"inputs":[{"name":"_price","type":"uint256"},{"name":"_tokenIdStart","type":"uint256"},{"name":"_tokenCount","type":"uint256"}],"name":"bulkCreateLamboSale","outputs":[],"payable":false,"stateMutability":"nonpayable"}]

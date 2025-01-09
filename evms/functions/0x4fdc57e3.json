@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"LPamount","internalType":"uint256","type":"uint256"},{"name":"tokens","internalType":"address[]","type":"address[]"}],"name":"removeMultiple","outputs":[{"name":"success","internalType":"bool","type":"bool"}],"stateMutability":"nonpayable"}]

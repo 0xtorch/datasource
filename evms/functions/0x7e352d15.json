@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"token","internalType":"address","type":"address"},{"name":"data","internalType":"struct IDefaultBondStrategy.Data[]","type":"tuple[]","components":[{"name":"bond","internalType":"address","type":"address"},{"name":"ratioX96","internalType":"uint256","type":"uint256"}]}],"name":"setData","outputs":[],"stateMutability":"nonpayable"}]

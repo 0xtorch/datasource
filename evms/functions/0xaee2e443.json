@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"openPrice","internalType":"uint256","type":"uint256"},{"name":"leverage","internalType":"uint256","type":"uint256"},{"name":"tp","internalType":"uint256","type":"uint256"},{"name":"buy","internalType":"bool","type":"bool"}],"name":"correctTp","outputs":[{"name":"","internalType":"uint256","type":"uint256"}],"stateMutability":"pure"}]

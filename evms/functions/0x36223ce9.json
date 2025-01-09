@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[],"name":"getVaultReserve","outputs":[{"name":"baseReserve","internalType":"uint256","type":"uint256"},{"name":"quoteReserve","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

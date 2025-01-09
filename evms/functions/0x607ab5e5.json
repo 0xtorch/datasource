@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[],"name":"callerGuardMode","outputs":[{"name":"","internalType":"enum CallerGuard.CallerGuardMode","type":"uint8"}],"stateMutability":"view"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"txSender_","internalType":"address","type":"address"},{"name":"inputSlotInfo_","internalType":"bytes","type":"bytes"}],"name":"createSlotOnlyIssueMarket","outputs":[{"name":"slot_","internalType":"uint256","type":"uint256"}],"stateMutability":"nonpayable"}]

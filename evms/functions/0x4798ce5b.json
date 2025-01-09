@@ -1,0 +1,1 @@
+[{"type":"function","gas":427142,"inputs":[{"name":"_pool","type":"address"},{"name":"_from","type":"address"},{"name":"_to","type":"address"},{"name":"_amount","type":"uint256"},{"name":"_expected","type":"uint256"}],"name":"exchange","outputs":[{"name":"","type":"uint256"}],"stateMutability":"payable"}]

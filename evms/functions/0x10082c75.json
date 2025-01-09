@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[],"name":"assetPair","outputs":[{"name":"underlying","internalType":"bytes32","type":"bytes32"},{"name":"strike","internalType":"bytes32","type":"bytes32"}],"stateMutability":"view"}]

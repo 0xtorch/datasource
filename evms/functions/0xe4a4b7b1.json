@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"expectedTvl","internalType":"uint256","type":"uint256"},{"name":"maxDelta","internalType":"uint256","type":"uint256"}],"name":"harvest","outputs":[],"stateMutability":"nonpayable"}]

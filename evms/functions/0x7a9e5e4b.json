@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_newAuthority","internalType":"contract IRomeAuthority","type":"address"}],"name":"setAuthority","outputs":[],"stateMutability":"nonpayable"}]

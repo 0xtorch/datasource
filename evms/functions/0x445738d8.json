@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"name","internalType":"string","type":"string"},{"name":"takeRateInBasisPoints","internalType":"uint16","type":"uint16"},{"name":"sellers","internalType":"address[]","type":"address[]"}],"name":"createExhibition","outputs":[{"name":"worldOrExhibitionId","internalType":"uint256","type":"uint256"}],"stateMutability":"nonpayable"}]

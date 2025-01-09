@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"id","internalType":"bytes6","type":"bytes6","indexed":false}],"name":"TokenIdSet"}]

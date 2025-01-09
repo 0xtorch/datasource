@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"account","type":"address","indexed":true},{"name":"preRebaseTokenAmount","type":"uint256","indexed":false},{"name":"postRebaseTokenAmount","type":"uint256","indexed":false},{"name":"sharesAmount","type":"uint256","indexed":false}],"name":"SharesBurnt"}]

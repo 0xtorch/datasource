@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_option","internalType":"uint256","type":"uint256"},{"name":"_wallet","internalType":"address","type":"address"}],"name":"revoke","outputs":[],"stateMutability":"nonpayable"}]

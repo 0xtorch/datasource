@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_controlledToken","internalType":"address","type":"address"},{"name":"_principal","internalType":"uint256","type":"uint256"},{"name":"_interest","internalType":"uint256","type":"uint256"}],"name":"estimateCreditAccrualTime","outputs":[{"name":"durationSeconds","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

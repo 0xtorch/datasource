@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_packetHeader","internalType":"bytes","type":"bytes"},{"name":"_cmdHash","internalType":"bytes32","type":"bytes32"},{"name":"_payloadHash","internalType":"bytes32","type":"bytes32"}],"name":"verify","outputs":[],"stateMutability":"nonpayable"}]

@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"fee","internalType":"uint16","type":"uint16","indexed":false},{"name":"feeOperatorsBP","internalType":"uint16","type":"uint16","indexed":false},{"name":"feeTreasuryBP","internalType":"uint16","type":"uint16","indexed":false},{"name":"feeDevelopersBP","internalType":"uint16","type":"uint16","indexed":false}],"name":"FeeSet"}]

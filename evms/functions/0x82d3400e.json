@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_function","internalType":"enum IVaultHandler.FunctionChoices","type":"uint8"},{"name":"_isDisabled","internalType":"bool","type":"bool"}],"name":"toggleFunction","outputs":[],"stateMutability":"nonpayable"}]

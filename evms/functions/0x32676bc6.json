@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_app","internalType":"address","type":"address"},{"name":"_signal","internalType":"bytes32","type":"bytes32"}],"name":"isSignalSent","outputs":[{"name":"","internalType":"bool","type":"bool"}],"stateMutability":"view"}]

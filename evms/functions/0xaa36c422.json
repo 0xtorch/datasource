@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_tier1","internalType":"uint8","type":"uint8"},{"name":"_tier2","internalType":"uint8","type":"uint8"},{"name":"_public","internalType":"uint8","type":"uint8"}],"name":"setMintCaps","outputs":[],"stateMutability":"nonpayable"}]

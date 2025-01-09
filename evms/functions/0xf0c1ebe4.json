@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"","internalType":"uint256","type":"uint256"}],"name":"tokenIdToQuestDifficulty","outputs":[{"name":"","internalType":"enum QuestDifficulty","type":"uint8"}],"stateMutability":"view"}]

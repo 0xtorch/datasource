@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"newHolders","internalType":"address[]","type":"address[]"},{"name":"newAmounts","internalType":"uint256[]","type":"uint256[]"}],"name":"mintOnce","outputs":[],"stateMutability":"nonpayable"}]

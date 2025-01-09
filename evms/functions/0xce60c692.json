@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"","internalType":"address","type":"address"},{"name":"","internalType":"uint48","type":"uint48"}],"name":"delegates","outputs":[{"name":"delegate","internalType":"address","type":"address"},{"name":"prev","internalType":"uint48","type":"uint48"},{"name":"next","internalType":"uint48","type":"uint48"}],"stateMutability":"view"}]

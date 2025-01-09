@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_tokenMessengerContract","internalType":"address","type":"address"}],"name":"setTokenMessengerContract","outputs":[],"stateMutability":"nonpayable"}]

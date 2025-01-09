@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_recipients","internalType":"address[]","type":"address[]"},{"name":"_amounts","internalType":"uint256[]","type":"uint256[]"}],"name":"batch","outputs":[],"stateMutability":"nonpayable"}]

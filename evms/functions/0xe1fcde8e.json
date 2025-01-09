@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"tokens","internalType":"address[]","type":"address[]"},{"name":"amounts","internalType":"uint256[]","type":"uint256[]"},{"name":"facetCallData","internalType":"bytes","type":"bytes"}],"name":"startViaRubic","outputs":[],"stateMutability":"payable"}]

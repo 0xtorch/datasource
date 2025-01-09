@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_target","internalType":"address","type":"address"}],"name":"checkAddressRewards","outputs":[{"name":"_pendingRewards","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

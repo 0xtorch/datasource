@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"exchangeAddress","internalType":"address","type":"address","indexed":false},{"name":"owner","internalType":"address","type":"address","indexed":false},{"name":"genesisMerkleRoot","internalType":"bytes32","type":"bytes32","indexed":false}],"name":"ExchangeCloned"}]

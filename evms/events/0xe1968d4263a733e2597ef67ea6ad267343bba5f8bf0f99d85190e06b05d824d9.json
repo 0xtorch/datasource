@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"oldOwner","type":"address","indexed":true},{"name":"newOwner","type":"address","indexed":true},{"name":"effectiveHeight","type":"uint256","indexed":true}],"name":"LogChangeDCRMOwner"}]

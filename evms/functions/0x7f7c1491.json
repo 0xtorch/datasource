@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_deployer","internalType":"address","type":"address"},{"name":"_deployment","internalType":"address","type":"address"}],"name":"remove","outputs":[],"stateMutability":"nonpayable"}]

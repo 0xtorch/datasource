@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_xTokenAddress","internalType":"address","type":"address"},{"name":"_assetAddress","internalType":"address","type":"address"},{"name":"_isD2Vault","internalType":"bool","type":"bool"}],"name":"createVault","outputs":[{"name":"","internalType":"uint256","type":"uint256"}],"stateMutability":"nonpayable"}]

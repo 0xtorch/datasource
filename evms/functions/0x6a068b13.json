@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"totalAmount","internalType":"uint256","type":"uint256"},{"name":"v","internalType":"uint8","type":"uint8"},{"name":"r","internalType":"bytes32","type":"bytes32"},{"name":"s","internalType":"bytes32","type":"bytes32"},{"name":"staking","internalType":"bool","type":"bool"}],"name":"claim","outputs":[],"stateMutability":"nonpayable"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[],"name":"ethThrottleDeposits","outputs":[{"name":"maxAmountPerPeriod","internalType":"uint208","type":"uint208"},{"name":"periodLength","internalType":"uint48","type":"uint48"},{"name":"maxAmountTotal","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

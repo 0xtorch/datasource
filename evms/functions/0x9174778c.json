@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"idx","internalType":"uint256","type":"uint256"}],"name":"isOrIsBelowTiedRank","outputs":[{"name":"atOrBelowTiedRank","internalType":"bool","type":"bool"}],"stateMutability":"view"}]

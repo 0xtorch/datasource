@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_feeOracle","internalType":"address","type":"address"}],"name":"setFeeOracle","outputs":[],"stateMutability":"nonpayable"}]

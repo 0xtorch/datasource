@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_tokenId","internalType":"uint256","type":"uint256"},{"name":"_composition","internalType":"bytes","type":"bytes"},{"name":"_title","internalType":"string","type":"string"},{"name":"_artist","internalType":"string","type":"string"}],"name":"pressSong","outputs":[],"stateMutability":"nonpayable"}]

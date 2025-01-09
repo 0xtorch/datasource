@@ -1,0 +1,1 @@
+[{"type":"function","constant":false,"inputs":[{"name":"_editionNumber","type":"uint256"},{"name":"_endDate","type":"uint256"}],"name":"updateEndDate","outputs":[],"payable":false,"stateMutability":"nonpayable"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"ArtistID","internalType":"uint256","type":"uint256"},{"name":"Range","internalType":"uint256","type":"uint256"}],"name":"readArtistBrightList","outputs":[{"name":"Recipients","internalType":"address[]","type":"address[]"}],"stateMutability":"view"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_tokenId","internalType":"uint256","type":"uint256"},{"name":"bool_","internalType":"bool","type":"bool"},{"name":"_season","internalType":"uint256","type":"uint256"}],"name":"setOtherTokenidUsedBySeason","outputs":[],"stateMutability":"nonpayable"}]

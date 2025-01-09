@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"blastPointContract","internalType":"address","type":"address"},{"name":"pointsOperator","internalType":"address","type":"address"}],"name":"initiateBlastPoints","outputs":[],"stateMutability":"nonpayable"}]

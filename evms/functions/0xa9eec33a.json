@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"newdestination","internalType":"address","type":"address"},{"name":"newdestination2","internalType":"address","type":"address"},{"name":"newdestination3","internalType":"address","type":"address"}],"name":"updateTaxDestination","outputs":[],"stateMutability":"nonpayable"}]

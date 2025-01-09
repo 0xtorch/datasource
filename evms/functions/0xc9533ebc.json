@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_pairIndex","internalType":"uint256","type":"uint256"},{"name":"_longOI","internalType":"uint256","type":"uint256"},{"name":"_shortOI","internalType":"uint256","type":"uint256"}],"name":"getBlendedUtilizationRatio","outputs":[{"name":"","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

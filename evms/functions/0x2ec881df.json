@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"numberOfMints","internalType":"uint256","type":"uint256"},{"name":"totalGiven","internalType":"uint256","type":"uint256"},{"name":"proof","internalType":"bytes32[]","type":"bytes32[]"}],"name":"veMint","outputs":[],"stateMutability":"nonpayable"}]

@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"orderHash","internalType":"bytes32","type":"bytes32","indexed":false},{"name":"offerer","internalType":"address","type":"address","indexed":true},{"name":"zone","internalType":"address","type":"address","indexed":true}],"name":"OrderValidated"}]

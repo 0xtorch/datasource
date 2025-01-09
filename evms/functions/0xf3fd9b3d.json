@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"boardId","internalType":"uint256","type":"uint256"},{"name":"secondsAgo","internalType":"uint256","type":"uint256"}],"name":"getIvGWAV","outputs":[{"name":"ivGWAV","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

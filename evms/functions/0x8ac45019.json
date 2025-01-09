@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"position","internalType":"address","type":"address"},{"name":"delegate","internalType":"address","type":"address"}],"name":"isDelegateWhitelisted","outputs":[{"name":"isWhitelisted","internalType":"bool","type":"bool"}],"stateMutability":"view"}]

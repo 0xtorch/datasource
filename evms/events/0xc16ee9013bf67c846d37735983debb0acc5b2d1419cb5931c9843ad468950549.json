@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"tokenSymbol","internalType":"bytes32","type":"bytes32","indexed":true},{"name":"recipient","internalType":"address","type":"address","indexed":true},{"name":"amount","internalType":"uint256","type":"uint256","indexed":false}],"name":"NotBoundToken"}]

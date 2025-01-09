@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"newDodoGasReturn","internalType":"uint256","type":"uint256"},{"name":"newExternalGasReturn","internalType":"uint256","type":"uint256"}],"name":"updateGasReturn","outputs":[],"stateMutability":"nonpayable"}]

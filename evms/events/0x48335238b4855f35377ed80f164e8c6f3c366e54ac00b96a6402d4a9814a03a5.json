@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"target","internalType":"address","type":"address","indexed":false},{"name":"frozen","internalType":"bool","type":"bool","indexed":false}],"name":"FrozenFunds"},{"type":"event","anonymous":false,"inputs":[{"name":"target","type":"address","indexed":true},{"name":"frozen","type":"bool","indexed":false}],"name":"FrozenFunds"}]

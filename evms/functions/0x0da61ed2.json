@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"amount","internalType":"uint256","type":"uint256"},{"name":"ethereumAddress","internalType":"address","type":"address"},{"name":"flowHash","internalType":"bytes32","type":"bytes32"}],"name":"unlock","outputs":[],"stateMutability":"nonpayable"}]

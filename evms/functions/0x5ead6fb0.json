@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"rewardRouter","internalType":"address","type":"address"},{"name":"mintBurnRewardRouter","internalType":"address","type":"address"}],"name":"setRouters","outputs":[],"stateMutability":"nonpayable"}]

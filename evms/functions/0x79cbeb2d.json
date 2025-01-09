@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"nftType","internalType":"uint256","type":"uint256"},{"name":"nftId","internalType":"uint256","type":"uint256"}],"name":"stakeNft","outputs":[],"stateMutability":"nonpayable"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"maxTokens","internalType":"uint256","type":"uint256"},{"name":"maxPurchase","internalType":"uint256","type":"uint256"},{"name":"currentPrice","internalType":"uint256","type":"uint256"}],"name":"setSecondPhase","outputs":[],"stateMutability":"nonpayable"}]

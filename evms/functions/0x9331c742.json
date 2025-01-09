@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"updatedProtocolFeeMultiplier","internalType":"uint256","type":"uint256"}],"name":"setProtocolFeeMultiplier","outputs":[],"stateMutability":"nonpayable"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"appointed","internalType":"address","type":"address"}],"name":"isAppointedToRebalance","outputs":[{"name":"","internalType":"bool","type":"bool"}],"stateMutability":"view"}]

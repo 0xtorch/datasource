@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[],"name":"getStakingPool","outputs":[{"name":"_pool","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

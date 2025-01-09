@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"from","internalType":"address","type":"address","indexed":true},{"name":"to","internalType":"string","type":"string","indexed":true},{"name":"path","internalType":"string","type":"string","indexed":true}],"name":"Message"}]

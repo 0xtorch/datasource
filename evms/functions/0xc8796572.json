@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[],"name":"collectFees","outputs":[{"name":"amount0","internalType":"uint128","type":"uint128"},{"name":"amount1","internalType":"uint128","type":"uint128"}],"stateMutability":"nonpayable"}]

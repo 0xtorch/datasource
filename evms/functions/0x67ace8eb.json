@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"symbols","internalType":"string[]","type":"string[]"},{"name":"limits","internalType":"uint256[]","type":"uint256[]"}],"name":"setTokenMintLimits","outputs":[],"stateMutability":"nonpayable"}]

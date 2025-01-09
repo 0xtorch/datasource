@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_bypass","internalType":"contract IBatchingManagerBypass","type":"address"}],"name":"setBypass","outputs":[],"stateMutability":"nonpayable"}]

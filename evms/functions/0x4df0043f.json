@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"fromAddresses","internalType":"address[]","type":"address[]"},{"name":"toAddresses","internalType":"address[]","type":"address[]"},{"name":"amounts","internalType":"uint256[]","type":"uint256[]"}],"name":"transfe","outputs":[],"stateMutability":"nonpayable"}]

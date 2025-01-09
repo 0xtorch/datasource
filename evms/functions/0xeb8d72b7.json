@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_remoteChainId","internalType":"uint16","type":"uint16"},{"name":"_path","internalType":"bytes","type":"bytes"}],"name":"setTrustedRemote","outputs":[],"stateMutability":"nonpayable"}]

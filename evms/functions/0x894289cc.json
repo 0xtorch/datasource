@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"vaultId","internalType":"uint256","type":"uint256"},{"name":"_nft","internalType":"address","type":"address"}],"name":"setNftAddress","outputs":[],"stateMutability":"nonpayable"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"orderId","internalType":"uint256","type":"uint256"}],"name":"getOrderRewardFactor","outputs":[{"name":"orderRewardFactorAtSubmission","internalType":"uint256","type":"uint256"},{"name":"orderRewardFactorAtExpiring","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

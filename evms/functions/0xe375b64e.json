@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"depositor","internalType":"address","type":"address"},{"name":"depositReceiver","internalType":"address","type":"address"},{"name":"rootToken","internalType":"address","type":"address"},{"name":"depositData","internalType":"bytes","type":"bytes"}],"name":"lockTokens","outputs":[],"stateMutability":"nonpayable"}]

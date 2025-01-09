@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_lower","internalType":"uint256","type":"uint256"},{"name":"_target","internalType":"uint256","type":"uint256"},{"name":"_upper","internalType":"uint256","type":"uint256"},{"name":"_limit","internalType":"uint256","type":"uint256"}],"name":"setCollateralThresholds","outputs":[],"stateMutability":"nonpayable"}]

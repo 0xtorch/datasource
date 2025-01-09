@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_id","internalType":"uint256","type":"uint256"},{"name":"_hatchCostMultiplierEndBlock","internalType":"uint64","type":"uint64"}],"name":"updateAlpacaHatchCostMultiplierEndBlock","outputs":[],"stateMutability":"nonpayable"}]

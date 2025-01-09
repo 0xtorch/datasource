@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_MINT_PRE_START_TIME","internalType":"uint256","type":"uint256"},{"name":"_MINT_START_TIME","internalType":"uint256","type":"uint256"},{"name":"_MINT_END_TIME","internalType":"uint256","type":"uint256"}],"name":"setMintTimes","outputs":[],"stateMutability":"nonpayable"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_activityNFTAddr","internalType":"address","type":"address"},{"name":"_activityNFTProbability","internalType":"uint256","type":"uint256"}],"name":"updateActivityNFT","outputs":[],"stateMutability":"nonpayable"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"issueId","internalType":"uint256","type":"uint256"},{"name":"pct","internalType":"uint256","type":"uint256"}],"name":"updateInflation","outputs":[],"stateMutability":"nonpayable"}]

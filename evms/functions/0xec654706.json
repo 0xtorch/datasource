@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"n_end","type":"int256"}],"name":"can_skip_bands","outputs":[{"name":"","type":"bool"}],"stateMutability":"view"}]

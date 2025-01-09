@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_user","internalType":"address","type":"address"}],"name":"stakedTokenIds","outputs":[{"name":"tokenIds","internalType":"uint256[]","type":"uint256[]"}],"stateMutability":"view"}]

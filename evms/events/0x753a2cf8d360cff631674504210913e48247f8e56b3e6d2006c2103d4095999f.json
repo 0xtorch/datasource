@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"oldOfficialRewardsModule","internalType":"contract RewardsModule","type":"address","indexed":false},{"name":"newOfficialRewardsModule","internalType":"contract RewardsModule","type":"address","indexed":false}],"name":"OfficialRewardsModuleSet"}]

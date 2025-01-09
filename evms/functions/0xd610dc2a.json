@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"maxLtv_","internalType":"UD60x18","type":"uint256"},{"name":"liquidationThreshold_","internalType":"UD60x18","type":"uint256"}],"name":"updateLiquidationParameters","outputs":[],"stateMutability":"nonpayable"}]

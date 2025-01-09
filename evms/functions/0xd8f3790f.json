@@ -1,0 +1,1 @@
+[{"type":"function","constant":true,"inputs":[{"name":"_address","type":"address"}],"name":"ethBalance","outputs":[{"name":"","type":"uint256"}],"payable":false,"stateMutability":"view"}]

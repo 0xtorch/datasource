@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[],"name":"rewardState","outputs":[{"name":"rewardBalance","internalType":"uint256","type":"uint256"},{"name":"rewardsTotal","internalType":"uint256","type":"uint256"},{"name":"earlyWithdrawReward","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

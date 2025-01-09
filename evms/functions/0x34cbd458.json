@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"","internalType":"contract ITranchedPool","type":"address"}],"name":"poolStakingRewards","outputs":[{"name":"accumulatedRewardsPerTokenAtLastCheckpoint","internalType":"uint256","type":"uint256"},{"name":"lastUpdateTime","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

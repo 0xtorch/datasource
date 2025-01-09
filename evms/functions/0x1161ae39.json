@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"target","internalType":"uint256","type":"uint256"},{"name":"accuracy","internalType":"uint256","type":"uint256"}],"name":"isOverLiquified","outputs":[{"name":"","internalType":"bool","type":"bool"}],"stateMutability":"view"}]

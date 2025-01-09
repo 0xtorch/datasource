@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"quantity","internalType":"uint256","type":"uint256"},{"name":"_specialType","internalType":"uint256","type":"uint256"},{"name":"_clothType","internalType":"uint256","type":"uint256"}],"name":"ownerMint","outputs":[],"stateMutability":"nonpayable"}]

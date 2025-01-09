@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"delegateAddress","internalType":"address","type":"address"},{"name":"delegateHandle","internalType":"string","type":"string"}],"name":"addDelegate","outputs":[],"stateMutability":"nonpayable"}]

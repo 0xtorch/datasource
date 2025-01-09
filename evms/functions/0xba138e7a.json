@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_dexes","internalType":"address[]","type":"address[]"}],"name":"addSupportedDex","outputs":[],"stateMutability":"nonpayable"}]

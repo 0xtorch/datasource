@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"cutieId","type":"uint40","indexed":true},{"name":"oldValue","type":"uint64","indexed":false},{"name":"newValue","type":"uint64","indexed":false}],"name":"OptionalChanged"}]

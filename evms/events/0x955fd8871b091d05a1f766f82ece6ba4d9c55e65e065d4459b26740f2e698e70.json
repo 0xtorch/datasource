@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"signer","internalType":"address","type":"address","indexed":false},{"name":"data","internalType":"bytes32","type":"bytes32","indexed":false},{"name":"signature","internalType":"bytes","type":"bytes","indexed":false}],"name":"ContractSigned"}]

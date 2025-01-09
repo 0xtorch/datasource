@@ -1,0 +1,1 @@
+[{"type":"function","constant":false,"inputs":[{"name":"_owner","type":"address"},{"name":"_modules","type":"address[]"}],"name":"init","outputs":[],"payable":false,"stateMutability":"nonpayable"}]

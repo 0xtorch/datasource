@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"id","internalType":"uint256","type":"uint256"},{"name":"mintPerAddress","internalType":"uint16","type":"uint16"},{"name":"fountExclusive","internalType":"bool","type":"bool"},{"name":"requiresSig","internalType":"bool","type":"bool"}],"name":"setTokenSaleConditions","outputs":[],"stateMutability":"nonpayable"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_user","internalType":"address","type":"address"},{"name":"_pid","internalType":"uint256","type":"uint256"},{"name":"_newMultiplier","internalType":"uint256","type":"uint256"}],"name":"updateBoostMultiplier","outputs":[],"stateMutability":"nonpayable"}]

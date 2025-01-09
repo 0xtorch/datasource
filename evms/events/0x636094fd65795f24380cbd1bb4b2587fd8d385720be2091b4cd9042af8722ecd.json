@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"glassBoxTokenId","internalType":"uint256","type":"uint256","indexed":false},{"name":"dgTokenId","internalType":"uint256","type":"uint256","indexed":false},{"name":"boxType","internalType":"enum DGFamilyReveal.BoxType","type":"uint8","indexed":false}],"name":"Revealed"}]

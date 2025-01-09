@@ -1,0 +1,1 @@
+[{"type":"function","constant":true,"inputs":[{"name":"area","type":"uint32"},{"name":"hour","type":"uint32"}],"name":"getMinersAt","outputs":[{"name":"","type":"uint32"}],"payable":false,"stateMutability":"view"}]

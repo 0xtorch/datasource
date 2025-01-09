@@ -1,0 +1,1 @@
+[{"type":"function","constant":false,"inputs":[{"name":"user","type":"address"},{"name":"packCount","type":"uint16"},{"name":"referrer","type":"address"}],"name":"purchaseFor","outputs":[],"payable":true,"stateMutability":"payable"}]

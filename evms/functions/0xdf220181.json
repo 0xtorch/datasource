@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"k_","internalType":"uint256","type":"uint256"},{"name":"n_","internalType":"uint256","type":"uint256"},{"name":"c1_","internalType":"uint256","type":"uint256"},{"name":"xThreshold_","internalType":"uint256","type":"uint256"}],"name":"setSlippageParams","outputs":[],"stateMutability":"nonpayable"}]

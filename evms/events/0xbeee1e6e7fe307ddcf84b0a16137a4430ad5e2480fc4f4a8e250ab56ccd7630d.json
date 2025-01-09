@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"aggregatorId","internalType":"string","type":"string","indexed":true},{"name":"sender","internalType":"address","type":"address","indexed":true}],"name":"Swap"}]

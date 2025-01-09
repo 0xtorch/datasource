@@ -1,0 +1,1 @@
+[{"type":"function","constant":true,"inputs":[],"name":"getPartners","outputs":[{"name":"tokenManager","type":"address"},{"name":"smgAdminProxy","type":"address"},{"name":"smgFeeProxy","type":"address"},{"name":"quota","type":"address"},{"name":"sigVerifier","type":"address"}],"payable":false,"stateMutability":"view"}]

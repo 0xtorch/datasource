@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"","internalType":"address","type":"address"}],"name":"warmupInfo","outputs":[{"name":"deposit","internalType":"uint256","type":"uint256"},{"name":"gons","internalType":"uint256","type":"uint256"},{"name":"expiry","internalType":"uint256","type":"uint256"},{"name":"lock","internalType":"bool","type":"bool"}],"stateMutability":"view"}]

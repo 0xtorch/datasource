@@ -1,0 +1,1 @@
+[{"type":"function","constant":false,"inputs":[{"name":"newToken_","internalType":"contract ERC20Mintable","type":"address"},{"name":"newDepositAddress_","internalType":"address","type":"address"}],"name":"beginMigration","outputs":[{"name":"","internalType":"bool","type":"bool"}],"payable":false,"stateMutability":"nonpayable"}]

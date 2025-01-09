@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"previousFeeDistributor","internalType":"address","type":"address","indexed":true},{"name":"newFeeDistributor","internalType":"address","type":"address","indexed":true}],"name":"FeeDistributorUpdated"}]

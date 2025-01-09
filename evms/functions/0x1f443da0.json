@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"dataHash","internalType":"bytes32","type":"bytes32"}],"name":"dataStartingBlock","outputs":[{"name":"startingBlock","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

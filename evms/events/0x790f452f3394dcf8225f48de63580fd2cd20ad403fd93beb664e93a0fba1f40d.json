@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"oldUGCCraftLogic","internalType":"address","type":"address","indexed":false},{"name":"newUGCCraftLogic","internalType":"address","type":"address","indexed":true}],"name":"SetUGCCraftLogic"}]

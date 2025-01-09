@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"series","internalType":"uint96","type":"uint96"},{"name":"amount","internalType":"uint256","type":"uint256"}],"name":"advanceEpoch","outputs":[],"stateMutability":"nonpayable"}]

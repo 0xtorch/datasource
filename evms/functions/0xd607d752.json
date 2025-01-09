@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_rewardDeriver","internalType":"contract IRewardDeriver","type":"address"}],"name":"setRewardDeriver","outputs":[],"stateMutability":"nonpayable"}]

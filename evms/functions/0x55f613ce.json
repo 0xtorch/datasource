@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_startIndex","internalType":"uint256","type":"uint256"},{"name":"_count","internalType":"uint256","type":"uint256"},{"name":"_skippedBitmap","internalType":"uint256","type":"uint256"}],"name":"popCrossDomainMessage","outputs":[],"stateMutability":"nonpayable"}]

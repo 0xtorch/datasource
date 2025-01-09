@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_discountDivisor","internalType":"uint256","type":"uint256"},{"name":"_priceTicket","internalType":"uint256","type":"uint256"},{"name":"_numberTickets","internalType":"uint256","type":"uint256"}],"name":"calculateTotalPriceForBulkTickets","outputs":[{"name":"","internalType":"uint256","type":"uint256"}],"stateMutability":"pure"}]

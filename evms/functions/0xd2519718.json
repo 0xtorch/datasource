@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"u","internalType":"address","type":"address"},{"name":"f","internalType":"bool","type":"bool"}],"name":"setMinner","outputs":[],"stateMutability":"nonpayable"}]

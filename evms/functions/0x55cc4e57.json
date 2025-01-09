@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_newIssuer","internalType":"contract Issuer","type":"address"}],"name":"setIssuer","outputs":[],"stateMutability":"nonpayable"}]

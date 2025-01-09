@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_tokenType","internalType":"uint8","type":"uint8"},{"name":"_supply","internalType":"uint16","type":"uint16"}],"name":"addSupply","outputs":[],"stateMutability":"nonpayable"}]

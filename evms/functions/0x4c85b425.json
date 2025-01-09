@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"to","internalType":"address","type":"address"}],"name":"buyShares","outputs":[{"name":"shares","internalType":"uint256","type":"uint256"},{"name":"baseInput","internalType":"uint256","type":"uint256"},{"name":"quoteInput","internalType":"uint256","type":"uint256"}],"stateMutability":"nonpayable"}]

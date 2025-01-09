@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_specUri","internalType":"string","type":"string"},{"name":"_raftTokenId","internalType":"uint256","type":"uint256"}],"name":"createSpec","outputs":[],"stateMutability":"nonpayable"}]

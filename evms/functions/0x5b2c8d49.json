@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_proof","internalType":"bytes32[]","type":"bytes32[]"},{"name":"addr","internalType":"address","type":"address"},{"name":"flags","internalType":"uint16","type":"uint16"}],"name":"claim","outputs":[{"name":"","internalType":"bool","type":"bool"}],"stateMutability":"nonpayable"}]

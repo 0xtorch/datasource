@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"tokens","internalType":"contract IERC20[]","type":"address[]"},{"name":"amounts","internalType":"uint256[]","type":"uint256[]"},{"name":"feeAmounts","internalType":"uint256[]","type":"uint256[]"},{"name":"userData","internalType":"bytes","type":"bytes"}],"name":"receiveFlashLoan","outputs":[],"stateMutability":"nonpayable"}]

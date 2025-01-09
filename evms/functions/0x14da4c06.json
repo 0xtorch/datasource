@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_gauge_addrs","internalType":"address[]","type":"address[]"},{"name":"_admin_weights","internalType":"uint256[]","type":"uint256[]"},{"name":"_ends","internalType":"uint256[]","type":"uint256[]"},{"name":"_chainIds","internalType":"uint256[]","type":"uint256[]"}],"name":"voteFromAdminBulk","outputs":[],"stateMutability":"nonpayable"}]

@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"_claimDuration","internalType":"uint256","type":"uint256","indexed":false},{"name":"_claimStartTime","internalType":"uint256","type":"uint256","indexed":false}],"name":"ClaimStart"}]

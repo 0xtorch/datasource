@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"signature","internalType":"bytes","type":"bytes"},{"name":"wallet","internalType":"address","type":"address"}],"name":"checkSign","outputs":[{"name":"","internalType":"address","type":"address"}],"stateMutability":"pure"}]

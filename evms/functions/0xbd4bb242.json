@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"tokenSource","internalType":"bytes4","type":"bytes4"},{"name":"tokenSourceAddress","internalType":"bytes32","type":"bytes32"},{"name":"nativeTokenAddress","internalType":"address","type":"address"},{"name":"tokenType","internalType":"enum Bridge.TokenType","type":"uint8"}],"name":"addToken","outputs":[],"stateMutability":"nonpayable"}]

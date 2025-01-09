@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_homeBalance","internalType":"uint256","type":"uint256"},{"name":"_awayBalance","internalType":"uint256","type":"uint256"},{"name":"_drawBalance","internalType":"uint256","type":"uint256"}],"name":"calculatePayoutOnCancellation","outputs":[{"name":"payout","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

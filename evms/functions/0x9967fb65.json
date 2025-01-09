@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"rootCollections_","internalType":"address[]","type":"address[]"},{"name":"rootCollectionMaxSupplies_","internalType":"uint256[]","type":"uint256[]"},{"name":"tokensPerClaimArray_","internalType":"uint256[]","type":"uint256[]"}],"name":"initializeRootCollections","outputs":[],"stateMutability":"nonpayable"}]

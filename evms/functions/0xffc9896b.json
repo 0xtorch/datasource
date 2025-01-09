@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"owner","internalType":"address","type":"address"}],"name":"getUserData","outputs":[{"name":"","internalType":"struct AethirEdge.UserData","type":"tuple","components":[{"name":"nonce","internalType":"uint64","type":"uint64"},{"name":"lastUpdateBlock","internalType":"uint64","type":"uint64"}]}],"stateMutability":"view"}]

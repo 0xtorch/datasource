@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_tokenId","internalType":"uint256","type":"uint256"},{"name":"_keyManager","internalType":"address","type":"address"}],"name":"setKeyManagerOf","outputs":[],"stateMutability":"nonpayable"}]

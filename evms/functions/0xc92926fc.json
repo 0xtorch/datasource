@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_collectionNumber","internalType":"uint256","type":"uint256"},{"name":"_collectionBaseURI","internalType":"string","type":"string"}],"name":"changeBaseURI","outputs":[],"stateMutability":"nonpayable"}]

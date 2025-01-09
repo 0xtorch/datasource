@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"bool_","internalType":"bool","type":"bool"},{"name":"_season","internalType":"uint256","type":"uint256"}],"name":"setRevealBySeason","outputs":[],"stateMutability":"nonpayable"}]

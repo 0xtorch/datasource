@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"perSecondReward_","internalType":"uint256","type":"uint256"},{"name":"startsAt_","internalType":"uint256","type":"uint256"},{"name":"duration_","internalType":"uint256","type":"uint256"}],"name":"createNewStrategy","outputs":[{"name":"success","internalType":"bool","type":"bool"}],"stateMutability":"nonpayable"}]

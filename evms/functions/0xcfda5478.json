@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"stakingToken","internalType":"address","type":"address"},{"name":"_rewardPerTokenPerSecond","internalType":"uint256","type":"uint256"},{"name":"_periodFinish","internalType":"uint256","type":"uint256"}],"name":"deploy","outputs":[{"name":"","internalType":"uint256","type":"uint256"}],"stateMutability":"nonpayable"}]

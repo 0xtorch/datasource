@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"fromContractName","internalType":"bytes32","type":"bytes32","indexed":false},{"name":"toContractName","internalType":"bytes32","type":"bytes32","indexed":false},{"name":"removeAccessFromPreviousContract","internalType":"bool","type":"bool","indexed":false}],"name":"KeyMigrated"}]

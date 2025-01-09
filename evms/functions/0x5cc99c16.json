@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_index","internalType":"uint256","type":"uint256"}],"name":"getLockTimeWeightedByIndex","outputs":[{"name":"lockTime","internalType":"uint256","type":"uint256"},{"name":"weighted","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

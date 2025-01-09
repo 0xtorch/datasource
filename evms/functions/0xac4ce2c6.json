@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"addressIndex","internalType":"uint256","type":"uint256"},{"name":"newAddress","internalType":"address","type":"address"}],"name":"setAddress","outputs":[],"stateMutability":"nonpayable"}]

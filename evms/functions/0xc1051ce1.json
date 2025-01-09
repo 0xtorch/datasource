@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_holderAddress","internalType":"address","type":"address"},{"name":"_sNovaAmount","internalType":"uint256","type":"uint256"}],"name":"previewSwapNovaExpectedAmount","outputs":[{"name":"expectedNova","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

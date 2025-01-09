@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[],"name":"stakingState","outputs":[{"name":"","internalType":"enum ZORIUM.StakingState","type":"uint8"}],"stateMutability":"view"}]

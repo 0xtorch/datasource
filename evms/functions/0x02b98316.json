@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"","internalType":"address","type":"address"}],"name":"wopAmountPurchasedByAddressWaitlist","outputs":[{"name":"","internalType":"uint16","type":"uint16"}],"stateMutability":"view"}]

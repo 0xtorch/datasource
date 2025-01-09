@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"aggregatorId","internalType":"string","type":"string","indexed":true},{"name":"addr","internalType":"address","type":"address","indexed":true},{"name":"selector","internalType":"bytes4","type":"bytes4","indexed":false},{"name":"data","internalType":"bytes","type":"bytes","indexed":false}],"name":"AdapterSet"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_borrower","internalType":"address","type":"address"},{"name":"_collDecrease","internalType":"uint256","type":"uint256"}],"name":"decreaseTroveColl","outputs":[{"name":"","internalType":"uint256","type":"uint256"}],"stateMutability":"nonpayable"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"nodeKey","internalType":"address","type":"address"}],"name":"isAuthenticated","outputs":[{"name":"","internalType":"bool","type":"bool"}],"stateMutability":"view"}]

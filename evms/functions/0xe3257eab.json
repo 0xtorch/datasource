@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_team","internalType":"address","type":"address"}],"name":"passTeamRole","outputs":[{"name":"","internalType":"bool","type":"bool"}],"stateMutability":"nonpayable"}]

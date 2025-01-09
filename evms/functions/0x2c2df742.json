@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"class","internalType":"string","type":"string"},{"name":"oldAddress","internalType":"address","type":"address"},{"name":"newAddress","internalType":"address","type":"address"}],"name":"modifyAdminAddress","outputs":[],"stateMutability":"nonpayable"}]

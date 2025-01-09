@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_address","internalType":"address","type":"address"},{"name":"status","internalType":"bool","type":"bool"}],"name":"updateall_bots","outputs":[],"stateMutability":"nonpayable"}]

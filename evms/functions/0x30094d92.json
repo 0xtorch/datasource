@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"newGovernor_","internalType":"address","type":"address"}],"name":"setGovernorOnlyAdmin","outputs":[],"stateMutability":"nonpayable"}]

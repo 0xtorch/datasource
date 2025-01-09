@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_inputToken","internalType":"address","type":"address"},{"name":"_outputToken","internalType":"address","type":"address"},{"name":"_path","internalType":"address[]","type":"address[]"}],"name":"setVswapPaths","outputs":[],"stateMutability":"nonpayable"}]

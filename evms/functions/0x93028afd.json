@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_percentage_base1000","internalType":"uint256","type":"uint256"},{"name":"reduce","internalType":"bool","type":"bool"}],"name":"rebase_percentage","outputs":[{"name":"newSupply","internalType":"uint256","type":"uint256"}],"stateMutability":"nonpayable"}]

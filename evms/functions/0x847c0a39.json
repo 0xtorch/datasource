@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_budget","internalType":"uint256","type":"uint256"},{"name":"_totalVotesSquares","internalType":"uint256","type":"uint256"},{"name":"_totalSpent","internalType":"uint256","type":"uint256"}],"name":"calcAlpha","outputs":[{"name":"_alpha","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

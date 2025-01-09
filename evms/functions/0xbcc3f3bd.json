@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_owner","internalType":"address","type":"address"}],"name":"votingPowerOf","outputs":[{"name":"_power","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

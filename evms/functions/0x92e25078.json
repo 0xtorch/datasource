@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"pos","internalType":"address","type":"address"},{"name":"i","internalType":"address","type":"address"}],"name":"getListed","outputs":[{"name":"","internalType":"bool","type":"bool"}],"stateMutability":"view"}]

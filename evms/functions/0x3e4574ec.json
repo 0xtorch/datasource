@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_withdrawalId","internalType":"uint256","type":"uint256"},{"name":"_voter","internalType":"address","type":"address"}],"name":"mainchainWithdrewVoted","outputs":[{"name":"","internalType":"bool","type":"bool"}],"stateMutability":"view"}]

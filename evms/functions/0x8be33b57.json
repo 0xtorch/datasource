@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"amount_","internalType":"uint256","type":"uint256"},{"name":"proof_","internalType":"bytes32[]","type":"bytes32[]"}],"name":"phase2Sale","outputs":[],"stateMutability":"payable"}]

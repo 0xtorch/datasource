@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"data0","internalType":"uint256","type":"uint256","indexed":false},{"name":"memberAddr","internalType":"address","type":"address","indexed":true},{"name":"entryId","internalType":"uint256","type":"uint256","indexed":true},{"name":"referrerAddr","internalType":"address","type":"address","indexed":true}],"name":"XfLobbyEnter"}]

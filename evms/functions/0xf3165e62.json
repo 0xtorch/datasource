@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_rewardsDistributor","internalType":"address","type":"address"},{"name":"_oxd","internalType":"contract IERC20","type":"address"}],"name":"initializeProxyStorage","outputs":[],"stateMutability":"nonpayable"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"tokenId","internalType":"uint256","type":"uint256"},{"name":"bitNumber","internalType":"uint256","type":"uint256"}],"name":"setExtraTraits","outputs":[],"stateMutability":"nonpayable"}]

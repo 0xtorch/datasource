@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_revaStakeFeeReceiver","internalType":"address","type":"address"},{"name":"_revaStakeFee","internalType":"uint256","type":"uint256"}],"name":"setRevaStakeFeeReceiver","outputs":[],"stateMutability":"nonpayable"}]

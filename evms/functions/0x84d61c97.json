@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_callData","internalType":"bytes","type":"bytes"},{"name":"_receiveSide","internalType":"address","type":"address"},{"name":"signature","internalType":"bytes","type":"bytes"}],"name":"receiveRequestV2Signed","outputs":[],"stateMutability":"nonpayable"}]

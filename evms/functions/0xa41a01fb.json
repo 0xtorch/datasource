@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"swapForY","internalType":"bool","type":"bool"},{"name":"id","internalType":"uint24","type":"uint24"}],"name":"getNextNonEmptyBin","outputs":[{"name":"nextId","internalType":"uint24","type":"uint24"}],"stateMutability":"view"}]

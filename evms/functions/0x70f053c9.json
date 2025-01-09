@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_realmId","internalType":"uint256","type":"uint256"},{"name":"_gold","internalType":"uint256","type":"uint256"}],"name":"addGoldSupply","outputs":[],"stateMutability":"nonpayable"}]

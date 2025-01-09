@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"","internalType":"address","type":"address"}],"name":"_isExcludedMaxWalletAmount","outputs":[{"name":"","internalType":"bool","type":"bool"}],"stateMutability":"view"}]

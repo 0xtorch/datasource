@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[],"name":"getTreasuryAddresses","outputs":[{"name":"_skyMavisTreasuryAddr","internalType":"address","type":"address"},{"name":"_axieInfinityTreasuryAddr","internalType":"address","type":"address"},{"name":"_roninNetworkTreasuryAddr","internalType":"address","type":"address"}],"stateMutability":"view"}]

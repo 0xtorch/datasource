@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"nftAddress","internalType":"address","type":"address"}],"name":"checkNFTWhitelist","outputs":[{"name":"","internalType":"bool","type":"bool"}],"stateMutability":"view"}]

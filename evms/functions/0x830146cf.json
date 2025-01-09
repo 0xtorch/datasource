@@ -1,0 +1,1 @@
+[{"type":"function","constant":true,"inputs":[{"name":"","type":"uint8"}],"name":"gymTrainers","outputs":[{"name":"classId","type":"uint32"}],"payable":false,"stateMutability":"view"}]

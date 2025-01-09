@@ -1,0 +1,1 @@
+[{"type":"function","constant":false,"inputs":[{"name":"_authorizedAddress","type":"address"},{"name":"_cosigner","type":"uint256"},{"name":"_recoveryAddress","type":"address"}],"name":"init","outputs":[],"payable":false,"stateMutability":"nonpayable"}]

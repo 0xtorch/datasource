@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"encodedVMs","internalType":"bytes[]","type":"bytes[]"},{"name":"encodedDeliveryVAA","internalType":"bytes","type":"bytes"},{"name":"relayerRefundAddress","internalType":"address payable","type":"address"},{"name":"deliveryOverrides","internalType":"bytes","type":"bytes"}],"name":"deliver","outputs":[],"stateMutability":"payable"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"userArray","internalType":"address[]","type":"address[]"}],"name":"batchClaimedNftCount","outputs":[{"name":"","internalType":"uint256[]","type":"uint256[]"}],"stateMutability":"view"}]

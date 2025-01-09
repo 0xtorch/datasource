@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_layerId","internalType":"uint256","type":"uint256"},{"name":"_required","internalType":"bool","type":"bool"}],"name":"setRequired","outputs":[],"stateMutability":"nonpayable"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"","internalType":"uint256","type":"uint256"}],"name":"burnMintStructs","outputs":[{"name":"isDone","internalType":"bool","type":"bool"}],"stateMutability":"view"}]

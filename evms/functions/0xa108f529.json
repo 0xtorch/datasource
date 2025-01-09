@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"walletAddress","internalType":"address","type":"address"},{"name":"amountOfTokens","internalType":"uint256","type":"uint256"}],"name":"mintForFriend","outputs":[],"stateMutability":"payable"}]

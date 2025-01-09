@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_mintingAmount","internalType":"uint256","type":"uint256"},{"name":"_mintingTo","internalType":"address","type":"address"}],"name":"ownerMintTo","outputs":[],"stateMutability":"nonpayable"}]

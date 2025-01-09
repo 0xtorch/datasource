@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_adapter","internalType":"address","type":"address"},{"name":"_accept","internalType":"bool","type":"bool"}],"name":"setAdapter","outputs":[],"stateMutability":"nonpayable"}]

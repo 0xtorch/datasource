@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"to","internalType":"string","type":"string"},{"name":"tokens","internalType":"uint256","type":"uint256"},{"name":"chainid","internalType":"uint256","type":"uint256"}],"name":"teleport","outputs":[{"name":"success","internalType":"bool","type":"bool"}],"stateMutability":"nonpayable"}]

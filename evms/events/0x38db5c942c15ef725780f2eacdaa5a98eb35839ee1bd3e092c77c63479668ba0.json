@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"tokens","internalType":"address[]","type":"address[]","indexed":false},{"name":"recipients","internalType":"address[]","type":"address[]","indexed":false}],"name":"LogTransferAll"}]

@@ -1,0 +1,1 @@
+[{"type":"function","constant":true,"inputs":[{"name":"","type":"address"},{"name":"","type":"bytes32"}],"name":"locked","outputs":[{"name":"amount","type":"uint256"},{"name":"validity","type":"uint256"},{"name":"claimed","type":"bool"}],"payable":false,"stateMutability":"view"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"strikeId","internalType":"uint256","type":"uint256"},{"name":"amount","internalType":"uint256","type":"uint256"},{"name":"premiumAmount","internalType":"uint256","type":"uint256"}],"name":"closePosition","outputs":[],"stateMutability":"nonpayable"}]

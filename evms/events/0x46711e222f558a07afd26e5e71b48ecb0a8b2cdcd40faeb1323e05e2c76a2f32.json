@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"prevClosingTime","internalType":"uint256","type":"uint256","indexed":false},{"name":"newClosingTime","internalType":"uint256","type":"uint256","indexed":false}],"name":"TimedCrowdsaleExtended"}]

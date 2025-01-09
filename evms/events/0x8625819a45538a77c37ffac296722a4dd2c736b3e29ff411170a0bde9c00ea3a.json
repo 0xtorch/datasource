@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"endpoint","internalType":"address","type":"address","indexed":false},{"name":"quote","internalType":"address","type":"address","indexed":false},{"name":"fees","internalType":"address","type":"address","indexed":false}],"name":"ClearinghouseInitialized"}]

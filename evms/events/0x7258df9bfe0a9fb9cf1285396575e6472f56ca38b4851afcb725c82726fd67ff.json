@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"vectorId","internalType":"uint256","type":"uint256","indexed":true},{"name":"contractAddress","internalType":"address","type":"address","indexed":true}],"name":"SeriesVectorCreated"}]

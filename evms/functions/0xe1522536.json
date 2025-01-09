@@ -1,0 +1,1 @@
+[{"type":"function","gas":2541,"inputs":[{"name":"arg0","type":"address"},{"name":"arg1","type":"address"}],"name":"approved_to_deposit","outputs":[{"name":"","type":"bool"}],"stateMutability":"view"}]

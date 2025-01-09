@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"to","internalType":"address","type":"address"},{"name":"flag","internalType":"bool","type":"bool"}],"name":"bound","outputs":[],"stateMutability":"nonpayable"}]

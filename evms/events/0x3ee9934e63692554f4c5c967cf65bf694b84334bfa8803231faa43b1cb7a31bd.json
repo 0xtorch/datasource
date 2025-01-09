@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"claimant","internalType":"address","type":"address","indexed":false},{"name":"minedAmount","internalType":"uint96","type":"uint96","indexed":false}],"name":"InsuranceMineRewardsClaimed"}]

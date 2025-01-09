@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"productId","internalType":"uint32","type":"uint32"}],"name":"getSizeIncrement","outputs":[{"name":"","internalType":"int128","type":"int128"}],"stateMutability":"view"}]

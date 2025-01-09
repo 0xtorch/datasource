@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"exemptedSenderAddress","internalType":"address","type":"address"},{"name":"dutyFee","internalType":"bool","type":"bool"}],"name":"setExemptedSenders","outputs":[],"stateMutability":"nonpayable"}]

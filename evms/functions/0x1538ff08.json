@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"indices","internalType":"uint8[]","type":"uint8[]"},{"name":"newNames","internalType":"bytes32[]","type":"bytes32[]"}],"name":"updateAttributesName","outputs":[],"stateMutability":"nonpayable"}]

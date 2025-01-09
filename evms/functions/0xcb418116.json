@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"numerator","internalType":"uint16","type":"uint16"},{"name":"denominator","internalType":"uint16","type":"uint16"}],"name":"setTaxRate","outputs":[],"stateMutability":"nonpayable"}]

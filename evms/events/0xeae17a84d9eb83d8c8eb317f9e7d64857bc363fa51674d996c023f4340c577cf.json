@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"resolver","internalType":"contract NameResolver","type":"address","indexed":true}],"name":"DefaultResolverChanged"}]

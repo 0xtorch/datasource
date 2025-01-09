@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"jToken","internalType":"contract JToken","type":"address","indexed":false},{"name":"oldVersion","internalType":"enum JoetrollerV1Storage.Version","type":"uint8","indexed":false},{"name":"newVersion","internalType":"enum JoetrollerV1Storage.Version","type":"uint8","indexed":false}],"name":"NewJTokenVersion"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"treeIds","internalType":"uint8[]","type":"uint8[]"},{"name":"amounts","internalType":"uint256[]","type":"uint256[]"},{"name":"merkleProofs","internalType":"bytes32[][]","type":"bytes32[][]"}],"name":"claim","outputs":[],"stateMutability":"nonpayable"}]

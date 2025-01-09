@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"allocatedAmount","internalType":"uint256","type":"uint256"},{"name":"mintingAmount","internalType":"uint256","type":"uint256"},{"name":"battleflyType","internalType":"uint256","type":"uint256"},{"name":"proof","internalType":"bytes32[]","type":"bytes32[]"}],"name":"claimBattlefly","outputs":[],"stateMutability":"nonpayable"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"keepers","internalType":"address[]","type":"address[]"},{"name":"payees","internalType":"address[]","type":"address[]"}],"name":"setKeepers","outputs":[],"stateMutability":"nonpayable"}]

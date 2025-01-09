@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_encodedData","internalType":"bytes","type":"bytes"},{"name":"_messageFee","internalType":"uint256","type":"uint256"},{"name":"_relayerFee","internalType":"uint256","type":"uint256"}],"name":"send","outputs":[],"stateMutability":"nonpayable"}]

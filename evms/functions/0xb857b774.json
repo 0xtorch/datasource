@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"originalMessage","internalType":"bytes","type":"bytes"},{"name":"originalAttestation","internalType":"bytes","type":"bytes"},{"name":"newMessageBody","internalType":"bytes","type":"bytes"},{"name":"newDestinationCaller","internalType":"bytes32","type":"bytes32"}],"name":"replaceMessage","outputs":[],"stateMutability":"nonpayable"}]

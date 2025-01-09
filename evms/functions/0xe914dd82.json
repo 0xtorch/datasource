@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"depositor","internalType":"address","type":"address"},{"name":"rewardId","internalType":"uint256","type":"uint256"},{"name":"amount","internalType":"uint256","type":"uint256"},{"name":"root","internalType":"bytes32","type":"bytes32"}],"name":"stakeRewards","outputs":[],"stateMutability":"nonpayable"}]

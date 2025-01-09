@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_shardAmounts","internalType":"uint8[3]","type":"uint8[3]"},{"name":"_starlightAmounts","internalType":"uint8[3]","type":"uint8[3]"}],"name":"setGuaranteedDropAmounts","outputs":[],"stateMutability":"nonpayable"}]

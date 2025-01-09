@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"day","internalType":"uint256","type":"uint256"}],"name":"getDayUsageOf","outputs":[{"name":"","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

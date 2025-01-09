@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_preTrade","internalType":"contract IWardenPreTrade2","type":"address"}],"name":"updateWardenPreTrade","outputs":[],"stateMutability":"nonpayable"}]

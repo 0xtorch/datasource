@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_vaultProxy","internalType":"address","type":"address"}],"name":"getLastPaidForVault","outputs":[{"name":"lastPaid_","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

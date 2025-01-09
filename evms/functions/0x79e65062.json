@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_token","internalType":"address","type":"address"},{"name":"_minTokenAmount","internalType":"uint256","type":"uint256"}],"name":"setMinTokenAmount","outputs":[],"stateMutability":"nonpayable"}]

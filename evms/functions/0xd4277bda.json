@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"tagId","internalType":"string","type":"string"}],"name":"tagIdToCollectionAddress","outputs":[{"name":"","internalType":"address","type":"address"}],"stateMutability":"view"}]

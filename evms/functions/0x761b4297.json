@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"windowIndex","internalType":"uint256","type":"uint256"}],"name":"getRewardTokenForWindow","outputs":[{"name":"","internalType":"address","type":"address"}],"stateMutability":"view"}]

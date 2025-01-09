@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"recipient","internalType":"address","type":"address"}],"name":"submitAndDeposit","outputs":[{"name":"shares","internalType":"uint256","type":"uint256"}],"stateMutability":"payable"}]

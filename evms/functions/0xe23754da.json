@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_superchainConfig","internalType":"contract SuperchainConfig","type":"address"}],"name":"setSuperchainConfig","outputs":[],"stateMutability":"nonpayable"}]

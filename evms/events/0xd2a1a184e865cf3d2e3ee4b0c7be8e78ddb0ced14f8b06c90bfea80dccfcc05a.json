@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"sender","internalType":"address","type":"address","indexed":true},{"name":"token","internalType":"address","type":"address","indexed":false},{"name":"noOfRecipients","internalType":"uint256","type":"uint256","indexed":false}],"name":"ERC721Drop"}]

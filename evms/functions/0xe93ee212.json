@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"attestationID","internalType":"bytes32","type":"bytes32"},{"name":"index","internalType":"uint32","type":"uint32"},{"name":"result","internalType":"enum IProtocolService.AttestationResult","type":"uint8"}],"name":"nodeReportVerification","outputs":[],"stateMutability":"nonpayable"}]

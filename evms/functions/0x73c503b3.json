@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_isEth","internalType":"bool","type":"bool"},{"name":"_isChannel","internalType":"bool","type":"bool"},{"name":"_cost","internalType":"uint256","type":"uint256"}],"name":"setCost","outputs":[],"stateMutability":"nonpayable"}]

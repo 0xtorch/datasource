@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"node","internalType":"bytes32","type":"bytes32"},{"name":"ownerControlledFuses","internalType":"uint16","type":"uint16"}],"name":"setFuses","outputs":[{"name":"","internalType":"uint32","type":"uint32"}],"stateMutability":"nonpayable"}]

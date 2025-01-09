@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"newRedeemer","internalType":"contract MythicsEggRedeemer","type":"address"}],"name":"setEggRedeemer","outputs":[],"stateMutability":"nonpayable"}]

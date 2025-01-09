@@ -1,0 +1,1 @@
+[{"type":"function","constant":false,"inputs":[{"name":"_withdrawalId","internalType":"uint256","type":"uint256"},{"name":"_shouldReplace","internalType":"bool","type":"bool"},{"name":"_sig","internalType":"bytes","type":"bytes"}],"name":"submitWithdrawalSignatures","outputs":[],"payable":false,"stateMutability":"nonpayable"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"to","internalType":"address","type":"address"},{"name":"worldId","internalType":"uint256","type":"uint256"}],"name":"beginTransfer","outputs":[],"stateMutability":"nonpayable"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"newProtocolFeesPayoutAccount","internalType":"address","type":"address"}],"name":"setProtocolFeesPayoutAccount","outputs":[],"stateMutability":"nonpayable"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"root","internalType":"bytes32","type":"bytes32"},{"name":"contentHash","internalType":"bytes32","type":"bytes32"},{"name":"cycle","internalType":"uint256","type":"uint256"}],"name":"proposeRoot","outputs":[],"stateMutability":"nonpayable"}]

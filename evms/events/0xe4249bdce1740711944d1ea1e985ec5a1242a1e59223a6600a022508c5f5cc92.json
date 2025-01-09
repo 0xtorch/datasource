@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"rewardShare","internalType":"uint256","type":"uint256","indexed":false},{"name":"liquidityShare","internalType":"uint256","type":"uint256","indexed":false},{"name":"marketingShare","internalType":"uint256","type":"uint256","indexed":false}],"name":"SetShares"}]

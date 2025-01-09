@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"target","internalType":"address","type":"address"},{"name":"amountToSet","internalType":"uint16","type":"uint16"}],"name":"setFakeSvinBalance","outputs":[],"stateMutability":"nonpayable"}]

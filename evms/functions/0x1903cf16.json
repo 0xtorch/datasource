@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"validator","internalType":"address","type":"address"},{"name":"epochs","internalType":"uint256[]","type":"uint256[]"}],"name":"activateValidator","outputs":[],"stateMutability":"nonpayable"}]

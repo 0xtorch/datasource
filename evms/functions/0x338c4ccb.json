@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"underlying","internalType":"address","type":"address"}],"name":"isVaultToken","outputs":[{"name":"","internalType":"bool","type":"bool"}],"stateMutability":"view"}]

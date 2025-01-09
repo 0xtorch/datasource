@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"pair","internalType":"address","type":"address"},{"name":"isAdd","internalType":"bool","type":"bool"}],"name":"manageAmmPairs","outputs":[],"stateMutability":"nonpayable"}]

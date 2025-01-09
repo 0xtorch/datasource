@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"metadataURI","internalType":"string","type":"string"}],"name":"addAssetEntry","outputs":[{"name":"assetId","internalType":"uint256","type":"uint256"}],"stateMutability":"nonpayable"}]

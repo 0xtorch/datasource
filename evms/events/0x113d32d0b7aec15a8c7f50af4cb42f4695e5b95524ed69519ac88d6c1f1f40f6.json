@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"tournamentID","type":"uint256","indexed":true}],"name":"TournamentCreated"}]

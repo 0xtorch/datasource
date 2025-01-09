@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"module","internalType":"address","type":"address"},{"name":"_roles","internalType":"uint16[]","type":"uint16[]"},{"name":"memberOf","internalType":"bool[]","type":"bool[]"}],"name":"assignRoles","outputs":[],"stateMutability":"nonpayable"}]

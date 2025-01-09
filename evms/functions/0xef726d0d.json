@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"account_","internalType":"address","type":"address"},{"name":"target_","internalType":"address","type":"address"},{"name":"tokenId_","internalType":"uint256","type":"uint256"}],"name":"importItem","outputs":[{"name":"","internalType":"bool","type":"bool"}],"stateMutability":"nonpayable"}]

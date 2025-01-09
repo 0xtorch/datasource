@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[],"name":"claimWindow","outputs":[{"name":"startTime","internalType":"uint128","type":"uint128"},{"name":"endTime","internalType":"uint128","type":"uint128"}],"stateMutability":"view"}]

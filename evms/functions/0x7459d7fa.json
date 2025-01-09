@@ -1,0 +1,1 @@
+[{"type":"function","constant":false,"inputs":[{"name":"contractName","type":"string"},{"name":"basisPoints","type":"uint256[]"},{"name":"startMonth","type":"uint256"}],"name":"setVestingContract","outputs":[{"name":"","type":"bool"}],"payable":false,"stateMutability":"nonpayable"}]

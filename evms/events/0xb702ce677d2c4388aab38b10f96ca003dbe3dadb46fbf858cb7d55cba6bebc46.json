@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"newTWAPSource","internalType":"address","type":"address","indexed":true}],"name":"TWAPSourceAdded"}]

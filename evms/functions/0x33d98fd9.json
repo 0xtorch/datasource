@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"data","internalType":"struct SmartCatV2.MintRequestData[]","type":"tuple[]","components":[{"name":"to","internalType":"address","type":"address"},{"name":"passId","internalType":"uint256","type":"uint256"}]}],"name":"bulkMint","outputs":[],"stateMutability":"nonpayable"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"mintId","internalType":"uint256","type":"uint256"},{"name":"nid","internalType":"uint256","type":"uint256"}],"name":"nUsed","outputs":[{"name":"","internalType":"bool","type":"bool"}],"stateMutability":"view"}]

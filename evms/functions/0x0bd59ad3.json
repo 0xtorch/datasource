@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_withdrawalAddress","internalType":"address","type":"address"}],"name":"getDepositsByWithdrawalAddress","outputs":[{"name":"","internalType":"uint256[]","type":"uint256[]"}],"stateMutability":"view"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"role","internalType":"uint16","type":"uint16"},{"name":"targetAddress","internalType":"address","type":"address"}],"name":"scopeTarget","outputs":[],"stateMutability":"nonpayable"}]

@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"id","internalType":"uint256","type":"uint256","indexed":true},{"name":"router","internalType":"address","type":"address","indexed":true},{"name":"hardcap","internalType":"uint256","type":"uint256","indexed":false}],"name":"PoolAdded"}]

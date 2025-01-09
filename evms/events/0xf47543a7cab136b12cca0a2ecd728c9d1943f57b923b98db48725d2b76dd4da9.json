@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"_gasForReFund","internalType":"uint256","type":"uint256","indexed":true}],"name":"SetGasForReFund"}]

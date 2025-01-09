@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"message","internalType":"bytes","type":"bytes"},{"name":"guid","internalType":"bytes32","type":"bytes32"}],"name":"receiveXCM","outputs":[{"name":"success","internalType":"bool","type":"bool"}],"stateMutability":"nonpayable"}]

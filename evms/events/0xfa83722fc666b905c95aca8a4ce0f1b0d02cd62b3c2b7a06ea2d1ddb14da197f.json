@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"previousVoter","internalType":"address","type":"address","indexed":false},{"name":"_poolVoter","internalType":"address","type":"address","indexed":false}],"name":"PoolVoterUpdated"}]

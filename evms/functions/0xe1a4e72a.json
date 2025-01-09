@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"stuckToken","internalType":"address","type":"address"}],"name":"inCaseTokenGotStuck","outputs":[],"stateMutability":"nonpayable"}]

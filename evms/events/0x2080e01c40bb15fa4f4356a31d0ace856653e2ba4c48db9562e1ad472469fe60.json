@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"pool","internalType":"contract IPool","type":"address","indexed":true},{"name":"rewardPerSecond","internalType":"uint160","type":"uint160","indexed":false}],"name":"PoolRewardUpdated"}]

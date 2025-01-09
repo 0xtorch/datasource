@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_tokenId","internalType":"uint256","type":"uint256"},{"name":"_tamaHaganeId","internalType":"uint256","type":"uint256"}],"name":"setAvailableTokens","outputs":[],"stateMutability":"nonpayable"}]

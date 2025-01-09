@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_status","internalType":"enum TradingCompV1.CompetitionStatus","type":"uint8"}],"name":"updateCompetitionStatus","outputs":[],"stateMutability":"nonpayable"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_nfts","internalType":"struct ApeCoinStaking.SingleNft[]","type":"tuple[]","components":[{"name":"tokenId","internalType":"uint32","type":"uint32"},{"name":"amount","internalType":"uint224","type":"uint224"}]}],"name":"depositMAYC","outputs":[],"stateMutability":"nonpayable"}]

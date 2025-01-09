@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_preSaleOpenTime","internalType":"uint256","type":"uint256"},{"name":"_wlMerkleRoot","internalType":"bytes32","type":"bytes32"},{"name":"_freeMerkleRoot","internalType":"bytes32","type":"bytes32"},{"name":"_reserved","internalType":"uint256","type":"uint256"}],"name":"setSaleDetails","outputs":[],"stateMutability":"nonpayable"}]

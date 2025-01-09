@@ -1,0 +1,1 @@
+[{"type":"function","constant":false,"inputs":[{"name":"_newChainId","internalType":"uint64","type":"uint64"}],"name":"setChainId","outputs":[{"name":"","internalType":"bool","type":"bool"}],"payable":false,"stateMutability":"nonpayable"}]

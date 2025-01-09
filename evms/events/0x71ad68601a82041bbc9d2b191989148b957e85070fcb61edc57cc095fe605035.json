@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"message","internalType":"string","type":"string","indexed":false},{"name":"dstEid","internalType":"uint32","type":"uint32","indexed":false}],"name":"MessageSent"}]

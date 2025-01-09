@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"editionId","internalType":"uint256","type":"uint256","indexed":true},{"name":"size","internalType":"uint256","type":"uint256","indexed":true},{"name":"editionTokenManager","internalType":"address","type":"address","indexed":true}],"name":"EditionCreated"}]

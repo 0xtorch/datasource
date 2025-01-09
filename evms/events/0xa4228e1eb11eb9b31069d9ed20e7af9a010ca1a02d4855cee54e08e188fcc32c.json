@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"sender","internalType":"address","type":"address","indexed":true},{"name":"to","internalType":"address","type":"address","indexed":true},{"name":"amount0","internalType":"int256","type":"int256","indexed":false},{"name":"amount1","internalType":"int256","type":"int256","indexed":false}],"name":"Swap"}]

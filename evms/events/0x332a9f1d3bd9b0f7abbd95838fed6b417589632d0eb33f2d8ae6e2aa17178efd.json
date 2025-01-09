@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"callerGuardMode","internalType":"enum CallerGuard.CallerGuardMode","type":"uint8","indexed":true}],"name":"SetCallerGuardMode"}]

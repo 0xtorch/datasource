@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"firstTokenID","type":"uint256","indexed":false},{"name":"amount","type":"uint256","indexed":false},{"name":"receiver","type":"address","indexed":false},{"name":"lastTokenID","type":"uint256","indexed":false}],"name":"MintBatchEvent"}]

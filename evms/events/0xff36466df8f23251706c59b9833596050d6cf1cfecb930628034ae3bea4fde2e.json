@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"requestor","internalType":"address","type":"address","indexed":false},{"name":"erc20","internalType":"address","type":"address","indexed":false},{"name":"amount","internalType":"uint256","type":"uint256","indexed":false}],"name":"MarketplaceWithdrawEscrow"}]

@@ -1,0 +1,1 @@
+[{"type":"function","constant":false,"inputs":[{"name":"param","type":"tuple","components":[{"name":"srcChainID","type":"uint256"},{"name":"destChainID","type":"uint256"},{"name":"contractFee","type":"uint256"},{"name":"agentFee","type":"uint256"}]}],"name":"setFee","outputs":[],"payable":false,"stateMutability":"nonpayable"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_id","internalType":"uint256","type":"uint256"}],"name":"getDigitalMediaForSale","outputs":[{"name":"","internalType":"address","type":"address"},{"name":"","internalType":"bool","type":"bool"},{"name":"","internalType":"uint16","type":"uint16"}],"stateMutability":"view"}]

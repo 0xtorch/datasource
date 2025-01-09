@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"referral","internalType":"address","type":"address"},{"name":"sharePercent","internalType":"uint256","type":"uint256"}],"name":"setPartnerReferral","outputs":[],"stateMutability":"nonpayable"}]

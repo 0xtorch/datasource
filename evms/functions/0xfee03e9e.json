@@ -1,0 +1,1 @@
+[{"type":"function","constant":true,"inputs":[],"name":"erc20TransferProxy","outputs":[{"name":"","internalType":"contract ERC20TransferProxy","type":"address"}],"payable":false,"stateMutability":"view"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"","internalType":"uint8","type":"uint8"}],"name":"chainSyncServiceMap","outputs":[{"name":"","internalType":"contract ISyncService","type":"address"}],"stateMutability":"view"}]

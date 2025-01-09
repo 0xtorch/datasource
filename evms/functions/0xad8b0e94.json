@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"","internalType":"uint256","type":"uint256"}],"name":"generations","outputs":[{"name":"loaded","internalType":"bool","type":"bool"},{"name":"enabled","internalType":"bool","type":"bool"},{"name":"baseURI","internalType":"string","type":"string"}],"stateMutability":"view"}]

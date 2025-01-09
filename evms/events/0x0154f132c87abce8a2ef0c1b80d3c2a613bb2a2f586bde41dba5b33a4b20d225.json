@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"_glpRewards","internalType":"uint256","type":"uint256","indexed":false},{"name":"_stableRewards","internalType":"uint256","type":"uint256","indexed":false},{"name":"_jonesRewards","internalType":"uint256","type":"uint256","indexed":false}],"name":"SplitRewards"}]

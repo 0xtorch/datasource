@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"paymentMethodWhitelistId","internalType":"uint32","type":"uint32"},{"name":"paymentMethod","internalType":"address","type":"address"}],"name":"isPaymentMethodWhitelisted","outputs":[{"name":"","internalType":"bool","type":"bool"}],"stateMutability":"view"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"feeWhiteList_","internalType":"address","type":"address"},{"name":"state_","internalType":"bool","type":"bool"}],"name":"setfeeWhiteList","outputs":[],"stateMutability":"nonpayable"}]

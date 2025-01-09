@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_whirlpool","internalType":"contract Whirlpool","type":"address"}],"name":"setWhirlpoolContract","outputs":[],"stateMutability":"nonpayable"}]

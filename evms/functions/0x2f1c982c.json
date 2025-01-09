@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_ownerships","internalType":"struct AssetContractShared.Ownership[]","type":"tuple[]","components":[{"name":"id","internalType":"uint256","type":"uint256"},{"name":"owner","internalType":"address","type":"address"}]}],"name":"migrate","outputs":[],"stateMutability":"nonpayable"}]

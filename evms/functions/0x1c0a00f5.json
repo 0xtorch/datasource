@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[],"name":"INFO","outputs":[{"name":"decimals","internalType":"uint8","type":"uint8"},{"name":"creator","internalType":"address","type":"address"}],"stateMutability":"view"}]

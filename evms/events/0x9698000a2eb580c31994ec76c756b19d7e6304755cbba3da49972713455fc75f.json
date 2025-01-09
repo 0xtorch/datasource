@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"user","type":"address","indexed":true},{"name":"oldVeHUM","type":"address","indexed":false},{"name":"newVeHUM","type":"address","indexed":false}],"name":"UpdateVeHUM"}]

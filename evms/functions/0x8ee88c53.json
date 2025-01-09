@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"liquidityFee","internalType":"uint256","type":"uint256"}],"name":"setLiquidityFeePercent","outputs":[],"stateMutability":"nonpayable"}]

@@ -1,0 +1,1 @@
+[{"type":"function","constant":false,"inputs":[{"name":"_owners","internalType":"address[]","type":"address[]"},{"name":"_rows","internalType":"int256[]","type":"int256[]"},{"name":"_cols","internalType":"int256[]","type":"int256[]"}],"name":"batchMint","outputs":[],"payable":false,"stateMutability":"nonpayable"}]

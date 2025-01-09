@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_masterVtx","internalType":"address","type":"address"},{"name":"_swapHelper","internalType":"address","type":"address"},{"name":"_vtxLocker","internalType":"address","type":"address"}],"name":"__ManualCompound_init","outputs":[],"stateMutability":"nonpayable"}]

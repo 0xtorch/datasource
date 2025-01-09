@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"quickAmount","internalType":"uint256","type":"uint256","indexed":false},{"name":"quickxAmount","internalType":"uint256","type":"uint256","indexed":false},{"name":"account","internalType":"address","type":"address","indexed":true}],"name":"QuickToQuickX"}]

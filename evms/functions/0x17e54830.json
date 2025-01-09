@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_lps","internalType":"address[]","type":"address[]"},{"name":"user_address","internalType":"address","type":"address"}],"name":"multiclaim","outputs":[],"stateMutability":"nonpayable"}]

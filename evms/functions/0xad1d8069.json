@@ -1,0 +1,1 @@
+[{"type":"function","constant":true,"inputs":[{"name":"data","internalType":"bytes","type":"bytes"},{"name":"offset","internalType":"uint8","type":"uint8"},{"name":"verifyTxInclusion","internalType":"bool","type":"bool"}],"name":"verifyInclusion","outputs":[{"name":"","internalType":"uint256","type":"uint256"}],"payable":false,"stateMutability":"view"}]

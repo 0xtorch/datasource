@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"fg","internalType":"string","type":"string"},{"name":"bg","internalType":"string","type":"string"}],"name":"baseImg","outputs":[{"name":"","internalType":"string","type":"string"}],"stateMutability":"pure"}]

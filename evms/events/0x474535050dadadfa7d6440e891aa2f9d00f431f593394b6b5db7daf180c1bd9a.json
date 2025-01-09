@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"_oldTokenId","internalType":"uint256","type":"uint256","indexed":true},{"name":"_newTokenId","internalType":"uint256","type":"uint256","indexed":true},{"name":"_twitterUsername","internalType":"string","type":"string","indexed":false}],"name":"UsernameUpdated"}]

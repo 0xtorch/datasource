@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"amount","internalType":"uint256","type":"uint256"},{"name":"periodIndex","internalType":"uint256","type":"uint256"}],"name":"createStake","outputs":[],"stateMutability":"nonpayable"}]

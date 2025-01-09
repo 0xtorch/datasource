@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"modelId","internalType":"uint256","type":"uint256"},{"name":"receiverPercentage","internalType":"uint256","type":"uint256"}],"name":"setModelReceiverPercentage","outputs":[],"stateMutability":"nonpayable"}]

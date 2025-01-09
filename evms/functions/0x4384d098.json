@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"poolNo_","internalType":"uint8","type":"uint8"},{"name":"amount_","internalType":"uint256","type":"uint256"}],"name":"updatePoolMinStakeAmoun","outputs":[],"stateMutability":"nonpayable"}]

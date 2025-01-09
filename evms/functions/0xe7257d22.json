@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"points","internalType":"uint256","type":"uint256"}],"name":"determineBadgeLevel","outputs":[{"name":"","internalType":"uint8","type":"uint8"}],"stateMutability":"pure"}]

@@ -1,0 +1,1 @@
+[{"type":"function","constant":false,"inputs":[{"name":"beneficiaries","type":"address[]"},{"name":"amounts","type":"uint256[]"}],"name":"sendTokensArray","outputs":[],"payable":false,"stateMutability":"nonpayable"}]

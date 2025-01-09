@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"size","internalType":"uint256","type":"uint256"},{"name":"x","internalType":"uint256","type":"uint256"},{"name":"y","internalType":"uint256","type":"uint256"}],"name":"_formQuadId","outputs":[{"name":"","internalType":"uint256","type":"uint256"}],"stateMutability":"pure"}]

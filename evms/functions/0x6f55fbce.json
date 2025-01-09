@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"prices","internalType":"uint256[]","type":"uint256[]"},{"name":"walletLimits","internalType":"uint32[]","type":"uint32[]"},{"name":"merkleRoots","internalType":"bytes32[]","type":"bytes32[]"},{"name":"maxStageSupplies","internalType":"uint256[]","type":"uint256[]"}],"name":"setStages","outputs":[],"stateMutability":"nonpayable"}]

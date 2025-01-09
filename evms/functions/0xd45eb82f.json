@@ -1,0 +1,1 @@
+[{"type":"function","constant":true,"inputs":[],"name":"wildcardErc1155Address","outputs":[{"name":"","internalType":"contract ERC1155Tradable","type":"address"}],"payable":false,"stateMutability":"view"}]

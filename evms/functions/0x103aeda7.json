@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"contractAddress","internalType":"address","type":"address"}],"name":"isContractAuthorized","outputs":[{"name":"","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

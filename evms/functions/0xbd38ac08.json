@@ -1,0 +1,1 @@
+[{"type":"function","constant":false,"inputs":[{"name":"_buyer","type":"address"},{"name":"_tokens","type":"uint256"},{"name":"_packId","type":"uint256"},{"name":"_amount","type":"uint256"}],"name":"buySinglePackByToken","outputs":[],"payable":false,"stateMutability":"nonpayable"}]

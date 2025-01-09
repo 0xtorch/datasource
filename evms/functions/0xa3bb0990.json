@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_gauges","internalType":"address[]","type":"address[]"},{"name":"_xRamRatios","internalType":"uint256[]","type":"uint256[]"}],"name":"setGaugeXRamRatio","outputs":[],"stateMutability":"nonpayable"}]

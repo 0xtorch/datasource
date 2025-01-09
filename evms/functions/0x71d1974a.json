@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[],"name":"getLegacyFactory","outputs":[{"name":"legacyLBfactory","internalType":"contract ILBLegacyFactory","type":"address"}],"stateMutability":"view"}]

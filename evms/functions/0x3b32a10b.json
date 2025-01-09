@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"tid","internalType":"uint8","type":"uint8"},{"name":"newSoftWeight","internalType":"uint256","type":"uint256"},{"name":"newHardWeight","internalType":"uint256","type":"uint256"}],"name":"adjustWeights","outputs":[],"stateMutability":"nonpayable"}]

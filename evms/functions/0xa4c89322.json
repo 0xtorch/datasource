@@ -1,0 +1,1 @@
+[{"type":"function","constant":true,"inputs":[{"name":"_eth","type":"uint256"}],"name":"ethToTokens","outputs":[{"name":"tokens","type":"uint256"}],"payable":false,"stateMutability":"view"}]

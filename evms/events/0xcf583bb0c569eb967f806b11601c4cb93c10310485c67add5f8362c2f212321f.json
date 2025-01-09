@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"pToken","internalType":"contract PToken","type":"address","indexed":false}],"name":"MarketListed"},{"type":"event","anonymous":false,"inputs":[{"name":"vToken","internalType":"contract VToken","type":"address","indexed":true}],"name":"MarketListed"}]

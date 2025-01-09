@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"emitterChainId","internalType":"uint16","type":"uint16","indexed":true},{"name":"emitterAddress","internalType":"bytes32","type":"bytes32","indexed":true},{"name":"sequence","internalType":"uint64","type":"uint64","indexed":true}],"name":"TransferRedeemed"}]

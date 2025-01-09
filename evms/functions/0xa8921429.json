@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"atlanticAddress","internalType":"string","type":"string"}],"name":"getRecordByAtlanticAddress","outputs":[{"name":"","internalType":"address","type":"address"}],"stateMutability":"view"}]

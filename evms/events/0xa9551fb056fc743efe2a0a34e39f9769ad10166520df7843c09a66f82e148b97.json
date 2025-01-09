@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"swapContract","internalType":"address","type":"address","indexed":true},{"name":"tokenA","internalType":"address","type":"address","indexed":true},{"name":"tokenB","internalType":"address","type":"address","indexed":true}],"name":"NewStableSwapPair"}]

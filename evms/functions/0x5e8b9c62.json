@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"spaceId","internalType":"uint256","type":"uint256"}],"name":"rewardPerShareStored","outputs":[{"name":"reward","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

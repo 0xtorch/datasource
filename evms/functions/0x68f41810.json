@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"","internalType":"address","type":"address"}],"name":"teeStakeInfos","outputs":[{"name":"valid","internalType":"bool","type":"bool"},{"name":"staked","internalType":"uint256","type":"uint256"},{"name":"lastReportAt","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

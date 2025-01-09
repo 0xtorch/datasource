@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"previousReferralCommissionRate","internalType":"uint256","type":"uint256","indexed":false},{"name":"newReferralCommissionRate","internalType":"uint256","type":"uint256","indexed":false}],"name":"SetReferralCommissionRate"}]

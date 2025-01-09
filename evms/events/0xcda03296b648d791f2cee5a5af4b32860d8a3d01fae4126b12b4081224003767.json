@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"new_mint_cap","internalType":"uint256","type":"uint256","indexed":false}],"name":"MintCapSet"}]

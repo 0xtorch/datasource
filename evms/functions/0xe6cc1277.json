@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"redeemable_","internalType":"contract Redeemable","type":"address"}],"name":"setRedeemableContract","outputs":[],"stateMutability":"nonpayable"}]

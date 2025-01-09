@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"staker","internalType":"address","type":"address"}],"name":"undelegate","outputs":[{"name":"withdrawalRoots","internalType":"bytes32[]","type":"bytes32[]"}],"stateMutability":"nonpayable"}]

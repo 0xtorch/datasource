@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_chainSelector","internalType":"uint64","type":"uint64"},{"name":"_xSwapRouter","internalType":"address","type":"address"}],"name":"updateChainSelectorToXSwapRouterMap","outputs":[],"stateMutability":"nonpayable"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"tokenId_","internalType":"uint256","type":"uint256"},{"name":"burnValue_","internalType":"uint256","type":"uint256"}],"name":"burnOnlyIssueMarket","outputs":[],"stateMutability":"nonpayable"}]

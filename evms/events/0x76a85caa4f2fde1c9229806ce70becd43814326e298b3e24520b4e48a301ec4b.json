@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"oldOperator","type":"address","indexed":true},{"name":"newOperator","type":"address","indexed":true},{"name":"index","type":"uint256","indexed":false},{"name":"sender","type":"address","indexed":true}],"name":"OperatorChanged"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"deliveryHash","internalType":"bytes32","type":"bytes32"}],"name":"deliveryFailureBlock","outputs":[{"name":"blockNumber","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

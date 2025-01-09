@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"","internalType":"address","type":"address"}],"name":"artPassMints","outputs":[{"name":"","internalType":"int16","type":"int16"}],"stateMutability":"view"}]

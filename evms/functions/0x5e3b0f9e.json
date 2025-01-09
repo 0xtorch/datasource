@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"lockId","internalType":"uint128","type":"uint128"},{"name":"wrappedBaseTokenAddress","internalType":"address","type":"address"},{"name":"recipient","internalType":"bytes32","type":"bytes32"},{"name":"destination","internalType":"bytes4","type":"bytes4"}],"name":"lockBase","outputs":[],"stateMutability":"payable"}]

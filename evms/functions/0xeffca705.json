@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_newSwapper","internalType":"address","type":"address"},{"name":"_newAllowanceTarget","internalType":"address","type":"address"}],"name":"setSwapper","outputs":[],"stateMutability":"nonpayable"}]

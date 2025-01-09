@@ -1,0 +1,1 @@
+[{"type":"function","constant":false,"inputs":[{"name":"pack","internalType":"contract IPackFour","type":"address"},{"name":"ids","internalType":"uint256[]","type":"uint256[]"}],"name":"migrate","outputs":[],"payable":false,"stateMutability":"nonpayable"}]

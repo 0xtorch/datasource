@@ -1,0 +1,1 @@
+[{"type":"function","gas":42471,"inputs":[{"name":"strategy","type":"address"},{"name":"maxDebtPerHarvest","type":"uint256"}],"name":"updateStrategyMaxDebtPerHarvest","outputs":[],"stateMutability":"nonpayable"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"params","internalType":"struct StrategyAave.StrategyParams","type":"tuple","components":[{"name":"usdc","internalType":"address","type":"address"},{"name":"aUsdc","internalType":"address","type":"address"},{"name":"aaveProvider","internalType":"address","type":"address"}]}],"name":"setParams","outputs":[],"stateMutability":"nonpayable"}]

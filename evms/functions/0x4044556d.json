@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"tokenIndex","internalType":"uint256","type":"uint256"}],"name":"isSaleOpen","outputs":[{"name":"","internalType":"bool","type":"bool"}],"stateMutability":"view"}]

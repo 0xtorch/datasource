@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"denom","internalType":"string","type":"string"}],"name":"setDenom","outputs":[{"name":"","internalType":"bool","type":"bool"}],"stateMutability":"nonpayable"}]

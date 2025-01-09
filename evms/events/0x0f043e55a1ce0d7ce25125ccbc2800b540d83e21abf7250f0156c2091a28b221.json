@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"origin","internalType":"address","type":"address","indexed":true},{"name":"sender","internalType":"address","type":"address","indexed":true},{"name":"vaultTokens_","internalType":"address[]","type":"address[]","indexed":false},{"name":"nft_","internalType":"uint256","type":"uint256","indexed":false}],"name":"Initialized"}]

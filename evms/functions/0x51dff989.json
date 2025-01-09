@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"pToken","internalType":"address","type":"address"},{"name":"redeemer","internalType":"address","type":"address"},{"name":"redeemAmount","internalType":"uint256","type":"uint256"},{"name":"redeemTokens","internalType":"uint256","type":"uint256"}],"name":"redeemVerify","outputs":[],"stateMutability":"nonpayable"}]

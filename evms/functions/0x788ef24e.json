@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"lp1","internalType":"contract Asset","type":"address"},{"name":"lp2","internalType":"contract Asset","type":"address"},{"name":"amountLp1","internalType":"uint256","type":"uint256"}],"name":"convertLp","outputs":[{"name":"","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

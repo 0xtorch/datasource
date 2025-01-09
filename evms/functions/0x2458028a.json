@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"from","internalType":"bytes12","type":"bytes12"},{"name":"to","internalType":"bytes12","type":"bytes12"},{"name":"ink","internalType":"uint128","type":"uint128"},{"name":"art","internalType":"uint128","type":"uint128"}],"name":"stir","outputs":[],"stateMutability":"payable"}]

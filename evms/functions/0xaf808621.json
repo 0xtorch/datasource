@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_id","internalType":"uint256","type":"uint256"},{"name":"_maxSupply","internalType":"uint256","type":"uint256"},{"name":"_cost","internalType":"uint256","type":"uint256"},{"name":"_maxMintAmount","internalType":"uint256","type":"uint256"}],"name":"setPhaseData","outputs":[],"stateMutability":"nonpayable"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"worldId","internalType":"uint256","type":"uint256"}],"name":"getWorldName","outputs":[{"name":"name","internalType":"string","type":"string"}],"stateMutability":"view"}]

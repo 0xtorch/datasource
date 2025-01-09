@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"sender","internalType":"address","type":"address"},{"name":"eggsAmount","internalType":"uint256","type":"uint256"}],"name":"burnEggs","outputs":[],"stateMutability":"nonpayable"}]

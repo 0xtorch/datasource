@@ -1,0 +1,1 @@
+[{"type":"function","constant":false,"inputs":[{"name":"earningsRate","type":"tuple","components":[{"name":"value","type":"uint256"}]}],"name":"ownerSetEarningsRate","outputs":[],"payable":false,"stateMutability":"nonpayable"}]

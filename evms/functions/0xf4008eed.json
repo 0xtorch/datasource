@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_coins","internalType":"address[]","type":"address[]"},{"name":"_reserves","internalType":"uint256[]","type":"uint256[]"}],"name":"setCoinReserve","outputs":[],"stateMutability":"nonpayable"}]

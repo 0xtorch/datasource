@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"tokenOut","internalType":"address","type":"address"}],"name":"getConnectedBridgeTokens","outputs":[{"name":"tokens","internalType":"struct BridgeToken[]","type":"tuple[]","components":[{"name":"symbol","internalType":"string","type":"string"},{"name":"token","internalType":"address","type":"address"}]}],"stateMutability":"view"}]

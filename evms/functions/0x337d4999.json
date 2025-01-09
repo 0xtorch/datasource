@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_tokenId","internalType":"uint256","type":"uint256"},{"name":"_param2","internalType":"address","type":"address"},{"name":"_param3","internalType":"bool","type":"bool"}],"name":"proxySetAddress","outputs":[],"stateMutability":"nonpayable"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"vaultAddress","internalType":"address","type":"address"},{"name":"_vaultStatus","internalType":"enum VaultStatus","type":"uint8"}],"name":"setVaultStatus","outputs":[],"stateMutability":"nonpayable"}]

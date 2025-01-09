@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"offset","internalType":"uint256","type":"uint256"},{"name":"size","internalType":"uint256","type":"uint256"}],"name":"keeksFromSlice","outputs":[{"name":"keeks","internalType":"bytes32[]","type":"bytes32[]"}],"stateMutability":"view"}]

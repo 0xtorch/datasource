@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"","internalType":"uint256","type":"uint256"}],"name":"pointHistory","outputs":[{"name":"bias","internalType":"int128","type":"int128"},{"name":"slope","internalType":"int128","type":"int128"},{"name":"ts","internalType":"uint256","type":"uint256"},{"name":"blk","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

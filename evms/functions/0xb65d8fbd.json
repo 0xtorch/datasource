@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"traitType","internalType":"string","type":"string"},{"name":"isUserModifiable","internalType":"bool","type":"bool"},{"name":"isEnabledForAllTokens","internalType":"bool","type":"bool"},{"name":"eligibleTokens","internalType":"uint256[]","type":"uint256[]"}],"name":"_updateUserModifiableAttribute","outputs":[],"stateMutability":"nonpayable"}]

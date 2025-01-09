@@ -1,0 +1,1 @@
+[{"type":"function","constant":true,"inputs":[{"name":"_tournamentID","type":"uint256"},{"name":"_roundID","type":"uint256"}],"name":"getRound","outputs":[{"name":"","type":"uint256"},{"name":"","type":"uint256"},{"name":"","type":"uint256"}],"payable":false,"stateMutability":"view"}]

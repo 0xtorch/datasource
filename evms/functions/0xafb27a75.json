@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"nft","internalType":"address","type":"address"},{"name":"tokenId","internalType":"uint256","type":"uint256"}],"name":"stakeMultiplier","outputs":[],"stateMutability":"nonpayable"}]

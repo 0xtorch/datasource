@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_module","internalType":"address","type":"address"}],"name":"isPendingModule","outputs":[{"name":"","internalType":"bool","type":"bool"}],"stateMutability":"view"}]

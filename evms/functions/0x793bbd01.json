@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_metadata","internalType":"bytes","type":"bytes"},{"name":"_chunkPointers","internalType":"bytes32[]","type":"bytes32[]"}],"name":"createFile","outputs":[{"name":"fileChecksum","internalType":"bytes32","type":"bytes32"}],"stateMutability":"nonpayable"}]

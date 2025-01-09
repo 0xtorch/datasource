@@ -1,0 +1,1 @@
+[{"type":"function","constant":true,"inputs":[{"name":"tokenId","internalType":"uint256","type":"uint256"}],"name":"getQuantum","outputs":[{"name":"quantum","internalType":"uint256","type":"uint256"}],"payable":false,"stateMutability":"view"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"poolId","internalType":"bytes32","type":"bytes32"},{"name":"delLiquidity","internalType":"uint256","type":"uint256"}],"name":"remove","outputs":[{"name":"delRisky","internalType":"uint256","type":"uint256"},{"name":"delStable","internalType":"uint256","type":"uint256"}],"stateMutability":"nonpayable"}]

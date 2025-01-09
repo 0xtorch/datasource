@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"poolAmountIn","internalType":"uint256","type":"uint256"}],"name":"getExitPool","outputs":[{"name":"tokenAmountsOut","internalType":"uint256[]","type":"uint256[]"}],"stateMutability":"view"}]

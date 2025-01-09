@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"voteCode","internalType":"uint256","type":"uint256"}],"name":"getEventVoteOptions","outputs":[{"name":"options","internalType":"uint256[]","type":"uint256[]"}],"stateMutability":"view"}]

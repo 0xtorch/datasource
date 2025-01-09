@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"module","type":"address","indexed":true},{"name":"target","type":"address","indexed":true},{"name":"value","type":"uint256","indexed":true},{"name":"data","type":"bytes","indexed":false}],"name":"Invoked"}]

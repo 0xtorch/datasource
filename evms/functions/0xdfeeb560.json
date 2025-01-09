@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"newDestination","internalType":"address payable","type":"address"}],"name":"setAdminFeeDestination","outputs":[],"stateMutability":"nonpayable"}]

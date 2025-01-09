@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"tokenId","internalType":"uint256","type":"uint256"},{"name":"_timestamp","internalType":"uint256","type":"uint256"}],"name":"balanceOfAt","outputs":[{"name":"","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

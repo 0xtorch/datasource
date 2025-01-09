@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_token","internalType":"address","type":"address"},{"name":"_strategy","internalType":"address","type":"address"},{"name":"_withUpdate","internalType":"bool","type":"bool"}],"name":"addPool","outputs":[{"name":"","internalType":"uint256","type":"uint256"}],"stateMutability":"nonpayable"}]

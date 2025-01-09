@@ -1,0 +1,1 @@
+[{"type":"function","constant":false,"inputs":[{"name":"_pool","internalType":"contract IERC20StakingPool","type":"address"}],"name":"syncPool","outputs":[],"payable":false,"stateMutability":"nonpayable"}]

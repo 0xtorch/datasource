@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_to","internalType":"address","type":"address"},{"name":"_amount","internalType":"uint256","type":"uint256"},{"name":"_data","internalType":"bytes","type":"bytes"},{"name":"_gasLimit","internalType":"uint256","type":"uint256"}],"name":"withdrawETHAndCall","outputs":[],"stateMutability":"payable"}]

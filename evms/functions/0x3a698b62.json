@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[],"name":"currentSaleState","outputs":[{"name":"","internalType":"enum EternalRose.SalesConfig","type":"uint8"}],"stateMutability":"view"}]

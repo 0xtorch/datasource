@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_botAddress","internalType":"address","type":"address"},{"name":"_flag","internalType":"bool","type":"bool"}],"name":"setBotBlacklist","outputs":[],"stateMutability":"nonpayable"}]

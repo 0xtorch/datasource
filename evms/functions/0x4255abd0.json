@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_address","internalType":"address","type":"address"}],"name":"checkAddressHasTitan","outputs":[{"name":"_truefalse","internalType":"bool","type":"bool"}],"stateMutability":"view"}]

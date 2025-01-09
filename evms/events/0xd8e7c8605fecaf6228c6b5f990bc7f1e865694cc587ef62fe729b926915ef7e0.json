@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"tokenId","internalType":"uint256","type":"uint256","indexed":false},{"name":"x","internalType":"uint8","type":"uint8","indexed":false},{"name":"y","internalType":"uint8","type":"uint8","indexed":false},{"name":"z","internalType":"uint8","type":"uint8","indexed":false}],"name":"SetSize"}]

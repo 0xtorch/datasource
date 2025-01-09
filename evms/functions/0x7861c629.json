@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_publicKey","internalType":"uint256[4]","type":"uint256[4]"}],"name":"updatePublicKey","outputs":[{"name":"","internalType":"bool","type":"bool"}],"stateMutability":"nonpayable"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"id","internalType":"uint256","type":"uint256"},{"name":"index","internalType":"uint8","type":"uint8"}],"name":"getAttributeValueForBadge","outputs":[{"name":"","internalType":"uint8","type":"uint8"}],"stateMutability":"view"}]

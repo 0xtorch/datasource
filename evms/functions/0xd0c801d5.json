@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"mintId","internalType":"uint256","type":"uint256"},{"name":"amount","internalType":"uint8","type":"uint8"},{"name":"data","internalType":"bytes","type":"bytes"}],"name":"mint","outputs":[],"stateMutability":"payable"}]

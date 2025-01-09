@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"finalizer","internalType":"address","type":"address","indexed":true},{"name":"isFinalizer","internalType":"bool","type":"bool","indexed":false}],"name":"ModifiedFinalizer"}]

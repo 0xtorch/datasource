@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"wallet","internalType":"address","type":"address","indexed":true},{"name":"calculationModel","internalType":"uint16","type":"uint16","indexed":true},{"name":"status","internalType":"bool","type":"bool","indexed":true}],"name":"ChangedWhitelistStatus"}]

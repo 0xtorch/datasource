@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"_oldGateway","internalType":"address","type":"address","indexed":true},{"name":"_newGateway","internalType":"address","type":"address","indexed":true}],"name":"UpdateEnforcedTxGateway"}]

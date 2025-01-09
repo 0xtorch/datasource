@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"","internalType":"address","type":"address"}],"name":"getOracleInfo","outputs":[{"name":"exist","internalType":"bool","type":"bool"},{"name":"isValid","internalType":"bool","type":"bool"},{"name":"required","internalType":"bool","type":"bool"}],"stateMutability":"view"}]

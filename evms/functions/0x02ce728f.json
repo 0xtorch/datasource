@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[],"name":"updateExchangeRate","outputs":[{"name":"updated","internalType":"bool","type":"bool"},{"name":"rate","internalType":"uint256","type":"uint256"}],"stateMutability":"nonpayable"}]

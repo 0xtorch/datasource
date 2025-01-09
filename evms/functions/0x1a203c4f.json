@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"oracle","internalType":"contract IOracleOrL2OracleWithSequencerCheck","type":"address"},{"name":"heartbeat","internalType":"uint256","type":"uint256"}],"name":"getOraclePrice","outputs":[{"name":"","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

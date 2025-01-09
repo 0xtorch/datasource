@@ -1,0 +1,1 @@
+[{"type":"function","constant":false,"inputs":[{"name":"couponEpoch","internalType":"uint256","type":"uint256"},{"name":"couponAmount","internalType":"uint256","type":"uint256"}],"name":"redeemCoupons","outputs":[],"payable":false,"stateMutability":"nonpayable"}]

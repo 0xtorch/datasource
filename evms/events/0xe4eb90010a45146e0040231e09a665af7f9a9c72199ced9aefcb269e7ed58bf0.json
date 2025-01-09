@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"cooldownDuration","internalType":"uint256","type":"uint256","indexed":true},{"name":"feeRewardBasisPoints","internalType":"uint256","type":"uint256","indexed":false}],"name":"SetVaultSettings"}]

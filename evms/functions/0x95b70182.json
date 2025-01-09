@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"messageHash","internalType":"bytes32","type":"bytes32"}],"name":"sentMessagesBlock","outputs":[{"name":"blockNumber","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

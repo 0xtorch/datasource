@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_node","internalType":"bytes32","type":"bytes32"},{"name":"_label","internalType":"bytes32","type":"bytes32"},{"name":"_owner","internalType":"address","type":"address"}],"name":"setSubnodeOwner","outputs":[{"name":"","internalType":"bytes32","type":"bytes32"}],"stateMutability":"nonpayable"}]

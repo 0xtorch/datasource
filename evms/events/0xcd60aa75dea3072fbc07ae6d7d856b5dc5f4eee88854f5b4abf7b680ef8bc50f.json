@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"buyer","type":"address","indexed":true},{"name":"eth_sold","type":"uint256","indexed":true},{"name":"tokens_bought","type":"uint256","indexed":true}],"name":"TokenPurchase"}]

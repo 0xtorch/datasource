@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"ethereumAddress","internalType":"address","type":"address","indexed":false},{"name":"shieldedAddressHash","internalType":"bytes","type":"bytes","indexed":false}],"name":"Register"}]

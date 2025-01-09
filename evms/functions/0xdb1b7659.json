@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_expected","internalType":"address","type":"address"}],"name":"verifySender","outputs":[{"name":"","internalType":"bool","type":"bool"}],"stateMutability":"nonpayable"}]

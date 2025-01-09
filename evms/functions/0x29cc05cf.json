@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"wallet","internalType":"address","type":"address"},{"name":"balanceChange","internalType":"uint256","type":"uint256"},{"name":"isRemoving","internalType":"bool","type":"bool"}],"name":"setShare","outputs":[],"stateMutability":"nonpayable"}]

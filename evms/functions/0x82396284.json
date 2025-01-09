@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"candidate_","internalType":"address","type":"address"}],"name":"containsInWhiteList","outputs":[{"name":"","internalType":"bool","type":"bool"}],"stateMutability":"view"}]

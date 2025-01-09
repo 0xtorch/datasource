@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_slots","internalType":"uint256[]","type":"uint256[]"},{"name":"_amounts","internalType":"uint32[]","type":"uint32[]"},{"name":"_tokenIds","internalType":"uint256[]","type":"uint256[]"}],"name":"batchSetSlot","outputs":[],"stateMutability":"nonpayable"}]

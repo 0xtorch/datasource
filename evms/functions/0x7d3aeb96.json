@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"poolId","internalType":"bytes32","type":"bytes32"},{"name":"tokens","internalType":"contract IERC20[]","type":"address[]"}],"name":"deregisterTokens","outputs":[],"stateMutability":"nonpayable"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"proposalIndex","internalType":"uint256","type":"uint256"}],"name":"getVoteInfo","outputs":[{"name":"","internalType":"struct StarCardsDAO.Voter[]","type":"tuple[]","components":[{"type":"address"},{"type":"uint256"},{"type":"uint8"}]}],"stateMutability":"view"}]

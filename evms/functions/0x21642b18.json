@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"size","internalType":"uint8","type":"uint8"},{"name":"limit","internalType":"uint32","type":"uint32"}],"name":"setLimit","outputs":[],"stateMutability":"nonpayable"}]

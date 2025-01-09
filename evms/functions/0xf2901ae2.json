@@ -1,0 +1,1 @@
+[{"type":"function","constant":false,"inputs":[{"name":"operator","type":"address"},{"name":"approved","type":"bool"}],"name":"ownerSetGlobalOperator","outputs":[],"payable":false,"stateMutability":"nonpayable"}]

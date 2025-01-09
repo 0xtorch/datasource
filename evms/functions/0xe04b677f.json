@@ -1,0 +1,1 @@
+[{"type":"function","gas":38246,"inputs":[{"name":"_uniswapFactory","type":"address"}],"name":"setUniswapFactory","outputs":[{"name":"","type":"bool"}],"stateMutability":"nonpayable"}]

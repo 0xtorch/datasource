@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"op","internalType":"uint8","type":"uint8"}],"name":"hasSignedIntention","outputs":[{"name":"","internalType":"bool","type":"bool"}],"stateMutability":"pure"}]

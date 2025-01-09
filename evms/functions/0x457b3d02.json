@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"account","internalType":"address","type":"address"}],"name":"earlyWithdrawLoss","outputs":[{"name":"loss","internalType":"uint256","type":"uint256"},{"name":"ret","internalType":"uint256","type":"uint256"},{"name":"canWithdraw","internalType":"bool","type":"bool"}],"stateMutability":"view"}]

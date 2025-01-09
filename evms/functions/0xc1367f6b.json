@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"numToMint","internalType":"uint8","type":"uint8"},{"name":"proof","internalType":"bytes32[]","type":"bytes32[]"}],"name":"tier1Mint","outputs":[],"stateMutability":"payable"}]

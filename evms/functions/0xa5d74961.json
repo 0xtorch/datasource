@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_token","internalType":"address","type":"address"},{"name":"_rateLimitStatus","internalType":"bool","type":"bool"}],"name":"updateRateLimitStatus","outputs":[],"stateMutability":"nonpayable"}]

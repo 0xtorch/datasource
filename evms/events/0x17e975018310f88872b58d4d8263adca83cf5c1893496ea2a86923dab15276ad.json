@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"error","internalType":"bytes","type":"bytes","indexed":false}],"name":"ErrorAwardingExternalERC721"}]

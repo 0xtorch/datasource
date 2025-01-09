@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"withdrawal","internalType":"uint256","type":"uint256","indexed":true},{"name":"effectiveDate","internalType":"uint256","type":"uint256","indexed":false}],"name":"ethWithdrawn"}]

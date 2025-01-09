@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"tokenContract","internalType":"address","type":"address","indexed":false},{"name":"tokenId","internalType":"uint256","type":"uint256","indexed":false},{"name":"loreIdx","internalType":"uint256","type":"uint256","indexed":false}],"name":"LoreUpdated"}]

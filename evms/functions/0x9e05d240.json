@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"autoApprove","internalType":"bool","type":"bool"}],"name":"setAutomaticApprovalOfTransfersFromValidator","outputs":[],"stateMutability":"nonpayable"}]

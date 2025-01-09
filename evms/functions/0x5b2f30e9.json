@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"","internalType":"bytes32","type":"bytes32"}],"name":"takeOrders","outputs":[{"name":"status","internalType":"enum DlnDestination.OrderTakeStatus","type":"uint8"},{"name":"takerAddress","internalType":"address","type":"address"},{"name":"giveChainId","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

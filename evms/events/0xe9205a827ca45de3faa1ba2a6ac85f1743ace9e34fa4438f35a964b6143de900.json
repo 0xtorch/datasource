@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"pID","type":"uint256","indexed":false},{"name":"addr","type":"address","indexed":false},{"name":"name","type":"bytes32","indexed":false},{"name":"affID","type":"uint256","indexed":false},{"name":"affAddr","type":"address","indexed":false},{"name":"affName","type":"bytes32","indexed":false}],"name":"eveBindRefer"}]

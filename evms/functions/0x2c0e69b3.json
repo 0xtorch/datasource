@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"phaseIndex","internalType":"uint256","type":"uint256"},{"name":"wallet","internalType":"address","type":"address"}],"name":"getAmountMintedForPhase","outputs":[{"name":"","internalType":"uint64","type":"uint64"}],"stateMutability":"view"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"","internalType":"bytes32","type":"bytes32"}],"name":"destDetails","outputs":[{"name":"domainId","internalType":"uint32","type":"uint32"},{"name":"fee","internalType":"uint256","type":"uint256"},{"name":"isSet","internalType":"bool","type":"bool"}],"stateMutability":"view"}]

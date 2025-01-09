@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"tickLower","internalType":"int24","type":"int24"},{"name":"tickUpper","internalType":"int24","type":"int24"},{"name":"slot0tick","internalType":"int24","type":"int24"},{"name":"liquidityDelta","internalType":"int128","type":"int128"}],"name":"updatePnl","outputs":[],"stateMutability":"nonpayable"}]

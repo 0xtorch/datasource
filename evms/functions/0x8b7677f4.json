@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_maxPriceUpdateDelay","internalType":"uint256","type":"uint256"}],"name":"setMaxPriceUpdateDelay","outputs":[],"stateMutability":"nonpayable"}]

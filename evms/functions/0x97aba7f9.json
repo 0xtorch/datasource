@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"hash_","internalType":"bytes32","type":"bytes32"},{"name":"signature_","internalType":"bytes","type":"bytes"}],"name":"recoverSigner","outputs":[{"name":"","internalType":"address","type":"address"}],"stateMutability":"view"}]

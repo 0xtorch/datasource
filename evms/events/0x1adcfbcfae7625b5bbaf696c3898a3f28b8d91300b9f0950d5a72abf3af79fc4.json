@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"battleId","internalType":"uint256","type":"uint256","indexed":true},{"name":"caller","internalType":"address","type":"address","indexed":true},{"name":"counterparty","internalType":"address","type":"address","indexed":true}],"name":"BattleNullified"}]

@@ -1,0 +1,1 @@
+[{"type":"function","constant":true,"inputs":[{"name":"","internalType":"address","type":"address"}],"name":"lastActionDateAddress","outputs":[{"name":"","internalType":"int64","type":"int64"}],"payable":false,"stateMutability":"view"}]

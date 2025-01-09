@@ -1,0 +1,1 @@
+[{"type":"function","constant":false,"inputs":[{"name":"newSafetyMarginSqrt","internalType":"uint256","type":"uint256"}],"name":"_setSafetyMarginSqrt","outputs":[],"payable":false,"stateMutability":"nonpayable"}]

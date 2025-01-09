@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"collateralAmount","internalType":"uint256","type":"uint256"},{"name":"optionsValue","internalType":"uint256","type":"uint256"},{"name":"delta","internalType":"int256","type":"int256"},{"name":"isSale","internalType":"bool","type":"bool"}],"name":"adjustVariables","outputs":[],"stateMutability":"nonpayable"}]

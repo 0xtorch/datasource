@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"_mod","internalType":"address","type":"address","indexed":false},{"name":"_member","internalType":"address","type":"address","indexed":false},{"name":"_parent","internalType":"address","type":"address","indexed":false}],"name":"eventNewUser"}]

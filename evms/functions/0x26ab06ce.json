@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"toAndAmount","internalType":"bytes32[]","type":"bytes32[]"},{"name":"soulbound","internalType":"bool","type":"bool"}],"name":"airdropSequential","outputs":[],"stateMutability":"payable"}]

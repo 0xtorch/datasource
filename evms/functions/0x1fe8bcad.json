@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"startToken","internalType":"uint256","type":"uint256"},{"name":"endToken","internalType":"uint256","type":"uint256"}],"name":"fixBadgeHoldings","outputs":[{"name":"","internalType":"bool","type":"bool"}],"stateMutability":"nonpayable"}]

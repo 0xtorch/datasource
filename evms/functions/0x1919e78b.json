@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[],"name":"interestRateConfig","outputs":[{"name":"baseRatePerYear","internalType":"uint72","type":"uint72"},{"name":"lowSlopePerYear","internalType":"uint72","type":"uint72"},{"name":"highSlopePerYear","internalType":"uint72","type":"uint72"},{"name":"utilisationThreshold","internalType":"uint40","type":"uint40"}],"stateMutability":"view"}]

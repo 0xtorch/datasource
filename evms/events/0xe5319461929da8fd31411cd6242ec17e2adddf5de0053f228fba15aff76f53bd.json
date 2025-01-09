@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"eggId","internalType":"uint256","type":"uint256","indexed":true},{"name":"matronId","internalType":"uint256","type":"uint256","indexed":false},{"name":"sireId","internalType":"uint256","type":"uint256","indexed":false},{"name":"cooldownEndBlock","internalType":"uint256","type":"uint256","indexed":false}],"name":"Hatched"}]

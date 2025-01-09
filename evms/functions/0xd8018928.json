@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"to_","internalType":"address","type":"address"},{"name":"tokenId_","internalType":"uint256","type":"uint256"},{"name":"currency_","internalType":"address","type":"address"},{"name":"claimValue_","internalType":"uint256","type":"uint256"}],"name":"claimTo","outputs":[],"stateMutability":"nonpayable"}]

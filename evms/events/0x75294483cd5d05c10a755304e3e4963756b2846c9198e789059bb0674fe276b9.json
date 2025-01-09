@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"config","internalType":"struct GenesisStakePool.PoolConfig","type":"tuple","components":[{"name":"startTime","internalType":"uint256","type":"uint256"},{"name":"endTime","internalType":"uint256","type":"uint256"}],"indexed":false}],"name":"PoolConfigUpdated"}]

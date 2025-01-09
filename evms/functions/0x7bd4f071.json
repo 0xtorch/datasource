@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"newMaxMintPerWallet","internalType":"uint256","type":"uint256"},{"name":"mintGroupId","internalType":"uint256","type":"uint256"}],"name":"setMaxMintPerWallet","outputs":[],"stateMutability":"nonpayable"}]

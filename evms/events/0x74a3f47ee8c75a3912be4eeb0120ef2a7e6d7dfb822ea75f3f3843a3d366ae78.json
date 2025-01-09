@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"contractType","internalType":"enum TimeStaking.CONTRACTS","type":"uint8","indexed":false},{"name":"_contract","internalType":"address","type":"address","indexed":true}],"name":"LogSetContract"}]

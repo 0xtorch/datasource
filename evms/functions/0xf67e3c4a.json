@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"account","internalType":"address","type":"address"},{"name":"metadata","internalType":"string","type":"string"},{"name":"tier","internalType":"uint8","type":"uint8"},{"name":"data","internalType":"uint256","type":"uint256"}],"name":"mint","outputs":[],"stateMutability":"nonpayable"}]

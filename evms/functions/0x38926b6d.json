@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"id","internalType":"OrderId","type":"uint256"},{"name":"hookData","internalType":"bytes","type":"bytes"}],"name":"claim","outputs":[{"name":"claimedAmount","internalType":"uint256","type":"uint256"}],"stateMutability":"nonpayable"}]

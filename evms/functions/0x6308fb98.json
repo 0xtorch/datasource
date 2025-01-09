@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_enabled","internalType":"bool","type":"bool"},{"name":"_amountS","internalType":"uint256","type":"uint256"},{"name":"_amountL","internalType":"uint256","type":"uint256"},{"name":"_alternate","internalType":"bool","type":"bool"}],"name":"setSwapBackSettings","outputs":[],"stateMutability":"nonpayable"}]

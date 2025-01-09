@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[],"name":"getFlashLoanFee","outputs":[{"name":"flashLoanFee","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

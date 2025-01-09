@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"_address","internalType":"address","type":"address","indexed":false},{"name":"minTokenId","internalType":"uint256","type":"uint256","indexed":false},{"name":"maxTokenId","internalType":"uint256","type":"uint256","indexed":false}],"name":"SetChildTokenAllowlist"}]

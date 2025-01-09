@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"newRewardConstant","internalType":"uint256","type":"uint256"},{"name":"id","internalType":"uint256","type":"uint256"}],"name":"changeRewardConstant","outputs":[],"stateMutability":"nonpayable"}]

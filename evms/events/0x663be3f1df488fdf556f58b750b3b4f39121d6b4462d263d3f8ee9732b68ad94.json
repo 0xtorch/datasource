@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"rewardsHarvestingRouter","internalType":"address","type":"address","indexed":true},{"name":"weth","internalType":"address","type":"address","indexed":false}],"name":"ParamsV1Updated"}]

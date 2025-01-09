@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_sourceChainId","internalType":"uint16","type":"uint16"},{"name":"_blockHash","internalType":"bytes32","type":"bytes32"},{"name":"zkMptProof","internalType":"bytes","type":"bytes"},{"name":"_userApplication","internalType":"address","type":"address"}],"name":"updateFpHash","outputs":[],"stateMutability":"nonpayable"}]

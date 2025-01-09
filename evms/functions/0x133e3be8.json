@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_priceAggregatorAddress","internalType":"address","type":"address"}],"name":"setChainlinkAddress","outputs":[],"stateMutability":"nonpayable"}]

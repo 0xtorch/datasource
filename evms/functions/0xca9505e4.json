@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"borrowedAmount","internalType":"uint256","type":"uint256"},{"name":"profit","internalType":"uint256","type":"uint256"},{"name":"loss","internalType":"uint256","type":"uint256"}],"name":"repayCreditAccount","outputs":[],"stateMutability":"nonpayable"}]

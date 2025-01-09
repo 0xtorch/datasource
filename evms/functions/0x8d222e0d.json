@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"available","internalType":"bool","type":"bool"},{"name":"router","internalType":"address","type":"address"}],"name":"setAvailableRouter","outputs":[],"stateMutability":"nonpayable"}]

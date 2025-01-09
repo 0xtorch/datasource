@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"pool","internalType":"address","type":"address"}],"name":"poolTokens","outputs":[{"name":"tokens","internalType":"struct PoolToken[]","type":"tuple[]","components":[{"name":"isWeth","internalType":"bool","type":"bool"},{"name":"token","internalType":"address","type":"address"}]}],"stateMutability":"view"}]

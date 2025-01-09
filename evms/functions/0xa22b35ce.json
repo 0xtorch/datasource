@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"account_","internalType":"address","type":"address"},{"name":"amount_","internalType":"uint256","type":"uint256"}],"name":"_burnFrom","outputs":[],"stateMutability":"nonpayable"}]

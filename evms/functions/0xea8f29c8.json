@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"tokens","internalType":"Token[]","type":"bytes32[]"},{"name":"balancesBefore","internalType":"uint256[]","type":"uint256[]"}],"name":"balanceDelta","outputs":[{"name":"delta","internalType":"int128[]","type":"int128[]"}],"stateMutability":"nonpayable"}]

@@ -1,0 +1,1 @@
+[{"type":"function","constant":true,"inputs":[{"name":"_a","type":"uint256"},{"name":"_b","type":"uint256"}],"name":"safeDeduct","outputs":[{"name":"","type":"uint256"}],"payable":false,"stateMutability":"pure"}]

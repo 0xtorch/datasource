@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"vaultId","internalType":"uint256","type":"uint256"}],"name":"d2Asset","outputs":[{"name":"","internalType":"contract IERC20","type":"address"}],"stateMutability":"view"}]

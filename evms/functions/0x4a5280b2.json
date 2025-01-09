@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_signer","internalType":"address","type":"address"},{"name":"_signatures","internalType":"bytes[]","type":"bytes[]"}],"name":"removeSigner","outputs":[],"stateMutability":"nonpayable"}]

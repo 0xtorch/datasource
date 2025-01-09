@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[],"name":"getProtocolFeeReserve","outputs":[{"name":"protocolFeeReserve_","internalType":"address","type":"address"}],"stateMutability":"view"}]

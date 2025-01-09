@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"attributeIndex","internalType":"uint8","type":"uint8","indexed":false},{"name":"newAttributeName","internalType":"bytes32","type":"bytes32","indexed":false},{"name":"previousAttributeName","internalType":"bytes32","type":"bytes32","indexed":false}],"name":"AttributeNameUpdated"}]

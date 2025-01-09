@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"curveId","internalType":"uint8","type":"uint8","indexed":false}],"name":"CurveCreated"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"miner","internalType":"address","type":"address"},{"name":"_value","internalType":"uint256","type":"uint256"}],"name":"need","outputs":[],"stateMutability":"nonpayable"}]

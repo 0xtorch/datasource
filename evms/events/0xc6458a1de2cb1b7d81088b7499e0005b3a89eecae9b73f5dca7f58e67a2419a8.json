@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"tokenId","internalType":"uint64","type":"uint64","indexed":true},{"name":"secondsGranted","internalType":"uint48","type":"uint48","indexed":false},{"name":"expiresAt","internalType":"uint48","type":"uint48","indexed":false}],"name":"Grant"}]

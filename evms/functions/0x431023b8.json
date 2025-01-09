@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_initialDepositId","internalType":"uint32","type":"uint32"},{"name":"_crossDomainAdmin","internalType":"address","type":"address"},{"name":"_hubPool","internalType":"address","type":"address"},{"name":"_l2Eth","internalType":"address","type":"address"}],"name":"__OvmSpokePool_init","outputs":[],"stateMutability":"nonpayable"}]

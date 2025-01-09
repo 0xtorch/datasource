@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"allowed","internalType":"bool","type":"bool"},{"name":"tokenId","internalType":"uint8","type":"uint8"}],"name":"setSwapSettings","outputs":[],"stateMutability":"nonpayable"}]

@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"baseToken","internalType":"address","type":"address","indexed":true},{"name":"maxTickCrossedWithinBlock","internalType":"uint24","type":"uint24","indexed":false}],"name":"MaxTickCrossedWithinBlockChanged"}]

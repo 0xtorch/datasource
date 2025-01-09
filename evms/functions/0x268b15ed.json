@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_realmId","internalType":"uint256","type":"uint256"},{"name":"_name","internalType":"string","type":"string"}],"name":"claim","outputs":[],"stateMutability":"payable"}]

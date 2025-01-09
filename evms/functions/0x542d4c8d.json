@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_chestIds","internalType":"uint256[]","type":"uint256[]"},{"name":"_amountsToOpen","internalType":"uint256[]","type":"uint256[]"}],"name":"openChests","outputs":[],"stateMutability":"nonpayable"}]

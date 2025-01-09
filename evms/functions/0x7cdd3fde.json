@@ -1,0 +1,1 @@
+[{"type":"function","constant":false,"inputs":[{"name":"ilk","internalType":"bytes32","type":"bytes32"},{"name":"usr","internalType":"address","type":"address"},{"name":"wad","internalType":"int256","type":"int256"}],"name":"slip","outputs":[],"payable":false,"stateMutability":"nonpayable"}]

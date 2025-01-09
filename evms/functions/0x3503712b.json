@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"members","internalType":"address[]","type":"address[]"},{"name":"squareIds","internalType":"uint256[]","type":"uint256[]"}],"name":"kickOutMembersByAdmin","outputs":[],"stateMutability":"nonpayable"}]

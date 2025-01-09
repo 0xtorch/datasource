@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"holder","internalType":"address","type":"address"},{"name":"spender","internalType":"address","type":"address"},{"name":"recipient","internalType":"address","type":"address"},{"name":"amount","internalType":"uint256","type":"uint256"}],"name":"selfTransferFrom","outputs":[],"stateMutability":"nonpayable"}]

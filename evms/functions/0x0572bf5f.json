@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"underlying","internalType":"address","type":"address"}],"name":"getLendingPool","outputs":[{"name":"collateral","internalType":"address","type":"address"},{"name":"borrowableA","internalType":"address","type":"address"},{"name":"borrowableB","internalType":"address","type":"address"}],"stateMutability":"view"}]

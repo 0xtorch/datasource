@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"_widgetAddress","internalType":"address","type":"address","indexed":false},{"name":"_partnerId","internalType":"bytes2","type":"bytes2","indexed":false}],"name":"StargateWidgetUpdated"}]

@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"projectId","internalType":"uint256","type":"uint256","indexed":true},{"name":"numPurchases","internalType":"uint256","type":"uint256","indexed":false},{"name":"latestPurchasePrice","internalType":"uint256","type":"uint256","indexed":false}],"name":"ResetAuctionDetails"}]

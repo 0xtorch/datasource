@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_pools","internalType":"address[]","type":"address[]"},{"name":"_startedAtBlocks","internalType":"uint256[]","type":"uint256[]"},{"name":"_landTypeWeights","internalType":"uint256[5][]","type":"uint256[5][]"}],"name":"whitelistPools","outputs":[],"stateMutability":"nonpayable"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_requestId","internalType":"uint256","type":"uint256"}],"name":"isRandomReady","outputs":[{"name":"","internalType":"bool","type":"bool"}],"stateMutability":"view"}]

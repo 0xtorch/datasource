@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_token","internalType":"contract IBEP20","type":"address"},{"name":"_amount","internalType":"uint256","type":"uint256"},{"name":"_to","internalType":"address","type":"address"}],"name":"drainBEP20Token","outputs":[],"stateMutability":"nonpayable"}]

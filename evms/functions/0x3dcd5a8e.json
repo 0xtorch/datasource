@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[],"name":"listMintStatus","outputs":[{"name":"status","internalType":"enum IConfigStructures.MintStatus","type":"uint8"}],"stateMutability":"view"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[],"name":"pendingMigrator","outputs":[{"name":"proposeTime","internalType":"uint64","type":"uint64"},{"name":"newMigrator","internalType":"address","type":"address"}],"stateMutability":"view"}]

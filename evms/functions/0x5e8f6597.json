@@ -1,0 +1,1 @@
+[{"type":"function","constant":false,"inputs":[{"name":"_to","type":"address"},{"name":"_amountWithDecimals","type":"uint256"}],"name":"distributeInvestorsTokens","outputs":[],"payable":false,"stateMutability":"nonpayable"}]

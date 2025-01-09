@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"oldKeeper","internalType":"address","type":"address","indexed":false},{"name":"newKeeper","internalType":"address","type":"address","indexed":false}],"name":"NewKeeper"}]

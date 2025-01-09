@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_amount","internalType":"uint96","type":"uint96"},{"name":"_trader","internalType":"address","type":"address"}],"name":"issueDDXReward","outputs":[],"stateMutability":"nonpayable"}]

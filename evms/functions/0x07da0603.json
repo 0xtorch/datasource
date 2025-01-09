@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[],"name":"getStrategy","outputs":[{"name":"","internalType":"contract IStrategy","type":"address"}],"stateMutability":"view"}]

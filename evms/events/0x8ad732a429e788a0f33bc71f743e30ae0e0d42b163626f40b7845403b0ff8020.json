@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"depositID","internalType":"bytes32","type":"bytes32","indexed":false},{"name":"withdrawalAmount","internalType":"uint256","type":"uint256","indexed":false}],"name":"WithdrawalNotValidated"}]

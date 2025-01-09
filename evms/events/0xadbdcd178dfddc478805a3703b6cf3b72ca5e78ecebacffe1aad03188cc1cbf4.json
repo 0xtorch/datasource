@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"newSupplyCap","internalType":"uint16","type":"uint16","indexed":false},{"name":"newBorrowCap","internalType":"uint16","type":"uint16","indexed":false}],"name":"GovSetCaps"}]

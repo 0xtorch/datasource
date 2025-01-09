@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"clothes","internalType":"enum HealthreeNFTService.Clothes","type":"uint8"},{"name":"maxSupplyNum","internalType":"uint256","type":"uint256"}],"name":"setMaxSupply","outputs":[],"stateMutability":"nonpayable"}]

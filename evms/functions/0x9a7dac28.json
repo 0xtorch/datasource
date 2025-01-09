@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[],"name":"currentCumulativeRatio","outputs":[{"name":"currentCumulativeRatio_","internalType":"uint256","type":"uint256"},{"name":"blockTimestampCurrent","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

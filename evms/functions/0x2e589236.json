@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[],"name":"getAllStakerAddresses","outputs":[{"name":"allStakerAddresses","internalType":"address[]","type":"address[]"}],"stateMutability":"view"}]

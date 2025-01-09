@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"bridge_token_address","internalType":"address","type":"address"},{"name":"_bridge_to_canonical","internalType":"uint256","type":"uint256"},{"name":"_canonical_to_old","internalType":"uint256","type":"uint256"}],"name":"setSwapFees","outputs":[],"stateMutability":"nonpayable"}]

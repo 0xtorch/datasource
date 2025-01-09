@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_feeBps","internalType":"uint16","type":"uint16"},{"name":"_feeRecipient","internalType":"address","type":"address"}],"name":"setFeeParams","outputs":[],"stateMutability":"nonpayable"}]

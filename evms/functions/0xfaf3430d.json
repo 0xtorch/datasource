@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_lastFulfilledId","internalType":"uint256","type":"uint256"},{"name":"_randomWords","internalType":"uint256[]","type":"uint256[]"},{"name":"_nftOwners","internalType":"address[]","type":"address[]"}],"name":"initializeRandomAddressSelection","outputs":[],"stateMutability":"nonpayable"}]

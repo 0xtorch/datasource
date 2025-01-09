@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_collateralFees","internalType":"uint256[5]","type":"uint256[5]"}],"name":"setCollateralFees","outputs":[],"stateMutability":"nonpayable"}]

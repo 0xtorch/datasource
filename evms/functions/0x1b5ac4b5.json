@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"value","internalType":"int256","type":"int256"}],"name":"abs","outputs":[{"name":"","internalType":"int256","type":"int256"}],"stateMutability":"pure"}]

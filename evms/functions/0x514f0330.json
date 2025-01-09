@@ -1,0 +1,1 @@
+[{"type":"function","constant":false,"inputs":[{"name":"newProtocolFeeRecipient","type":"address"}],"name":"changeProtocolFeeRecipient","outputs":[],"payable":false,"stateMutability":"nonpayable"}]

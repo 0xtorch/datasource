@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"migrationAdmins","internalType":"address[]","type":"address[]"},{"name":"whitelisted","internalType":"bool","type":"bool"}],"name":"setMigrationAdmins","outputs":[],"stateMutability":"nonpayable"}]

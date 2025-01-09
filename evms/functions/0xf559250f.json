@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"cardId","internalType":"uint256","type":"uint256"},{"name":"count","internalType":"uint256","type":"uint256"}],"name":"melt","outputs":[{"name":"","internalType":"bool","type":"bool"}],"stateMutability":"nonpayable"}]

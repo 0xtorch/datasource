@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_gateway","internalType":"contract IL2Gateway","type":"address"}],"name":"setGateway","outputs":[],"stateMutability":"nonpayable"}]

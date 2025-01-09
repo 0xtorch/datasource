@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"dstchainId","internalType":"uint16","type":"uint16","indexed":false},{"name":"enabled","internalType":"bool","type":"bool","indexed":false},{"name":"feeBp","internalType":"uint16","type":"uint16","indexed":false}],"name":"SetFeeBp"}]

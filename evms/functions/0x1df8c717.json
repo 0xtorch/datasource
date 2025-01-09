@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[],"name":"currentCumulativePrices","outputs":[{"name":"reserve0Cumulative","internalType":"uint256","type":"uint256"},{"name":"reserve1Cumulative","internalType":"uint256","type":"uint256"},{"name":"blockTimestamp","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

@@ -1,0 +1,1 @@
+[{"type":"function","constant":false,"inputs":[{"name":"deletetargetaddress","internalType":"address","type":"address"}],"name":"deleteWhitelistinvoker","outputs":[],"payable":false,"stateMutability":"nonpayable"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_descriptor","internalType":"contract IDCATokenDescriptor","type":"address"}],"name":"setNFTDescriptor","outputs":[],"stateMutability":"nonpayable"}]

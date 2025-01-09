@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"conditionalOrderId","internalType":"uint256","type":"uint256"},{"name":"fillPrice","internalType":"uint256","type":"uint256"},{"name":"keeperFee","internalType":"uint256","type":"uint256"}],"name":"emitConditionalOrderFilled","outputs":[],"stateMutability":"nonpayable"}]

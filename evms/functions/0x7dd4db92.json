@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"tokenId","internalType":"uint256","type":"uint256"},{"name":"tokenRoyaltyPaymentAddressOverride","internalType":"address payable","type":"address"}],"name":"setTokenRoyaltyPaymentAddress","outputs":[],"stateMutability":"nonpayable"}]

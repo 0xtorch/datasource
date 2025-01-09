@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[],"name":"getAdmins","outputs":[{"name":"admins","internalType":"address[]","type":"address[]"}],"stateMutability":"view"}]

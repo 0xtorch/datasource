@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_maxUsdgBatchSize","internalType":"uint256","type":"uint256"},{"name":"_maxUsdgBuffer","internalType":"uint256","type":"uint256"}],"name":"setMaxUsdg","outputs":[],"stateMutability":"nonpayable"}]

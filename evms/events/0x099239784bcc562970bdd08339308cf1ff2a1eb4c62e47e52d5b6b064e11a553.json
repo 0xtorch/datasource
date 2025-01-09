@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"auctionId","internalType":"uint256","type":"uint256","indexed":true},{"name":"originalSellerAddress","internalType":"address","type":"address","indexed":true},{"name":"newSellerAddress","internalType":"address","type":"address","indexed":true}],"name":"ReserveAuctionSellerMigrated"}]

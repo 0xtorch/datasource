@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"newPendingImplementation","internalType":"address","type":"address"}],"name":"setPendingProxyImplementation","outputs":[{"name":"","internalType":"bool","type":"bool"}],"stateMutability":"nonpayable"}]

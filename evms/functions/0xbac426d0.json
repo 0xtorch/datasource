@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"handler","internalType":"contract IFighterURIHandler","type":"address"}],"name":"setHandler","outputs":[],"stateMutability":"nonpayable"}]

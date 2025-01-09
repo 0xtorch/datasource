@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"","internalType":"uint256","type":"uint256"}],"name":"incentiveKeys","outputs":[{"name":"rewardToken","internalType":"contract IERC20Minimal","type":"address"},{"name":"pool","internalType":"contract ISpePool","type":"address"},{"name":"startTime","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

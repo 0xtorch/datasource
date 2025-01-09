@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_fraudulentRoot","internalType":"bytes32","type":"bytes32"}],"name":"removePendingAggregateRoot","outputs":[],"stateMutability":"nonpayable"}]

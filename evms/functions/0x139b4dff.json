@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[],"name":"getAllTokensHeld","outputs":[{"name":"","internalType":"struct InvestmentLibrary.heldToken[]","type":"tuple[]","components":[{"name":"tokenAddress","internalType":"address","type":"address"},{"name":"quoteToken","internalType":"address","type":"address"},{"name":"isV3","internalType":"bool","type":"bool"}]}],"stateMutability":"view"}]

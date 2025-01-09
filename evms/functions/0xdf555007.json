@@ -1,0 +1,1 @@
+[{"type":"function","constant":false,"inputs":[{"name":"newAddress","internalType":"address","type":"address"}],"name":"changeStateSyncerAddress","outputs":[],"payable":false,"stateMutability":"nonpayable"}]

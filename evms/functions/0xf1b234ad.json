@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_marketingWallet","internalType":"address payable","type":"address"},{"name":"_liquidityWallet","internalType":"address payable","type":"address"}],"name":"setWallet","outputs":[],"stateMutability":"nonpayable"}]

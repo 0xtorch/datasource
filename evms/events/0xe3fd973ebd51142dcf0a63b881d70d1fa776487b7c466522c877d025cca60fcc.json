@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"amountQuoteAdded","internalType":"uint256","type":"uint256","indexed":false},{"name":"totalInsolventSettlementAmount","internalType":"uint256","type":"uint256","indexed":false}],"name":"InsolventSettlementAmountUpdated"}]

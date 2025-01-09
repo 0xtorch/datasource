@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"_dstChainId","internalType":"uint16","type":"uint16","indexed":false},{"name":"_to","internalType":"bytes","type":"bytes","indexed":false},{"name":"_amount","internalType":"uint256","type":"uint256","indexed":false},{"name":"_nonce","internalType":"uint64","type":"uint64","indexed":false}],"name":"SendToChain"}]

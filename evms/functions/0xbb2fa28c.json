@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"newMinter_","internalType":"address","type":"address"},{"name":"cardId_","internalType":"uint256","type":"uint256"},{"name":"amount_","internalType":"uint256","type":"uint256"}],"name":"setMinter","outputs":[],"stateMutability":"nonpayable"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"name","internalType":"string","type":"string"}],"name":"checkBasePlate","outputs":[{"name":"","internalType":"struct PhiMap.BasePlate","type":"tuple","components":[{"name":"contractAddress","internalType":"address","type":"address"},{"name":"tokenId","internalType":"uint256","type":"uint256"}]}],"stateMutability":"view"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[],"name":"getSupportedTokens","outputs":[{"name":"res","internalType":"address[]","type":"address[]"}],"stateMutability":"view"}]

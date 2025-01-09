@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"ipfsHashs","internalType":"string[]","type":"string[]"},{"name":"idTokens","internalType":"uint256[]","type":"uint256[]"}],"name":"setIpfsHash","outputs":[],"stateMutability":"nonpayable"}]

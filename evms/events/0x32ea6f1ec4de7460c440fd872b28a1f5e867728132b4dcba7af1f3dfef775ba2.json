@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"eligibleAmount","internalType":"uint256","type":"uint256","indexed":false},{"name":"nextEpochAmount","internalType":"uint256","type":"uint256","indexed":false}],"name":"VaultTotalUpdate"}]

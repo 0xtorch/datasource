@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"signer","internalType":"address","type":"address"},{"name":"allowed","internalType":"bool","type":"bool"}],"name":"registerAllowedOrderSigner","outputs":[],"stateMutability":"nonpayable"}]

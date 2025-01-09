@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"","internalType":"uint256[]","type":"uint256[]"},{"name":"","internalType":"address[]","type":"address[]"},{"name":"","internalType":"string[]","type":"string[]"},{"name":"","internalType":"bytes[]","type":"bytes[]"}],"name":"openBox","outputs":[],"stateMutability":"nonpayable"}]

@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"sender","internalType":"address","type":"address","indexed":true},{"name":"signer","internalType":"address","type":"address","indexed":true},{"name":"selector","internalType":"bytes4","type":"bytes4","indexed":true},{"name":"digest","internalType":"bytes32","type":"bytes32","indexed":false}],"name":"Relayed"}]

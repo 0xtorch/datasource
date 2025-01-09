@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"recipient","internalType":"address","type":"address"},{"name":"customTokenURI","internalType":"string","type":"string"}],"name":"mintToWithURI","outputs":[],"stateMutability":"nonpayable"}]

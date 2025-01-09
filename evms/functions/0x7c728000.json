@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"","internalType":"uint256","type":"uint256"}],"name":"escrowType","outputs":[{"name":"","internalType":"enum IVotingEscrow.EscrowType","type":"uint8"}],"stateMutability":"view"}]

@@ -1,0 +1,1 @@
+[{"type":"function","constant":true,"inputs":[{"name":"memberAddr","internalType":"address","type":"address"},{"name":"entryId","internalType":"uint256","type":"uint256"}],"name":"xfLobbyEntry","outputs":[{"name":"rawAmount","internalType":"uint256","type":"uint256"},{"name":"referrerAddr","internalType":"address","type":"address"}],"payable":false,"stateMutability":"view"}]

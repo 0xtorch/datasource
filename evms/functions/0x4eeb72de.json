@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_protocolId","internalType":"bytes32","type":"bytes32"},{"name":"_consensusTargetRate","internalType":"uint256","type":"uint256"},{"name":"_transmitters","internalType":"address[]","type":"address[]"}],"name":"addAllowedProtocol","outputs":[],"stateMutability":"nonpayable"}]

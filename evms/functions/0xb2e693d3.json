@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"","internalType":"address","type":"address"}],"name":"lendManagers","outputs":[{"name":"","internalType":"contract IWooLendingManager","type":"address"}],"stateMutability":"view"}]

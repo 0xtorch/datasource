@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"purchaseInfo","internalType":"uint256","type":"uint256"},{"name":"wave","internalType":"uint256","type":"uint256"}],"name":"hasDoneWave","outputs":[{"name":"","internalType":"bool","type":"bool"}],"stateMutability":"pure"}]

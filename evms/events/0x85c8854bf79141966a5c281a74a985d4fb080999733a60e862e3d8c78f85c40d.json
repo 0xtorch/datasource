@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"controller","internalType":"address","type":"address","indexed":true}],"name":"SetControllerOnProxy"}]

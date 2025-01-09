@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"token","internalType":"address","type":"address"},{"name":"epoch","internalType":"uint8","type":"uint8"},{"name":"stakeLimit","internalType":"uint248","type":"uint248"},{"name":"cooldown","internalType":"uint48","type":"uint48"}],"name":"updateStakeParameters","outputs":[],"stateMutability":"nonpayable"}]

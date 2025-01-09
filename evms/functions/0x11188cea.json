@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"nftType","internalType":"enum CandyGirl.NftType","type":"uint8"},{"name":"amt","internalType":"uint256","type":"uint256"}],"name":"publicMint","outputs":[],"stateMutability":"payable"}]

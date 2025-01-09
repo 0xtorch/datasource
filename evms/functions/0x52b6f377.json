@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_assetContract","internalType":"address","type":"address"},{"name":"_spender","internalType":"address","type":"address"},{"name":"_approved","internalType":"bool","type":"bool"}],"name":"erc721Approve","outputs":[],"stateMutability":"nonpayable"}]

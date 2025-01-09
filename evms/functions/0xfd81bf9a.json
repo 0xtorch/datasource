@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"lineageId","internalType":"uint256","type":"uint256"}],"name":"currentImplementation","outputs":[{"name":"","internalType":"address","type":"address"}],"stateMutability":"view"}]

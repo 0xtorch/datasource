@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"pair","internalType":"address","type":"address"},{"name":"orderType","internalType":"enum Orders.OrderType","type":"uint8"},{"name":"disabled","internalType":"bool","type":"bool"}],"name":"setOrderDisabled","outputs":[],"stateMutability":"payable"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"factory","internalType":"address","type":"address"},{"name":"deployData","internalType":"bytes","type":"bytes"}],"name":"deployPool","outputs":[{"name":"","internalType":"address","type":"address"}],"stateMutability":"payable"}]

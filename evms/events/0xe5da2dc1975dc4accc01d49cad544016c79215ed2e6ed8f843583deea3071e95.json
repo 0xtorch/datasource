@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"_new","internalType":"uint256","type":"uint256","indexed":true},{"name":"_old","internalType":"uint256","type":"uint256","indexed":true}],"name":"MinClaimedBlocksUpdated"}]

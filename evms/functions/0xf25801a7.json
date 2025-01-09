@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"path","internalType":"bytes","type":"bytes"},{"name":"maximumTickDivergence","internalType":"uint24","type":"uint24"},{"name":"secondsAgo","internalType":"uint32","type":"uint32"}],"name":"checkOracleSlippage","outputs":[],"stateMutability":"view"}]

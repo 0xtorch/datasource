@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[],"name":"vaultInfo","outputs":[{"name":"vaultAddress","internalType":"address","type":"address"},{"name":"tokenAddress","internalType":"address","type":"address"}],"stateMutability":"view"}]

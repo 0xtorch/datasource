@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_phase","internalType":"enum AvalaunchSaleV2.Phases","type":"uint8"}],"name":"changePhase","outputs":[],"stateMutability":"nonpayable"}]

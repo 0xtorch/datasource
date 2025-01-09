@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"handlerAddress","internalType":"address","type":"address"},{"name":"contractAddress","internalType":"address","type":"address"}],"name":"adminSetOneSplitAddress","outputs":[],"stateMutability":"nonpayable"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"statuses","internalType":"struct IRoundImplementation.ApplicationStatus[]","type":"tuple[]","components":[{"name":"index","internalType":"uint256","type":"uint256"},{"name":"statusRow","internalType":"uint256","type":"uint256"}]}],"name":"setApplicationStatuses","outputs":[],"stateMutability":"nonpayable"}]

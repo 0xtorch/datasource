@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"","internalType":"uint256","type":"uint256"}],"name":"tokenCreator","outputs":[{"name":"creator","internalType":"address payable","type":"address"}],"stateMutability":"view"}]

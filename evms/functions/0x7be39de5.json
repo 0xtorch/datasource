@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[],"name":"getAllHoldersWithBalances","outputs":[{"name":"","internalType":"address[]","type":"address[]"},{"name":"","internalType":"uint256[]","type":"uint256[]"}],"stateMutability":"view"}]

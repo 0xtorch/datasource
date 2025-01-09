@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_userId","internalType":"string","type":"string"}],"name":"getMintFee","outputs":[{"name":"","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

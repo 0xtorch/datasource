@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"token","internalType":"uint256","type":"uint256"},{"name":"price","internalType":"uint256","type":"uint256"},{"name":"hash","internalType":"bytes32","type":"bytes32"}],"name":"lockKeek","outputs":[],"stateMutability":"nonpayable"}]

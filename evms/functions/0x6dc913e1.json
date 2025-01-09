@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"holder","internalType":"address","type":"address"},{"name":"person","internalType":"uint8[8]","type":"uint8[8]"}],"name":"createFor","outputs":[{"name":"tokenID","internalType":"uint256","type":"uint256"}],"stateMutability":"nonpayable"}]

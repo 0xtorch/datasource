@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"src","internalType":"address","type":"address","indexed":true},{"name":"token","internalType":"address","type":"address","indexed":false},{"name":"wad","internalType":"uint128","type":"uint128","indexed":false}],"name":"Withdrawal"}]

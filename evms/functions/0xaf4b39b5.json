@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"contribution","internalType":"uint96","type":"uint96"}],"name":"convertContributionToVotingPower","outputs":[{"name":"votingPower","internalType":"uint96","type":"uint96"}],"stateMutability":"view"}]

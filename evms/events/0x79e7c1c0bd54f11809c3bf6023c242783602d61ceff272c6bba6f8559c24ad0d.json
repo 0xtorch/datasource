@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"_prophecyID","internalType":"uint256","type":"uint256","indexed":false},{"name":"_claimType","internalType":"enum CosmosBridgeStorage.ClaimType","type":"uint8","indexed":false}],"name":"LogProphecyCompleted"}]

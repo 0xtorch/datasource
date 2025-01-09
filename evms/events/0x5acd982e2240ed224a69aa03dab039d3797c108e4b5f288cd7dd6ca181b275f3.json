@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"auctionDuration","internalType":"uint256","type":"uint256","indexed":false},{"name":"newAuctionDuration","internalType":"uint256","type":"uint256","indexed":false}],"name":"AuctionDurationSet"}]

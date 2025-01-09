@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_migrator","internalType":"address","type":"address"},{"name":"_blocklisted","internalType":"bool","type":"bool"}],"name":"blockMigrator","outputs":[],"stateMutability":"nonpayable"}]

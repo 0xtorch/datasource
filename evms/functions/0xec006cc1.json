@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_path","internalType":"bytes","type":"bytes"}],"name":"pathToRoute","outputs":[{"name":"","internalType":"address[]","type":"address[]"}],"stateMutability":"pure"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_desEndId","internalType":"uint32","type":"uint32"},{"name":"_xcmSender","internalType":"bytes32","type":"bytes32"},{"name":"_xcmReceiver","internalType":"bytes32","type":"bytes32"},{"name":"_status","internalType":"bool","type":"bool"}],"name":"setOutboundPathStatus","outputs":[],"stateMutability":"nonpayable"}]

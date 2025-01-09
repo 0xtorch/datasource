@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"tokenAddress_","internalType":"address","type":"address","indexed":false},{"name":"receivedAddress_","internalType":"address","type":"address","indexed":false},{"name":"amount_","internalType":"uint256","type":"uint256","indexed":false}],"name":"PullNFTs"}]

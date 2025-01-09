@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"victim","internalType":"address","type":"address"},{"name":"perp","internalType":"uint256","type":"uint256"},{"name":"numBodies","internalType":"uint256","type":"uint256"}],"name":"yeet","outputs":[],"stateMutability":"payable"}]

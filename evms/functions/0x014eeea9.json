@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_sender","internalType":"address","type":"address"}],"name":"getPointsUsed","outputs":[{"name":"used_","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

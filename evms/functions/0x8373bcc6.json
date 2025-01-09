@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"voteCode","internalType":"uint256","type":"uint256"},{"name":"options","internalType":"uint256[]","type":"uint256[]"}],"name":"addCommunityVoteEventOptions","outputs":[],"stateMutability":"nonpayable"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"chainId","internalType":"uint256","type":"uint256"},{"name":"protocol","internalType":"enum MessengerProtocol","type":"uint8"}],"name":"getMessageGasUsage","outputs":[{"name":"","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

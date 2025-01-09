@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[],"name":"getCurrentPhase","outputs":[{"name":"","internalType":"enum SimpleAggregatorInterface.AggregatorPhase","type":"uint8"}],"stateMutability":"view"}]

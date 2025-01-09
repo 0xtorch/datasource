@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_purchaser","internalType":"address","type":"address"},{"name":"_zone","internalType":"uint8","type":"uint8"}],"name":"joinWhitelist","outputs":[],"stateMutability":"nonpayable"}]

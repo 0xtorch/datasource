@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"_signer","internalType":"address","type":"address","indexed":false},{"name":"_active","internalType":"bool","type":"bool","indexed":false}],"name":"UpdateSigner"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"year","internalType":"uint256","type":"uint256"}],"name":"leapYearsBefore","outputs":[{"name":"","internalType":"uint256","type":"uint256"}],"stateMutability":"pure"}]

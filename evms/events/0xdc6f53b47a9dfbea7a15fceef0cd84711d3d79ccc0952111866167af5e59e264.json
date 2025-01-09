@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"revokedAddress","internalType":"address","type":"address","indexed":false},{"name":"revokedRole","internalType":"enum Role","type":"uint8","indexed":false}],"name":"RevokeRole"}]

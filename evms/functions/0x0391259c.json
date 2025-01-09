@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"batchIds","internalType":"uint256[]","type":"uint256[]"},{"name":"user","internalType":"address","type":"address"}],"name":"getClaimableIdsForUser","outputs":[{"name":"claimableIds","internalType":"uint256[]","type":"uint256[]"}],"stateMutability":"view"}]

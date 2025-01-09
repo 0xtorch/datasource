@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"destAddress","type":"address","indexed":true},{"name":"gotTokens","type":"uint256","indexed":false}],"name":"eveClaim"}]

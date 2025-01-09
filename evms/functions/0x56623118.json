@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"token","internalType":"contract IERC20","type":"address"},{"name":"share","internalType":"uint256","type":"uint256"},{"name":"roundUp","internalType":"bool","type":"bool"}],"name":"toAmount","outputs":[{"name":"amount","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

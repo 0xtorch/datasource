@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"chainId","internalType":"uint256","type":"uint256"},{"name":"crossChainManager","internalType":"address","type":"address"}],"name":"addCrossChainManagerMapping","outputs":[],"stateMutability":"nonpayable"}]

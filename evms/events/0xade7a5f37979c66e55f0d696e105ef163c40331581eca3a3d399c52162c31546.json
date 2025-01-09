@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"isFlexibleOracle0","internalType":"bool","type":"bool","indexed":false},{"name":"isFlexibleOracle1","internalType":"bool","type":"bool","indexed":false}],"name":"FlexibleOracleStatesUpdated"}]

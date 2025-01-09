@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"requestIds","internalType":"uint256[]","type":"uint256[]"}],"name":"claimWithdrawalsFromLido","outputs":[],"stateMutability":"nonpayable"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_address","internalType":"address","type":"address"},{"name":"_discordId","internalType":"string","type":"string"}],"name":"setDiscordId","outputs":[],"stateMutability":"nonpayable"}]

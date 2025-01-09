@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"liquidity","internalType":"uint256","type":"uint256"},{"name":"amount0Min","internalType":"uint256","type":"uint256"},{"name":"amount1Min","internalType":"uint256","type":"uint256"}],"name":"unstakeSteakHutEUROCUSDC","outputs":[],"stateMutability":"nonpayable"}]

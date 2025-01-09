@@ -1,0 +1,1 @@
+[{"type":"function","constant":true,"inputs":[{"name":"_id","type":"uint256"}],"name":"getLambo","outputs":[{"name":"buildTime","type":"uint256"},{"name":"attributes","type":"uint256"}],"payable":false,"stateMutability":"view"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"newOpZap","internalType":"contract OPZap","type":"address"}],"name":"setZap","outputs":[],"stateMutability":"nonpayable"}]

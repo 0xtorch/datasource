@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"lpToken","internalType":"address","type":"address","indexed":true}],"name":"TrancheAdded"},{"type":"event","anonymous":false,"inputs":[{"name":"lpToken","internalType":"address","type":"address","indexed":false}],"name":"TrancheAdded"}]

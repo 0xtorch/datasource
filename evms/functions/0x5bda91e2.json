@@ -1,0 +1,1 @@
+[{"type":"function","constant":false,"inputs":[{"name":"fromContractName","internalType":"bytes32","type":"bytes32"},{"name":"toContractName","internalType":"bytes32","type":"bytes32"},{"name":"removeAccessFromPreviousContract","internalType":"bool","type":"bool"}],"name":"migrateContractKey","outputs":[],"payable":false,"stateMutability":"nonpayable"}]

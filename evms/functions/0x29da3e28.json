@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"nftAddress","internalType":"address","type":"address"},{"name":"tokenId","internalType":"uint256","type":"uint256"},{"name":"seller","internalType":"address","type":"address"}],"name":"checkDuplicateERC1155","outputs":[{"name":"","internalType":"bool","type":"bool"}],"stateMutability":"view"}]

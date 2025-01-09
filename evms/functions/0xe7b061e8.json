@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_swapCreator","internalType":"address","type":"address"},{"name":"_swapId","internalType":"uint256","type":"uint256"}],"name":"closeSwapIntent","outputs":[],"stateMutability":"payable"}]

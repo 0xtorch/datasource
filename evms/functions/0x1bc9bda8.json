@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"sellId","internalType":"uint256","type":"uint256"}],"name":"deactiveSellOrder","outputs":[],"stateMutability":"nonpayable"}]

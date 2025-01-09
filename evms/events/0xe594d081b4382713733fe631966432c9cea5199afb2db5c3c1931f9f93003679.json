@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"removedOwner","type":"address","indexed":true},{"name":"removedBy","type":"address","indexed":true}],"name":"OwnerRemoved"}]

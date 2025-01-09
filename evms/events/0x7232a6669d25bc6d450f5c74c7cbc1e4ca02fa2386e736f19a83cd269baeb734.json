@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"oldZKMptValidator","internalType":"address","type":"address","indexed":false},{"name":"newZKMptValidator","internalType":"address","type":"address","indexed":false}],"name":"ModZKMptValidator"}]

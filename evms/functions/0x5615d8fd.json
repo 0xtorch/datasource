@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[],"name":"signatureStatus","outputs":[{"name":"isSalted","internalType":"bool","type":"bool"},{"name":"isVerified","internalType":"bool","type":"bool"},{"name":"signer","internalType":"address","type":"address"},{"name":"saltedHash","internalType":"bytes32","type":"bytes32"}],"stateMutability":"view"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_marketRegistry","internalType":"contract MarketRegistry","type":"address"}],"name":"setMarketRegistry","outputs":[],"stateMutability":"nonpayable"}]

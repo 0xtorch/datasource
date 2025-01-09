@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"to","internalType":"address","type":"address"},{"name":"value","internalType":"uint256","type":"uint256"},{"name":"data","internalType":"bytes","type":"bytes"}],"name":"execute","outputs":[{"name":"","internalType":"bool","type":"bool"},{"name":"","internalType":"bytes","type":"bytes"}],"stateMutability":"nonpayable"}]

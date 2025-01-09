@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_chainId","internalType":"uint64","type":"uint64"}],"name":"isDestChainEnabled","outputs":[{"name":"enabled_","internalType":"bool","type":"bool"},{"name":"destBridge_","internalType":"address","type":"address"}],"stateMutability":"view"}]

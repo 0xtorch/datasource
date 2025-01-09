@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"ballotIndex","internalType":"uint256","type":"uint256"},{"name":"squareId","internalType":"uint256","type":"uint256"},{"name":"optionIndex","internalType":"uint256","type":"uint256"}],"name":"cast","outputs":[],"stateMutability":"nonpayable"}]

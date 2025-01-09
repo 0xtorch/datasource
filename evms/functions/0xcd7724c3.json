@@ -1,0 +1,1 @@
+[{"type":"function","constant":true,"gas":5542,"inputs":[{"name":"eth_sold","type":"uint256"}],"name":"getEthToTokenInputPrice","outputs":[{"name":"out","type":"uint256"}],"payable":false,"stateMutability":"view"}]

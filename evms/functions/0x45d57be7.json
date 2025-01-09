@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"marketMakerRewardsAmount","internalType":"uint256","type":"uint256"},{"name":"traderRewardsAmount","internalType":"uint256","type":"uint256"},{"name":"traderScoreAlpha","internalType":"uint256","type":"uint256"}],"name":"setRewardsParameters","outputs":[],"stateMutability":"nonpayable"}]

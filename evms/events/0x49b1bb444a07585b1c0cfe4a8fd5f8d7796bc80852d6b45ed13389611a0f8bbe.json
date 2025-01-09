@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"rewardPool","internalType":"address","type":"address","indexed":false},{"name":"burnPool","internalType":"address","type":"address","indexed":false}],"name":"eveRewardPool"}]

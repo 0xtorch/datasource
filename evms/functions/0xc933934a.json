@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"lockDurationReq_","internalType":"uint256","type":"uint256"},{"name":"lockEndReq_","internalType":"uint256","type":"uint256"},{"name":"depositAmountReq_","internalType":"uint256","type":"uint256"},{"name":"whitelist_","internalType":"bool","type":"bool"}],"name":"setRequirements","outputs":[],"stateMutability":"nonpayable"}]

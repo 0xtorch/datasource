@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"traitKey","internalType":"bytes32","type":"bytes32","indexed":true},{"name":"tokenId","internalType":"uint256","type":"uint256","indexed":false},{"name":"traitValue","internalType":"bytes32","type":"bytes32","indexed":false}],"name":"TraitUpdated"}]

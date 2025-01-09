@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"old","type":"address","indexed":false},{"name":"potential","type":"address","indexed":false}],"name":"NewPotentialOwner"}]

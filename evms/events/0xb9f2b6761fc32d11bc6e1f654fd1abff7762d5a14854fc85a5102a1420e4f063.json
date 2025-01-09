@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"pID","type":"uint256","indexed":false},{"name":"addr","type":"address","indexed":false},{"name":"reward","type":"uint256","indexed":false},{"name":"balance","type":"uint256","indexed":false}],"name":"eveClaim"}]

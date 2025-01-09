@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"newInfo","internalType":"struct ISeaDropTokenContractMetadata.RoyaltyInfo","type":"tuple","components":[{"name":"royaltyAddress","internalType":"address","type":"address"},{"name":"royaltyBps","internalType":"uint96","type":"uint96"}]}],"name":"setRoyaltyInfo","outputs":[],"stateMutability":"nonpayable"}]

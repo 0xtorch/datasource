@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"caller","internalType":"address","type":"address","indexed":true},{"name":"previousFee","internalType":"uint32","type":"uint32","indexed":false},{"name":"newFee","internalType":"uint32","type":"uint32","indexed":false}],"name":"SwapFeeUpdated"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"lender","internalType":"address","type":"address"}],"name":"getDepositAmount","outputs":[{"name":"balance","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

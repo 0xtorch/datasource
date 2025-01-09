@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"priorityOpId","internalType":"uint256","type":"uint256"}],"name":"priorityOpSyncStatus","outputs":[{"name":"hash","internalType":"bytes32","type":"bytes32"},{"name":"amount","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

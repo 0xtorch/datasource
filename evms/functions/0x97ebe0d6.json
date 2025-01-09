@@ -1,0 +1,1 @@
+[{"type":"function","constant":false,"inputs":[{"name":"_claimedSender","type":"address"},{"name":"_spender","type":"address"},{"name":"_value","type":"uint256"}],"name":"approveTokenCollection","outputs":[{"name":"success","type":"bool"}],"payable":false,"stateMutability":"nonpayable"}]

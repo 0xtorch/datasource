@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_voteId","internalType":"uint256","type":"uint256"},{"name":"_votingAddress","internalType":"address","type":"address"},{"name":"_support","internalType":"bool","type":"bool"}],"name":"vote","outputs":[{"name":"","internalType":"bool","type":"bool"}],"stateMutability":"nonpayable"}]

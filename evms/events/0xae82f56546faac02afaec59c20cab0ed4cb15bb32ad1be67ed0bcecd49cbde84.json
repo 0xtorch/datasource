@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"gauge","internalType":"address","type":"address","indexed":true},{"name":"oldRatio","internalType":"uint256","type":"uint256","indexed":false},{"name":"newRatio","internalType":"uint256","type":"uint256","indexed":false}],"name":"XRamRatio"}]

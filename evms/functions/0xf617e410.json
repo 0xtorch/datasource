@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"wallets","internalType":"address[]","type":"address[]"},{"name":"amounts","internalType":"uint96[]","type":"uint96[]"}],"name":"initOption1Allocations","outputs":[],"stateMutability":"nonpayable"}]

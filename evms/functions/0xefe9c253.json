@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[],"name":"getFreezedReason","outputs":[{"name":"","internalType":"enum IChainlinkPriceFeedV3Event.FreezedReason","type":"uint8"}],"stateMutability":"view"}]

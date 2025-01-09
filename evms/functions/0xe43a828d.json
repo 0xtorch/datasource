@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_startBlock","internalType":"uint256","type":"uint256"},{"name":"_endBlock","internalType":"uint256","type":"uint256"}],"name":"setBlocksBoundaries","outputs":[],"stateMutability":"nonpayable"}]

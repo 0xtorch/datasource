@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"vestingContract_","internalType":"address","type":"address"}],"name":"setProposedVestingContractAddress","outputs":[],"stateMutability":"nonpayable"}]

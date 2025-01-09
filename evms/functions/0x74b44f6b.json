@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_collateralName","internalType":"bytes32","type":"bytes32"},{"name":"_value","internalType":"uint96","type":"uint96"}],"name":"getNormalizedCollateralValue","outputs":[{"name":"","internalType":"uint96","type":"uint96"}],"stateMutability":"view"}]

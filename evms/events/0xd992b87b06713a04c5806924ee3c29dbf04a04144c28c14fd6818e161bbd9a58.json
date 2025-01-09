@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"previousCollector","type":"address","indexed":true},{"name":"newCollector","type":"address","indexed":true}],"name":"CollectorshipTransferred"}]

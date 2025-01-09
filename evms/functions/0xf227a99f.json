@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"","internalType":"address","type":"address"}],"name":"userLink","outputs":[{"name":"first","internalType":"uint256","type":"uint256"},{"name":"last","internalType":"uint256","type":"uint256"},{"name":"count","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

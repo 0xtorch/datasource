@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"chainId","internalType":"uint256","type":"uint256"},{"name":"lzChainId","internalType":"uint16","type":"uint16"}],"name":"addChainIdMapping","outputs":[],"stateMutability":"nonpayable"}]

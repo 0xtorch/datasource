@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_hackathonId","internalType":"string","type":"string"},{"name":"_tos","internalType":"address[3]","type":"address[3]"},{"name":"_executedAt","internalType":"string","type":"string"}],"name":"closeHackathon","outputs":[],"stateMutability":"nonpayable"}]

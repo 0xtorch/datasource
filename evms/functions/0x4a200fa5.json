@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_initialOwner","internalType":"address","type":"address"},{"name":"_minterList","internalType":"address[]","type":"address[]"},{"name":"_burnerList","internalType":"address[]","type":"address[]"}],"name":"initialize","outputs":[],"stateMutability":"nonpayable"}]

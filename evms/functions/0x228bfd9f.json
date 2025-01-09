@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"","internalType":"contract IERC20","type":"address"}],"name":"strategy","outputs":[{"name":"","internalType":"contract IStrategy","type":"address"}],"stateMutability":"view"}]

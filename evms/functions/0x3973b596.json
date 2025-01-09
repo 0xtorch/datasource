@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"sourceWhitelist","internalType":"uint8","type":"uint8"},{"name":"destinationWhitelist","internalType":"uint8","type":"uint8"},{"name":"newEnabledValue","internalType":"bool","type":"bool"}],"name":"updateOutboundWhitelistEnabled","outputs":[],"stateMutability":"nonpayable"}]

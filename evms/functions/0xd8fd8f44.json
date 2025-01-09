@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_admin","internalType":"address","type":"address"},{"name":"_data","internalType":"bytes","type":"bytes"}],"name":"createAccount","outputs":[{"name":"proxyAdmin","internalType":"address","type":"address"},{"name":"newAccount","internalType":"address","type":"address"}],"stateMutability":"payable"}]

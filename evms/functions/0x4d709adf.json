@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[],"name":"pairContract","outputs":[{"name":"","internalType":"contract IPancakeSwapPair","type":"address"}],"stateMutability":"view"}]

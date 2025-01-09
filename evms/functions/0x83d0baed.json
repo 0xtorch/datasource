@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_tokenId","internalType":"uint256","type":"uint256"},{"name":"e","internalType":"enum Commons.ExchangeType","type":"uint8"}],"name":"exchange","outputs":[],"stateMutability":"payable"}]

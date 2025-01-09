@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_liquidator","internalType":"address","type":"address"},{"name":"_isActive","internalType":"bool","type":"bool"}],"name":"setLiquidator","outputs":[],"stateMutability":"nonpayable"}]

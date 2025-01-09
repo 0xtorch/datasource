@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_featureId","internalType":"string","type":"string"},{"name":"_tokenAddress","internalType":"address","type":"address"}],"name":"getFeaturePrice","outputs":[{"name":"","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

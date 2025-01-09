@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"_owner","internalType":"address","type":"address","indexed":true},{"name":"_function","internalType":"enum IVaultHandler.FunctionChoices","type":"uint8","indexed":false},{"name":"_isDisabled","internalType":"bool","type":"bool","indexed":false}],"name":"FunctionToggled"}]

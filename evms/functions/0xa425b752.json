@@ -1,0 +1,1 @@
+[{"type":"function","constant":false,"inputs":[{"name":"_staker","type":"address"},{"name":"_tag","type":"bytes32"},{"name":"_tournamentID","type":"uint256"},{"name":"_roundID","type":"uint256"}],"name":"destroyStake","outputs":[{"name":"ok","type":"bool"}],"payable":false,"stateMutability":"nonpayable"}]

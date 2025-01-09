@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_mneAmount","internalType":"uint256","type":"uint256"},{"name":"_addressList","internalType":"address[]","type":"address[]"},{"name":"_uintList","internalType":"uint256[]","type":"uint256[]"}],"name":"ReceiverFunction1","outputs":[],"stateMutability":"payable"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_minCommitmentAge","internalType":"uint256","type":"uint256"},{"name":"_maxCommitmentAge","internalType":"uint256","type":"uint256"}],"name":"setCommitmentAges","outputs":[],"stateMutability":"nonpayable"}]

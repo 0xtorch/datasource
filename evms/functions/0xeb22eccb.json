@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_pool","internalType":"contract IUniswapV3Pool","type":"address"},{"name":"_tick","internalType":"int24","type":"int24"}],"name":"getPricePerCallAssetViaTick","outputs":[{"name":"","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

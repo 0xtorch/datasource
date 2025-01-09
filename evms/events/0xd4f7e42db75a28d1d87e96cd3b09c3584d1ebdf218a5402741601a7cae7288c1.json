@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"rootCollection","internalType":"address","type":"address","indexed":true},{"name":"maxSupply","internalType":"uint256","type":"uint256","indexed":false},{"name":"tokensPerClaim","internalType":"uint256","type":"uint256","indexed":false}],"name":"RootCollectionInitialized"}]

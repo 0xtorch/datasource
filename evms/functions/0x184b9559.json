@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_token","internalType":"address","type":"address"},{"name":"_staking","internalType":"address","type":"address"},{"name":"_stakingBonus","internalType":"address","type":"address"}],"name":"init","outputs":[],"stateMutability":"nonpayable"}]

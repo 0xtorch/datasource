@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"winner","type":"uint256","indexed":false},{"name":"loser","type":"uint256","indexed":false},{"name":"attackAmount","type":"uint256","indexed":false},{"name":"defenseAmount","type":"uint256","indexed":false},{"name":"lucky","type":"uint256","indexed":false}],"name":"Battle"}]

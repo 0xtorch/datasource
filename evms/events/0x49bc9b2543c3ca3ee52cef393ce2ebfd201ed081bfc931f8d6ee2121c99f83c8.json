@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"oldPiggyDistribution","internalType":"contract IPiggyDistribution","type":"address","indexed":false},{"name":"newPiggyDistribution","internalType":"contract IPiggyDistribution","type":"address","indexed":false}],"name":"NewPiggyDistribution"}]

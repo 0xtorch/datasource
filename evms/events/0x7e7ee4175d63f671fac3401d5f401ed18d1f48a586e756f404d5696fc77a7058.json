@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"new_timelock","internalType":"address","type":"address","indexed":false}],"name":"TimelockSet"}]

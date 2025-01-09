@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"creditlineAddress","internalType":"address","type":"address"},{"name":"writedownDelta","internalType":"int256","type":"int256"}],"name":"distributeLosses","outputs":[],"stateMutability":"nonpayable"}]

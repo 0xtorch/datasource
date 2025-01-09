@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"addresses","internalType":"address[3]","type":"address[3]"},{"name":"values","internalType":"uint256[3]","type":"uint256[3]"},{"name":"signature","internalType":"bytes","type":"bytes"}],"name":"matchTransaction","outputs":[{"name":"","internalType":"bool","type":"bool"}],"stateMutability":"nonpayable"}]

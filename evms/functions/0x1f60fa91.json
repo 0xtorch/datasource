@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"moduleId","internalType":"bytes32","type":"bytes32"},{"name":"module","internalType":"address","type":"address"}],"name":"removeModule","outputs":[],"stateMutability":"nonpayable"}]

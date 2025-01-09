@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_lp","internalType":"address","type":"address"},{"name":"_amount","internalType":"uint256","type":"uint256"},{"name":"_sender","internalType":"address","type":"address"}],"name":"withdrawFor","outputs":[],"stateMutability":"nonpayable"}]

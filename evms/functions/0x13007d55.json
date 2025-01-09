@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[],"name":"accessControl","outputs":[{"name":"nodeRegistry","internalType":"contract INodeRegistry","type":"address"},{"name":"controlNodeId","internalType":"uint64","type":"uint64"}],"stateMutability":"view"}]

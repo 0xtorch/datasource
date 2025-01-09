@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_maxDepositsWhitelist","internalType":"uint256","type":"uint256"}],"name":"setMaxDepositsWhitelist","outputs":[],"stateMutability":"nonpayable"}]

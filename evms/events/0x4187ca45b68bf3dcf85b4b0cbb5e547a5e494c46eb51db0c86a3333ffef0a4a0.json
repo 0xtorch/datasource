@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"bridge_connector","type":"address","indexed":false}],"name":"BridgeConnectorUpdated"}]

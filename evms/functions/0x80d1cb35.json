@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[],"name":"getDeploymentBlock","outputs":[{"name":"deploymentBlock","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

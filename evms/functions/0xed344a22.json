@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[],"name":"getELBackingEthAmount","outputs":[{"name":"ethAmount","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

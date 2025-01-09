@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_key","internalType":"bytes32","type":"bytes32"}],"name":"getDecreasePositionRequestPath","outputs":[{"name":"","internalType":"address[]","type":"address[]"}],"stateMutability":"view"}]

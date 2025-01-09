@@ -1,0 +1,1 @@
+[{"type":"function","constant":false,"inputs":[{"name":"_newOp","type":"address"},{"name":"_state","type":"uint8"}],"name":"setOtherManager","outputs":[],"payable":false,"stateMutability":"nonpayable"}]

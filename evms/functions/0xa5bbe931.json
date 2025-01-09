@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"gasCost","internalType":"uint256","type":"uint256"}],"name":"setEthTransferGasCost","outputs":[],"stateMutability":"nonpayable"}]

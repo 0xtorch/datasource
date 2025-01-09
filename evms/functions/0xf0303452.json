@@ -1,0 +1,1 @@
+[{"type":"function","constant":false,"inputs":[{"name":"to","type":"address"},{"name":"ids","type":"uint256[]"}],"name":"approveAll","outputs":[],"payable":false,"stateMutability":"nonpayable"}]

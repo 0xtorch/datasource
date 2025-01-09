@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"token20Index","internalType":"uint256","type":"uint256"},{"name":"amount","internalType":"uint256","type":"uint256"},{"name":"lockDay","internalType":"uint256","type":"uint256"}],"name":"staking","outputs":[],"stateMutability":"payable"}]

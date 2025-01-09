@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"tokenId","internalType":"uint16","type":"uint16"}],"name":"isTokenRevealed","outputs":[{"name":"","internalType":"bool","type":"bool"}],"stateMutability":"view"}]

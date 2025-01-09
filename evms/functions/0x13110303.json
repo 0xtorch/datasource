@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"slug","internalType":"string","type":"string"},{"name":"maxEntryCount","internalType":"uint256","type":"uint256"},{"name":"entryStartedAt","internalType":"uint256","type":"uint256"},{"name":"entryEndedAt","internalType":"uint256","type":"uint256"}],"name":"updateTournamentCondition","outputs":[],"stateMutability":"nonpayable"}]

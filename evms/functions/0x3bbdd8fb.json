@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"maxWalletEnable","internalType":"bool","type":"bool"},{"name":"maxWallet","internalType":"uint256","type":"uint256"}],"name":"setMaxWallet","outputs":[],"stateMutability":"nonpayable"}]

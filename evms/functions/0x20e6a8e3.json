@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"newChainPropagationPeriod","internalType":"uint256","type":"uint256"}],"name":"setChainPropagationPeriod","outputs":[],"stateMutability":"nonpayable"}]

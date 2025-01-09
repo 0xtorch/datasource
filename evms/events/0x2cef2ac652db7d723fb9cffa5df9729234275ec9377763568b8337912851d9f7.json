@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"versionId","internalType":"uint256","type":"uint256","indexed":false},{"name":"startingIndex","internalType":"uint256","type":"uint256","indexed":false}],"name":"StartingIndexFinalized"}]

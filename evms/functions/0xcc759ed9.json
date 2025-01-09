@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"tradeLiquidity","internalType":"uint256","type":"uint256"}],"name":"estimateTradingFee","outputs":[{"name":"fee","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

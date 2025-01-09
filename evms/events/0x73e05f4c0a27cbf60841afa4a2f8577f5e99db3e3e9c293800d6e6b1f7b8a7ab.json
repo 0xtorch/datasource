@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"minter","internalType":"address","type":"address","indexed":true},{"name":"registered","internalType":"bool","type":"bool","indexed":true}],"name":"MinterRegistrationChanged"}]

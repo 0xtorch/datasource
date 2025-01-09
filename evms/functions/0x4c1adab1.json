@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"vaults","internalType":"address[]","type":"address[]"},{"name":"rounds","internalType":"uint256[]","type":"uint256[]"},{"name":"withdrawNative","internalType":"bool[]","type":"bool[]"}],"name":"batchRedeemQueuedWithdrawals","outputs":[],"stateMutability":"nonpayable"}]

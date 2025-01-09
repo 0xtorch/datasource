@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"rewardToken","internalType":"address","type":"address"},{"name":"stakingTokens","internalType":"contract IERC20[]","type":"address[]"},{"name":"allocPoints","internalType":"uint48[]","type":"uint48[]"}],"name":"setAllocPoints","outputs":[],"stateMutability":"nonpayable"}]

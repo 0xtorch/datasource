@@ -1,0 +1,1 @@
+[{"type":"function","constant":false,"inputs":[{"name":"validatorAddress","type":"address"},{"name":"approval","type":"bool"}],"name":"setSignatureValidatorApproval","outputs":[],"payable":false,"stateMutability":"nonpayable"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_withdrawManager","internalType":"address payable","type":"address"}],"name":"setWithdrawManager","outputs":[],"stateMutability":"nonpayable"}]

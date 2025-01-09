@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"_contract","internalType":"address","type":"address","indexed":true},{"name":"invalid","internalType":"bool","type":"bool","indexed":true},{"name":"mintParametersDigests","internalType":"bytes32","type":"bytes32","indexed":false}],"name":"SignatureValidityUpdated"}]

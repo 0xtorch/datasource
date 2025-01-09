@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"migrationWhitelist","internalType":"contract MigrationWhitelist","type":"address"},{"name":"owners","internalType":"address[]","type":"address[]"},{"name":"ids","internalType":"uint256[]","type":"uint256[]"},{"name":"data","internalType":"bytes","type":"bytes"}],"name":"adminMigration","outputs":[],"stateMutability":"nonpayable"}]

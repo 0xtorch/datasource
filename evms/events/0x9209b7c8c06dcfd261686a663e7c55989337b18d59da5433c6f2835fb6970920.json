@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"oldCore","internalType":"address","type":"address","indexed":true},{"name":"newCore","internalType":"address","type":"address","indexed":true}],"name":"CoreUpdate"}]

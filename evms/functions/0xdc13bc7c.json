@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"","internalType":"bytes","type":"bytes"}],"name":"silentSwap","outputs":[{"name":"amountOut","internalType":"uint256","type":"uint256"}],"stateMutability":"payable"}]

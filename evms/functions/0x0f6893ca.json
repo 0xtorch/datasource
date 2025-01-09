@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"messageHash","internalType":"bytes32","type":"bytes32"}],"name":"inboxL1L2MessageStatus","outputs":[{"name":"messageStatus","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

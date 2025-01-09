@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_pool","internalType":"address","type":"address"}],"name":"getMintFeeConfig","outputs":[{"name":"numerator","internalType":"uint256","type":"uint256"},{"name":"denominator","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_shnarfs","internalType":"bytes32[]","type":"bytes32[]"},{"name":"_finalBlockNumbers","internalType":"uint256[]","type":"uint256[]"}],"name":"initializeParentShnarfsAndFinalizedState","outputs":[],"stateMutability":"nonpayable"}]

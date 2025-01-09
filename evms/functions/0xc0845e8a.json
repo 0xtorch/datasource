@@ -1,0 +1,1 @@
+[{"type":"function","constant":false,"inputs":[{"name":"_player","type":"address"},{"name":"_classId","type":"uint32"},{"name":"_name","type":"string"}],"name":"catchMonster","outputs":[{"name":"tokenId","type":"uint256"}],"payable":true,"stateMutability":"payable"}]

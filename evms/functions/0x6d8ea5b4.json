@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_keyOwner","internalType":"address","type":"address"}],"name":"getHasValidKey","outputs":[{"name":"isValid","internalType":"bool","type":"bool"}],"stateMutability":"view"}]

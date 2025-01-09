@@ -1,0 +1,1 @@
+[{"type":"function","constant":false,"inputs":[{"name":"_recipient","type":"address"},{"name":"_merkleProof","type":"bytes"}],"name":"generate","outputs":[],"payable":false,"stateMutability":"nonpayable"}]

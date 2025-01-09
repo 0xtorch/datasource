@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_addressToBan","internalType":"address","type":"address"},{"name":"ban","internalType":"bool","type":"bool"}],"name":"banAddress","outputs":[],"stateMutability":"nonpayable"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"vamm","internalType":"contract IVAMM","type":"address"}],"name":"lpMarginCaps","outputs":[{"name":"","internalType":"int256","type":"int256"}],"stateMutability":"view"}]

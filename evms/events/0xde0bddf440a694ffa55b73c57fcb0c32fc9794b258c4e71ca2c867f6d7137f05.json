@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"maxGlobalMultiplier","internalType":"uint256","type":"uint256","indexed":false},{"name":"maxBoostMultiplier","internalType":"uint256","type":"uint256","indexed":false}],"name":"SetBoostMultiplierSettings"}]

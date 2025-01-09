@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_to","internalType":"address","type":"address"},{"name":"_amount","internalType":"uint256","type":"uint256"},{"name":"_nonce","internalType":"string","type":"string"},{"name":"_signature","internalType":"bytes","type":"bytes"}],"name":"earn","outputs":[],"stateMutability":"nonpayable"}]

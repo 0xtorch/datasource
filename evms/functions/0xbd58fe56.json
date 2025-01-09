@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"token","internalType":"address","type":"address"}],"name":"getChainlinkPrice","outputs":[{"name":"priceToReturn","internalType":"uint256","type":"uint256"},{"name":"chainlinkTimestamp","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

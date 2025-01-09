@@ -1,0 +1,1 @@
+[{"type":"function","constant":false,"inputs":[{"name":"_data","type":"bytes"},{"name":"_signatures","type":"bytes"}],"name":"safeExecuteSignatures","outputs":[],"payable":false,"stateMutability":"nonpayable"}]

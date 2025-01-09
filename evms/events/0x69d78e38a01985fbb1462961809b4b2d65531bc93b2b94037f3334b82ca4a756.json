@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"newPendingAdmin","internalType":"address","type":"address","indexed":true}],"name":"NewPendingAdmin"},{"type":"event","anonymous":false,"inputs":[{"name":"new_pending_admin","type":"address","indexed":false}],"name":"NewPendingAdmin"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"addr","internalType":"address","type":"address"},{"name":"ipfs_url","internalType":"string","type":"string"},{"name":"ipfs_append_tokenID","internalType":"bool","type":"bool"}],"name":"mint","outputs":[],"stateMutability":"nonpayable"}]

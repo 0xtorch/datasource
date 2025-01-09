@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"sponsor","internalType":"address","type":"address","indexed":true},{"name":"requester","internalType":"address","type":"address","indexed":true},{"name":"sponsorshipStatus","internalType":"bool","type":"bool","indexed":false}],"name":"SetSponsorshipStatus"}]

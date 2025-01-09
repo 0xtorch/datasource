@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"polyId","internalType":"uint256","type":"uint256"}],"name":"creatorNameOf","outputs":[{"name":"","internalType":"string","type":"string"}],"stateMutability":"view"}]

@@ -1,0 +1,1 @@
+[{"type":"function","constant":false,"inputs":[{"name":"index","type":"uint16"},{"name":"god","type":"uint8"},{"name":"cardType","type":"uint8"},{"name":"mana","type":"uint8"},{"name":"attack","type":"uint8"},{"name":"health","type":"uint8"},{"name":"tribe","type":"uint8"}],"name":"replaceProto","outputs":[],"payable":false,"stateMutability":"nonpayable"}]

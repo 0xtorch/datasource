@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[],"name":"getGlobalScales","outputs":[{"name":"","internalType":"struct ITranche.GlobalScales","type":"tuple","components":[{"name":"mscale","internalType":"uint128","type":"uint128"},{"name":"maxscale","internalType":"uint128","type":"uint128"}]}],"stateMutability":"view"}]

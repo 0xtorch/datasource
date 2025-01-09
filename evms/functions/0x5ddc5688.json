@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_wallets","internalType":"address[]","type":"address[]"},{"name":"_percentages","internalType":"uint256[]","type":"uint256[]"}],"name":"setSplits","outputs":[],"stateMutability":"nonpayable"}]

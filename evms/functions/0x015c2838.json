@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_new_fee","type":"uint256"},{"name":"_new_offpeg_fee_multiplier","type":"uint256"}],"name":"set_new_fee","outputs":[],"stateMutability":"nonpayable"}]

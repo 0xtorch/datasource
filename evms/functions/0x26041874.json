@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_loanTypes","internalType":"string[]","type":"string[]"},{"name":"_loanContracts","internalType":"address[]","type":"address[]"}],"name":"registerLoanTypes","outputs":[],"stateMutability":"nonpayable"}]

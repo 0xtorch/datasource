@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"oldCreditLine","internalType":"address","type":"address","indexed":true},{"name":"newCreditLine","internalType":"address","type":"address","indexed":true}],"name":"CreditLineMigrated"}]

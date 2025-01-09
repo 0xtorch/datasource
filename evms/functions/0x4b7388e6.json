@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"maids","internalType":"contract IMaids[]","type":"address[]"}],"name":"disapproveMaids","outputs":[],"stateMutability":"nonpayable"}]

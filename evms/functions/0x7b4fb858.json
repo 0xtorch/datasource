@@ -1,0 +1,1 @@
+[{"type":"function","constant":true,"inputs":[{"name":"liquidity","internalType":"uint256","type":"uint256"}],"name":"burnQuery","outputs":[{"name":"amount0","internalType":"uint256","type":"uint256"},{"name":"amount1","internalType":"uint256","type":"uint256"}],"payable":false,"stateMutability":"view"}]

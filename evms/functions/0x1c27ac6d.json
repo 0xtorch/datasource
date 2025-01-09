@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_assetAddr","internalType":"address","type":"address"},{"name":"_openFee","internalType":"uint16","type":"uint16"},{"name":"_closeFee","internalType":"uint16","type":"uint16"},{"name":"_protocolFee","internalType":"uint16","type":"uint16"}],"name":"setAssetSwapFeesSCDP","outputs":[],"stateMutability":"nonpayable"}]

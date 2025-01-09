@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_chainId","internalType":"uint16","type":"uint16"},{"name":"_crossRouter","internalType":"address","type":"address"}],"name":"setWooCrossRouter","outputs":[],"stateMutability":"nonpayable"}]

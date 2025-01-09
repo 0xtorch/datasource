@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_kycMerkleRoot","internalType":"bytes32","type":"bytes32"}],"name":"setKycMerkleRoot","outputs":[],"stateMutability":"nonpayable"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_symbol","internalType":"bytes32","type":"bytes32"}],"name":"getToken","outputs":[{"name":"","internalType":"contract IERC20Upgradeable","type":"address"}],"stateMutability":"view"}]

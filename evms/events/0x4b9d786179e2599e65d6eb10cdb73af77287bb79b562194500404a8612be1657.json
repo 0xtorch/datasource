@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"maxPrice","internalType":"uint256","type":"uint256","indexed":false}],"name":"MAX_PRICE_UPDATED"}]

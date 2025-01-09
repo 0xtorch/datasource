@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_ratioStepUp","internalType":"uint256","type":"uint256"},{"name":"_ratioStepDown","internalType":"uint256","type":"uint256"},{"name":"_priceBand","internalType":"uint256","type":"uint256"},{"name":"_refreshCooldown","internalType":"uint256","type":"uint256"}],"name":"setCollateralRatioOptions","outputs":[],"stateMutability":"nonpayable"}]

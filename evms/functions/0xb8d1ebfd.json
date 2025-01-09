@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"questId_","internalType":"string","type":"string"},{"name":"claimingAddress_","internalType":"address","type":"address"}],"name":"getOwnedTokenIdsOfQuest","outputs":[{"name":"","internalType":"uint256[]","type":"uint256[]"}],"stateMutability":"view"}]

@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"depositPaused","internalType":"bool","type":"bool","indexed":true},{"name":"withdrawPaused","internalType":"bool","type":"bool","indexed":true},{"name":"claimPaused","internalType":"bool","type":"bool","indexed":true}],"name":"PauseUpdated"}]

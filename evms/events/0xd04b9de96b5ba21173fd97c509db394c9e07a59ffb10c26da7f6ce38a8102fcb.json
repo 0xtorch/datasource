@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"module","type":"address","indexed":true},{"name":"method","type":"bytes4","indexed":true}],"name":"EnabledStaticCall"}]

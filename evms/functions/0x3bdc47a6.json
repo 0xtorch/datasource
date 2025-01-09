@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"packageType","internalType":"uint8","type":"uint8"},{"name":"relayFee","internalType":"uint256","type":"uint256"},{"name":"msgBytes","internalType":"bytes","type":"bytes"}],"name":"encodePayload","outputs":[{"name":"","internalType":"bytes","type":"bytes"}],"stateMutability":"pure"}]

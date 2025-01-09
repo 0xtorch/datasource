@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"to","internalType":"address","type":"address"}],"name":"retrieveBase","outputs":[{"name":"retrieved","internalType":"uint128","type":"uint128"}],"stateMutability":"nonpayable"}]

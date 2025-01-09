@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"_depositor","internalType":"address","type":"address","indexed":true},{"name":"_P","internalType":"uint256","type":"uint256","indexed":false},{"name":"_S","internalType":"uint256","type":"uint256","indexed":false},{"name":"_G","internalType":"uint256","type":"uint256","indexed":false}],"name":"DepositSnapshotUpdated"}]

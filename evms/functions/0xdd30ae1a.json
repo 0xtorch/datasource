@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"ERC20s","internalType":"address[]","type":"address[]"},{"name":"Operators","internalType":"address[]","type":"address[]"}],"name":"__BatchApproveERC20","outputs":[],"stateMutability":"nonpayable"}]

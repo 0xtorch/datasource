@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"forwarderAddress","internalType":"address","type":"address"},{"name":"autoFlush","internalType":"bool","type":"bool"}],"name":"setAutoFlush721","outputs":[],"stateMutability":"nonpayable"}]

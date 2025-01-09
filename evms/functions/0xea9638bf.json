@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_borrower","internalType":"address","type":"address"},{"name":"_upperHint","internalType":"address","type":"address"},{"name":"_lowerHint","internalType":"address","type":"address"}],"name":"moveETHGainToTrove","outputs":[],"stateMutability":"payable"}]

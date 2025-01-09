@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"communityFeeNew","internalType":"uint8","type":"uint8","indexed":false}],"name":"CommunityFee"}]

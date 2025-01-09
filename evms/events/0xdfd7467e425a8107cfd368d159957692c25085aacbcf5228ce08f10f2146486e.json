@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"ilk","internalType":"bytes32","type":"bytes32","indexed":false},{"name":"val","internalType":"bytes32","type":"bytes32","indexed":false},{"name":"spot","internalType":"uint256","type":"uint256","indexed":false}],"name":"Poke"}]

@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"infecter","internalType":"address","type":"address","indexed":true},{"name":"infected","internalType":"address","type":"address","indexed":true}],"name":"infection"}]

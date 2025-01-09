@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_minSlippageToleranceOfHedge","internalType":"uint256","type":"uint256"},{"name":"_maxSlippageToleranceOfHedge","internalType":"uint256","type":"uint256"},{"name":"_hedgeRateOfReturnThreshold","internalType":"uint256","type":"uint256"}],"name":"setHedgeParams","outputs":[],"stateMutability":"nonpayable"}]

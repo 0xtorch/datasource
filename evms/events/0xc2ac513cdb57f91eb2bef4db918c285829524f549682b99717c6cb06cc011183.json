@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"oldReduceReservesBlockDelta","internalType":"uint256","type":"uint256","indexed":false},{"name":"newReduceReservesBlockDelta","internalType":"uint256","type":"uint256","indexed":false}],"name":"NewReduceReservesBlockDelta"}]

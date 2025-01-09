@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"vaultId","internalType":"uint256","type":"uint256"},{"name":"amount","internalType":"uint256","type":"uint256"},{"name":"isBurn","internalType":"bool","type":"bool"}],"name":"_calcBountyD2","outputs":[{"name":"","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

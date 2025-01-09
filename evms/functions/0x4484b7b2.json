@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_ids","internalType":"uint256[]","type":"uint256[]"},{"name":"_amounts","internalType":"uint256[]","type":"uint256[]"},{"name":"_operator","internalType":"address","type":"address"},{"name":"_params","internalType":"bytes","type":"bytes"}],"name":"flashLoan","outputs":[],"stateMutability":"nonpayable"}]

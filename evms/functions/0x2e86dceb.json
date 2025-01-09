@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"l2Token","internalType":"address","type":"address"},{"name":"batchIndex","internalType":"uint64","type":"uint64"},{"name":"nodes","internalType":"bytes32[]","type":"bytes32[]"}],"name":"distribute","outputs":[],"stateMutability":"nonpayable"}]

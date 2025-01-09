@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"chestID","internalType":"uint256","type":"uint256"},{"name":"revertTo","internalType":"uint256","type":"uint256"}],"name":"revertChestFromFuture","outputs":[],"stateMutability":"nonpayable"}]

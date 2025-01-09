@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"buy_gem","internalType":"contract ERC20","type":"address"},{"name":"pay_gem","internalType":"contract ERC20","type":"address"},{"name":"pay_amt","internalType":"uint256","type":"uint256"}],"name":"getBuyAmount","outputs":[{"name":"fill_amt","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"entropy","internalType":"struct EntropyOracle.EntropyFulfilment","type":"tuple","components":[{"name":"blockNumber","internalType":"uint256","type":"uint256"},{"name":"signature","internalType":"bytes","type":"bytes"}]}],"name":"provideEntropy","outputs":[],"stateMutability":"nonpayable"}]

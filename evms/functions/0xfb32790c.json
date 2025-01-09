@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"","internalType":"uint256","type":"uint256"}],"name":"comissionCharts","outputs":[{"name":"minimumReferralCount","internalType":"uint256","type":"uint256"},{"name":"referrer","internalType":"uint256","type":"uint256"},{"name":"referee","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

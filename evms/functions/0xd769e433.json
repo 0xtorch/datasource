@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"merkleIndex_","internalType":"uint256","type":"uint256"},{"name":"merkleTotalAmount_","internalType":"uint256","type":"uint256"},{"name":"merkleProof_","internalType":"bytes32[]","type":"bytes32[]"}],"name":"setMerkleParameters","outputs":[],"stateMutability":"nonpayable"}]

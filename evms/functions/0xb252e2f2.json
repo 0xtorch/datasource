@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"signature","internalType":"bytes","type":"bytes"},{"name":"amount","internalType":"uint256","type":"uint256"},{"name":"nonce","internalType":"uint256","type":"uint256"},{"name":"deadline","internalType":"uint256","type":"uint256"}],"name":"claim","outputs":[],"stateMutability":"nonpayable"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"coreContract","internalType":"address","type":"address"},{"name":"minter","internalType":"address","type":"address"}],"name":"getProjectsOnContractUsingMinter","outputs":[{"name":"projectIds","internalType":"uint256[]","type":"uint256[]"}],"stateMutability":"view"}]

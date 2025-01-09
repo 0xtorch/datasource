@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"galleryId","internalType":"uint256","type":"uint256","indexed":false},{"name":"nftId","internalType":"uint256","type":"uint256","indexed":true},{"name":"nftType","internalType":"string","type":"string","indexed":false},{"name":"ownerAddress","internalType":"address","type":"address","indexed":true}],"name":"NftReserved"}]

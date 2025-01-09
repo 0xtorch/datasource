@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_code","internalType":"bytes","type":"bytes"},{"name":"_initArguments","internalType":"bytes","type":"bytes"}],"name":"addTemplate","outputs":[],"stateMutability":"nonpayable"}]

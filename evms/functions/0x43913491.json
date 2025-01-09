@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_layers","internalType":"struct TransferOnion.Layer[]","type":"tuple[]","components":[{"name":"recipient","internalType":"address","type":"address"},{"name":"amount","internalType":"uint256","type":"uint256"},{"name":"shell","internalType":"bytes32","type":"bytes32"}]}],"name":"peel","outputs":[],"stateMutability":"nonpayable"}]

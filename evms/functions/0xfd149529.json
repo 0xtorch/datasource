@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"lendingPool","internalType":"address","type":"address"}],"name":"authorizeLendingPool","outputs":[],"stateMutability":"nonpayable"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_tokenID","internalType":"uint256","type":"uint256"},{"name":"_reducedMintFeeContract","internalType":"address","type":"address"}],"name":"updateReducedMintFeeContract","outputs":[],"stateMutability":"nonpayable"}]

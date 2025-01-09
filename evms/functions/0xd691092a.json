@@ -1,0 +1,1 @@
+[{"type":"function","constant":true,"inputs":[{"name":"_exploreId","type":"uint256"}],"name":"predictExploreReward","outputs":[{"name":"itemSeed","type":"uint256"},{"name":"rewardMonsterClass","type":"uint256"},{"name":"rewardItemCLass","type":"uint256"},{"name":"rewardValue","type":"uint256"}],"payable":false,"stateMutability":"view"}]

@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"startAirdropTime","internalType":"uint256","type":"uint256","indexed":false},{"name":"totalRewardMerkleRoot","internalType":"bytes32","type":"bytes32","indexed":false}],"name":"AirdropConfigUpdated"}]

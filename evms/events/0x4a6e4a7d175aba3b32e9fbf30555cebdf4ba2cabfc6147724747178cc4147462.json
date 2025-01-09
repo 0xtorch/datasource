@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"oldLegendFactory","internalType":"address","type":"address","indexed":false},{"name":"newLegendFactory","internalType":"address","type":"address","indexed":false}],"name":"SetLegendFactory"}]

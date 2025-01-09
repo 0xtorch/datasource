@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"account","internalType":"address","type":"address"}],"name":"getPar","outputs":[{"name":"par","internalType":"address","type":"address"}],"stateMutability":"view"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"l2BatchNumber","internalType":"uint256","type":"uint256"},{"name":"l2ToL1MessageNumber","internalType":"uint256","type":"uint256"}],"name":"isEthWithdrawalFinalized","outputs":[{"name":"isFinalized","internalType":"bool","type":"bool"}],"stateMutability":"view"}]

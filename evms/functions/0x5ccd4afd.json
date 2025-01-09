@@ -1,0 +1,1 @@
+[{"type":"function","constant":true,"inputs":[{"name":"_derivatives","internalType":"address[]","type":"address[]"},{"name":"_amounts","internalType":"uint256[]","type":"uint256[]"}],"name":"viewSelectiveDeposit","outputs":[{"name":"shellsToMint_","internalType":"uint256","type":"uint256"}],"payable":false,"stateMutability":"view"}]

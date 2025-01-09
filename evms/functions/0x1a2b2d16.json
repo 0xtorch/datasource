@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"parent","internalType":"bytes32","type":"bytes32"},{"name":"subaccount","internalType":"bytes32","type":"bytes32"}],"name":"isIsolatedSubaccountActive","outputs":[{"name":"","internalType":"bool","type":"bool"}],"stateMutability":"view"}]

@@ -1,0 +1,1 @@
+[{"type":"function","constant":false,"inputs":[{"name":"_dataContract","type":"address"},{"name":"_battleContract","type":"address"},{"name":"_tradeContract","type":"address"}],"name":"setOperationContracts","outputs":[],"payable":false,"stateMutability":"nonpayable"}]

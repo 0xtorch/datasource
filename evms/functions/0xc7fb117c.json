@@ -1,0 +1,1 @@
+[{"type":"function","constant":false,"inputs":[{"name":"tokenId","internalType":"uint256","type":"uint256"},{"name":"vaultId","internalType":"uint256","type":"uint256"}],"name":"depositCancel","outputs":[],"payable":false,"stateMutability":"nonpayable"}]

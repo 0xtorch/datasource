@@ -1,0 +1,1 @@
+[{"type":"function","constant":false,"inputs":[{"name":"_bobTokenId","type":"uint256"},{"name":"_aliceTokenId","type":"uint256"}],"name":"draftBobToken","outputs":[],"payable":false,"stateMutability":"nonpayable"}]

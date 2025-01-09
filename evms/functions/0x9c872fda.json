@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_tokenId","internalType":"uint256","type":"uint256"},{"name":"_roleAddresses","internalType":"address payable[]","type":"address[]"},{"name":"_shares","internalType":"uint256[]","type":"uint256[]"}],"name":"setRoles","outputs":[],"stateMutability":"nonpayable"}]

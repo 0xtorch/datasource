@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"newSignerArray_","internalType":"address[]","type":"address[]"},{"name":"signerThreshold_","internalType":"uint256","type":"uint256"}],"name":"updateSigner","outputs":[],"stateMutability":"nonpayable"}]

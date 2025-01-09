@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"creator","internalType":"address","type":"address"},{"name":"nonce","internalType":"uint256","type":"uint256"}],"name":"predictCollectionAddress","outputs":[{"name":"","internalType":"address","type":"address"}],"stateMutability":"view"}]

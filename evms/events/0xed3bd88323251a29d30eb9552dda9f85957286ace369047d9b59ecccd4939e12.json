@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"recipient","internalType":"address","type":"address","indexed":true},{"name":"memoAmount","internalType":"uint256","type":"uint256","indexed":false},{"name":"timeAmount","internalType":"uint256","type":"uint256","indexed":false}],"name":"LogForfeit"}]

@@ -1,0 +1,1 @@
+[{"type":"function","constant":false,"inputs":[{"name":"_accessWhitelist","internalType":"contract AccessWhitelist","type":"address"}],"name":"updateAccessWhitelist","outputs":[],"payable":false,"stateMutability":"nonpayable"}]

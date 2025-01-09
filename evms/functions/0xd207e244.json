@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"nftToken_","internalType":"contract IERC721Enumerable","type":"address"}],"name":"setNftToken","outputs":[],"stateMutability":"nonpayable"}]

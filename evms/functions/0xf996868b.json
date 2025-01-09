@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"asset","internalType":"address","type":"address"},{"name":"rewards","internalType":"address[]","type":"address[]"},{"name":"newEmissionsPerSecond","internalType":"uint88[]","type":"uint88[]"}],"name":"setEmissionPerSecond","outputs":[],"stateMutability":"nonpayable"}]

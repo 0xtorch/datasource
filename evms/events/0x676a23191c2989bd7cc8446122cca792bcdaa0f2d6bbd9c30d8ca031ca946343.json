@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"remoteDomain","internalType":"uint32","type":"uint32","indexed":false},{"name":"gasOracle","internalType":"address","type":"address","indexed":false},{"name":"gasOverhead","internalType":"uint96","type":"uint96","indexed":false}],"name":"DestinationGasConfigSet"}]

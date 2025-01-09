@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_newAdminOnlyPeriod","internalType":"uint256","type":"uint256"}],"name":"updateAdminOnlyPeriod","outputs":[],"stateMutability":"nonpayable"}]

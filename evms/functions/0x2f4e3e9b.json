@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_stableRetentionPercentage","internalType":"uint256","type":"uint256"},{"name":"_glpRetentionPercentage","internalType":"uint256","type":"uint256"}],"name":"setNewRetentions","outputs":[],"stateMutability":"nonpayable"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"stakingToken","internalType":"contract IERC20","type":"address"}],"name":"allocPointsByStake","outputs":[{"name":"","internalType":"address[]","type":"address[]"},{"name":"","internalType":"uint48[]","type":"uint48[]"}],"stateMutability":"view"}]

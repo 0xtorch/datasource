@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_poolId","internalType":"uint256","type":"uint256"},{"name":"_pool","internalType":"address","type":"address"}],"name":"setVirtualRewardPool","outputs":[],"stateMutability":"nonpayable"}]

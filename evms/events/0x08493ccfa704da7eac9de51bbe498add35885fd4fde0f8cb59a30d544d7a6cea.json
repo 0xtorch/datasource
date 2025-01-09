@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"factory","internalType":"address","type":"address","indexed":true},{"name":"clone","internalType":"address","type":"address","indexed":true},{"name":"oldTributary","internalType":"address","type":"address","indexed":false},{"name":"newTributary","internalType":"address","type":"address","indexed":true}],"name":"TributarySet"}]

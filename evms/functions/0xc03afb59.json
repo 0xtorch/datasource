@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"newPhase","internalType":"enum IN2MCommonStorage.SalePhase","type":"uint8"}],"name":"setPhase","outputs":[],"stateMutability":"payable"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_pair","internalType":"address","type":"address"}],"name":"getPairUPFee","outputs":[{"name":"fees","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_id","internalType":"uint256","type":"uint256"},{"name":"_quantity","internalType":"uint256","type":"uint256"}],"name":"reserveBoxes","outputs":[],"stateMutability":"payable"}]

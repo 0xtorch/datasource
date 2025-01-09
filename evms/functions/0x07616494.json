@@ -1,0 +1,1 @@
+[{"type":"function","gas":121628,"inputs":[{"name":"_address","type":"address"}],"name":"burn_Inactive_Address","outputs":[{"name":"","type":"bool"}],"stateMutability":"nonpayable"}]

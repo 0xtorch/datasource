@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"chunkIndex","internalType":"uint256","type":"uint256"},{"name":"chunkData","internalType":"string","type":"string"}],"name":"setOverlayChunk","outputs":[],"stateMutability":"nonpayable"}]

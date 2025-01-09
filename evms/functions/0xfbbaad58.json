@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"numberOfTokens","internalType":"uint256","type":"uint256"},{"name":"tokenIds","internalType":"uint256[]","type":"uint256[]"}],"name":"preSaleMint","outputs":[],"stateMutability":"payable"}]

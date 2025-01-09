@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"newVestingPeriod","internalType":"uint24","type":"uint24"}],"name":"updateVestingPeriod","outputs":[],"stateMutability":"nonpayable"}]

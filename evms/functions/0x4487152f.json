@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"data","internalType":"bytes","type":"bytes"}],"name":"delegateToViewImplementation","outputs":[{"name":"","internalType":"bytes","type":"bytes"}],"stateMutability":"view"}]

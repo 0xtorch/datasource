@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_amount","internalType":"uint256","type":"uint256"},{"name":"_withFactors","internalType":"bool","type":"bool"}],"name":"getNeededCollateralFor","outputs":[{"name":"","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

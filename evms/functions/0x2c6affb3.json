@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"","internalType":"bytes4","type":"bytes4"}],"name":"funcSelectorPaused","outputs":[{"name":"","internalType":"bool","type":"bool"}],"stateMutability":"view"}]

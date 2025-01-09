@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"oldValidators","internalType":"address[]","type":"address[]","indexed":false},{"name":"newValidators","internalType":"address[]","type":"address[]","indexed":false}],"name":"SecondaryValidatorsSet"}]

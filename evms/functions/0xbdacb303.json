@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"new_timelock","internalType":"address","type":"address"}],"name":"setTimelock","outputs":[],"stateMutability":"nonpayable"}]

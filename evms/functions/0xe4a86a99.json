@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"user","internalType":"address","type":"address"},{"name":"verified","internalType":"bool","type":"bool"}],"name":"setWhiteListAddress","outputs":[],"stateMutability":"nonpayable"}]

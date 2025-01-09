@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_extension","internalType":"address","type":"address"},{"name":"signatureDigests","internalType":"bytes32[]","type":"bytes32[]"},{"name":"invalid","internalType":"bool","type":"bool"}],"name":"setSignatureValidity","outputs":[],"stateMutability":"nonpayable"}]

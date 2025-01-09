@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"queueStartIndex","internalType":"uint32","type":"uint32","indexed":false},{"name":"queueEndIndex","internalType":"uint32","type":"uint32","indexed":false}],"name":"PendingWithdrawalsComplete"}]

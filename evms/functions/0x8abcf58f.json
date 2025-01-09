@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_claimant","internalType":"address","type":"address"}],"name":"getUnclaimedDDXRewards","outputs":[{"name":"","internalType":"uint96","type":"uint96"}],"stateMutability":"view"}]

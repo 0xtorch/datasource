@@ -1,0 +1,1 @@
+[{"type":"function","constant":true,"inputs":[{"name":"rewardType","internalType":"uint8","type":"uint8"},{"name":"holder","internalType":"address","type":"address"}],"name":"pendingReward","outputs":[{"name":"","internalType":"uint256","type":"uint256"}],"payable":false,"stateMutability":"view"}]

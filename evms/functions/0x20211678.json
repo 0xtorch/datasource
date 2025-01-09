@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"useZro","internalType":"bool","type":"bool"},{"name":"adapterParams","internalType":"bytes","type":"bytes"}],"name":"estimateBridgeFee","outputs":[{"name":"nativeFee","internalType":"uint256","type":"uint256"},{"name":"zroFee","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

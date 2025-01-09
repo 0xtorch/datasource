@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_className","internalType":"string","type":"string"},{"name":"_baseURI","internalType":"string","type":"string"},{"name":"_creator_wallet","internalType":"address payable","type":"address"},{"name":"_probability","internalType":"uint16","type":"uint16"}],"name":"setNewStickerType","outputs":[],"stateMutability":"nonpayable"}]

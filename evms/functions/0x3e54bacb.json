@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_lowerBound","internalType":"uint256","type":"uint256"},{"name":"_upperbound","internalType":"uint256","type":"uint256"}],"name":"migrate","outputs":[],"stateMutability":"nonpayable"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"seaDropImpl","internalType":"address","type":"address"},{"name":"payer","internalType":"address","type":"address"},{"name":"allowed","internalType":"bool","type":"bool"}],"name":"updatePayer","outputs":[],"stateMutability":"nonpayable"}]

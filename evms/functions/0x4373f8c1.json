@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"tokenIds","internalType":"uint256[]","type":"uint256[]"},{"name":"newNames","internalType":"string[]","type":"string[]"}],"name":"setColorNamesBatch","outputs":[],"stateMutability":"nonpayable"}]

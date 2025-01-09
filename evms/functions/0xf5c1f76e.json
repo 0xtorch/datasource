@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"hashes","internalType":"uint256[]","type":"uint256[]"}],"name":"getKeys","outputs":[{"name":"values","internalType":"string[]","type":"string[]"}],"stateMutability":"view"}]

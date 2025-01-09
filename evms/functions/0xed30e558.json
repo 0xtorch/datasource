@@ -1,0 +1,1 @@
+[{"type":"function","constant":true,"inputs":[{"name":"maxRan","type":"uint8"},{"name":"index","type":"uint8"}],"name":"getRandom","outputs":[{"name":"","type":"uint8"}],"payable":false,"stateMutability":"view"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_jonesRewards","internalType":"contract GlpJonesRewards","type":"address"}],"name":"setJonesRewards","outputs":[],"stateMutability":"nonpayable"}]

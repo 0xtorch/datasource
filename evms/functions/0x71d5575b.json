@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_assets","internalType":"address[]","type":"address[]"},{"name":"_flags","internalType":"bool[]","type":"bool[]"}],"name":"whitelistAssets","outputs":[],"stateMutability":"nonpayable"}]

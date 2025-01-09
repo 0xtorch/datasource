@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"edition","internalType":"address","type":"address","indexed":true},{"name":"tier","internalType":"uint8","type":"uint8","indexed":false},{"name":"scheduleNum","internalType":"uint8","type":"uint8","indexed":false},{"name":"root","internalType":"bytes32","type":"bytes32","indexed":false}],"name":"AffiliateMerkleRootSet"}]

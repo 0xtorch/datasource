@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"tid","internalType":"string","type":"string"},{"name":"tokenAmount","internalType":"uint256","type":"uint256"}],"name":"mortgage","outputs":[{"name":"nftTokenId","internalType":"uint256","type":"uint256"},{"name":"payTokenAmount","internalType":"uint256","type":"uint256"}],"stateMutability":"nonpayable"}]

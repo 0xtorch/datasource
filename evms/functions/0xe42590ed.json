@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"bondGroupID","internalType":"uint256","type":"uint256"},{"name":"liquidBondID","internalType":"bytes32","type":"bytes32"},{"name":"timeout","internalType":"uint256","type":"uint256"},{"name":"isLimit","internalType":"bool","type":"bool"}],"name":"issueLBTOnly","outputs":[],"stateMutability":"payable"}]

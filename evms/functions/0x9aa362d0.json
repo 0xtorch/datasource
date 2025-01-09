@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_selectedTraits","internalType":"uint256[]","type":"uint256[]"},{"name":"_selectedBots","internalType":"uint256[]","type":"uint256[]"},{"name":"_setModifier","internalType":"uint256","type":"uint256"}],"name":"estimatePowerForBot","outputs":[{"name":"power","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

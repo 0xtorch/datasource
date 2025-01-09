@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[],"name":"getNettingInfo","outputs":[{"name":"","internalType":"struct NettingLib.Info","type":"tuple","components":[{"name":"amountsUsdc","internalType":"int256[2]","type":"int256[2]"},{"name":"amountUnderlying","internalType":"uint256","type":"uint256"}]}],"stateMutability":"view"}]

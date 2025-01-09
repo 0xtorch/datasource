@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"oldCounterParty","internalType":"address","type":"address","indexed":false},{"name":"newCounterParty","internalType":"address","type":"address","indexed":false}],"name":"NewCounterParty"}]

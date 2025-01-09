@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"stakeholders","internalType":"address[]","type":"address[]"},{"name":"amounts","internalType":"uint256[]","type":"uint256[]"}],"name":"addStakeholders","outputs":[],"stateMutability":"nonpayable"}]

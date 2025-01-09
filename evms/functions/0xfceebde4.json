@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_quantity","internalType":"uint64","type":"uint64"},{"name":"_baseURI","internalType":"string","type":"string"}],"name":"setMessage","outputs":[],"stateMutability":"nonpayable"}]

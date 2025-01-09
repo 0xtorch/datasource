@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"sender","internalType":"address","type":"address"},{"name":"_airdrop","internalType":"uint256","type":"uint256"},{"name":"merkleProof","internalType":"bytes32[]","type":"bytes32[]"}],"name":"verify","outputs":[{"name":"","internalType":"bool","type":"bool"}],"stateMutability":"view"}]

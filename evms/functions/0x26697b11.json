@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"hashBlock","internalType":"uint256","type":"uint256"},{"name":"hashBlockPos","internalType":"uint256","type":"uint256"},{"name":"_tokenIds","internalType":"uint256[200]","type":"uint256[200]"},{"name":"_traits","internalType":"uint256[200]","type":"uint256[200]"}],"name":"revealTokenAt","outputs":[],"stateMutability":"nonpayable"}]

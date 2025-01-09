@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"navM","internalType":"uint256","type":"uint256"},{"name":"navA","internalType":"uint256","type":"uint256"}],"name":"calculateNavB","outputs":[{"name":"","internalType":"uint256","type":"uint256"}],"stateMutability":"pure"}]

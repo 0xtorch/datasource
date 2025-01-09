@@ -1,0 +1,1 @@
+[{"type":"function","constant":true,"inputs":[{"name":"_editionNumber","type":"uint256"}],"name":"tokenURIEdition","outputs":[{"name":"","type":"string"}],"payable":false,"stateMutability":"view"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"ethersToRedeem","internalType":"uint256","type":"uint256"},{"name":"maxToBurn","internalType":"uint256","type":"uint256"},{"name":"deadline","internalType":"uint256","type":"uint256"}],"name":"redeemFromValidators","outputs":[{"name":"burned","internalType":"uint256","type":"uint256"}],"stateMutability":"nonpayable"}]

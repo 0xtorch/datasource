@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"wallet","internalType":"address","type":"address"},{"name":"_transferable","internalType":"bool","type":"bool"}],"name":"registerTransferableWallet","outputs":[],"stateMutability":"nonpayable"}]

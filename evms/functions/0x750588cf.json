@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[],"name":"pendingRoot","outputs":[{"name":"root","internalType":"bytes32","type":"bytes32"},{"name":"ipfsHash","internalType":"bytes32","type":"bytes32"},{"name":"validAt","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

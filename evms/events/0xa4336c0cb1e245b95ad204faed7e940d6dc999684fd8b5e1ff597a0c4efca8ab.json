@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"newPauser","internalType":"address","type":"address","indexed":true}],"name":"PauserUpdated"},{"type":"event","anonymous":false,"inputs":[{"name":"newPauser","internalType":"address","type":"address","indexed":false}],"name":"PauserUpdated"}]

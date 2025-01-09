@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"rowIndex","internalType":"uint256","type":"uint256","indexed":true},{"name":"fullRow","internalType":"uint256","type":"uint256","indexed":false},{"name":"sender","internalType":"address","type":"address","indexed":false}],"name":"RecipientStatusUpdated"}]

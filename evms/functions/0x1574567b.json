@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_tradeCooldown","internalType":"uint8","type":"uint8"}],"name":"setCooldownForTrades","outputs":[],"stateMutability":"nonpayable"}]

@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"listId","type":"uint256","indexed":false},{"name":"closer","type":"address","indexed":true}],"name":"NFTClosed"}]

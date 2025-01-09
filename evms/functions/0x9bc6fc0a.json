@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_index","internalType":"uint256","type":"uint256"},{"name":"_enabled","internalType":"bool","type":"bool"}],"name":"updateTransaction","outputs":[],"stateMutability":"nonpayable"}]

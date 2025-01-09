@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"_checksum","internalType":"bytes32","type":"bytes32","indexed":true},{"name":"metadata","internalType":"bytes","type":"bytes","indexed":false},{"name":"_chunkPointers","internalType":"bytes32[]","type":"bytes32[]","indexed":false}],"name":"FileCreated"}]

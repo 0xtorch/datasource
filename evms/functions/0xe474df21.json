@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"user","internalType":"address","type":"address"}],"name":"yourXFIBalance","outputs":[{"name":"XFIBalance","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

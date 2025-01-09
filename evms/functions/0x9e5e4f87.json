@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_stakeAmountLPLv1","internalType":"uint256","type":"uint256"},{"name":"_stakeAmountLPLv2","internalType":"uint256","type":"uint256"}],"name":"setAmountLPStakeLevelRefer","outputs":[],"stateMutability":"nonpayable"}]

@@ -1,0 +1,1 @@
+[{"type":"function","constant":true,"inputs":[{"name":"_owner","internalType":"","type":"address"},{"name":"_operator","internalType":"","type":"address"}],"name":"isPermissionSetAll","outputs":[{"name":"","internalType":"","type":"bool"}],"payable":false,"stateMutability":"view"}]

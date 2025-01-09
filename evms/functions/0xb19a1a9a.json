@@ -1,0 +1,1 @@
+[{"type":"function","constant":false,"inputs":[{"name":"newCounterParty","internalType":"address payable","type":"address"}],"name":"_setCounterParty","outputs":[],"payable":false,"stateMutability":"nonpayable"}]

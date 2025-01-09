@@ -1,0 +1,1 @@
+[{"type":"function","constant":true,"inputs":[],"name":"marketDebt","outputs":[{"name":"debt","internalType":"uint256","type":"uint256"},{"name":"invalid","internalType":"bool","type":"bool"}],"payable":false,"stateMutability":"view"}]

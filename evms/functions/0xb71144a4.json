@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"farmingAllocation_","internalType":"uint256","type":"uint256"},{"name":"legacyAllocation_","internalType":"uint256","type":"uint256"}],"name":"updateAllocations","outputs":[],"stateMutability":"nonpayable"}]

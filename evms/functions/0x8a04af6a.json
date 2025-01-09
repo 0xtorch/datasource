@@ -1,0 +1,1 @@
+[{"type":"function","constant":false,"inputs":[{"name":"metaTransactionProcessor","type":"address"},{"name":"enabled","type":"bool"}],"name":"setMetaTransactionProcessor","outputs":[],"payable":false,"stateMutability":"nonpayable"}]

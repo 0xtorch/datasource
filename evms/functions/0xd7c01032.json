@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_autoLiquidityReceiver","internalType":"address","type":"address"},{"name":"_marketingFeeReceiver","internalType":"address","type":"address"},{"name":"_treasuryFeeReceiver","internalType":"address","type":"address"}],"name":"setFeeReceivers","outputs":[],"stateMutability":"nonpayable"}]

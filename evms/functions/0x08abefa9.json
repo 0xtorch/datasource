@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_loanType","internalType":"bytes32","type":"bytes32"}],"name":"getContractFromType","outputs":[{"name":"","internalType":"address","type":"address"}],"stateMutability":"view"}]

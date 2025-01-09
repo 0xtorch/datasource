@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_erc1155Address","internalType":"address","type":"address"},{"name":"_fractionId","internalType":"uint256","type":"uint256"},{"name":"_pixelIds","internalType":"uint256[]","type":"uint256[]"}],"name":"claim","outputs":[],"stateMutability":"nonpayable"}]

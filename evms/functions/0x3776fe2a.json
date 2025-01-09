@@ -1,0 +1,1 @@
+[{"type":"function","constant":false,"inputs":[{"name":"verifier","internalType":"address","type":"address"},{"name":"identifier","internalType":"string","type":"string"}],"name":"registerVerifier","outputs":[],"payable":false,"stateMutability":"nonpayable"}]

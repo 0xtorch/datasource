@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_donations","internalType":"struct BulkCheckout.Donation[]","type":"tuple[]","components":[{"name":"token","internalType":"address","type":"address"},{"name":"amount","internalType":"uint256","type":"uint256"},{"name":"dest","internalType":"address payable","type":"address"}]}],"name":"donate","outputs":[],"stateMutability":"payable"}]

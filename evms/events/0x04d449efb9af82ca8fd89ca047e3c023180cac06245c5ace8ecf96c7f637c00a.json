@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"previousTWAPOracle","internalType":"address","type":"address","indexed":true},{"name":"newTWAPOracle","internalType":"address","type":"address","indexed":true}],"name":"TWAPOracleChanged"}]

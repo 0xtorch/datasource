@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"agreementHash","internalType":"bytes32","type":"bytes32"},{"name":"duration","internalType":"uint64","type":"uint64"},{"name":"validUntil","internalType":"uint64","type":"uint64"},{"name":"approvalSig","internalType":"bytes","type":"bytes"}],"name":"extendAgreement","outputs":[],"stateMutability":"payable"}]

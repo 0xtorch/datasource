@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"stablecoin","internalType":"contract IERC20","type":"address"}],"name":"allowStablecoin","outputs":[],"stateMutability":"nonpayable"}]

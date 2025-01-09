@@ -1,0 +1,1 @@
+[{"type":"function","constant":true,"inputs":[{"name":"marketId","type":"uint256"}],"name":"getMarketInterestSetter","outputs":[{"name":"","type":"address"}],"payable":false,"stateMutability":"view"}]

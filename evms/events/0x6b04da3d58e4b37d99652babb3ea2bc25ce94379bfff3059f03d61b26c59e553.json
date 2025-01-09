@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"oldMaintainerFeeRate","internalType":"uint256","type":"uint256","indexed":false},{"name":"newMaintainerFeeRate","internalType":"uint256","type":"uint256","indexed":false}],"name":"UpdateMaintainerFeeRate"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"time","internalType":"uint256","type":"uint256"}],"name":"priceAtTime","outputs":[{"name":"","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

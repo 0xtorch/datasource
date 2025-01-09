@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_endIndex","internalType":"uint256","type":"uint256"},{"name":"_executionFeeReceiver","internalType":"address payable","type":"address"}],"name":"executeIncreasePositions","outputs":[],"stateMutability":"nonpayable"}]

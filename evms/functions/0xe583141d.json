@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"nftContract","internalType":"address","type":"address"},{"name":"payer","internalType":"address","type":"address"}],"name":"getPayerIsAllowed","outputs":[{"name":"","internalType":"bool","type":"bool"}],"stateMutability":"view"}]

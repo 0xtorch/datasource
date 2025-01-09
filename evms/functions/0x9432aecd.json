@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"certificateId","internalType":"uint256","type":"uint256"}],"name":"burnableAt","outputs":[{"name":"","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

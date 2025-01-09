@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"orderHash","internalType":"bytes32","type":"bytes32"},{"name":"txHash","internalType":"bytes32","type":"bytes32"}],"name":"confirmRedeem","outputs":[],"stateMutability":"nonpayable"}]

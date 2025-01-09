@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"planIds","internalType":"uint256[]","type":"uint256[]"},{"name":"delegatees","internalType":"address[]","type":"address[]"}],"name":"delegatePlans","outputs":[],"stateMutability":"nonpayable"}]

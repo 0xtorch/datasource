@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"staker","internalType":"address","type":"address"},{"name":"token","internalType":"contract IERC20","type":"address"},{"name":"strategy","internalType":"contract IStrategy","type":"address"},{"name":"shares","internalType":"uint256","type":"uint256"}],"name":"addShares","outputs":[],"stateMutability":"nonpayable"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"section","internalType":"uint256","type":"uint256"},{"name":"isShriekingChickSection","internalType":"bool","type":"bool"}],"name":"updateShriekingChickSection","outputs":[],"stateMutability":"nonpayable"}]

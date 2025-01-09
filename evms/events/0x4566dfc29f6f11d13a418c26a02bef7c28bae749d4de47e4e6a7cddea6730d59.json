@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"provider","type":"address","indexed":true},{"name":"value","type":"uint256","indexed":false},{"name":"locktime","type":"uint256","indexed":true},{"name":"type","type":"int128","indexed":false},{"name":"ts","type":"uint256","indexed":false}],"name":"Deposit"}]

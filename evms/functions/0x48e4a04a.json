@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"to_","internalType":"address","type":"address"},{"name":"amount_","internalType":"uint256","type":"uint256"}],"name":"fallbackWithdraw","outputs":[],"stateMutability":"nonpayable"}]

@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"_pToken","internalType":"contract IERC20","type":"address","indexed":true},{"name":"_pTo","internalType":"address","type":"address","indexed":false}],"name":"EEmerERC20Tokens"}]

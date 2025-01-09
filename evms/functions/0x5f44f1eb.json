@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_renderer","internalType":"address","type":"address"},{"name":"_signature","internalType":"bytes","type":"bytes"}],"name":"setRenderer","outputs":[],"stateMutability":"nonpayable"}]

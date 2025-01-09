@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"tokenId","internalType":"uint256","type":"uint256"},{"name":"durability","internalType":"uint256","type":"uint256"}],"name":"reduceDurability","outputs":[],"stateMutability":"nonpayable"}]

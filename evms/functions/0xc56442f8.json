@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"newTransferLockMaxId","internalType":"uint16","type":"uint16"},{"name":"timestamp","internalType":"uint64","type":"uint64"}],"name":"updateTransferLock","outputs":[],"stateMutability":"nonpayable"}]

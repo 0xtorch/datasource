@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"origin","internalType":"uint32","type":"uint32","indexed":true},{"name":"sender","internalType":"bytes32","type":"bytes32","indexed":true},{"name":"recipient","internalType":"address","type":"address","indexed":true}],"name":"Process"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"account","internalType":"address","type":"address"},{"name":"isSponsor","internalType":"bool","type":"bool"}],"name":"setIsLiqudiitySponsor","outputs":[],"stateMutability":"nonpayable"}]

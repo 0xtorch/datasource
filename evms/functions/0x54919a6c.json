@@ -1,0 +1,1 @@
+[{"type":"function","constant":false,"inputs":[{"name":"dests","type":"address[]"},{"name":"value","type":"uint256"}],"name":"sendTokensSingleValue","outputs":[],"payable":false,"stateMutability":"nonpayable"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"account_","internalType":"address","type":"address"},{"name":"isLimitExempt_","internalType":"bool","type":"bool"}],"name":"setIsLimitExempt","outputs":[],"stateMutability":"nonpayable"}]

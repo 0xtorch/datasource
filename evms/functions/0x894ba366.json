@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_authorisedProxyAddresses","internalType":"address[]","type":"address[]"}],"name":"setAuthedProxyAddresses","outputs":[],"stateMutability":"nonpayable"}]

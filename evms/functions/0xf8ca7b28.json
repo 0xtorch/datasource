@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"topic","internalType":"string","type":"string"},{"name":"message","internalType":"string","type":"string"}],"name":"broadcast","outputs":[],"stateMutability":"nonpayable"}]

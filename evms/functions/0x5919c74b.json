@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"account_","internalType":"address","type":"address"},{"name":"text_","internalType":"string","type":"string"}],"name":"adminMint","outputs":[],"stateMutability":"nonpayable"}]

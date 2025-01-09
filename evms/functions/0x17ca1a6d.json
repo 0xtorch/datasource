@@ -1,0 +1,1 @@
+[{"type":"function","constant":true,"inputs":[{"name":"_owner","type":"address"}],"name":"getCrystalsSummary","outputs":[{"name":"amounts","type":"uint256[]"},{"name":"weights","type":"uint256[]"}],"payable":false,"stateMutability":"view"}]

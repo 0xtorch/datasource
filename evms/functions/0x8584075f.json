@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_positionID","internalType":"uint96","type":"uint96"},{"name":"_marginDelta","internalType":"int128","type":"int128"},{"name":"_receiver","internalType":"address","type":"address"}],"name":"adjustLiquidityPositionMargin","outputs":[],"stateMutability":"nonpayable"}]

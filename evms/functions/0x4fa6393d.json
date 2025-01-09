@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"depositToken","internalType":"uint256","type":"uint256"},{"name":"depositAmount","internalType":"uint256","type":"uint256"}],"name":"depositGivenInputAmount","outputs":[{"name":"mintAmount","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

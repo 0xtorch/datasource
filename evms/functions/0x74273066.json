@@ -1,0 +1,1 @@
+[{"type":"function","constant":true,"inputs":[{"name":"_landType","type":"uint16"}],"name":"getMintedSectorList","outputs":[{"name":"","type":"uint256[]"}],"payable":false,"stateMutability":"view"}]

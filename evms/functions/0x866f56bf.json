@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"","internalType":"address","type":"address"}],"name":"sftInfos","outputs":[{"name":"manager","internalType":"address","type":"address"},{"name":"isValid","internalType":"bool","type":"bool"}],"stateMutability":"view"}]

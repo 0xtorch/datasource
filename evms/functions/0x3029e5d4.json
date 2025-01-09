@@ -1,0 +1,1 @@
+[{"type":"function","constant":false,"inputs":[{"name":"stable","internalType":"bool","type":"bool"},{"name":"expectedReserve0","internalType":"uint112","type":"uint112"},{"name":"expectedReserve1","internalType":"uint112","type":"uint112"}],"name":"setStableSwap","outputs":[],"payable":false,"stateMutability":"nonpayable"}]

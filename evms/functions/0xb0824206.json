@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"postId","internalType":"string","type":"string"},{"name":"isSBT","internalType":"bool","type":"bool"}],"name":"setIsSBT","outputs":[],"stateMutability":"nonpayable"}]

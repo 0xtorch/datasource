@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"fundManager","type":"address","indexed":false}],"name":"SetFundManager"}]

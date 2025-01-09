@@ -1,0 +1,1 @@
+[{"type":"function","constant":true,"inputs":[{"name":"_addr","type":"address"},{"name":"_value","type":"uint256"}],"name":"hasEnoughBalance","outputs":[{"name":"has_enough_balance","type":"bool"}],"payable":false,"stateMutability":"view"}]

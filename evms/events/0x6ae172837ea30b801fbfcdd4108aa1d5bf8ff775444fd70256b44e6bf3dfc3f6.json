@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"_minter","internalType":"","type":"address","indexed":true}],"name":"MinterAdded"},{"type":"event","anonymous":false,"inputs":[{"name":"pool_address","internalType":"address","type":"address","indexed":false}],"name":"MinterAdded"}]

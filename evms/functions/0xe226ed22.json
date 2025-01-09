@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_tokenId","internalType":"uint256","type":"uint256"},{"name":"_erc20Contract","internalType":"address","type":"address"}],"name":"balanceOfERC20","outputs":[{"name":"","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

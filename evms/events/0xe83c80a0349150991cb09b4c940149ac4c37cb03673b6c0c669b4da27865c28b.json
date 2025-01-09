@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"_gauge_manager","type":"address","indexed":false}],"name":"SetGaugeManager"}]

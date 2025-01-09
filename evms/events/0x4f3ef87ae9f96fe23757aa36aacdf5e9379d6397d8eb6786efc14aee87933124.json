@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"NewNotifier","internalType":"address","type":"address","indexed":false},{"name":"oldNotifier","internalType":"address","type":"address","indexed":false}],"name":"NewNotifier"}]

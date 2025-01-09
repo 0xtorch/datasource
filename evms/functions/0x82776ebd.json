@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"sender","internalType":"address","type":"address"},{"name":"quantity","internalType":"uint256","type":"uint256"}],"name":"mintHalloweenGhostSet","outputs":[],"stateMutability":"nonpayable"}]

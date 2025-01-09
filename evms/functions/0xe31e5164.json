@@ -1,0 +1,1 @@
+[{"type":"function","constant":false,"inputs":[{"name":"_receiver","type":"address"},{"name":"_amount","type":"uint256"},{"name":"_token","type":"address"}],"name":"relayTokens","outputs":[],"payable":false,"stateMutability":"nonpayable"}]

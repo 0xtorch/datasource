@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"m","internalType":"string","type":"string"},{"name":"s","internalType":"string","type":"string"},{"name":"cellsInput","internalType":"bytes","type":"bytes"}],"name":"logLeniaParams","outputs":[],"stateMutability":"nonpayable"}]

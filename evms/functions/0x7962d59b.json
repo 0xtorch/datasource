@@ -1,0 +1,1 @@
+[{"type":"function","constant":false,"inputs":[{"name":"from","internalType":"address","type":"address"},{"name":"to","internalType":"address","type":"address"},{"name":"tokenIDs","internalType":"uint256[]","type":"uint256[]"}],"name":"safeTransferAllFrom","outputs":[],"payable":false,"stateMutability":"nonpayable"}]

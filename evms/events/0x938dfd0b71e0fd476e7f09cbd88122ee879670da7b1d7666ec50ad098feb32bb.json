@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"roles","internalType":"bytes32[]","type":"bytes32[]","indexed":true},{"name":"account","internalType":"address","type":"address","indexed":true},{"name":"block","internalType":"uint256","type":"uint256","indexed":true}],"name":"GrantRequestInitiated"}]

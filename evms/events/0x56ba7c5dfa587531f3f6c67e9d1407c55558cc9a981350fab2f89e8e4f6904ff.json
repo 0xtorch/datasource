@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"pos","internalType":"address","type":"address","indexed":false},{"name":"_priceThreshold","internalType":"uint256","type":"uint256","indexed":false}],"name":"PriceThresholdPosSet"}]

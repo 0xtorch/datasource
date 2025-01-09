@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_from","internalType":"address","type":"address"},{"name":"_time","internalType":"int64","type":"int64"},{"name":"_support","internalType":"uint256","type":"uint256"},{"name":"_signature","internalType":"bytes","type":"bytes"}],"name":"validateSig","outputs":[{"name":"","internalType":"bool","type":"bool"}],"stateMutability":"view"}]

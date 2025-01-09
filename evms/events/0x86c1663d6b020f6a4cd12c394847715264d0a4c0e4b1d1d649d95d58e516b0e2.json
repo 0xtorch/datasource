@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"prevThronePerSecond","internalType":"uint256","type":"uint256","indexed":false},{"name":"thronePerSecond","internalType":"uint256","type":"uint256","indexed":false}],"name":"SetThronePerBlock"}]

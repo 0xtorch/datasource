@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"burnTokenIds","internalType":"uint256[]","type":"uint256[]"},{"name":"allowedAmount","internalType":"uint256","type":"uint256"},{"name":"merkleProof","internalType":"bytes32[]","type":"bytes32[]"}],"name":"exchange","outputs":[],"stateMutability":"payable"}]

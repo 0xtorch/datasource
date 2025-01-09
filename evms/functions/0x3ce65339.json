@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_damage","internalType":"uint256","type":"uint256"},{"name":"_antIds","internalType":"uint256[]","type":"uint256[]"},{"name":"_bossId","internalType":"uint256","type":"uint256"}],"name":"hitBossBatch","outputs":[],"stateMutability":"nonpayable"}]

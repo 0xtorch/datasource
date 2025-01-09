@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"mechanicVectorId","internalType":"bytes32","type":"bytes32"},{"name":"vectorData","internalType":"bytes","type":"bytes"}],"name":"createVector","outputs":[],"stateMutability":"nonpayable"}]

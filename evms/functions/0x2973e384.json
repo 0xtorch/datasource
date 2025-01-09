@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"adminAddr","internalType":"address","type":"address"},{"name":"actived","internalType":"uint256","type":"uint256"}],"name":"setGameAdmin","outputs":[],"stateMutability":"nonpayable"}]

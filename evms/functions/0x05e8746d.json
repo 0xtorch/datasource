@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[],"name":"getTokenX","outputs":[{"name":"tokenX","internalType":"contract IERC20","type":"address"}],"stateMutability":"pure"}]

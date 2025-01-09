@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"provider","internalType":"contract IPriceProvider","type":"address","indexed":false},{"name":"swapper","internalType":"contract ISwapper","type":"address","indexed":false}],"name":"SwapperConfigured"}]

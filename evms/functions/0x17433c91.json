@@ -1,0 +1,1 @@
+[{"type":"function","constant":false,"inputs":[{"name":"_sportVault","internalType":"address","type":"address"},{"name":"value","internalType":"bool","type":"bool"}],"name":"setSupportedSportVault","outputs":[],"payable":false,"stateMutability":"nonpayable"}]

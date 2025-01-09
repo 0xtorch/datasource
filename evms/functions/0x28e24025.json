@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_holder","internalType":"address","type":"address"},{"name":"_enabled","internalType":"bool","type":"bool"},{"name":"_minBal","internalType":"int128","type":"int128"}],"name":"setWhiteListRecord","outputs":[{"name":"","internalType":"bool","type":"bool"}],"stateMutability":"nonpayable"}]

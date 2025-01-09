@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"collectionId","internalType":"uint256","type":"uint256"},{"name":"indices","internalType":"uint8[]","type":"uint8[]"}],"name":"getAttributesValuesForAttestationsCollection","outputs":[{"name":"","internalType":"uint8[]","type":"uint8[]"}],"stateMutability":"view"}]

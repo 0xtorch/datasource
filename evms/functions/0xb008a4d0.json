@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"ids","internalType":"uint256[]","type":"uint256[]"},{"name":"costs","internalType":"uint256[]","type":"uint256[]"},{"name":"nextRarities","internalType":"uint256[]","type":"uint256[]"}],"name":"add","outputs":[],"stateMutability":"nonpayable"}]

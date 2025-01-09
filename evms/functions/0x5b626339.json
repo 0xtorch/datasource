@@ -1,0 +1,1 @@
+[{"type":"function","constant":true,"inputs":[{"name":"_classId","type":"uint32"},{"name":"_type","type":"uint8"},{"name":"index","type":"uint256"}],"name":"getClassPropertyValue","outputs":[{"name":"","type":"uint32"}],"payable":false,"stateMutability":"view"}]

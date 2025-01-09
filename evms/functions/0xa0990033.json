@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"minter","internalType":"address","type":"address"},{"name":"user","internalType":"address","type":"address"}],"name":"allowed_to_mint_for","outputs":[{"name":"","internalType":"bool","type":"bool"}],"stateMutability":"view"}]

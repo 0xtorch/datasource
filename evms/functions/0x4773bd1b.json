@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_token","internalType":"address","type":"address"},{"name":"_usdlAmount","internalType":"uint256","type":"uint256"}],"name":"getBuyUsdlFeeBasisPoints","outputs":[{"name":"","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

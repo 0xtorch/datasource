@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"subscriptionOrRegistrantToCopy","internalType":"address","type":"address"},{"name":"subscribe","internalType":"bool","type":"bool"},{"name":"copyEntries","internalType":"bool","type":"bool"}],"name":"updateRegistrySubscription","outputs":[],"stateMutability":"nonpayable"}]

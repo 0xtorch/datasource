@@ -1,0 +1,1 @@
+[{"type":"function","constant":true,"inputs":[{"name":"_tokenId","type":"uint256"}],"name":"tokenListingDetails","outputs":[{"name":"_price","type":"uint256"},{"name":"_lister","type":"address"},{"name":"_currentOwner","type":"address"}],"payable":false,"stateMutability":"view"}]

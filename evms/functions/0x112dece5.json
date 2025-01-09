@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"admin","internalType":"address","type":"address"},{"name":"minters","internalType":"address[]","type":"address[]"},{"name":"burners","internalType":"address[]","type":"address[]"},{"name":"uri_","internalType":"string","type":"string"}],"name":"initialize","outputs":[],"stateMutability":"nonpayable"}]

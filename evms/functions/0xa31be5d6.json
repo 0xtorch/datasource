@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"","internalType":"Id","type":"bytes32"}],"name":"pendingCap","outputs":[{"name":"value","internalType":"uint192","type":"uint192"},{"name":"validAt","internalType":"uint64","type":"uint64"}],"stateMutability":"view"}]

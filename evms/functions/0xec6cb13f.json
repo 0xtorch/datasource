@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"orderUid","internalType":"bytes","type":"bytes"},{"name":"signed","internalType":"bool","type":"bool"}],"name":"setPreSignature","outputs":[],"stateMutability":"nonpayable"}]

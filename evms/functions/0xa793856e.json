@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"box_id","internalType":"uint256","type":"uint256"},{"name":"cursor","internalType":"uint256","type":"uint256"},{"name":"amount","internalType":"uint256","type":"uint256"}],"name":"getNftListForSale","outputs":[{"name":"nft_id_list","internalType":"uint256[]","type":"uint256[]"}],"stateMutability":"view"}]

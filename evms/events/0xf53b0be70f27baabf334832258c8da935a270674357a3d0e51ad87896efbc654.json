@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"oldIterations","internalType":"uint256","type":"uint256","indexed":false},{"name":"newIterations","internalType":"uint256","type":"uint256","indexed":false}],"name":"UpdateTradeIterations"}]

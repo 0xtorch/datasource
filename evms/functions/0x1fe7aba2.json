@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"tubbyMilady","internalType":"address","type":"address"}],"name":"holdsMiladyOrTubby","outputs":[{"name":"","internalType":"bool","type":"bool"}],"stateMutability":"view"}]

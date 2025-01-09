@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"heartbeatOld","internalType":"uint256","type":"uint256","indexed":false},{"name":"heartbeatNew","internalType":"uint256","type":"uint256","indexed":false}],"name":"UpdateHeartbeat"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"amount","internalType":"uint256","type":"uint256"}],"name":"claimMasterRewards","outputs":[{"name":"effectiveAmount","internalType":"uint256","type":"uint256"}],"stateMutability":"nonpayable"}]

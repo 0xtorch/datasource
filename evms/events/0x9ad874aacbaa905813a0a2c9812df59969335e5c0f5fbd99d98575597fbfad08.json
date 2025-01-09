@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"oldDebt","internalType":"uint256","type":"uint256","indexed":false},{"name":"newDebt","internalType":"uint256","type":"uint256","indexed":false}],"name":"DebtChanged"}]

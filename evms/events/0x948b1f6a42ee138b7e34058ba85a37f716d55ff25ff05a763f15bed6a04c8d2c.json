@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"implementation","internalType":"uint256","type":"uint256","indexed":false}],"name":"NewDelay"},{"type":"event","anonymous":false,"inputs":[{"name":"newDelay","internalType":"uint256","type":"uint256","indexed":true}],"name":"NewDelay"}]

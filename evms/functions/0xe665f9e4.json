@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"assetId","internalType":"bytes6","type":"bytes6"},{"name":"asset","internalType":"address","type":"address"}],"name":"addAsset","outputs":[],"stateMutability":"nonpayable"}]

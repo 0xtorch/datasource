@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"integration","internalType":"address","type":"address"},{"name":"set","internalType":"bool","type":"bool"}],"name":"addIntegration","outputs":[],"stateMutability":"nonpayable"}]

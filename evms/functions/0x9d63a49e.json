@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_tokenId","internalType":"uint256[]","type":"uint256[]"}],"name":"getStakeStartTimestamp_array","outputs":[{"name":"stakedTimestamp","internalType":"uint256[]","type":"uint256[]"}],"stateMutability":"view"}]

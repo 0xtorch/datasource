@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"trader","internalType":"address","type":"address"},{"name":"pairIndex","internalType":"uint256","type":"uint256"},{"name":"index","internalType":"uint256","type":"uint256"},{"name":"long","internalType":"bool","type":"bool"}],"name":"storeTradeInitialAccFees","outputs":[],"stateMutability":"nonpayable"}]

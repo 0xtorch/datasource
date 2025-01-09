@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"oldOperator","internalType":"address","type":"address"},{"name":"newOperator","internalType":"address","type":"address"}],"name":"changeOperator","outputs":[],"stateMutability":"nonpayable"}]

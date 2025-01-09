@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"account","internalType":"address","type":"address"},{"name":"isGenFunction","internalType":"bool","type":"bool"}],"name":"setNewCall","outputs":[],"stateMutability":"nonpayable"}]

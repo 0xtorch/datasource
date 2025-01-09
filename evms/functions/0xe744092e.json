@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"allowedToken","internalType":"address","type":"address"}],"name":"allowedTokens","outputs":[{"name":"isAllowed","internalType":"bool","type":"bool"}],"stateMutability":"view"}]

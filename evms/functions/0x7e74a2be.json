@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_adapterManager","internalType":"address","type":"address"},{"name":"_autoExecutor","internalType":"address","type":"address"},{"name":"_data","internalType":"bytes","type":"bytes"}],"name":"createSubAccount","outputs":[{"name":"newAccount","internalType":"address","type":"address"}],"stateMutability":"payable"}]

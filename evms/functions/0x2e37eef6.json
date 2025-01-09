@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"","internalType":"uint256","type":"uint256"}],"name":"phases","outputs":[{"name":"supply","internalType":"uint256","type":"uint256"},{"name":"merkleRoot","internalType":"bytes32","type":"bytes32"},{"name":"tokenURI","internalType":"string","type":"string"}],"stateMutability":"view"}]

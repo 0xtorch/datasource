@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[],"name":"createAccount","outputs":[{"name":"account","internalType":"address payable","type":"address"}],"stateMutability":"nonpayable"}]

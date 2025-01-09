@@ -1,0 +1,1 @@
+[{"type":"function","constant":false,"inputs":[{"name":"_feePercent","type":"uint8"}],"name":"setFeePercent","outputs":[],"payable":false,"stateMutability":"nonpayable"}]

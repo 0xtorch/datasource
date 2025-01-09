@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_l2Oracle","internalType":"contract L2OutputOracle","type":"address"},{"name":"_guardian","internalType":"address","type":"address"},{"name":"_systemConfig","internalType":"contract SystemConfig","type":"address"},{"name":"_paused","internalType":"bool","type":"bool"}],"name":"initialize","outputs":[],"stateMutability":"nonpayable"}]

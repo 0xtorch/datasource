@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"proposalId","internalType":"uint256","type":"uint256"},{"name":"support","internalType":"uint8","type":"uint8"},{"name":"numVotes","internalType":"uint256","type":"uint256"}],"name":"castVoteWithoutProof","outputs":[{"name":"","internalType":"uint256","type":"uint256"}],"stateMutability":"payable"}]

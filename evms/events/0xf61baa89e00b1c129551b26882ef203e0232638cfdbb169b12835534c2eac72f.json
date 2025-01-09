@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"user","internalType":"address","type":"address","indexed":true},{"name":"surfLiquidity","internalType":"uint256","type":"uint256","indexed":false},{"name":"ethLiquidity","internalType":"uint256","type":"uint256","indexed":false}],"name":"SurfPoolActive"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_withdrawLockupEpochs","internalType":"uint256","type":"uint256"},{"name":"_rewardLockupEpochs","internalType":"uint256","type":"uint256"}],"name":"masonrySetLockUp","outputs":[],"stateMutability":"nonpayable"}]

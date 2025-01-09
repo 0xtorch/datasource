@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"nftContract","internalType":"address","type":"address","indexed":true},{"name":"feeRecipient","internalType":"address","type":"address","indexed":true},{"name":"allowed","internalType":"bool","type":"bool","indexed":true}],"name":"AllowedFeeRecipientUpdated"}]

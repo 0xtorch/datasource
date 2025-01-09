@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"newReceiver","internalType":"address","type":"address","indexed":false},{"name":"oldReceiver","internalType":"address","type":"address","indexed":false}],"name":"ReceiverPriceFeedUpdated"}]

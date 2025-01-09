@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"","internalType":"bytes32","type":"bytes32"}],"name":"alerts","outputs":[{"name":"voteCount","internalType":"uint128","type":"uint128"},{"name":"expiry","internalType":"uint40","type":"uint40"},{"name":"resetCount","internalType":"uint16","type":"uint16"},{"name":"isActive","internalType":"bool","type":"bool"}],"stateMutability":"view"}]

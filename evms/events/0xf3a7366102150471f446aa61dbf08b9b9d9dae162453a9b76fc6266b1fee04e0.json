@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"oldCoolDownPeriod","internalType":"uint256","type":"uint256","indexed":false},{"name":"newCoolDownPeriod","internalType":"uint256","type":"uint256","indexed":false}],"name":"CoolDownPeriodUpdated"}]

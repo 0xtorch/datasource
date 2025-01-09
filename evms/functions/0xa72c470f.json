@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_enableAutoInstantClaim","internalType":"bool","type":"bool"},{"name":"_disallowOthersClaimForMe","internalType":"bool","type":"bool"}],"name":"configureClaimReward","outputs":[],"stateMutability":"nonpayable"}]

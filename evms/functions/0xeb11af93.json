@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_recipientId","internalType":"address","type":"address"}],"name":"getRecipientStatus","outputs":[{"name":"","internalType":"enum IStrategy.Status","type":"uint8"}],"stateMutability":"view"}]

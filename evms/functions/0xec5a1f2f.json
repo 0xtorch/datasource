@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_index","internalType":"contract IIndexSwap","type":"address"},{"name":"_tokenAmount","internalType":"uint256","type":"uint256"}],"name":"calculateSwapAmountsOffChain","outputs":[{"name":"swapAmount","internalType":"uint256[]","type":"uint256[]"}],"stateMutability":"nonpayable"}]

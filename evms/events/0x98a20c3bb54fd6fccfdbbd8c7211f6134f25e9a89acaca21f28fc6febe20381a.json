@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"gauge","internalType":"address","type":"address","indexed":true},{"name":"plus","internalType":"bool","type":"bool","indexed":false},{"name":"gaugeWeight","internalType":"uint256","type":"uint256","indexed":false},{"name":"gaugeRate","internalType":"uint256","type":"uint256","indexed":false}],"name":"GaugeAdded"}]

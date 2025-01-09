@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"uri_","internalType":"string","type":"string"},{"name":"identical","internalType":"bool","type":"bool"}],"name":"setBaseTokenURIExtension","outputs":[],"stateMutability":"nonpayable"}]

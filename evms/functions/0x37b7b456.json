@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"tokenId","internalType":"uint256","type":"uint256"},{"name":"selectedSymbols","internalType":"bytes16","type":"bytes16"}],"name":"setSymbols","outputs":[],"stateMutability":"nonpayable"}]

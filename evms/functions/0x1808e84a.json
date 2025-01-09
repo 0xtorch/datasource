@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_amount","type":"uint256"},{"name":"min_amounts","type":"uint256[2]"},{"name":"use_eth","type":"bool"},{"name":"receiver","type":"address"}],"name":"remove_liquidity","outputs":[],"stateMutability":"nonpayable"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[],"name":"getReservesAndId","outputs":[{"name":"reserveX","internalType":"uint256","type":"uint256"},{"name":"reserveY","internalType":"uint256","type":"uint256"},{"name":"activeId","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

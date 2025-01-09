@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"oldVersion","internalType":"uint64","type":"uint64","indexed":true},{"name":"newVersion","internalType":"uint64","type":"uint64","indexed":true}],"name":"VersionUpdate"}]

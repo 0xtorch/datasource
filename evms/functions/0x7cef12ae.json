@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"asset","internalType":"address","type":"address"},{"name":"user","internalType":"address","type":"address"}],"name":"userAssociatedNonces","outputs":[{"name":"_begin","internalType":"uint128","type":"uint128"},{"name":"_end","internalType":"uint128","type":"uint128"}],"stateMutability":"view"}]

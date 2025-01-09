@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_recipients","internalType":"address[]","type":"address[]"},{"name":"_expirationTimestamps","internalType":"uint256[]","type":"uint256[]"},{"name":"_keyManagers","internalType":"address[]","type":"address[]"}],"name":"grantKeys","outputs":[{"name":"","internalType":"uint256[]","type":"uint256[]"}],"stateMutability":"nonpayable"}]

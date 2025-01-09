@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_srcEid","internalType":"uint32","type":"uint32"},{"name":"_credits","internalType":"struct Credit[]","type":"tuple[]","components":[{"name":"srcEid","internalType":"uint32","type":"uint32"},{"name":"amount","internalType":"uint64","type":"uint64"}]}],"name":"receiveCredits","outputs":[],"stateMutability":"nonpayable"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_wron","internalType":"contract IWRON","type":"address"},{"name":"_wronHelper","internalType":"contract IWRONHelper","type":"address"}],"name":"setWRONConfig","outputs":[],"stateMutability":"nonpayable"}]

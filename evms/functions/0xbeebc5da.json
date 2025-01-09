@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_investmentAmount","internalType":"uint256","type":"uint256"},{"name":"_minSharesQuantity","internalType":"uint256","type":"uint256"}],"name":"buyShares","outputs":[{"name":"sharesReceived_","internalType":"uint256","type":"uint256"}],"stateMutability":"nonpayable"}]

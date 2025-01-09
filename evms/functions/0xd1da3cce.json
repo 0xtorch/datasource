@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"","internalType":"bytes32","type":"bytes32"}],"name":"royaltiesByTokenAndTokenId","outputs":[{"name":"initialized","internalType":"bool","type":"bool"}],"stateMutability":"view"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"isBluePill","internalType":"bool","type":"bool"},{"name":"isVela","internalType":"bool","type":"bool"}],"name":"claim","outputs":[],"stateMutability":"nonpayable"}]

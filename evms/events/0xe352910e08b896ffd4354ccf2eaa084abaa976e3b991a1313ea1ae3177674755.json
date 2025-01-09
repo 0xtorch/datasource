@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"pToken","internalType":"address","type":"address","indexed":false},{"name":"previousStatus","internalType":"bool","type":"bool","indexed":false},{"name":"newStatus","internalType":"bool","type":"bool","indexed":false}],"name":"PTokenFrozen"}]

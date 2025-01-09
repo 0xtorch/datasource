@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_compound","internalType":"bool","type":"bool"},{"name":"_proof","internalType":"bytes32[]","type":"bytes32[]"}],"name":"zapToGlpEth","outputs":[{"name":"","internalType":"uint256","type":"uint256"}],"stateMutability":"payable"}]

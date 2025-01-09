@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"tokenId721","internalType":"uint256","type":"uint256"},{"name":"nft","internalType":"address","type":"address"},{"name":"tokenId1155","internalType":"uint256","type":"uint256"}],"name":"getLocked","outputs":[{"name":"","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

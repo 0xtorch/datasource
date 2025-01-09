@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"ArtistID","internalType":"uint256","type":"uint256"},{"name":"TicketID","internalType":"uint256","type":"uint256"}],"name":"readArtistMintedTokenID","outputs":[{"name":"","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

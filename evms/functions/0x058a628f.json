@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"newAuthorizer","internalType":"contract IAuthorizer","type":"address"}],"name":"setAuthorizer","outputs":[],"stateMutability":"nonpayable"}]

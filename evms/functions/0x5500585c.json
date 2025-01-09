@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_poolId","internalType":"uint256","type":"uint256"},{"name":"_to","internalType":"address","type":"address"}],"name":"withdrawMintFee","outputs":[],"stateMutability":"nonpayable"}]

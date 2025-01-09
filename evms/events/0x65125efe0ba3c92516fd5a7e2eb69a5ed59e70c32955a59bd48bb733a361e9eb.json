@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"newGM","internalType":"address","type":"address","indexed":true},{"name":"gm","internalType":"address","type":"address","indexed":true}],"name":"RevokeGM"}]

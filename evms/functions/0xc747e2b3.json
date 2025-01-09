@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_feeConfig","internalType":"struct Automan.FeeConfig","type":"tuple","components":[{"name":"feeCollector","internalType":"address","type":"address"},{"name":"feeLimitPips","internalType":"uint96","type":"uint96"}]}],"name":"setFeeConfig","outputs":[],"stateMutability":"payable"}]

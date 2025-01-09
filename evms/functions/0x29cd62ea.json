@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"node","internalType":"bytes32","type":"bytes32"},{"name":"x","internalType":"bytes32","type":"bytes32"},{"name":"y","internalType":"bytes32","type":"bytes32"}],"name":"setPubkey","outputs":[],"stateMutability":"nonpayable"}]

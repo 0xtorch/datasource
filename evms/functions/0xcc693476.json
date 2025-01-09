@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"hexString","internalType":"string","type":"string"}],"name":"isValidHex","outputs":[{"name":"","internalType":"bool","type":"bool"}],"stateMutability":"pure"}]

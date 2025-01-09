@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_ids","internalType":"uint256[]","type":"uint256[]"},{"name":"_axiePackages","internalType":"bytes[]","type":"bytes[]"},{"name":"_axieggPackages","internalType":"bytes[]","type":"bytes[]"},{"name":"_owner","internalType":"address","type":"address"}],"name":"batchMintAxieggs","outputs":[],"stateMutability":"nonpayable"}]

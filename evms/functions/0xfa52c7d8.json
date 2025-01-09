@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"validatorAddress","internalType":"address","type":"address"}],"name":"validators","outputs":[{"name":"isValidator","internalType":"bool","type":"bool"}],"stateMutability":"view"}]

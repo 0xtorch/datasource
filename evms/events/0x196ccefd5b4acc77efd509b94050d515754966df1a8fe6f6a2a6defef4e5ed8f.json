@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"nativeChainId","internalType":"uint16","type":"uint16","indexed":true},{"name":"nativeContract","internalType":"address","type":"address","indexed":true},{"name":"wrapper","internalType":"address","type":"address","indexed":false}],"name":"NewWrappedAssets"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"","internalType":"uint64","type":"uint64"},{"name":"","internalType":"uint8","type":"uint8"}],"name":"_depositRecords","outputs":[{"name":"","internalType":"bytes","type":"bytes"}],"stateMutability":"view"}]

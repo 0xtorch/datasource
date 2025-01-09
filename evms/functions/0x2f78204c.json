@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"validatorAddr","internalType":"address","type":"address"},{"name":"newJailedUntil","internalType":"uint256","type":"uint256"},{"name":"slashAmount","internalType":"uint256","type":"uint256"},{"name":"cannotBailout","internalType":"bool","type":"bool"}],"name":"execSlash","outputs":[],"stateMutability":"nonpayable"}]

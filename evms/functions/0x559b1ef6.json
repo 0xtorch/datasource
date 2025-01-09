@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"knightId","internalType":"uint256","type":"uint256"},{"name":"itemIds","internalType":"uint256[]","type":"uint256[]"}],"name":"removeItems","outputs":[],"stateMutability":"nonpayable"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"multisig","internalType":"address","type":"address"},{"name":"timelock","internalType":"contract TimelockController","type":"address"}],"name":"reinitialize","outputs":[],"stateMutability":"nonpayable"}]

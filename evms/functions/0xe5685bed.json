@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_taxPercent","internalType":"uint256","type":"uint256"}],"name":"setSellTaxPercent","outputs":[],"stateMutability":"nonpayable"}]

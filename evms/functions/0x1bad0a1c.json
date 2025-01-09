@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"votes","internalType":"struct IUserProxy.Vote[]","type":"tuple[]","components":[{"name":"poolAddress","internalType":"address","type":"address"},{"name":"weight","internalType":"int256","type":"int256"}]}],"name":"vote","outputs":[],"stateMutability":"nonpayable"}]

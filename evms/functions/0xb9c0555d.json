@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"","internalType":"uint32","type":"uint32"},{"name":"","internalType":"bytes32","type":"bytes32"}],"name":"accepts","outputs":[{"name":"","internalType":"address","type":"address"}],"stateMutability":"view"}]

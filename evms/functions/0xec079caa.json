@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"email_","internalType":"string","type":"string"}],"name":"calcEmailHash","outputs":[{"name":"","internalType":"bytes32","type":"bytes32"}],"stateMutability":"pure"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[],"name":"votingPowerType","outputs":[{"name":"","internalType":"enum RewardRouterV2.VotingPowerType","type":"uint8"}],"stateMutability":"view"}]

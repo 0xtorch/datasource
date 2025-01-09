@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"orderId","internalType":"bytes32","type":"bytes32","indexed":false},{"name":"orderTakeFinalAmount","internalType":"uint256","type":"uint256","indexed":false}],"name":"DecreasedTakeAmount"}]

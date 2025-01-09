@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"","internalType":"address","type":"address"}],"name":"withdrawSelector","outputs":[{"name":"selector","internalType":"string","type":"string"},{"name":"isValueFirst","internalType":"bool","type":"bool"}],"stateMutability":"view"}]

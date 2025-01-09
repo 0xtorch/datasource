@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"recipient","internalType":"address","type":"address"},{"name":"role","internalType":"enum LibAccessControl.Roles","type":"uint8"}],"name":"setRole","outputs":[],"stateMutability":"nonpayable"}]

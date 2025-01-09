@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"address_","internalType":"address","type":"address"},{"name":"bool_","internalType":"bool","type":"bool"}],"name":"setBurner","outputs":[],"stateMutability":"nonpayable"}]

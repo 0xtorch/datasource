@@ -1,0 +1,1 @@
+[{"type":"function","constant":false,"inputs":[{"name":"_name","internalType":"string","type":"string"},{"name":"_symbol","internalType":"string","type":"string"},{"name":"_underlying","internalType":"address","type":"address"},{"name":"_collateral","internalType":"address","type":"address"}],"name":"_initialize","outputs":[],"payable":false,"stateMutability":"nonpayable"}]

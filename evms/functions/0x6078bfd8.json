@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"dataHash","internalType":"bytes32","type":"bytes32"}],"name":"dataFinalStateRootHashes","outputs":[{"name":"finalStateRootHash","internalType":"bytes32","type":"bytes32"}],"stateMutability":"view"}]

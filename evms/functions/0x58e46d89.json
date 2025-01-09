@@ -1,0 +1,1 @@
+[{"type":"function","gas":40092,"inputs":[{"name":"_bridge_connector","type":"address"}],"name":"set_bridge_connector","outputs":[],"stateMutability":"nonpayable"}]

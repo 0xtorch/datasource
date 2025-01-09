@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[],"name":"nodesTiersInfo","outputs":[{"name":"_rewards","internalType":"uint8[]","type":"uint8[]"},{"name":"_prices","internalType":"uint256[]","type":"uint256[]"}],"stateMutability":"view"}]

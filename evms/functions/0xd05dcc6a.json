@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"","internalType":"uint256","type":"uint256"}],"name":"attributes","outputs":[{"name":"trait_type","internalType":"string","type":"string"},{"name":"value","internalType":"string","type":"string"}],"stateMutability":"view"}]

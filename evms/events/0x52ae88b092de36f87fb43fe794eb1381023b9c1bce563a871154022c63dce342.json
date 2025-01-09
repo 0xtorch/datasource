@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"previousAvatar","internalType":"address","type":"address","indexed":true},{"name":"newAvatar","internalType":"address","type":"address","indexed":true}],"name":"AvatarSet"}]

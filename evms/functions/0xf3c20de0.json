@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"","internalType":"uint16","type":"uint16"}],"name":"tokens","outputs":[{"name":"registered","internalType":"bool","type":"bool"},{"name":"paused","internalType":"bool","type":"bool"},{"name":"tokenAddress","internalType":"address","type":"address"},{"name":"decimals","internalType":"uint8","type":"uint8"}],"stateMutability":"view"}]

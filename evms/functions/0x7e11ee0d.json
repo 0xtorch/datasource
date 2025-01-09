@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_stream","internalType":"address","type":"address"},{"name":"_value","internalType":"bool","type":"bool"}],"name":"setCallback","outputs":[],"stateMutability":"nonpayable"}]

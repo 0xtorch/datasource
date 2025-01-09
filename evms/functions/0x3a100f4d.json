@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_pairIndex","internalType":"uint256","type":"uint256"},{"name":"_leveragedPositionSize","internalType":"uint256","type":"uint256"},{"name":"_buy","internalType":"bool","type":"bool"}],"name":"openFeeP","outputs":[{"name":"","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

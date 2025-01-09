@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"burnAddress","internalType":"address","type":"address"}],"name":"setBurnAddress","outputs":[],"stateMutability":"nonpayable"}]

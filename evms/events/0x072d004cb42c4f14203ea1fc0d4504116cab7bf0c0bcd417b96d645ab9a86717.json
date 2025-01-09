@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"id","internalType":"bytes32","type":"bytes32","indexed":false},{"name":"dstChainId","internalType":"uint64","type":"uint64","indexed":false},{"name":"srcAmount","internalType":"uint256","type":"uint256","indexed":false},{"name":"srcToken","internalType":"address","type":"address","indexed":false}],"name":"BridgeRequestSent"}]

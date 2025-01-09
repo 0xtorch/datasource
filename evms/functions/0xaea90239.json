@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"passID","internalType":"uint256","type":"uint256"},{"name":"_maxRedeemPerTxn","internalType":"uint256","type":"uint256"}],"name":"setMaxRedeemPerTxn","outputs":[],"stateMutability":"nonpayable"}]

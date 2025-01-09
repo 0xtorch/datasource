@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"_rewards","internalType":"uint256","type":"uint256","indexed":false},{"name":"_totalAssets","internalType":"uint256","type":"uint256","indexed":false},{"name":"_retentions","internalType":"uint256","type":"uint256","indexed":false}],"name":"Compound"}]

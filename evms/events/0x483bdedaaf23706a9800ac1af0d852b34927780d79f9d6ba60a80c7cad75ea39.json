@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"collateral","internalType":"address","type":"address","indexed":true},{"name":"vault","internalType":"address","type":"address","indexed":true}],"name":"VaultUpdated"}]

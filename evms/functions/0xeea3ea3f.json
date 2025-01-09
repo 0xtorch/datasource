@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_recipient","internalType":"address","type":"address"},{"name":"_saleTokenAmount","internalType":"uint256","type":"uint256"},{"name":"_purchasePrice","internalType":"uint256","type":"uint256"},{"name":"_data","internalType":"bytes","type":"bytes"}],"name":"purchase","outputs":[],"stateMutability":"nonpayable"}]

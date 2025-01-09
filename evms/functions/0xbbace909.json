@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"srcChainID","internalType":"uint8[]","type":"uint8[]"},{"name":"nonceCheckpoint","internalType":"uint64[]","type":"uint64[]"}],"name":"adminSetNonceCheckpoint","outputs":[],"stateMutability":"nonpayable"}]

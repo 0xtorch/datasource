@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"minAuctionIncrement_","internalType":"uint256","type":"uint256"},{"name":"minAuctionDuration_","internalType":"uint256","type":"uint256"}],"name":"updateSettings","outputs":[],"stateMutability":"nonpayable"}]

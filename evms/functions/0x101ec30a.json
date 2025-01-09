@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_permit2","internalType":"contract IAllowanceTransfer","type":"address"}],"name":"setPermit2","outputs":[],"stateMutability":"nonpayable"}]

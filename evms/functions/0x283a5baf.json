@@ -1,0 +1,1 @@
+[{"type":"function","constant":true,"inputs":[{"name":"pubKeyX","internalType":"bytes32","type":"bytes32"},{"name":"pubKeyY","internalType":"bytes32","type":"bytes32"},{"name":"claimFlags","internalType":"uint8","type":"uint8"}],"name":"pubKeyToBtcAddress","outputs":[{"name":"","internalType":"bytes20","type":"bytes20"}],"payable":false,"stateMutability":"pure"}]

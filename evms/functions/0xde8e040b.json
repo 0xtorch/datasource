@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_minimalTimeToStake","internalType":"uint256","type":"uint256"},{"name":"_minimalAmountToStake","internalType":"uint256","type":"uint256"}],"name":"setStakingRules","outputs":[],"stateMutability":"nonpayable"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_account","internalType":"address","type":"address"},{"name":"_indexToken","internalType":"address","type":"address"},{"name":"_collateralToken","internalType":"address","type":"address"},{"name":"_side","internalType":"enum Side","type":"uint8"}],"name":"liquidatePosition","outputs":[],"stateMutability":"nonpayable"}]

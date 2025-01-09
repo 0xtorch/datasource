@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"win","internalType":"uint256","type":"uint256"},{"name":"jak","internalType":"uint256","type":"uint256"}],"name":"vote_reward","outputs":[],"stateMutability":"nonpayable"}]

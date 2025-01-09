@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"user","type":"address","indexed":true},{"name":"token","type":"address","indexed":true},{"name":"claimId","type":"bytes32[]","indexed":false},{"name":"amount","type":"uint256","indexed":false}],"name":"ClaimBatch"}]

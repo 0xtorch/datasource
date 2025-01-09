@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"tokenId","internalType":"uint256","type":"uint256","indexed":false},{"name":"yearsPeriod","internalType":"uint256","type":"uint256","indexed":false},{"name":"newExpirationDate","internalType":"uint256","type":"uint256","indexed":false}],"name":"YearsPeriodRenewed"}]

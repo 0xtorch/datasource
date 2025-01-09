@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"inspector","internalType":"address","type":"address","indexed":false}],"name":"MsgInspectorSet"}]

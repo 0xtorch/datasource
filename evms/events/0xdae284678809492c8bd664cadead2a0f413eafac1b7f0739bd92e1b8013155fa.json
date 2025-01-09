@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"","internalType":"struct TokenWeight[]","type":"tuple[]","components":[{"name":"token","internalType":"address","type":"address"},{"name":"weight","internalType":"uint256","type":"uint256"}],"indexed":false}],"name":"TokenWeightSet"}]

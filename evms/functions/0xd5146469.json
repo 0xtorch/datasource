@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"maxDefaultApprovedReward_","internalType":"uint256","type":"uint256"}],"name":"_setMinApprovedReward","outputs":[{"name":"","internalType":"bool","type":"bool"}],"stateMutability":"nonpayable"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"bnftId","internalType":"uint256","type":"uint256"},{"name":"_maxPerWallet","internalType":"uint256","type":"uint256"}],"name":"setMaxPerWalletBNFT","outputs":[],"stateMutability":"nonpayable"}]

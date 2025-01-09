@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[],"name":"getAvailableAssetsForWithdrawal","outputs":[{"name":"totalAvailable","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

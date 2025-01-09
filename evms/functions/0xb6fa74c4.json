@@ -1,0 +1,1 @@
+[{"type":"function","constant":false,"inputs":[{"name":"newReward","internalType":"uint256","type":"uint256"},{"name":"oldReward","internalType":"uint256","type":"uint256"}],"name":"logRewardUpdate","outputs":[],"payable":false,"stateMutability":"nonpayable"}]

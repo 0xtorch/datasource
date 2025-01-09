@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"_prevSupply","internalType":"uint120","type":"uint120","indexed":true},{"name":"_newSupply","internalType":"uint120","type":"uint120","indexed":true}],"name":"SupplyReduced"}]

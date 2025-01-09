@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"erc20","internalType":"address","type":"address"},{"name":"amount","internalType":"uint256","type":"uint256"}],"name":"withdrawEscrow","outputs":[],"stateMutability":"nonpayable"}]

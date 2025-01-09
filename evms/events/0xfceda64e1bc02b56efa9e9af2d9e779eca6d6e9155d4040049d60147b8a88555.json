@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"eventId","internalType":"uint32","type":"uint32","indexed":false},{"name":"logicId","internalType":"uint16","type":"uint16","indexed":false},{"name":"relayer","internalType":"address","type":"address","indexed":false}],"name":"ClaimedByRelayer"}]

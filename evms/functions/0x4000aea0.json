@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_to","internalType":"address","type":"address"},{"name":"_value","internalType":"uint256","type":"uint256"},{"name":"_data","internalType":"bytes","type":"bytes"}],"name":"transferAndCall","outputs":[{"name":"success","internalType":"bool","type":"bool"}],"stateMutability":"nonpayable"}]

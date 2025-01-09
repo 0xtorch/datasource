@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"vaultAddress","internalType":"address","type":"address"},{"name":"newState","internalType":"bool","type":"bool"}],"name":"setKnockInStatus","outputs":[],"stateMutability":"nonpayable"}]

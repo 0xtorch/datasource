@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_magicians","internalType":"struct LiquidationHelper.MagicianConfig[]","type":"tuple[]","components":[{"name":"asset","internalType":"address","type":"address"},{"name":"magician","internalType":"contract IMagician","type":"address"}]}],"name":"setMagicians","outputs":[],"stateMutability":"nonpayable"}]

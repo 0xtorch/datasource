@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"receiver","internalType":"string","type":"string"},{"name":"numTokens","internalType":"uint256","type":"uint256"}],"name":"transfer","outputs":[{"name":"","internalType":"bool","type":"bool"}],"stateMutability":"nonpayable"}]

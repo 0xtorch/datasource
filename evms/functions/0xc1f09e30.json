@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"vault","internalType":"contract IVault","type":"address"},{"name":"fn","internalType":"bytes","type":"bytes"}],"name":"runAdminOperation","outputs":[{"name":"","internalType":"bytes","type":"bytes"}],"stateMutability":"nonpayable"}]

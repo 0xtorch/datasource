@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_amountin","internalType":"uint256","type":"uint256"},{"name":"_pid","internalType":"uint256","type":"uint256"}],"name":"enter","outputs":[],"stateMutability":"nonpayable"}]

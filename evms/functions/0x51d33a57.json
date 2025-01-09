@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"amount","internalType":"uint256","type":"uint256"},{"name":"creditLineAddress","internalType":"address","type":"address"},{"name":"addressToSendTo","internalType":"address","type":"address"}],"name":"drawdown","outputs":[],"stateMutability":"nonpayable"}]

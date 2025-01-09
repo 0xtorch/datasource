@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"id","internalType":"bytes","type":"bytes","indexed":false}],"name":"multiSendPaymentExecuted"}]

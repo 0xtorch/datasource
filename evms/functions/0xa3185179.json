@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_pool","type":"address"},{"name":"_deposit_amounts","type":"uint256[3]"},{"name":"_min_mint_amount","type":"uint256"}],"name":"add_liquidity","outputs":[{"name":"","type":"uint256"}],"stateMutability":"nonpayable"}]

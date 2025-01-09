@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_id","internalType":"address","type":"address"}],"name":"getNext","outputs":[{"name":"","internalType":"address","type":"address"}],"stateMutability":"view"}]

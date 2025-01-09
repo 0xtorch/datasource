@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"","internalType":"address","type":"address"},{"name":"","internalType":"address","type":"address"}],"name":"lockInfoMap","outputs":[{"name":"amount","internalType":"uint256","type":"uint256"},{"name":"unlockAt","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

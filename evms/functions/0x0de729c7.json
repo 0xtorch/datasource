@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"role","internalType":"uint16","type":"uint16"},{"name":"targetAddress","internalType":"address","type":"address"},{"name":"options","internalType":"enum ExecutionOptions","type":"uint8"}],"name":"allowTarget","outputs":[],"stateMutability":"nonpayable"}]

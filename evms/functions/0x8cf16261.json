@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_sellToken","internalType":"address","type":"address"},{"name":"_spender","internalType":"address","type":"address"},{"name":"_swapCallData","internalType":"bytes","type":"bytes"}],"name":"fillQuote","outputs":[],"stateMutability":"nonpayable"}]

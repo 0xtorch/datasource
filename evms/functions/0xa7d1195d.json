@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"initialOwner","internalType":"address","type":"address"},{"name":"minters","internalType":"address[]","type":"address[]"},{"name":"mintingAllowances","internalType":"uint256[]","type":"uint256[]"},{"name":"mintAllowedAfters","internalType":"uint256[]","type":"uint256[]"}],"name":"initialize","outputs":[],"stateMutability":"nonpayable"}]

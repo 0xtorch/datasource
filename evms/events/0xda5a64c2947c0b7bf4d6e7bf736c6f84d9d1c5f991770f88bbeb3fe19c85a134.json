@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"delegatee","internalType":"address","type":"address","indexed":false},{"name":"oldVotes","internalType":"uint224","type":"uint224","indexed":false},{"name":"newVotes","internalType":"uint224","type":"uint224","indexed":false}],"name":"DelegateVotesChanged"}]

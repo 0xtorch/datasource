@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"liquidityTracker","internalType":"contract ILiquidityTracker","type":"address","indexed":false}],"name":"LiquidityTrackerSet"}]

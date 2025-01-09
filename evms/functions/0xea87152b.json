@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"domainName","internalType":"string","type":"string"},{"name":"year","internalType":"uint256","type":"uint256"}],"name":"register","outputs":[],"stateMutability":"payable"}]

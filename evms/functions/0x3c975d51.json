@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[],"name":"getLastJoinExitData","outputs":[{"name":"lastJoinExitAmplification","internalType":"uint256","type":"uint256"},{"name":"lastPostJoinExitInvariant","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"sender","internalType":"address","type":"address"},{"name":"borrower","internalType":"address","type":"address"},{"name":"borrowAmount","internalType":"uint256","type":"uint256"},{"name":"data","internalType":"bytes","type":"bytes"}],"name":"tarotBorrow","outputs":[],"stateMutability":"nonpayable"}]

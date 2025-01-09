@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_from","internalType":"uint256","type":"uint256"},{"name":"_amount","internalType":"uint256","type":"uint256"}],"name":"split","outputs":[{"name":"newTokenId","internalType":"uint256","type":"uint256"}],"stateMutability":"nonpayable"}]

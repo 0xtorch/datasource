@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_token","internalType":"address","type":"address"}],"name":"interestImplementation","outputs":[{"name":"","internalType":"contract IInterestImplementation","type":"address"}],"stateMutability":"view"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"user","internalType":"address","type":"address"},{"name":"state","internalType":"bool","type":"bool"}],"name":"grantPermissions","outputs":[],"stateMutability":"nonpayable"}]

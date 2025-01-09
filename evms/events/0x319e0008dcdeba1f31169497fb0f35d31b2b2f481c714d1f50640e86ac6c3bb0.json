@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"_from","type":"address","indexed":true},{"name":"_value","type":"uint256","indexed":true},{"name":"_to","type":"address","indexed":false},{"name":"_amount","type":"uint256","indexed":false}],"name":"MultiTransfer"}]

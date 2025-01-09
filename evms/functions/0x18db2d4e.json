@@ -1,0 +1,1 @@
+[{"type":"function","constant":false,"inputs":[{"name":"lag","internalType":"uint256","type":"uint256"}],"name":"setCommitLag","outputs":[],"payable":false,"stateMutability":"nonpayable"}]

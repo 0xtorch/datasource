@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"tournamnetSlug","internalType":"string","type":"string","indexed":true},{"name":"userAddress","internalType":"address","type":"address","indexed":false}],"name":"UserEntry"}]

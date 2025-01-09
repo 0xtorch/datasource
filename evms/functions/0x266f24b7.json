@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_allocPoint","internalType":"uint256","type":"uint256"},{"name":"_lpToken","internalType":"address","type":"address"},{"name":"_rewarder","internalType":"address","type":"address"},{"name":"_helper","internalType":"address","type":"address"}],"name":"add","outputs":[],"stateMutability":"nonpayable"}]

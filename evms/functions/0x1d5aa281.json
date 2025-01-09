@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"","internalType":"address","type":"address"}],"name":"anycallProxyInfo","outputs":[{"name":"supported","internalType":"bool","type":"bool"},{"name":"acceptAnyToken","internalType":"bool","type":"bool"}],"stateMutability":"view"}]

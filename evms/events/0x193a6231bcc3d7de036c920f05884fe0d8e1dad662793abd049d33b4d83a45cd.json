@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"previousPriceDeviation","internalType":"uint256","type":"uint256","indexed":false},{"name":"newPriceDeviation","internalType":"uint256","type":"uint256","indexed":false}],"name":"PriceDeviationUpdated"}]

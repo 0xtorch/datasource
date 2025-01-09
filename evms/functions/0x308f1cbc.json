@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"pos","internalType":"address","type":"address"},{"name":"_priceThreshold","internalType":"uint256","type":"uint256"}],"name":"setPriceThresholdPos","outputs":[],"stateMutability":"nonpayable"}]

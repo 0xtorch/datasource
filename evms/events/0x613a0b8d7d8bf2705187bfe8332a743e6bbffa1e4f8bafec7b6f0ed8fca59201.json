@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"pool","internalType":"contract IConverter","type":"address","indexed":true},{"name":"user","internalType":"address","type":"address","indexed":true},{"name":"tokenRef","internalType":"Token[]","type":"bytes32[]","indexed":false},{"name":"delta","internalType":"int128[]","type":"int128[]","indexed":false}],"name":"Convert"}]

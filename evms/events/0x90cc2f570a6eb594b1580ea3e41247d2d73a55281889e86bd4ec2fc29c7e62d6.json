@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"previousTarget","internalType":"address","type":"address","indexed":true},{"name":"newTarget","internalType":"address","type":"address","indexed":true}],"name":"TargetSet"}]

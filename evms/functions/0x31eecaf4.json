@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"salt","internalType":"bytes32","type":"bytes32"}],"name":"depositAddress","outputs":[{"name":"","internalType":"address","type":"address"}],"stateMutability":"view"}]

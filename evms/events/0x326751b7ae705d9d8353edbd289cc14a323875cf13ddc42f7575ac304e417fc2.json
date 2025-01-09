@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"oldGlobalFixedNativeFee","internalType":"uint88","type":"uint88","indexed":false},{"name":"newGlobalFixedNativeFee","internalType":"uint88","type":"uint88","indexed":false}],"name":"GlobalFixedNativeFeeUpdated"}]

@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"postTrade","internalType":"contract IWardenPostTrade","type":"address","indexed":true}],"name":"UpdatedWardenPostTrade"}]

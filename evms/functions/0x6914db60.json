@@ -1,0 +1,1 @@
+[{"type":"function","constant":true,"inputs":[{"name":"","internalType":"","type":"uint256"}],"name":"tokenMetadata","outputs":[{"name":"name","internalType":"","type":"string"},{"name":"symbol","internalType":"","type":"string"},{"name":"baseTokenURI","internalType":"","type":"string"}],"payable":false,"stateMutability":"view"}]

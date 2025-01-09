@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_oracle","internalType":"address","type":"address"},{"name":"_newAdmin","internalType":"address","type":"address"}],"name":"transferAdmin","outputs":[],"stateMutability":"nonpayable"}]

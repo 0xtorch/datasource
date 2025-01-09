@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"fid","internalType":"uint256","type":"uint256"}],"name":"custodyOf","outputs":[{"name":"custody","internalType":"address","type":"address"}],"stateMutability":"view"}]

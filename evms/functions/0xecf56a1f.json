@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_maxPendingMarketOrders","internalType":"uint256","type":"uint256"}],"name":"setMaxPendingMarketOrders","outputs":[],"stateMutability":"nonpayable"}]

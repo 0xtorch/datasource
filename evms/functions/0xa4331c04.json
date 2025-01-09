@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_taxStatus","internalType":"bool","type":"bool"},{"name":"_treasuryAddress","internalType":"address","type":"address"},{"name":"_taxPercentage","internalType":"uint256","type":"uint256"},{"name":"_taxDenominator","internalType":"uint256","type":"uint256"}],"name":"setTaxSettings","outputs":[],"stateMutability":"nonpayable"}]

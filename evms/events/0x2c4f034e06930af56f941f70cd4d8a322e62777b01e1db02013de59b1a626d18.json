@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"account","internalType":"address","type":"address","indexed":true},{"name":"levelId","internalType":"string","type":"string","indexed":false},{"name":"weight","internalType":"uint256","type":"uint256","indexed":false},{"name":"tokensLocked","internalType":"bool","type":"bool","indexed":false}],"name":"Registered"}]

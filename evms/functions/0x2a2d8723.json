@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"artPassHolders","internalType":"address[]","type":"address[]"},{"name":"extras","internalType":"int16[]","type":"int16[]"}],"name":"setAdditionalArtPassMints","outputs":[],"stateMutability":"nonpayable"}]

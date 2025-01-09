@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_pubKeys","internalType":"bytes[]","type":"bytes[]"},{"name":"_depositDataRoot","internalType":"bytes32","type":"bytes32"}],"name":"setupValidators","outputs":[],"stateMutability":"nonpayable"}]

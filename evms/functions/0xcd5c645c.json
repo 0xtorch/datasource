@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_liquidityProviders","internalType":"contract ILiquidityProviders","type":"address"}],"name":"updateLiquidityProvider","outputs":[],"stateMutability":"nonpayable"}]

@@ -1,0 +1,1 @@
+[{"type":"function","constant":false,"inputs":[{"name":"_exploreETHFee","type":"uint256"},{"name":"_exploreEMONTFee","type":"uint256"},{"name":"_exploreFastenETHFee","type":"uint256"},{"name":"_exploreFastenEMONTFee","type":"uint256"}],"name":"setFeeConfig","outputs":[],"payable":false,"stateMutability":"nonpayable"}]

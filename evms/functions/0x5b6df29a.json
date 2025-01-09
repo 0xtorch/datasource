@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[],"name":"snapshotMinted","outputs":[{"name":"timestamp","internalType":"uint32","type":"uint32"},{"name":"window","internalType":"uint32","type":"uint32"},{"name":"accumulator","internalType":"int192","type":"int192"}],"stateMutability":"view"}]

@@ -1,0 +1,1 @@
+[{"type":"function","constant":true,"inputs":[{"name":"sandAmount","type":"uint256"}],"name":"getEtherAmountWithSAND","outputs":[{"name":"","type":"uint256"}],"payable":false,"stateMutability":"view"}]

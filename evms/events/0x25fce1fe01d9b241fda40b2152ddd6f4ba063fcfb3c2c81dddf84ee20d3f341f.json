@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":true,"inputs":[{"name":"sig","internalType":"bytes4","type":"bytes4","indexed":true},{"name":"caller","internalType":"address","type":"address","indexed":true},{"name":"data","internalType":"bytes","type":"bytes","indexed":false}],"name":"LOG_CALL"}]

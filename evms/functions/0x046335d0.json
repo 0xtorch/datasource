@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"mason","internalType":"address","type":"address"}],"name":"canClaimReward","outputs":[{"name":"","internalType":"bool","type":"bool"}],"stateMutability":"view"}]

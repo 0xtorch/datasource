@@ -1,0 +1,1 @@
+[{"type":"function","constant":false,"inputs":[{"name":"nextValidatorIDs","internalType":"uint256[]","type":"uint256[]"}],"name":"sealEpochValidators","outputs":[],"payable":false,"stateMutability":"nonpayable"}]

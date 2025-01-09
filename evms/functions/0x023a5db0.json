@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"tokenAddress_","internalType":"address","type":"address"},{"name":"price_","internalType":"uint256","type":"uint256"}],"name":"changeSellParameters","outputs":[],"stateMutability":"nonpayable"}]

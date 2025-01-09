@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_ecdPlatypusGaugeVoter","internalType":"address","type":"address"},{"name":"_platypusVoter","internalType":"address","type":"address"}],"name":"setVoting","outputs":[],"stateMutability":"nonpayable"}]

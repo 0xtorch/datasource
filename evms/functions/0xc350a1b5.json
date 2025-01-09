@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"asset_","internalType":"address","type":"address"},{"name":"initialLimit","internalType":"uint256","type":"uint256"},{"name":"limitIncreaser_","internalType":"address","type":"address"}],"name":"initialize","outputs":[],"stateMutability":"nonpayable"}]

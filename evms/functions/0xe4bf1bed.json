@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"liquidity","internalType":"uint256","type":"uint256"},{"name":"rewardsFee","internalType":"uint256","type":"uint256"},{"name":"marketingFee","internalType":"uint256","type":"uint256"},{"name":"deadFee","internalType":"uint256","type":"uint256"}],"name":"setBuyTaxes","outputs":[],"stateMutability":"nonpayable"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_gauge_addr","internalType":"address","type":"address"},{"name":"_chainId","internalType":"uint256","type":"uint256"}],"name":"killGauge","outputs":[],"stateMutability":"nonpayable"}]

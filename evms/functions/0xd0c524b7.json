@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"planIds","internalType":"uint256[]","type":"uint256[]"},{"name":"revokeTime","internalType":"uint256","type":"uint256"}],"name":"futureRevokePlans","outputs":[],"stateMutability":"nonpayable"}]

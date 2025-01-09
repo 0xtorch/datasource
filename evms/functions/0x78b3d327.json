@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_controlledToken","internalType":"contract ITicket","type":"address"}],"name":"isControlled","outputs":[{"name":"","internalType":"bool","type":"bool"}],"stateMutability":"view"}]

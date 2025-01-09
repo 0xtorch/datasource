@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"","internalType":"uint256","type":"uint256"}],"name":"getChainFromConfig","outputs":[{"name":"fixedNativeFee","internalType":"uint256","type":"uint256"},{"name":"isSupported","internalType":"bool","type":"bool"},{"name":"transferFeeBps","internalType":"uint16","type":"uint16"}],"stateMutability":"view"}]

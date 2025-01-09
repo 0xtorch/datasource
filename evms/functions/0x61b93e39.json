@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"account","internalType":"address","type":"address"},{"name":"opera","internalType":"address","type":"address"}],"name":"isApproveOrAuth","outputs":[{"name":"","internalType":"bool","type":"bool"}],"stateMutability":"view"}]

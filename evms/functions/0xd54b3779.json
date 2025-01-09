@@ -1,0 +1,1 @@
+[{"type":"function","constant":true,"inputs":[{"name":"_id","internalType":"uint256","type":"uint256"}],"name":"backgroundScheme","outputs":[{"name":"","internalType":"uint256","type":"uint256"}],"payable":false,"stateMutability":"view"}]

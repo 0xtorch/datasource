@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"users","internalType":"address[]","type":"address[]"}],"name":"batchWithdraw","outputs":[],"stateMutability":"nonpayable"}]

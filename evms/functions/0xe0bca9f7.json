@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"handler","internalType":"contract IStakeHandler","type":"address"}],"name":"setStakeHandler","outputs":[],"stateMutability":"nonpayable"}]

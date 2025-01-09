@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"operations","internalType":"struct ISuperfluid.Operation[]","type":"tuple[]","components":[{"name":"operationType","internalType":"uint32","type":"uint32"},{"name":"target","internalType":"address","type":"address"},{"name":"data","internalType":"bytes","type":"bytes"}]}],"name":"forwardBatchCall","outputs":[],"stateMutability":"payable"}]

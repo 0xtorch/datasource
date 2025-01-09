@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"","internalType":"bytes32","type":"bytes32"}],"name":"callbacks","outputs":[{"name":"callbackContract","internalType":"address","type":"address"},{"name":"randomnessFee","internalType":"uint96","type":"uint96"},{"name":"seedAndBlockNum","internalType":"bytes32","type":"bytes32"}],"stateMutability":"view"}]

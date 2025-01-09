@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[],"name":"proposedUpgrade","outputs":[{"name":"to","internalType":"address","type":"address"},{"name":"codehash","internalType":"bytes32","type":"bytes32"}],"stateMutability":"view"}]

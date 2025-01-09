@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"serumType","internalType":"uint8","type":"uint8"},{"name":"apeId","internalType":"uint256","type":"uint256"}],"name":"hasApeBeenMutatedWithType","outputs":[{"name":"","internalType":"bool","type":"bool"}],"stateMutability":"view"}]

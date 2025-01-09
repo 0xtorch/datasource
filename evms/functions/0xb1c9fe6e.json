@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[],"name":"phase","outputs":[{"name":"","internalType":"enum IPositionalMarket.Phase","type":"uint8"}],"stateMutability":"view"}]

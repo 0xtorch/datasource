@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"","internalType":"uint256","type":"uint256"}],"name":"batchApprovals","outputs":[{"name":"token","internalType":"contract IERC20","type":"address"},{"name":"approved","internalType":"bool","type":"bool"}],"stateMutability":"view"}]

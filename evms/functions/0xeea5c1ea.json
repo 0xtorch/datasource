@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"pct","internalType":"uint256","type":"uint256"},{"name":"cap","internalType":"uint256","type":"uint256"},{"name":"token","internalType":"address","type":"address"},{"name":"period","internalType":"uint256","type":"uint256"}],"name":"setWithdrawFee","outputs":[],"stateMutability":"nonpayable"}]

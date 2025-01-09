@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"lpTokenAmount","internalType":"uint256","type":"uint256"},{"name":"sendEth","internalType":"bool","type":"bool"}],"name":"removeLiquidity","outputs":[],"stateMutability":"nonpayable"}]

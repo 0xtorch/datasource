@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"userlist","internalType":"address[]","type":"address[]"},{"name":"amountlist","internalType":"uint256[]","type":"uint256[]"}],"name":"setquotalist","outputs":[],"stateMutability":"nonpayable"}]

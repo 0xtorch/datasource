@@ -1,0 +1,1 @@
+[{"type":"function","constant":false,"inputs":[{"name":"candidate","internalType":"address","type":"address"},{"name":"vote","internalType":"enum Candidate.Vote","type":"uint8"}],"name":"vote","outputs":[],"payable":false,"stateMutability":"nonpayable"}]

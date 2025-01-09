@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"inOutFlag","internalType":"uint256","type":"uint256"},{"name":"lpTokenMintedMinOrBurnedMax","internalType":"uint256","type":"uint256"},{"name":"maxFee","internalType":"uint256","type":"uint256"},{"name":"amounts","internalType":"uint256[]","type":"uint256[]"}],"name":"swapAll","outputs":[],"stateMutability":"nonpayable"}]

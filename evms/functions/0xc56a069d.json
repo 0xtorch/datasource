@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"bitmap","internalType":"uint256","type":"uint256"}],"name":"mapAgreementClasses","outputs":[{"name":"agreementClasses","internalType":"contract ISuperAgreement[]","type":"address[]"}],"stateMutability":"view"}]

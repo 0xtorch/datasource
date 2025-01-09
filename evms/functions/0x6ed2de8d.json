@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"asset","internalType":"address","type":"address"},{"name":"maxGas","internalType":"uint256","type":"uint256"},{"name":"gasPriceBid","internalType":"uint256","type":"uint256"},{"name":"maxSubmissionCost","internalType":"uint256","type":"uint256"}],"name":"bridgeDeposits","outputs":[],"stateMutability":"payable"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"swapID","internalType":"bytes32","type":"bytes32"},{"name":"amount","internalType":"uint256","type":"uint256"},{"name":"token","internalType":"contract IERC20","type":"address"}],"name":"addGasToken","outputs":[],"stateMutability":"nonpayable"}]

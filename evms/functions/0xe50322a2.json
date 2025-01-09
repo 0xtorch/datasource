@@ -1,0 +1,1 @@
+[{"type":"function","constant":false,"inputs":[{"name":"cdpSrc","internalType":"uint256","type":"uint256"},{"name":"cdpDst","internalType":"uint256","type":"uint256"}],"name":"shift","outputs":[],"payable":false,"stateMutability":"nonpayable"}]

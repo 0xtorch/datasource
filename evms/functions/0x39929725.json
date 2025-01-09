@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"minter","internalType":"address","type":"address"},{"name":"id","internalType":"uint256","type":"uint256"}],"name":"totalMintedCollectionAndMinter","outputs":[{"name":"totalMinted","internalType":"uint256","type":"uint256"},{"name":"minterMinted","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

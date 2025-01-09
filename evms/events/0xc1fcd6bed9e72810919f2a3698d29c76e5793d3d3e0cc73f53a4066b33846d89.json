@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"dolphin","internalType":"address","type":"address","indexed":true},{"name":"ethPaid","internalType":"uint256","type":"uint256","indexed":false},{"name":"gelBought","internalType":"uint256","type":"uint256","indexed":false}],"name":"LogBuyDolphin"}]

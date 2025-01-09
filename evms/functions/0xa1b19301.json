@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_key","internalType":"bytes32","type":"bytes32"},{"name":"_adoptedAssetId","internalType":"address","type":"address"},{"name":"_representation","internalType":"address","type":"address"}],"name":"removeAssetId","outputs":[],"stateMutability":"nonpayable"}]

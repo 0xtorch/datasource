@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_dstEid","internalType":"uint32","type":"uint32"},{"name":"_nativeDropAmount","internalType":"uint128","type":"uint128"}],"name":"setNativeDropAmount","outputs":[],"stateMutability":"nonpayable"}]

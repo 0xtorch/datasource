@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"target","internalType":"address payable","type":"address"},{"name":"isAllowed","internalType":"bool","type":"bool"}],"name":"setCallAllowed","outputs":[],"stateMutability":"nonpayable"}]

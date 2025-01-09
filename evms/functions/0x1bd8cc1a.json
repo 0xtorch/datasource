@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"keys","internalType":"string[]","type":"string[]"},{"name":"tokenId","internalType":"uint256","type":"uint256"}],"name":"getMany","outputs":[{"name":"values","internalType":"string[]","type":"string[]"}],"stateMutability":"view"}]

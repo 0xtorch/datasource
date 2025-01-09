@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"_saleStartTime","internalType":"uint256","type":"uint256","indexed":true},{"name":"_salePrice","internalType":"uint256","type":"uint256","indexed":true},{"name":"_saleTransactionLimit","internalType":"uint8","type":"uint8","indexed":false}],"name":"SaleStart"}]

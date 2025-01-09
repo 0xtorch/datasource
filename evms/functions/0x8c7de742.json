@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_chainId","internalType":"uint256","type":"uint256"}],"name":"getTotalBatchesByChainId","outputs":[{"name":"_totalBatches","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

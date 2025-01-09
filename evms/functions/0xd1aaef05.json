@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"amount","internalType":"uint256","type":"uint256"},{"name":"lockDuration","internalType":"uint256","type":"uint256"}],"name":"createPosition","outputs":[],"stateMutability":"nonpayable"}]

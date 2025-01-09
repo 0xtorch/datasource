@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"value","internalType":"string","type":"string"},{"name":"className_","internalType":"string","type":"string"}],"name":"addSubject","outputs":[{"name":"sIndex","internalType":"uint256","type":"uint256"}],"stateMutability":"nonpayable"}]

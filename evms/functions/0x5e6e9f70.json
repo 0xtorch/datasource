@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"sku","internalType":"bytes32","type":"bytes32"},{"name":"tokens","internalType":"address[]","type":"address[]"},{"name":"prices","internalType":"uint256[]","type":"uint256[]"}],"name":"updateSkuPricing","outputs":[],"stateMutability":"nonpayable"}]

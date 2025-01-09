@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"oldCollateralization","internalType":"uint256","type":"uint256","indexed":false},{"name":"newCollateralization","internalType":"uint256","type":"uint256","indexed":false}],"name":"UpdateCollateralization"}]

@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"oldEmissionLogic","internalType":"address","type":"address","indexed":false},{"name":"newEmissionLogic","internalType":"address","type":"address","indexed":true}],"name":"SetEmissionLogic"}]

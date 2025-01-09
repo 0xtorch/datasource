@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"baseTokenAmount","internalType":"uint256","type":"uint256","indexed":true},{"name":"fractionalTokenAmount","internalType":"uint256","type":"uint256","indexed":true},{"name":"lpTokenAmount","internalType":"uint256","type":"uint256","indexed":true}],"name":"Remove"}]

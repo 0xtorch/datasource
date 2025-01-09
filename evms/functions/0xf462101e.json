@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_pid","internalType":"uint256","type":"uint256"},{"name":"_allocPoint","internalType":"uint256","type":"uint256"},{"name":"_harvestInterval","internalType":"uint256","type":"uint256"},{"name":"_withdrawLockupTime","internalType":"uint256","type":"uint256"}],"name":"setPool","outputs":[],"stateMutability":"nonpayable"}]

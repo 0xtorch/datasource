@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"reqId","internalType":"bytes","type":"bytes","indexed":false},{"name":"groups","internalType":"address[]","type":"address[]","indexed":false}],"name":"Transaction"}]

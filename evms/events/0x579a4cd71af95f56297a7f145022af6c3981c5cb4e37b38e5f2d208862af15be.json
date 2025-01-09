@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"royaltySplitter","internalType":"contract IRoyaltySplitter","type":"address","indexed":true}],"name":"RoyaltySplitterSet"}]

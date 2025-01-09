@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_newVerifierAddress","internalType":"address","type":"address"},{"name":"_proofType","internalType":"uint256","type":"uint256"}],"name":"setVerifierAddress","outputs":[],"stateMutability":"nonpayable"}]

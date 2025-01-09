@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"roundId","internalType":"uint256","type":"uint256","indexed":false},{"name":"status","internalType":"enum IYoloV2.RoundStatus","type":"uint8","indexed":false}],"name":"RoundStatusUpdated"}]

@@ -1,0 +1,1 @@
+[{"type":"function","constant":false,"inputs":[{"name":"account","internalType":"address","type":"address"},{"name":"_canClaimOnBehalf","internalType":"bool","type":"bool"}],"name":"setCanClaimOnBehalf","outputs":[],"payable":false,"stateMutability":"nonpayable"}]

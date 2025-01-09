@@ -1,0 +1,1 @@
+[{"type":"function","constant":false,"inputs":[{"name":"_to","type":"address"},{"name":"_assetType","type":"uint8"}],"name":"mintAsset","outputs":[],"payable":false,"stateMutability":"nonpayable"}]

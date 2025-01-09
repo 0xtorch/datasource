@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"attestationId","internalType":"uint256","type":"uint256"},{"name":"source","internalType":"address","type":"address"}],"name":"getDestinationOfSource","outputs":[{"name":"","internalType":"address","type":"address"}],"stateMutability":"view"}]

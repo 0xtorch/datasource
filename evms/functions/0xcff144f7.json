@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"root","internalType":"bytes32","type":"bytes32"},{"name":"proof","internalType":"bytes32[]","type":"bytes32[]"},{"name":"claimer","internalType":"address","type":"address"},{"name":"amount","internalType":"uint256","type":"uint256"}],"name":"verify","outputs":[{"name":"","internalType":"bool","type":"bool"}],"stateMutability":"pure"}]

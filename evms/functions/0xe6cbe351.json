@@ -1,0 +1,1 @@
+[{"type":"function","constant":true,"inputs":[],"name":"saleAuction","outputs":[{"name":"","internalType":"contract SaleClockAuction","type":"address"}],"payable":false,"stateMutability":"view"}]

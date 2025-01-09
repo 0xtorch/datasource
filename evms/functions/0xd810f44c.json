@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"addressERC721","internalType":"address","type":"address"},{"name":"listReceivers","internalType":"address[]","type":"address[]"},{"name":"listTokenId","internalType":"uint256[]","type":"uint256[]"}],"name":"sendMultiERC721","outputs":[{"name":"","internalType":"bool","type":"bool"}],"stateMutability":"nonpayable"}]

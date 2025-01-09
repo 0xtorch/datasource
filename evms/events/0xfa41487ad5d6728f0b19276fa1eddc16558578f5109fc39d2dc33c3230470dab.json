@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"_remoteChainId","internalType":"uint16","type":"uint16","indexed":false},{"name":"_path","internalType":"bytes","type":"bytes","indexed":false}],"name":"SetTrustedRemote"}]

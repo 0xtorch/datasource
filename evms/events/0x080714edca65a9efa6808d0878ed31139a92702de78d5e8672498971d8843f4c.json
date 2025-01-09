@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"freezeStartBlock","internalType":"uint256","type":"uint256","indexed":false},{"name":"freezeEndBlock","internalType":"uint256","type":"uint256","indexed":false}],"name":"NewFreezeBlocks"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_erc20TokenContract","internalType":"address","type":"address"}],"name":"isApprovedForERC20Payments","outputs":[{"name":"","internalType":"bool","type":"bool"}],"stateMutability":"view"}]

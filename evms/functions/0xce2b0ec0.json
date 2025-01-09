@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"expiry","internalType":"uint64","type":"uint64"}],"name":"setTimestampExpirySeconds","outputs":[],"stateMutability":"nonpayable"}]

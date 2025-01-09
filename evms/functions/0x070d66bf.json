@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_depositId","internalType":"uint256","type":"uint256"},{"name":"_increaseDuration","internalType":"uint256","type":"uint256"}],"name":"extendLock","outputs":[],"stateMutability":"nonpayable"}]

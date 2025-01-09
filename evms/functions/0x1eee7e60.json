@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"account","internalType":"address","type":"address"}],"name":"isTransferWhitelisted","outputs":[{"name":"","internalType":"bool","type":"bool"}],"stateMutability":"view"}]

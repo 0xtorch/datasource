@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"","internalType":"address","type":"address"}],"name":"WhiteList","outputs":[{"name":"idx","internalType":"uint256","type":"uint256"},{"name":"isWhite","internalType":"bool","type":"bool"},{"name":"isMinted","internalType":"bool","type":"bool"}],"stateMutability":"view"}]

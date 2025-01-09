@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"previousSenior","internalType":"address","type":"address","indexed":true},{"name":"newSenior","internalType":"address","type":"address","indexed":true}],"name":"SeniorTrancheChanged"}]

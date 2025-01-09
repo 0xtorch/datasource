@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"reserveId","internalType":"uint256","type":"uint256"}],"name":"newDebtPosition","outputs":[{"name":"debtId","internalType":"uint256","type":"uint256"}],"stateMutability":"nonpayable"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"uribasein","internalType":"string","type":"string"},{"name":"mverseuribasein","internalType":"string","type":"string"}],"name":"setBase","outputs":[],"stateMutability":"nonpayable"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"newBatchSize_","internalType":"uint8","type":"uint8"}],"name":"updateMaxFeeWithdrawalBatchSize","outputs":[],"stateMutability":"nonpayable"}]

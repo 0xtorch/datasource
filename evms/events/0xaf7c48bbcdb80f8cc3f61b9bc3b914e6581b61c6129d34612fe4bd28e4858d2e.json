@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"asset","internalType":"address","type":"address","indexed":false},{"name":"name","internalType":"string","type":"string","indexed":false},{"name":"symbol","internalType":"string","type":"string","indexed":false},{"name":"decimals","internalType":"uint8","type":"uint8","indexed":false}],"name":"DeBridgeTokenDeployed"}]

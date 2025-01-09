@@ -1,0 +1,1 @@
+[{"type":"function","gas":38286,"inputs":[{"name":"_pool","type":"address"},{"name":"_from","type":"address"},{"name":"_to","type":"address"},{"name":"_amounts","type":"uint256[100]"}],"name":"get_exchange_amounts","outputs":[{"name":"","type":"uint256[100]"}],"stateMutability":"view"}]

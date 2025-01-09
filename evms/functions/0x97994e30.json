@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[],"name":"ETHPriceOracle","outputs":[{"name":"","internalType":"contract ChainlinkOracle","type":"address"}],"stateMutability":"view"}]

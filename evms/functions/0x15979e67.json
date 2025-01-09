@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"user","internalType":"address","type":"address"}],"name":"userToTokenBatch","outputs":[{"name":"","internalType":"struct Ghost.TokenBatchPriceData[]","type":"tuple[]","components":[{"name":"pricePaid","internalType":"uint128","type":"uint128"},{"name":"quantityMinted","internalType":"uint8","type":"uint8"}]}],"stateMutability":"view"}]

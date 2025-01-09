@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"_tradeState","internalType":"enum IImpossiblePair.TradeState","type":"uint8","indexed":false}],"name":"UpdatedTradeState"}]

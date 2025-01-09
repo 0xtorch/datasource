@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"routeIds","internalType":"uint32[]","type":"uint32[]"},{"name":"dataItems","internalType":"bytes[]","type":"bytes[]"}],"name":"executeRoutes","outputs":[],"stateMutability":"payable"}]

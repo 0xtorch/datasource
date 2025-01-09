@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_players","internalType":"struct Playground.playWithdrawBulkParam[]","type":"tuple[]","components":[{"name":"to","internalType":"address","type":"address"},{"name":"rchAmount","internalType":"uint256","type":"uint256"}]}],"name":"playWithdrawBulk","outputs":[],"stateMutability":"nonpayable"}]

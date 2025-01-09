@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_id","internalType":"bytes32","type":"bytes32"},{"name":"_statusCode","internalType":"enum WithDestinationFunctionality.SwapStatus","type":"uint8"}],"name":"changeTxStatus","outputs":[],"stateMutability":"nonpayable"}]

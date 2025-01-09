@@ -1,0 +1,1 @@
+[{"type":"function","constant":false,"inputs":[{"name":"ids","type":"uint256[]"}],"name":"migrateAll","outputs":[],"payable":false,"stateMutability":"nonpayable"}]

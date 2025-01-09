@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"asset","internalType":"address","type":"address"}],"name":"getConfiguration","outputs":[{"name":"","internalType":"struct DataTypes.ReserveConfigurationMap","type":"tuple","components":[{"name":"data","internalType":"uint256","type":"uint256"}]}],"stateMutability":"view"}]

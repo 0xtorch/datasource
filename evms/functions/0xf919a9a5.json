@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"whitelisted","internalType":"address[]","type":"address[]"},{"name":"merkleLeafs","internalType":"bytes32[][]","type":"bytes32[][]"}],"name":"airdropToken","outputs":[],"stateMutability":"nonpayable"}]

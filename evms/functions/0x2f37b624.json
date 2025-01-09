@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"t","internalType":"address","type":"address"}],"name":"isBound","outputs":[{"name":"","internalType":"bool","type":"bool"}],"stateMutability":"view"}]

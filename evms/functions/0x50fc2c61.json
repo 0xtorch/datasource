@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[],"name":"getGameDetails","outputs":[{"name":"gameId","internalType":"bytes32","type":"bytes32"},{"name":"gameLabel","internalType":"string","type":"string"}],"stateMutability":"view"}]

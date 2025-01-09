@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"cpAddress","internalType":"address","type":"address"},{"name":"quoteAmount","internalType":"uint256","type":"uint256"},{"name":"flag","internalType":"uint8","type":"uint8"},{"name":"deadLine","internalType":"uint256","type":"uint256"}],"name":"bid","outputs":[],"stateMutability":"payable"}]

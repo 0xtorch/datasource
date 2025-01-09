@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_connectorToken","internalType":"contract IERC20Token","type":"address"}],"name":"getConnectorBalance","outputs":[{"name":"","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

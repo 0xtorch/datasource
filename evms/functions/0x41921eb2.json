@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_revealTime1","internalType":"uint256","type":"uint256"},{"name":"_revealTime2","internalType":"uint256","type":"uint256"},{"name":"_revealTime3","internalType":"uint256","type":"uint256"}],"name":"SetRevealTime","outputs":[],"stateMutability":"nonpayable"}]

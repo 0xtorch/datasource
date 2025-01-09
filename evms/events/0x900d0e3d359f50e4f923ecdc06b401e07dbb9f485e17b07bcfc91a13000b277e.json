@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"oldLBPairImplementation","internalType":"address","type":"address","indexed":false},{"name":"LBPairImplementation","internalType":"address","type":"address","indexed":false}],"name":"LBPairImplementationSet"}]

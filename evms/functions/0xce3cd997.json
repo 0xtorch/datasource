@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"stage","internalType":"enum Stage","type":"uint8"}],"name":"setStage","outputs":[],"stateMutability":"nonpayable"}]

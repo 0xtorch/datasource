@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"tokenIn_","internalType":"contract IERC20","type":"address"},{"name":"tokenOut_","internalType":"contract IERC20","type":"address"},{"name":"merkleRoot_","internalType":"bytes32","type":"bytes32"}],"name":"register","outputs":[],"stateMutability":"nonpayable"}]

@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"from","internalType":"address","type":"address","indexed":false},{"name":"to","internalType":"address","type":"address","indexed":false},{"name":"guid","internalType":"bytes32","type":"bytes32","indexed":false},{"name":"index","internalType":"uint16","type":"uint16","indexed":false}],"name":"ComposeDelivered"}]

@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"op","internalType":"address","type":"address","indexed":false},{"name":"account","internalType":"address","type":"address","indexed":false},{"name":"isExempt","internalType":"bool","type":"bool","indexed":false}],"name":"SetIsFromFeeExempt"}]

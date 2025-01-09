@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"newBridgeRoleAddress","internalType":"address","type":"address","indexed":false}],"name":"MigrateBridgeRole"}]

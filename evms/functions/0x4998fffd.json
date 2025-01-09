@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"newGHODebtToken","internalType":"contract IGhoVariableDebtTokenTransferHook","type":"address"}],"name":"setGHODebtToken","outputs":[],"stateMutability":"nonpayable"}]

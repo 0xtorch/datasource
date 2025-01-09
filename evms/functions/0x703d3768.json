@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_srcEid","internalType":"uint32","type":"uint32"}],"name":"getAmountCanBeReceived","outputs":[{"name":"inboundAmountInFlight","internalType":"uint256","type":"uint256"},{"name":"amountCanBeReceived","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

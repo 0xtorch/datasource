@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[],"name":"getTotalRewards","outputs":[{"name":"","internalType":"struct SimpleAggregatorInterface.TotalReward[]","type":"tuple[]","components":[{"name":"term","internalType":"uint64","type":"uint64"},{"name":"value","internalType":"uint64","type":"uint64"}]}],"stateMutability":"view"}]

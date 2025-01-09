@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"list","internalType":"address[]","type":"address[]"},{"name":"amount","internalType":"uint256[]","type":"uint256[]"},{"name":"_category","internalType":"uint256[]","type":"uint256[]"}],"name":"batchMintToAmount","outputs":[],"stateMutability":"nonpayable"}]

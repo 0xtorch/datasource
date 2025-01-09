@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"strategist","internalType":"address","type":"address"},{"name":"flag","internalType":"bool","type":"bool"}],"name":"setStrategist","outputs":[],"stateMutability":"nonpayable"}]

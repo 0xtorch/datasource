@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"data","internalType":"struct Infinity.MintRequest","type":"tuple","components":[{"name":"nonce","internalType":"uint256","type":"uint256"},{"name":"toAddress","internalType":"address","type":"address"}]},{"name":"signature","internalType":"bytes","type":"bytes"}],"name":"mintInfinityCube","outputs":[],"stateMutability":"nonpayable"}]

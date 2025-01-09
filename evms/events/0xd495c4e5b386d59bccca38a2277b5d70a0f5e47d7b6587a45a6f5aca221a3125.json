@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"oldWormholeAddress","internalType":"address","type":"address","indexed":false},{"name":"newWormholeAddress","internalType":"address","type":"address","indexed":false}],"name":"WormholeAddressSet"}]

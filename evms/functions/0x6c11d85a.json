@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"recipients","internalType":"address[]","type":"address[]"},{"name":"ids","internalType":"uint256[]","type":"uint256[]"},{"name":"token","internalType":"address","type":"address"}],"name":"erc721Airdrop","outputs":[],"stateMutability":"payable"}]

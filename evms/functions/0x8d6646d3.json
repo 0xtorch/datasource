@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_nftID","internalType":"uint256","type":"uint256"},{"name":"_orgAddress","internalType":"address","type":"address"},{"name":"_teamMember","internalType":"address","type":"address"}],"name":"addTeamMember","outputs":[],"stateMutability":"nonpayable"}]

@@ -1,0 +1,1 @@
+[{"type":"function","constant":true,"inputs":[{"name":"_id","type":"uint40"}],"name":"getCooldownEndTime","outputs":[{"name":"cooldownEndTime","type":"uint40"}],"payable":false,"stateMutability":"view"}]

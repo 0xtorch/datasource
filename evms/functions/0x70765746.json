@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_quantities","internalType":"uint256[]","type":"uint256[]"},{"name":"_tokenIndexes","internalType":"uint256[]","type":"uint256[]"},{"name":"_merkleAmounts","internalType":"uint256[]","type":"uint256[]"},{"name":"_merkleProofs","internalType":"bytes32[][]","type":"bytes32[][]"}],"name":"purchase","outputs":[],"stateMutability":"payable"}]

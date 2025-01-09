@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[],"name":"stakeState","outputs":[{"name":"stakedTotal","internalType":"uint256","type":"uint256"},{"name":"stakingCap","internalType":"uint256","type":"uint256"},{"name":"stakedBalance","internalType":"uint256","type":"uint256"},{"name":"withdrawnEarly","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

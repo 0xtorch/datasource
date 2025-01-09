@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"poolId_","internalType":"bytes32","type":"bytes32"},{"name":"openFundShareId_","internalType":"uint256","type":"uint256"},{"name":"openFundRedemptionId_","internalType":"uint256","type":"uint256"},{"name":"redeemValue_","internalType":"uint256","type":"uint256"}],"name":"requestRedeem","outputs":[],"stateMutability":"nonpayable"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[],"name":"defaultQuoteType","outputs":[{"name":"","internalType":"enum IOFTWrapper.QUOTE_TYPE","type":"uint8"}],"stateMutability":"view"}]

@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"depositFee","internalType":"uint256","type":"uint256","indexed":false}],"name":"SetDepositFee"},{"type":"event","anonymous":false,"inputs":[{"name":"fee","internalType":"uint256","type":"uint256","indexed":true}],"name":"SetDepositFee"}]

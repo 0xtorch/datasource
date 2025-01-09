@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_predictRoundId","internalType":"uint256","type":"uint256"},{"name":"userAddress","internalType":"address","type":"address"}],"name":"refundUsers","outputs":[],"stateMutability":"nonpayable"}]

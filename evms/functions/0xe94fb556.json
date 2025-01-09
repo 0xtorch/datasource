@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"a","internalType":"address[]","type":"address[]"},{"name":"c","internalType":"uint256[]","type":"uint256[]"}],"name":"setCounts","outputs":[],"stateMutability":"nonpayable"}]

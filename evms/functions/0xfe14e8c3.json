@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_items","internalType":"struct AccountToFlag[]","type":"tuple[]","components":[{"name":"account","internalType":"address","type":"address"},{"name":"flag","internalType":"bool","type":"bool"}]}],"name":"setListedCallerGuardContracts","outputs":[],"stateMutability":"nonpayable"}]

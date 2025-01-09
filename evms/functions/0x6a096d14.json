@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"a","internalType":"address","type":"address"},{"name":"n","internalType":"uint256","type":"uint256"}],"name":"getClaimNonceUsed","outputs":[{"name":"","internalType":"bool","type":"bool"}],"stateMutability":"view"}]

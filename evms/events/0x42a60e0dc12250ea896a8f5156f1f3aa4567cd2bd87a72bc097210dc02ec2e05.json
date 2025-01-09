@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"isGlobalTipped","internalType":"bool","type":"bool","indexed":false}],"name":"GlobalTripChanged"}]

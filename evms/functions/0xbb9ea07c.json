@@ -1,0 +1,1 @@
+[{"type":"function","constant":true,"inputs":[{"name":"xLevel","type":"uint8"},{"name":"yLevel","type":"uint8"}],"name":"getGainExp","outputs":[{"name":"winExp","type":"uint32"},{"name":"loseExp","type":"uint32"}],"payable":false,"stateMutability":"view"}]

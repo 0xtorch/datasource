@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"","internalType":"uint256","type":"uint256"}],"name":"pairParams","outputs":[{"name":"onePercentDepthAbove","internalType":"uint256","type":"uint256"},{"name":"onePercentDepthBelow","internalType":"uint256","type":"uint256"},{"name":"rolloverFeePerBlockP","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

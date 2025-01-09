@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"chainID","internalType":"uint8","type":"uint8"},{"name":"quorum","internalType":"uint256","type":"uint256"},{"name":"expiry","internalType":"uint256","type":"uint256"},{"name":"voter","internalType":"address","type":"address"}],"name":"initialize","outputs":[],"stateMutability":"nonpayable"}]

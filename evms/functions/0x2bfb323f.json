@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"stakedToken","internalType":"address","type":"address"},{"name":"account","internalType":"address","type":"address"}],"name":"getOutstandingRewards","outputs":[{"name":"","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

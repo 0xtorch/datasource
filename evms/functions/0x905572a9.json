@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_specialType","internalType":"uint256","type":"uint256"},{"name":"clothTypeArray","internalType":"uint256[]","type":"uint256[]"},{"name":"itemTypeArray","internalType":"enum IItemTypeV2.ItemType[]","type":"uint8[]"}],"name":"setClothItemType","outputs":[],"stateMutability":"nonpayable"}]

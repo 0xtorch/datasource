@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"owner","internalType":"address","type":"address","indexed":true},{"name":"value","internalType":"uint96","type":"uint96","indexed":false}],"name":"Value"}]

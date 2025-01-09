@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_nftContract","internalType":"address","type":"address"}],"name":"isNftContractValid","outputs":[{"name":"","internalType":"bool","type":"bool"}],"stateMutability":"view"}]

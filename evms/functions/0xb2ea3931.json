@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_minimumAskPrice","internalType":"uint256","type":"uint256"},{"name":"_maximumAskPrice","internalType":"uint256","type":"uint256"}],"name":"updateMinimumAndMaximumPrices","outputs":[],"stateMutability":"nonpayable"}]

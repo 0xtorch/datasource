@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"roleName_","internalType":"bytes32","type":"bytes32"},{"name":"chainSlug_","internalType":"uint32","type":"uint32"},{"name":"address_","internalType":"address","type":"address"}],"name":"hasRoleWithSlug","outputs":[{"name":"","internalType":"bool","type":"bool"}],"stateMutability":"view"}]

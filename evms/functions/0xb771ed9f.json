@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"source","internalType":"uint256","type":"uint256"},{"name":"allowed","internalType":"bool","type":"bool"}],"name":"setSource","outputs":[{"name":"success","internalType":"bool","type":"bool"}],"stateMutability":"nonpayable"}]

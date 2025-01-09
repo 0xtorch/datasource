@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"_mintingAllowedAfter","internalType":"uint256","type":"uint256","indexed":true},{"name":"actor","internalType":"address","type":"address","indexed":true}],"name":"MintingAllowedAfterChanged"}]

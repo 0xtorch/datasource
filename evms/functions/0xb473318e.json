@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_gasPrice","internalType":"uint256","type":"uint256"},{"name":"_l2GasLimit","internalType":"uint256","type":"uint256"},{"name":"_l2GasPerPubdataByteLimit","internalType":"uint256","type":"uint256"}],"name":"l2TransactionBaseCost","outputs":[{"name":"","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

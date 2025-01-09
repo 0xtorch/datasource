@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"liquidator","internalType":"address","type":"address"},{"name":"borrower","internalType":"address","type":"address"},{"name":"seizeTokens","internalType":"uint256","type":"uint256"}],"name":"seize","outputs":[{"name":"","internalType":"uint256","type":"uint256"}],"stateMutability":"nonpayable"}]

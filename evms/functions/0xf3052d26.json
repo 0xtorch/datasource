@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"category","internalType":"uint256","type":"uint256"}],"name":"getCategory","outputs":[{"name":"","internalType":"string","type":"string"}],"stateMutability":"view"}]

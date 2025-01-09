@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_streakLifeTime","internalType":"uint256","type":"uint256"},{"name":"_startAtBlock","internalType":"uint256","type":"uint256"},{"name":"_admin","internalType":"address","type":"address"}],"name":"initialize","outputs":[],"stateMutability":"nonpayable"}]

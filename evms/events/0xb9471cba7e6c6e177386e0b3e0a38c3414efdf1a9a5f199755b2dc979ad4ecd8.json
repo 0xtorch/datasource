@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"cosmicBrain","internalType":"contract IWardenCosmicBrain","type":"address","indexed":true}],"name":"UpdatedWardenCosmicBrain"}]

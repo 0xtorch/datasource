@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"previous","internalType":"uint256","type":"uint256","indexed":false},{"name":"updated","internalType":"uint256","type":"uint256","indexed":false}],"name":"DisputeBlocksUpdated"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"blockNumber","internalType":"uint256","type":"uint256"}],"name":"rewardPerBlock","outputs":[{"name":"","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

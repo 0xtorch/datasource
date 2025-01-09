@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_teamId","internalType":"uint256","type":"uint256"},{"name":"_numberPoints","internalType":"uint256","type":"uint256"},{"name":"_campaignId","internalType":"uint256","type":"uint256"}],"name":"increaseTeamPoints","outputs":[],"stateMutability":"nonpayable"}]

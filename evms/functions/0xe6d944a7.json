@@ -1,0 +1,1 @@
+[{"type":"function","constant":true,"inputs":[{"name":"_heroType","type":"uint16"}],"name":"computeCurrentPrice","outputs":[{"name":"","type":"uint8"},{"name":"","type":"uint256"}],"payable":false,"stateMutability":"view"}]

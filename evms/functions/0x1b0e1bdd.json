@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_tokenIdList","internalType":"uint256[]","type":"uint256[]"},{"name":"_ipfsHashList","internalType":"bytes32[]","type":"bytes32[]"}],"name":"setIpfsHash","outputs":[],"stateMutability":"nonpayable"}]

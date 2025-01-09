@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_aggregator","internalType":"contract IAggregator","type":"address"}],"name":"setAggregator","outputs":[],"stateMutability":"nonpayable"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_rewardToken","internalType":"address","type":"address"},{"name":"_shouldAddIntoQLP","internalType":"bool","type":"bool"},{"name":"withdrawEth","internalType":"bool","type":"bool"}],"name":"claim","outputs":[],"stateMutability":"nonpayable"}]

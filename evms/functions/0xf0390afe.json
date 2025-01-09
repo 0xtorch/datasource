@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"txn","internalType":"struct IEndpoint.ClaimSequencerFees","type":"tuple","components":[{"name":"subaccount","internalType":"bytes32","type":"bytes32"}]},{"name":"fees","internalType":"int128[]","type":"int128[]"}],"name":"claimSequencerFees","outputs":[],"stateMutability":"nonpayable"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"pos","internalType":"address","type":"address"},{"name":"twapOverride","internalType":"bool","type":"bool"},{"name":"_twapInterval","internalType":"uint32","type":"uint32"}],"name":"setTwapOverride","outputs":[],"stateMutability":"nonpayable"}]

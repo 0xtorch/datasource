@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"proofType","internalType":"uint256","type":"uint256"}],"name":"verifiers","outputs":[{"name":"verifierAddress","internalType":"address","type":"address"}],"stateMutability":"view"}]

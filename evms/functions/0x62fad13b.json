@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[],"name":"globalEquilCovRatioWithCredit","outputs":[{"name":"equilCovRatio","internalType":"uint256","type":"uint256"},{"name":"invariantInUint","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

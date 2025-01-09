@@ -1,0 +1,1 @@
+[{"type":"function","constant":false,"inputs":[{"name":"_limit","internalType":"uint16","type":"uint16"}],"name":"setActivationLimit","outputs":[],"payable":false,"stateMutability":"nonpayable"}]

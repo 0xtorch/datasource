@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"op","internalType":"address","type":"address","indexed":false},{"name":"distributer","internalType":"address","type":"address","indexed":false}],"name":"AddDistributer"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_tradeCooldownTime","internalType":"uint256","type":"uint256"}],"name":"updateTradeCooldownTime","outputs":[],"stateMutability":"nonpayable"}]

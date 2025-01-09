@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"isMax","internalType":"bool","type":"bool"}],"name":"getPricePerShare","outputs":[{"name":"","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

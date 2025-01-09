@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"maxHave","internalType":"uint256","type":"uint256"},{"name":"maxBuyTax","internalType":"uint256","type":"uint256"},{"name":"maxSellTax","internalType":"uint256","type":"uint256"}],"name":"setLimit","outputs":[],"stateMutability":"nonpayable"}]

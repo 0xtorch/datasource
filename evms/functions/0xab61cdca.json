@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_partnerCollection","internalType":"address","type":"address"},{"name":"_maxSupply","internalType":"uint256","type":"uint256"}],"name":"setPartnerCollectionMaxSupplyOverride","outputs":[],"stateMutability":"nonpayable"}]

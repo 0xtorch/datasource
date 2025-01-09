@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_anchorManager","internalType":"address","type":"address"},{"name":"_isManager","internalType":"bool","type":"bool"}],"name":"updateAnchorManager","outputs":[],"stateMutability":"nonpayable"}]

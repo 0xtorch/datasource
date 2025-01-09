@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"rateOracle","internalType":"contract IRateOracle","type":"address","indexed":true}],"name":"RateOracleSetting"}]

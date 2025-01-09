@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"ticketSignature","internalType":"bytes","type":"bytes"},{"name":"ticket","internalType":"uint256","type":"uint256"},{"name":"quantity","internalType":"uint256","type":"uint256"}],"name":"mintForSummerHolder","outputs":[],"stateMutability":"payable"}]

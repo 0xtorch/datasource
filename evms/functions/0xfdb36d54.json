@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"extraAmountToClaim","internalType":"uint120","type":"uint120"}],"name":"claimUser2","outputs":[{"name":"amountToClaim","internalType":"uint120","type":"uint120"},{"name":"baseClaimAmount","internalType":"uint120","type":"uint120"},{"name":"currentUnlocked","internalType":"uint120","type":"uint120"}],"stateMutability":"nonpayable"}]

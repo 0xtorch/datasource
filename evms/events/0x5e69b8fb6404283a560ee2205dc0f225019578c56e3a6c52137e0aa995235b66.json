@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"types","internalType":"uint8[]","type":"uint8[]","indexed":false},{"name":"newModes","internalType":"bool[]","type":"bool[]","indexed":false}],"name":"ChangeSwapTypeMode"}]

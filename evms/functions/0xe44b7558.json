@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_depositToken","internalType":"address","type":"address"},{"name":"_isDepositToken","internalType":"bool","type":"bool"}],"name":"setDepositToken","outputs":[],"stateMutability":"nonpayable"}]

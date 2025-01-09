@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"base","internalType":"address","type":"address"},{"name":"quote","internalType":"address","type":"address"},{"name":"feed","internalType":"address","type":"address"}],"name":"setPriceFeed","outputs":[],"stateMutability":"nonpayable"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"redeemableContract","internalType":"address","type":"address"}],"name":"toggleAuthorizedContract","outputs":[],"stateMutability":"nonpayable"}]

@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"gauge","internalType":"contract IGauge","type":"address","indexed":true},{"name":"killed","internalType":"bool","type":"bool","indexed":false}],"name":"GaugeKilled"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_feeDistributor","internalType":"address","type":"address"}],"name":"setFeeDistributor","outputs":[],"stateMutability":"nonpayable"}]

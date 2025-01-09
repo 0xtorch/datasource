@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_tokenContract","internalType":"address","type":"address"},{"name":"_amountIn","internalType":"uint256","type":"uint256"},{"name":"_minAmountOut","internalType":"uint256","type":"uint256"},{"name":"_swapPath","internalType":"address[]","type":"address[]"}],"name":"buyXidBep20","outputs":[],"stateMutability":"nonpayable"}]

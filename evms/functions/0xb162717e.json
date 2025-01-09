@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"bonder","internalType":"address","type":"address"},{"name":"transferIds","internalType":"bytes32[]","type":"bytes32[]"},{"name":"totalAmount","internalType":"uint256","type":"uint256"}],"name":"settleBondedWithdrawals","outputs":[],"stateMutability":"nonpayable"}]

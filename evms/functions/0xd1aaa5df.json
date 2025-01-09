@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_msgHash","internalType":"bytes32","type":"bytes32"}],"name":"signalForFailedMessage","outputs":[{"name":"","internalType":"bytes32","type":"bytes32"}],"stateMutability":"pure"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"beneficiary","internalType":"address","type":"address"},{"name":"referralCode","internalType":"string","type":"string"},{"name":"merkleProof","internalType":"bytes32[]","type":"bytes32[]"}],"name":"deposit","outputs":[],"stateMutability":"payable"}]

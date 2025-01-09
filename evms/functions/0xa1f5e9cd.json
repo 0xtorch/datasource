@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"allbridgeMessenger_","internalType":"contract Messenger","type":"address"}],"name":"setAllbridgeMessenger","outputs":[],"stateMutability":"nonpayable"}]

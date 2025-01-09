@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"appID","internalType":"string","type":"string","indexed":false},{"name":"whitelist","internalType":"address","type":"address","indexed":true},{"name":"flag","internalType":"bool","type":"bool","indexed":false}],"name":"SetWhitelist"}]

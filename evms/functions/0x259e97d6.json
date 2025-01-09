@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_payees","internalType":"address[]","type":"address[]"},{"name":"_shares","internalType":"uint256[]","type":"uint256[]"}],"name":"replacePayees","outputs":[],"stateMutability":"nonpayable"}]

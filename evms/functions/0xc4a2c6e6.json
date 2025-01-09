@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_metadata","internalType":"struct MerkleVault.MerkleTreeMetadata","type":"tuple","components":[{"name":"root","internalType":"bytes32","type":"bytes32"},{"name":"dataIPFSHash","internalType":"string","type":"string"}]}],"name":"updateMerkleTree","outputs":[],"stateMutability":"nonpayable"}]

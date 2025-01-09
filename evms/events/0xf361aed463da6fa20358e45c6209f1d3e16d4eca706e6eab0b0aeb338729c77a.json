@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"profit_max_unlock_time","type":"uint256","indexed":false}],"name":"UpdateProfitMaxUnlockTime"}]

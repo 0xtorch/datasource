@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"tokenBridge","internalType":"address","type":"address"},{"name":"wormholeChainId","internalType":"uint16","type":"uint16"}],"name":"initWormhole","outputs":[],"stateMutability":"nonpayable"}]

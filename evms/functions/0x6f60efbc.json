@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_enabled","internalType":"bool","type":"bool"},{"name":"r","internalType":"uint256","type":"uint256"}],"name":"setSwapAndLiquifyEnabled","outputs":[],"stateMutability":"nonpayable"}]

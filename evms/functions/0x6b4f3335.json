@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"app","internalType":"contract ISuperApp","type":"address"}],"name":"isAppJailed","outputs":[{"name":"","internalType":"bool","type":"bool"}],"stateMutability":"view"}]

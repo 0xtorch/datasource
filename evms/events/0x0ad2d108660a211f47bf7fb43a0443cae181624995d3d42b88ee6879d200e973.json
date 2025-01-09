@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"app","internalType":"address","type":"address","indexed":false},{"name":"signal","internalType":"bytes32","type":"bytes32","indexed":false},{"name":"slot","internalType":"bytes32","type":"bytes32","indexed":false},{"name":"value","internalType":"bytes32","type":"bytes32","indexed":false}],"name":"SignalSent"}]

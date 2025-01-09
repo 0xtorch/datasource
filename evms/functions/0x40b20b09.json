@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"newFeeNumerator","internalType":"uint256","type":"uint256"},{"name":"newfeeReceiverAddress","internalType":"address","type":"address"}],"name":"setFeeParameters","outputs":[],"stateMutability":"nonpayable"}]

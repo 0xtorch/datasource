@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"sign","internalType":"bytes","type":"bytes"}],"name":"getMintState","outputs":[{"name":"state","internalType":"uint8","type":"uint8"}],"stateMutability":"view"}]

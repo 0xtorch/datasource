@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"adapter","internalType":"address","type":"address"}],"name":"isAdapterWhitelisted","outputs":[{"name":"","internalType":"bool","type":"bool"}],"stateMutability":"view"}]

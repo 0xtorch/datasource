@@ -1,0 +1,1 @@
+[{"type":"function","gas":2540,"inputs":[{"name":"addr","type":"address"}],"name":"get_last_user_slope","outputs":[{"name":"","type":"int128"}],"stateMutability":"view"}]

@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"edition","internalType":"address","type":"address","indexed":true},{"name":"mintId","internalType":"uint128","type":"uint128","indexed":false},{"name":"bps","internalType":"uint16","type":"uint16","indexed":false}],"name":"AffiliateFeeSet"}]

@@ -1,0 +1,1 @@
+[{"type":"function","constant":true,"inputs":[{"name":"btcAddr","internalType":"bytes20","type":"bytes20"},{"name":"rawSatoshis","internalType":"uint256","type":"uint256"},{"name":"proof","internalType":"bytes32[]","type":"bytes32[]"}],"name":"btcAddressIsClaimable","outputs":[{"name":"","internalType":"bool","type":"bool"}],"payable":false,"stateMutability":"view"}]

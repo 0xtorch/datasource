@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"destAccount","internalType":"address","type":"address","indexed":false}],"name":"DelegatedVolume"}]

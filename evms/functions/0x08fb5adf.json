@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[],"name":"sent_totals","outputs":[{"name":"eth","internalType":"uint256","type":"uint256"},{"name":"usdb","internalType":"uint256","type":"uint256"},{"name":"weth","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

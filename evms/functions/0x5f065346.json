@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"poolAddress","internalType":"address","type":"address"},{"name":"principalAmount","internalType":"uint256","type":"uint256"},{"name":"interestAmount","internalType":"uint256","type":"uint256"}],"name":"pay","outputs":[],"stateMutability":"nonpayable"}]

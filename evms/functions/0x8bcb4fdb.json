@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"withdrawMessageId","internalType":"uint64","type":"uint64"}],"name":"withdrawMsgIdProcessed","outputs":[{"name":"blockNumber","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

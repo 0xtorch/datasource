@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_token","internalType":"address","type":"address"},{"name":"_isLong","internalType":"bool","type":"bool"}],"name":"getOI","outputs":[{"name":"finalOI","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

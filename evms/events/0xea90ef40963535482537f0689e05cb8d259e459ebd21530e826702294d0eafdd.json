@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"_of","type":"address","indexed":true},{"name":"_reason","type":"bytes32","indexed":true},{"name":"_amount","type":"uint256","indexed":false},{"name":"_validity","type":"uint256","indexed":false}],"name":"Locked"}]

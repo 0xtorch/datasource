@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"switchboardAddress_","internalType":"address","type":"address"},{"name":"nativePacketIds_","internalType":"bytes32[]","type":"bytes32[]"}],"name":"initiateNativeBatch","outputs":[],"stateMutability":"nonpayable"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"level","internalType":"enum Minter.NFTLevel","type":"uint8"},{"name":"newContractAddress","internalType":"address","type":"address"}],"name":"setNFTContractAddress","outputs":[],"stateMutability":"nonpayable"}]

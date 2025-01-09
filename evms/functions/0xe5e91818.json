@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"strategy","type":"address"},{"name":"amount","type":"uint256"}],"name":"buy_debt","outputs":[],"stateMutability":"nonpayable"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"","internalType":"address","type":"address"}],"name":"config","outputs":[{"name":"tokenType","internalType":"enum LocalBridgeConfig.TokenType","type":"uint8"},{"name":"bridgeToken","internalType":"address","type":"address"}],"stateMutability":"view"}]

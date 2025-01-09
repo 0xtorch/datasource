@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"longTokensToRedeem","internalType":"uint256","type":"uint256"},{"name":"shortTokensToRedeem","internalType":"uint256","type":"uint256"}],"name":"settle","outputs":[{"name":"collateralReturned","internalType":"uint256","type":"uint256"}],"stateMutability":"nonpayable"}]

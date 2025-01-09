@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"token","internalType":"contract ISuperfluidToken","type":"address"},{"name":"flowOperatorId","internalType":"bytes32","type":"bytes32"}],"name":"getFlowOperatorDataByID","outputs":[{"name":"permissions","internalType":"uint8","type":"uint8"},{"name":"flowRateAllowance","internalType":"int96","type":"int96"}],"stateMutability":"view"}]

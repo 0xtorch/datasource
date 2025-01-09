@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"tokenAddress","internalType":"contract IERC20","type":"address"},{"name":"walletaddress","internalType":"address","type":"address"}],"name":"claimOtherTokens","outputs":[],"stateMutability":"nonpayable"}]

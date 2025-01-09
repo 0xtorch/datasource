@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"","internalType":"uint256","type":"uint256"}],"name":"maxActionState","outputs":[{"name":"firstActionTimestamp","internalType":"uint256","type":"uint256"},{"name":"count","internalType":"uint16","type":"uint16"}],"stateMutability":"view"}]

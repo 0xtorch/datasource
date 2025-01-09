@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_splitter","internalType":"contract IJonesGlpRewardsSplitter","type":"address"}],"name":"setSplitter","outputs":[],"stateMutability":"nonpayable"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_maxTransactionRateBuy","internalType":"uint256","type":"uint256"},{"name":"_maxTransactionRateSell","internalType":"uint256","type":"uint256"}],"name":"setMaxTransactionRates_Denominator1000","outputs":[],"stateMutability":"nonpayable"}]

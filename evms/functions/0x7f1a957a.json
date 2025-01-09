@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[],"name":"getSwapProps","outputs":[{"name":"","internalType":"struct UniswapV3SwapZapper.SwapProps","type":"tuple","components":[{"name":"swapRouter","internalType":"contract IV3SwapRouter","type":"address"},{"name":"inPath","internalType":"bytes","type":"bytes"},{"name":"outPath","internalType":"bytes","type":"bytes"}]}],"stateMutability":"view"}]

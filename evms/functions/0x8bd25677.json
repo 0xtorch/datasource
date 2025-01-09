@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"asset","internalType":"address","type":"address"},{"name":"aTokenAddress","internalType":"address","type":"address"},{"name":"variableDebtAddress","internalType":"address","type":"address"},{"name":"interestRateStrategyAddress","internalType":"address","type":"address"}],"name":"initReserve","outputs":[],"stateMutability":"nonpayable"}]

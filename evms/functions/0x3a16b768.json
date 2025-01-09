@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"recipient","internalType":"address","type":"address"},{"name":"rate","internalType":"uint16","type":"uint16"}],"name":"setProtocolFee","outputs":[],"stateMutability":"nonpayable"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"contractAddress","internalType":"address","type":"address"},{"name":"_payoutAddress","internalType":"address payable","type":"address"},{"name":"_payoutPerMille","internalType":"uint256","type":"uint256"}],"name":"setRoyalty","outputs":[],"stateMutability":"nonpayable"}]

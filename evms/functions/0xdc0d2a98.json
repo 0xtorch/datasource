@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"","internalType":"address","type":"address"}],"name":"last_redeemed","outputs":[{"name":"","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

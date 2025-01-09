@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"from","internalType":"address","type":"address"},{"name":"to","internalType":"address","type":"address"},{"name":"","internalType":"uint256","type":"uint256"},{"name":"token","internalType":"address","type":"address"}],"name":"beforeTokenTransfer","outputs":[],"stateMutability":"nonpayable"}]

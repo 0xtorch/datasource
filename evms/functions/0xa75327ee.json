@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"curveAdapter","internalType":"address","type":"address"},{"name":"convexAdapter","internalType":"address","type":"address"}],"name":"openCreditAccount","outputs":[],"stateMutability":"nonpayable"}]

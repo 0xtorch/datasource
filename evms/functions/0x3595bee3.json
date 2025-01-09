@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"creatorContractAddress","internalType":"address","type":"address"},{"name":"recipient","internalType":"address","type":"address"},{"name":"tokenURI","internalType":"string","type":"string"}],"name":"mintToken","outputs":[],"stateMutability":"nonpayable"}]

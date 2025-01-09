@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"required","internalType":"uint256","type":"uint256"}],"name":"isSenderInRole","outputs":[{"name":"","internalType":"bool","type":"bool"}],"stateMutability":"view"}]

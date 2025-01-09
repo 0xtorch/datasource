@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"chainId","internalType":"uint256","type":"uint256"}],"name":"destinationBridgeAdapter","outputs":[{"name":"remoteBridgeAdapter","internalType":"address","type":"address"}],"stateMutability":"view"}]

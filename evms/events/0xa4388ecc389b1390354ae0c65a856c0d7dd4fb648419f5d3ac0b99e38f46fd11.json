@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"trustedForwarder","internalType":"address","type":"address","indexed":false}],"name":"TrustedForwarderUpdated"}]

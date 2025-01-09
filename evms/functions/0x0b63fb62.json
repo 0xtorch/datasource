@@ -1,0 +1,1 @@
+[{"type":"function","constant":false,"inputs":[{"name":"cdp","internalType":"uint256","type":"uint256"},{"name":"usr","internalType":"address","type":"address"},{"name":"ok","internalType":"uint256","type":"uint256"}],"name":"cdpAllow","outputs":[],"payable":false,"stateMutability":"nonpayable"}]

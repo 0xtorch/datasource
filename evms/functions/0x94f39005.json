@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"tradeLiquidity","internalType":"uint256","type":"uint256"}],"name":"getLastTradeLiquiditySum","outputs":[{"name":"_tradeLiquiditySum","internalType":"uint112","type":"uint112"},{"name":"_lastTradeBlockNumber","internalType":"uint32","type":"uint32"}],"stateMutability":"view"}]

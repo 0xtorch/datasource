@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_strategy","internalType":"contract IYieldOwlStrategy","type":"address"},{"name":"_extraEarnTokens","internalType":"address[]","type":"address[]"}],"name":"setStrategyExtraEarnTokens","outputs":[],"stateMutability":"nonpayable"}]

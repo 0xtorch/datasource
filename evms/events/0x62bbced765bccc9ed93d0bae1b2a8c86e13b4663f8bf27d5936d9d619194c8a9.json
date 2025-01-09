@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"newDebtToken","internalType":"address","type":"address","indexed":true}],"name":"GHODebtTokenChanged"}]

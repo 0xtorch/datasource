@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"market","internalType":"address","type":"address"}],"name":"calculateCapToBeUsed","outputs":[{"name":"","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

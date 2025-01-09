@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[],"name":"getType","outputs":[{"name":"burnable","internalType":"bool","type":"bool"},{"name":"mintable","internalType":"bool","type":"bool"},{"name":"pausable","internalType":"bool","type":"bool"}],"stateMutability":"pure"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"code","internalType":"uint256","type":"uint256"},{"name":"basisPoints","internalType":"uint16","type":"uint16"},{"name":"permanent","internalType":"bool","type":"bool"},{"name":"account","internalType":"address","type":"address"}],"name":"setReferralCode","outputs":[],"stateMutability":"nonpayable"}]

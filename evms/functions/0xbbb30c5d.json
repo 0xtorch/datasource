@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"minterAddress","internalType":"address","type":"address"}],"name":"getMinterStatus","outputs":[{"name":"minterStatus","internalType":"bool","type":"bool"}],"stateMutability":"view"}]

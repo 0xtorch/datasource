@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_stoppedPubKeys","internalType":"bytes[]","type":"bytes[]"},{"name":"_stoppedBalance","internalType":"uint256","type":"uint256"},{"name":"clock","internalType":"bytes32","type":"bytes32"}],"name":"validatorStopped","outputs":[],"stateMutability":"nonpayable"}]

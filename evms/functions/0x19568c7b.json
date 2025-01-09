@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[],"name":"stableTokenPriceFeed","outputs":[{"name":"","internalType":"contract IChainLinkAggregator","type":"address"}],"stateMutability":"view"}]

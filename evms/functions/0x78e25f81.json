@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_address","internalType":"address","type":"address"},{"name":"name","internalType":"string","type":"string"},{"name":"allowedMints","internalType":"uint8","type":"uint8"}],"name":"addAllowed","outputs":[],"stateMutability":"nonpayable"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"reveal","internalType":"bytes32","type":"bytes32"},{"name":"blockNumber","internalType":"uint256","type":"uint256"}],"name":"revealResult","outputs":[],"stateMutability":"nonpayable"}]

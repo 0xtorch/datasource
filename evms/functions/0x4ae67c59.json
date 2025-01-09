@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_from","internalType":"address payable","type":"address"},{"name":"_bridge","internalType":"enum IPortfolioBridge.BridgeProvider","type":"uint8"}],"name":"depositNative","outputs":[],"stateMutability":"payable"}]

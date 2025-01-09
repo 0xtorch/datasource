@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"played","internalType":"uint256","type":"uint256"}],"name":"p2ecalculatereward","outputs":[{"name":"","internalType":"uint256","type":"uint256"},{"name":"","internalType":"bool","type":"bool"}],"stateMutability":"view"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_fromAmount","internalType":"uint256","type":"uint256"},{"name":"_isForward","internalType":"bool","type":"bool"}],"name":"calculateLocalAmount","outputs":[{"name":"result","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

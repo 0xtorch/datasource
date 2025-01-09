@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_uniswapV2Factory","internalType":"address","type":"address"},{"name":"_uniswapV2Router","internalType":"address","type":"address"}],"name":"setUniswapAddresses","outputs":[],"stateMutability":"nonpayable"}]

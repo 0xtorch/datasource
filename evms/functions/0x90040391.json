@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"dogId1","internalType":"uint256","type":"uint256"},{"name":"dogId2","internalType":"uint256","type":"uint256"},{"name":"traitMap","internalType":"uint256","type":"uint256"}],"name":"combineDogs","outputs":[],"stateMutability":"nonpayable"}]

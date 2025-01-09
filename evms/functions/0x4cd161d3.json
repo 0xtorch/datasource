@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"binStep","internalType":"uint16","type":"uint16"},{"name":"isOpen","internalType":"bool","type":"bool"}],"name":"setPresetOpenState","outputs":[],"stateMutability":"nonpayable"}]

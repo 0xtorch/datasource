@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_account1","internalType":"address","type":"address"},{"name":"_account2","internalType":"address","type":"address"}],"name":"setWithdrawAccounts","outputs":[],"stateMutability":"nonpayable"}]

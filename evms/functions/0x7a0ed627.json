@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[],"name":"facets","outputs":[{"name":"facets_","internalType":"struct IDiamondLoupe.Facet[]","type":"tuple[]","components":[{"name":"facetAddress","internalType":"address","type":"address"},{"name":"functionSelectors","internalType":"bytes4[]","type":"bytes4[]"}]}],"stateMutability":"view"}]

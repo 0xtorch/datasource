@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"oldHouse","internalType":"bytes32","type":"bytes32","indexed":false},{"name":"newHouse","internalType":"bytes32","type":"bytes32","indexed":false},{"name":"userAddress","internalType":"address","type":"address","indexed":true}],"name":"HouseChanged"}]

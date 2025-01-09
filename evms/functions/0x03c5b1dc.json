@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_startTimestamp","internalType":"uint256","type":"uint256"},{"name":"_durationSeconds","internalType":"uint256","type":"uint256"}],"name":"setPeriod","outputs":[],"stateMutability":"nonpayable"}]

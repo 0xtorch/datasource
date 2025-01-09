@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_sender","internalType":"address","type":"address"},{"name":"_contract","internalType":"address","type":"address"},{"name":"_selector","internalType":"bytes4","type":"bytes4"}],"name":"adminACLAllowed","outputs":[{"name":"","internalType":"bool","type":"bool"}],"stateMutability":"nonpayable"}]

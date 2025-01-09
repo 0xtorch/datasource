@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"ticket","internalType":"uint256","type":"uint256"}],"name":"isPublicMintTicketUsed","outputs":[{"name":"","internalType":"bool","type":"bool"}],"stateMutability":"view"}]

@@ -1,0 +1,1 @@
+[{"type":"function","constant":true,"inputs":[],"name":"getCollectedFees","outputs":[{"name":"_collectedFee0","internalType":"uint112","type":"uint112"},{"name":"_collectedFee1","internalType":"uint112","type":"uint112"}],"payable":false,"stateMutability":"view"}]

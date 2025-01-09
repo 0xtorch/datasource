@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"profit","internalType":"uint256","type":"uint256"},{"name":"performanceFee","internalType":"uint256","type":"uint256"}],"name":"reportProfit","outputs":[],"stateMutability":"nonpayable"}]

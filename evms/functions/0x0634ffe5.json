@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"spiritTokenIds","internalType":"uint256[]","type":"uint256[]"}],"name":"areSpiritTokensSoulless","outputs":[{"name":"soullessStatuses","internalType":"bool[]","type":"bool[]"}],"stateMutability":"view"}]

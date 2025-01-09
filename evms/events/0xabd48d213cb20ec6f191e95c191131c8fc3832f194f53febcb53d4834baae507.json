@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"cubeTokenId","internalType":"uint256","type":"uint256","indexed":true},{"name":"txHash","internalType":"string","type":"string","indexed":false},{"name":"networkChainId","internalType":"string","type":"string","indexed":false}],"name":"CubeTransaction"}]

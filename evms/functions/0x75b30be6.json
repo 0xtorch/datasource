@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"asset","type":"address"},{"name":"name","type":"string"},{"name":"symbol","type":"string"},{"name":"role_manager","type":"address"},{"name":"profit_max_unlock_time","type":"uint256"}],"name":"initialize","outputs":[],"stateMutability":"nonpayable"}]

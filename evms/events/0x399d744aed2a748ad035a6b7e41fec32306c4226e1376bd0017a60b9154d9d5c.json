@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"requestor","internalType":"address","type":"address","indexed":false},{"name":"feeBPS","internalType":"uint16","type":"uint16","indexed":false},{"name":"referrerBPS","internalType":"uint16","type":"uint16","indexed":false}],"name":"MarketplaceFees"}]

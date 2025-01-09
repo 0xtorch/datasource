@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_preSaleStartTimeInSeconds","internalType":"uint256","type":"uint256"},{"name":"_preSaleEndTimeInSeconds","internalType":"uint256","type":"uint256"}],"name":"setPreSaleTime","outputs":[],"stateMutability":"nonpayable"}]

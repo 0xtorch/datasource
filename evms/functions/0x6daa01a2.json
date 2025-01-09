@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"allocateToUnstakeRequestsManager","internalType":"uint256","type":"uint256"},{"name":"allocateToDeposits","internalType":"uint256","type":"uint256"}],"name":"allocateETH","outputs":[],"stateMutability":"nonpayable"}]

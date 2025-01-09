@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"txn","internalType":"struct IEndpoint.Rebate","type":"tuple","components":[{"name":"subaccounts","internalType":"bytes32[]","type":"bytes32[]"},{"name":"amounts","internalType":"int128[]","type":"int128[]"}]}],"name":"rebate","outputs":[],"stateMutability":"nonpayable"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"startSlot","internalType":"bytes32","type":"bytes32"},{"name":"nSlot","internalType":"uint256","type":"uint256"}],"name":"load","outputs":[{"name":"value","internalType":"bytes","type":"bytes"}],"stateMutability":"view"}]

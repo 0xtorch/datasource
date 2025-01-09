@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_POSW","internalType":"uint256","type":"uint256"},{"name":"_tokenId_PM","internalType":"uint256","type":"uint256"}],"name":"Algorithm","outputs":[{"name":"amount","internalType":"uint256","type":"uint256"},{"name":"todayExcess","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

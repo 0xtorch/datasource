@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"clothes","internalType":"enum HealthreeNFTService.Clothes","type":"uint8"},{"name":"whiteList","internalType":"address[]","type":"address[]"}],"name":"setWhiteList","outputs":[],"stateMutability":"nonpayable"}]

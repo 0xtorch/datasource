@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"","internalType":"uint256","type":"uint256"}],"name":"vaults","outputs":[{"name":"Id","internalType":"uint256","type":"uint256"},{"name":"Collateral","internalType":"uint256","type":"uint256"},{"name":"Debt","internalType":"uint256","type":"uint256"},{"name":"Owner","internalType":"address","type":"address"}],"stateMutability":"view"}]

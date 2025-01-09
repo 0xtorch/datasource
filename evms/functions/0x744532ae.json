@@ -1,0 +1,1 @@
+[{"type":"function","constant":false,"inputs":[{"name":"rewardType","internalType":"uint8","type":"uint8"},{"name":"holder","internalType":"address payable","type":"address"},{"name":"jTokens","internalType":"contract JToken[]","type":"address[]"}],"name":"claimReward","outputs":[],"payable":false,"stateMutability":"nonpayable"}]

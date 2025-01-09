@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_startIndex","internalType":"uint256","type":"uint256"},{"name":"_pageSize","internalType":"uint256","type":"uint256"}],"name":"getMembers","outputs":[{"name":"","internalType":"address[]","type":"address[]"}],"stateMutability":"view"}]

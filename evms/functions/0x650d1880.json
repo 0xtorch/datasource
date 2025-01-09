@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"gasCost","internalType":"uint256","type":"uint256"}],"name":"tendTrigger","outputs":[{"name":"","internalType":"bool","type":"bool"}],"stateMutability":"view"}]

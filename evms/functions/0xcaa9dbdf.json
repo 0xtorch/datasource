@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"spender","internalType":"address","type":"address"},{"name":"addedValue","internalType":"int256","type":"int256"}],"name":"increaseAllowance","outputs":[{"name":"","internalType":"bool","type":"bool"}],"stateMutability":"nonpayable"}]

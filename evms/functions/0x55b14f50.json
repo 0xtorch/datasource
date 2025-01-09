@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_defaultValidator","internalType":"contract IKernelValidator","type":"address"},{"name":"_data","internalType":"bytes","type":"bytes"}],"name":"setDefaultValidator","outputs":[],"stateMutability":"payable"}]

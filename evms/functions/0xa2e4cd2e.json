@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_keyPrice","internalType":"uint256","type":"uint256"},{"name":"_tokenAddress","internalType":"address","type":"address"}],"name":"updateKeyPricing","outputs":[],"stateMutability":"nonpayable"}]

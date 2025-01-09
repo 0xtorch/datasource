@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_blockProducer","internalType":"address","type":"address"},{"name":"_period","internalType":"uint256","type":"uint256"}],"name":"checkMiningRewardDeprecatedAtPeriod","outputs":[{"name":"_result","internalType":"bool","type":"bool"}],"stateMutability":"view"}]

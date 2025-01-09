@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"tok","internalType":"Token","type":"bytes32"},{"name":"gaugeAmount","internalType":"uint128","type":"uint128"},{"name":"poolAmount","internalType":"uint128","type":"uint128"}],"name":"notifyInitialSupply","outputs":[],"stateMutability":"nonpayable"}]

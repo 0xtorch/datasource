@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_settlementTokenManager","internalType":"address","type":"address"}],"name":"setSettlementTokenManager","outputs":[],"stateMutability":"nonpayable"}]

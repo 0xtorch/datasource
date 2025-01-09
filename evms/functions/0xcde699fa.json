@@ -1,0 +1,1 @@
+[{"type":"function","gas":26492,"inputs":[{"name":"amounts","type":"uint256[3]"},{"name":"xp","type":"uint256[3]"}],"name":"calc_token_fee","outputs":[{"name":"","type":"uint256"}],"stateMutability":"view"}]

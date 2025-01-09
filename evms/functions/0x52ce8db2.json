@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_deflationBurnDivisor","internalType":"uint256","type":"uint256"},{"name":"_inflationBurnDivisor","internalType":"uint256","type":"uint256"}],"name":"setDivisors","outputs":[],"stateMutability":"nonpayable"}]

@@ -1,0 +1,1 @@
+[{"type":"function","gas":4442660,"inputs":[{"name":"_reward_contract","type":"address"},{"name":"_claim_sig","type":"bytes32"},{"name":"_reward_tokens","type":"address[8]"}],"name":"set_rewards","outputs":[],"stateMutability":"nonpayable"}]

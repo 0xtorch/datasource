@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"poolId","internalType":"uint256","type":"uint256"},{"name":"token","internalType":"address","type":"address"},{"name":"convertRateDecimals","internalType":"uint8","type":"uint8"}],"name":"createPool","outputs":[],"stateMutability":"nonpayable"}]

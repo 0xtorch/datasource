@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"pair","internalType":"address","type":"address"},{"name":"hasPair","internalType":"bool","type":"bool"}],"name":"setAmmPair","outputs":[],"stateMutability":"nonpayable"}]

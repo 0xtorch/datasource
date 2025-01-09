@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"droneContract","internalType":"contract IDEFYDrone","type":"address"}],"name":"getDroneContractValidity","outputs":[{"name":"","internalType":"bool","type":"bool"}],"stateMutability":"view"}]

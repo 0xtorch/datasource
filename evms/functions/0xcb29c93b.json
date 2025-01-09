@@ -1,0 +1,1 @@
+[{"type":"function","constant":false,"inputs":[{"name":"listAddress","type":"address[]"},{"name":"isBlackListed","type":"bool"}],"name":"blackAddressList","outputs":[{"name":"success","type":"bool"}],"payable":false,"stateMutability":"nonpayable"}]

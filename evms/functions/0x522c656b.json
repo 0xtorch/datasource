@@ -1,0 +1,1 @@
+[{"type":"function","constant":false,"inputs":[{"name":"vTokenBorrowed","internalType":"address","type":"address"},{"name":"enable","internalType":"bool","type":"bool"}],"name":"_setForcedLiquidation","outputs":[],"payable":false,"stateMutability":"nonpayable"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_vrfCoordinator","internalType":"address","type":"address"},{"name":"_keyHash","internalType":"bytes32","type":"bytes32"},{"name":"_subscriptionId","internalType":"uint64","type":"uint64"},{"name":"_callbackGasLimit","internalType":"uint32","type":"uint32"}],"name":"setVRF","outputs":[],"stateMutability":"nonpayable"}]

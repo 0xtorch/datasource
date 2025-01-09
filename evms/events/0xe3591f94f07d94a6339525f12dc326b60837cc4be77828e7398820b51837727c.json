@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"pID","type":"uint256","indexed":false},{"name":"affID","type":"uint256","indexed":false},{"name":"aff_affID","type":"uint256","indexed":false},{"name":"affReward","type":"uint256","indexed":false},{"name":"aff_affReward","type":"uint256","indexed":false},{"name":"amount","type":"uint256","indexed":false}],"name":"eveSettle"}]

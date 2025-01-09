@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"sender","internalType":"address","type":"address"},{"name":"orderId","internalType":"uint256","type":"uint256"}],"name":"cancelLongTermSwap","outputs":[{"name":"unsoldAmount","internalType":"uint256","type":"uint256"},{"name":"purchasedAmount","internalType":"uint256","type":"uint256"}],"stateMutability":"nonpayable"}]

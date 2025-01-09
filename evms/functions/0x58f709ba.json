@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"newOwner","internalType":"address","type":"address"}],"name":"transferTransceiverOwnership","outputs":[],"stateMutability":"nonpayable"}]

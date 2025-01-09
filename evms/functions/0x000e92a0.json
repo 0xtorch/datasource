@@ -1,0 +1,1 @@
+[{"type":"function","constant":true,"inputs":[{"name":"listId","type":"uint256"}],"name":"getOwnerOfList","outputs":[{"name":"","type":"address"}],"payable":false,"stateMutability":"view"}]

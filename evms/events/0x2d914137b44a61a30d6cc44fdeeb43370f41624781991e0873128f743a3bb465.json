@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"_signatureAddress","internalType":"address","type":"address","indexed":false},{"name":"sender","internalType":"address","type":"address","indexed":false}],"name":"SetSignatureAddress"}]

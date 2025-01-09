@@ -1,0 +1,1 @@
+[{"type":"function","constant":true,"inputs":[],"name":"pendingProxyOwner","outputs":[{"name":"pendingOwner","type":"address"}],"payable":false,"stateMutability":"view"}]

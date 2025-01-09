@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"potentialPair","internalType":"address","type":"address"},{"name":"variant","internalType":"enum ILSSVMPairFactoryLike.PairVariant","type":"uint8"}],"name":"isPair","outputs":[{"name":"","internalType":"bool","type":"bool"}],"stateMutability":"view"}]

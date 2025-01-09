@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"enable","internalType":"bool","type":"bool"},{"name":"operatorFilter","internalType":"address","type":"address"}],"name":"updateOperatorFilter","outputs":[],"stateMutability":"nonpayable"}]

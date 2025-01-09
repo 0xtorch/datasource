@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_bunnyId","internalType":"uint8","type":"uint8"},{"name":"_numberPoints","internalType":"uint256","type":"uint256"}],"name":"changeNumberPoints","outputs":[],"stateMutability":"nonpayable"}]

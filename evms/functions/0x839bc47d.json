@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_assetIn","internalType":"address","type":"address"},{"name":"_assetOut","internalType":"address","type":"address"}],"name":"getSwapEnabledSCDP","outputs":[{"name":"","internalType":"bool","type":"bool"}],"stateMutability":"view"}]

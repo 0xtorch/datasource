@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_typeId","internalType":"uint256","type":"uint256"},{"name":"_quantityPerRecipient","internalType":"uint256","type":"uint256"},{"name":"recipients","internalType":"address[]","type":"address[]"}],"name":"bulkSafeTransfer","outputs":[],"stateMutability":"nonpayable"}]

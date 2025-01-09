@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"","internalType":"address","type":"address"}],"name":"nftContractSettings","outputs":[{"name":"claimPaused","internalType":"bool","type":"bool"},{"name":"registered","internalType":"bool","type":"bool"}],"stateMutability":"view"}]

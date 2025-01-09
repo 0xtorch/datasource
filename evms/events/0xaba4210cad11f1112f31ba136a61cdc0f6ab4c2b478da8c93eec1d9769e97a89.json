@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"roundId","internalType":"uint256","type":"uint256","indexed":true},{"name":"recipient","internalType":"address","type":"address","indexed":true},{"name":"refundDispersed","internalType":"uint256","type":"uint256","indexed":false},{"name":"timestamp","internalType":"uint256","type":"uint256","indexed":false}],"name":"Refund"}]

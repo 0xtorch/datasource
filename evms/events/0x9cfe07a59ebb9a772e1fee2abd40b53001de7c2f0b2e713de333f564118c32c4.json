@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"priceCumulativeLast","internalType":"uint256","type":"uint256","indexed":false},{"name":"blockTimestampLast","internalType":"uint256","type":"uint256","indexed":false},{"name":"priceAverageLast","internalType":"uint256","type":"uint256","indexed":false}],"name":"TwapUpdated"}]

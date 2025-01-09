@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"app","internalType":"contract ISuperApp","type":"address"}],"name":"getAppManifest","outputs":[{"name":"isSuperApp","internalType":"bool","type":"bool"},{"name":"isJailed","internalType":"bool","type":"bool"},{"name":"noopMask","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

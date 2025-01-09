@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[],"name":"checkBuffer","outputs":[{"name":"bufferRemaining","internalType":"int256","type":"int256"}],"stateMutability":"view"}]

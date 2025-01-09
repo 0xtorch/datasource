@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"srcChainId","internalType":"uint8","type":"uint8"}],"name":"getNonceCheckpoint","outputs":[{"name":"","internalType":"uint64","type":"uint64"}],"stateMutability":"view"}]

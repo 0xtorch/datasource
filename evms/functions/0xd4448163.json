@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"chainId","internalType":"uint256","type":"uint256"},{"name":"_crossDomainMessengerWrapper","internalType":"contract IMessengerWrapper","type":"address"}],"name":"setCrossDomainMessengerWrapper","outputs":[],"stateMutability":"nonpayable"}]

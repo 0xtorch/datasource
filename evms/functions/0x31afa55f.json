@@ -1,0 +1,1 @@
+[{"type":"function","constant":false,"inputs":[{"name":"_objId","type":"uint64"},{"name":"amount","type":"uint32"}],"name":"decreaseMonsterExp","outputs":[],"payable":false,"stateMutability":"nonpayable"}]

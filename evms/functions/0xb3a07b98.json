@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_assetId","internalType":"uint256","type":"uint256"},{"name":"_pendingCap","internalType":"uint32","type":"uint32"},{"name":"_dailyCap","internalType":"uint32","type":"uint32"},{"name":"_precision","internalType":"uint8","type":"uint8"}],"name":"setAssetCap","outputs":[],"stateMutability":"nonpayable"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"numberHero","internalType":"uint256[]","type":"uint256[]"},{"name":"requirementHeroOrRace","internalType":"uint256[]","type":"uint256[]"},{"name":"heroesTierFood","internalType":"uint256[]","type":"uint256[]"}],"name":"addRule","outputs":[],"stateMutability":"nonpayable"}]

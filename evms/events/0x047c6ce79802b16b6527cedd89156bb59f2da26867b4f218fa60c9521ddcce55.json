@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"blockNumber","internalType":"uint256","type":"uint256","indexed":true},{"name":"stateRootHash","internalType":"bytes32","type":"bytes32","indexed":true},{"name":"finalizedWithProof","internalType":"bool","type":"bool","indexed":true}],"name":"BlockFinalized"}]

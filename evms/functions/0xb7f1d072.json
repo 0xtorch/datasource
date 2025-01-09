@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_contract","internalType":"contract ITokenURIGenerator","type":"address"}],"name":"setRenderingContract","outputs":[],"stateMutability":"nonpayable"}]

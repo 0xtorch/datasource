@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"paused","internalType":"bool","type":"bool"}],"name":"setMintFromControllerPaused","outputs":[],"stateMutability":"nonpayable"}]

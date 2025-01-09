@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_tokenAddress","internalType":"address","type":"address"},{"name":"_tokenHelper","internalType":"address","type":"address"},{"name":"_convertor","internalType":"address","type":"address"},{"name":"_depositFor","internalType":"bool","type":"bool"}],"name":"addReward","outputs":[],"stateMutability":"nonpayable"}]

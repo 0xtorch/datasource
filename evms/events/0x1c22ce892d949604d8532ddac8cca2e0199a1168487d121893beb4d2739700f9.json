@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"positionFee","internalType":"uint256","type":"uint256","indexed":false},{"name":"liquidationFee","internalType":"uint256","type":"uint256","indexed":false}],"name":"PositionFeeSet"}]

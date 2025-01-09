@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"labelhash","internalType":"bytes32","type":"bytes32"},{"name":"registrant","internalType":"address","type":"address"},{"name":"controller","internalType":"address","type":"address"}],"name":"unwrapETH2LD","outputs":[],"stateMutability":"nonpayable"}]

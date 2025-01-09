@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"identifier","internalType":"uint256","type":"uint256"},{"name":"_hook","internalType":"address","type":"address"}],"name":"setRenewPriceHook","outputs":[],"stateMutability":"nonpayable"}]

@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"submission","internalType":"int256","type":"int256","indexed":true},{"name":"round","internalType":"uint32","type":"uint32","indexed":true},{"name":"oracle","internalType":"address","type":"address","indexed":true}],"name":"SubmissionReceived"}]

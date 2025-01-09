@@ -1,0 +1,1 @@
+[{"type":"function","constant":false,"inputs":[{"name":"_objId","type":"uint64"},{"name":"_trainerLevel","type":"uint8"},{"name":"_t1","type":"uint8"},{"name":"_t2","type":"uint8"},{"name":"_t3","type":"uint8"}],"name":"startTraining","outputs":[],"payable":true,"stateMutability":"payable"}]

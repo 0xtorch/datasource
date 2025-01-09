@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"bloxes","internalType":"struct BatchBlox[]","type":"tuple[]","components":[{"name":"recipient","internalType":"address","type":"address"},{"name":"tokenId","internalType":"uint256","type":"uint256"}]}],"name":"batchMint","outputs":[],"stateMutability":"nonpayable"}]

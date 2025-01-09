@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"dstChainIds","internalType":"uint64[]","type":"uint64[]"},{"name":"dstBaseGas","internalType":"uint256","type":"uint256"}],"name":"setBaseGas","outputs":[],"stateMutability":"nonpayable"}]

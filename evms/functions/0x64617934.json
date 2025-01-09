@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_mm","internalType":"address","type":"address"},{"name":"_treasury","internalType":"address","type":"address"},{"name":"_name","internalType":"string","type":"string"},{"name":"_active","internalType":"bool","type":"bool"}],"name":"createMMInfo","outputs":[],"stateMutability":"nonpayable"}]

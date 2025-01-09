@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"payerId","internalType":"address","type":"address"},{"name":"payeeId","internalType":"address","type":"address"},{"name":"amount","internalType":"uint256","type":"uint256"}],"name":"operatorTransferFrom","outputs":[],"stateMutability":"nonpayable"}]

@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"walletAddress_","internalType":"address","type":"address","indexed":false}],"name":"EventRemoveWhitelist"}]

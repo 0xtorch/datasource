@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_id","internalType":"uint256","type":"uint256"},{"name":"_price","internalType":"uint256","type":"uint256"},{"name":"_signature","internalType":"bytes","type":"bytes"},{"name":"_receiver","internalType":"address","type":"address"}],"name":"mintSelectedIdFor","outputs":[],"stateMutability":"nonpayable"}]

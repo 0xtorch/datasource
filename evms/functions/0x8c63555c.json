@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"a1","internalType":"uint256","type":"uint256"},{"name":"a2","internalType":"uint256","type":"uint256"},{"name":"a3","internalType":"uint256","type":"uint256"},{"name":"a4","internalType":"uint256","type":"uint256"}],"name":"updateStreamRatios","outputs":[],"stateMutability":"nonpayable"}]

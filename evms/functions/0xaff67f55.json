@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[],"name":"getSecondsPerLiquidityData","outputs":[{"name":"secondsPerLiquidityGlobal","internalType":"uint128","type":"uint128"},{"name":"lastUpdateTime","internalType":"uint32","type":"uint32"}],"stateMutability":"view"}]

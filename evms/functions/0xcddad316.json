@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"recipient","internalType":"address","type":"address"},{"name":"tokenURI","internalType":"string","type":"string"},{"name":"level","internalType":"uint256","type":"uint256"},{"name":"worldId","internalType":"uint256","type":"uint256"}],"name":"allowedMintNFT","outputs":[],"stateMutability":"nonpayable"}]

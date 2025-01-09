@@ -1,0 +1,1 @@
+[{"type":"function","constant":false,"inputs":[{"name":"contributor","internalType":"address","type":"address"},{"name":"compSpeed","internalType":"uint256","type":"uint256"}],"name":"_setContributorCompSpeed","outputs":[],"payable":false,"stateMutability":"nonpayable"}]

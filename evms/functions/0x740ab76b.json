@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"sender","internalType":"address","type":"address"},{"name":"data","internalType":"string","type":"string"}],"name":"addGraphData","outputs":[],"stateMutability":"nonpayable"}]

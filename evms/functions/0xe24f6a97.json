@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_addr","internalType":"address","type":"address"},{"name":"_code","internalType":"string","type":"string"},{"name":"_percentage","internalType":"uint256","type":"uint256"}],"name":"addAffiliate","outputs":[{"name":"success","internalType":"bool","type":"bool"}],"stateMutability":"nonpayable"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_acmTotalColl","internalType":"uint256","type":"uint256"},{"name":"_fixer","internalType":"address","type":"address"}],"name":"refreshColl","outputs":[],"stateMutability":"nonpayable"}]

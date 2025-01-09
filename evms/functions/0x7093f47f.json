@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"","internalType":"address","type":"address"}],"name":"listedTokens","outputs":[{"name":"state","internalType":"enum DeFiPlaza.State","type":"uint8"},{"name":"listingTarget","internalType":"uint112","type":"uint112"}],"stateMutability":"view"}]

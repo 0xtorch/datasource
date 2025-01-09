@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_NDR","internalType":"address","type":"address"},{"name":"_NFT","internalType":"address","type":"address"},{"name":"_NFTSTAKING","internalType":"address","type":"address"}],"name":"changeAddresses","outputs":[],"stateMutability":"nonpayable"}]

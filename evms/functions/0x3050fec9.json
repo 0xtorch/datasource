@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"royaltySplitter_","internalType":"contract IRoyaltySplitter","type":"address"}],"name":"setRoyaltySplitter","outputs":[],"stateMutability":"nonpayable"}]

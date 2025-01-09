@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"amount0Delta","internalType":"int256","type":"int256"},{"name":"amount1Delta","internalType":"int256","type":"int256"},{"name":"_data","internalType":"bytes","type":"bytes"}],"name":"pacificV3SwapCallback","outputs":[],"stateMutability":"nonpayable"}]

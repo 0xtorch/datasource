@@ -1,0 +1,1 @@
+[{"type":"function","constant":true,"inputs":[{"name":"_amountOut","internalType":"uint256","type":"uint256"},{"name":"_path","internalType":"address[]","type":"address[]"}],"name":"getAmountsIn","outputs":[{"name":"_amounts","internalType":"uint256[]","type":"uint256[]"}],"payable":false,"stateMutability":"view"}]

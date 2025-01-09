@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_value","type":"uint256"},{"name":"_user","type":"address"},{"name":"_claim_rewards","type":"bool"}],"name":"withdraw","outputs":[],"stateMutability":"nonpayable"}]

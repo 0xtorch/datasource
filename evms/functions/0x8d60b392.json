@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_marketOrder","internalType":"uint256","type":"uint256"},{"name":"_limitOrder","internalType":"uint256","type":"uint256"}],"name":"setMinPurchaseAmount","outputs":[],"stateMutability":"nonpayable"}]

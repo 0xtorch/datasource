@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"connectedNftIndices","internalType":"uint256[]","type":"uint256[]"},{"name":"nftType","internalType":"string","type":"string"}],"name":"mintNFTWithNCT","outputs":[],"stateMutability":"nonpayable"}]

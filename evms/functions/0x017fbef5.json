@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_users","internalType":"address[]","type":"address[]"},{"name":"_rewards","internalType":"uint256[]","type":"uint256[]"},{"name":"_withdrawns","internalType":"uint256[]","type":"uint256[]"}],"name":"setUserInfo","outputs":[],"stateMutability":"nonpayable"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"","internalType":"address","type":"address"}],"name":"assetTypes","outputs":[{"name":"","internalType":"enum DataTypes.Asset","type":"uint8"}],"stateMutability":"view"}]

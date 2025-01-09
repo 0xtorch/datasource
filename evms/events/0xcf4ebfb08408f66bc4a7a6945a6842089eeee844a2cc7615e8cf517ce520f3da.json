@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"newGuestList","internalType":"address","type":"address","indexed":true}],"name":"SetGuestList"}]

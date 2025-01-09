@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"number_of_transactions","internalType":"uint8","type":"uint8"}],"name":"set_Number_Of_Transactions_Before_Liquify_Trigger","outputs":[],"stateMutability":"nonpayable"}]

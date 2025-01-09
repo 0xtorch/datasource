@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"pubkeys","internalType":"bytes[]","type":"bytes[]"},{"name":"signatures","internalType":"bytes[]","type":"bytes[]"}],"name":"registerValidators","outputs":[],"stateMutability":"nonpayable"}]

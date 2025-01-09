@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"checkerSigner_","internalType":"address","type":"address"}],"name":"isCheckerSigner","outputs":[{"name":"","internalType":"bool","type":"bool"}],"stateMutability":"view"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"token0","internalType":"address","type":"address"},{"name":"token1","internalType":"address","type":"address"}],"name":"syncPair","outputs":[{"name":"pairAddress","internalType":"address","type":"address"}],"stateMutability":"nonpayable"}]

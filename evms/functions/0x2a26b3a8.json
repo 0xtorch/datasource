@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_rounds","internalType":"uint32[]","type":"uint32[]"},{"name":"_endTimes","internalType":"uint32[]","type":"uint32[]"}],"name":"setRoundEndTimes","outputs":[],"stateMutability":"nonpayable"}]

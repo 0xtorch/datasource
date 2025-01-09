@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"farmingAllocation","internalType":"uint256","type":"uint256","indexed":false},{"name":"legacyAllocation","internalType":"uint256","type":"uint256","indexed":false},{"name":"treasuryAllocation","internalType":"uint256","type":"uint256","indexed":false}],"name":"UpdateAllocations"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_sunflowerMintPercent","internalType":"uint256","type":"uint256"},{"name":"_sunflowerTokenRoyalty","internalType":"uint256","type":"uint256"}],"name":"setPlatformFields","outputs":[],"stateMutability":"nonpayable"}]

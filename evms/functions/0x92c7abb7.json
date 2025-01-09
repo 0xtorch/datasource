@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_index","internalType":"uint256","type":"uint256"},{"name":"_numberOfVotes","internalType":"uint256","type":"uint256"},{"name":"_yesVote","internalType":"bool","type":"bool"},{"name":"_merkleProof","internalType":"bytes32[]","type":"bytes32[]"}],"name":"castVote","outputs":[],"stateMutability":"nonpayable"}]

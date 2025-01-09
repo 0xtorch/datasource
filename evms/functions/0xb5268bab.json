@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[],"name":"getCliffTime","outputs":[{"name":"minCliffSeconds","internalType":"uint48","type":"uint48"},{"name":"maxCliffSeconds","internalType":"uint48","type":"uint48"}],"stateMutability":"view"}]

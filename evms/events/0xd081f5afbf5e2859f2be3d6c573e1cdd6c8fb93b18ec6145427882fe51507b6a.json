@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"newSlippageThresholdGmx","internalType":"uint256","type":"uint256","indexed":false},{"name":"newGlpDepositPendingThreshold","internalType":"uint256","type":"uint256","indexed":false}],"name":"ThresholdsUpdated"}]

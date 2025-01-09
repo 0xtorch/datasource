@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"levels","internalType":"uint256[]","type":"uint256[]","indexed":false},{"name":"percents","internalType":"uint256[]","type":"uint256[]","indexed":false}],"name":"UpdateRewardTierInfo"}]

@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"vToken","internalType":"address","type":"address","indexed":true},{"name":"enable","internalType":"bool","type":"bool","indexed":false}],"name":"IsForcedLiquidationEnabledUpdated"}]

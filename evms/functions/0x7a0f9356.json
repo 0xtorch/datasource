@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_srcSender","internalType":"address","type":"address"},{"name":"_dstReceiver","internalType":"address","type":"address"},{"name":"_nonce","internalType":"uint64","type":"uint64"},{"name":"_token","internalType":"address","type":"address"}],"name":"claimPocketFund","outputs":[],"stateMutability":"nonpayable"}]

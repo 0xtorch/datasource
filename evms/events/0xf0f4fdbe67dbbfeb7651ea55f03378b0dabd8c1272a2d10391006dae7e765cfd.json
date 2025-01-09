@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"leverage","internalType":"uint256","type":"uint256","indexed":false},{"name":"isDepositQueueOpen","internalType":"bool","type":"bool","indexed":false}],"name":"IsDepositQueueOpenUpdated"}]

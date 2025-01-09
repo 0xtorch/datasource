@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"refId","internalType":"bytes2","type":"bytes2","indexed":true},{"name":"sender","internalType":"address","type":"address","indexed":true},{"name":"adapter","internalType":"address","type":"address","indexed":true}],"name":"SwapAndBridgeOnSource"}]

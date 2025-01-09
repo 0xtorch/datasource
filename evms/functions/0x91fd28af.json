@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"hnId","internalType":"uint256","type":"uint256"},{"name":"slot","internalType":"string","type":"string"},{"name":"base","internalType":"uint256","type":"uint256"},{"name":"range","internalType":"uint256","type":"uint256"}],"name":"getRandomNumber","outputs":[{"name":"","internalType":"uint256","type":"uint256"}],"stateMutability":"pure"}]

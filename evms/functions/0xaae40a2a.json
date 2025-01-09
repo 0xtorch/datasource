@@ -1,0 +1,1 @@
+[{"type":"function","constant":false,"inputs":[{"name":"borrower","internalType":"address","type":"address"},{"name":"mTokenCollateral","internalType":"contract MToken","type":"address"}],"name":"liquidateBorrow","outputs":[],"payable":true,"stateMutability":"payable"}]

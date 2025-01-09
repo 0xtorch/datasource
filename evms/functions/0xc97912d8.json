@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_requestIds","internalType":"uint256[]","type":"uint256[]"},{"name":"_hintIds","internalType":"uint256[]","type":"uint256[]"}],"name":"getClaimableEther","outputs":[{"name":"claimableEthValues","internalType":"uint256[]","type":"uint256[]"}],"stateMutability":"view"}]

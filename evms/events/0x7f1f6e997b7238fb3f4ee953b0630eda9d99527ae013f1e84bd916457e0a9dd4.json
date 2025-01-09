@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"collateralManager","internalType":"address","type":"address","indexed":true}],"name":"CollateralManagerChanged"}]

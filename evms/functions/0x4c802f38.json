@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"blastAddress","internalType":"address","type":"address"},{"name":"yieldMode","internalType":"enum YieldMode","type":"uint8"},{"name":"gasMode","internalType":"enum GasMode","type":"uint8"},{"name":"governor","internalType":"address","type":"address"}],"name":"configureContract","outputs":[],"stateMutability":"nonpayable"}]

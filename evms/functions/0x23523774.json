@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"beneficiary","internalType":"address","type":"address"},{"name":"whitelistMaxDeposit","internalType":"uint256","type":"uint256"}],"name":"depositableLeftWhitelist","outputs":[{"name":"","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

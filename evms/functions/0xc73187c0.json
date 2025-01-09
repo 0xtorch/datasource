@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_combinational","internalType":"bool[]","type":"bool[]"},{"name":"_specialType","internalType":"uint256[]","type":"uint256[]"}],"name":"setCombinational","outputs":[],"stateMutability":"nonpayable"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"swapParams","internalType":"struct BKSwapRouter.SwapParams","type":"tuple","components":[{"name":"fromTokenAddress","internalType":"address","type":"address"},{"name":"amountInTotal","internalType":"uint256","type":"uint256"},{"name":"data","internalType":"bytes","type":"bytes"}]}],"name":"swap","outputs":[],"stateMutability":"payable"}]

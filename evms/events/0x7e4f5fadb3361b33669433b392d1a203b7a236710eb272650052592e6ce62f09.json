@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"provider","type":"address","indexed":true},{"name":"amount","type":"uint256","indexed":false},{"name":"n1","type":"int256","indexed":false},{"name":"n2","type":"int256","indexed":false}],"name":"Deposit"}]

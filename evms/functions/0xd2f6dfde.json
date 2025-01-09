@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"leaf","internalType":"bytes32","type":"bytes32"},{"name":"proof","internalType":"bytes32[]","type":"bytes32[]"}],"name":"isPresaleListed","outputs":[{"name":"","internalType":"bool","type":"bool"}],"stateMutability":"view"}]

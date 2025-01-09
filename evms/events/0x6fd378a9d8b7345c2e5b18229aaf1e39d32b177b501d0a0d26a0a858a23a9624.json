@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"amountIn","internalType":"uint256","type":"uint256","indexed":false},{"name":"path","internalType":"address[]","type":"address[]","indexed":false}],"name":"SwapETHForTokens"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"blsPublicKey","internalType":"bytes","type":"bytes"}],"name":"updateBLSPublicKey","outputs":[],"stateMutability":"nonpayable"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"requestId","internalType":"uint256","type":"uint256"},{"name":"output","internalType":"bytes","type":"bytes"},{"name":"callbackData","internalType":"bytes","type":"bytes"}],"name":"aiOracleCallback","outputs":[],"stateMutability":"nonpayable"}]

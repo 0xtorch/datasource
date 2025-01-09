@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_tokenContract","internalType":"address","type":"address"},{"name":"_newuri","internalType":"string","type":"string"}],"name":"ERC1155_setURI","outputs":[],"stateMutability":"nonpayable"}]

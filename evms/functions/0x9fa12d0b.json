@@ -1,0 +1,1 @@
+[{"type":"function","constant":true,"inputs":[{"name":"_nullifierHashes","internalType":"bytes32[]","type":"bytes32[]"}],"name":"isSpentArray","outputs":[{"name":"spent","internalType":"bool[]","type":"bool[]"}],"payable":false,"stateMutability":"view"}]

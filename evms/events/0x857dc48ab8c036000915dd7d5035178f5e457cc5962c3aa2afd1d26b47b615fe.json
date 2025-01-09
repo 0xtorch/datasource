@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"Owner","internalType":"address","type":"address","indexed":false},{"name":"slot","internalType":"uint256","type":"uint256","indexed":false},{"name":"fee","internalType":"uint256","type":"uint256","indexed":false},{"name":"timeUnion","internalType":"uint256","type":"uint256","indexed":false}],"name":"unionblessing"}]

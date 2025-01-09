@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_removeFromSenderWhitelist","internalType":"bool","type":"bool"},{"name":"_address","internalType":"address","type":"address"}],"name":"removeFromTransferWhitelist","outputs":[],"stateMutability":"nonpayable"}]

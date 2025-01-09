@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"chainIdTo","internalType":"uint256","type":"uint256","indexed":false},{"name":"dlnDestinationAddress","internalType":"bytes","type":"bytes","indexed":false},{"name":"chainEngine","internalType":"enum DlnOrderLib.ChainEngine","type":"uint8","indexed":false}],"name":"SetDlnDestinationAddress"}]

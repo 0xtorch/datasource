@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"claimIdx","internalType":"uint256","type":"uint256"},{"name":"newUnlockTime","internalType":"uint256","type":"uint256"}],"name":"delayClaim","outputs":[],"stateMutability":"nonpayable"}]

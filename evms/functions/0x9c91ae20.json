@@ -1,0 +1,1 @@
+[{"type":"function","constant":true,"inputs":[{"name":"_id","type":"uint40"}],"name":"getGeneration","outputs":[{"name":"generation","type":"uint16"}],"payable":false,"stateMutability":"view"}]

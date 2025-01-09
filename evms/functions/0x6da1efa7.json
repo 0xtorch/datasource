@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_admin","internalType":"address","type":"address"},{"name":"_authScope","internalType":"uint256","type":"uint256"}],"name":"setAdminPermission","outputs":[],"stateMutability":"nonpayable"}]

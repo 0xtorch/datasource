@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_holders","internalType":"address[]","type":"address[]"},{"name":"_heldAmount","internalType":"uint256[]","type":"uint256[]"}],"name":"setHolderAmount","outputs":[],"stateMutability":"nonpayable"}]

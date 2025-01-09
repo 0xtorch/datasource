@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"destinationDomains","internalType":"uint32[]","type":"uint32[]"},{"name":"dstGasPerBytes","internalType":"uint256","type":"uint256"}],"name":"setCCTPGasPerBytes","outputs":[],"stateMutability":"nonpayable"}]

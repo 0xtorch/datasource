@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"stateId","internalType":"uint256","type":"uint256"},{"name":"rootMessageSender","internalType":"address","type":"address"},{"name":"data","internalType":"bytes","type":"bytes"}],"name":"processMessageFromRoot","outputs":[],"stateMutability":"nonpayable"}]

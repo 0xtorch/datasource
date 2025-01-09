@@ -1,0 +1,1 @@
+[{"type":"function","constant":false,"inputs":[{"name":"accounts","internalType":"address[]","type":"address[]"},{"name":"amounts","internalType":"uint256[]","type":"uint256[]"}],"name":"meltBatchTokens","outputs":[{"name":"","internalType":"bool","type":"bool"}],"payable":false,"stateMutability":"nonpayable"}]

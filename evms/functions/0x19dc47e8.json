@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_recoveryRequestTimelockPeriod","internalType":"uint32","type":"uint32"}],"name":"setRecoveryRequestTimelockPeriod","outputs":[],"stateMutability":"nonpayable"}]

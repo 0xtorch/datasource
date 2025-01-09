@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"cloneId","internalType":"uint256","type":"uint256","indexed":false},{"name":"eggId","internalType":"uint256","type":"uint256","indexed":false},{"name":"minter","internalType":"address","type":"address","indexed":false}],"name":"newEgg"}]

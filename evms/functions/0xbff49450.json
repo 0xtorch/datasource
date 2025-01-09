@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"orderId","internalType":"uint256","type":"uint256"}],"name":"orderStatus","outputs":[{"name":"","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

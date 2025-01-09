@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_token","internalType":"address","type":"address"}],"name":"getGateway","outputs":[{"name":"gateway","internalType":"address","type":"address"}],"stateMutability":"view"}]

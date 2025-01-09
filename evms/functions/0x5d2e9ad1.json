@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"engineType","internalType":"enum IProductEngine.EngineType","type":"uint8"}],"name":"getEngineByType","outputs":[{"name":"","internalType":"address","type":"address"}],"stateMutability":"view"}]

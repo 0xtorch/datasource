@@ -1,0 +1,1 @@
+[{"type":"function","constant":true,"inputs":[{"name":"_recipient","type":"address"}],"name":"calculateGrantClaim","outputs":[{"name":"","type":"uint16"},{"name":"","type":"uint128"}],"payable":false,"stateMutability":"view"}]

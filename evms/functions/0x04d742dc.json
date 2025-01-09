@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"newBasePrice","internalType":"uint256","type":"uint256"},{"name":"newStartTime","internalType":"uint256","type":"uint256"},{"name":"newDuration","internalType":"uint256","type":"uint256"}],"name":"startSale","outputs":[],"stateMutability":"nonpayable"}]

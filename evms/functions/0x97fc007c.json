@@ -1,0 +1,1 @@
+[{"type":"function","constant":false,"inputs":[{"name":"_newVerifier","internalType":"address","type":"address"}],"name":"updateVerifier","outputs":[],"payable":false,"stateMutability":"nonpayable"}]

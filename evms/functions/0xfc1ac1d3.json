@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"referralCode","internalType":"string","type":"string"}],"name":"getWalletByReferralCode","outputs":[{"name":"","internalType":"address","type":"address"}],"stateMutability":"view"}]

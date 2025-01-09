@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[],"name":"getRands","outputs":[{"name":"randomWords","internalType":"uint256[]","type":"uint256[]"}],"stateMutability":"view"}]

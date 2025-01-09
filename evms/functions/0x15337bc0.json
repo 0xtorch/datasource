@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"orderUid","internalType":"bytes","type":"bytes"}],"name":"invalidateOrder","outputs":[],"stateMutability":"nonpayable"}]

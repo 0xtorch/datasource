@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"oldMessageSigner","internalType":"address","type":"address","indexed":false},{"name":"newMessageSigner","internalType":"address","type":"address","indexed":false}],"name":"MessageSignerUpdated"}]

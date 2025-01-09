@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"randomSeeds","internalType":"bytes32[]","type":"bytes32[]"}],"name":"batchCommit","outputs":[],"stateMutability":"nonpayable"}]

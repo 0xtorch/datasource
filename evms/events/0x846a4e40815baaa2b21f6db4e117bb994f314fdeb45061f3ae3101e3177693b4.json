@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"account","internalType":"address","type":"address","indexed":true},{"name":"creditor","internalType":"address","type":"address","indexed":true},{"name":"openDebt","internalType":"uint128","type":"uint128","indexed":false}],"name":"AuctionStarted"}]

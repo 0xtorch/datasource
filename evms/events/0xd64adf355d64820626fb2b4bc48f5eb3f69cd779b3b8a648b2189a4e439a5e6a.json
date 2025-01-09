@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"merkleRoot","internalType":"struct Hedgies.MerkleRoot","type":"tuple","components":[{"name":"merkleRoot","internalType":"bytes32","type":"bytes32"},{"name":"ipfsCid","internalType":"bytes","type":"bytes"}],"indexed":false}],"name":"MerkleRootSet"}]

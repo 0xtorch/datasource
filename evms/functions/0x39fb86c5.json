@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"account","internalType":"address","type":"address"},{"name":"exclude","internalType":"bool","type":"bool"}],"name":"setExcludeFromTax","outputs":[],"stateMutability":"nonpayable"}]

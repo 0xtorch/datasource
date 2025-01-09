@@ -1,0 +1,1 @@
+[{"type":"function","constant":false,"inputs":[{"name":"_enableBlockList","internalType":"bool","type":"bool"}],"name":"setEnableBlockList","outputs":[],"payable":false,"stateMutability":"nonpayable"}]

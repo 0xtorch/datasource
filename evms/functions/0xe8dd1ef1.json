@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"user","type":"address"}],"name":"has_liquidity","outputs":[{"name":"","type":"bool"}],"stateMutability":"view"}]

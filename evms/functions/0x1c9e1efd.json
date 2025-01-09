@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[],"name":"previousGlobalFundingRate","outputs":[{"name":"longFundingRateGrowthX96","internalType":"int192","type":"int192"},{"name":"shortFundingRateGrowthX96","internalType":"int192","type":"int192"}],"stateMutability":"view"}]

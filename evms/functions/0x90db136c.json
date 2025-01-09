@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"redeemer","internalType":"address","type":"address"},{"name":"uAmount","internalType":"uint256","type":"uint256"},{"name":"recipient","internalType":"address","type":"address"}],"name":"redeemInstant","outputs":[{"name":"","internalType":"uint256","type":"uint256"}],"stateMutability":"nonpayable"}]

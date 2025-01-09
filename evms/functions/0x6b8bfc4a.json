@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_referralLPToken","internalType":"contract IERC20","type":"address"}],"name":"setReferralLPToken","outputs":[],"stateMutability":"nonpayable"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"","internalType":"int24","type":"int24"}],"name":"initializedTicks","outputs":[{"name":"previous","internalType":"int24","type":"int24"},{"name":"next","internalType":"int24","type":"int24"}],"stateMutability":"view"}]

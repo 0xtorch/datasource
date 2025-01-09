@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"callerAddress","internalType":"address","type":"address","indexed":false},{"name":"newTssAddress","internalType":"address","type":"address","indexed":false}],"name":"PauserAddressUpdated"}]

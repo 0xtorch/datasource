@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"","internalType":"string","type":"string"}],"name":"appConfig","outputs":[{"name":"app","internalType":"address","type":"address"},{"name":"appAdmin","internalType":"address","type":"address"},{"name":"appFlags","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_PoolId","internalType":"uint256","type":"uint256"},{"name":"_Address","internalType":"address","type":"address"}],"name":"GetPoolAllowance","outputs":[{"name":"","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

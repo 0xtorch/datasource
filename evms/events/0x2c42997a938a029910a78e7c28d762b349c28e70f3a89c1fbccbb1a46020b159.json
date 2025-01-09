@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"chainId","internalType":"uint16","type":"uint16","indexed":false},{"name":"oldMaxLimit","internalType":"uint256","type":"uint256","indexed":false},{"name":"newMaxLimit","internalType":"uint256","type":"uint256","indexed":false}],"name":"SetMaxSingleReceiveTransactionLimit"}]

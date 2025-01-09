@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_chainId","internalType":"uint256","type":"uint256"},{"name":"_relay","internalType":"address","type":"address"}],"name":"setRelayContract","outputs":[],"stateMutability":"nonpayable"}]

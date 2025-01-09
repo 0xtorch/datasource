@@ -1,0 +1,1 @@
+[{"type":"function","constant":true,"inputs":[{"name":"_customer","type":"address"}],"name":"currentFee","outputs":[{"name":"","type":"uint256"}],"payable":false,"stateMutability":"view"}]

@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"_reserve0","internalType":"uint112","type":"uint112","indexed":false},{"name":"_reserve1","internalType":"uint112","type":"uint112","indexed":false}],"name":"Sync"}]

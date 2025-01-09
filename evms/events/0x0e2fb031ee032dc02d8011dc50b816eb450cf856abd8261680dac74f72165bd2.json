@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"isPaused","internalType":"bool","type":"bool","indexed":false}],"name":"Paused"},{"type":"event","anonymous":false,"inputs":[{"name":"_paused","internalType":"bool","type":"bool","indexed":true}],"name":"Paused"}]

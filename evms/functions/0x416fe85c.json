@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"someAddress","internalType":"address","type":"address"},{"name":"enabled","internalType":"bool","type":"bool"}],"name":"setSystem","outputs":[],"stateMutability":"nonpayable"}]

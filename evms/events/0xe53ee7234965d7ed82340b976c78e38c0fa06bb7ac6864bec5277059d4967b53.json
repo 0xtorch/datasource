@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"user","internalType":"address","type":"address","indexed":true},{"name":"currentUnlock","internalType":"uint16","type":"uint16","indexed":false},{"name":"claimedTokens","internalType":"uint120","type":"uint120","indexed":false}],"name":"Claim"}]

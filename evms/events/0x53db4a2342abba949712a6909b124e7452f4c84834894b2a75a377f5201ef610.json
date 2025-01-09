@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"asset","internalType":"address","type":"address","indexed":false},{"name":"magician","internalType":"contract IMagician","type":"address","indexed":false}],"name":"MagicianConfigured"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"mode","internalType":"enum PostOpMode","type":"uint8"},{"name":"context","internalType":"bytes","type":"bytes"},{"name":"actualGasCost","internalType":"uint256","type":"uint256"},{"name":"actualUserOpFeePerGas","internalType":"uint256","type":"uint256"}],"name":"postOp","outputs":[],"stateMutability":"nonpayable"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"offerer","internalType":"address","type":"address"}],"name":"getCounter","outputs":[{"name":"counter","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

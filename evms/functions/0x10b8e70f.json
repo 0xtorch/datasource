@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_postTrade","internalType":"contract IWardenPostTrade","type":"address"}],"name":"updateWardenPostTrade","outputs":[],"stateMutability":"nonpayable"}]

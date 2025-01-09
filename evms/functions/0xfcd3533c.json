@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"burnAmount_","internalType":"uint256","type":"uint256"},{"name":"receiver_","internalType":"address","type":"address"}],"name":"burn","outputs":[{"name":"amount0","internalType":"uint256","type":"uint256"},{"name":"amount1","internalType":"uint256","type":"uint256"}],"stateMutability":"nonpayable"}]

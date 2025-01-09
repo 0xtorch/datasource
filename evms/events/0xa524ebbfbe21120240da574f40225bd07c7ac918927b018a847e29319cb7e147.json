@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"cosmoCore","internalType":"contract IWardenCosmoCore","type":"address","indexed":true}],"name":"UpdatedWardenCosmoCore"}]

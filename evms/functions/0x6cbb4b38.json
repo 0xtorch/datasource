@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_poolToken","internalType":"address","type":"address"},{"name":"_gaugeRewards","internalType":"address[]","type":"address[]"},{"name":"_bribeRewards","internalType":"address[]","type":"address[]"}],"name":"sendFees","outputs":[],"stateMutability":"nonpayable"}]

@@ -1,0 +1,1 @@
+[{"type":"function","constant":false,"inputs":[{"name":"_fixedReward","internalType":"uint256","type":"uint256"},{"name":"_extraReward","internalType":"uint256","type":"uint256"},{"name":"_extraRewardsActive","internalType":"bool","type":"bool"}],"name":"setStakingRewardsParameters","outputs":[],"payable":false,"stateMutability":"nonpayable"}]

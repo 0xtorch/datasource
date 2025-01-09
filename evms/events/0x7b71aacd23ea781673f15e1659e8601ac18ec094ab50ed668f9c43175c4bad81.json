@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"requestor","internalType":"address","type":"address","indexed":false},{"name":"registry","internalType":"address","type":"address","indexed":false}],"name":"MarketplaceSellerRegistry"}]

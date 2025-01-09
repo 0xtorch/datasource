@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"anyNative","internalType":"address","type":"address"},{"name":"routers","internalType":"address[]","type":"address[]"}],"name":"initMultichain","outputs":[],"stateMutability":"nonpayable"}]

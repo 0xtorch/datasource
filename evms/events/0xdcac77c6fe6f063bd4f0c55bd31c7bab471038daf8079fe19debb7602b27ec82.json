@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"owner","internalType":"address","type":"address","indexed":true},{"name":"imageId","internalType":"string","type":"string","indexed":false},{"name":"name","internalType":"string","type":"string","indexed":false}],"name":"Purchase"}]

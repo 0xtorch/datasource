@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"TokenID","internalType":"uint256","type":"uint256"}],"name":"_LiveMintBurn","outputs":[{"name":"_Recipient","internalType":"address","type":"address"},{"name":"_ArtistID","internalType":"uint256","type":"uint256"}],"stateMutability":"nonpayable"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"tokenID","internalType":"uint256","type":"uint256"},{"name":"tokenIdArray","internalType":"uint256[10000]","type":"uint256[10000]"}],"name":"getTokenIDPosition","outputs":[{"name":"blockOf200","internalType":"uint256","type":"uint256"},{"name":"position","internalType":"uint256","type":"uint256"}],"stateMutability":"pure"}]

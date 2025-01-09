@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"newIncentiveAddresses","internalType":"address[]","type":"address[]","indexed":false},{"name":"newIncentiveAllocationE8","internalType":"uint256[]","type":"uint256[]","indexed":false}],"name":"LogUpdateIncentiveAddresses"}]

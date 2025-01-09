@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_isDeposit","internalType":"bool","type":"bool"},{"name":"_isPrivateMint","internalType":"bool","type":"bool"},{"name":"_isWhitelistMint","internalType":"bool","type":"bool"},{"name":"_isPublicMint","internalType":"bool","type":"bool"}],"name":"setStage","outputs":[],"stateMutability":"nonpayable"}]

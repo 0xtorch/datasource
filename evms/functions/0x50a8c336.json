@@ -1,0 +1,1 @@
+[{"type":"function","constant":false,"inputs":[{"name":"_maxPendingWithdrawal","internalType":"uint256","type":"uint256"}],"name":"updateMaxPendingWithdrawal","outputs":[],"payable":false,"stateMutability":"nonpayable"}]

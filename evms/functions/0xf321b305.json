@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_ctf","internalType":"address","type":"address"},{"name":"_flagSvg","internalType":"string","type":"string"}],"name":"init","outputs":[],"stateMutability":"nonpayable"}]

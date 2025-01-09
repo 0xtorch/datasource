@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"_recipient","type":"address","indexed":true},{"name":"_caller","type":"address","indexed":true},{"name":"_recipientTokenAmount","type":"uint256","indexed":false},{"name":"_callerTokenAmount","type":"uint256","indexed":false},{"name":"_block","type":"uint256","indexed":false}],"name":"Generate"}]

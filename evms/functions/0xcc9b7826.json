@@ -1,0 +1,1 @@
+[{"type":"function","constant":false,"inputs":[{"name":"_th","type":"address"},{"name":"_limit","type":"uint256"}],"name":"setGuaranteedAddress","outputs":[],"payable":false,"stateMutability":"nonpayable"}]

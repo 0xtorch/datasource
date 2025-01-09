@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"switchEvent","internalType":"contract ISwitchEvent","type":"address","indexed":false}],"name":"SwitchEventSet"}]

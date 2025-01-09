@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_from","internalType":"address","type":"address"},{"name":"_symbol","internalType":"bytes32","type":"bytes32"},{"name":"_quantity","internalType":"uint256","type":"uint256"},{"name":"_bridge","internalType":"enum IPortfolioBridge.BridgeProvider","type":"uint8"}],"name":"depositToken","outputs":[],"stateMutability":"nonpayable"}]

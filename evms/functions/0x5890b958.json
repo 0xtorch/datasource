@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"tee","internalType":"address","type":"address"},{"name":"grant","internalType":"bool","type":"bool"}],"name":"modifyTeeRole","outputs":[],"stateMutability":"nonpayable"}]

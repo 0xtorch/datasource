@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"ids","internalType":"struct IIdRegistry.BulkRegisterData[]","type":"tuple[]","components":[{"name":"fid","internalType":"uint24","type":"uint24"},{"name":"custody","internalType":"address","type":"address"},{"name":"recovery","internalType":"address","type":"address"}]}],"name":"bulkRegisterIds","outputs":[],"stateMutability":"nonpayable"}]

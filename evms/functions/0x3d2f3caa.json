@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[],"name":"getCrowdfundLifecycle","outputs":[{"name":"lifecycle","internalType":"enum ETHCrowdfundBase.CrowdfundLifecycle","type":"uint8"}],"stateMutability":"view"}]

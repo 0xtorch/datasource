@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"account","internalType":"address","type":"address"},{"name":"guildAction","internalType":"enum IGuildPin.GuildAction","type":"uint8"},{"name":"id","internalType":"uint256","type":"uint256"}],"name":"hasClaimed","outputs":[{"name":"claimed","internalType":"bool","type":"bool"}],"stateMutability":"view"}]

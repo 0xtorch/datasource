@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_amount","internalType":"uint256","type":"uint256"},{"name":"_requestTimestamp","internalType":"uint256","type":"uint256"},{"name":"_protocolSignatureExpiry","internalType":"uint256","type":"uint256"},{"name":"_protocolSignature","internalType":"bytes","type":"bytes"}],"name":"withdraw","outputs":[],"stateMutability":"nonpayable"}]

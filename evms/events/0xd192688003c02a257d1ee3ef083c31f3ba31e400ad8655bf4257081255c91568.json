@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"configs","internalType":"struct OptimismBridgeFacet.Config[]","type":"tuple[]","components":[{"name":"assetId","internalType":"address","type":"address"},{"name":"bridge","internalType":"address","type":"address"}],"indexed":false}],"name":"OptimismInitialized"}]

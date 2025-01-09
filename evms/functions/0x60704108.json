@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"assetProxyId","internalType":"bytes4","type":"bytes4"}],"name":"getAssetProxy","outputs":[{"name":"assetProxy","internalType":"address","type":"address"}],"stateMutability":"view"}]

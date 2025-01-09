@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"colorId","internalType":"uint256","type":"uint256"}],"name":"tokenReservedAt","outputs":[{"name":"","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

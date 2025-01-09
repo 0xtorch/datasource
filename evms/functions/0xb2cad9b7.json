@@ -1,0 +1,1 @@
+[{"type":"function","constant":true,"inputs":[{"name":"exp","type":"uint32"}],"name":"getLevel","outputs":[{"name":"","type":"uint8"}],"payable":false,"stateMutability":"view"}]

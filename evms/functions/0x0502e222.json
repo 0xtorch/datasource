@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"withdrawalWallet","internalType":"address","type":"address"}],"name":"removeWithdrawAddress","outputs":[],"stateMutability":"nonpayable"}]

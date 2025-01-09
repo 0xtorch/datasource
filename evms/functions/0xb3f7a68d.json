@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"name","internalType":"string","type":"string"},{"name":"newImplementation_","internalType":"address","type":"address"},{"name":"votingStartTime","internalType":"uint256","type":"uint256"},{"name":"votingEndTime","internalType":"uint256","type":"uint256"}],"name":"submitProposal","outputs":[],"stateMutability":"nonpayable"}]

@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"vamm","internalType":"contract IVAMM","type":"address","indexed":false},{"name":"lpMarginCumulative","internalType":"int256","type":"int256","indexed":false}],"name":"MarginCumulative"}]

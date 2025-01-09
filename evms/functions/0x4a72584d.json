@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"keyHash","internalType":"uint256","type":"uint256"},{"name":"value","internalType":"string","type":"string"},{"name":"tokenId","internalType":"uint256","type":"uint256"}],"name":"setByHash","outputs":[],"stateMutability":"nonpayable"}]

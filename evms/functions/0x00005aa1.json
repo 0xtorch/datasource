@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_projectId","internalType":"uint256","type":"uint256"},{"name":"_proof","internalType":"bytes32[]","type":"bytes32[]"}],"name":"purchase_gD5","outputs":[{"name":"tokenId","internalType":"uint256","type":"uint256"}],"stateMutability":"payable"}]

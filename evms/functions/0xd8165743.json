@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[],"name":"getMarketState","outputs":[{"name":"","internalType":"enum OxStandard.SaleState","type":"uint8"}],"stateMutability":"pure"}]

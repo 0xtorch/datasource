@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"to","internalType":"address","type":"address","indexed":false},{"name":"has","internalType":"bool","type":"bool","indexed":false}],"name":"SetHasFee"}]

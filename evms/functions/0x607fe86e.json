@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"feeConfig","internalType":"struct FeeConfig","type":"tuple","components":[{"name":"treasury","internalType":"address","type":"address"},{"name":"performanceFee","internalType":"uint256","type":"uint256"},{"name":"managementFee","internalType":"uint256","type":"uint256"}]}],"name":"__Fees_init","outputs":[],"stateMutability":"nonpayable"}]

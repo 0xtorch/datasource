@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"profileId","internalType":"uint256","type":"uint256"},{"name":"pubId","internalType":"uint256","type":"uint256"},{"name":"name","internalType":"string","type":"string"},{"name":"symbol","internalType":"string","type":"string"}],"name":"initialize","outputs":[],"stateMutability":"nonpayable"}]

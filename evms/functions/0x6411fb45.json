@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"marketPlaces","internalType":"address[]","type":"address[]"},{"name":"isKnown","internalType":"bool","type":"bool"}],"name":"setKnownMarketplaces","outputs":[],"stateMutability":"nonpayable"}]

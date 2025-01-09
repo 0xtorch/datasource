@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"recipients","internalType":"address[]","type":"address[]"},{"name":"totalAmount","internalType":"uint256","type":"uint256"}],"name":"distributeTokensFromContract","outputs":[],"stateMutability":"nonpayable"}]

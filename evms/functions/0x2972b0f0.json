@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"issuer","internalType":"address","type":"address"},{"name":"collectionId","internalType":"uint256","type":"uint256"}],"name":"isAuthorized","outputs":[{"name":"","internalType":"bool","type":"bool"}],"stateMutability":"view"}]

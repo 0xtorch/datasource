@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_dapp","internalType":"address","type":"address"},{"name":"_customInterface","internalType":"address","type":"address"}],"name":"setDappRelation","outputs":[],"stateMutability":"nonpayable"}]

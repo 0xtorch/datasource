@@ -1,0 +1,1 @@
+[{"type":"function","constant":false,"inputs":[{"name":"_nameString","type":"string"},{"name":"_affCode","type":"address"}],"name":"registerNameXaddr","outputs":[],"payable":true,"stateMutability":"payable"}]

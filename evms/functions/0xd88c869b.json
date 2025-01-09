@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_nft","internalType":"contract IERC721Upgradeable","type":"address"},{"name":"who","internalType":"address","type":"address"},{"name":"approved","internalType":"bool","type":"bool"}],"name":"approveERC721","outputs":[],"stateMutability":"nonpayable"}]

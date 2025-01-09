@@ -1,0 +1,1 @@
+[{"type":"function","constant":false,"inputs":[{"name":"tokenAddress","internalType":"address","type":"address"}],"name":"returnERC20","outputs":[],"payable":false,"stateMutability":"nonpayable"}]

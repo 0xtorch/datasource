@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"asset","internalType":"contract IERC20Upgradeable","type":"address","indexed":true},{"name":"measure","internalType":"contract IERC20Upgradeable","type":"address","indexed":true},{"name":"dripRatePerSecond","internalType":"uint256","type":"uint256","indexed":false}],"name":"Initialized"}]

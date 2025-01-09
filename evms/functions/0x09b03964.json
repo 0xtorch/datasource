@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"market","internalType":"address","type":"address"},{"name":"position","internalType":"enum ISportsAMM.Position","type":"uint8"},{"name":"amount","internalType":"uint256","type":"uint256"}],"name":"buyFromAmmQuoteForParlayAMM","outputs":[{"name":"_quote","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

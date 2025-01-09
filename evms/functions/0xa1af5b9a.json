@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[],"name":"collectProtocolFees","outputs":[{"name":"collectedProtocolFees","internalType":"bytes32","type":"bytes32"}],"stateMutability":"nonpayable"}]

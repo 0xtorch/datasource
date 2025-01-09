@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"connectors","internalType":"address[]","type":"address[]"},{"name":"statuses","internalType":"bool[]","type":"bool[]"}],"name":"updateConnectorStatus","outputs":[],"stateMutability":"nonpayable"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"oldSigner","internalType":"address","type":"address"}],"name":"revokeSigner","outputs":[],"stateMutability":"nonpayable"}]

@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"msgHash","internalType":"bytes32","type":"bytes32","indexed":true},{"name":"status","internalType":"enum IBridge.Status","type":"uint8","indexed":false}],"name":"MessageStatusChanged"}]

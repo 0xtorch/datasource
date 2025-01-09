@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"who","internalType":"address","type":"address","indexed":true},{"name":"what","internalType":"bytes4","type":"bytes4","indexed":false}],"name":"Authorized"}]

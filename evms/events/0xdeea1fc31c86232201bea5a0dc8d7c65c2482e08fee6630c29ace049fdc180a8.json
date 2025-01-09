@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"pcId","internalType":"uint256","type":"uint256","indexed":false},{"name":"artId","internalType":"uint256","type":"uint256","indexed":false}],"name":"ArtChanged"}]

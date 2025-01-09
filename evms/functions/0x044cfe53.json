@@ -1,0 +1,1 @@
+[{"type":"function","constant":true,"inputs":[{"name":"","type":"address"}],"name":"todayCredit","outputs":[{"name":"","type":"int256"}],"payable":false,"stateMutability":"view"}]

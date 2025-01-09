@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"","internalType":"address","type":"address"}],"name":"rewardsBalance","outputs":[{"name":"unpaid","internalType":"uint256","type":"uint256"},{"name":"paid","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

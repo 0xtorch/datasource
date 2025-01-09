@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"numTokens","internalType":"struct FixedPoint.Unsigned","type":"tuple","components":[{"name":"rawValue","internalType":"uint256","type":"uint256"}]}],"name":"repay","outputs":[],"stateMutability":"nonpayable"}]

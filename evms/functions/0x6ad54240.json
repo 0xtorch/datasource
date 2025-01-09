@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"to","internalType":"address","type":"address"},{"name":"customURICIDHash","internalType":"bytes32","type":"bytes32"},{"name":"soulbound","internalType":"bool","type":"bool"}],"name":"mintCustomURITo","outputs":[],"stateMutability":"payable"}]

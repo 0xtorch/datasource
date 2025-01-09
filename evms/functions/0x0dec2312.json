@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"nftPool","internalType":"contract INFTPool","type":"address"},{"name":"allocPoint","internalType":"uint256","type":"uint256"},{"name":"withUpdate","internalType":"bool","type":"bool"}],"name":"add","outputs":[],"stateMutability":"nonpayable"}]

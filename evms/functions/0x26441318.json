@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"src","internalType":"address","type":"address"},{"name":"to","internalType":"address","type":"address"},{"name":"asset","internalType":"address","type":"address"},{"name":"amount","internalType":"uint256","type":"uint256"}],"name":"withdrawFrom","outputs":[],"stateMutability":"nonpayable"}]

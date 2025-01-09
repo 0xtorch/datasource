@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"updated","internalType":"uint256","type":"uint256","indexed":true},{"name":"caller","internalType":"address","type":"address","indexed":false}],"name":"DelayBlocksUpdated"}]

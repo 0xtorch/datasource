@@ -1,0 +1,1 @@
+[{"type":"function","constant":true,"inputs":[{"name":"_index","type":"uint8"},{"name":"_ran","type":"uint8"},{"name":"_trainerId","type":"uint8"},{"name":"_trainerLevel","type":"uint8"},{"name":"_objClassId","type":"uint32"},{"name":"_objStats","type":"uint16[6]"}],"name":"attackTrainer","outputs":[{"name":"result","type":"bool"}],"payable":false,"stateMutability":"view"}]

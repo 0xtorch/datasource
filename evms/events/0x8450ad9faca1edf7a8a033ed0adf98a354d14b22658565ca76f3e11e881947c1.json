@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"appID","internalType":"string","type":"string","indexed":false},{"name":"flag","internalType":"bool","type":"bool","indexed":false}],"name":"SetBlacklist"}]

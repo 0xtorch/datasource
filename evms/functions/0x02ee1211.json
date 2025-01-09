@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"fileName","internalType":"string","type":"string"}],"name":"fileStorage","outputs":[{"name":"","internalType":"address[]","type":"address[]"}],"stateMutability":"view"}]

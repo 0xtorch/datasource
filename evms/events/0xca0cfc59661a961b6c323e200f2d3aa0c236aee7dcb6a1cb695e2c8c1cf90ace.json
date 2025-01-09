@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"buyFee","internalType":"uint16","type":"uint16","indexed":false},{"name":"sellFee","internalType":"uint16","type":"uint16","indexed":false},{"name":"transferFee","internalType":"uint16","type":"uint16","indexed":false}],"name":"developerFeesUpdated"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"nftContract","internalType":"address","type":"address"},{"name":"nftId","internalType":"uint256","type":"uint256"},{"name":"owner","internalType":"address","type":"address"}],"name":"returnSpecifiedNftToAddress","outputs":[],"stateMutability":"nonpayable"}]

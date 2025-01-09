@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_submissionIds","internalType":"bytes32[]","type":"bytes32[]"},{"name":"isBlocked","internalType":"bool","type":"bool"}],"name":"blockSubmission","outputs":[],"stateMutability":"nonpayable"}]

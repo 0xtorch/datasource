@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_receiptProofBytes","internalType":"bytes","type":"bytes"}],"name":"verifyProofDataWithCache","outputs":[{"name":"success","internalType":"bool","type":"bool"},{"name":"message","internalType":"string","type":"string"},{"name":"logsHash","internalType":"bytes","type":"bytes"}],"stateMutability":"nonpayable"}]

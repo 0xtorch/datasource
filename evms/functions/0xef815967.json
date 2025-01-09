@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"newFlashLoanFeeBPS","internalType":"uint256","type":"uint256"},{"name":"newProtocolFeeShareBPS","internalType":"uint256","type":"uint256"}],"name":"setFlashLoanFees","outputs":[],"stateMutability":"nonpayable"}]

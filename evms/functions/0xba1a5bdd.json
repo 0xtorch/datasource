@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_signature","internalType":"bytes32","type":"bytes32"}],"name":"isFunctionApproved","outputs":[{"name":"approved","internalType":"bool","type":"bool"}],"stateMutability":"view"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_newCollateralToken","internalType":"contract IERC20","type":"address"}],"name":"addCollateralToken","outputs":[],"stateMutability":"nonpayable"}]

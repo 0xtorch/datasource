@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_property","internalType":"address","type":"address"},{"name":"_descriptor","internalType":"address","type":"address"}],"name":"setTokenURIDescriptor","outputs":[],"stateMutability":"nonpayable"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"gas","internalType":"uint256","type":"uint256"},{"name":"_autoClaim","internalType":"bool","type":"bool"}],"name":"setDistributorSettings","outputs":[],"stateMutability":"nonpayable"}]

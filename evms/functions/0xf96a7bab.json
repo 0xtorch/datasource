@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_users","internalType":"address[]","type":"address[]"},{"name":"tier","internalType":"uint8","type":"uint8"}],"name":"setStarlist","outputs":[],"stateMutability":"nonpayable"}]

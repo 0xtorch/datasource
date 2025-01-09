@@ -1,0 +1,1 @@
+[{"type":"function","constant":false,"inputs":[{"name":"_valsetVersion","internalType":"uint256","type":"uint256"},{"name":"_validatorAddress","internalType":"address","type":"address"}],"name":"recoverGas","outputs":[],"payable":false,"stateMutability":"nonpayable"}]

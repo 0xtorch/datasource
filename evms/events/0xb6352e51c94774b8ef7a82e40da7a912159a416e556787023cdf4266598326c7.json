@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"bot","internalType":"address","type":"address","indexed":false},{"name":"isBlacklisted","internalType":"bool","type":"bool","indexed":false}],"name":"BlacklistedBot"}]

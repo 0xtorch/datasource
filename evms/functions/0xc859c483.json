@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_to","internalType":"address","type":"address"},{"name":"_amountSD","internalType":"uint64","type":"uint64"}],"name":"withdrawTreasuryFee","outputs":[],"stateMutability":"nonpayable"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_adapter","internalType":"address","type":"address"},{"name":"_approvalAddress","internalType":"address","type":"address"}],"name":"setApprovalAddress","outputs":[],"stateMutability":"nonpayable"}]

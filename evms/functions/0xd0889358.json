@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_enabled","internalType":"bool","type":"bool"},{"name":"_min","internalType":"uint256","type":"uint256"},{"name":"_max","internalType":"uint256","type":"uint256"}],"name":"setSwapBackSettings","outputs":[],"stateMutability":"nonpayable"}]

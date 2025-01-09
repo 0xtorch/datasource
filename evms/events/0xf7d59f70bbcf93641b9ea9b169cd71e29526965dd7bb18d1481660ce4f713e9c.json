@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"submitter","internalType":"address","type":"address","indexed":true},{"name":"agreementHash","internalType":"bytes32","type":"bytes32","indexed":true},{"name":"terminatedAt","internalType":"uint256","type":"uint256","indexed":false}],"name":"AgreementTerminated"}]

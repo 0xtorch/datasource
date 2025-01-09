@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[],"name":"getDisabledMode","outputs":[{"name":"disabled","internalType":"bytes4","type":"bytes4"}],"stateMutability":"view"}]

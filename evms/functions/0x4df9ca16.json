@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"coin","internalType":"contract ICoin","type":"address"}],"name":"coinExists","outputs":[{"name":"","internalType":"bool","type":"bool"}],"stateMutability":"view"}]

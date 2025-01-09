@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"changeBalancesId_","internalType":"bool","type":"bool"},{"name":"balancesId_","internalType":"string","type":"string"},{"name":"changeAllowancesId_","internalType":"bool","type":"bool"},{"name":"allowancesId_","internalType":"string","type":"string"}],"name":"changeStorageIds","outputs":[],"stateMutability":"nonpayable"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_pid","internalType":"uint16","type":"uint16"},{"name":"_nftId","internalType":"uint256","type":"uint256"}],"name":"depositNFT","outputs":[],"stateMutability":"nonpayable"}]

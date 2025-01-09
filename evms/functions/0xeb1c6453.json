@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"theAddress","internalType":"address","type":"address"}],"name":"canUnlockDeposit","outputs":[{"name":"","internalType":"bool","type":"bool"}],"stateMutability":"view"}]

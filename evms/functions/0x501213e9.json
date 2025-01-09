@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"grantId","internalType":"string","type":"string"},{"name":"description","internalType":"string","type":"string"},{"name":"value","internalType":"uint256","type":"uint256"},{"name":"recipient","internalType":"address","type":"address"}],"name":"createGrant","outputs":[],"stateMutability":"nonpayable"}]

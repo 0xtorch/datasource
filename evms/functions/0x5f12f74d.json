@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"questId_","internalType":"string","type":"string"},{"name":"hash_","internalType":"bytes32","type":"bytes32"},{"name":"signature_","internalType":"bytes","type":"bytes"}],"name":"claim1155Rewards","outputs":[],"stateMutability":"payable"}]

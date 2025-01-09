@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_invalidMinters","internalType":"address[][4]","type":"address[][4]"},{"name":"_newMinters","internalType":"address[][4]","type":"address[][4]"}],"name":"enforceMinterRules","outputs":[],"stateMutability":"nonpayable"}]

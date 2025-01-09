@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_message","internalType":"struct MACISharedObjs.Message","type":"tuple","components":[{"name":"iv","internalType":"uint256","type":"uint256"},{"name":"data","internalType":"uint256[10]","type":"uint256[10]"}]}],"name":"hashMessage","outputs":[{"name":"","internalType":"uint256","type":"uint256"}],"stateMutability":"pure"}]

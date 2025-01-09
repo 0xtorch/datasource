@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"recipient","internalType":"bytes32","type":"bytes32"},{"name":"data","internalType":"bytes","type":"bytes"}],"name":"sendMessage","outputs":[],"stateMutability":"payable"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"step","internalType":"uint8","type":"uint8"}],"name":"isSoldout","outputs":[{"name":"","internalType":"bool","type":"bool"}],"stateMutability":"view"}]

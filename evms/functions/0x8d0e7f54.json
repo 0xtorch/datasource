@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"tokens","internalType":"contract IERC20[]","type":"address[]"},{"name":"isBlacklisted","internalType":"bool","type":"bool"}],"name":"batchSetTokenBlacklisting","outputs":[],"stateMutability":"nonpayable"}]

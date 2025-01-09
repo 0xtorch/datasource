@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_packedValues","internalType":"PackedValue[]","type":"uint256[]"},{"name":"_timestamp","internalType":"uint64","type":"uint64"}],"name":"setPriceX96s","outputs":[],"stateMutability":"nonpayable"}]

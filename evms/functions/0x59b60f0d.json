@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_uniV2PairAddress","internalType":"address","type":"address"}],"name":"setUniV2PairAddress","outputs":[{"name":"","internalType":"uint256","type":"uint256"}],"stateMutability":"nonpayable"}]

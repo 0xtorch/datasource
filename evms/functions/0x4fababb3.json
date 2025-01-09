@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"orderData","internalType":"bytes","type":"bytes"},{"name":"amount","internalType":"int256","type":"int256"}],"name":"brokerTrade","outputs":[{"name":"tradeAmount","internalType":"int256","type":"int256"}],"stateMutability":"nonpayable"}]

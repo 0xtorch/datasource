@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_hub","internalType":"contract IDCAHub","type":"address"},{"name":"_positionId","internalType":"uint256","type":"uint256"},{"name":"_recipient","internalType":"address","type":"address"}],"name":"withdrawSwapped","outputs":[{"name":"_swapped","internalType":"uint256","type":"uint256"}],"stateMutability":"payable"}]

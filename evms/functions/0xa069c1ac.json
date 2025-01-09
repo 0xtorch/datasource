@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_votingContract","internalType":"address","type":"address"}],"name":"setVotingContract","outputs":[],"stateMutability":"nonpayable"}]

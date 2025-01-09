@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"messageNumber","internalType":"uint256","type":"uint256"}],"name":"rollingHashes","outputs":[{"name":"rollingHash","internalType":"bytes32","type":"bytes32"}],"stateMutability":"view"}]

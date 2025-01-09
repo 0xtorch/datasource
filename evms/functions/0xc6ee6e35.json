@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_to","internalType":"address","type":"address"},{"name":"_amount","internalType":"uint256","type":"uint256"},{"name":"_erc20TokenContract","internalType":"address","type":"address"}],"name":"mintManyERC20","outputs":[],"stateMutability":"payable"}]

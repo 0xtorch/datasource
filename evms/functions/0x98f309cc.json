@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_clientAddress","internalType":"address","type":"address"}],"name":"isMinimumBalanceReached","outputs":[{"name":"","internalType":"bool","type":"bool"}],"stateMutability":"view"}]

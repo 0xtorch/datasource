@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"recipient","internalType":"address","type":"address"},{"name":"maxAmount","internalType":"uint256","type":"uint256"}],"name":"mintFutureLandsWithAmount","outputs":[],"stateMutability":"nonpayable"}]

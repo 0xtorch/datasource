@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_reward","internalType":"address","type":"address"},{"name":"_eigenpieConfig","internalType":"address","type":"address"},{"name":"_startAirdropTime","internalType":"uint256","type":"uint256"},{"name":"_totalRewardMerkleRoot","internalType":"bytes32","type":"bytes32"}],"name":"initialize","outputs":[],"stateMutability":"nonpayable"}]

@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"flatFee","internalType":"uint96","type":"uint96","indexed":false}],"name":"PlatformFlatFeeSet"}]

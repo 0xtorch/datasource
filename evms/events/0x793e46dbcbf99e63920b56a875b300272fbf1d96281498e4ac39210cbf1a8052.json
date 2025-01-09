@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"bunnyId","internalType":"uint8","type":"uint8","indexed":false},{"name":"tokenURI","internalType":"string","type":"string","indexed":false}],"name":"NewTokenURI"}]

@@ -1,0 +1,1 @@
+[{"type":"function","constant":false,"inputs":[{"name":"_account","internalType":"address payable","type":"address"}],"name":"moveEther","outputs":[{"name":"","internalType":"bool","type":"bool"}],"payable":false,"stateMutability":"nonpayable"}]

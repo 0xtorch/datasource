@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"newTickSpacing","internalType":"int24","type":"int24","indexed":false},{"name":"newTickSpacingLimitOrders","internalType":"int24","type":"int24","indexed":false}],"name":"TickSpacing"}]

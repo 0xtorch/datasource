@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_colorId","internalType":"uint256","type":"uint256"},{"name":"_string","internalType":"bytes","type":"bytes"}],"name":"setColor","outputs":[],"stateMutability":"nonpayable"}]

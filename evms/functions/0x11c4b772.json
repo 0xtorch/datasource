@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_func","internalType":"bytes4","type":"bytes4"},{"name":"_flag","internalType":"bool","type":"bool"}],"name":"editFuncBlackList","outputs":[],"stateMutability":"nonpayable"}]

@@ -1,0 +1,1 @@
+[{"type":"function","constant":false,"inputs":[{"name":"newPauser","internalType":"address","type":"address"}],"name":"transferPauser","outputs":[],"payable":false,"stateMutability":"nonpayable"}]

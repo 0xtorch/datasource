@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"token","internalType":"contract IERC20","type":"address"},{"name":"newRewarder","internalType":"contract IRewarder","type":"address"}],"name":"setPool","outputs":[],"stateMutability":"nonpayable"}]

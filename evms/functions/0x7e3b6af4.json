@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"transport","internalType":"enum DataTypes.Transport","type":"uint8"},{"name":"channel","internalType":"contract IChannel","type":"address"}],"name":"addChannel","outputs":[],"stateMutability":"nonpayable"}]

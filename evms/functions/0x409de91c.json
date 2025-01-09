@@ -1,0 +1,1 @@
+[{"type":"function","constant":true,"inputs":[],"name":"depositRewardDistributor","outputs":[{"name":"","internalType":"contract IDepositReward","type":"address"}],"payable":false,"stateMutability":"view"}]

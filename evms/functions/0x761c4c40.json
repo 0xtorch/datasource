@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"to","internalType":"address","type":"address"},{"name":"seriesId","internalType":"uint8","type":"uint8"}],"name":"safeMint","outputs":[],"stateMutability":"nonpayable"}]

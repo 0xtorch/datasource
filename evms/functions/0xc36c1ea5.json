@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"tokenId","internalType":"uint256","type":"uint256"},{"name":"incentiveId","internalType":"bytes32","type":"bytes32"}],"name":"stakes","outputs":[{"name":"secondsPerLiquidityInsideInitialX128","internalType":"uint160","type":"uint160"},{"name":"liquidity","internalType":"uint128","type":"uint128"}],"stateMutability":"view"}]

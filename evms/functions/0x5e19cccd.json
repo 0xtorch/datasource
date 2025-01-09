@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"catIds","internalType":"uint256[]","type":"uint256[]"},{"name":"catClasses","internalType":"uint256[]","type":"uint256[]"}],"name":"calcClaim","outputs":[{"name":"reward","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

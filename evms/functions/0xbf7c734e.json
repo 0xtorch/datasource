@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"pay_gem","internalType":"contract ERC20","type":"address"},{"name":"dust","internalType":"uint256","type":"uint256"}],"name":"setMinSell","outputs":[{"name":"","internalType":"bool","type":"bool"}],"stateMutability":"nonpayable"}]

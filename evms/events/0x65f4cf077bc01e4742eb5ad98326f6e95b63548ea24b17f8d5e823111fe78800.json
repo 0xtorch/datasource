@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"_newSortedTrovesAddress","internalType":"address","type":"address","indexed":false}],"name":"SortedTrovesAddressChanged"}]

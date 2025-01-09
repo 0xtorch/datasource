@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_depositDelay","internalType":"uint256","type":"uint256"},{"name":"_withdrawDelay","internalType":"uint256","type":"uint256"}],"name":"setDelays","outputs":[],"stateMutability":"nonpayable"}]

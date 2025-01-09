@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_swapStrategy","internalType":"contract ISwapStrategy","type":"address"}],"name":"setSwapStrategy","outputs":[],"stateMutability":"nonpayable"}]

@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"newDelay","internalType":"uint48","type":"uint48","indexed":false},{"name":"effectSchedule","internalType":"uint48","type":"uint48","indexed":false}],"name":"DefaultAdminDelayChangeScheduled"}]

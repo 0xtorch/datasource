@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"account","internalType":"address","type":"address"},{"name":"data","internalType":"bytes32[]","type":"bytes32[]"}],"name":"ifQualified","outputs":[{"name":"qualified","internalType":"bool","type":"bool"},{"name":"errorMsg","internalType":"string","type":"string"}],"stateMutability":"view"}]

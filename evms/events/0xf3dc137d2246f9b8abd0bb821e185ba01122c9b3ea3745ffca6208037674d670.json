@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"l2Token","internalType":"address","type":"address","indexed":true},{"name":"tokenBridge","internalType":"address","type":"address","indexed":true}],"name":"SetL2TokenBridge"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"quantity","internalType":"uint256","type":"uint256"}],"name":"feeForAmount","outputs":[{"name":"recipient","internalType":"address payable","type":"address"},{"name":"fee","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

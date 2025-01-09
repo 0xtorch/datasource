@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"oldMaxReplayTimes","internalType":"uint256","type":"uint256","indexed":false},{"name":"newMaxReplayTimes","internalType":"uint256","type":"uint256","indexed":false}],"name":"UpdateMaxReplayTimes"}]

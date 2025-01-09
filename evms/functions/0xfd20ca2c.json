@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"activityID","internalType":"uint8","type":"uint8"},{"name":"signer","internalType":"address","type":"address"}],"name":"setRewardSigner","outputs":[],"stateMutability":"nonpayable"}]

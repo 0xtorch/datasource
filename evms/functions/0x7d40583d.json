@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"role","internalType":"uint8","type":"uint8"},{"name":"target","internalType":"address","type":"address"},{"name":"functionSig","internalType":"bytes4","type":"bytes4"},{"name":"enabled","internalType":"bool","type":"bool"}],"name":"setRoleCapability","outputs":[],"stateMutability":"nonpayable"}]

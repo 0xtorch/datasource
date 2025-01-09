@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"positionId","internalType":"uint256","type":"uint256"},{"name":"margin","internalType":"uint256","type":"uint256"}],"name":"closePositionWithId","outputs":[],"stateMutability":"nonpayable"}]

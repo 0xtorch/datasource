@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_lpIndex","internalType":"uint64","type":"uint64"}],"name":"getMintTime","outputs":[{"name":"","internalType":"uint64[4]","type":"uint64[4]"}],"stateMutability":"view"}]

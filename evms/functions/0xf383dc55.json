@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_newCompound","internalType":"uint256","type":"uint256"},{"name":"_blocksToReleaseCompound","internalType":"uint256","type":"uint256"}],"name":"addNewCompound","outputs":[],"stateMutability":"nonpayable"}]

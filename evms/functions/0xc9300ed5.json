@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"tokenAdd","internalType":"address","type":"address"},{"name":"amount","internalType":"uint256","type":"uint256"}],"name":"rescueBSC20","outputs":[],"stateMutability":"nonpayable"}]

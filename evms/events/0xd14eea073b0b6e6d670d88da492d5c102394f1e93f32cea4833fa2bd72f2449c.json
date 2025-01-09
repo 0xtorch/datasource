@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"_oldGlpeCompounder","internalType":"address","type":"address","indexed":false},{"name":"_newGlpCompounder","internalType":"address","type":"address","indexed":false}],"name":"UpdateGlpCompoundRewards"}]

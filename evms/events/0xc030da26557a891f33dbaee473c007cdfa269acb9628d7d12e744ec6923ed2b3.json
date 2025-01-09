@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"slot","internalType":"uint256","type":"uint256","indexed":true},{"name":"payer","internalType":"address","type":"address","indexed":true},{"name":"repayCurrencyAmount","internalType":"uint256","type":"uint256","indexed":false}],"name":"Repay"}]

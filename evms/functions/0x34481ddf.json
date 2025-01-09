@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"tokenId","internalType":"uint256","type":"uint256"}],"name":"getMatrixFromTokenId","outputs":[{"name":"output","internalType":"uint256[5][10]","type":"uint256[5][10]"}],"stateMutability":"view"}]

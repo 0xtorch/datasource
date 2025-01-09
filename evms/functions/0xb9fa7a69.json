@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_reward_tokens","type":"address[8]"}],"name":"claim_historic_rewards","outputs":[],"stateMutability":"nonpayable"}]

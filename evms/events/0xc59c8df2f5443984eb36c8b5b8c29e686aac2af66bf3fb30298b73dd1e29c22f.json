@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"accountID","internalType":"uint24","type":"uint24","indexed":true},{"name":"tokenID","internalType":"uint16","type":"uint16","indexed":true},{"name":"to","internalType":"address","type":"address","indexed":false},{"name":"amount","internalType":"uint96","type":"uint96","indexed":false}],"name":"WithdrawalCompleted"}]

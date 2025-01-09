@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_publisher","internalType":"address","type":"address"},{"name":"_abDataRegistry","internalType":"address","type":"address"},{"name":"_abVerifier","internalType":"address","type":"address"},{"name":"_name","internalType":"string","type":"string"}],"name":"initialize","outputs":[],"stateMutability":"nonpayable"}]

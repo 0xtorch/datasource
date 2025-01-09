@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"ReflectionFee","internalType":"uint256","type":"uint256","indexed":false},{"name":"liquidityFee","internalType":"uint256","type":"uint256","indexed":false},{"name":"marketingFee","internalType":"uint256","type":"uint256","indexed":false}],"name":"BuyFeesChanged"}]

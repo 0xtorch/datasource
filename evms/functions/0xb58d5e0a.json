@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"tokenAddr","internalType":"address","type":"address"},{"name":"_recipients","internalType":"address[]","type":"address[]"},{"name":"_amounts","internalType":"uint256[]","type":"uint256[]"}],"name":"dropMint","outputs":[{"name":"","internalType":"bool","type":"bool"}],"stateMutability":"nonpayable"}]

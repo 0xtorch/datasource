@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_from","internalType":"address","type":"address"},{"name":"","internalType":"bytes32","type":"bytes32"},{"name":"_message","internalType":"bytes","type":"bytes"},{"name":"","internalType":"address","type":"address"},{"name":"","internalType":"bytes","type":"bytes"}],"name":"lzCompose","outputs":[],"stateMutability":"payable"}]

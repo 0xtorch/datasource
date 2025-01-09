@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"srcChainId","internalType":"uint64","type":"uint64","indexed":true},{"name":"dstChainId","internalType":"uint64","type":"uint64","indexed":true},{"name":"payloadId","internalType":"uint256","type":"uint256","indexed":true}],"name":"PayloadReceived"}]

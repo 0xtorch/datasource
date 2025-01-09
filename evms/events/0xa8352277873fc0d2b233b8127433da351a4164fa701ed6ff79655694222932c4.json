@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"_tokenId","internalType":"uint256","type":"uint256","indexed":true},{"name":"_to","internalType":"address","type":"address","indexed":true},{"name":"_erc20Contract","internalType":"address","type":"address","indexed":true},{"name":"_value","internalType":"uint256","type":"uint256","indexed":false}],"name":"TransferERC20"}]

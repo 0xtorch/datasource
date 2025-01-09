@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"bmonc","internalType":"address","type":"address"}],"name":"allowBuyingBoosters","outputs":[{"name":"","internalType":"bool","type":"bool"}],"stateMutability":"nonpayable"}]

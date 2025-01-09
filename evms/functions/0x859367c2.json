@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"lessThan100AirdropAddresses","internalType":"address[]","type":"address[]"},{"name":"tokenId","internalType":"uint256","type":"uint256"}],"name":"badgeAirdropMint","outputs":[],"stateMutability":"nonpayable"}]

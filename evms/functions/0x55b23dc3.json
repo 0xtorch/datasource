@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"creator","internalType":"address","type":"address"},{"name":"weight","internalType":"uint256","type":"uint256"}],"name":"addCreator","outputs":[],"stateMutability":"nonpayable"}]

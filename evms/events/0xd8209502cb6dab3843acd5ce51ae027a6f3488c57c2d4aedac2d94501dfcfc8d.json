@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"oldPoster","internalType":"address","type":"address","indexed":true},{"name":"newPoster","internalType":"address","type":"address","indexed":true}],"name":"NewPoster"}]

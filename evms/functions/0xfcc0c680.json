@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"asset","internalType":"contract IERC20","type":"address"},{"name":"teamWallet","internalType":"address","type":"address"}],"name":"seize","outputs":[],"stateMutability":"nonpayable"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_stakeToken","internalType":"address","type":"address"},{"name":"_unstakingFrozenTime","internalType":"uint256","type":"uint256"},{"name":"_rewardFund","internalType":"address","type":"address"},{"name":"_timelock","internalType":"address","type":"address"}],"name":"initialize","outputs":[],"stateMutability":"nonpayable"}]

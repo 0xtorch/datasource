@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"amountQuoteFreed","internalType":"uint256","type":"uint256"},{"name":"amountQuoteReserved","internalType":"uint256","type":"uint256"},{"name":"amountBaseFreed","internalType":"uint256","type":"uint256"}],"name":"boardLiquidation","outputs":[],"stateMutability":"nonpayable"}]

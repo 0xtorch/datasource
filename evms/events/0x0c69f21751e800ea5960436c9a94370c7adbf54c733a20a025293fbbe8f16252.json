@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"nftContract","internalType":"address","type":"address","indexed":true},{"name":"newPayoutAddress","internalType":"address","type":"address","indexed":true}],"name":"CreatorPayoutAddressUpdated"}]

@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"newValue","internalType":"struct GTokenV6_3_2.GnsPriceProvider","type":"tuple","components":[{"name":"addr","internalType":"address","type":"address"},{"name":"signature","internalType":"bytes","type":"bytes"}],"indexed":false}],"name":"GnsPriceProviderUpdated"}]

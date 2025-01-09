@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"creatorContractAddress","internalType":"address","type":"address"},{"name":"enabled","internalType":"bool","type":"bool"}],"name":"setApproveTransfer","outputs":[],"stateMutability":"nonpayable"}]

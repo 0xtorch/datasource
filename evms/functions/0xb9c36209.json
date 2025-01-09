@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_numerator","internalType":"uint256","type":"uint256"},{"name":"_denominator","internalType":"uint256","type":"uint256"}],"name":"setThreshold","outputs":[{"name":"","internalType":"uint256","type":"uint256"},{"name":"","internalType":"uint256","type":"uint256"}],"stateMutability":"nonpayable"}]

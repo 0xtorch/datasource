@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"","internalType":"uint256","type":"uint256"}],"name":"s_requests","outputs":[{"name":"fulfilled","internalType":"bool","type":"bool"},{"name":"exists","internalType":"bool","type":"bool"}],"stateMutability":"view"}]

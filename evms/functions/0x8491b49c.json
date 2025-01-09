@@ -1,0 +1,1 @@
+[{"type":"function","constant":false,"inputs":[{"name":"_recipients","type":"address[]"},{"name":"_values","type":"uint256[]"}],"name":"rain","outputs":[{"name":"","type":"bool"}],"payable":false,"stateMutability":"nonpayable"}]

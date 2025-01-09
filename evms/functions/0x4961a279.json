@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_minAmountOut","internalType":"uint256","type":"uint256"},{"name":"_finalizedStrategies","internalType":"address[]","type":"address[]"}],"name":"claimAndStakeReturns","outputs":[],"stateMutability":"nonpayable"}]

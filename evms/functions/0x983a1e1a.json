@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"tokenAddress","internalType":"address","type":"address"}],"name":"getBannedAccounts","outputs":[{"name":"","internalType":"address[]","type":"address[]"}],"stateMutability":"view"}]

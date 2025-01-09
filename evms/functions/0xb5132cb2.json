@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_swapPenaltyMaxPeriod","internalType":"uint256","type":"uint256"},{"name":"_swapPenaltyMaxPercent","internalType":"uint256","type":"uint256"}],"name":"setSwapPenalty","outputs":[],"stateMutability":"nonpayable"}]

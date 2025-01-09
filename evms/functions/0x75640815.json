@@ -1,0 +1,1 @@
+[{"type":"function","constant":false,"inputs":[{"name":"_exchangeContract","internalType":"contract IExchange","type":"address"}],"name":"updateExchangeContract","outputs":[],"payable":false,"stateMutability":"nonpayable"}]

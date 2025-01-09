@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"pubkeyHash","internalType":"bytes32","type":"bytes32"}],"name":"beacon","outputs":[{"name":"","internalType":"address","type":"address"}],"stateMutability":"view"}]

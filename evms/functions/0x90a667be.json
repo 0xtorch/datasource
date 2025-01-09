@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"uri_","internalType":"string","type":"string"},{"name":"_season","internalType":"uint256","type":"uint256"}],"name":"setHiddenBaseURIBySeason","outputs":[],"stateMutability":"nonpayable"}]

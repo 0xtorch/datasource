@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[],"name":"getPayoutReceiver","outputs":[{"name":"receiver","internalType":"address payable","type":"address"}],"stateMutability":"view"}]

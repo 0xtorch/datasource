@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"amounts","type":"uint256[2]"},{"name":"xp","type":"uint256[2]"}],"name":"calc_token_fee","outputs":[{"name":"","type":"uint256"}],"stateMutability":"view"}]

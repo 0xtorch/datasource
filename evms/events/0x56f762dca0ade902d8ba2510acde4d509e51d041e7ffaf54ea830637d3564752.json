@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"paymentMethodWhitelistId","internalType":"uint32","type":"uint32","indexed":true},{"name":"whitelistOwner","internalType":"address","type":"address","indexed":true},{"name":"whitelistName","internalType":"string","type":"string","indexed":false}],"name":"CreatedPaymentMethodWhitelist"}]

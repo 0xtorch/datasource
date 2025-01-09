@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_contract","internalType":"address","type":"address"},{"name":"merkleRoot","internalType":"bytes32","type":"bytes32"}],"name":"addContract","outputs":[],"stateMutability":"nonpayable"}]

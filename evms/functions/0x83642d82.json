@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_jackpotAddress","internalType":"address payable","type":"address"}],"name":"setJackpotAddress","outputs":[],"stateMutability":"nonpayable"}]

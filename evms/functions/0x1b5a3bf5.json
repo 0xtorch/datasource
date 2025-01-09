@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_tiers","internalType":"struct CryptoGogosPolygon.Tier[]","type":"tuple[]","components":[{"name":"tokenId","internalType":"uint256","type":"uint256"},{"name":"tier","internalType":"uint256","type":"uint256"}]}],"name":"addMultipleTiers","outputs":[],"stateMutability":"nonpayable"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"index","internalType":"uint256","type":"uint256"},{"name":"date","internalType":"uint256","type":"uint256"},{"name":"proportion","internalType":"uint256","type":"uint256"}],"name":"setReleaseInfoList1","outputs":[],"stateMutability":"nonpayable"}]

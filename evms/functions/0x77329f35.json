@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_receiver","internalType":"address","type":"address"}],"name":"claimAll","outputs":[{"name":"","internalType":"address[]","type":"address[]"},{"name":"","internalType":"uint256[]","type":"uint256[]"}],"stateMutability":"nonpayable"}]

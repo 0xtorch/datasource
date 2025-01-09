@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"addressList","internalType":"address[]","type":"address[]"},{"name":"timeLine","internalType":"uint256[]","type":"uint256[]"},{"name":"valueList","internalType":"uint256[]","type":"uint256[]"},{"name":"isOpenTWAP","internalType":"bool","type":"bool"}],"name":"init","outputs":[],"stateMutability":"nonpayable"}]

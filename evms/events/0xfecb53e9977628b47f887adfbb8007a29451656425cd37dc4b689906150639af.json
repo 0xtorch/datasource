@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"recepientAddress","internalType":"address","type":"address","indexed":true},{"name":"user","internalType":"bytes32","type":"bytes32","indexed":false}],"name":"ScheduleSet"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"tokenId","internalType":"uint256","type":"uint256"},{"name":"types","internalType":"uint256[]","type":"uint256[]"},{"name":"amount","internalType":"uint256","type":"uint256"},{"name":"booAmount","internalType":"uint256","type":"uint256"}],"name":"mintPhase2","outputs":[],"stateMutability":"nonpayable"}]

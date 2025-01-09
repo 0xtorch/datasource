@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"edition","internalType":"address","type":"address","indexed":true},{"name":"mintId","internalType":"uint128","type":"uint128","indexed":false},{"name":"paused","internalType":"bool","type":"bool","indexed":false}],"name":"MintPausedSet"}]

@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"farm","internalType":"contract LockFarm","type":"address","indexed":false}],"name":"FarmResurrected"}]

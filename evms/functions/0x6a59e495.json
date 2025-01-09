@@ -1,0 +1,1 @@
+[{"type":"function","constant":true,"inputs":[],"name":"resolverProxy","outputs":[{"name":"","internalType":"contract IAddressResolver","type":"address"}],"payable":false,"stateMutability":"view"}]

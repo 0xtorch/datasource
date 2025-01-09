@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"fnMaps","internalType":"bytes[]","type":"bytes[]"},{"name":"maturity","internalType":"uint256","type":"uint256"}],"name":"registerBondAndBondGroup","outputs":[{"name":"","internalType":"bool","type":"bool"}],"stateMutability":"nonpayable"}]

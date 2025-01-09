@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"tokenId","internalType":"uint256","type":"uint256"},{"name":"updatedTier","internalType":"uint8","type":"uint8"},{"name":"updatedMetadata","internalType":"string","type":"string"},{"name":"updatedData","internalType":"uint256","type":"uint256"}],"name":"updateTier","outputs":[],"stateMutability":"nonpayable"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"id","internalType":"uint256","type":"uint256"},{"name":"creator","internalType":"address","type":"address"},{"name":"status","internalType":"bool","type":"bool"}],"name":"setCreatorApproval","outputs":[],"stateMutability":"nonpayable"}]

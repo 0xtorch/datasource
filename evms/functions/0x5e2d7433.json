@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"coin","internalType":"contract ICoin","type":"address"}],"name":"decimalsOf","outputs":[{"name":"","internalType":"uint8","type":"uint8"}],"stateMutability":"view"}]

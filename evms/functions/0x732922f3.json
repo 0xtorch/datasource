@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_mainAccount","internalType":"address","type":"address"},{"name":"_subAccountId","internalType":"uint8","type":"uint8"},{"name":"_cmds","internalType":"enum ILimitTradeHandler.Command[]","type":"uint8[]"},{"name":"_datas","internalType":"bytes[]","type":"bytes[]"}],"name":"batch","outputs":[],"stateMutability":"payable"}]

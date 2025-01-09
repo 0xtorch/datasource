@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"orgAddress","internalType":"address","type":"address","indexed":true},{"name":"nftID","internalType":"uint256","type":"uint256","indexed":false},{"name":"deployerAddress","internalType":"address","type":"address","indexed":false}],"name":"TokenAdded"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"transaction","internalType":"bytes","type":"bytes"},{"name":"idx","internalType":"uint64","type":"uint64"}],"name":"withdrawInsurance","outputs":[],"stateMutability":"nonpayable"}]

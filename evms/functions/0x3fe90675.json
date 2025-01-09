@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"expectedSharesToMint","internalType":"uint256","type":"uint256"}],"name":"joinDynaset","outputs":[{"name":"sharesToMint","internalType":"uint256","type":"uint256"}],"stateMutability":"nonpayable"}]

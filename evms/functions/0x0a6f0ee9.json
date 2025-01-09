@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_recipientIds","internalType":"address[]","type":"address[]"},{"name":"_data","internalType":"bytes","type":"bytes"},{"name":"_sender","internalType":"address","type":"address"}],"name":"distribute","outputs":[],"stateMutability":"nonpayable"}]

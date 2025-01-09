@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[],"name":"getLiquidityEMA","outputs":[{"name":"_liquidityEMA","internalType":"uint112","type":"uint112"},{"name":"_lastLiquidityBlockNumber","internalType":"uint32","type":"uint32"}],"stateMutability":"view"}]

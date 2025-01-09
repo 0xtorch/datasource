@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"fileName","internalType":"string","type":"string"}],"name":"fileContents","outputs":[{"name":"","internalType":"string","type":"string"}],"stateMutability":"view"}]

@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"nativeToken","internalType":"bytes32","type":"bytes32","indexed":true}],"name":"NativeTokenSet"}]

@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"_type","internalType":"uint16","type":"uint16","indexed":true},{"name":"_anchor","internalType":"contract IConverterAnchor","type":"address","indexed":true},{"name":"_activated","internalType":"bool","type":"bool","indexed":true}],"name":"Activation"}]

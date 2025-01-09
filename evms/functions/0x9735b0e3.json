@@ -1,0 +1,1 @@
+[{"type":"function","constant":false,"inputs":[{"name":"tokenManager","internalType":"address","type":"address"},{"name":"tokenAddr","internalType":"address","type":"address"}],"name":"removeToken","outputs":[],"payable":false,"stateMutability":"nonpayable"}]

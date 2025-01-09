@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"poolIndex","internalType":"uint256","type":"uint256"},{"name":"limit","internalType":"uint256","type":"uint256"}],"name":"createPaymentLimit","outputs":[{"name":"limitIndex","internalType":"uint256","type":"uint256"}],"stateMutability":"nonpayable"}]

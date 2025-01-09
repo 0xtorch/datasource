@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"grantId","internalType":"string","type":"string","indexed":false}],"name":"GrantRejected"}]

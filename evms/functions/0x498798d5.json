@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"squareId","internalType":"uint256","type":"uint256"}],"name":"isSquareCreated","outputs":[{"name":"isCreated","internalType":"bool","type":"bool"}],"stateMutability":"view"}]

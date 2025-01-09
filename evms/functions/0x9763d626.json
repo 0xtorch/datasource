@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_nonce","internalType":"uint256","type":"uint256"},{"name":"_signature","internalType":"bytes","type":"bytes"}],"name":"mintWithSignature","outputs":[],"stateMutability":"nonpayable"}]

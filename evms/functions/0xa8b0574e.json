@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[],"name":"getCurrentBlockCoinbase","outputs":[{"name":"coinbase","internalType":"address","type":"address"}],"stateMutability":"view"}]

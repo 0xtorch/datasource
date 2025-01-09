@@ -1,0 +1,1 @@
+[{"type":"function","constant":true,"inputs":[],"name":"processor","outputs":[{"name":"","internalType":"contract IProcessor","type":"address"}],"payable":false,"stateMutability":"view"}]

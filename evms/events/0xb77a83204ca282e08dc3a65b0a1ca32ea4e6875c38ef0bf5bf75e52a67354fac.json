@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"tokenIndex","internalType":"uint256","type":"uint256","indexed":true},{"name":"rate","internalType":"uint256","type":"uint256","indexed":false}],"name":"TokenRateCacheUpdated"}]

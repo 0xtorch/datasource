@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[],"name":"data","outputs":[{"name":"head","internalType":"address","type":"address"},{"name":"tail","internalType":"address","type":"address"},{"name":"maxSize","internalType":"uint256","type":"uint256"},{"name":"size","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

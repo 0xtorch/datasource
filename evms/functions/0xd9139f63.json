@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"ssVault","internalType":"address","type":"address"},{"name":"withdrawAmount","internalType":"uint256","type":"uint256"}],"name":"zapOut","outputs":[],"stateMutability":"nonpayable"}]

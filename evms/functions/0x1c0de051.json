@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[],"name":"getPausedState","outputs":[{"name":"paused","internalType":"bool","type":"bool"},{"name":"pauseWindowEndTime","internalType":"uint256","type":"uint256"},{"name":"bufferPeriodEndTime","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

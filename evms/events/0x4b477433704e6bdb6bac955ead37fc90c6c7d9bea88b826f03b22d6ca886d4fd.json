@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"_newAccount","internalType":"address","type":"address","indexed":true},{"name":"_check","internalType":"address","type":"address","indexed":true}],"name":"LogNewAccount"}]

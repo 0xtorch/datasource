@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"collectionId","internalType":"uint256","type":"uint256"},{"name":"owner","internalType":"address","type":"address"}],"name":"getAttestationIssuer","outputs":[{"name":"","internalType":"address","type":"address"}],"stateMutability":"view"}]

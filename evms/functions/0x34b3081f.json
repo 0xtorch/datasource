@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"","internalType":"address","type":"address"}],"name":"snapshots","outputs":[{"name":"F_ETH_Snapshot","internalType":"uint256","type":"uint256"},{"name":"F_LUSD_Snapshot","internalType":"uint256","type":"uint256"},{"name":"F_LQTY_Snapshot","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

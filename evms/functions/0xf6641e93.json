@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"sft_","internalType":"address","type":"address"},{"name":"manager_","internalType":"address","type":"address"}],"name":"addSFTOnlyGovernor","outputs":[],"stateMutability":"nonpayable"}]

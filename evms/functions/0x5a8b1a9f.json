@@ -1,0 +1,1 @@
+[{"type":"function","constant":false,"inputs":[{"name":"version","internalType":"string","type":"string"},{"name":"implementation","internalType":"address","type":"address"}],"name":"upgradeTo","outputs":[],"payable":false,"stateMutability":"nonpayable"}]

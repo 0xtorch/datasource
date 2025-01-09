@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_garudaReferral","internalType":"contract IGarudaReferral","type":"address"}],"name":"setGarudaReferral","outputs":[],"stateMutability":"nonpayable"}]

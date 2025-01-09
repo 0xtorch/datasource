@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"ticketTokenId","internalType":"uint256","type":"uint256"},{"name":"mysteryBoxTokenId","internalType":"uint256","type":"uint256"},{"name":"metadata","internalType":"bytes","type":"bytes"}],"name":"redeem","outputs":[],"stateMutability":"payable"}]

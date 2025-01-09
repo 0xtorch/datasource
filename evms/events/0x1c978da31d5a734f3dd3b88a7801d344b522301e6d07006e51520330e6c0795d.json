@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"accAndTypeHash","internalType":"bytes32","type":"bytes32","indexed":true},{"name":"subject","internalType":"bytes","type":"bytes","indexed":false}],"name":"Attested"}]

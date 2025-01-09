@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"commitment","internalType":"uint256","type":"uint256","indexed":false},{"name":"index","internalType":"int256","type":"int256","indexed":false},{"name":"encryptedOutput","internalType":"bytes","type":"bytes","indexed":false}],"name":"NewCommitment"}]

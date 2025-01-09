@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[],"name":"getDistributionProgress","outputs":[{"name":"completed","internalType":"uint256","type":"uint256"},{"name":"total","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

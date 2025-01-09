@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_from","internalType":"address","type":"address"},{"name":"_to","internalType":"address","type":"address"},{"name":"_fromTokenId","internalType":"uint256","type":"uint256"},{"name":"_toTokenId","internalType":"uint256","type":"uint256"}],"name":"consecutiveBatchTransferFrom","outputs":[],"stateMutability":"nonpayable"}]

@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"tokenOut","internalType":"address","type":"address","indexed":true}],"name":"LogTokenRemoved"}]

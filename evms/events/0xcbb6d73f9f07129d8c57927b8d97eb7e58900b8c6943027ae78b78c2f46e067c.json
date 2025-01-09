@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"adventurer","internalType":"address","type":"address","indexed":true},{"name":"claimId","internalType":"uint256","type":"uint256","indexed":true},{"name":"isSuperVillain","internalType":"bool","type":"bool","indexed":false}],"name":"UnmaskedVillain"}]

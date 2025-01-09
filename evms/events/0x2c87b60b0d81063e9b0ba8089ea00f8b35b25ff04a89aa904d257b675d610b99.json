@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"tokenAId","internalType":"uint16","type":"uint16","indexed":true},{"name":"tokenBId","internalType":"uint16","type":"uint16","indexed":true},{"name":"pairId","internalType":"uint16","type":"uint16","indexed":true},{"name":"pair","internalType":"address","type":"address","indexed":false}],"name":"OnchainCreatePair"}]

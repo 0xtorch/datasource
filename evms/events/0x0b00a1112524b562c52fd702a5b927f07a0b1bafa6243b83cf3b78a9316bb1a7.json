@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"_new","internalType":"address","type":"address","indexed":false},{"name":"_old","internalType":"address","type":"address","indexed":false}],"name":"WhitelistUpdated"}]

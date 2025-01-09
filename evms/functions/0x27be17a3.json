@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"data","internalType":"bytes","type":"bytes"}],"name":"tokenSvgData","outputs":[{"name":"","internalType":"string","type":"string"}],"stateMutability":"pure"}]

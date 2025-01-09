@@ -1,0 +1,1 @@
+[{"type":"function","constant":true,"inputs":[],"name":"accessWhitelist","outputs":[{"name":"","internalType":"contract AccessWhitelist","type":"address"}],"payable":false,"stateMutability":"view"}]

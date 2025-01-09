@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"newTickSpacing","internalType":"int24","type":"int24"},{"name":"newTickspacingLimitOrders","internalType":"int24","type":"int24"}],"name":"setTickSpacing","outputs":[],"stateMutability":"nonpayable"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_issueNumber","internalType":"uint256","type":"uint256"},{"name":"_uri","internalType":"string","type":"string"}],"name":"setBaseURI","outputs":[],"stateMutability":"nonpayable"}]

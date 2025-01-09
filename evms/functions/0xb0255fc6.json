@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_color","internalType":"string","type":"string"},{"name":"_signature","internalType":"string","type":"string"}],"name":"isMintableCombination","outputs":[{"name":"","internalType":"bool","type":"bool"}],"stateMutability":"view"}]

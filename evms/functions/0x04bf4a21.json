@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"scribeAddress","internalType":"address","type":"address"},{"name":"isScribe","internalType":"bool","type":"bool"}],"name":"setScribeAllowlist","outputs":[],"stateMutability":"nonpayable"}]

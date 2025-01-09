@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"token","internalType":"contract ISuperToken","type":"address"},{"name":"newAdmin","internalType":"address","type":"address"}],"name":"changeSuperTokenAdmin","outputs":[],"stateMutability":"nonpayable"}]

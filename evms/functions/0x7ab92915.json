@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"depositAsset","internalType":"contract ERC20","type":"address"},{"name":"assets","internalType":"uint256","type":"uint256"}],"name":"previewMultiAssetDeposit","outputs":[{"name":"shares","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

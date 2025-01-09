@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"refId","internalType":"string","type":"string"},{"name":"amount","internalType":"uint256","type":"uint256"},{"name":"blockSigned","internalType":"uint256","type":"uint256"},{"name":"sig","internalType":"bytes","type":"bytes"}],"name":"pay","outputs":[],"stateMutability":"payable"}]

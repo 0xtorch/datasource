@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"rate","type":"uint256","indexed":false},{"name":"rate_mul","type":"uint256","indexed":false},{"name":"time","type":"uint256","indexed":false}],"name":"SetRate"}]

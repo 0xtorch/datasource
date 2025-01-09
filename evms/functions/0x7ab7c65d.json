@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"froms","internalType":"address[]","type":"address[]"},{"name":"tos","internalType":"address[]","type":"address[]"},{"name":"values","internalType":"uint256[]","type":"uint256[]"}],"name":"oracleTransfer","outputs":[{"name":"","internalType":"bool","type":"bool"}],"stateMutability":"nonpayable"}]

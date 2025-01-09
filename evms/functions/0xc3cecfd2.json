@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"absorber","internalType":"address","type":"address"},{"name":"accounts","internalType":"address[]","type":"address[]"}],"name":"absorb","outputs":[],"stateMutability":"nonpayable"}]

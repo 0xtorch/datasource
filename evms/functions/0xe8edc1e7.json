@@ -1,0 +1,1 @@
+[{"type":"function","constant":false,"inputs":[{"name":"_referrer","type":"address"},{"name":"_referralPercentage","type":"uint256"},{"name":"_guildType","type":"uint16"},{"name":"_time","type":"int64"}],"name":"buySPL","outputs":[],"payable":true,"stateMutability":"payable"}]

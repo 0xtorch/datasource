@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_target","internalType":"address","type":"address"}],"name":"checkAddressPermissions","outputs":[{"name":"_isFeeExempt","internalType":"bool","type":"bool"},{"name":"_isTxLimitExempt","internalType":"bool","type":"bool"},{"name":"_automatedMarketMakerPairs","internalType":"bool","type":"bool"}],"stateMutability":"view"}]

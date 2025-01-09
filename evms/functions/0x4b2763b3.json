@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"account","internalType":"address","type":"address"},{"name":"spender","internalType":"address","type":"address"},{"name":"addedValue","internalType":"uint256","type":"uint256"}],"name":"operationIncreaseAllowance","outputs":[],"stateMutability":"nonpayable"}]

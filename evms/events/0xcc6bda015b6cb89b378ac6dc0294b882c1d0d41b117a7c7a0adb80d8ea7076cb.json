@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"emergencyMode","internalType":"bool","type":"bool","indexed":false}],"name":"EmergencyModeStatus"}]

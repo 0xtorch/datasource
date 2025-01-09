@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_totalFee","internalType":"uint256","type":"uint256"},{"name":"_newCallFee","internalType":"uint256","type":"uint256"},{"name":"_newTreasurySup","internalType":"uint256","type":"uint256"}],"name":"setperfomFee","outputs":[],"stateMutability":"nonpayable"}]

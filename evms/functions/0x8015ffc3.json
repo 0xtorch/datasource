@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_levels","internalType":"uint8","type":"uint8"}],"name":"calcEmptyVoteOptionTreeRoot","outputs":[{"name":"","internalType":"uint256","type":"uint256"}],"stateMutability":"pure"}]

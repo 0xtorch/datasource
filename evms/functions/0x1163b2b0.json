@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"destination","internalType":"address payable","type":"address"}],"name":"sweepETH","outputs":[],"stateMutability":"nonpayable"}]

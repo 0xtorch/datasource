@@ -1,0 +1,1 @@
+[{"type":"function","constant":false,"inputs":[{"name":"_fighterId","type":"uint256"},{"name":"_dexterity","type":"uint8"}],"name":"updateDexterity","outputs":[],"payable":false,"stateMutability":"nonpayable"}]

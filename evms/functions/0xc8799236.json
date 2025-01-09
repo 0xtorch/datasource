@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"collateralToken","internalType":"address","type":"address"}],"name":"collectAccruedFees","outputs":[],"stateMutability":"nonpayable"}]

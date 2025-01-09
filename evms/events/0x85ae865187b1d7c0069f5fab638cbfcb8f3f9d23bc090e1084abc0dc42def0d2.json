@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"oldProhibiter","type":"address","indexed":true},{"name":"newProhibiter","type":"address","indexed":true},{"name":"sender","type":"address","indexed":true}],"name":"ProhibiterChanged"}]

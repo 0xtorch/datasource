@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_asset","internalType":"address","type":"address"}],"name":"enableERC20WithdrawQueue","outputs":[],"stateMutability":"nonpayable"}]

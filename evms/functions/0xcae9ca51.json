@@ -1,0 +1,1 @@
+[{"type":"function","constant":false,"inputs":[{"name":"_spender","internalType":"contract IERC20Receiver","type":"address"},{"name":"_value","internalType":"uint256","type":"uint256"},{"name":"_data","internalType":"bytes","type":"bytes"}],"name":"approveAndCall","outputs":[{"name":"_success","internalType":"bool","type":"bool"}],"payable":false,"stateMutability":"nonpayable"}]

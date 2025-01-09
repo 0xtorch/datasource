@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"toBan","internalType":"address","type":"address"},{"name":"forBlocks","internalType":"uint256","type":"uint256"}],"name":"banPlayer","outputs":[],"stateMutability":"nonpayable"}]

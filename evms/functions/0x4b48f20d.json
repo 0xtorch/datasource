@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_feeReceipient","internalType":"address","type":"address"}],"name":"setFeeReceipient","outputs":[],"stateMutability":"nonpayable"}]

@@ -1,0 +1,1 @@
+[{"type":"function","constant":false,"inputs":[{"name":"_proxyRegistryAddress","internalType":"address","type":"address"}],"name":"updateProxyRegistryAddress","outputs":[],"payable":false,"stateMutability":"nonpayable"}]

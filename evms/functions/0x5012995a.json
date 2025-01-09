@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"addr","internalType":"address","type":"address"}],"name":"boxesOpened","outputs":[{"name":"","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

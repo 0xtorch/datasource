@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"","internalType":"bytes6","type":"bytes6"}],"name":"ratesAtMaturity","outputs":[{"name":"","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

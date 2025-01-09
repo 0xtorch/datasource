@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"quoteAsset","internalType":"contract IERC20","type":"address","indexed":true}],"name":"QuoteAssetRemoved"}]

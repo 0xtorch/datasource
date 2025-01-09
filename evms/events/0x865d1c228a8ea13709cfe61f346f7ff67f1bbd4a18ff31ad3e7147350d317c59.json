@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"contractType","internalType":"enum ContractType","type":"uint8","indexed":true},{"name":"addr","internalType":"address","type":"address","indexed":true}],"name":"ContractUpdated"}]

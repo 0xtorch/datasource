@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"old","internalType":"address","type":"address","indexed":true},{"name":"newCa","internalType":"address","type":"address","indexed":true}],"name":"UpdateCA"}]

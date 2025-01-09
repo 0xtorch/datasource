@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"amount0Owed","internalType":"uint256","type":"uint256"},{"name":"amount1Owed","internalType":"uint256","type":"uint256"},{"name":"data","internalType":"bytes","type":"bytes"}],"name":"uniswapV3MintCallback","outputs":[],"stateMutability":"nonpayable"}]

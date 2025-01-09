@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"ilk","internalType":"bytes32","type":"bytes32"},{"name":"what","internalType":"bytes32","type":"bytes32"},{"name":"data","internalType":"uint256","type":"uint256"}],"name":"file","outputs":[],"stateMutability":"nonpayable"}]

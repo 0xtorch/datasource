@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"token","internalType":"address","type":"address"},{"name":"settlementX10_S","internalType":"uint256","type":"uint256"}],"name":"getLiquidatableCollateralBySettlement","outputs":[{"name":"collateral","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"tokenName","internalType":"string","type":"string"},{"name":"tokenSymbol","internalType":"string","type":"string"}],"name":"updateTokenMetadata","outputs":[{"name":"","internalType":"bool","type":"bool"}],"stateMutability":"nonpayable"}]

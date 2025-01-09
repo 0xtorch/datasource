@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_rootChainManager","internalType":"address","type":"address"},{"name":"_erc20Predicate","internalType":"address","type":"address"}],"name":"initPolygonBridge","outputs":[],"stateMutability":"nonpayable"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"market","internalType":"address","type":"address"}],"name":"isMarketWhitelisted","outputs":[{"name":"isWhitelisted","internalType":"bool","type":"bool"}],"stateMutability":"view"}]

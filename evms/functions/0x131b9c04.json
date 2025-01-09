@@ -1,0 +1,1 @@
+[{"type":"function","constant":true,"inputs":[{"name":"tokenAddress","internalType":"address","type":"address"}],"name":"getEarnings","outputs":[{"name":"","internalType":"uint256","type":"uint256"}],"payable":false,"stateMutability":"view"}]

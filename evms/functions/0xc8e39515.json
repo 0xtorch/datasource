@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"contAdd","internalType":"contract BEP20","type":"address"}],"name":"setRealContractAddress","outputs":[],"stateMutability":"nonpayable"}]

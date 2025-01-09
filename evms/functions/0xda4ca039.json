@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_operatorAddress","internalType":"address","type":"address"},{"name":"_treasuryAddress","internalType":"address","type":"address"},{"name":"_injectorAddress","internalType":"address","type":"address"}],"name":"setOperatorAndTreasuryAndInjectorAddresses","outputs":[],"stateMutability":"nonpayable"}]

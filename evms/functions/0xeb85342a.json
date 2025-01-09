@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[],"name":"getFundsDistribution","outputs":[{"name":"totalRaised","internalType":"uint256","type":"uint256"},{"name":"issuerCharged","internalType":"uint256","type":"uint256"},{"name":"fees","internalType":"uint256","type":"uint256"},{"name":"refunds","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

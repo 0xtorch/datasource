@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"pair","internalType":"address","type":"address","indexed":false},{"name":"orderType","internalType":"enum Orders.OrderType","type":"uint8","indexed":false},{"name":"disabled","internalType":"bool","type":"bool","indexed":false}],"name":"OrderDisabled"}]

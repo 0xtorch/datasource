@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"purchase_id","internalType":"uint256","type":"uint256"}],"name":"getLocked","outputs":[{"name":"","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

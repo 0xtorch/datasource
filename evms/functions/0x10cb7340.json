@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_silverAddress","internalType":"address","type":"address"},{"name":"_flag","internalType":"bool","type":"bool"}],"name":"setSilverAddress","outputs":[],"stateMutability":"nonpayable"}]

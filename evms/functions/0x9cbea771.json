@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"tokens","internalType":"address[]","type":"address[]"},{"name":"denorms","internalType":"uint96[]","type":"uint96[]"}],"name":"initToken","outputs":[],"stateMutability":"nonpayable"}]

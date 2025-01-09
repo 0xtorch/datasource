@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"clone","internalType":"address","type":"address","indexed":true},{"name":"oldFundingRecipient","internalType":"address","type":"address","indexed":true},{"name":"newFundingRecipient","internalType":"address","type":"address","indexed":true}],"name":"FundingRecipientSet"}]

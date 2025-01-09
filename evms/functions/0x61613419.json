@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_voter","internalType":"address","type":"address"},{"name":"_veptp","internalType":"address","type":"address"},{"name":"_mainStaking","internalType":"address","type":"address"},{"name":"_locker","internalType":"address","type":"address"}],"name":"__BribeManager_init","outputs":[],"stateMutability":"nonpayable"}]

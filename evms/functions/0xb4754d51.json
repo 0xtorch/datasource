@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"tokenData","internalType":"bytes","type":"bytes"},{"name":"name","internalType":"string","type":"string"}],"name":"mintOriginal","outputs":[],"stateMutability":"nonpayable"}]

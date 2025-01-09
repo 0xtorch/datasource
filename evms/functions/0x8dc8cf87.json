@@ -1,0 +1,1 @@
+[{"type":"function","constant":true,"inputs":[{"name":"hashMsg","type":"bytes32"}],"name":"isApprovedByHashi","outputs":[{"name":"","type":"bool"}],"payable":false,"stateMutability":"view"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"amountMinimum","internalType":"uint256","type":"uint256"},{"name":"recipient","internalType":"address","type":"address"},{"name":"feeBips","internalType":"uint256","type":"uint256"},{"name":"feeRecipient","internalType":"address","type":"address"}],"name":"unwrapWETH9WithFee","outputs":[],"stateMutability":"payable"}]

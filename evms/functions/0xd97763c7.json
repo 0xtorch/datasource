@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_allocPointProject","internalType":"uint256","type":"uint256"},{"name":"_allocPointUser","internalType":"uint256","type":"uint256"},{"name":"_modifyAllocPointPeriod","internalType":"uint256","type":"uint256"}],"name":"set_allocPoint","outputs":[],"stateMutability":"nonpayable"}]

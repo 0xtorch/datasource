@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[],"name":"getFactionSupply","outputs":[{"name":"factions","internalType":"uint256[]","type":"uint256[]"}],"stateMutability":"view"}]

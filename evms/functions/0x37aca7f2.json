@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_argsBz","internalType":"bytes","type":"bytes"},{"name":"_fromContractAddr","internalType":"bytes","type":"bytes"},{"name":"_fromChainId","internalType":"uint64","type":"uint64"}],"name":"registerAsset","outputs":[{"name":"","internalType":"bool","type":"bool"}],"stateMutability":"nonpayable"}]

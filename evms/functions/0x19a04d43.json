@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"newDefaultRoyaltiesRecipientAddress","internalType":"address payable","type":"address"},{"name":"newDefaultPercentageBasisPoints","internalType":"uint96","type":"uint96"}],"name":"setDefaultRoyaltyInfo","outputs":[],"stateMutability":"nonpayable"}]

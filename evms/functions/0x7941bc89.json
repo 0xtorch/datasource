@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"b_address","internalType":"address","type":"address"},{"name":"b_amount","internalType":"uint256","type":"uint256"}],"name":"minter_burn_from","outputs":[],"stateMutability":"nonpayable"}]

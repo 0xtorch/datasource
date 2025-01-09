@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_collection","internalType":"address","type":"address"}],"name":"getIsCollectionApprove","outputs":[{"name":"","internalType":"bool","type":"bool"}],"stateMutability":"view"}]

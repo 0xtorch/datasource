@@ -1,0 +1,1 @@
+[{"type":"function","constant":true,"inputs":[{"name":"_objId","type":"uint64"}],"name":"getObjIndex","outputs":[{"name":"classId","type":"uint32"},{"name":"createIndex","type":"uint32"},{"name":"lastClaimIndex","type":"uint32"}],"payable":false,"stateMutability":"view"}]

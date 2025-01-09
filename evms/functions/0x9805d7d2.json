@@ -1,0 +1,1 @@
+[{"type":"function","constant":true,"inputs":[{"name":"_owner","type":"address"}],"name":"landsOf","outputs":[{"name":"","type":"uint256[]"}],"payable":false,"stateMutability":"view"}]

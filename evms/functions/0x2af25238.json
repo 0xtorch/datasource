@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"salt","internalType":"bytes32","type":"bytes32"},{"name":"initCode","internalType":"bytes","type":"bytes"}],"name":"create3","outputs":[],"stateMutability":"payable"}]

@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"contractAddress","internalType":"address","type":"address","indexed":true},{"name":"recipientAddress","internalType":"address","type":"address","indexed":true},{"name":"royaltyPercentageBPS","internalType":"uint16","type":"uint16","indexed":true}],"name":"DefaultRoyaltySet"}]

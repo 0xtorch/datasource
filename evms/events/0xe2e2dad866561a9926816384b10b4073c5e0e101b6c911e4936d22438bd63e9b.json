@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"OBOAddress","internalType":"address","type":"address","indexed":false},{"name":"action","internalType":"bool","type":"bool","indexed":false}],"name":"NewOBOAddressEvent"}]

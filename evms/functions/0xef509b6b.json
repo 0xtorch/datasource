@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_axieIds","internalType":"uint256[]","type":"uint256[]"},{"name":"_seeds","internalType":"uint256[]","type":"uint256[]"}],"name":"batchGrowAxieggsToAdults","outputs":[],"stateMutability":"nonpayable"}]

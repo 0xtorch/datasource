@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"oldAdapter","internalType":"contract IERC4626","type":"address","indexed":false},{"name":"newAdapter","internalType":"contract IERC4626","type":"address","indexed":false}],"name":"ChangedAdapter"}]

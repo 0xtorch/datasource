@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"shareToRemove","internalType":"int256","type":"int256"},{"name":"cashToReturn","internalType":"int256","type":"int256"}],"name":"queryRemoveLiquidity","outputs":[{"name":"shareToRemoveResult","internalType":"int256","type":"int256"},{"name":"cashToReturnResult","internalType":"int256","type":"int256"}],"stateMutability":"view"}]

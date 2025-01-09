@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_collatIn","internalType":"uint256","type":"uint256"},{"name":"_ousdOutMin","internalType":"uint256","type":"uint256"}],"name":"zapMint","outputs":[],"stateMutability":"nonpayable"}]

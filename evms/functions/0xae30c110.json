@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_swapSlippageBP","internalType":"uint256","type":"uint256"},{"name":"_navSlippageBP","internalType":"uint256","type":"uint256"},{"name":"_stakeSlippageBP","internalType":"uint256","type":"uint256"}],"name":"setSlippages","outputs":[],"stateMutability":"nonpayable"}]

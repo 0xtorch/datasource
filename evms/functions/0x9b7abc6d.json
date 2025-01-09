@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"erc20","internalType":"address","type":"address"}],"name":"SplitERC20Payment","outputs":[],"stateMutability":"nonpayable"}]

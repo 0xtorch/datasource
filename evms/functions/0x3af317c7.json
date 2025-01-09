@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"","internalType":"address","type":"address"}],"name":"pill","outputs":[{"name":"","internalType":"enum SwapAndAirdrop.PILL_TYPE","type":"uint8"}],"stateMutability":"view"}]

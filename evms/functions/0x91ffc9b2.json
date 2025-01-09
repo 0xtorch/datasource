@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_votesReaderContract","internalType":"address","type":"address"}],"name":"setVotesReader","outputs":[],"stateMutability":"nonpayable"}]

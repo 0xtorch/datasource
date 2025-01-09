@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"destinationChainID","internalType":"uint8","type":"uint8","indexed":true},{"name":"isUnsupported","internalType":"bool","type":"bool","indexed":false}],"name":"UnsupportedChain"}]

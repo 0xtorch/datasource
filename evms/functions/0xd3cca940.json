@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"stakingAddr_","internalType":"contract IDechatStaking","type":"address"}],"name":"setStakingAddr","outputs":[],"stateMutability":"nonpayable"}]

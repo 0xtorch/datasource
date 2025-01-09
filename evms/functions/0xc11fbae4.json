@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_fees","internalType":"uint256[]","type":"uint256[]"},{"name":"_tokenAs","internalType":"address[]","type":"address[]"},{"name":"_tokenBs","internalType":"address[]","type":"address[]"},{"name":"_pricingModelIds","internalType":"uint256[]","type":"uint256[]"}],"name":"updatePairs","outputs":[],"stateMutability":"nonpayable"}]

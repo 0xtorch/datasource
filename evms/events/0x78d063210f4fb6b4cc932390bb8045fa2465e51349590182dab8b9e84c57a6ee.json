@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"nativeToken","internalType":"address","type":"address","indexed":true},{"name":"bridgedToken","internalType":"address","type":"address","indexed":true}],"name":"NewTokenRegistered"}]

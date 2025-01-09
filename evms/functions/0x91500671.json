@@ -1,0 +1,1 @@
+[{"type":"function","constant":false,"inputs":[{"name":"newPendingAdmin","internalType":"address","type":"address"},{"name":"eta","internalType":"uint256","type":"uint256"}],"name":"__queueSetTimelockPendingAdmin","outputs":[],"payable":false,"stateMutability":"nonpayable"}]

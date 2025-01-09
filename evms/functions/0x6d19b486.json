@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"addr","internalType":"address","type":"address"}],"name":"isUpgradeableContract","outputs":[{"name":"","internalType":"bool","type":"bool"}],"stateMutability":"view"}]

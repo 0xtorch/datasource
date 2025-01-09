@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"waveIndex_","internalType":"uint8","type":"uint8"},{"name":"startTime_","internalType":"uint256","type":"uint256"}],"name":"setWaveStartTime","outputs":[],"stateMutability":"nonpayable"}]

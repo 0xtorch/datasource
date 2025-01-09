@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_tokenAddress","internalType":"address","type":"address"},{"name":"id","internalType":"uint256","type":"uint256"},{"name":"_to","internalType":"address[]","type":"address[]"}],"name":"multiSendErc1155","outputs":[],"stateMutability":"payable"}]

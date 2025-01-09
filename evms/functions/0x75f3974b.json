@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_user","internalType":"address","type":"address"},{"name":"_permission","internalType":"bool","type":"bool"}],"name":"setAdminPermission","outputs":[],"stateMutability":"nonpayable"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"chainId","internalType":"uint256","type":"uint256"},{"name":"gasAmount","internalType":"uint256","type":"uint256"}],"name":"setGasUsage","outputs":[],"stateMutability":"nonpayable"}]

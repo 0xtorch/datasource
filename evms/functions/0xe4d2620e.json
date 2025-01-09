@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_userAddress","internalType":"address","type":"address"}],"name":"getUserTier","outputs":[{"name":"res","internalType":"uint8","type":"uint8"}],"stateMutability":"view"}]

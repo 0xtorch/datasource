@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"saleIndex","internalType":"uint256","type":"uint256"},{"name":"start","internalType":"uint256","type":"uint256"},{"name":"end","internalType":"uint256","type":"uint256"}],"name":"setTimestamps","outputs":[],"stateMutability":"nonpayable"}]

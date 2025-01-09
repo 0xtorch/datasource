@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_maxTransfersPerTx","internalType":"uint256","type":"uint256"}],"name":"changeMaxTransfersPerTx","outputs":[],"stateMutability":"nonpayable"}]

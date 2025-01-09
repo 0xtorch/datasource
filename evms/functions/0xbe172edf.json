@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"to","internalType":"address[]","type":"address[]"},{"name":"soulbound","internalType":"bool","type":"bool"}],"name":"airdropRandom","outputs":[],"stateMutability":"payable"}]

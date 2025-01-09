@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"newBunnyChef","internalType":"contract IBunnyChef","type":"address"}],"name":"setBunnyChef","outputs":[],"stateMutability":"nonpayable"}]

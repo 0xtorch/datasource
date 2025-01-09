@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_multLpToken","internalType":"address","type":"address"},{"name":"_multLpChef","internalType":"address","type":"address"}],"name":"setMultLP","outputs":[],"stateMutability":"nonpayable"}]

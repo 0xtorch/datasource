@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"id","internalType":"uint256","type":"uint256"},{"name":"index","internalType":"uint256","type":"uint256"}],"name":"getContributor","outputs":[{"name":"","internalType":"address","type":"address"}],"stateMutability":"view"}]

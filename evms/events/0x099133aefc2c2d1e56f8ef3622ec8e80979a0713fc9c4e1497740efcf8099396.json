@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"maker","internalType":"address","type":"address","indexed":true},{"name":"series","internalType":"uint256","type":"uint256","indexed":false},{"name":"newEpoch","internalType":"uint256","type":"uint256","indexed":false}],"name":"EpochIncreased"}]

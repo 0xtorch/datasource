@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"creatorContractAddress","internalType":"address","type":"address"},{"name":"instanceId","internalType":"uint256","type":"uint256"},{"name":"amount","internalType":"uint56","type":"uint56"}],"name":"sponsorMints","outputs":[],"stateMutability":"payable"}]

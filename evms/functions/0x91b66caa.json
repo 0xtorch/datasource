@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_ethDepositContract","internalType":"address","type":"address"}],"name":"setETHDepositContract","outputs":[],"stateMutability":"nonpayable"}]

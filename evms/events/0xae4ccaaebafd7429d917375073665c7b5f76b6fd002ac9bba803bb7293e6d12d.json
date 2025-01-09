@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"depositor","internalType":"address","type":"address","indexed":false},{"name":"distributor","internalType":"address","type":"address","indexed":false}],"name":"Funded"}]

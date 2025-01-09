@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"role","internalType":"uint8","type":"uint8","indexed":true},{"name":"target","internalType":"address","type":"address","indexed":true},{"name":"functionSig","internalType":"bytes4","type":"bytes4","indexed":true},{"name":"enabled","internalType":"bool","type":"bool","indexed":false}],"name":"RoleCapabilityUpdated"}]

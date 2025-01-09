@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"messageNumber","internalType":"uint256","type":"uint256","indexed":true},{"name":"rollingHash","internalType":"bytes32","type":"bytes32","indexed":true},{"name":"messageHash","internalType":"bytes32","type":"bytes32","indexed":true}],"name":"RollingHashUpdated"}]

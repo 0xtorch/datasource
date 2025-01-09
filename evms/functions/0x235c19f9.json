@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"phase","internalType":"enum NFes2State.SalePhase","type":"uint8"},{"name":"newTime","internalType":"uint256","type":"uint256"}],"name":"setTimeStart","outputs":[],"stateMutability":"nonpayable"}]

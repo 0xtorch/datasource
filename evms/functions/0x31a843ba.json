@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_v3Pool","internalType":"address","type":"address"}],"name":"getOathPerSecond","outputs":[{"name":"poolOathPerSecond","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

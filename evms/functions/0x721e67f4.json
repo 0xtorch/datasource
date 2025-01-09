@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"executor","internalType":"contract IExecutor","type":"address"}],"name":"executorConfig","outputs":[{"name":"","internalType":"struct ExecutorManager.ExecutorConfig","type":"tuple","components":[{"name":"hook","internalType":"contract IHook","type":"address"}]}],"stateMutability":"view"}]

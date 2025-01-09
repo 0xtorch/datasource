@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"newEIP2981RoyaltyOverride","internalType":"address","type":"address","indexed":false}],"name":"EIP2981RoyaltyOverrideCreated"}]

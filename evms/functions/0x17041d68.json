@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_newImage","internalType":"string","type":"string"},{"name":"id","internalType":"uint256","type":"uint256"}],"name":"setImage","outputs":[],"stateMutability":"nonpayable"}]

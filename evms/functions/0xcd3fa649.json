@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_minLockDays","internalType":"uint256","type":"uint256"},{"name":"_maxLockDays","internalType":"uint256","type":"uint256"},{"name":"_maxLockCap","internalType":"uint256","type":"uint256"}],"name":"setLockDaysAndCap","outputs":[],"stateMutability":"nonpayable"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_compounder","internalType":"address","type":"address"},{"name":"_noOfNodes","internalType":"uint256","type":"uint256"}],"name":"updateAutoCompoundBalance","outputs":[],"stateMutability":"nonpayable"}]

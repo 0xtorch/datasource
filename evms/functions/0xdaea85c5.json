@@ -1,0 +1,1 @@
+[{"type":"function","constant":false,"inputs":[{"name":"spender","internalType":"address","type":"address"}],"name":"approve","outputs":[{"name":"","internalType":"bool","type":"bool"}],"payable":false,"stateMutability":"nonpayable"}]

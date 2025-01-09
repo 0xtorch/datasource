@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_gelatoCore","internalType":"contract IGelatoV1","type":"address"},{"name":"_provider","internalType":"address","type":"address"},{"name":"_amount","internalType":"uint256","type":"uint256"}],"name":"providerRefund","outputs":[],"stateMutability":"nonpayable"}]

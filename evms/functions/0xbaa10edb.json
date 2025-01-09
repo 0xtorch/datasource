@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"who","internalType":"address","type":"address"},{"name":"isManaging","internalType":"bool","type":"bool"}],"name":"changeManaging","outputs":[],"stateMutability":"nonpayable"}]

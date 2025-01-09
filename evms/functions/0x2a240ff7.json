@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"","internalType":"address","type":"address"},{"name":"","internalType":"address","type":"address"}],"name":"sNovaHoldersRewardsInfo","outputs":[{"name":"rewardDept","internalType":"uint256","type":"uint256"},{"name":"pending","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

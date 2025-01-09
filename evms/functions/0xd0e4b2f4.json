@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"split","internalType":"address","type":"address"},{"name":"newController","internalType":"address","type":"address"}],"name":"transferControl","outputs":[],"stateMutability":"nonpayable"}]

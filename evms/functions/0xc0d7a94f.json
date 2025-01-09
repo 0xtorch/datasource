@@ -1,0 +1,1 @@
+[{"type":"function","constant":true,"inputs":[{"name":"account","internalType":"address","type":"address"}],"name":"balanceOfRewarded","outputs":[{"name":"","internalType":"uint256","type":"uint256"}],"payable":false,"stateMutability":"view"}]

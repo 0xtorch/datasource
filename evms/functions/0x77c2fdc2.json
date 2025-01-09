@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_token","internalType":"contract IERC20","type":"address"}],"name":"getMinPriceX96","outputs":[{"name":"priceX96","internalType":"uint160","type":"uint160"}],"stateMutability":"view"}]

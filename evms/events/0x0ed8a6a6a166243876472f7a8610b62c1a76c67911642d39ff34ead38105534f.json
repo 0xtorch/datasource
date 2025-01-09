@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"operator","type":"address","indexed":true},{"name":"role","type":"uint8","indexed":false}],"name":"RoleAdded"}]

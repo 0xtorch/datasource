@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_rewardRate","internalType":"uint256","type":"uint256"},{"name":"_rewardReserve","internalType":"uint256","type":"uint256"},{"name":"_periodFinish","internalType":"uint256","type":"uint256"}],"name":"syncReward","outputs":[],"stateMutability":"nonpayable"}]

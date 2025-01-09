@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_feeWalletDelegate","internalType":"address payable","type":"address"}],"name":"setFeeWalletDelegate","outputs":[],"stateMutability":"nonpayable"}]

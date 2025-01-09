@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"fastRouter","internalType":"address","type":"address","indexed":false},{"name":"chainId","internalType":"uint64","type":"uint64","indexed":false}],"name":"MultiChainInitialized"}]

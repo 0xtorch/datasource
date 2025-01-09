@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"cardIds_","internalType":"uint256[]","type":"uint256[]"},{"name":"cardsNum_","internalType":"uint256[]","type":"uint256[]"}],"name":"setCardsQuota","outputs":[],"stateMutability":"nonpayable"}]

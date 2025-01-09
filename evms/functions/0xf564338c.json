@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"chunkNumber","internalType":"uint256","type":"uint256"}],"name":"chunkProcessed","outputs":[{"name":"","internalType":"bool","type":"bool"}],"stateMutability":"view"}]

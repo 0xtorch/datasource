@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_recipients","internalType":"address[]","type":"address[]"},{"name":"_nftContract","internalType":"address","type":"address"},{"name":"_affiliateAddress","internalType":"address","type":"address"}],"name":"existingSimpleMintNftAirdrop","outputs":[{"name":"","internalType":"bool","type":"bool"}],"stateMutability":"payable"}]

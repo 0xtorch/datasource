@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"erc20Address","internalType":"address","type":"address"},{"name":"marketplaceAddress","internalType":"address","type":"address"},{"name":"amount","internalType":"uint256","type":"uint256"}],"name":"approveCurrencySpending","outputs":[{"name":"","internalType":"bool","type":"bool"}],"stateMutability":"nonpayable"}]

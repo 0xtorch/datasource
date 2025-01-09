@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"methodSig","internalType":"bytes4","type":"bytes4"}],"name":"canBeExecutedWhenPaused","outputs":[{"name":"","internalType":"bool","type":"bool"}],"stateMutability":"view"}]

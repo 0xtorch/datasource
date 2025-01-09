@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"tokenXAmount","internalType":"uint256","type":"uint256"},{"name":"account","internalType":"address","type":"address"}],"name":"withdrawForAccount","outputs":[{"name":"burn","internalType":"uint256","type":"uint256"}],"stateMutability":"nonpayable"}]

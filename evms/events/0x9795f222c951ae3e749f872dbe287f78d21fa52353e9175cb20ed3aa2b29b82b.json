@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"rewardA","internalType":"uint256","type":"uint256","indexed":false},{"name":"rewardB","internalType":"uint256","type":"uint256","indexed":false},{"name":"periodFinish","internalType":"uint256","type":"uint256","indexed":false}],"name":"RewardAdded"}]

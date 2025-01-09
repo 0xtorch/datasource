@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_delegate","internalType":"address","type":"address"},{"name":"_functionSignatures","internalType":"string","type":"string"},{"name":"_commitMessage","internalType":"string","type":"string"}],"name":"updateContract","outputs":[],"stateMutability":"nonpayable"}]

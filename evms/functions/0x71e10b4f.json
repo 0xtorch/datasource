@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"apToken","internalType":"address","type":"address"}],"name":"hasFarm","outputs":[{"name":"","internalType":"bool","type":"bool"}],"stateMutability":"view"}]

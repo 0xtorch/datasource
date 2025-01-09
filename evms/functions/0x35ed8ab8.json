@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"token","internalType":"address","type":"address"},{"name":"hayAmount","internalType":"uint256","type":"uint256"}],"name":"payback","outputs":[{"name":"","internalType":"int256","type":"int256"}],"stateMutability":"nonpayable"}]

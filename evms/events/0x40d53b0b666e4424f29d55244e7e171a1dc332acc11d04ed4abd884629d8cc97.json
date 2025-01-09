@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"oldSupplyController","type":"address","indexed":true},{"name":"newSupplyController","type":"address","indexed":true}],"name":"SupplyControllerSet"}]

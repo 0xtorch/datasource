@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"token","internalType":"address","type":"address"},{"name":"_borrowingInterval","internalType":"uint256","type":"uint256"},{"name":"_borrowingRateFactor","internalType":"uint256","type":"uint256"},{"name":"_borrowingExponent","internalType":"uint256","type":"uint256"}],"name":"setBorrowingRate","outputs":[],"stateMutability":"nonpayable"}]

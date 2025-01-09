@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"node","internalType":"bytes32","type":"bytes32","indexed":true},{"name":"name","internalType":"string","type":"string","indexed":false}],"name":"NameChanged"}]

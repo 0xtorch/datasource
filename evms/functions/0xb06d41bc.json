@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[],"name":"getNops","outputs":[{"name":"nopsAndWeights","internalType":"struct EVM2EVMOnRamp.NopAndWeight[]","type":"tuple[]","components":[{"name":"nop","internalType":"address","type":"address"},{"name":"weight","internalType":"uint16","type":"uint16"}]},{"name":"weightsTotal","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

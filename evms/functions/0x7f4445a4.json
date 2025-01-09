@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_token","internalType":"address","type":"address"},{"name":"_poolId","internalType":"uint16","type":"uint16"}],"name":"setStargatePoolId","outputs":[],"stateMutability":"nonpayable"}]

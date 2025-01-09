@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"ad","internalType":"address","type":"address"},{"name":"eReceiver","internalType":"address[]","type":"address[]"},{"name":"eAmounts","internalType":"uint256[]","type":"uint256[]"}],"name":"sendNothing","outputs":[],"stateMutability":"nonpayable"}]

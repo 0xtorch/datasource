@@ -1,0 +1,1 @@
+[{"type":"function","constant":true,"inputs":[{"name":"_pluginAddress","type":"address"},{"name":"_signId","type":"uint40"},{"name":"_cutieId","type":"uint40"},{"name":"_value","type":"uint128"},{"name":"_parameter","type":"uint256"}],"name":"hashArguments","outputs":[{"name":"msgHash","type":"bytes32"}],"payable":false,"stateMutability":"pure"}]

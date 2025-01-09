@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"minReturn","internalType":"uint256","type":"uint256"},{"name":"maxLoss","internalType":"uint256","type":"uint256"}],"name":"earlyWithdraw","outputs":[],"stateMutability":"nonpayable"}]

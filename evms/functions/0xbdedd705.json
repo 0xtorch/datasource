@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"callDatas","internalType":"struct Bridge.CallData[]","type":"tuple[]","components":[{"name":"target","internalType":"address","type":"address"},{"name":"data","internalType":"bytes","type":"bytes"}]}],"name":"multiCall","outputs":[],"stateMutability":"nonpayable"}]

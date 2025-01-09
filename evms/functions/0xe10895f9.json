@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_referralCode","internalType":"uint32","type":"uint32"},{"name":"_referralFee","internalType":"uint64","type":"uint64"},{"name":"_beneficiary","internalType":"address","type":"address"}],"name":"registerReferralCode","outputs":[],"stateMutability":"nonpayable"}]

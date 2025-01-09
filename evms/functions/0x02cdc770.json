@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_operator","internalType":"","type":"address"},{"name":"_funcSig","internalType":"","type":"bytes4"},{"name":"_approved","internalType":"","type":"bool"}],"name":"setPermissionFor","outputs":[],"payable":false,"stateMutability":"nonpayable"}]

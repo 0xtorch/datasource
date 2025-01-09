@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"","internalType":"contract IERC20","type":"address"}],"name":"totalAllocPoints","outputs":[{"name":"","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

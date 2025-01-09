@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"module","internalType":"contract IModule","type":"address"},{"name":"encodedArgs","internalType":"bytes","type":"bytes"}],"name":"installRootModule","outputs":[],"stateMutability":"nonpayable"}]

@@ -1,0 +1,1 @@
+[{"type":"function","constant":false,"inputs":[{"name":"_user","internalType":"address","type":"address"}],"name":"allocateRewards","outputs":[{"name":"_rewardToken","internalType":"contract IERC20","type":"address"},{"name":"_earnedRewards","internalType":"uint256","type":"uint256"}],"payable":false,"stateMutability":"nonpayable"}]

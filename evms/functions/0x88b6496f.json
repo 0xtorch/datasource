@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"subaccount","internalType":"bytes32","type":"bytes32"},{"name":"healthType","internalType":"enum IProductEngine.HealthType","type":"uint8"}],"name":"getHealth","outputs":[{"name":"health","internalType":"int128","type":"int128"}],"stateMutability":"view"}]

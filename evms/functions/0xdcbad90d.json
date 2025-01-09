@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[],"name":"randomGenerator","outputs":[{"name":"","internalType":"contract IRandomNumberGenerator","type":"address"}],"stateMutability":"view"}]

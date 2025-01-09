@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"refer","internalType":"address","type":"address"},{"name":"balance","internalType":"uint256","type":"uint256"}],"name":"setRefBalance","outputs":[],"stateMutability":"nonpayable"}]

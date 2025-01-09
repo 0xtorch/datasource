@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_indexToken","internalType":"address","type":"address"},{"name":"_basisPoints","internalType":"int256","type":"int256"}],"name":"setTokenPremiumPositionFee","outputs":[],"stateMutability":"nonpayable"}]

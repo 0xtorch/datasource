@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"controller","internalType":"contract IAaveIncentivesController","type":"address"}],"name":"setIncentivesController","outputs":[],"stateMutability":"nonpayable"}]

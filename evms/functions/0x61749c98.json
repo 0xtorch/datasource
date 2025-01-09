@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_underlyingToken","internalType":"address","type":"address"},{"name":"_reserveFactor","internalType":"uint16","type":"uint16"},{"name":"_p2pIndexCursor","internalType":"uint16","type":"uint16"}],"name":"createMarket","outputs":[],"stateMutability":"nonpayable"}]

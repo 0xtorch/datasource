@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"pool","internalType":"contract ITranchedPool","type":"address"},{"name":"leverageRatio","internalType":"uint256","type":"uint256"},{"name":"juniorTrancheLockedUntil","internalType":"uint256","type":"uint256"},{"name":"version","internalType":"bytes32","type":"bytes32"}],"name":"setLeverageRatio","outputs":[],"stateMutability":"nonpayable"}]

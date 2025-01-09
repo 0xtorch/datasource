@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"","internalType":"uint256","type":"uint256"}],"name":"editions","outputs":[{"name":"name","internalType":"string","type":"string"},{"name":"imageURI","internalType":"string","type":"string"},{"name":"percentChance","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

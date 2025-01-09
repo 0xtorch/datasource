@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_pubKey","internalType":"bytes","type":"bytes"},{"name":"_removeIndex","internalType":"uint256","type":"uint256"},{"name":"_unordered","internalType":"bool","type":"bool"}],"name":"removeInitializedValidator","outputs":[],"stateMutability":"nonpayable"}]

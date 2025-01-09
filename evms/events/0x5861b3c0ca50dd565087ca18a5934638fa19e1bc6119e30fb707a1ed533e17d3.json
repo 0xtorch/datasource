@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"tokenId","internalType":"uint256","type":"uint256","indexed":false},{"name":"earned","internalType":"uint256","type":"uint256","indexed":false},{"name":"unstaked","internalType":"bool","type":"bool","indexed":false}],"name":"PeekABooClaimed"}]

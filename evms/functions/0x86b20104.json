@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_from","internalType":"uint256","type":"uint256"},{"name":"_count","internalType":"uint256","type":"uint256"}],"name":"getLoans","outputs":[{"name":"_loans","internalType":"address[]","type":"address[]"}],"stateMutability":"view"}]

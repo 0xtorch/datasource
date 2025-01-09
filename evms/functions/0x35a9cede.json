@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"table","internalType":"bytes32[]","type":"bytes32[]"},{"name":"startAt","internalType":"uint256","type":"uint256"}],"name":"setColorTable","outputs":[],"stateMutability":"nonpayable"}]

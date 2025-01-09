@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_l2LockBox","internalType":"address","type":"address"},{"name":"_initialSupply","internalType":"uint256","type":"uint256"}],"name":"initialize","outputs":[],"stateMutability":"nonpayable"}]

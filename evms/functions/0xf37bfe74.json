@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_vestingDurationSeconds","internalType":"uint256","type":"uint256"},{"name":"_vestingCliffDurationSeconds","internalType":"uint256","type":"uint256"},{"name":"_tokenAllocationOnTGERate","internalType":"uint256","type":"uint256"}],"name":"updateVestingTerms","outputs":[],"stateMutability":"nonpayable"}]

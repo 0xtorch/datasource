@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"lastRewardTimestamp","internalType":"uint256","type":"uint256","indexed":false},{"name":"accVeJoePerShare","internalType":"uint256","type":"uint256","indexed":false}],"name":"UpdateRewardVars"}]

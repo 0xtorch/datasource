@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"users","internalType":"address[]","type":"address[]"},{"name":"allowedMint","internalType":"uint256[]","type":"uint256[]"}],"name":"setWhitelistAddress","outputs":[],"stateMutability":"nonpayable"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"user","internalType":"address","type":"address"},{"name":"status","internalType":"bool","type":"bool"}],"name":"setAddressWLstatus","outputs":[],"stateMutability":"nonpayable"}]

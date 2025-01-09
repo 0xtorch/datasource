@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_sender","internalType":"address","type":"address"},{"name":"_receiver","internalType":"address","type":"address"}],"name":"transferStakeValues","outputs":[],"stateMutability":"nonpayable"}]

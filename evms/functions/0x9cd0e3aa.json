@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"account","internalType":"address","type":"address"}],"name":"getAccountQvalue","outputs":[{"name":"","internalType":"struct P1Types.MarginStruct","type":"tuple","components":[{"name":"marginIsPositive","internalType":"bool","type":"bool"},{"name":"margin","internalType":"uint120","type":"uint120"}]}],"stateMutability":"view"}]

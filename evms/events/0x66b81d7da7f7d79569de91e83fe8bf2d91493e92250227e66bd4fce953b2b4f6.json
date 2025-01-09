@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"contractAddress","internalType":"address","type":"address","indexed":true},{"name":"ethDestinationAddress","internalType":"address","type":"address","indexed":true},{"name":"primeDestinationAddress","internalType":"address","type":"address","indexed":true}],"name":"EchelonGatewayRegistered"}]

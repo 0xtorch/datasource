@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"error","type":"string","indexed":false},{"name":"tokenId","type":"uint256","indexed":false}],"name":"ErrorOut"}]

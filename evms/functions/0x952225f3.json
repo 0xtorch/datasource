@@ -1,0 +1,1 @@
+[{"type":"function","constant":true,"inputs":[{"name":"account","internalType":"address","type":"address"},{"name":"isSelfLiquidation","internalType":"bool","type":"bool"}],"name":"isLiquidationOpen","outputs":[{"name":"","internalType":"bool","type":"bool"}],"payable":false,"stateMutability":"view"}]

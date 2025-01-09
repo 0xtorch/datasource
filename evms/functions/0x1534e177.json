@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_metadataService","internalType":"contract IMetadataService","type":"address"}],"name":"setMetadataService","outputs":[],"stateMutability":"nonpayable"}]

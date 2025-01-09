@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"requestId","internalType":"bytes32","type":"bytes32","indexed":false},{"name":"clientId","internalType":"bytes32","type":"bytes32","indexed":true}],"name":"ClientIdLog"}]

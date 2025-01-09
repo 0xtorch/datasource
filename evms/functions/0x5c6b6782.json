@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"reserveId","internalType":"uint256","type":"uint256"}],"name":"getStakingAddress","outputs":[{"name":"","internalType":"address","type":"address"}],"stateMutability":"view"}]

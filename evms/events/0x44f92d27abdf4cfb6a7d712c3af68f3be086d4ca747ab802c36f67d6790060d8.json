@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"superOperator","type":"address","indexed":false},{"name":"enabled","type":"bool","indexed":false}],"name":"SuperOperator"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"pool","internalType":"address","type":"address"},{"name":"poolAmountOut","internalType":"uint256","type":"uint256"},{"name":"maxAmountsIn","internalType":"uint256[]","type":"uint256[]"},{"name":"deadline","internalType":"uint256","type":"uint256"}],"name":"joinPool","outputs":[],"stateMutability":"payable"}]

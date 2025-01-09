@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_lps","internalType":"address[]","type":"address[]"},{"name":"_compoundType","internalType":"enum ManualCompound.CompoundType[]","type":"uint8[]"}],"name":"compound","outputs":[],"stateMutability":"nonpayable"}]

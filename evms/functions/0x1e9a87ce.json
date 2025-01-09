@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_to","internalType":"address","type":"address"},{"name":"_category","internalType":"uint256","type":"uint256"},{"name":"_rarity","internalType":"enum SnpitCameraNft.RARITY","type":"uint8"}],"name":"mintWithRarity","outputs":[{"name":"","internalType":"uint256","type":"uint256"}],"stateMutability":"nonpayable"}]

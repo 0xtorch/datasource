@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"newBeaconChainOracle","internalType":"contract IBeaconChainOracle","type":"address"}],"name":"updateBeaconChainOracle","outputs":[],"stateMutability":"nonpayable"}]

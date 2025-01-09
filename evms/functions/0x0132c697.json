@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_projectId","internalType":"uint256","type":"uint256"},{"name":"_maxInvocations","internalType":"uint24","type":"uint24"}],"name":"updateProjectMaxInvocations","outputs":[],"stateMutability":"nonpayable"}]

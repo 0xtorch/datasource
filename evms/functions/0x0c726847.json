@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"sendsData","internalType":"bytes","type":"bytes"},{"name":"sendLengths","internalType":"uint256[]","type":"uint256[]"}],"name":"processOutgoingMessages","outputs":[],"stateMutability":"nonpayable"}]

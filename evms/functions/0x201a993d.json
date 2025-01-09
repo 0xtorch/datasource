@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_chickenNftAddress","internalType":"contract IChickenNFT","type":"address"}],"name":"setChickenNft","outputs":[],"stateMutability":"nonpayable"}]

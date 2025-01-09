@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"tokenAddress","internalType":"address","type":"address"},{"name":"minCapLimit","internalType":"uint256","type":"uint256"},{"name":"maxCapLimit","internalType":"uint256","type":"uint256"}],"name":"updateTokenCap","outputs":[],"stateMutability":"nonpayable"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_candidate","internalType":"address","type":"address"},{"name":"_role","internalType":"bytes32","type":"bytes32"}],"name":"_hasConsensus","outputs":[{"name":"","internalType":"bool","type":"bool"}],"stateMutability":"view"}]

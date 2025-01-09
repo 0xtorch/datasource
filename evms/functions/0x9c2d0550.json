@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_i","internalType":"uint256","type":"uint256"},{"name":"_tierLevel","internalType":"uint256","type":"uint256"},{"name":"_periodToAchieve","internalType":"uint256","type":"uint256"},{"name":"_multiplier","internalType":"uint256","type":"uint256"}],"name":"upsertStakingTier","outputs":[],"stateMutability":"nonpayable"}]

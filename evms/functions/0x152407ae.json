@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"className_","internalType":"string","type":"string"}],"name":"classIndex","outputs":[{"name":"classIndex_","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

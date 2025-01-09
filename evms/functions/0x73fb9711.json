@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_edition","internalType":"uint256","type":"uint256"}],"name":"allowCount","outputs":[{"name":"","internalType":"uint256","type":"uint256"}],"stateMutability":"view"},{"type":"function","gas":3528,"inputs":[],"name":"future_price_threshoold","outputs":[{"name":"","type":"uint256"}],"stateMutability":"view"}]

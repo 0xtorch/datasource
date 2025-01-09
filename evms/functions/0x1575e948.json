@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"context","internalType":"address","type":"address"},{"name":"_burnPositionData","internalType":"bytes","type":"bytes"}],"name":"burnPositionHandler","outputs":[{"name":"","internalType":"uint256","type":"uint256"}],"stateMutability":"nonpayable"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_LP","internalType":"address","type":"address"}],"name":"isMultLP","outputs":[{"name":"","internalType":"bool","type":"bool"}],"stateMutability":"view"}]

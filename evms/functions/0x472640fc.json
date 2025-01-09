@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_referrer","internalType":"address","type":"address"},{"name":"_status","internalType":"bool","type":"bool"},{"name":"_bonusRate","internalType":"uint256","type":"uint256"}],"name":"setAuthorized","outputs":[],"stateMutability":"nonpayable"}]

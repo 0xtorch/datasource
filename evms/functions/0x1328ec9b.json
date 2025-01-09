@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"profileId","internalType":"uint256","type":"uint256"}],"name":"getAvatar","outputs":[{"name":"","internalType":"string","type":"string"}],"stateMutability":"view"}]

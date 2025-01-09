@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_chainId","internalType":"uint64","type":"uint64"},{"name":"_app","internalType":"address","type":"address"},{"name":"_signal","internalType":"bytes32","type":"bytes32"}],"name":"getSignalSlot","outputs":[{"name":"","internalType":"bytes32","type":"bytes32"}],"stateMutability":"pure"}]

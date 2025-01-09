@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_fundRecipient","internalType":"address","type":"address"}],"name":"setFundRecipient","outputs":[],"stateMutability":"nonpayable"}]

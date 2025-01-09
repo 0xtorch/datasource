@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"baseAssetAddress","internalType":"address","type":"address","indexed":false},{"name":"quoteAssetAddress","internalType":"address","type":"address","indexed":false},{"name":"liquidityProviderToken","internalType":"address","type":"address","indexed":false}],"name":"LiquidityPoolCreated"}]

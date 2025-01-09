@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"role","internalType":"bytes32","type":"bytes32"}],"name":"listRoleWallet","outputs":[{"name":"roleMembers","internalType":"address[]","type":"address[]"}],"stateMutability":"view"}]

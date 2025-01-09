@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"defaultNFTRegistry_","internalType":"contract INFTRegistry","type":"address"}],"name":"setDefaultNFTRegistry","outputs":[],"stateMutability":"nonpayable"}]

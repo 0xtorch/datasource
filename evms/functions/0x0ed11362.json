@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"account","internalType":"address","type":"address"},{"name":"enable","internalType":"bool","type":"bool"}],"name":"_setDefaultApproved","outputs":[],"stateMutability":"nonpayable"}]

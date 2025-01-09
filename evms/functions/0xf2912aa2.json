@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"initAddr","internalType":"address[1]","type":"address[1]"},{"name":"_eobChainId","internalType":"uint256","type":"uint256"}],"name":"initialize","outputs":[],"stateMutability":"nonpayable"}]

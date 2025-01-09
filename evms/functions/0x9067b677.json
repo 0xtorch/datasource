@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"streamId","internalType":"uint256","type":"uint256"}],"name":"getEndTime","outputs":[{"name":"endTime","internalType":"uint40","type":"uint40"}],"stateMutability":"view"}]

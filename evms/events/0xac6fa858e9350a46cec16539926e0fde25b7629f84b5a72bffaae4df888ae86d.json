@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"_operator","internalType":"address","type":"address","indexed":true}],"name":"OperatorAdded"},{"type":"event","anonymous":false,"inputs":[{"name":"_newOperator","internalType":"address","type":"address","indexed":false}],"name":"OperatorAdded"}]

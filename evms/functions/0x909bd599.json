@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"a","internalType":"address","type":"address"}],"name":"isBot1","outputs":[{"name":"","internalType":"bool","type":"bool"}],"stateMutability":"view"}]

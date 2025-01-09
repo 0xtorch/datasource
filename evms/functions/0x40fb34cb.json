@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"assetAddr","internalType":"address","type":"address"},{"name":"newFeedAddr","internalType":"address","type":"address"},{"name":"newStaleTime","internalType":"uint24","type":"uint24"}],"name":"setAssetFeed","outputs":[],"stateMutability":"nonpayable"}]

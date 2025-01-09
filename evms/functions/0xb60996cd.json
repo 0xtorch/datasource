@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_to","internalType":"address","type":"address"},{"name":"_has","internalType":"bool","type":"bool"}],"name":"setHasFee","outputs":[],"stateMutability":"nonpayable"}]

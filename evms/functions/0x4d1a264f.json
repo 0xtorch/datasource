@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_burnTokenIds","internalType":"uint256[]","type":"uint256[]"},{"name":"_wlAmountMax","internalType":"uint256","type":"uint256"},{"name":"_wlGroup","internalType":"uint256","type":"uint256"},{"name":"_merkleProof","internalType":"bytes32[]","type":"bytes32[]"}],"name":"burnMint","outputs":[],"stateMutability":"payable"}]

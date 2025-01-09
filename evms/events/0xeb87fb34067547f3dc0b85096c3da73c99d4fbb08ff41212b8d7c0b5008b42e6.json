@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"poolAdminNFT","internalType":"contract IPoolAdminNFT","type":"address","indexed":true}],"name":"PoolAdminNFTCreated"}]

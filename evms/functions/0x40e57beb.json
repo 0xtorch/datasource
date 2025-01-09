@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"","internalType":"address","type":"address"}],"name":"gaugeData","outputs":[{"name":"isSupported","internalType":"bool","type":"bool"},{"name":"isPlus","internalType":"bool","type":"bool"},{"name":"weight","internalType":"uint256","type":"uint256"},{"name":"rate","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

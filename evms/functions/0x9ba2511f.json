@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"addy","internalType":"address","type":"address"}],"name":"checkRewardTokenShares","outputs":[{"name":"","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

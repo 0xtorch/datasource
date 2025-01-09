@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[],"name":"getWithdrawalEpoch","outputs":[{"name":"year","internalType":"uint256","type":"uint256"},{"name":"month","internalType":"uint256","type":"uint256"},{"name":"day","internalType":"uint256","type":"uint256"},{"name":"claimableEpoch","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

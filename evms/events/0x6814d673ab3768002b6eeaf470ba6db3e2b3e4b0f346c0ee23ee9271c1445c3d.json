@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"creator","internalType":"address","type":"address","indexed":true},{"name":"account","internalType":"address","type":"address","indexed":true},{"name":"version","internalType":"bytes32","type":"bytes32","indexed":false}],"name":"NewAccount"}]

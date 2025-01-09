@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[],"name":"contractState","outputs":[{"name":"","internalType":"enum PricelessPositionManager.ContractState","type":"uint8"}],"stateMutability":"view"}]

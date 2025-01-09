@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"oldSweepBatchSize","internalType":"uint256","type":"uint256","indexed":false},{"name":"newSweepBatchSize","internalType":"uint256","type":"uint256","indexed":false}],"name":"SweepBatchSizeUpdated"}]

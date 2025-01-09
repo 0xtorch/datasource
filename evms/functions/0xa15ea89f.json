@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_v3Pool","internalType":"address","type":"address"}],"name":"getLatestPeriodInfo","outputs":[{"name":"cakePerSecond","internalType":"uint256","type":"uint256"},{"name":"endTime","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

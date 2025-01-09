@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"previous","internalType":"contract ILzFeeHandler","type":"address","indexed":false},{"name":"current","internalType":"contract ILzFeeHandler","type":"address","indexed":false}],"name":"LogFeeHandlerChanged"}]

@@ -1,0 +1,1 @@
+[{"type":"function","constant":false,"inputs":[{"name":"_since","internalType":"uint256","type":"uint256"},{"name":"_until","internalType":"uint256","type":"uint256"},{"name":"_purchaseType","internalType":"uint8","type":"uint8"},{"name":"_subPurchaseType","internalType":"uint8","type":"uint8"}],"name":"setCampaign","outputs":[],"payable":false,"stateMutability":"nonpayable"}]

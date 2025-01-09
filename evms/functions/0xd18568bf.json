@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"level","internalType":"uint256","type":"uint256"},{"name":"minimumAmount","internalType":"uint256","type":"uint256"},{"name":"referrerRate","internalType":"uint256","type":"uint256"},{"name":"refereeRate","internalType":"uint256","type":"uint256"}],"name":"setComissionChart","outputs":[],"stateMutability":"nonpayable"}]

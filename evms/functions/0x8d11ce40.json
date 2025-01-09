@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_onchainData","internalType":"bytes","type":"bytes"},{"name":"_signature","internalType":"bytes","type":"bytes"}],"name":"setOnchainPointer","outputs":[],"stateMutability":"nonpayable"}]

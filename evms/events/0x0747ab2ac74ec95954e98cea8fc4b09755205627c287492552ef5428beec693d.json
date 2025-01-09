@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"tickId","internalType":"uint256","type":"uint256","indexed":false},{"name":"winner","internalType":"address","type":"address","indexed":false},{"name":"bonus","internalType":"uint256","type":"uint256","indexed":false},{"name":"timestamp","internalType":"uint256","type":"uint256","indexed":false}],"name":"Winner"}]

@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"symbol","internalType":"string","type":"string","indexed":false},{"name":"price","internalType":"uint256","type":"uint256","indexed":false}],"name":"PriceUpdated"}]

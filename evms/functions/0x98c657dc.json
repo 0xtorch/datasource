@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_allocationID","internalType":"address","type":"address"}],"name":"getAllocationState","outputs":[{"name":"","internalType":"enum IStakingBase.AllocationState","type":"uint8"}],"stateMutability":"view"}]

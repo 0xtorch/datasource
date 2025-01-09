@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"oldRewardPerBlock","internalType":"uint256","type":"uint256","indexed":false},{"name":"newRewardPerBlock","internalType":"uint256","type":"uint256","indexed":false}],"name":"RewardPerBlockChanged"}]

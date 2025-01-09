@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"","internalType":"uint256","type":"uint256"}],"name":"mintInfo","outputs":[{"name":"VoltsPerBlock","internalType":"uint256","type":"uint256"},{"name":"mintStartBlock","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

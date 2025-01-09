@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"startTime","internalType":"uint256","type":"uint256"},{"name":"initMaxCount","internalType":"uint256","type":"uint256"},{"name":"maxCountUnlockTime","internalType":"uint256","type":"uint256"},{"name":"unlockedMaxCount","internalType":"uint256","type":"uint256"}],"name":"setUpSale","outputs":[],"stateMutability":"nonpayable"}]

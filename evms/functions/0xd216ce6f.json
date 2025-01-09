@@ -1,0 +1,1 @@
+[{"type":"function","constant":true,"inputs":[{"name":"invitee","internalType":"address","type":"address"}],"name":"getInviter","outputs":[{"name":"inviter","internalType":"address","type":"address"}],"payable":false,"stateMutability":"view"}]

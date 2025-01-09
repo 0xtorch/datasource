@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"transactionId","internalType":"uint256","type":"uint256"}],"name":"txHistory","outputs":[{"name":"txInfo","internalType":"uint256","type":"uint256"},{"name":"receiverAddressSP","internalType":"address","type":"address"}],"stateMutability":"view"}]

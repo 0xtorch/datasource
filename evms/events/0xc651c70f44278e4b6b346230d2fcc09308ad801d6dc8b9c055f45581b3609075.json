@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"juniorVault","internalType":"address","type":"address","indexed":false},{"name":"rewardRouter","internalType":"address","type":"address","indexed":false}],"name":"AddressesUpdated"}]

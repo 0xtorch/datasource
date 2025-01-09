@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"enableFlashLoan","internalType":"bool","type":"bool"}],"name":"toggleFlashLoan","outputs":[],"stateMutability":"nonpayable"}]

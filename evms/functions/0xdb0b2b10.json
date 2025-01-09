@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"actors","internalType":"address[]","type":"address[]"},{"name":"calcModel","internalType":"uint16","type":"uint16"}],"name":"whitelistAddresses","outputs":[],"stateMutability":"nonpayable"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"callpath","internalType":"uint16","type":"uint16"},{"name":"cmd","internalType":"bytes","type":"bytes"}],"name":"userCmd","outputs":[{"name":"","internalType":"bytes","type":"bytes"}],"stateMutability":"payable"}]

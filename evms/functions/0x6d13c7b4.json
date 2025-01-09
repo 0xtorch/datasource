@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"newMinterContract","internalType":"address","type":"address"}],"name":"setNewMinterContract","outputs":[{"name":"","internalType":"bool","type":"bool"}],"stateMutability":"nonpayable"}]

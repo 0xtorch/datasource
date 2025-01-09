@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"rsETHAmount","internalType":"uint256","type":"uint256"},{"name":"referralId","internalType":"string","type":"string"}],"name":"depositRsETH","outputs":[],"stateMutability":"nonpayable"}]

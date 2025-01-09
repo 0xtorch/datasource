@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"owner","type":"address","indexed":true},{"name":"landId","type":"uint256","indexed":false}],"name":"NewLand"}]

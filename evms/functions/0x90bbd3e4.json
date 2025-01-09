@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"perpetualIndex","internalType":"uint256","type":"uint256"}],"name":"getClearProgress","outputs":[{"name":"left","internalType":"uint256","type":"uint256"},{"name":"total","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

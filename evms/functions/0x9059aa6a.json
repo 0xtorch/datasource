@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"tokens","internalType":"contract IERC20[]","type":"address[]"}],"name":"vestCompletedSchedulesForMultipleTokens","outputs":[{"name":"vestedAmounts","internalType":"uint256[]","type":"uint256[]"}],"stateMutability":"nonpayable"}]

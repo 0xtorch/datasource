@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[],"name":"getContractInfo","outputs":[{"name":"_hasSaleStarted","internalType":"bool","type":"bool"},{"name":"_maxTokensAllowed","internalType":"uint256","type":"uint256"},{"name":"_tokenPrice","internalType":"uint256","type":"uint256"},{"name":"_tokensToBuyAmount","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

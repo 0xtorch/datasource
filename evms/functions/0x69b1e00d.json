@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"messageId","internalType":"bytes32","type":"bytes32"}],"name":"incomingMessageSuccessful","outputs":[{"name":"","internalType":"bool","type":"bool"}],"stateMutability":"view"}]

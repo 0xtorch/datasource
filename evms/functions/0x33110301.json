@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_uniRouterV3","internalType":"address","type":"address"},{"name":"_quoterV2","internalType":"address","type":"address"},{"name":"_uniswapDefaultFee","internalType":"uint24","type":"uint24"},{"name":"_uniswapSlippage","internalType":"uint24","type":"uint24"}],"name":"setUniswapInfo","outputs":[],"stateMutability":"nonpayable"}]

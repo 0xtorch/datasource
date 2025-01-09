@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"vat_","internalType":"address","type":"address"},{"name":"spot_","internalType":"address","type":"address"},{"name":"hayJoin_","internalType":"address","type":"address"},{"name":"jug_","internalType":"address","type":"address"}],"name":"setCores","outputs":[],"stateMutability":"nonpayable"}]

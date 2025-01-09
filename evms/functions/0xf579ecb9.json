@@ -1,0 +1,1 @@
+[{"type":"function","constant":false,"inputs":[{"name":"_pid","internalType":"uint256","type":"uint256"},{"name":"_depositFeeBP","internalType":"uint16","type":"uint16"}],"name":"updatePoolDepositFee","outputs":[],"payable":false,"stateMutability":"nonpayable"}]

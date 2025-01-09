@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"mainnetExitRoot","internalType":"bytes32","type":"bytes32","indexed":true},{"name":"rollupExitRoot","internalType":"bytes32","type":"bytes32","indexed":true}],"name":"UpdateL1InfoTree"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"newProposalThreshold","internalType":"uint256","type":"uint256"}],"name":"setProposalThreshold","outputs":[],"stateMutability":"nonpayable"}]

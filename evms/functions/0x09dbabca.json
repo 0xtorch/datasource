@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"layerIndex","internalType":"uint256","type":"uint256"},{"name":"traitIndex","internalType":"uint256","type":"uint256"}],"name":"traitData","outputs":[{"name":"","internalType":"string","type":"string"}],"stateMutability":"view"}]

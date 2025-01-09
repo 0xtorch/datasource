@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[],"name":"pendingDefaultAdminDelay","outputs":[{"name":"newDelay","internalType":"uint48","type":"uint48"},{"name":"schedule","internalType":"uint48","type":"uint48"}],"stateMutability":"view"}]

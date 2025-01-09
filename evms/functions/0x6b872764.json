@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"collectionAddress","internalType":"address","type":"address"},{"name":"tokenId","internalType":"uint256","type":"uint256"}],"name":"linkOwner","outputs":[{"name":"","internalType":"address[2]","type":"address[2]"}],"stateMutability":"view"}]

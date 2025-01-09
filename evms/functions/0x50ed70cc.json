@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"","internalType":"bytes32","type":"bytes32"}],"name":"_characterHashes","outputs":[{"name":"taken","internalType":"bool","type":"bool"},{"name":"tokenID","internalType":"uint16","type":"uint16"}],"stateMutability":"view"}]

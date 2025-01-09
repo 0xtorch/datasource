@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"oldPauser","type":"address","indexed":true},{"name":"newPauser","type":"address","indexed":true},{"name":"sender","type":"address","indexed":true}],"name":"PauserChanged"}]

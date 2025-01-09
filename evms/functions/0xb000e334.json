@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"projectId","internalType":"uint256","type":"uint256"},{"name":"coreContract","internalType":"address","type":"address"},{"name":"maxInvocations","internalType":"uint24","type":"uint24"}],"name":"manuallyLimitProjectMaxInvocations","outputs":[],"stateMutability":"nonpayable"}]

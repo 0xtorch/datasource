@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"credit1","internalType":"uint256","type":"uint256"},{"name":"credit2","internalType":"uint256","type":"uint256"},{"name":"errorText","internalType":"string","type":"string"}],"name":"subCredits","outputs":[{"name":"resultCredit","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

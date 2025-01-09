@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"activityID","internalType":"uint256","type":"uint256","indexed":false},{"name":"createdTime","internalType":"uint256","type":"uint256","indexed":false},{"name":"blockNum","internalType":"uint256","type":"uint256","indexed":false}],"name":"eNewActivity"}]

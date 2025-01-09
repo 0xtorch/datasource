@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[],"name":"getOracleAggregator","outputs":[{"name":"oracleAggregator","internalType":"address","type":"address"}],"stateMutability":"view"}]

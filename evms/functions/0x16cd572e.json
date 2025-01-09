@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"whChainId","internalType":"uint16","type":"uint16"},{"name":"forwarder","internalType":"bytes32","type":"bytes32"}],"name":"addChain","outputs":[],"stateMutability":"nonpayable"}]

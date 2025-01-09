@@ -1,0 +1,1 @@
+[{"type":"function","constant":false,"inputs":[{"name":"stage","type":"uint8"},{"name":"user","type":"address"},{"name":"openTag","type":"bool"}],"name":"addWhiteList","outputs":[],"payable":false,"stateMutability":"nonpayable"}]

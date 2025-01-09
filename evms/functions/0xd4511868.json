@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"rewardsToDeposit","internalType":"uint256","type":"uint256"},{"name":"rewardToken","internalType":"address","type":"address"},{"name":"merkleRoot","internalType":"bytes32","type":"bytes32"},{"name":"ipfsHash","internalType":"string","type":"string"}],"name":"setWindow","outputs":[],"stateMutability":"nonpayable"}]

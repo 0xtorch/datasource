@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"token","internalType":"address","type":"address"},{"name":"balance","internalType":"uint256","type":"uint256"},{"name":"denorm","internalType":"uint256","type":"uint256"}],"name":"rebind","outputs":[],"stateMutability":"nonpayable"}]

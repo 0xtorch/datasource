@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_gelBought","internalType":"uint256","type":"uint256"}],"name":"isBoughtLteRemaining","outputs":[{"name":"","internalType":"bool","type":"bool"}],"stateMutability":"view"}]

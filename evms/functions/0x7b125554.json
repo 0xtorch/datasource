@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_param","internalType":"bytes32","type":"bytes32"},{"name":"_value","internalType":"uint8","type":"uint8"}],"name":"setMaxTokensPerMint","outputs":[],"stateMutability":"nonpayable"}]

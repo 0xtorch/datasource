@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"str","internalType":"string","type":"string"}],"name":"isNameValid","outputs":[{"name":"","internalType":"bool","type":"bool"}],"stateMutability":"pure"}]

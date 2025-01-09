@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"poolAmountIn","internalType":"uint256","type":"uint256"},{"name":"minAmountsOut","internalType":"uint256[]","type":"uint256[]"}],"name":"exitPool","outputs":[],"stateMutability":"nonpayable"}]

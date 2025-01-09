@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"tradeLiquidity","internalType":"uint256","type":"uint256"},{"name":"lastLiquidityTradedEMA","internalType":"uint256","type":"uint256"},{"name":"lastLiquidityEMA","internalType":"uint256","type":"uint256"}],"name":"calcTradingFee","outputs":[{"name":"","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"tokenId","internalType":"uint256","type":"uint256"}],"name":"getDailyInteractionCount","outputs":[{"name":"dailyInteractionCount","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

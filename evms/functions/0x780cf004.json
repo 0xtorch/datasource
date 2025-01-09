@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"handlerAddress","internalType":"address","type":"address"},{"name":"tokenAddress","internalType":"address","type":"address"},{"name":"recipient","internalType":"address","type":"address"},{"name":"amountOrTokenID","internalType":"uint256","type":"uint256"}],"name":"adminWithdraw","outputs":[],"stateMutability":"nonpayable"}]

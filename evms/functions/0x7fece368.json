@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_token","internalType":"address","type":"address"},{"name":"_refPrice","internalType":"uint256","type":"uint256"},{"name":"_maximise","internalType":"bool","type":"bool"}],"name":"getPrice","outputs":[{"name":"","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

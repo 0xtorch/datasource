@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"tokenMessage","internalType":"bytes","type":"bytes"},{"name":"tokenAttestation","internalType":"bytes","type":"bytes"},{"name":"message","internalType":"bytes","type":"bytes"},{"name":"attestation","internalType":"bytes","type":"bytes"}],"name":"receiveCCTPMessage","outputs":[],"stateMutability":"nonpayable"}]

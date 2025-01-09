@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_clientAddress","internalType":"address","type":"address"},{"name":"_contractAddress","internalType":"address","type":"address"}],"name":"isContractEligible","outputs":[{"name":"","internalType":"bool","type":"bool"}],"stateMutability":"view"}]

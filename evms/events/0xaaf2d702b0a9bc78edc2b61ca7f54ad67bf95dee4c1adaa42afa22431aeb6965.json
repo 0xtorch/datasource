@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"allowedUpdateBuffer","type":"uint256","indexed":false}],"name":"AllowedUpdateBufferUpdated"}]

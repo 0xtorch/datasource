@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_chainId","internalType":"uint256","type":"uint256"},{"name":"_isSupported","internalType":"bool","type":"bool"},{"name":"_isChainFrom","internalType":"bool","type":"bool"}],"name":"setChainSupport","outputs":[],"stateMutability":"nonpayable"}]

@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"collection","internalType":"address","type":"address","indexed":true},{"name":"approve","internalType":"bool","type":"bool","indexed":false}],"name":"UpdateCollection"}]

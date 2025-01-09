@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"fcm","internalType":"contract IFCM","type":"address","indexed":true}],"name":"FCMSetting"}]

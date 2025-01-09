@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_forBuybackRate","internalType":"uint256","type":"uint256"},{"name":"_forArtistRate","internalType":"uint256","type":"uint256"},{"name":"_forAgentRate","internalType":"uint256","type":"uint256"}],"name":"setTokenRateForETHMachine","outputs":[],"stateMutability":"nonpayable"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_flagCode","internalType":"uint256","type":"uint256"},{"name":"_factoryAddress","internalType":"address","type":"address"}],"name":"setFlagToFactoryAddress","outputs":[],"stateMutability":"nonpayable"}]

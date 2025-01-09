@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"burier","internalType":"address","type":"address"}],"name":"getBatsBuried","outputs":[{"name":"","internalType":"uint256[]","type":"uint256[]"}],"stateMutability":"view"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"assetAddr","internalType":"address","type":"address"},{"name":"newMaxDeposits","internalType":"uint248","type":"uint248"}],"name":"setMaxDeposits","outputs":[],"stateMutability":"nonpayable"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[],"name":"defaultPrice","outputs":[{"name":"mantissa","internalType":"uint256","type":"uint256"},{"name":"base","internalType":"uint256","type":"uint256"},{"name":"exponentiation","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

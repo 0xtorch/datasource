@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_depositContract","internalType":"address","type":"address"}],"name":"setDepositContract","outputs":[],"stateMutability":"nonpayable"}]

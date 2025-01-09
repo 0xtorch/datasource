@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_clFactory","internalType":"address","type":"address"},{"name":"_clGaugeFactory","internalType":"address","type":"address"}],"name":"setClFactories","outputs":[],"stateMutability":"nonpayable"}]

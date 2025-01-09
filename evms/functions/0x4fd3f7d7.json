@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"destinationChainId","internalType":"uint256","type":"uint256"},{"name":"contractAddress","internalType":"bytes","type":"bytes"}],"name":"setInteractorByChainId","outputs":[],"stateMutability":"nonpayable"}]

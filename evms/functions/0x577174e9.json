@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"id","internalType":"string","type":"string"},{"name":"winners","internalType":"address[]","type":"address[]"}],"name":"setWinners","outputs":[],"stateMutability":"nonpayable"}]

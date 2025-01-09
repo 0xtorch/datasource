@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[],"name":"getBuyList","outputs":[{"name":"","internalType":"struct RaffleNFT.BuyInfo[]","type":"tuple[]","components":[{"name":"buyer","internalType":"address","type":"address"},{"name":"amount","internalType":"uint256","type":"uint256"}]}],"stateMutability":"view"}]

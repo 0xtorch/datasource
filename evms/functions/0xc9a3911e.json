@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_pool","internalType":"address","type":"address"},{"name":"_tokenIds","internalType":"uint256[]","type":"uint256[]"}],"name":"stake","outputs":[],"stateMutability":"payable"}]

@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"trader","internalType":"address","type":"address","indexed":false},{"name":"amount","internalType":"uint96","type":"uint96","indexed":false}],"name":"DDXRewardIssued"}]

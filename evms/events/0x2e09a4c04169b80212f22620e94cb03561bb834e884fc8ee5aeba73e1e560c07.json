@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"tokenPriceInAVAX","internalType":"uint256","type":"uint256","indexed":false},{"name":"amountOfTokensToSell","internalType":"uint256","type":"uint256","indexed":false},{"name":"saleEnd","internalType":"uint256","type":"uint256","indexed":false}],"name":"SaleCreated"}]

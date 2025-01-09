@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_signer","internalType":"address","type":"address"}],"name":"removeAllowedNullifierHashBlocker","outputs":[],"stateMutability":"nonpayable"}]

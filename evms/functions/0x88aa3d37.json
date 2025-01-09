@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"nftContract","internalType":"address","type":"address"},{"name":"allowedNftToken","internalType":"address","type":"address"},{"name":"allowedNftTokenId","internalType":"uint256","type":"uint256"}],"name":"getAllowedNftTokenIdIsRedeemed","outputs":[{"name":"","internalType":"bool","type":"bool"}],"stateMutability":"view"}]

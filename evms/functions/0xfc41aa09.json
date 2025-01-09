@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"amountToken1","internalType":"uint256","type":"uint256"},{"name":"amountToken2","internalType":"uint256","type":"uint256"}],"name":"addRewards","outputs":[],"stateMutability":"nonpayable"}]

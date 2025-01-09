@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"raffleId","internalType":"bytes32","type":"bytes32"},{"name":"randomnessOpening","internalType":"bytes","type":"bytes"}],"name":"getWinner","outputs":[{"name":"","internalType":"address","type":"address"}],"stateMutability":"nonpayable"}]

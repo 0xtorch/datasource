@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"account","internalType":"address","type":"address"},{"name":"startDebt","internalType":"uint256","type":"uint256"},{"name":"minimumMargin_","internalType":"uint256","type":"uint256"},{"name":"terminator","internalType":"address","type":"address"}],"name":"settleLiquidationHappyFlow","outputs":[],"stateMutability":"nonpayable"}]

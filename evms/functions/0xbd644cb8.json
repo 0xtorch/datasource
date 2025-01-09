@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"tokenid_","internalType":"uint256","type":"uint256"}],"name":"isMintReady","outputs":[{"name":"","internalType":"bool","type":"bool"}],"stateMutability":"view"}]

@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"users","internalType":"address[100]","type":"address[100]","indexed":false},{"name":"message","internalType":"string","type":"string","indexed":false}],"name":"GoldenlistUsersAdded"}]

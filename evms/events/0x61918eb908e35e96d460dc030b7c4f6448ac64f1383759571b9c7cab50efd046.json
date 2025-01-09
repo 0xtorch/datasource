@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"rewardToken","internalType":"address","type":"address","indexed":true},{"name":"cToken","internalType":"address","type":"address","indexed":true},{"name":"supplySpeed","internalType":"uint256","type":"uint256","indexed":false}],"name":"SupplySpeedUpdated"}]

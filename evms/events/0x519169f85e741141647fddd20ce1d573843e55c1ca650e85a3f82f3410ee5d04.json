@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"base","internalType":"address","type":"address","indexed":true},{"name":"quote","internalType":"address","type":"address","indexed":true},{"name":"feed","internalType":"address","type":"address","indexed":false}],"name":"PriceFeedSet"}]

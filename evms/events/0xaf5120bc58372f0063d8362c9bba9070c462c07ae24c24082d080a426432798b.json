@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"addressPrefix","internalType":"bytes19","type":"bytes19","indexed":true},{"name":"enabled","internalType":"bool","type":"bool","indexed":false}],"name":"LockdownModeStatus"}]

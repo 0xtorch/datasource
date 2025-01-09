@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"_oldStableVault","internalType":"address","type":"address","indexed":false},{"name":"_newStableVault","internalType":"address","type":"address","indexed":false}],"name":"UpdateStableVault"}]

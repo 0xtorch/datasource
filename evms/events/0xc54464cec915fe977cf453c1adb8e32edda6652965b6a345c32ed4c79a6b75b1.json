@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"oldUgcFactory","internalType":"address","type":"address","indexed":true},{"name":"ugcFactory","internalType":"address","type":"address","indexed":true}],"name":"SetUgcFactory"}]

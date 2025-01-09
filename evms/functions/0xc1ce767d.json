@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"accounts","internalType":"address[]","type":"address[]"},{"name":"status","internalType":"bool","type":"bool"}],"name":"blocklist","outputs":[],"stateMutability":"nonpayable"}]

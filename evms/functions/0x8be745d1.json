@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"blockNumber","internalType":"uint256","type":"uint256"}],"name":"stateRootHashes","outputs":[{"name":"stateRootHash","internalType":"bytes32","type":"bytes32"}],"stateMutability":"view"}]

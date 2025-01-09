@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"numTokens","internalType":"uint256","type":"uint256"},{"name":"proof","internalType":"bytes32[]","type":"bytes32[]"}],"name":"mintAllowList","outputs":[],"stateMutability":"payable"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"proposalId","internalType":"uint256","type":"uint256"},{"name":"","internalType":"address","type":"address"}],"name":"hasSentVote","outputs":[{"name":"","internalType":"bool","type":"bool"}],"stateMutability":"view"}]

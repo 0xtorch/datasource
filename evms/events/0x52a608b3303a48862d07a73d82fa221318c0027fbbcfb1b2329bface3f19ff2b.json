@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"node","internalType":"bytes32","type":"bytes32","indexed":true},{"name":"name","internalType":"bytes","type":"bytes","indexed":false},{"name":"resource","internalType":"uint16","type":"uint16","indexed":false},{"name":"record","internalType":"bytes","type":"bytes","indexed":false}],"name":"DNSRecordChanged"}]

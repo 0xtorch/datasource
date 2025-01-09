@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"auth_","internalType":"address","type":"address"}],"name":"checkAuthorized","outputs":[{"name":"","internalType":"bool","type":"bool"}],"stateMutability":"view"}]

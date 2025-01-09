@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"addresses","internalType":"address[]","type":"address[]"},{"name":"whitelistsAmount","internalType":"uint16","type":"uint16"}],"name":"setWhitelisted","outputs":[],"stateMutability":"nonpayable"}]

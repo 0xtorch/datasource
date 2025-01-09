@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"newHubPool","internalType":"address","type":"address","indexed":true}],"name":"SetHubPool"}]

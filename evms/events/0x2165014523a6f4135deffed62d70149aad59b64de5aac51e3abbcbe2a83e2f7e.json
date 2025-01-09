@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"revoked","type":"bool","indexed":false}],"name":"Revoked"}]

@@ -1,0 +1,1 @@
+[{"type":"function","constant":false,"inputs":[{"name":"_dataContract","type":"address"},{"name":"_battleContract","type":"address"},{"name":"_tradingMonDataContract","type":"address"},{"name":"_monsterNFTContract","type":"address"}],"name":"setContract","outputs":[],"payable":false,"stateMutability":"nonpayable"}]

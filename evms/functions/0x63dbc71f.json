@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"key1","internalType":"bytes32","type":"bytes32"},{"name":"key2","internalType":"bytes32","type":"bytes32"}],"name":"setPairedInvite","outputs":[],"stateMutability":"nonpayable"}]

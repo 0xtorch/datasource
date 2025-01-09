@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"","internalType":"uint256","type":"uint256"}],"name":"transactions","outputs":[{"name":"enabled","internalType":"bool","type":"bool"},{"name":"destination","internalType":"address","type":"address"},{"name":"data","internalType":"bytes","type":"bytes"}],"stateMutability":"view"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"amount","internalType":"uint256","type":"uint256"},{"name":"inToken","internalType":"bool","type":"bool"}],"name":"distributeFees","outputs":[],"stateMutability":"nonpayable"}]

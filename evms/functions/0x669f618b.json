@@ -1,0 +1,1 @@
+[{"type":"function","constant":true,"inputs":[],"name":"messageId","outputs":[{"name":"id","type":"bytes32"}],"payable":false,"stateMutability":"view"}]

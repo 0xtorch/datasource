@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_logic","internalType":"address","type":"address"},{"name":"admin_","internalType":"address","type":"address"},{"name":"_data","internalType":"bytes","type":"bytes"}],"name":"initialize","outputs":[],"stateMutability":"payable"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_editionId","internalType":"uint256","type":"uint256"},{"name":"_reported","internalType":"bool","type":"bool"}],"name":"reportEditionId","outputs":[],"stateMutability":"nonpayable"}]

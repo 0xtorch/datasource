@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"proposalIndex","internalType":"uint256","type":"uint256"},{"name":"vote","internalType":"enum StarCardsDAO.Vote","type":"uint8"}],"name":"voteOnProposal","outputs":[],"stateMutability":"nonpayable"}]

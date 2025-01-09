@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"markets","internalType":"address[]","type":"address[]"},{"name":"tokens","internalType":"address[]","type":"address[]"},{"name":"receiver","internalType":"address","type":"address"}],"name":"claimAffiliateRewards","outputs":[{"name":"","internalType":"uint256[]","type":"uint256[]"}],"stateMutability":"payable"}]

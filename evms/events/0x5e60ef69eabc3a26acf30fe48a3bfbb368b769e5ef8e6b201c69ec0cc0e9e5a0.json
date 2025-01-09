@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"owner","internalType":"address","type":"address","indexed":true},{"name":"id","internalType":"uint24","type":"uint24","indexed":true},{"name":"pubKeyX","internalType":"uint256","type":"uint256","indexed":false},{"name":"pubKeyY","internalType":"uint256","type":"uint256","indexed":false}],"name":"AccountCreated"}]

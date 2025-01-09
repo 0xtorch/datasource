@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"tokenIdShift_","internalType":"uint256","type":"uint256"},{"name":"baseURI_","internalType":"string","type":"string"}],"name":"reveal","outputs":[],"stateMutability":"nonpayable"}]

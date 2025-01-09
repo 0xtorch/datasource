@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[],"name":"getMultipliers","outputs":[{"name":"","internalType":"struct SpaceKidStake.Multiplier[]","type":"tuple[]","components":[{"name":"from","internalType":"uint256","type":"uint256"},{"name":"to","internalType":"uint256","type":"uint256"},{"name":"multiplier","internalType":"uint256","type":"uint256"}]}],"stateMutability":"view"}]

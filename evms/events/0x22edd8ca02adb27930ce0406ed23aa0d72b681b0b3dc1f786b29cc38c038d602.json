@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"tolerance","internalType":"UD60x18","type":"uint256","indexed":false}],"name":"MaximumSlippageToleranceUpdated"}]

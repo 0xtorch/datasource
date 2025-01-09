@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"knightId","internalType":"uint256","type":"uint256"},{"name":"newName","internalType":"string","type":"string"}],"name":"changeKnightName","outputs":[],"stateMutability":"nonpayable"}]

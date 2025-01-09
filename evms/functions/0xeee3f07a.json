@@ -1,0 +1,1 @@
+[{"type":"function","constant":false,"inputs":[{"name":"_owner","internalType":"address","type":"address"}],"name":"depositEthFor","outputs":[{"name":"","internalType":"uint256","type":"uint256"}],"payable":true,"stateMutability":"payable"}]

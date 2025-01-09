@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"blacklistCuts","internalType":"struct SLib.BlacklistCut_[]","type":"tuple[]","components":[{"name":"action","internalType":"enum SLib.BlacklistCutAction","type":"uint8"},{"name":"address_","internalType":"address","type":"address"}]}],"name":"blacklistCut","outputs":[],"stateMutability":"nonpayable"}]

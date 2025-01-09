@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[],"name":"listRole","outputs":[{"name":"names","internalType":"string[]","type":"string[]"},{"name":"code","internalType":"bytes32[]","type":"bytes32[]"}],"stateMutability":"pure"}]

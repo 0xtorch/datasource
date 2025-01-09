@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"rootToken","internalType":"address","type":"address","indexed":true},{"name":"childToken","internalType":"address","type":"address","indexed":true},{"name":"userAddress","internalType":"address","type":"address","indexed":true},{"name":"id","internalType":"uint256","type":"uint256","indexed":false}],"name":"FxWithdrawERC721"}]

@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"anomuraAddress","internalType":"address","type":"address","indexed":false},{"name":"updatedBy","internalType":"address","type":"address","indexed":false}],"name":"UpdatedAnomuraContractAddress"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_market","internalType":"address","type":"address"},{"name":"isSell","internalType":"bool","type":"bool"}],"name":"getMarketDefaultOdds","outputs":[{"name":"odds","internalType":"uint256[]","type":"uint256[]"}],"stateMutability":"view"}]

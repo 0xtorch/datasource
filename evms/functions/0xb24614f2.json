@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_tokenContract","internalType":"address","type":"address"},{"name":"_destination","internalType":"bytes32","type":"bytes32"},{"name":"_amount","internalType":"uint256","type":"uint256"},{"name":"_data","internalType":"string","type":"string"}],"name":"sendToInjective","outputs":[],"stateMutability":"nonpayable"}]

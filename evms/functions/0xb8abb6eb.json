@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"collectionContract","internalType":"address","type":"address"},{"name":"_category","internalType":"uint256","type":"uint256"},{"name":"_isERC1155","internalType":"bool","type":"bool"}],"name":"addWhitelistedCollection","outputs":[],"stateMutability":"nonpayable"}]

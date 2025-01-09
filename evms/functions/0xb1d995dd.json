@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_dstChainId","internalType":"uint16","type":"uint16"},{"name":"_dstAddress","internalType":"address","type":"address"},{"name":"_payload","internalType":"bytes","type":"bytes"}],"name":"send","outputs":[{"name":"currentNonce","internalType":"uint64","type":"uint64"}],"stateMutability":"payable"}]

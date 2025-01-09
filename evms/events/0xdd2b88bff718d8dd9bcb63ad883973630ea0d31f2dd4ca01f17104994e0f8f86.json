@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"feeShareRecipient","internalType":"address","type":"address","indexed":true},{"name":"feeShareAmount","internalType":"uint256","type":"uint256","indexed":false}],"name":"AdminFeeShareTransferred"}]

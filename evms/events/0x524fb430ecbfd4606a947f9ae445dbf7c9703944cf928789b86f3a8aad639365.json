@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"contractName","internalType":"bytes32","type":"bytes32","indexed":false},{"name":"record","internalType":"bytes32","type":"bytes32","indexed":false},{"name":"value","internalType":"address","type":"address","indexed":false}],"name":"ValueSetAddress"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"holder","internalType":"address","type":"address"},{"name":"token","internalType":"address","type":"address"}],"name":"lockedBalances","outputs":[{"name":"lockedBalance","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

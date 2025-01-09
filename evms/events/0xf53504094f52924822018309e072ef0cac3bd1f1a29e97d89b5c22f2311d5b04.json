@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"newGenesisStake","internalType":"address","type":"address","indexed":true},{"name":"prevGenesisStake","internalType":"address","type":"address","indexed":true}],"name":"GenesisStakeChanged"}]

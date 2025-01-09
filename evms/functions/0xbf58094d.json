@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"collateral","internalType":"address","type":"address"}],"name":"LTVBorrow","outputs":[{"name":"","internalType":"uint16","type":"uint16"}],"stateMutability":"view"}]

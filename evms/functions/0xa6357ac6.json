@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_gauge","internalType":"address","type":"address"},{"name":"_internal","internalType":"address","type":"address"},{"name":"_external","internalType":"address","type":"address"}],"name":"setNewBribe","outputs":[],"stateMutability":"nonpayable"}]

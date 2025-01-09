@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[],"name":"adjustment","outputs":[{"name":"add","internalType":"bool","type":"bool"},{"name":"rate","internalType":"uint256","type":"uint256"},{"name":"target","internalType":"uint256","type":"uint256"},{"name":"buffer","internalType":"uint32","type":"uint32"},{"name":"lastTime","internalType":"uint32","type":"uint32"}],"stateMutability":"view"}]

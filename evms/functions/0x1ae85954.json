@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[],"name":"getSupplyLock","outputs":[{"name":"supplyLockHolder","internalType":"address","type":"address"},{"name":"supplyLockExpiration","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

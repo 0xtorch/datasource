@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_funder","internalType":"address","type":"address"}],"name":"isFunder","outputs":[{"name":"allowed","internalType":"bool","type":"bool"}],"stateMutability":"view"}]

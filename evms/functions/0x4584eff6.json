@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"orderHash","internalType":"bytes32","type":"bytes32"}],"name":"cancelLimitOrder","outputs":[],"stateMutability":"nonpayable"}]

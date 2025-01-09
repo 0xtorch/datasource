@@ -1,0 +1,1 @@
+[{"type":"function","constant":true,"inputs":[{"name":"timestamp","type":"uint256"},{"name":"signature","type":"bytes"}],"name":"getApprover","outputs":[{"name":"","type":"address"}],"payable":false,"stateMutability":"view"}]

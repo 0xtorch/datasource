@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"_oldWhitelistChecker","internalType":"address","type":"address","indexed":true},{"name":"_newWhitelistChecker","internalType":"address","type":"address","indexed":true}],"name":"UpdateWhitelistChecker"}]

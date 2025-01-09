@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"minter","internalType":"address","type":"address","indexed":true},{"name":"canMint","internalType":"bool","type":"bool","indexed":false},{"name":"canBurn","internalType":"bool","type":"bool","indexed":false}],"name":"UpdateMinter"}]

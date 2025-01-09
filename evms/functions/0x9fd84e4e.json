@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_status","internalType":"bool","type":"bool"},{"name":"_percentWhale","internalType":"uint256","type":"uint256"}],"name":"activeAntiWhale","outputs":[],"stateMutability":"nonpayable"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"pair","internalType":"address","type":"address"},{"name":"_tolerance","internalType":"uint16","type":"uint16"}],"name":"setTolerance","outputs":[],"stateMutability":"nonpayable"}]

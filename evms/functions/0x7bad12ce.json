@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_users","internalType":"address[500]","type":"address[500]"}],"name":"safeMintToBulk","outputs":[],"stateMutability":"nonpayable"}]

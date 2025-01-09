@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[],"name":"leModelRarity","outputs":[{"name":"","internalType":"enum IDice.TokenRarity","type":"uint8"}],"stateMutability":"view"}]

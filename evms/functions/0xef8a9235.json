@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[],"name":"currentStatus","outputs":[{"name":"","internalType":"enum TradingCompV1.CompetitionStatus","type":"uint8"}],"stateMutability":"view"}]

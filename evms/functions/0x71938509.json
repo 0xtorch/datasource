@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"tos","internalType":"address[]","type":"address[]"},{"name":"configs","internalType":"bytes32[]","type":"bytes32[]"},{"name":"datas","internalType":"bytes[]","type":"bytes[]"}],"name":"execs","outputs":[],"stateMutability":"payable"}]

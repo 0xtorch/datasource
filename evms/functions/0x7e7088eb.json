@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[],"name":"getLiveBoards","outputs":[{"name":"_liveBoards","internalType":"uint256[]","type":"uint256[]"}],"stateMutability":"view"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"beefyVault","internalType":"address","type":"address"},{"name":"withdrawAmount","internalType":"uint256","type":"uint256"}],"name":"beefOut","outputs":[],"stateMutability":"nonpayable"}]

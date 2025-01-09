@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"vaultId","internalType":"uint256","type":"uint256"},{"name":"nftIds","internalType":"uint256[]","type":"uint256[]"}],"name":"revokeMintRequests","outputs":[],"stateMutability":"nonpayable"}]

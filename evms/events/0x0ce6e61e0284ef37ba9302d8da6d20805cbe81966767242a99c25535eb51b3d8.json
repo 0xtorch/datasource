@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"loan","internalType":"contract ICallableLoan","type":"address","indexed":true},{"name":"borrower","internalType":"address","type":"address","indexed":true}],"name":"CallableLoanCreated"}]

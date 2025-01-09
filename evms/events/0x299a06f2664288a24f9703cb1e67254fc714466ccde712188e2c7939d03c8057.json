@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"desEid","internalType":"uint32","type":"uint32","indexed":true},{"name":"xcmSender","internalType":"bytes32","type":"bytes32","indexed":true},{"name":"xcmReceiver","internalType":"bytes32","type":"bytes32","indexed":true},{"name":"message","internalType":"bytes","type":"bytes","indexed":false}],"name":"OutboundMessage"}]

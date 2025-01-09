@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_nbTokens","internalType":"uint16","type":"uint16"},{"name":"mintType","internalType":"uint8","type":"uint8"},{"name":"_merkleProof","internalType":"bytes32[]","type":"bytes32[]"},{"name":"wlAllocationAmt","internalType":"uint256","type":"uint256"}],"name":"mint","outputs":[],"stateMutability":"payable"}]

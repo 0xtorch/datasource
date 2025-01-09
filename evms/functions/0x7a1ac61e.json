@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_feeSink","internalType":"address payable","type":"address"},{"name":"_feeNumerator","internalType":"uint256","type":"uint256"},{"name":"_feeDenominator","internalType":"uint256","type":"uint256"}],"name":"initialize","outputs":[],"stateMutability":"nonpayable"}]

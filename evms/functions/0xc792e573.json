@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"powMetadataHash","internalType":"string","type":"string"},{"name":"posMetadataHash","internalType":"string","type":"string"}],"name":"setPrerevealMetadata","outputs":[],"stateMutability":"nonpayable"}]

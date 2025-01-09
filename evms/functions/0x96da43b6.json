@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"","internalType":"uint256","type":"uint256"}],"name":"auctionStatus","outputs":[{"name":"label","internalType":"string","type":"string"},{"name":"winner","internalType":"address","type":"address"},{"name":"endTime","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"boneTokenId","internalType":"uint256","type":"uint256"},{"name":"boneProof","internalType":"bytes32[]","type":"bytes32[]"}],"name":"mintFreeWithBone","outputs":[],"stateMutability":"nonpayable"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_biswapNFT","internalType":"contract IBiswapNFT","type":"address"}],"name":"setBiswapNFT","outputs":[],"stateMutability":"nonpayable"}]

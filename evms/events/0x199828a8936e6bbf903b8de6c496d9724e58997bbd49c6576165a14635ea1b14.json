@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"crafter","internalType":"address","type":"address","indexed":true},{"name":"craftId","internalType":"uint256","type":"uint256","indexed":true},{"name":"dcarAmount","internalType":"uint256","type":"uint256","indexed":false}],"name":"Craft"}]

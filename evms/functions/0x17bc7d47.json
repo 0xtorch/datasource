@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"memberAddress","internalType":"address","type":"address"},{"name":"gfi","internalType":"int256","type":"int256"},{"name":"capital","internalType":"int256","type":"int256"}],"name":"estimateMemberScore","outputs":[{"name":"score","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

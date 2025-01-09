@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"_sender","internalType":"address","type":"address","indexed":true},{"name":"_signThreshold","internalType":"uint256","type":"uint256","indexed":false},{"name":"_signers","internalType":"address[]","type":"address[]","indexed":false}],"name":"LogAdminSignerRevoked"}]

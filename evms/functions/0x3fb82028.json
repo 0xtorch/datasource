@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"salt","internalType":"bytes32","type":"bytes32"},{"name":"numberSet","internalType":"bytes32","type":"bytes32"},{"name":"_vHash","internalType":"bytes32","type":"bytes32"}],"name":"verify","outputs":[{"name":"","internalType":"bool","type":"bool"}],"stateMutability":"pure"}]

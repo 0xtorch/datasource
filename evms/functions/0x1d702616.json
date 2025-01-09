@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_breedingFeeToken","internalType":"contract IERC20","type":"address"}],"name":"setBreedingFeeToken","outputs":[],"stateMutability":"nonpayable"}]

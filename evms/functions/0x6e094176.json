@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"lbHooksExtraRewarder","internalType":"address","type":"address"},{"name":"extraRewarderData","internalType":"bytes","type":"bytes"}],"name":"setLBHooksExtraRewarder","outputs":[],"stateMutability":"nonpayable"}]

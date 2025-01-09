@@ -1,0 +1,1 @@
+[{"type":"function","constant":false,"inputs":[{"name":"tradeValues","type":"uint256[8]"},{"name":"tradeAddresses","type":"address[4]"},{"name":"v","type":"uint8[2]"},{"name":"rs","type":"bytes32[4]"}],"name":"trade","outputs":[{"name":"success","type":"bool"}],"payable":false,"stateMutability":"nonpayable"}]

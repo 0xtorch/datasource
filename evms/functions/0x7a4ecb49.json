@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"proposedBridge","internalType":"address","type":"address"}],"name":"proposeTransition","outputs":[],"stateMutability":"nonpayable"}]

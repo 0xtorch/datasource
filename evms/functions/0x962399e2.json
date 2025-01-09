@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"newTimeLockRegistry","internalType":"contract TimeLockRegistry","type":"address"}],"name":"setTimeLockRegistry","outputs":[{"name":"","internalType":"bool","type":"bool"}],"stateMutability":"nonpayable"}]

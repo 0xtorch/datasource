@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_wave","internalType":"uint256","type":"uint256"},{"name":"_supply","internalType":"uint256","type":"uint256"}],"name":"setWhitelistMaxSupply","outputs":[],"stateMutability":"nonpayable"}]

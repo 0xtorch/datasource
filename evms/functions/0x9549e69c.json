@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_users","internalType":"struct Redeemable1155.WhitelistedUser[]","type":"tuple[]","components":[{"name":"whitelistedAddress","internalType":"address","type":"address"},{"name":"mintsRemaining","internalType":"uint256","type":"uint256"}]}],"name":"addUsersToWhitelist","outputs":[],"stateMutability":"nonpayable"}]

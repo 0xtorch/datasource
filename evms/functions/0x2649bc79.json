@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_llpAmount","internalType":"uint256","type":"uint256"},{"name":"_minOut","internalType":"uint256","type":"uint256"},{"name":"tokenOut","internalType":"address","type":"address"}],"name":"burnLlp","outputs":[{"name":"","internalType":"uint256","type":"uint256"}],"stateMutability":"nonpayable"}]

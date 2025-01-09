@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"qubit1","internalType":"uint256","type":"uint256"},{"name":"qubit2","internalType":"uint256","type":"uint256"}],"name":"sendQubinator","outputs":[],"stateMutability":"nonpayable"}]

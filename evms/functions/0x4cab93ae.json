@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"tokenId","internalType":"uint256","type":"uint256"}],"name":"convertVe","outputs":[{"name":"tokenIdV2","internalType":"uint256","type":"uint256"}],"stateMutability":"nonpayable"}]

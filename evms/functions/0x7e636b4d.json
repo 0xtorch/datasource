@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"vault","internalType":"address","type":"address"},{"name":"isAuthorized","internalType":"bool","type":"bool"}],"name":"updateSourceVaultAuthorization","outputs":[],"stateMutability":"nonpayable"}]

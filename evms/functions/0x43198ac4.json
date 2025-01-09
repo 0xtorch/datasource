@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_account","internalType":"address","type":"address"},{"name":"_fromIdx","internalType":"uint256","type":"uint256"},{"name":"_toIdx","internalType":"uint256","type":"uint256"}],"name":"tokensByOwner","outputs":[{"name":"_tokens","internalType":"uint256[]","type":"uint256[]"}],"stateMutability":"view"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_addressA","internalType":"address","type":"address"}],"name":"checkNormalTransferAdd","outputs":[{"name":"","internalType":"bool","type":"bool"}],"stateMutability":"view"}]

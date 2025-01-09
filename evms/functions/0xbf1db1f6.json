@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"","internalType":"uint256","type":"uint256"}],"name":"pairRolloverFees","outputs":[{"name":"accPerOiLong","internalType":"uint256","type":"uint256"},{"name":"accPerOiShort","internalType":"uint256","type":"uint256"},{"name":"lastUpdateBlock","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"previousTreasury","internalType":"address","type":"address","indexed":true},{"name":"newTreasury","internalType":"address","type":"address","indexed":true}],"name":"TreasuryChanged"}]

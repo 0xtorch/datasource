@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"newTwapOracle","internalType":"address","type":"address"}],"name":"updateTwapOracle","outputs":[],"stateMutability":"nonpayable"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_addr","internalType":"address","type":"address"},{"name":"_bool","internalType":"bool","type":"bool"}],"name":"setDevAddr","outputs":[],"stateMutability":"nonpayable"}]

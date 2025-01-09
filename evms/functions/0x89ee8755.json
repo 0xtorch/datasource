@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"nonce_","internalType":"uint256","type":"uint256"},{"name":"packetId_","internalType":"bytes32","type":"bytes32"},{"name":"proposalCount_","internalType":"uint256","type":"uint256"},{"name":"signature_","internalType":"bytes","type":"bytes"}],"name":"tripProposal","outputs":[],"stateMutability":"nonpayable"}]

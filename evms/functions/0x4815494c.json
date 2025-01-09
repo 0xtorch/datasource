@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"recipients","internalType":"address[]","type":"address[]"},{"name":"values","internalType":"uint256[]","type":"uint256[]"},{"name":"revertOnFail","internalType":"bool","type":"bool"}],"name":"transferNativeCoin","outputs":[],"stateMutability":"payable"}]

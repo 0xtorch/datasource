@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_collateralToken","internalType":"address","type":"address"},{"name":"_indexToken","internalType":"address","type":"address"}],"name":"updateCumulativeFundingRate","outputs":[],"stateMutability":"nonpayable"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"depositId","internalType":"uint256","type":"uint256"},{"name":"receiver","internalType":"address","type":"address"}],"name":"unlockDeposit","outputs":[],"stateMutability":"nonpayable"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[],"name":"_taxRates","outputs":[{"name":"buyFee","internalType":"uint16","type":"uint16"},{"name":"sellFee","internalType":"uint16","type":"uint16"},{"name":"transferFee","internalType":"uint16","type":"uint16"}],"stateMutability":"view"}]

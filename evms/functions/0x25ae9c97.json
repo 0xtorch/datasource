@@ -1,0 +1,1 @@
+[{"type":"function","constant":false,"inputs":[{"name":"_classId1","type":"uint32"},{"name":"_classId2","type":"uint32"},{"name":"_classId3","type":"uint32"},{"name":"_classId4","type":"uint32"}],"name":"fastSetCacheClassInfo","outputs":[],"payable":false,"stateMutability":"nonpayable"}]

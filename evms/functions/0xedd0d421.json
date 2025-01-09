@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"id","internalType":"uint256","type":"uint256"},{"name":"tokenXAmount","internalType":"uint256","type":"uint256"},{"name":"premium","internalType":"uint256","type":"uint256"}],"name":"lock","outputs":[],"stateMutability":"nonpayable"}]

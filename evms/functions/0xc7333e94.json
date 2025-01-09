@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"tickLower","internalType":"int24","type":"int24"},{"name":"tickUpper","internalType":"int24","type":"int24"}],"name":"tweakPosZeroLiq","outputs":[{"name":"feeGrowthInsideLast","internalType":"uint256","type":"uint256"}],"stateMutability":"nonpayable"}]

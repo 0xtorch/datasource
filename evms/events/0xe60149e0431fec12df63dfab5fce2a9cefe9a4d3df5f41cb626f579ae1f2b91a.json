@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"bufferSeconds","internalType":"uint256","type":"uint256","indexed":false},{"name":"intervalSeconds","internalType":"uint256","type":"uint256","indexed":false}],"name":"NewBufferAndIntervalSeconds"}]

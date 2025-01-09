@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"_handler","internalType":"contract IHandler","type":"address","indexed":false},{"name":"liquidityUsed","internalType":"uint256","type":"uint256","indexed":false}],"name":"LogUsePosition"}]

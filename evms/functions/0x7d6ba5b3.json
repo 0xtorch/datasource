@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_feeCollectorAddress","internalType":"address","type":"address"}],"name":"setFeeCollectorAddress","outputs":[],"stateMutability":"nonpayable"}]

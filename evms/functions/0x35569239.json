@@ -1,0 +1,1 @@
+[{"type":"function","constant":true,"inputs":[{"name":"_landType","type":"uint16"},{"name":"_rarity","type":"uint16"}],"name":"getSectorSupplyByRarity","outputs":[{"name":"","type":"uint256"}],"payable":false,"stateMutability":"view"}]

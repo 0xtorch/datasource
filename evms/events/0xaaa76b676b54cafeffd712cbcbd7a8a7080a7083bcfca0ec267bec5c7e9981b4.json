@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"sourceChainId","internalType":"uint16","type":"uint16","indexed":false},{"name":"payload","internalType":"bytes","type":"bytes","indexed":false},{"name":"selector","internalType":"uint8","type":"uint8","indexed":false}],"name":"MessageReceived"}]

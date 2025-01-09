@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"chainIds","internalType":"uint64[]","type":"uint64[]","indexed":false},{"name":"domains","internalType":"int32[]","type":"int32[]","indexed":false}],"name":"ChidToDomainUpdated"}]

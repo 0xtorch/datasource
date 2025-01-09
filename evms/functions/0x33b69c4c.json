@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"addr","internalType":"address","type":"address"}],"name":"stakesOf","outputs":[{"name":"","internalType":"struct CrunchStaking.Stake[]","type":"tuple[]","components":[{"name":"amount","internalType":"uint256","type":"uint256"},{"name":"start","internalType":"uint256","type":"uint256"}]}],"stateMutability":"view"}]

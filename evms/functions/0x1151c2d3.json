@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"amount","internalType":"uint256","type":"uint256"},{"name":"holdTime","internalType":"uint256","type":"uint256"},{"name":"","internalType":"bool","type":"bool"}],"name":"calcBonusTime","outputs":[{"name":"","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

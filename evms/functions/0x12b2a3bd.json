@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_martianReferral","internalType":"contract IMartianReferral","type":"address"}],"name":"setMartianReferral","outputs":[],"stateMutability":"nonpayable"}]

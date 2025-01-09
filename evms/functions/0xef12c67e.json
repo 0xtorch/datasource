@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_tokens","internalType":"address[]","type":"address[]"},{"name":"_longSizes","internalType":"uint256[]","type":"uint256[]"},{"name":"_shortSizes","internalType":"uint256[]","type":"uint256[]"}],"name":"setMaxGlobalSizes","outputs":[],"stateMutability":"nonpayable"}]

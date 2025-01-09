@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_code","internalType":"bytes32","type":"bytes32"},{"name":"_newAccount","internalType":"address","type":"address"}],"name":"govSetCodeOwner","outputs":[],"stateMutability":"nonpayable"}]

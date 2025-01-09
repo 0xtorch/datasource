@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"pauseType","internalType":"bytes32","type":"bytes32"}],"name":"pauseTypeStatuses","outputs":[{"name":"pauseStatus","internalType":"bool","type":"bool"}],"stateMutability":"view"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"requestedSlashAmount","internalType":"uint256","type":"uint256"},{"name":"recipient","internalType":"address","type":"address"}],"name":"slash","outputs":[{"name":"","internalType":"uint256","type":"uint256"}],"stateMutability":"nonpayable"}]

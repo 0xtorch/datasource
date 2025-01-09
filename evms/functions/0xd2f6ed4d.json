@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"newImplementation_","internalType":"address","type":"address"},{"name":"setupCalldata_","internalType":"bytes","type":"bytes"},{"name":"forceCall_","internalType":"bool","type":"bool"}],"name":"proxy__upgradeToAndCall","outputs":[],"stateMutability":"nonpayable"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"tokenId","internalType":"uint256","type":"uint256"}],"name":"getColorsForToken","outputs":[{"name":"","internalType":"string[7]","type":"string[7]"}],"stateMutability":"view"}]

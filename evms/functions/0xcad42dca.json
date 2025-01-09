@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_useDirectConversionBurn","internalType":"bool","type":"bool"},{"name":"_useDirectConversionMint","internalType":"bool","type":"bool"}],"name":"setDirectConversion","outputs":[],"stateMutability":"nonpayable"}]

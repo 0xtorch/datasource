@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"caller","internalType":"address","type":"address"}],"name":"delCaller","outputs":[{"name":"","internalType":"bool","type":"bool"}],"stateMutability":"nonpayable"}]

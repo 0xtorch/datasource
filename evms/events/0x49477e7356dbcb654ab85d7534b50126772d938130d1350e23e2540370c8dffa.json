@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"outbox","internalType":"address","type":"address","indexed":true},{"name":"enabled","internalType":"bool","type":"bool","indexed":false}],"name":"OutboxToggle"}]

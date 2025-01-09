@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"roundId","internalType":"uint256","type":"uint256"}],"name":"isActiveRound","outputs":[{"name":"isActive","internalType":"bool","type":"bool"}],"stateMutability":"view"}]

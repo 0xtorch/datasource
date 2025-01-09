@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_fromTokenId","internalType":"uint256","type":"uint256"},{"name":"_toTokenId","internalType":"uint256","type":"uint256"}],"name":"refreshMetadata","outputs":[],"stateMutability":"nonpayable"}]

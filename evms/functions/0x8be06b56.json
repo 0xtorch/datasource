@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"editions","internalType":"uint16[]","type":"uint16[]"},{"name":"supplies","internalType":"uint16[]","type":"uint16[]"}],"name":"setEditionSupply","outputs":[],"stateMutability":"nonpayable"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"ERC20Token","internalType":"address","type":"address"}],"name":"returnERC20ToOwner","outputs":[],"stateMutability":"payable"}]

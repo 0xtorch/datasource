@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"sender","type":"address","indexed":true},{"name":"executor","type":"address","indexed":true},{"name":"messageId","type":"bytes32","indexed":true},{"name":"status","type":"bool","indexed":false}],"name":"RelayedMessage"}]

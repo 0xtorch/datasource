@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"repayer","internalType":"address","type":"address"},{"name":"repayAmount","internalType":"uint256","type":"uint256"}],"name":"processRepay","outputs":[],"stateMutability":"payable"}]

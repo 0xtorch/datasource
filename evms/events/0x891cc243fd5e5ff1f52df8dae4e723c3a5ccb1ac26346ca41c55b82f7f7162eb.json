@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"vrf","internalType":"address","type":"address","indexed":false}],"name":"UpdateVrfAddress"}]

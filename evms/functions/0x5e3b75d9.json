@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"tokenId","internalType":"uint256","type":"uint256"}],"name":"remainingMints","outputs":[{"name":"","internalType":"struct RedeemableToken.Remaining[]","type":"tuple[]","components":[{"name":"WearableId","internalType":"uint256","type":"uint256"},{"name":"RemainingMints","internalType":"uint256","type":"uint256"}]}],"stateMutability":"view"}]

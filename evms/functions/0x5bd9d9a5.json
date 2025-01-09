@@ -1,0 +1,1 @@
+[{"type":"function","constant":true,"inputs":[{"name":"","type":"uint8"}],"name":"seasonTradabilityLocked","outputs":[{"name":"","type":"bool"}],"payable":false,"stateMutability":"view"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_widgetAddress","internalType":"address","type":"address"},{"name":"_partnerId","internalType":"bytes2","type":"bytes2"}],"name":"updateStargateWidget","outputs":[],"stateMutability":"nonpayable"}]

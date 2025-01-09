@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"depositID","internalType":"bytes32","type":"bytes32"}],"name":"depositHistory","outputs":[{"name":"status","internalType":"enum Bascule.DepositState","type":"uint8"}],"stateMutability":"view"}]

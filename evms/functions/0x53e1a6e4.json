@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"identifier","internalType":"bytes32","type":"bytes32"},{"name":"feeMultiplier","internalType":"uint256","type":"uint256"},{"name":"feeCollector","internalType":"address","type":"address"}],"name":"registerMarketplace","outputs":[],"stateMutability":"nonpayable"}]

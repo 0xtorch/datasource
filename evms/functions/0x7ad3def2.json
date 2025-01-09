@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"newToken_","internalType":"contract IERC20","type":"address"}],"name":"updateToken","outputs":[],"stateMutability":"nonpayable"}]

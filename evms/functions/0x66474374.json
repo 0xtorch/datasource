@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"blitmapId","internalType":"uint256","type":"uint256"},{"name":"frameId","internalType":"uint16","type":"uint16"},{"name":"colors","internalType":"uint8[]","type":"uint8[]"},{"name":"backgroundColor","internalType":"uint8","type":"uint8"}],"name":"mintInstance","outputs":[],"stateMutability":"nonpayable"}]

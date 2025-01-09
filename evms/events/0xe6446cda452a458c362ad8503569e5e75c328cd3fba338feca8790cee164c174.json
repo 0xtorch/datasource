@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"ecdPerSec","internalType":"uint256","type":"uint256","indexed":false}],"name":"CommitEcdPtpPerSec"}]

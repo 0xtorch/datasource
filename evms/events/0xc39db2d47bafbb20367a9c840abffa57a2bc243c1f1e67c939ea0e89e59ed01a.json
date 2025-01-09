@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"implementation","internalType":"address","type":"address","indexed":false},{"name":"contractType","internalType":"bytes32","type":"bytes32","indexed":true},{"name":"version","internalType":"uint256","type":"uint256","indexed":false}],"name":"ImplementationAdded"}]

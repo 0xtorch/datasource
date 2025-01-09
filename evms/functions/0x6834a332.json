@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_index","internalType":"uint256","type":"uint256"},{"name":"_override","internalType":"bool","type":"bool"}],"name":"removeHedgingReactorAddress","outputs":[],"stateMutability":"nonpayable"}]

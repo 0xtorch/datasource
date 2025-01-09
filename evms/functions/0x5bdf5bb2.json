@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"payAmts","internalType":"uint256[]","type":"uint256[]"},{"name":"payGems","internalType":"address[]","type":"address[]"},{"name":"buyAmts","internalType":"uint256[]","type":"uint256[]"},{"name":"buyGems","internalType":"address[]","type":"address[]"}],"name":"batchOffer","outputs":[],"stateMutability":"nonpayable"}]

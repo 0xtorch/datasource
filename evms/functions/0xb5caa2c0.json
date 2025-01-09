@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"","internalType":"uint16","type":"uint16"},{"name":"","internalType":"address","type":"address"}],"name":"stats","outputs":[{"name":"transfered","internalType":"uint256","type":"uint256"},{"name":"limitFrom","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

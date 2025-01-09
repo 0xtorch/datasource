@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_referralCommissionRate","internalType":"uint16","type":"uint16"}],"name":"setReferralCommissionRate","outputs":[],"stateMutability":"nonpayable"}]

@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"purchaseType","internalType":"uint8","type":"uint8","indexed":false},{"name":"subPurchaseType","internalType":"uint8","type":"uint8","indexed":false},{"name":"proxyPurchaseType","internalType":"uint8","type":"uint8","indexed":false}],"name":"CampaignUpdated"}]

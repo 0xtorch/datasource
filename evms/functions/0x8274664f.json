@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"","internalType":"address","type":"address"},{"name":"rootToken","internalType":"address","type":"address"},{"name":"log","internalType":"bytes","type":"bytes"}],"name":"exitTokens","outputs":[],"stateMutability":"nonpayable"}]

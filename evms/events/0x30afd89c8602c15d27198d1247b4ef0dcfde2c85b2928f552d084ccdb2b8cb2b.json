@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"requestId","internalType":"bytes32","type":"bytes32","indexed":false},{"name":"tokenId","internalType":"uint256","type":"uint256","indexed":false},{"name":"resultId","internalType":"uint256","type":"uint256","indexed":false}],"name":"RemoteMintFulfilled"}]

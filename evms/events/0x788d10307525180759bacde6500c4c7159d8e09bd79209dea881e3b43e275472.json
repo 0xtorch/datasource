@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"previousOwner","internalType":"address","type":"address","indexed":true},{"name":"newOwner","internalType":"address","type":"address","indexed":true}],"name":"BridgeReviewerTransferStarted"}]

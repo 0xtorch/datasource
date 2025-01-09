@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_contractAddress","internalType":"address","type":"address"},{"name":"_ethDestinationAddress","internalType":"address","type":"address"},{"name":"_primeDestinationAddress","internalType":"address","type":"address"}],"name":"addEchelonHandlerContract","outputs":[],"stateMutability":"nonpayable"}]

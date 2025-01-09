@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"","internalType":"address","type":"address"}],"name":"depositReceipts","outputs":[{"name":"round","internalType":"uint16","type":"uint16"},{"name":"amount","internalType":"uint104","type":"uint104"},{"name":"unredeemedShares","internalType":"uint128","type":"uint128"}],"stateMutability":"view"}]

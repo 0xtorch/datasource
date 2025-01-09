@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"amount","internalType":"uint256","type":"uint256"},{"name":"rewardsSeconds","internalType":"uint256","type":"uint256"}],"name":"injectRewardsWithTime","outputs":[],"stateMutability":"nonpayable"}]

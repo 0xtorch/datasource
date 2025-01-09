@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_tokenId","internalType":"uint256","type":"uint256"}],"name":"getGeography","outputs":[{"name":"","internalType":"uint24[5]","type":"uint24[5]"}],"stateMutability":"view"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"previousManager","internalType":"address","type":"address"},{"name":"newManager","internalType":"address","type":"address"},{"name":"network","internalType":"uint256","type":"uint256"}],"name":"transferDAOManager","outputs":[],"stateMutability":"nonpayable"}]

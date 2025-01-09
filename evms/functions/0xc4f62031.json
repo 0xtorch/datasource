@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"playerPrice","internalType":"uint256","type":"uint256"},{"name":"playerPriceWhitelist","internalType":"uint256","type":"uint256"}],"name":"setPlayerPrice","outputs":[],"stateMutability":"nonpayable"}]

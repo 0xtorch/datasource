@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[],"name":"customRendererConfig","outputs":[{"name":"renderer","internalType":"address","type":"address"},{"name":"processMintDataOnRenderer","internalType":"bool","type":"bool"}],"stateMutability":"view"}]

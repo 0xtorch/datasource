@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"bondGroupID","internalType":"uint256","type":"uint256"}],"name":"getBondGroup","outputs":[{"name":"bondIDs","internalType":"bytes32[]","type":"bytes32[]"},{"name":"maturity","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

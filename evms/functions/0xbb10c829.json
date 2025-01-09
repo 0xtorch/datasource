@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"","internalType":"bytes","type":"bytes"}],"name":"signatureUsed","outputs":[{"name":"","internalType":"bool","type":"bool"}],"stateMutability":"view"}]

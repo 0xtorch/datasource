@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"index","internalType":"uint256","type":"uint256"}],"name":"getQuoteAssetAtIndex","outputs":[{"name":"asset","internalType":"contract IERC20","type":"address"}],"stateMutability":"view"}]

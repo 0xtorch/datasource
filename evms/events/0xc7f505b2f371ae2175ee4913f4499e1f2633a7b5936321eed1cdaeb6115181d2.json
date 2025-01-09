@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"version","internalType":"uint64","type":"uint64","indexed":false}],"name":"Initialized"}]

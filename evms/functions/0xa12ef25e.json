@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"recipient","internalType":"address","type":"address"},{"name":"currency","internalType":"Currency","type":"address"}],"name":"collect","outputs":[{"name":"amount","internalType":"uint256","type":"uint256"}],"stateMutability":"nonpayable"}]

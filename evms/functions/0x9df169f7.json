@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"amounts","internalType":"uint256[]","type":"uint256[]"},{"name":"_tokenReceived","internalType":"address","type":"address"}],"name":"convertToSupportedStablesAfterPTPRecoveryBeforeLiquidation","outputs":[],"stateMutability":"nonpayable"}]

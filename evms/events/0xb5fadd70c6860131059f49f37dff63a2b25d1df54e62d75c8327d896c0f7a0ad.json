@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"submissionId","internalType":"bytes32","type":"bytes32","indexed":false},{"name":"success","internalType":"bool","type":"bool","indexed":true},{"name":"callProxy","internalType":"address","type":"address","indexed":false}],"name":"AutoRequestExecuted"}]

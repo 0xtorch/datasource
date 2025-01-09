@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"data","internalType":"uint256[10000]","type":"uint256[10000]"}],"name":"hash10k","outputs":[{"name":"","internalType":"bytes32","type":"bytes32"}],"stateMutability":"pure"}]

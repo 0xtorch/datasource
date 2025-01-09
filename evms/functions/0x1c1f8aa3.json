@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_stakingContractAddress","internalType":"address","type":"address"}],"name":"setStakingContractAddress","outputs":[],"stateMutability":"nonpayable"}]

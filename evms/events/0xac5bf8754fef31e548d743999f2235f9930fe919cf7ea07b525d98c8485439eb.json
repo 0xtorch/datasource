@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"value","internalType":"int256[4]","type":"int256[4]","indexed":false}],"name":"SetLiquidityPoolParameter"}]

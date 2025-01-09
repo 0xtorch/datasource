@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"rewardsToken_","internalType":"contract IERC20","type":"address"}],"name":"setRewardsToken","outputs":[],"stateMutability":"nonpayable"}]

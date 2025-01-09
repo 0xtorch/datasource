@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"endIndex","internalType":"uint256","type":"uint256"},{"name":"feeReceiver","internalType":"address payable","type":"address"}],"name":"executeMintRequests","outputs":[{"name":"","internalType":"uint256","type":"uint256"}],"stateMutability":"nonpayable"}]

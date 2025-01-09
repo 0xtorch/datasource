@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"","internalType":"uint256","type":"uint256"}],"name":"_tokensHeld","outputs":[{"name":"tokenAddress","internalType":"address","type":"address"},{"name":"quoteToken","internalType":"address","type":"address"},{"name":"isV3","internalType":"bool","type":"bool"}],"stateMutability":"view"}]

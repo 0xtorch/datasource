@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"id","internalType":"uint8","type":"uint8"},{"name":"borrowableBitmap","internalType":"uint128","type":"uint128"}],"name":"configureEModeCategoryBorrowableBitmap","outputs":[],"stateMutability":"nonpayable"}]

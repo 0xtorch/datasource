@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"coin","internalType":"contract ICoin","type":"address"},{"name":"account","internalType":"bytes32","type":"bytes32"},{"name":"amount","internalType":"uint256","type":"uint256"}],"name":"mint","outputs":[],"stateMutability":"nonpayable"}]

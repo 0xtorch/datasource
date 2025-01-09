@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_projectId","internalType":"uint256","type":"uint256"},{"name":"_count","internalType":"uint256","type":"uint256"}],"name":"purchaseBatch","outputs":[{"name":"startAndEndTokenIds","internalType":"uint256[]","type":"uint256[]"}],"stateMutability":"payable"}]

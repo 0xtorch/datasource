@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"fromIdx","internalType":"uint256","type":"uint256"},{"name":"toIdx","internalType":"uint256","type":"uint256"}],"name":"getAllPromoCodes","outputs":[{"name":"","internalType":"string[]","type":"string[]"}],"stateMutability":"view"}]

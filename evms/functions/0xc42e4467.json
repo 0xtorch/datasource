@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"batch","internalType":"uint256","type":"uint256"},{"name":"token","internalType":"uint256","type":"uint256"},{"name":"posw","internalType":"uint256","type":"uint256"},{"name":"merkleProof","internalType":"bytes32[]","type":"bytes32[]"}],"name":"Claim","outputs":[],"stateMutability":"nonpayable"}]

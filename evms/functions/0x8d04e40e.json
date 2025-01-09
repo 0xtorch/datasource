@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"receiverAddressSP_","internalType":"address","type":"address"},{"name":"id_","internalType":"uint256","type":"uint256"},{"name":"amount_","internalType":"uint256","type":"uint256"}],"name":"mintSingle","outputs":[],"stateMutability":"nonpayable"}]

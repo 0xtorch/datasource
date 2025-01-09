@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"to","internalType":"address","type":"address"},{"name":"lpTokenAmount","internalType":"uint256","type":"uint256"}],"name":"removeLiquidity","outputs":[{"name":"amountAOut","internalType":"uint256","type":"uint256"},{"name":"amountBOut","internalType":"uint256","type":"uint256"}],"stateMutability":"nonpayable"}]

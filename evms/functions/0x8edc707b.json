@@ -1,0 +1,1 @@
+[{"type":"function","constant":true,"inputs":[{"name":"","type":"bytes5"}],"name":"adoptionOffers","outputs":[{"name":"exists","type":"bool"},{"name":"catId","type":"bytes5"},{"name":"seller","type":"address"},{"name":"price","type":"uint256"},{"name":"onlyOfferTo","type":"address"}],"payable":false,"stateMutability":"view"}]

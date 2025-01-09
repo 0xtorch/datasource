@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_receivers","internalType":"address[]","type":"address[]"},{"name":"_allocations","internalType":"uint32[]","type":"uint32[]"},{"name":"_basisPoints","internalType":"uint96","type":"uint96"}],"name":"setBaseRoyalties","outputs":[],"stateMutability":"nonpayable"}]

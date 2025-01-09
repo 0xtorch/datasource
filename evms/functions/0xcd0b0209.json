@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"pair","internalType":"contract ILBPair","type":"address"},{"name":"ids","internalType":"uint256[]","type":"uint256[]"},{"name":"amounts","internalType":"uint256[]","type":"uint256[]"}],"name":"fundLiquidityTraderJoeV2","outputs":[],"stateMutability":"nonpayable"}]

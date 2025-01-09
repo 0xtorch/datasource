@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"silverAddress","internalType":"address","type":"address","indexed":false},{"name":"flag","internalType":"bool","type":"bool","indexed":false}],"name":"SetSilverAddress"}]

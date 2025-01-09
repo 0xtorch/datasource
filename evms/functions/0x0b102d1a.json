@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_nft","internalType":"contract IHummusNFT","type":"address"}],"name":"setNftAddress","outputs":[],"stateMutability":"nonpayable"}]

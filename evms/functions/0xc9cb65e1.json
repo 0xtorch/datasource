@@ -1,0 +1,1 @@
+[{"type":"function","constant":true,"inputs":[{"name":"node","type":"bytes32"}],"name":"getTokenId","outputs":[{"name":"","type":"uint256"}],"payable":false,"stateMutability":"view"}]

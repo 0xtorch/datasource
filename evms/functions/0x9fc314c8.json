@@ -1,0 +1,1 @@
+[{"type":"function","constant":false,"inputs":[{"name":"_token","internalType":"contract ERC20","type":"address"},{"name":"_to","internalType":"address payable","type":"address"},{"name":"_balance","internalType":"uint256","type":"uint256"}],"name":"claimTokens","outputs":[],"payable":false,"stateMutability":"nonpayable"}]

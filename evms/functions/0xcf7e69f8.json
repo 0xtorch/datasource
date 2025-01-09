@@ -1,0 +1,1 @@
+[{"type":"function","constant":false,"inputs":[{"name":"_cutieId","type":"uint40"},{"name":"_cooldownIndex","type":"uint16"}],"name":"changeCooldownIndex","outputs":[],"payable":false,"stateMutability":"nonpayable"}]

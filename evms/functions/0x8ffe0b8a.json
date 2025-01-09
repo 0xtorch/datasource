@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_wlSpotsLeft","internalType":"uint256","type":"uint256"},{"name":"_veSpotsLeft","internalType":"uint256","type":"uint256"}],"name":"setPrioritySteps","outputs":[],"stateMutability":"nonpayable"}]

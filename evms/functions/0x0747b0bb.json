@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_marketplaceId","internalType":"uint256","type":"uint256"},{"name":"_contractAddress","internalType":"address","type":"address"},{"name":"_merkleProof","internalType":"bytes32[]","type":"bytes32[]"}],"name":"buyListingWithProof","outputs":[],"stateMutability":"payable"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"swapForY","internalType":"bool","type":"bool"},{"name":"to","internalType":"address","type":"address"}],"name":"swap","outputs":[{"name":"amountsOut","internalType":"bytes32","type":"bytes32"}],"stateMutability":"nonpayable"}]

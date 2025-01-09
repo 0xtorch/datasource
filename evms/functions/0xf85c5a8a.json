@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"nftOwner","internalType":"address","type":"address"},{"name":"tokenId","internalType":"uint256","type":"uint256"},{"name":"_tokenURI","internalType":"string","type":"string"}],"name":"addItem","outputs":[{"name":"","internalType":"uint256","type":"uint256"}],"stateMutability":"nonpayable"}]

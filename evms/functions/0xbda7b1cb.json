@@ -1,0 +1,1 @@
+[{"type":"function","constant":true,"inputs":[{"name":"","type":"address"}],"name":"trainees","outputs":[{"name":"trainerLevel","type":"uint8"},{"name":"objId","type":"uint64"},{"name":"objLevel","type":"uint8"},{"name":"ran","type":"uint8"}],"payable":false,"stateMutability":"view"}]

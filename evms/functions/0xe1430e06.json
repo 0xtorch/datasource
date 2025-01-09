@@ -1,0 +1,1 @@
+[{"type":"function","gas":181462,"inputs":[{"name":"_name","type":"string"},{"name":"_symbol","type":"string"}],"name":"set_name","outputs":[],"stateMutability":"nonpayable"}]

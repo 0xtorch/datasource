@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"to","internalType":"address","type":"address"},{"name":"babyDragonTokenIds","internalType":"uint256[]","type":"uint256[]"},{"name":"dragonEssenceTokenIds","internalType":"uint256[]","type":"uint256[]"}],"name":"mintDragonsBatch","outputs":[],"stateMutability":"nonpayable"}]

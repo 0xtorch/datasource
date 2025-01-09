@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[],"name":"getTrustedSignerAddress","outputs":[{"name":"signer","internalType":"address","type":"address"}],"stateMutability":"view"}]

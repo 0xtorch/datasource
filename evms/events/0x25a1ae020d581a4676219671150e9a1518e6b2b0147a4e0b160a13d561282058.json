@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"sourceChainId","internalType":"uint16","type":"uint16","indexed":false},{"name":"oldBlockUpdater","internalType":"address","type":"address","indexed":false},{"name":"newBlockUpdater","internalType":"address","type":"address","indexed":false}],"name":"ModBlockUpdater"}]

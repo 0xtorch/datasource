@@ -1,0 +1,1 @@
+[{"type":"function","constant":false,"inputs":[{"name":"_fighterId","type":"uint256"},{"name":"_luck","type":"uint8"}],"name":"updateLuck","outputs":[],"payable":false,"stateMutability":"nonpayable"}]

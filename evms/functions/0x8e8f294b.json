@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"","internalType":"address","type":"address"}],"name":"markets","outputs":[{"name":"isListed","internalType":"bool","type":"bool"},{"name":"collateralFactorMantissa","internalType":"uint256","type":"uint256"},{"name":"isMinted","internalType":"bool","type":"bool"}],"stateMutability":"view"}]

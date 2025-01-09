@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_antiSnipe","internalType":"bool","type":"bool"},{"name":"_antiBlock","internalType":"bool","type":"bool"}],"name":"setProtectionSettings","outputs":[],"stateMutability":"nonpayable"}]

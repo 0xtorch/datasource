@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_pid","internalType":"uint256","type":"uint256"},{"name":"_allocPoint","internalType":"uint256","type":"uint256"},{"name":"_withUpdate","internalType":"bool","type":"bool"},{"name":"_depositFeeBP","internalType":"uint16","type":"uint16"}],"name":"set","outputs":[],"stateMutability":"nonpayable"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[],"name":"execHedge","outputs":[{"name":"amountUsdc","internalType":"uint256","type":"uint256"},{"name":"amountUnderlying","internalType":"uint256","type":"uint256"}],"stateMutability":"nonpayable"}]

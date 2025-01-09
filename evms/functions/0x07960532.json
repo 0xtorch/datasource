@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"ethPriceSourceAddress","internalType":"address","type":"address"}],"name":"changeEthPriceSource","outputs":[],"stateMutability":"nonpayable"}]

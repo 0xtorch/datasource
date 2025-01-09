@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_tierId","internalType":"uint256","type":"uint256"},{"name":"_totalRebate","internalType":"uint256","type":"uint256"},{"name":"_discountShare","internalType":"uint256","type":"uint256"}],"name":"setTier","outputs":[],"stateMutability":"nonpayable"}]

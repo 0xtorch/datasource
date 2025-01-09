@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"accounts","internalType":"address[]","type":"address[]"},{"name":"start","internalType":"uint16","type":"uint16"}],"name":"mintReserved","outputs":[],"stateMutability":"nonpayable"}]

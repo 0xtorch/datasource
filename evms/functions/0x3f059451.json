@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"configurable","internalType":"address[]","type":"address[]"},{"name":"configData","internalType":"bytes[]","type":"bytes[]"}],"name":"updateExternalConfiguration","outputs":[],"stateMutability":"nonpayable"}]

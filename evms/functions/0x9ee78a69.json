@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_addressList","internalType":"address[]","type":"address[]"},{"name":"step","internalType":"uint8","type":"uint8"},{"name":"_amountList","internalType":"uint8[]","type":"uint8[]"}],"name":"setBulkMintAuthority","outputs":[],"stateMutability":"nonpayable"}]

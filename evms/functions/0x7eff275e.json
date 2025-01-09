@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"proxy","internalType":"contract TransparentUpgradeableProxy","type":"address"},{"name":"newAdmin","internalType":"address","type":"address"}],"name":"changeProxyAdmin","outputs":[],"stateMutability":"nonpayable"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_fee","internalType":"uint256","type":"uint256"},{"name":"_feeDenominator","internalType":"uint256","type":"uint256"}],"name":"setBuyFee","outputs":[],"stateMutability":"nonpayable"}]

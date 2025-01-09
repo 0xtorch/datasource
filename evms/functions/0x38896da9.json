@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_editionId","internalType":"uint256","type":"uint256"}],"name":"facilitateNextPrimarySale","outputs":[{"name":"receiver","internalType":"address","type":"address"},{"name":"creator","internalType":"address","type":"address"},{"name":"tokenId","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

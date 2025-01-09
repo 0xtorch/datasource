@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"newUSDCAddress","internalType":"address","type":"address","indexed":true}],"name":"USDCAddressChanged"}]

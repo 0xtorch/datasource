@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"ArtistID","internalType":"uint256","type":"uint256"},{"name":"Minter","internalType":"address","type":"address"}],"name":"__NewArtistMinter","outputs":[],"stateMutability":"nonpayable"}]

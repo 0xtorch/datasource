@@ -1,0 +1,1 @@
+[{"type":"function","constant":false,"inputs":[{"name":"_intendedRecipient","internalType":"address payable","type":"address"},{"name":"_symbol","internalType":"string","type":"string"},{"name":"_amount","internalType":"uint256","type":"uint256"}],"name":"mintBridgeTokens","outputs":[],"payable":false,"stateMutability":"nonpayable"}]

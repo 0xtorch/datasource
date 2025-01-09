@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_ticker","internalType":"bytes32","type":"bytes32"},{"name":"_feedAddr","internalType":"address","type":"address"},{"name":"_staleTime","internalType":"uint256","type":"uint256"},{"name":"_isClosable","internalType":"bool","type":"bool"}],"name":"setAPI3Feed","outputs":[],"stateMutability":"nonpayable"}]

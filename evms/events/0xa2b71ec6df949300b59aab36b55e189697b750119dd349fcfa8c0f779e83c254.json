@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"old_A","type":"uint256","indexed":false},{"name":"new_A","type":"uint256","indexed":false},{"name":"initial_time","type":"uint256","indexed":false},{"name":"future_time","type":"uint256","indexed":false}],"name":"RampA"}]

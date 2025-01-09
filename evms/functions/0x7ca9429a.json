@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"sell_gem","internalType":"contract ERC20","type":"address"},{"name":"buy_gem","internalType":"contract ERC20","type":"address"}],"name":"getOfferCount","outputs":[{"name":"","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

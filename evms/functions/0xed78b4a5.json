@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_tierId","internalType":"string","type":"string"},{"name":"_maxTotalPurchasable","internalType":"uint256","type":"uint256"}],"name":"updateMaxTotalPurchasable","outputs":[],"stateMutability":"nonpayable"}]

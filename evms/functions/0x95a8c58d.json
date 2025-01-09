@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"account","internalType":"address","type":"address"},{"name":"role","internalType":"uint8","type":"uint8"}],"name":"hasRole","outputs":[{"name":"","internalType":"bool","type":"bool"}],"stateMutability":"view"}]

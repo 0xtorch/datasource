@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"prevValue","internalType":"address","type":"address","indexed":true},{"name":"newValue","internalType":"address","type":"address","indexed":true}],"name":"TreasuryAddressChanged"}]

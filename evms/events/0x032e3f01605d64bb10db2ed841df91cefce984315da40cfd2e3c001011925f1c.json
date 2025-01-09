@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"target","internalType":"address","type":"address","indexed":true},{"name":"updater","internalType":"address","type":"address","indexed":true},{"name":"newValue","internalType":"string","type":"string","indexed":false}],"name":"JSONExtensionUpdated"}]

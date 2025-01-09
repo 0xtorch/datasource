@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"action","type":"string","indexed":false},{"name":"from","type":"address","indexed":true},{"name":"to","type":"address","indexed":false},{"name":"tokenURI","type":"string","indexed":false},{"name":"token","type":"uint256","indexed":false}],"name":"MintWithTokenURI"}]

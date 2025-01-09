@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"lTokens","internalType":"address[]","type":"address[]"},{"name":"newSupplyCaps","internalType":"uint256[]","type":"uint256[]"}],"name":"setMarketSupplyCaps","outputs":[],"stateMutability":"nonpayable"}]

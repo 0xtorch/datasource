@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"_tokenAddress","internalType":"address","type":"address","indexed":true},{"name":"_currencyId","internalType":"string","type":"string","indexed":false}],"name":"PaymentTokenEvent"}]

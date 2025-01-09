@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"newPurchaseHook","internalType":"contract IPurchaseHook","type":"address","indexed":false}],"name":"PurchaseHookChange"}]

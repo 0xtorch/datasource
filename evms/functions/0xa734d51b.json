@@ -1,0 +1,1 @@
+[{"type":"function","constant":true,"inputs":[{"name":"streamId","internalType":"uint256","type":"uint256"}],"name":"isCompoundingStream","outputs":[{"name":"","internalType":"bool","type":"bool"}],"payable":false,"stateMutability":"view"}]

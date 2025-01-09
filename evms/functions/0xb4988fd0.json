@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_startTime","internalType":"uint256","type":"uint256"},{"name":"_communityFund","internalType":"address","type":"address"},{"name":"_devFund","internalType":"address","type":"address"}],"name":"initialize","outputs":[],"stateMutability":"nonpayable"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[],"name":"overridedSaleState","outputs":[{"name":"","internalType":"enum BlockBasedSale.OverrideSaleState","type":"uint8"}],"stateMutability":"view"}]

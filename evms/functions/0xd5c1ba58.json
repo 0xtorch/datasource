@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_exchangeRate","internalType":"uint256","type":"uint256"},{"name":"_minBNBAmount","internalType":"uint256","type":"uint256"},{"name":"_maxBNBAmount","internalType":"uint256","type":"uint256"},{"name":"_whitelistBNBTotal","internalType":"uint256","type":"uint256"}],"name":"configMoney","outputs":[],"stateMutability":"nonpayable"}]

@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"mappings","internalType":"struct MultichainFacet.AnyMapping[]","type":"tuple[]","components":[{"name":"tokenAddress","internalType":"address","type":"address"},{"name":"anyTokenAddress","internalType":"address","type":"address"}],"indexed":false}],"name":"AnyMappingUpdated"}]

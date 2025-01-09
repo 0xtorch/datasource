@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"mintRecipient","internalType":"address","type":"address","indexed":true},{"name":"amount","internalType":"uint256","type":"uint256","indexed":false},{"name":"mintToken","internalType":"address","type":"address","indexed":true}],"name":"MintAndWithdraw"}]

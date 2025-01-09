@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_accounts","internalType":"address[]","type":"address[]"}],"name":"getAccountCollateralRatios","outputs":[{"name":"","internalType":"uint256[]","type":"uint256[]"}],"stateMutability":"view"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_emergencyExpiryDuration","internalType":"uint256","type":"uint256"}],"name":"setEmergencyExpiryDuration","outputs":[],"stateMutability":"nonpayable"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"collectionType","internalType":"enum CollectionType","type":"uint8"}],"name":"getCollectionTemplateDetails","outputs":[{"name":"implementation","internalType":"address","type":"address"},{"name":"templateVersion","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

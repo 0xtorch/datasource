@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_target","internalType":"address","type":"address"},{"name":"_data","internalType":"bytes","type":"bytes"},{"name":"_value","internalType":"uint256","type":"uint256"}],"name":"executeCall","outputs":[],"stateMutability":"payable"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_color","internalType":"string","type":"string"},{"name":"_bg","internalType":"string","type":"string"}],"name":"tokenHTML","outputs":[{"name":"","internalType":"string","type":"string"}],"stateMutability":"view"}]

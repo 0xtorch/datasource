@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_mToken","internalType":"contract MToken","type":"address"},{"name":"_borrower","internalType":"address","type":"address"},{"name":"_sendTokens","internalType":"bool","type":"bool"}],"name":"disburseBorrowerRewards","outputs":[],"stateMutability":"nonpayable"}]

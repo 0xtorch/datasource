@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"account","internalType":"address","type":"address","indexed":true},{"name":"amount","internalType":"uint128","type":"uint128","indexed":false},{"name":"lockExpiry","internalType":"uint64","type":"uint64","indexed":false}],"name":"StakeChanged"}]

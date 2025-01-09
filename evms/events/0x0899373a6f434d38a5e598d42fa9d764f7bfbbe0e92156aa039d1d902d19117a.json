@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"walletAddressList_","internalType":"address[]","type":"address[]","indexed":false}],"name":"EventSetWhitelistMany"}]

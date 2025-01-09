@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_to","internalType":"address payable","type":"address"},{"name":"_tokenAddress","internalType":"address","type":"address"}],"name":"migrateSingle","outputs":[],"stateMutability":"nonpayable"}]

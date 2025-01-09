@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_tokenContract","internalType":"address","type":"address"},{"name":"_newGateway","internalType":"address","type":"address"}],"name":"setGatewayOf","outputs":[],"stateMutability":"nonpayable"}]

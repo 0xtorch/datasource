@@ -1,0 +1,1 @@
+[{"type":"function","constant":true,"inputs":[{"name":"epoch","internalType":"uint256","type":"uint256"}],"name":"expiringCoupons","outputs":[{"name":"","internalType":"uint256","type":"uint256"}],"payable":false,"stateMutability":"view"}]

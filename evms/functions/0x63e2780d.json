@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"bagIds","internalType":"uint256[]","type":"uint256[]"},{"name":"bagType","internalType":"uint16[]","type":"uint16[]"},{"name":"traits","internalType":"uint8[]","type":"uint8[]"}],"name":"mintLootPublic","outputs":[],"stateMutability":"payable"}]

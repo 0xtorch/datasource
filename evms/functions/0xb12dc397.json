@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[],"name":"globalUnrealizedLossMetrics","outputs":[{"name":"lastZeroLossTime","internalType":"uint64","type":"uint64"},{"name":"liquidity","internalType":"uint128","type":"uint128"},{"name":"liquidityTimesUnrealizedLoss","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

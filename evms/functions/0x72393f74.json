@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"eligibilityProof","internalType":"bytes32[]","type":"bytes32[]"},{"name":"vote","internalType":"bool","type":"bool"}],"name":"submitVote","outputs":[],"stateMutability":"nonpayable"}]

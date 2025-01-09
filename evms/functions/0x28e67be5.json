@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_errorCode","internalType":"uint256","type":"uint256"},{"name":"_error","internalType":"string","type":"string"}],"name":"setError","outputs":[],"stateMutability":"nonpayable"}]

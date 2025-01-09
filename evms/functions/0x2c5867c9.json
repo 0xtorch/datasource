@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[],"name":"ethWithdrawQueue","outputs":[{"name":"queuedWithdrawToFill","internalType":"uint256","type":"uint256"},{"name":"queuedWithdrawFilled","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

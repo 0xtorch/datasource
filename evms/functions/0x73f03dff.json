@@ -1,0 +1,1 @@
+[{"type":"function","constant":false,"inputs":[{"name":"newPendingGov","internalType":"address","type":"address"}],"name":"_setPendingGov","outputs":[],"payable":false,"stateMutability":"nonpayable"}]

@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"_projectId","internalType":"uint256","type":"uint256","indexed":true},{"name":"_key","internalType":"bytes32","type":"bytes32","indexed":false},{"name":"_value","internalType":"address","type":"address","indexed":false}],"name":"ConfigValueSet"}]

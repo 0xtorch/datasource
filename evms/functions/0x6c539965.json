@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"amountsToBuy","internalType":"uint256[3]","type":"uint256[3]"},{"name":"amounts","internalType":"uint256[3]","type":"uint256[3]"},{"name":"indexes","internalType":"uint256[3]","type":"uint256[3]"},{"name":"merkleProof","internalType":"bytes32[][3]","type":"bytes32[][3]"}],"name":"presaleBuy","outputs":[],"stateMutability":"payable"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_token","internalType":"string","type":"string"},{"name":"_account","internalType":"address","type":"address"},{"name":"_expiry","internalType":"uint256","type":"uint256"},{"name":"_signature","internalType":"bytes","type":"bytes"}],"name":"mint","outputs":[],"stateMutability":"nonpayable"}]

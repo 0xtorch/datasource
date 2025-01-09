@@ -1,0 +1,1 @@
+[{"type":"function","constant":false,"inputs":[{"name":"v","type":"uint8[2]"},{"name":"r","type":"bytes32[2]"},{"name":"s","type":"bytes32[2]"},{"name":"nonce","type":"uint256"},{"name":"authorizedAddress","type":"address"},{"name":"data","type":"bytes"}],"name":"invoke2","outputs":[],"payable":false,"stateMutability":"nonpayable"}]

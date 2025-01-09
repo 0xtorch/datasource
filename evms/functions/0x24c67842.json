@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_portfolio","internalType":"contract Portfolio","type":"address"},{"name":"_shares","internalType":"uint256","type":"uint256"},{"name":"_data","internalType":"bytes","type":"bytes"}],"name":"portfolioRedeem","outputs":[{"name":"","internalType":"uint256","type":"uint256"}],"stateMutability":"nonpayable"}]

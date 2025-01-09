@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"addresses","internalType":"address[]","type":"address[]"},{"name":"quantity","internalType":"uint256","type":"uint256"}],"name":"giveoutMint","outputs":[],"stateMutability":"nonpayable"}]

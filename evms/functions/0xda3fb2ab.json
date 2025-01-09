@@ -1,0 +1,1 @@
+[{"type":"function","gas":40459,"inputs":[{"name":"_calculator","type":"address"}],"name":"set_default_calculator","outputs":[{"name":"","type":"bool"}],"stateMutability":"nonpayable"}]

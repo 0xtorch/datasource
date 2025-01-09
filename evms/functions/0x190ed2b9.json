@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_moonRatTradeProofToken","internalType":"address","type":"address"},{"name":"_burnPercentage","internalType":"uint256","type":"uint256"},{"name":"_reservedPool","internalType":"address","type":"address"}],"name":"configureProofOfTrade","outputs":[],"stateMutability":"nonpayable"}]

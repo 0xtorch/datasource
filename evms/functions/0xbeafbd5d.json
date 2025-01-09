@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"index","internalType":"uint256","type":"uint256"},{"name":"paused","internalType":"bool","type":"bool"}],"name":"setPausability","outputs":[],"stateMutability":"nonpayable"}]

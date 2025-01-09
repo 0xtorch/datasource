@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"factory","internalType":"contract IFactory","type":"address"},{"name":"uniswapV2Pair","internalType":"address","type":"address"},{"name":"allocPoint","internalType":"uint256","type":"uint256"}],"name":"setUniswapV2Pair","outputs":[],"stateMutability":"nonpayable"}]

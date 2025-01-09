@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"chestID","internalType":"uint256","type":"uint256"}],"name":"chestLooted","outputs":[{"name":"","internalType":"bool","type":"bool"}],"stateMutability":"view"}]

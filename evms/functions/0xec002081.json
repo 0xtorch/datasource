@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"","internalType":"uint256","type":"uint256"}],"name":"poolData","outputs":[{"name":"totalStakeAmount","internalType":"uint256","type":"uint256"},{"name":"accuRewardPerShare","internalType":"uint256","type":"uint256"},{"name":"accuRewardLastUpdateBlock","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

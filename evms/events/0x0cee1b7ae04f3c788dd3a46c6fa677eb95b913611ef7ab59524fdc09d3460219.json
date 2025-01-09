@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"previousAttesterManager","internalType":"address","type":"address","indexed":true},{"name":"newAttesterManager","internalType":"address","type":"address","indexed":true}],"name":"AttesterManagerUpdated"}]

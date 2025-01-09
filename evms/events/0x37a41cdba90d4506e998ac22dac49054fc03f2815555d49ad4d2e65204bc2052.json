@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"oldZapper","internalType":"address","type":"address","indexed":true},{"name":"newZapper","internalType":"address","type":"address","indexed":true}],"name":"UpdatedZapper"}]

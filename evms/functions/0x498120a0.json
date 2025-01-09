@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"edition","internalType":"address","type":"address"},{"name":"tier","internalType":"uint8","type":"uint8"},{"name":"scheduleNum","internalType":"uint8","type":"uint8"},{"name":"price","internalType":"uint96","type":"uint96"}],"name":"setPrice","outputs":[],"stateMutability":"nonpayable"}]

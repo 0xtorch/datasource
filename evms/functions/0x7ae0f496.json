@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"","internalType":"enum BlastPenguinTicketID","type":"uint8"}],"name":"merkleRoot","outputs":[{"name":"","internalType":"bytes32","type":"bytes32"}],"stateMutability":"view"}]

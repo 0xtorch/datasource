@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_flag","internalType":"bool","type":"bool"},{"name":"_cap","internalType":"uint256","type":"uint256"},{"name":"_pokeInterval","internalType":"uint256","type":"uint256"},{"name":"_isKeeperOnly","internalType":"bool","type":"bool"}],"name":"setParameters","outputs":[],"stateMutability":"nonpayable"}]

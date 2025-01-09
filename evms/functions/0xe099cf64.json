@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_registrationTimeStarts","internalType":"uint256","type":"uint256"},{"name":"_registrationTimeEnds","internalType":"uint256","type":"uint256"}],"name":"setRegistrationTime","outputs":[],"stateMutability":"nonpayable"}]

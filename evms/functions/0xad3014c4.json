@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_nftContractAddress","internalType":"address","type":"address"},{"name":"_tokenId","internalType":"uint256","type":"uint256"},{"name":"merkleProof","internalType":"bytes32[]","type":"bytes32[]"}],"name":"makeBid","outputs":[],"stateMutability":"payable"}]

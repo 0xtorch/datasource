@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"owner","internalType":"address","type":"address"},{"name":"token","internalType":"address","type":"address"},{"name":"nftType","internalType":"enum ExchangeData.NftType","type":"uint8"},{"name":"nftID","internalType":"uint256","type":"uint256"}],"name":"withdrawFromNFTDepositRequest","outputs":[],"stateMutability":"nonpayable"}]

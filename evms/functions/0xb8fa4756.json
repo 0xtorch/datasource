@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"hooker","internalType":"contract IXferHook","type":"address"},{"name":"ids","internalType":"uint256[]","type":"uint256[]"}],"name":"addTransferHook","outputs":[],"stateMutability":"nonpayable"}]

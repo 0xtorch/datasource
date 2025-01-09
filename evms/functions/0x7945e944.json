@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_collection","internalType":"address","type":"address"}],"name":"getPaymentTokenForCollection","outputs":[{"name":"","internalType":"address","type":"address"}],"stateMutability":"view"}]

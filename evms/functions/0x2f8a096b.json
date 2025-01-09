@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"to","internalType":"address","type":"address"},{"name":"quantities","internalType":"uint8[]","type":"uint8[]"},{"name":"characterIds","internalType":"uint8[]","type":"uint8[]"}],"name":"mintFollowerPublicBatch","outputs":[],"stateMutability":"payable"}]

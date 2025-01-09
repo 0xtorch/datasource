@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_hash","internalType":"bytes32","type":"bytes32"},{"name":"_withdrawalTxid","internalType":"bytes32","type":"bytes32"},{"name":"_outputIndex","internalType":"uint256","type":"uint256"}],"name":"confirmBurnRequest","outputs":[],"stateMutability":"nonpayable"}]

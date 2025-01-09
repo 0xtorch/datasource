@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"account","internalType":"address","type":"address"},{"name":"state","internalType":"bool","type":"bool"}],"name":"updateAllowedTransfer","outputs":[],"stateMutability":"nonpayable"}]

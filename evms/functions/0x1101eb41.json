@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"liquidity","internalType":"address","type":"address"},{"name":"job","internalType":"address","type":"address"},{"name":"amount","internalType":"uint256","type":"uint256"}],"name":"unbondLiquidityFromJob","outputs":[],"stateMutability":"nonpayable"}]

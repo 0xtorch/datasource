@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"burn","internalType":"uint256","type":"uint256","indexed":false},{"name":"vault","internalType":"uint256","type":"uint256","indexed":false},{"name":"staking","internalType":"uint256","type":"uint256","indexed":false},{"name":"timestamp","internalType":"uint256","type":"uint256","indexed":false}],"name":"SwapBack"}]

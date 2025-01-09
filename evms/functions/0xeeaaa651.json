@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"","internalType":"bytes32","type":"bytes32"}],"name":"bridges","outputs":[{"name":"","internalType":"contract IBridgeAdapter","type":"address"}],"stateMutability":"view"}]

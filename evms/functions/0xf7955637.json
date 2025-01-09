@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_cosmosDenom","internalType":"string","type":"string"},{"name":"_name","internalType":"string","type":"string"},{"name":"_symbol","internalType":"string","type":"string"},{"name":"_decimals","internalType":"uint8","type":"uint8"}],"name":"deployERC20","outputs":[],"stateMutability":"nonpayable"}]

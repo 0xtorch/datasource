@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"","internalType":"enum ToadBackground","type":"uint8"}],"name":"backgroundToString","outputs":[{"name":"","internalType":"string","type":"string"}],"stateMutability":"view"}]

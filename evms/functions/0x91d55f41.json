@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"newMaxWalletTokenPercentage","internalType":"uint256","type":"uint256"}],"name":"setMaxWalletToken","outputs":[],"stateMutability":"nonpayable"}]

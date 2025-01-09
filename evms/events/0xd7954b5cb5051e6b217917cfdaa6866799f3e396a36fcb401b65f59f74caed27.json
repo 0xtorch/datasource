@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"pair","internalType":"bytes32","type":"bytes32","indexed":true},{"name":"_param","internalType":"string","type":"string","indexed":false},{"name":"_oldValue","internalType":"uint256","type":"uint256","indexed":false},{"name":"_newValue","internalType":"uint256","type":"uint256","indexed":false}],"name":"ParameterUpdated"}]

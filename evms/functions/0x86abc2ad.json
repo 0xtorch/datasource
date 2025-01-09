@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_debtAmount","internalType":"uint256","type":"uint256"}],"name":"settleDebtManual","outputs":[],"stateMutability":"nonpayable"}]

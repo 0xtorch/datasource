@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"","internalType":"address","type":"address"}],"name":"userToBidData","outputs":[{"name":"currentBid","internalType":"uint240","type":"uint240"},{"name":"mintClaimed","internalType":"bool","type":"bool"},{"name":"refundClaimed","internalType":"bool","type":"bool"}],"stateMutability":"view"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"strategy","internalType":"contract IVaultStrategy","type":"address"}],"name":"addStrategy","outputs":[],"stateMutability":"nonpayable"}]

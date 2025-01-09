@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"txMgrAddr","internalType":"contract ITransactionManager","type":"address","indexed":false}],"name":"NXTPInitialized"}]

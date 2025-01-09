@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"token","internalType":"address","type":"address"}],"name":"getPriceAndSource","outputs":[{"name":"","internalType":"uint256","type":"uint256"},{"name":"","internalType":"bool","type":"bool"}],"stateMutability":"view"}]

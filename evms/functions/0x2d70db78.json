@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"state","internalType":"bool","type":"bool"}],"name":"_setSeizePaused","outputs":[{"name":"","internalType":"bool","type":"bool"}],"stateMutability":"nonpayable"}]

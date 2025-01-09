@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"vType","internalType":"enum IVaultFactory.VaultType","type":"uint8"}],"name":"getVaultImplementation","outputs":[{"name":"","internalType":"address","type":"address"}],"stateMutability":"view"}]

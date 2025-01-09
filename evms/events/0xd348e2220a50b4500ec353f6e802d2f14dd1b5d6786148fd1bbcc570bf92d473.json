@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"role","internalType":"bytes4","type":"bytes4","indexed":true},{"name":"newAdminRole","internalType":"bytes4","type":"bytes4","indexed":true}],"name":"RoleAdminChanged"}]

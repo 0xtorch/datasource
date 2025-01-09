@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_minimumAuctionLengthSeconds","internalType":"uint256","type":"uint256"}],"name":"setMinimumAuctionLengthSeconds","outputs":[],"stateMutability":"nonpayable"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_amount","internalType":"uint256","type":"uint256"},{"name":"_of","internalType":"address","type":"address"}],"name":"depositOnBehalf","outputs":[],"stateMutability":"nonpayable"}]

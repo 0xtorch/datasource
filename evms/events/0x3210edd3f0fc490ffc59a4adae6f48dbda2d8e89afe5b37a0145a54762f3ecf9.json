@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"currentPauser","internalType":"address","type":"address","indexed":true},{"name":"pendingPauser","internalType":"address","type":"address","indexed":true}],"name":"PauserProposed"}]

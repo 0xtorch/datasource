@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_tokenAddress","internalType":"address","type":"address"},{"name":"_to","internalType":"address","type":"address"}],"name":"removeOtherERC20Tokens","outputs":[],"stateMutability":"nonpayable"}]

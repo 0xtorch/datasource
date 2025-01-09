@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_beneficiary","internalType":"address payable","type":"address"},{"name":"readAndAgreedToMarketParticipationAgreement","internalType":"bool","type":"bool"}],"name":"commitEth","outputs":[],"stateMutability":"payable"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"accountVersion","internalType":"uint256","type":"uint256"},{"name":"_newCheck","internalType":"address","type":"address"}],"name":"changeCheck","outputs":[],"stateMutability":"nonpayable"}]

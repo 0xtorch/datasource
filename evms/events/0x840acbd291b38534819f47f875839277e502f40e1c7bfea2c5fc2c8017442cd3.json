@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"token","internalType":"contract ISuperToken","type":"address","indexed":true},{"name":"code","internalType":"address","type":"address","indexed":false}],"name":"SuperTokenLogicUpdated"}]

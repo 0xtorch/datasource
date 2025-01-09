@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_lotteryId","internalType":"uint256","type":"uint256"},{"name":"_ticketId","internalType":"uint256","type":"uint256"},{"name":"_bracket","internalType":"uint32","type":"uint32"}],"name":"viewRewardsForTicketId","outputs":[{"name":"","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

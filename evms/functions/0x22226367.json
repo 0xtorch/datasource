@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"validator","internalType":"address","type":"address"},{"name":"epoch","internalType":"uint256","type":"uint256"}],"name":"getBlockAndSlashes","outputs":[{"name":"blocks","internalType":"uint256","type":"uint256"},{"name":"slashes","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

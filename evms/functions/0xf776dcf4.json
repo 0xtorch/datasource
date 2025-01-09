@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"originalMessage","internalType":"bytes","type":"bytes"},{"name":"originalAttestation","internalType":"bytes","type":"bytes"},{"name":"newMintRecipient","internalType":"bytes32","type":"bytes32"}],"name":"replaceDeposit","outputs":[],"stateMutability":"nonpayable"}]

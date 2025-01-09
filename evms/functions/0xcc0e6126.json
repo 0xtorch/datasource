@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"birdId","internalType":"uint256","type":"uint256"},{"name":"speciesProof","internalType":"bytes32[]","type":"bytes32[]"},{"name":"speciesName","internalType":"string","type":"string"}],"name":"publicMint","outputs":[],"stateMutability":"payable"}]

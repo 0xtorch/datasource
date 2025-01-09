@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"amountStaked","internalType":"uint256","type":"uint256"},{"name":"numLands","internalType":"uint256","type":"uint256"}],"name":"computeContribution","outputs":[{"name":"","internalType":"uint256","type":"uint256"}],"stateMutability":"pure"}]

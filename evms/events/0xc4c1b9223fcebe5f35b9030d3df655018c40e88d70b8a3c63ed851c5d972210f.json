@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"target","internalType":"address","type":"address","indexed":true},{"name":"sender","internalType":"address","type":"address","indexed":false},{"name":"imageURI","internalType":"string","type":"string","indexed":false},{"name":"animationURI","internalType":"string","type":"string","indexed":false}],"name":"MediaURIsUpdated"}]

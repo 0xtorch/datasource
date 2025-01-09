@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"ContractAddress","internalType":"address","type":"address"},{"name":"Recipient","internalType":"address","type":"address"},{"name":"TokenID","internalType":"uint256","type":"uint256"}],"name":"__WithdrawERC721","outputs":[],"stateMutability":"nonpayable"}]

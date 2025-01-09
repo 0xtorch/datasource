@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_minAuthorizations","internalType":"uint256","type":"uint256"},{"name":"_signers","internalType":"address[]","type":"address[]"},{"name":"_updaters","internalType":"address[]","type":"address[]"}],"name":"initialize","outputs":[],"stateMutability":"nonpayable"}]

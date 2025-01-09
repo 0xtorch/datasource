@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"numGuardians","internalType":"uint256","type":"uint256"}],"name":"quorum","outputs":[{"name":"numSignaturesRequiredForQuorum","internalType":"uint256","type":"uint256"}],"stateMutability":"pure"}]

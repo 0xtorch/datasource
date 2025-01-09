@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"marketing","internalType":"uint16","type":"uint16"},{"name":"development","internalType":"uint16","type":"uint16"},{"name":"externalBuyback","internalType":"uint16","type":"uint16"},{"name":"staking","internalType":"uint16","type":"uint16"}],"name":"setRatios","outputs":[],"stateMutability":"nonpayable"}]

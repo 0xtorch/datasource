@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_billContract","internalType":"address","type":"address"},{"name":"_isActive","internalType":"bool","type":"bool"}],"name":"toggleBillContract","outputs":[],"stateMutability":"nonpayable"}]

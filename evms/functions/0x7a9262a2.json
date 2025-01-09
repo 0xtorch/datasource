@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"","internalType":"address","type":"address"}],"name":"withdrawals","outputs":[{"name":"round","internalType":"uint16","type":"uint16"},{"name":"shares","internalType":"uint128","type":"uint128"}],"stateMutability":"view"}]

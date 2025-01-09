@@ -1,0 +1,1 @@
+[{"type":"function","constant":false,"inputs":[{"name":"_commitment","internalType":"bytes32","type":"bytes32"}],"name":"deposit","outputs":[],"payable":true,"stateMutability":"payable"}]

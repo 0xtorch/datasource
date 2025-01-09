@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"oldLpOracle","internalType":"address","type":"address","indexed":true},{"name":"newLpOracle","internalType":"address","type":"address","indexed":true}],"name":"LpOracleSet"}]

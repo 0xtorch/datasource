@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"previousPayee","internalType":"address","type":"address","indexed":true},{"name":"newPayee","internalType":"address","type":"address","indexed":true}],"name":"PayeeTransferred"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_pauseType","internalType":"bytes32","type":"bytes32"}],"name":"pauseByType","outputs":[],"stateMutability":"nonpayable"}]

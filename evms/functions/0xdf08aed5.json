@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_account","internalType":"address","type":"address"}],"name":"isPendingGovernor","outputs":[{"name":"_isPendingGovernor","internalType":"bool","type":"bool"}],"stateMutability":"view"}]

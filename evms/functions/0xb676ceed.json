@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"signer","internalType":"address","type":"address"},{"name":"enabled","internalType":"bool","type":"bool"}],"name":"setStakersPoolSigner","outputs":[],"stateMutability":"nonpayable"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"accountVersion","internalType":"uint256","type":"uint256"},{"name":"valid","internalType":"bool","type":"bool"}],"name":"setAccountVersion","outputs":[],"stateMutability":"nonpayable"}]

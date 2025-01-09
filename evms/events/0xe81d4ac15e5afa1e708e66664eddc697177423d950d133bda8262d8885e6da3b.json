@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"oldVenusVAIVaultRate","internalType":"uint256","type":"uint256","indexed":false},{"name":"newVenusVAIVaultRate","internalType":"uint256","type":"uint256","indexed":false}],"name":"NewVenusVAIVaultRate"}]

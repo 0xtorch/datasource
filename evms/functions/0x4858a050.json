@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_presaleWallet","internalType":"address","type":"address"},{"name":"_presaleRouter","internalType":"address","type":"address"}],"name":"setPresaleWalletandRouter","outputs":[],"stateMutability":"nonpayable"}]

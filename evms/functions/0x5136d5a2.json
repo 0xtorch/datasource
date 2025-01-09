@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_supportedToken","internalType":"address","type":"address"},{"name":"_vault","internalType":"address","type":"address"},{"name":"_isSet","internalType":"bool","type":"bool"}],"name":"setYPoolVault","outputs":[],"stateMutability":"nonpayable"}]

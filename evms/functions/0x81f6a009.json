@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_startLotteryRound","internalType":"uint256","type":"uint256"},{"name":"_finalLotteryRound","internalType":"uint256","type":"uint256"}],"name":"changeLotteryRounds","outputs":[],"stateMutability":"nonpayable"}]

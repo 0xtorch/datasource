@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"claimers","internalType":"address[]","type":"address[]"},{"name":"approvals","internalType":"bool[]","type":"bool[]"}],"name":"setClaimers","outputs":[],"stateMutability":"nonpayable"}]

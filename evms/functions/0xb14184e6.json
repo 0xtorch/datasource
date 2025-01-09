@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"leftPoint","internalType":"int24","type":"int24"},{"name":"rightPoint","internalType":"int24","type":"int24"}],"name":"liquiditySnapshot","outputs":[{"name":"deltaLiquidities","internalType":"int128[]","type":"int128[]"}],"stateMutability":"view"}]

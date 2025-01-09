@@ -1,0 +1,1 @@
+[{"type":"function","constant":false,"inputs":[{"name":"to","internalType":"address","type":"address"},{"name":"currencyCode","internalType":"string","type":"string"},{"name":"amount","internalType":"uint256","type":"uint256"}],"name":"depositTo","outputs":[],"payable":false,"stateMutability":"nonpayable"}]

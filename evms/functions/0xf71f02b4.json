@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_productId","internalType":"uint256","type":"uint256"},{"name":"_fundingMultiplier","internalType":"uint256","type":"uint256"}],"name":"setFundingMultiplier","outputs":[],"stateMutability":"nonpayable"}]

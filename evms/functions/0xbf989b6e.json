@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_safe","internalType":"address","type":"address"},{"name":"_dustbin","internalType":"address","type":"address"},{"name":"_profitController","internalType":"address","type":"address"},{"name":"_oracle","internalType":"address","type":"address"}],"name":"setContracts","outputs":[],"stateMutability":"nonpayable"}]

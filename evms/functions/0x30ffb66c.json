@@ -1,0 +1,1 @@
+[{"type":"function","constant":true,"inputs":[{"name":"_tokenAddress","internalType":"address","type":"address"},{"name":"_tokenNumber","internalType":"uint256","type":"uint256"}],"name":"getTokenAuctionsCount","outputs":[{"name":"","internalType":"uint256","type":"uint256"}],"payable":false,"stateMutability":"view"}]

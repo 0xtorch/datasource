@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"editor","internalType":"address","type":"address"},{"name":"insert","internalType":"bool","type":"bool"}],"name":"updateCustomEditor","outputs":[],"stateMutability":"nonpayable"}]

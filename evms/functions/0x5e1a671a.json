@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"depositID","internalType":"bytes32","type":"bytes32"},{"name":"withdrawalAmount","internalType":"uint256","type":"uint256"}],"name":"validateWithdrawal","outputs":[],"stateMutability":"nonpayable"}]

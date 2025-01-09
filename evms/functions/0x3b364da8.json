@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"newMinimumBalance","internalType":"uint256","type":"uint256"}],"name":"updateMinimumBalanceForDividends","outputs":[],"stateMutability":"nonpayable"}]

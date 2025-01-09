@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"parents","internalType":"struct ICNPRebornGimmick.Parents[]","type":"tuple[]","components":[{"name":"parent1","internalType":"uint256","type":"uint256"},{"name":"parent2","internalType":"uint256","type":"uint256"}]},{"name":"couponIds","internalType":"uint256[]","type":"uint256[]"}],"name":"reborn","outputs":[],"stateMutability":"payable"}]

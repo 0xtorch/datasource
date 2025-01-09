@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"name","internalType":"string","type":"string"},{"name":"duration","internalType":"uint256","type":"uint256"},{"name":"isUsePoints","internalType":"bool","type":"bool"}],"name":"renewWithPoint","outputs":[],"stateMutability":"payable"}]

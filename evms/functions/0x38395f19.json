@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"collectionInformation","internalType":"bytes","type":"bytes"},{"name":"collectionId","internalType":"bytes32","type":"bytes32"},{"name":"implementationType","internalType":"bytes32","type":"bytes32"}],"name":"createCrossCollection","outputs":[],"stateMutability":"payable"}]

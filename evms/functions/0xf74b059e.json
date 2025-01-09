@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_defaultPaymentToken","internalType":"contract IERC20","type":"address"}],"name":"setDefaultPaymentToken","outputs":[],"stateMutability":"nonpayable"}]

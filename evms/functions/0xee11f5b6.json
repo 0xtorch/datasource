@@ -1,0 +1,1 @@
+[{"type":"function","constant":false,"gas":145897,"inputs":[{"name":"amplification","type":"uint256"},{"name":"new_fee","type":"uint256"},{"name":"new_admin_fee","type":"uint256"}],"name":"commit_new_parameters","outputs":[],"payable":false,"stateMutability":"nonpayable"}]

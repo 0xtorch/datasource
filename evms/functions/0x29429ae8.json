@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"","internalType":"uint256","type":"uint256"}],"name":"_tokensToSwapIntoOnDeposit","outputs":[{"name":"v3Path","internalType":"bytes","type":"bytes"},{"name":"quoteToken","internalType":"address","type":"address"},{"name":"ratio","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"round","internalType":"uint256","type":"uint256","indexed":true},{"name":"partialGlpAmount","internalType":"uint256","type":"uint256","indexed":false},{"name":"partialShareAmount","internalType":"uint256","type":"uint256","indexed":false}],"name":"PartialBatchDeposit"}]

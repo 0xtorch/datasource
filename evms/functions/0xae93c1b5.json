@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"role","internalType":"bytes4","type":"bytes4"},{"name":"adminRole","internalType":"bytes4","type":"bytes4"}],"name":"setRoleAdmin","outputs":[],"stateMutability":"nonpayable"}]

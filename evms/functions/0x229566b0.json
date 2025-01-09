@@ -1,0 +1,1 @@
+[{"type":"function","constant":true,"inputs":[{"name":"_itemId","internalType":"","type":"uint256"}],"name":"deconstructItemId","outputs":[{"name":"_tokenType","internalType":"","type":"uint256"},{"name":"_tokenId","internalType":"","type":"uint256"}],"payable":false,"stateMutability":"pure"}]

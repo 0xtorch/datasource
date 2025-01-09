@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"tokenId","internalType":"bytes32","type":"bytes32"},{"name":"settleDuration","internalType":"uint48","type":"uint48"}],"name":"createToken","outputs":[],"stateMutability":"nonpayable"}]

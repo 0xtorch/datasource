@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"oldRewardContract","internalType":"address","type":"address","indexed":true},{"name":"newRewardContract","internalType":"address","type":"address","indexed":true},{"name":"rewardTokens","internalType":"address[]","type":"address[]","indexed":false}],"name":"RewardContractUpdated"}]

@@ -1,0 +1,1 @@
+[{"type":"function","constant":true,"inputs":[{"name":"marketId","type":"uint256"}],"name":"getMarketTotalPar","outputs":[{"name":"","type":"tuple","components":[{"name":"borrow","type":"uint128"},{"name":"supply","type":"uint128"}]}],"payable":false,"stateMutability":"view"}]

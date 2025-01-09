@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"tokenIDs","internalType":"uint256[]","type":"uint256[]"},{"name":"amounts","internalType":"uint256[]","type":"uint256[]"},{"name":"contractAddr","internalType":"address","type":"address"}],"name":"deposit","outputs":[],"stateMutability":"nonpayable"}]

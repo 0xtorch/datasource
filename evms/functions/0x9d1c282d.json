@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"newFarm","internalType":"contract IFarm","type":"address"}],"name":"changeFarmContract","outputs":[],"stateMutability":"nonpayable"}]

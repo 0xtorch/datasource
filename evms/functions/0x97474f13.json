@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"phaseIndex","internalType":"uint256","type":"uint256"},{"name":"quantity","internalType":"uint64","type":"uint64"},{"name":"proof","internalType":"bytes32[]","type":"bytes32[]"}],"name":"mintPhaseAllowlist","outputs":[],"stateMutability":"payable"}]

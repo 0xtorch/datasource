@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"paymentMethod","internalType":"address","type":"address"}],"name":"getMintPriceWithProtocolFee","outputs":[{"name":"price","internalType":"uint256","type":"uint256"},{"name":"protocolFee","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"user","internalType":"address","type":"address"},{"name":"userStakeId","internalType":"uint256","type":"uint256"},{"name":"rate","internalType":"uint256","type":"uint256"}],"name":"calcProfit","outputs":[{"name":"","internalType":"uint256","type":"uint256"},{"name":"","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"baseInterestRate","internalType":"uint256","type":"uint256","indexed":false},{"name":"floatingInterestRate","internalType":"uint256","type":"uint256","indexed":false}],"name":"InterestRateUpdated"}]

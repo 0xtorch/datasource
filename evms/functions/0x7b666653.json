@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_gauge","internalType":"address","type":"address"},{"name":"_token","internalType":"address","type":"address"}],"name":"migrateGauge","outputs":[],"stateMutability":"nonpayable"}]

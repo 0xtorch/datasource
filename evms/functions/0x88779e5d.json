@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"vaultId","internalType":"uint256","type":"uint256"},{"name":"_isD2Vault","internalType":"bool","type":"bool"}],"name":"setIsD2Vault","outputs":[],"stateMutability":"nonpayable"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"performanceFeeNumerator","internalType":"uint256","type":"uint256"},{"name":"managerFeeNumerator","internalType":"uint256","type":"uint256"},{"name":"entryFeeNumerator","internalType":"uint256","type":"uint256"}],"name":"setMaximumFee","outputs":[],"stateMutability":"nonpayable"}]

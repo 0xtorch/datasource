@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"oldGovernance","internalType":"address","type":"address","indexed":false},{"name":"newGovernance","internalType":"address","type":"address","indexed":false}],"name":"NewGovernance"}]

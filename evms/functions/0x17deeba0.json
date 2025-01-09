@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"qty","internalType":"uint64","type":"uint64"},{"name":"to","internalType":"address","type":"address"}],"name":"mint","outputs":[{"name":"","internalType":"bool","type":"bool"}],"stateMutability":"nonpayable"}]

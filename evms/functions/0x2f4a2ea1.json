@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"y","internalType":"uint256","type":"uint256"}],"name":"calcRarityFromIndex","outputs":[{"name":"","internalType":"enum IDice.TokenRarity","type":"uint8"}],"stateMutability":"pure"}]

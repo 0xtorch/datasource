@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"numerator","internalType":"address","type":"address"},{"name":"denominator","internalType":"address","type":"address"},{"name":"decimals","internalType":"uint256","type":"uint256"}],"name":"getRatio","outputs":[{"name":"ratio","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

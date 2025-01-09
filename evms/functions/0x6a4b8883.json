@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_to","internalType":"address","type":"address"},{"name":"_tokenURI","internalType":"string","type":"string"},{"name":"_bunnyId","internalType":"uint8","type":"uint8"}],"name":"mint","outputs":[{"name":"","internalType":"uint256","type":"uint256"}],"stateMutability":"nonpayable"}]

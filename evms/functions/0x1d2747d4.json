@@ -1,0 +1,1 @@
+[{"type":"function","gas":35981,"inputs":[{"name":"addr","type":"address"},{"name":"can_deposit","type":"bool"}],"name":"set_approve_deposit","outputs":[],"stateMutability":"nonpayable"}]

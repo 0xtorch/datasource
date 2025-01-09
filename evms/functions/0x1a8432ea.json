@@ -1,0 +1,1 @@
+[{"type":"function","constant":true,"inputs":[{"name":"_addr","type":"address"}],"name":"isUnLockedAccount","outputs":[{"name":"is_unlocked_account","type":"bool"}],"payable":false,"stateMutability":"view"}]

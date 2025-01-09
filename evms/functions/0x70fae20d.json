@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"beefyVault","internalType":"address","type":"address"},{"name":"tokenAmountOutMin","internalType":"uint256","type":"uint256"}],"name":"beefInETH","outputs":[],"stateMutability":"payable"}]

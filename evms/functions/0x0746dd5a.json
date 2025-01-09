@@ -1,0 +1,1 @@
+[{"type":"function","gas":148809,"inputs":[{"name":"new_fee","type":"uint256"},{"name":"new_admin_fee","type":"uint256"},{"name":"new_offpeg_fee_multiplier","type":"uint256"}],"name":"commit_new_fee","outputs":[],"stateMutability":"nonpayable"}]

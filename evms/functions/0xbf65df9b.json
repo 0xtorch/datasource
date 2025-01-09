@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"wallet","internalType":"address","type":"address"},{"name":"roundName","internalType":"string","type":"string"}],"name":"isQualify","outputs":[{"name":"","internalType":"bool","type":"bool"}],"stateMutability":"view"}]

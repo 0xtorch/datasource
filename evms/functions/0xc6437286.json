@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_tokenOwner","internalType":"address","type":"address"},{"name":"_tokenId","internalType":"uint256","type":"uint256"},{"name":"_claimersName","internalType":"string","type":"string"}],"name":"getMessageHash","outputs":[{"name":"","internalType":"bytes32","type":"bytes32"}],"stateMutability":"pure"}]

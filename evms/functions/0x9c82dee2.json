@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"variableRate","internalType":"address","type":"address"},{"name":"amount","internalType":"uint256","type":"uint256"}],"name":"withdrawVariableRate","outputs":[],"stateMutability":"nonpayable"}]

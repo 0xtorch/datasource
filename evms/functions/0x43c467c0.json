@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"","internalType":"uint32","type":"uint32"}],"name":"destinationGasConfigs","outputs":[{"name":"gasOracle","internalType":"contract IGasOracle","type":"address"},{"name":"gasOverhead","internalType":"uint96","type":"uint96"}],"stateMutability":"view"}]

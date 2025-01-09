@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"initiator","internalType":"address","type":"address"},{"name":"minimumMargin_","internalType":"uint256","type":"uint256"}],"name":"startLiquidation","outputs":[{"name":"startDebt","internalType":"uint256","type":"uint256"}],"stateMutability":"nonpayable"}]

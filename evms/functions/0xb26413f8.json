@@ -1,0 +1,1 @@
+[{"type":"function","constant":false,"inputs":[{"name":"impl","internalType":"address","type":"address"}],"name":"setNewImpl","outputs":[],"payable":false,"stateMutability":"nonpayable"}]

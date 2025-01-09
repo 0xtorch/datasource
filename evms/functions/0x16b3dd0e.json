@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"cashToAdd","internalType":"int256","type":"int256"},{"name":"shareToMint","internalType":"int256","type":"int256"}],"name":"queryAddLiquidity","outputs":[{"name":"cashToAddResult","internalType":"int256","type":"int256"},{"name":"shareToMintResult","internalType":"int256","type":"int256"}],"stateMutability":"view"}]

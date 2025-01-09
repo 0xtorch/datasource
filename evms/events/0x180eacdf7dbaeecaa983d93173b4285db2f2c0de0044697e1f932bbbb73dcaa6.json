@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"previousDuration","internalType":"uint24","type":"uint24","indexed":false},{"name":"newDuration","internalType":"uint24","type":"uint24","indexed":false}],"name":"CooldownDurationUpdated"}]

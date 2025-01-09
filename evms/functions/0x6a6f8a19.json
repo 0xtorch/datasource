@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_editionSize","internalType":"uint16","type":"uint16"},{"name":"_to","internalType":"address","type":"address"},{"name":"_uri","internalType":"string","type":"string"}],"name":"mintBatchEdition","outputs":[{"name":"_editionId","internalType":"uint256","type":"uint256"}],"stateMutability":"nonpayable"}]

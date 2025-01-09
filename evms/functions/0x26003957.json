@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"percent","internalType":"uint256","type":"uint256"},{"name":"divisor","internalType":"uint256","type":"uint256"}],"name":"setMaxWalletSize","outputs":[],"stateMutability":"nonpayable"}]

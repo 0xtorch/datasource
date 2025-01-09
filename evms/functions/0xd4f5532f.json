@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"l1Address","internalType":"address[]","type":"address[]"},{"name":"l2Address","internalType":"address[]","type":"address[]"}],"name":"registerTokenFromL1","outputs":[],"stateMutability":"nonpayable"}]

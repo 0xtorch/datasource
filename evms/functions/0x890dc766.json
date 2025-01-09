@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_bufferSeconds","internalType":"uint256","type":"uint256"},{"name":"_intervalSeconds","internalType":"uint256","type":"uint256"}],"name":"setBufferAndIntervalSeconds","outputs":[],"stateMutability":"nonpayable"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"baseTokenAmount","internalType":"uint256","type":"uint256"},{"name":"fractionalTokenAmount","internalType":"uint256","type":"uint256"},{"name":"lpTokenSupply","internalType":"uint256","type":"uint256"}],"name":"addQuote","outputs":[{"name":"","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

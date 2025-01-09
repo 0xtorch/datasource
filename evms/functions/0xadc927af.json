@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"proxiesList","internalType":"address[]","type":"address[]"},{"name":"values","internalType":"bool[]","type":"bool[]"}],"name":"setProxies","outputs":[],"stateMutability":"nonpayable"}]

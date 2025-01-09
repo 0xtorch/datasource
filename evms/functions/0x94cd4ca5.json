@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"tokenIdA","internalType":"uint256","type":"uint256"},{"name":"tokenIdB","internalType":"uint256","type":"uint256"}],"name":"parentSvgDataOf","outputs":[{"name":"","internalType":"string","type":"string"}],"stateMutability":"view"}]

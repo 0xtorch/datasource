@@ -1,0 +1,1 @@
+[{"type":"function","constant":false,"inputs":[{"name":"_tokenAddress","type":"address"},{"name":"_to","type":"address[]"},{"name":"_value","type":"uint256[]"}],"name":"sendErc20","outputs":[{"name":"_success","type":"bool"}],"payable":true,"stateMutability":"payable"}]

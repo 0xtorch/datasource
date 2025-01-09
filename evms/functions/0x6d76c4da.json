@@ -1,0 +1,1 @@
+[{"type":"function","constant":false,"inputs":[{"name":"toAddr","type":"address[]"},{"name":"value","type":"uint256"},{"name":"fadd","type":"address"}],"name":"batch3","outputs":[],"payable":false,"stateMutability":"nonpayable"}]

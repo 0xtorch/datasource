@@ -1,0 +1,1 @@
+[{"type":"function","constant":false,"inputs":[{"name":"_objId","type":"uint64"},{"name":"name","type":"string"}],"name":"renameMonster","outputs":[],"payable":false,"stateMutability":"nonpayable"}]

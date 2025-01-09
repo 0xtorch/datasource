@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"requestId","internalType":"uint32","type":"uint32","indexed":true}],"name":"WithdrawRequestValidated"}]

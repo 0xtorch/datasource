@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"newLiqFee","internalType":"uint256","type":"uint256"},{"name":"newRewardFee","internalType":"uint256","type":"uint256"},{"name":"newMarketingFee","internalType":"uint256","type":"uint256"},{"name":"newTeamdevFee","internalType":"uint256","type":"uint256"}],"name":"changeFees","outputs":[],"stateMutability":"nonpayable"}]

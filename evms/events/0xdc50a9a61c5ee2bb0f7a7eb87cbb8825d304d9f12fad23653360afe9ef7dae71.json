@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"delegate","internalType":"address","type":"address","indexed":false}],"name":"_setDelegate"}]

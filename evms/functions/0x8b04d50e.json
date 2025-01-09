@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"tokenId","internalType":"uint256","type":"uint256"},{"name":"seed","internalType":"uint256","type":"uint256"},{"name":"vibrant","internalType":"bool","type":"bool"}],"name":"getRandomColor","outputs":[{"name":"","internalType":"string","type":"string"}],"stateMutability":"view"}]

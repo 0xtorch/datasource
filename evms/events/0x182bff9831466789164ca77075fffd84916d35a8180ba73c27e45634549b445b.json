@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"subId","internalType":"uint64","type":"uint64","indexed":true},{"name":"consumer","internalType":"address","type":"address","indexed":false}],"name":"SubscriptionConsumerRemoved"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_signers","internalType":"address[]","type":"address[]"},{"name":"_signThreshold","internalType":"uint256","type":"uint256"}],"name":"adminUpdateSigners","outputs":[],"stateMutability":"nonpayable"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_insurance","internalType":"address","type":"address"},{"name":"_insuranceFeeBips","internalType":"uint256","type":"uint256"},{"name":"_withdrawalBuffer","internalType":"uint256","type":"uint256"}],"name":"setInsurance","outputs":[],"stateMutability":"nonpayable"}]

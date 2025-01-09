@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_app","internalType":"address","type":"address"},{"name":"_toChainID","internalType":"uint256","type":"uint256"},{"name":"_dataLength","internalType":"uint256","type":"uint256"}],"name":"calcSrcFees","outputs":[{"name":"","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_traits","internalType":"address","type":"address"},{"name":"_tower","internalType":"address","type":"address"},{"name":"_rand","internalType":"address","type":"address"}],"name":"setContracts","outputs":[],"stateMutability":"nonpayable"}]

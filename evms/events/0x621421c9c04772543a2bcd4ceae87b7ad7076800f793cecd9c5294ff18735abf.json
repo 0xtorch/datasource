@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"projectId","internalType":"uint256","type":"uint256","indexed":false},{"name":"isRevealed","internalType":"bool","type":"bool","indexed":false},{"name":"baseTokenURI","internalType":"string","type":"string","indexed":false}],"name":"ProjectRevealed"}]

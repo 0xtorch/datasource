@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_rewardRatePerSecond","internalType":"uint80","type":"uint80"}],"name":"rewardPerShare","outputs":[{"name":"","internalType":"uint128","type":"uint128"}],"stateMutability":"view"}]

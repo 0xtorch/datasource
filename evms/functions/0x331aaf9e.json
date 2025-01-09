@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[],"name":"getNftMarketAddress","outputs":[{"name":"market","internalType":"address","type":"address"}],"stateMutability":"view"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_bridgedToken","internalType":"address","type":"address"}],"name":"nativeTokenAddress","outputs":[{"name":"","internalType":"address","type":"address"}],"stateMutability":"view"}]

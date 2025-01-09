@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"owner","internalType":"address","type":"address"},{"name":"isOwner","internalType":"bool","type":"bool"}],"name":"setOwner","outputs":[],"stateMutability":"nonpayable"}]

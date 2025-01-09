@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_token","internalType":"address","type":"address"},{"name":"_maxAmount","internalType":"uint256","type":"uint256"}],"name":"setMaxOpenInterestPerAsset","outputs":[],"stateMutability":"nonpayable"}]

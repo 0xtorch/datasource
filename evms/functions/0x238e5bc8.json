@@ -1,0 +1,1 @@
+[{"type":"function","constant":false,"inputs":[{"name":"newOwner","internalType":"address","type":"address"}],"name":"_directTransferOwnership","outputs":[],"payable":false,"stateMutability":"nonpayable"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"creator","internalType":"address","type":"address"},{"name":"series","internalType":"uint256","type":"uint256"},{"name":"recipients","internalType":"address[]","type":"address[]"}],"name":"mint","outputs":[],"stateMutability":"nonpayable"}]

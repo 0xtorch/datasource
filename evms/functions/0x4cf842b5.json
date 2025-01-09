@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"emitter","internalType":"address","type":"address"}],"name":"nextSequence","outputs":[{"name":"","internalType":"uint64","type":"uint64"}],"stateMutability":"view"}]

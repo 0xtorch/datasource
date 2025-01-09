@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_onlyOwnerCanUpdateRegistry","internalType":"bool","type":"bool"}],"name":"restrictRegistryUpdate","outputs":[],"stateMutability":"nonpayable"}]

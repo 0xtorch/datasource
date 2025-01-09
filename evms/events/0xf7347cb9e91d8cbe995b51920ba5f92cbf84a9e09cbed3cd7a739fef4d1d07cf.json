@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"tokenId","internalType":"uint256","type":"uint256","indexed":true},{"name":"ask","internalType":"struct IMarket.Ask","type":"tuple","components":[{"name":"amount","internalType":"uint256","type":"uint256"},{"name":"currency","internalType":"address","type":"address"}],"indexed":false}],"name":"AskCreated"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"relayedAmount","internalType":"uint256","type":"uint256"}],"name":"getLiquidityUtilization","outputs":[{"name":"utilizationCurrent","internalType":"uint256","type":"uint256"},{"name":"utilizationPostRelay","internalType":"uint256","type":"uint256"}],"stateMutability":"nonpayable"}]

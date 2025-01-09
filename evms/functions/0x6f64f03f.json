@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"oracle","internalType":"address","type":"address"},{"name":"publicProvingKey","internalType":"uint256[2]","type":"uint256[2]"}],"name":"registerProvingKey","outputs":[],"stateMutability":"nonpayable"}]

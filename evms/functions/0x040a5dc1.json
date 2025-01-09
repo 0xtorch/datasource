@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"marginEngine","internalType":"contract IMarginEngine","type":"address"}],"name":"getCurrentTick","outputs":[{"name":"currentTick","internalType":"int24","type":"int24"}],"stateMutability":"view"}]

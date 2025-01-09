@@ -1,0 +1,1 @@
+[{"type":"function","constant":false,"inputs":[{"name":"user","type":"address"},{"name":"area","type":"uint32[]"}],"name":"collect","outputs":[],"payable":false,"stateMutability":"nonpayable"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_tokenId","internalType":"uint256","type":"uint256"}],"name":"tokenAttributes","outputs":[{"name":"attributes","internalType":"struct ForgeToken.TokenAttributes","type":"tuple","components":[{"name":"xp","internalType":"uint16","type":"uint16"},{"name":"isSpecialVariant","internalType":"bool","type":"bool"}]}],"stateMutability":"view"}]

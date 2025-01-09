@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"proxy","internalType":"address","type":"address","indexed":false},{"name":"selector","internalType":"bytes4","type":"bytes4","indexed":false}],"name":"FunctionRemoved"}]

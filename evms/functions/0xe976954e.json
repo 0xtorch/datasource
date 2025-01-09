@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"tokenAddress","internalType":"address","type":"address"},{"name":"tokenId","internalType":"uint256","type":"uint256"}],"name":"pendingNestTokens","outputs":[{"name":"","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

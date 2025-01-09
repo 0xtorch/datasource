@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_amounts","type":"uint256[2]"},{"name":"_is_deposit","type":"bool"},{"name":"_previous","type":"bool"}],"name":"calc_token_amount","outputs":[{"name":"","type":"uint256"}],"stateMutability":"view"}]

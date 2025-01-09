@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_erc20TokenContract","internalType":"address","type":"address"},{"name":"_isActive","internalType":"bool","type":"bool"},{"name":"_chargeAmountInTokens","internalType":"uint256","type":"uint256"}],"name":"addOrUpdateERC20ContractAsPayment","outputs":[],"stateMutability":"nonpayable"}]

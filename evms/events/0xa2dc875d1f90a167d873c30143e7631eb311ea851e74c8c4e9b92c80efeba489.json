@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"user","internalType":"address","type":"address","indexed":false},{"name":"usd","internalType":"uint64","type":"uint64","indexed":false},{"name":"errorCode","internalType":"uint32","type":"uint32","indexed":false}],"name":"FailedPermitDeposit"}]

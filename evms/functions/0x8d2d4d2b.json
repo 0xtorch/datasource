@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"routerContract","internalType":"contract IKatanaRouter","type":"address"}],"name":"setKatanaRouter","outputs":[],"stateMutability":"nonpayable"}]

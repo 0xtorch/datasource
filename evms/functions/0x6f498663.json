@@ -1,0 +1,1 @@
+[{"type":"function","constant":true,"inputs":[{"name":"delegator","internalType":"address","type":"address"},{"name":"validatorID","internalType":"uint256","type":"uint256"}],"name":"rewardsStash","outputs":[{"name":"","internalType":"uint256","type":"uint256"}],"payable":false,"stateMutability":"view"}]

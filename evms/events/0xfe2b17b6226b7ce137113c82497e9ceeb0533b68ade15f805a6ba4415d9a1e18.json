@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"newJoetroller","internalType":"contract IJoetroller","type":"address","indexed":true}],"name":"JoetrollerSet"}]

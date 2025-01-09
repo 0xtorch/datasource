@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"openPublic_","internalType":"bool","type":"bool","indexed":false}],"name":"EventSetOpenPublic"}]

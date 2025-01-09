@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"name","internalType":"string","type":"string"},{"name":"paused","internalType":"bool","type":"bool"}],"name":"setFuncPaused","outputs":[],"stateMutability":"nonpayable"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[],"name":"getSigners","outputs":[{"name":"ret","internalType":"address[]","type":"address[]"}],"stateMutability":"view"}]

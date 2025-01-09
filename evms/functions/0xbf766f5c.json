@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_token","internalType":"address","type":"address"},{"name":"_lpToken","internalType":"address","type":"address"}],"name":"setTokenToLPTokenMap","outputs":[],"stateMutability":"nonpayable"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_tranche","internalType":"address","type":"address"}],"name":"getTrancheValue","outputs":[{"name":"sum","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

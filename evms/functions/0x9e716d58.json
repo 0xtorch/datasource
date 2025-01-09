@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"account","internalType":"address","type":"address"},{"name":"vault","internalType":"address","type":"address"}],"name":"isCollateralEnabled","outputs":[{"name":"","internalType":"bool","type":"bool"}],"stateMutability":"view"}]

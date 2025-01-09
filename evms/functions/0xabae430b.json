@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"id","internalType":"uint256","type":"uint256"},{"name":"newTokenEthPrice","internalType":"uint256","type":"uint256"}],"name":"setTokenEthPrice","outputs":[],"stateMutability":"nonpayable"}]

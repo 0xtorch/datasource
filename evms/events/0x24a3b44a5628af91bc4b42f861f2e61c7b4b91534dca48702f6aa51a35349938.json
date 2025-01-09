@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"addedBy","internalType":"address","type":"address","indexed":true},{"name":"accounts","internalType":"address[]","type":"address[]","indexed":false},{"name":"statuses","internalType":"bool[]","type":"bool[]","indexed":false}],"name":"PausersSet"}]

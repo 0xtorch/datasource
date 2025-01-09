@@ -1,0 +1,1 @@
+[{"type":"function","constant":false,"inputs":[{"name":"newCreditLimitManager","internalType":"address","type":"address"}],"name":"_setCreditLimitManager","outputs":[],"payable":false,"stateMutability":"nonpayable"}]

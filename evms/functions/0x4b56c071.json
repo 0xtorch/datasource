@@ -1,0 +1,1 @@
+[{"type":"function","constant":false,"inputs":[{"name":"maxDepositAmount","internalType":"uint256","type":"uint256"}],"name":"updateMaxErc20Deposit","outputs":[],"payable":false,"stateMutability":"nonpayable"}]

@@ -1,0 +1,1 @@
+[{"type":"function","constant":false,"inputs":[{"name":"_address","type":"address"},{"name":"isWhitelisted","type":"bool"}],"name":"editWhitelist","outputs":[{"name":"","type":"bool"}],"payable":false,"stateMutability":"nonpayable"}]

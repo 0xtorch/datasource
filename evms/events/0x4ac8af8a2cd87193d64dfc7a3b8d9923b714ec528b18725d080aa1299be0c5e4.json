@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"transactionId","internalType":"bytes32","type":"bytes32","indexed":true},{"name":"relayer","internalType":"address","type":"address","indexed":true},{"name":"transactionHash","internalType":"bytes32","type":"bytes32","indexed":false}],"name":"BridgeProofProvided"}]

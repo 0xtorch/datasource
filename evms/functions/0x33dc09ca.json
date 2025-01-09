@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"newBondToken","internalType":"contract IERC20","type":"address"},{"name":"newBondAmount","internalType":"uint256","type":"uint256"}],"name":"setBond","outputs":[],"stateMutability":"nonpayable"}]

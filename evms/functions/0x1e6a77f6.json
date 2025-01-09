@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_proof","internalType":"bytes32[]","type":"bytes32[]"},{"name":"_allowedCount","internalType":"uint256","type":"uint256"},{"name":"_count","internalType":"uint16","type":"uint16"}],"name":"presaleMint","outputs":[],"stateMutability":"payable"}]

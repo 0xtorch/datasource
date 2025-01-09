@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[],"name":"clRequestConfig","outputs":[{"name":"keyHash","internalType":"bytes32","type":"bytes32"},{"name":"subscriptionId","internalType":"uint64","type":"uint64"},{"name":"requestConfirmations","internalType":"uint16","type":"uint16"},{"name":"callbackGasLimit","internalType":"uint32","type":"uint32"}],"stateMutability":"view"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"reserveId","internalType":"uint256","type":"uint256"}],"name":"exchangeRateOfReserve","outputs":[{"name":"","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

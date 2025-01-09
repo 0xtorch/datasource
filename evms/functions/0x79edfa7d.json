@@ -1,0 +1,1 @@
+[{"type":"function","constant":false,"inputs":[{"name":"_metadataUrlPrefix","type":"string"},{"name":"_metadataUrlSuffix","type":"string"}],"name":"setMetadataUrl","outputs":[],"payable":false,"stateMutability":"nonpayable"}]

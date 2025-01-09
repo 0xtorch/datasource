@@ -1,0 +1,1 @@
+[{"type":"function","gas":2850597,"inputs":[{"name":"i","type":"int128"},{"name":"j","type":"int128"},{"name":"dy","type":"uint256"}],"name":"get_dx","outputs":[{"name":"","type":"uint256"}],"stateMutability":"view"}]

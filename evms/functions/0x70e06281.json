@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"tokenAddress","internalType":"address","type":"address"}],"name":"overrideAllowed","outputs":[{"name":"","internalType":"bool","type":"bool"}],"stateMutability":"view"}]

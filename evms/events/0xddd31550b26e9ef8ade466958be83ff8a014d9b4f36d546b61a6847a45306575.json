@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"oldTolerance","internalType":"uint256","type":"uint256","indexed":false},{"name":"newTolerance","internalType":"uint256","type":"uint256","indexed":false}],"name":"SlippageToleranceUpdated"}]

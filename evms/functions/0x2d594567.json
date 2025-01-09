@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_status","internalType":"bool","type":"bool"},{"name":"_interval","internalType":"uint8","type":"uint8"}],"name":"cooldownEnabled","outputs":[],"stateMutability":"nonpayable"}]

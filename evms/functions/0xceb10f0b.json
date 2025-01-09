@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_addr","internalType":"address","type":"address"},{"name":"_discount","internalType":"uint256","type":"uint256"}],"name":"setPremiumMembershipDiscount","outputs":[{"name":"success","internalType":"bool","type":"bool"}],"stateMutability":"nonpayable"}]

@@ -1,0 +1,1 @@
+[{"type":"function","constant":true,"inputs":[{"name":"","internalType":"uint64","type":"uint64"}],"name":"proxyHashMap","outputs":[{"name":"","internalType":"bytes","type":"bytes"}],"payable":false,"stateMutability":"view"}]

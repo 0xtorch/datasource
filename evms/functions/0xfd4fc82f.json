@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"account","internalType":"address","type":"address"},{"name":"targetVersion","internalType":"uint256","type":"uint256"}],"name":"refreshBalance","outputs":[],"stateMutability":"nonpayable"}]

@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"user","internalType":"address","type":"address","indexed":true},{"name":"agent","internalType":"address","type":"address","indexed":true},{"name":"approval","internalType":"bool","type":"bool","indexed":false}],"name":"Approved"}]

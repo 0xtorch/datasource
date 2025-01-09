@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"newTierLevels","internalType":"uint256[]","type":"uint256[]"},{"name":"newTierSlopes","internalType":"uint256[]","type":"uint256[]"}],"name":"changeTierSystem","outputs":[],"stateMutability":"nonpayable"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_daoOmniStaking","internalType":"address","type":"address"},{"name":"_reserveTreasury","internalType":"address","type":"address"}],"name":"reinit_setupMigrate","outputs":[],"stateMutability":"nonpayable"}]

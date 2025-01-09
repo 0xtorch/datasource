@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"newSwapMaxMultiplier","internalType":"uint256","type":"uint256"},{"name":"newSwapMinDivisor","internalType":"uint256","type":"uint256"},{"name":"newMinSwaps","internalType":"uint256","type":"uint256"}],"name":"setStructure","outputs":[],"stateMutability":"nonpayable"}]

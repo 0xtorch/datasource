@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"oldPlatformCut","internalType":"uint64","type":"uint64","indexed":false},{"name":"newPlatformCut","internalType":"uint64","type":"uint64","indexed":false}],"name":"StrategistPlatformCutChanged"}]

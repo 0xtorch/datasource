@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"agent","type":"address","indexed":false}],"name":"UpgradeAgentSet"}]

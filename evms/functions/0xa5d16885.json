@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_realmId","internalType":"uint256","type":"uint256"},{"name":"_queueSlot","internalType":"uint256","type":"uint256"},{"name":"_hours","internalType":"uint256","type":"uint256"}],"name":"addToBuildQueue","outputs":[],"stateMutability":"nonpayable"}]

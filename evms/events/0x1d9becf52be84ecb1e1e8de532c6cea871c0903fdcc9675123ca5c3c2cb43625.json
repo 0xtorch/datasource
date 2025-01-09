@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"catId","type":"bytes5","indexed":true},{"name":"price","type":"uint256","indexed":false},{"name":"from","type":"address","indexed":true},{"name":"to","type":"address","indexed":true}],"name":"CatAdopted"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"kind","internalType":"uint8","type":"uint8"},{"name":"sender","internalType":"address","type":"address"},{"name":"messageDataHash","internalType":"bytes32","type":"bytes32"}],"name":"enqueueDelayedMessage","outputs":[{"name":"","internalType":"uint256","type":"uint256"}],"stateMutability":"payable"}]

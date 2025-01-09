@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_whitelistedAccountsRoot","internalType":"bytes32","type":"bytes32"}],"name":"setWhitelistedAccountsRoot","outputs":[],"stateMutability":"nonpayable"}]

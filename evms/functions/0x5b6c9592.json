@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"newAddress","internalType":"address","type":"address"}],"name":"addSenderExcludedAddresses","outputs":[{"name":"","internalType":"bool","type":"bool"}],"stateMutability":"nonpayable"}]

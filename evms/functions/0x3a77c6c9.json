@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"pointer","internalType":"address","type":"address"}],"name":"addPointer","outputs":[{"name":"checksum","internalType":"bytes32","type":"bytes32"}],"stateMutability":"nonpayable"}]

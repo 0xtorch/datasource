@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"i","type":"int128"},{"name":"j","type":"int128"}],"name":"dynamic_fee","outputs":[{"name":"","type":"uint256"}],"stateMutability":"view"}]

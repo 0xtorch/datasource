@@ -1,0 +1,1 @@
+[{"type":"function","constant":false,"inputs":[{"name":"reserve0","internalType":"uint112","type":"uint112"},{"name":"reserve1","internalType":"uint112","type":"uint112"}],"name":"emitSync","outputs":[],"payable":false,"stateMutability":"nonpayable"}]

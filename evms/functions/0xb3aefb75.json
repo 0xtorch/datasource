@@ -1,0 +1,1 @@
+[{"type":"function","constant":true,"inputs":[{"name":"beneficiary","type":"address"}],"name":"getCap","outputs":[{"name":"","type":"uint256"}],"payable":false,"stateMutability":"view"}]

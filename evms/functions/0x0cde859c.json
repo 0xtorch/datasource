@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"tranche","internalType":"uint256","type":"uint256"}],"name":"trancheTotalSupply","outputs":[{"name":"","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

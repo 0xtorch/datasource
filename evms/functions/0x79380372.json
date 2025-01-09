@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"account","internalType":"address","type":"address"},{"name":"ito_start_time","internalType":"uint256","type":"uint256"}],"name":"logQualified","outputs":[{"name":"qualified","internalType":"bool","type":"bool"}],"stateMutability":"nonpayable"}]

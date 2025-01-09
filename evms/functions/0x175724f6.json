@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"nodeIndex","internalType":"uint256","type":"uint256"}],"name":"getNodeParent","outputs":[{"name":"parentIndex","internalType":"uint256","type":"uint256"},{"name":"parentPool","internalType":"address","type":"address"}],"stateMutability":"view"}]

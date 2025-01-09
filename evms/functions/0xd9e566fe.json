@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"newConfig","internalType":"contract GoldfinchConfig","type":"address"}],"name":"closeOutMigration","outputs":[],"stateMutability":"nonpayable"}]

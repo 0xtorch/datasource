@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_receiverContract","internalType":"address","type":"address"}],"name":"setClaimReceiverContract","outputs":[],"stateMutability":"nonpayable"}]

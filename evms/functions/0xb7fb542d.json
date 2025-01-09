@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"strike","internalType":"uint256","type":"uint256"},{"name":"maturity","internalType":"uint256","type":"uint256"},{"name":"position","internalType":"enum TimeswapV2OptionPosition","type":"uint8"}],"name":"totalPosition","outputs":[{"name":"","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

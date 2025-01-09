@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_data","internalType":"struct EndGame.MerkleNode[]","type":"tuple[]","components":[{"name":"group","internalType":"uint256","type":"uint256"},{"name":"quantity","internalType":"uint256","type":"uint256"},{"name":"proofs","internalType":"bytes32[]","type":"bytes32[]"}]}],"name":"whitelistMint","outputs":[],"stateMutability":"nonpayable"}]

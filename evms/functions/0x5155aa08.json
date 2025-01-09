@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"refundMerkleRoot_","internalType":"bytes32","type":"bytes32"},{"name":"numberOfWinningTickets_","internalType":"uint256","type":"uint256"},{"name":"to_","internalType":"address payable","type":"address"}],"name":"finalizeSale","outputs":[],"stateMutability":"nonpayable"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_disputeToken","internalType":"contract IERC20","type":"address"}],"name":"setDisputeToken","outputs":[],"stateMutability":"nonpayable"}]

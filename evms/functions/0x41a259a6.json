@@ -1,0 +1,1 @@
+[{"type":"function","constant":true,"inputs":[],"name":"nonceHolder","outputs":[{"name":"","internalType":"contract ERC1155SaleNonceHolder","type":"address"}],"payable":false,"stateMutability":"view"}]

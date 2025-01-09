@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_newFactorA","internalType":"uint64","type":"uint64"},{"name":"_newFactorB","internalType":"uint64","type":"uint64"}],"name":"setFlashCloseFee","outputs":[],"stateMutability":"nonpayable"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"bid","internalType":"uint16","type":"uint16"},{"name":"p","internalType":"uint256","type":"uint256"}],"name":"changeGSBracketPrice","outputs":[],"stateMutability":"nonpayable"}]

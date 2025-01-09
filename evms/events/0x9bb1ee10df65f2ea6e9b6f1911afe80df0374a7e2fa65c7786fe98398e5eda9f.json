@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"oldLayerZeroEndpoint","internalType":"address","type":"address","indexed":false},{"name":"newLayerZeroEndpoint","internalType":"address","type":"address","indexed":false}],"name":"ModLayerZeroEndpoint"}]

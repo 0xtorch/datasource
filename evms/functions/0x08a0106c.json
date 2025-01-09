@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[],"name":"getParentMarketPositionsUint","outputs":[{"name":"position1","internalType":"uint256","type":"uint256"},{"name":"position2","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

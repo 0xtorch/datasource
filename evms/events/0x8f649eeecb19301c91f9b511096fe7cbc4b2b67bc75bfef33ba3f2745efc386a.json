@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"_sellTax","internalType":"uint8","type":"uint8","indexed":false},{"name":"_buyTax","internalType":"uint8","type":"uint8","indexed":false},{"name":"_transferTax","internalType":"uint8","type":"uint8","indexed":false}],"name":"changeTax"}]

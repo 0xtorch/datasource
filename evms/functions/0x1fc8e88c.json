@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"transferrer","internalType":"address","type":"address"},{"name":"allowed","internalType":"bool","type":"bool"}],"name":"setIsAllowedToTransfer","outputs":[],"stateMutability":"nonpayable"}]

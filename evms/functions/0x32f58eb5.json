@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"mintFeeRecipient_","internalType":"address","type":"address"}],"name":"setDefaultMintFeeRecipient","outputs":[],"stateMutability":"nonpayable"}]

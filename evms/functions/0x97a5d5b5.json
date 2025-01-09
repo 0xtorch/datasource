@@ -1,0 +1,1 @@
+[{"type":"function","constant":true,"inputs":[{"name":"account","internalType":"address","type":"address"}],"name":"statusOf","outputs":[{"name":"","internalType":"enum PoolAccount.Status","type":"uint8"}],"payable":false,"stateMutability":"view"}]

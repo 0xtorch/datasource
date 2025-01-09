@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"strategy","type":"address"},{"name":"assets_needed","type":"uint256"}],"name":"assess_share_of_unrealised_losses","outputs":[{"name":"","type":"uint256"}],"stateMutability":"view"}]

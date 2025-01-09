@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_payToken","internalType":"address","type":"address"},{"name":"_accept","internalType":"bool","type":"bool"}],"name":"setAcceptPayToken","outputs":[],"stateMutability":"nonpayable"}]

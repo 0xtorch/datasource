@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"landTokenIds","internalType":"uint256[]","type":"uint256[]"},{"name":"championTokenIds","internalType":"uint256[]","type":"uint256[]"},{"name":"vault","internalType":"address","type":"address"}],"name":"delegatedUnstake","outputs":[],"stateMutability":"nonpayable"}]

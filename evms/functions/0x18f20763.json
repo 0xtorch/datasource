@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_recipients","internalType":"address[]","type":"address[]"},{"name":"_value","internalType":"uint256","type":"uint256"},{"name":"_afCode","internalType":"string","type":"string"}],"name":"singleValueEthAirrop","outputs":[{"name":"","internalType":"bool","type":"bool"}],"stateMutability":"payable"}]

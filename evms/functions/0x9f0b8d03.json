@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"sft_","internalType":"address","type":"address"},{"name":"slot_","internalType":"uint256","type":"uint256"}],"name":"getERC20","outputs":[{"name":"","internalType":"address","type":"address"}],"stateMutability":"view"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"to","internalType":"address","type":"address"},{"name":"domain","internalType":"string","type":"string"},{"name":"tld","internalType":"string","type":"string"}],"name":"registerDomain","outputs":[],"stateMutability":"nonpayable"}]

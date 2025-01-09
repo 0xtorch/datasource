@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"account","internalType":"address","type":"address"},{"name":"_trancheIds","internalType":"uint256[]","type":"uint256[]"},{"name":"_balances","internalType":"uint256[]","type":"uint256[]"},{"name":"_merkleProofs","internalType":"bytes32[][]","type":"bytes32[][]"}],"name":"claims","outputs":[],"stateMutability":"nonpayable"}]

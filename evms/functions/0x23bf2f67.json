@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"targetAddress","internalType":"address","type":"address"}],"name":"ownerCheck","outputs":[{"name":"","internalType":"bool","type":"bool"}],"stateMutability":"view"}]

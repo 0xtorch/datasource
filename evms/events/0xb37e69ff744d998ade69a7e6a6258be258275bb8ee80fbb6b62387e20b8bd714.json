@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"cooldownSeconds","internalType":"uint40","type":"uint40","indexed":false}],"name":"SetCooldownSecForProtocolFee"}]

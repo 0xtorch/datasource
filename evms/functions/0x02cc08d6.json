@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"tokenId","internalType":"uint256","type":"uint256"},{"name":"_achvURI","internalType":"string","type":"string"}],"name":"addAchievement","outputs":[],"stateMutability":"nonpayable"}]

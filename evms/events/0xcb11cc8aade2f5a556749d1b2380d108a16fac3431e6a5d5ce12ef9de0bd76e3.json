@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"caller","internalType":"address","type":"address","indexed":true},{"name":"guardian","internalType":"address","type":"address","indexed":true}],"name":"SetGuardian"}]

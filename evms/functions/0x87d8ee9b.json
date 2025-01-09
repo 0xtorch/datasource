@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_settlementPrice","internalType":"uint256","type":"uint256"},{"name":"_settlementCollateralExchangeRate","internalType":"uint256","type":"uint256"}],"name":"expire","outputs":[],"stateMutability":"nonpayable"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"amountToken0","internalType":"uint256","type":"uint256"}],"name":"calculateAmount1ForAmount0","outputs":[{"name":"","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

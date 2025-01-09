@@ -1,0 +1,1 @@
+[{"type":"function","constant":false,"inputs":[{"name":"newProposerBonus","internalType":"uint256","type":"uint256"},{"name":"oldProposerBonus","internalType":"uint256","type":"uint256"}],"name":"logProposerBonusChange","outputs":[],"payable":false,"stateMutability":"nonpayable"}]

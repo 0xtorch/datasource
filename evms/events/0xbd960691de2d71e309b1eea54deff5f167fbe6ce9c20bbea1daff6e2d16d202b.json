@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"settings","internalType":"uint8[3]","type":"uint8[3]","indexed":false}],"name":"SettingsChanged"}]

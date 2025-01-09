@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"idx","internalType":"uint32","type":"uint32"},{"name":"tokenUri","internalType":"string","type":"string"}],"name":"setTokenUri","outputs":[],"stateMutability":"nonpayable"}]

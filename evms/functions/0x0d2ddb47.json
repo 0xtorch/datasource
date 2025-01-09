@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"index","internalType":"uint256","type":"uint256"}],"name":"getShareRecipientByIndex","outputs":[{"name":"recipient","internalType":"address payable","type":"address"}],"stateMutability":"view"}]

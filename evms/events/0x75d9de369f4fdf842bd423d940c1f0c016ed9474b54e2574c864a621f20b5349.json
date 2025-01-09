@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"_to","internalType":"address","type":"address","indexed":true},{"name":"_token","internalType":"address","type":"address","indexed":false},{"name":"_balance","internalType":"uint256","type":"uint256","indexed":true}],"name":"returnedUninvestedFunds"}]

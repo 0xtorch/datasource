@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_bonusDividendTracker","internalType":"address","type":"address"},{"name":"_bonusMintRate","internalType":"uint256","type":"uint256"},{"name":"_membershipThreshold","internalType":"uint256","type":"uint256"}],"name":"setBonusDividendTracker","outputs":[],"stateMutability":"nonpayable"}]

@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"oldTokenSupply","type":"uint256","indexed":false},{"name":"newTokenSupply","type":"uint256","indexed":false},{"name":"originalSupply","type":"uint256","indexed":false},{"name":"value","type":"uint256","indexed":false}],"name":"InvariantCheckFailed"}]

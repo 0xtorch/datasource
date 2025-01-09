@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"peerChainId","internalType":"uint16","type":"uint16"},{"name":"peerContract","internalType":"bytes32","type":"bytes32"}],"name":"setWormholePeer","outputs":[],"stateMutability":"payable"}]

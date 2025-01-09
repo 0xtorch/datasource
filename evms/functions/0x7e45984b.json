@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_tokenID","internalType":"uint256","type":"uint256"},{"name":"_signaturePrefix","internalType":"string","type":"string"}],"name":"updateSignaturePrefix","outputs":[],"stateMutability":"nonpayable"}]

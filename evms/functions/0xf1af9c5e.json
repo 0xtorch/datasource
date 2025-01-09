@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"identifier","internalType":"uint256","type":"uint256"},{"name":"_minDomainLength","internalType":"uint256","type":"uint256"}],"name":"setMinDomainLength","outputs":[],"stateMutability":"nonpayable"}]

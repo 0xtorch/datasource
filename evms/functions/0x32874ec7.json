@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"arg0","type":"address"},{"name":"arg1","type":"address"}],"name":"borrow_approvals","outputs":[{"name":"","type":"uint256"}],"stateMutability":"view"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"tokenIds","internalType":"uint256[]","type":"uint256[]"},{"name":"maxInputAmount","internalType":"uint256","type":"uint256"},{"name":"deadline","internalType":"uint256","type":"uint256"}],"name":"nftBuy","outputs":[{"name":"inputAmount","internalType":"uint256","type":"uint256"}],"stateMutability":"payable"}]

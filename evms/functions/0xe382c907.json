@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"newRegistry","internalType":"address","type":"address"}],"name":"setCustomMarketplaceFiltererRegistryAndRegisterDefaultSubscription","outputs":[],"stateMutability":"nonpayable"}]

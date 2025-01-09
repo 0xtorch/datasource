@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_requestId","internalType":"bytes32","type":"bytes32"},{"name":"_refundee","internalType":"address","type":"address"},{"name":"_callback","internalType":"address","type":"address"}],"name":"sendRequest","outputs":[],"stateMutability":"payable"}]

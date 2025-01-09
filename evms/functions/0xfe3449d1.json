@@ -1,0 +1,1 @@
+[{"type":"function","constant":false,"inputs":[{"name":"packType","internalType":"enum Pack.Type","type":"uint8"},{"name":"count","internalType":"uint16","type":"uint16"},{"name":"referrer","internalType":"address","type":"address"}],"name":"purchase","outputs":[{"name":"","internalType":"uint256","type":"uint256"}],"payable":true,"stateMutability":"payable"}]

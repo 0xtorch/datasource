@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"supporter","internalType":"address","type":"address"},{"name":"power","internalType":"int256","type":"int256"}],"name":"changeSupportedPower","outputs":[],"stateMutability":"nonpayable"}]

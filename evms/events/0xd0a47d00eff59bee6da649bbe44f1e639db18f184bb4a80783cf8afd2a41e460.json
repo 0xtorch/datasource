@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"oracle","internalType":"address","type":"address","indexed":false},{"name":"required","internalType":"bool","type":"bool","indexed":false},{"name":"isValid","internalType":"bool","type":"bool","indexed":false}],"name":"UpdateOracle"}]

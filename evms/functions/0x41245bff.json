@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_messageTokenToBurn","internalType":"address[]","type":"address[]"},{"name":"_nftID","internalType":"uint256","type":"uint256"}],"name":"burnMessageNFTs","outputs":[],"stateMutability":"nonpayable"}]

@@ -1,0 +1,1 @@
+[{"type":"function","constant":true,"inputs":[],"name":"curvePool","outputs":[{"name":"","internalType":"contract ICurve","type":"address"}],"payable":false,"stateMutability":"view"}]

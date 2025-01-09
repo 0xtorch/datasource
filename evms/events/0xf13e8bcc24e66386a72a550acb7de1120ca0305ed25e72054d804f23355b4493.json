@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"debtRatio","internalType":"uint256","type":"uint256","indexed":false},{"name":"swapAmount","internalType":"uint256","type":"uint256","indexed":false},{"name":"slippage","internalType":"uint256","type":"uint256","indexed":false}],"name":"DebtRebalance"}]

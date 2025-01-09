@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_addresses","internalType":"address[]","type":"address[]"},{"name":"acrossRewardBytes","internalType":"bytes","type":"bytes"}],"name":"initAcross","outputs":[],"stateMutability":"nonpayable"}]

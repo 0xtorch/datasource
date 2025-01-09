@@ -1,0 +1,1 @@
+[{"type":"function","constant":true,"inputs":[],"name":"burnContract","outputs":[{"name":"","internalType":"contract RPGBurn","type":"address"}],"payable":false,"stateMutability":"view"}]

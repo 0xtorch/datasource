@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"referee","internalType":"address","type":"address","indexed":true},{"name":"code","internalType":"string","type":"string","indexed":false},{"name":"tokenIdBefore","internalType":"uint256","type":"uint256","indexed":false},{"name":"tokenIdAfter","internalType":"uint256","type":"uint256","indexed":false}],"name":"CodeBound"}]

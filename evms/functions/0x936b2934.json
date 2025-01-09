@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"newProjectBuyTaxBasisPoints_","internalType":"uint16","type":"uint16"},{"name":"newProjectSellTaxBasisPoints_","internalType":"uint16","type":"uint16"}],"name":"setProjectTaxRates","outputs":[],"stateMutability":"nonpayable"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_historyContract","internalType":"address","type":"address"},{"name":"_gameCode","internalType":"uint256","type":"uint256"}],"name":"setRevisionHistory","outputs":[],"stateMutability":"nonpayable"}]

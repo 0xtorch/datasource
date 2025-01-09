@@ -1,0 +1,1 @@
+[{"type":"function","constant":false,"inputs":[{"name":"_addr","type":"address"},{"name":"_dadId","type":"uint40"}],"name":"approveBreeding","outputs":[],"payable":false,"stateMutability":"nonpayable"}]

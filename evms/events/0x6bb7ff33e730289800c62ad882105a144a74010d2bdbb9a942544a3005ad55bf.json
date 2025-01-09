@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"newGuardian","internalType":"address","type":"address","indexed":false}],"name":"GuardianUpdated"}]

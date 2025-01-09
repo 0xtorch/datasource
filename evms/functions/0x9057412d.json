@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"recipientChain","internalType":"uint16","type":"uint16"},{"name":"transceiverInstructions","internalType":"bytes","type":"bytes"}],"name":"quoteDeliveryPrice","outputs":[{"name":"","internalType":"uint256[]","type":"uint256[]"},{"name":"","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"dropper","internalType":"address","type":"address","indexed":false},{"name":"authorized","internalType":"bool","type":"bool","indexed":false}],"name":"AuthorizedDropper"}]

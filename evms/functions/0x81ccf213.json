@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"req","internalType":"struct RangoAccessManagerFacet.whitelistRequest[]","type":"tuple[]","components":[{"name":"contractAddress","internalType":"address","type":"address"},{"name":"methodIds","internalType":"bytes4[]","type":"bytes4[]"}]}],"name":"addWhitelistContract","outputs":[],"stateMutability":"nonpayable"}]

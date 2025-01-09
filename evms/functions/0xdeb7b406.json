@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"baseURI","internalType":"string","type":"string"},{"name":"TokenMode","internalType":"uint256","type":"uint256"}],"name":"setExtraURI","outputs":[],"stateMutability":"nonpayable"}]

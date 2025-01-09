@@ -1,0 +1,1 @@
+[{"type":"function","constant":false,"inputs":[{"name":"_tokenId","type":"uint256"},{"name":"_attachment","type":"uint256"}],"name":"addAttachmentToCollectible","outputs":[],"payable":false,"stateMutability":"nonpayable"}]

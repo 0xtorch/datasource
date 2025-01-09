@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"token","internalType":"uint16","type":"uint16","indexed":true},{"name":"paused","internalType":"bool","type":"bool","indexed":false}],"name":"TokenPausedUpdate"}]

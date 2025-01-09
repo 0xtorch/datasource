@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"user","internalType":"address","type":"address","indexed":true},{"name":"pool","internalType":"address","type":"address","indexed":true},{"name":"tokenIds","internalType":"uint256[]","type":"uint256[]","indexed":false}],"name":"StakeNFT"}]

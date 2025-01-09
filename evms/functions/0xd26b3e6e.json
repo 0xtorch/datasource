@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"vat_","internalType":"address","type":"address"},{"name":"ilk_","internalType":"bytes32","type":"bytes32"},{"name":"gem_","internalType":"address","type":"address"}],"name":"initialize","outputs":[],"stateMutability":"nonpayable"}]

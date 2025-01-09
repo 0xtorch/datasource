@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"baseURI","internalType":"string","type":"string"},{"name":"tokenSuffix","internalType":"string","type":"string"}],"name":"setBaseUri","outputs":[],"stateMutability":"nonpayable"}]

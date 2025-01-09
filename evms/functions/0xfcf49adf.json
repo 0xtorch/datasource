@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"serial","internalType":"uint256","type":"uint256"}],"name":"cardType","outputs":[{"name":"","internalType":"enum ethercards.CardType","type":"uint8"}],"stateMutability":"view"}]

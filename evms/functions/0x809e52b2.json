@@ -1,0 +1,1 @@
+[{"type":"function","constant":false,"inputs":[{"name":"_fighterId","type":"uint256"},{"name":"_experience","type":"uint32"}],"name":"updateExperience","outputs":[],"payable":false,"stateMutability":"nonpayable"}]

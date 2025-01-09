@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"bridges","internalType":"address[]","type":"address[]"},{"name":"tokensToApprove","internalType":"address[]","type":"address[]"}],"name":"setApprovalForHopBridges","outputs":[],"stateMutability":"nonpayable"}]

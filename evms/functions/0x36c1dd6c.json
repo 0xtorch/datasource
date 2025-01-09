@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"newConfig","internalType":"contract GoldfinchConfig","type":"address"},{"name":"creditLinesToMigrate","internalType":"address[][]","type":"address[][]"},{"name":"migrationData","internalType":"uint256[][]","type":"uint256[][]"}],"name":"migrateCreditLines","outputs":[],"stateMutability":"nonpayable"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_token","internalType":"contract IERC20","type":"address"},{"name":"_accounts","internalType":"address[]","type":"address[]"},{"name":"_amounts","internalType":"uint256[]","type":"uint256[]"},{"name":"_typeId","internalType":"uint256","type":"uint256"}],"name":"sendAndEmit","outputs":[],"stateMutability":"nonpayable"}]

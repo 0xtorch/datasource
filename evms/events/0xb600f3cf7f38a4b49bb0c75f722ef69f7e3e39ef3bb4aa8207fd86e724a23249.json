@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"_quorum","internalType":"uint64","type":"uint64","indexed":false}],"name":"UpdateQuorum"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"newAprOracle","internalType":"address","type":"address"}],"name":"updateAprOracle","outputs":[],"stateMutability":"nonpayable"}]

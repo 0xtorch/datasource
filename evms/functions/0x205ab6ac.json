@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"superRegistryId_","internalType":"bytes32","type":"bytes32"},{"name":"token_","internalType":"address","type":"address"},{"name":"amount_","internalType":"uint256","type":"uint256"}],"name":"withdrawTo","outputs":[],"stateMutability":"nonpayable"}]

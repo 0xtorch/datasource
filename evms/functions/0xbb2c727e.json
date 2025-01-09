@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"","internalType":"bytes32","type":"bytes32"},{"name":"","internalType":"address","type":"address"}],"name":"provenWithdrawals","outputs":[{"name":"disputeGameProxy","internalType":"contract IDisputeGame","type":"address"},{"name":"timestamp","internalType":"uint64","type":"uint64"}],"stateMutability":"view"}]

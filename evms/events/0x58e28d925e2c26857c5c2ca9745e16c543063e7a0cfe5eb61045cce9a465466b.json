@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"_vestingDurationSeconds","internalType":"uint256","type":"uint256","indexed":false},{"name":"_vestingCliffDurationSeconds","internalType":"uint256","type":"uint256","indexed":false},{"name":"_tokenAllocationOnTGERate","internalType":"uint256","type":"uint256","indexed":false}],"name":"VestingTermsUpdated"}]

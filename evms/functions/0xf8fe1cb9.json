@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_tokenId","internalType":"uint256","type":"uint256"}],"name":"getResources","outputs":[{"name":"","internalType":"uint16[9]","type":"uint16[9]"}],"stateMutability":"view"}]

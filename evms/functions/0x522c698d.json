@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"whitelistSigner","internalType":"address","type":"address"},{"name":"startTime","internalType":"uint256","type":"uint256"},{"name":"endTime","internalType":"uint256","type":"uint256"}],"name":"setUpPresale","outputs":[],"stateMutability":"nonpayable"}]

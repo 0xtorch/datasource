@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"uri","internalType":"bytes32","type":"bytes32"}],"name":"uid2TokenId","outputs":[{"name":"","internalType":"uint256","type":"uint256"}],"stateMutability":"pure"}]

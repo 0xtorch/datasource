@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_rewardDistribution","internalType":"contract RewardDistribution","type":"address"}],"name":"setRewardDistribution","outputs":[],"stateMutability":"nonpayable"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"","internalType":"uint256","type":"uint256"}],"name":"dexList","outputs":[{"name":"router","internalType":"address","type":"address"},{"name":"pair","internalType":"address","type":"address"}],"stateMutability":"view"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_id","internalType":"uint256","type":"uint256"},{"name":"_useAnimationURI","internalType":"bool","type":"bool"}],"name":"setUseAnimationURI","outputs":[],"stateMutability":"nonpayable"}]

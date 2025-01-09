@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"path","internalType":"address[]","type":"address[]"},{"name":"minAmountsSwap","internalType":"uint256","type":"uint256"},{"name":"deadline","internalType":"uint256","type":"uint256"},{"name":"pool","internalType":"contract IBEP20RewardApeV5","type":"address"}],"name":"zapSingleAssetPoolNative","outputs":[],"stateMutability":"payable"}]

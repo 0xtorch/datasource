@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[],"name":"getMintTermStatus","outputs":[{"name":"","internalType":"enum MetaaniCapsuleDNAVol1.MintTermStatus","type":"uint8"}],"stateMutability":"view"}]

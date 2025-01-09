@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_taskId","internalType":"bytes32","type":"bytes32"}],"name":"cancelTask","outputs":[],"stateMutability":"nonpayable"}]

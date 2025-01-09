@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"corruptionToken","internalType":"contract IERC20","type":"address","indexed":false}],"name":"CorruptionToken"}]

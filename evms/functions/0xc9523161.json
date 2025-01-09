@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"buyers","internalType":"address[]","type":"address[]"},{"name":"card_type","internalType":"uint256","type":"uint256"}],"name":"allocateManyCards","outputs":[],"stateMutability":"nonpayable"}]

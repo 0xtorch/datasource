@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_delegator","internalType":"address","type":"address"},{"name":"_delegatee","internalType":"address","type":"address"}],"name":"claim_delegate","outputs":[],"stateMutability":"nonpayable"}]

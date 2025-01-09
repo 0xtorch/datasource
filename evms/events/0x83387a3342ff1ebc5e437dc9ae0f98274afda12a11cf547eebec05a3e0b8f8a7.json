@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"base","internalType":"uint256","type":"uint256","indexed":false},{"name":"quote","internalType":"uint256","type":"uint256","indexed":false},{"name":"version","internalType":"uint256","type":"uint256","indexed":false}],"name":"Rebalanced"}]

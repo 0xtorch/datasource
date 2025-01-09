@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[],"name":"getFallbackPaymentSplitterSettings","outputs":[{"name":"","internalType":"struct PaymentSplitterSettings","type":"tuple","components":[{"name":"payees","internalType":"address[]","type":"address[]"},{"name":"shares","internalType":"uint256[]","type":"uint256[]"}]}],"stateMutability":"view"}]

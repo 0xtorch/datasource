@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"voucherNonce","internalType":"uint256","type":"uint256"}],"name":"cancelVoucher","outputs":[],"stateMutability":"nonpayable"}]

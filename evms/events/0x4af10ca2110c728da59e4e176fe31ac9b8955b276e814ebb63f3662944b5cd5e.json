@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"uriPostfix","internalType":"string","type":"string","indexed":false}],"name":"SetURIPostfix"}]

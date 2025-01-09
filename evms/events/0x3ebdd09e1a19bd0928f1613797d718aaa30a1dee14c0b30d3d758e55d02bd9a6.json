@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"quoteSpent","internalType":"uint256","type":"uint256","indexed":false},{"name":"baseReceived","internalType":"uint256","type":"uint256","indexed":false}],"name":"BasePurchased"}]

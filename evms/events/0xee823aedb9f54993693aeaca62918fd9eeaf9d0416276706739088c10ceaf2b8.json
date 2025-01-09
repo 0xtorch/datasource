@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"_swapResult","internalType":"enum XSwapper.CloseSwapResult","type":"uint8","indexed":false},{"name":"_fromChainId","internalType":"uint32","type":"uint32","indexed":false},{"name":"_fromSwapId","internalType":"uint256","type":"uint256","indexed":false}],"name":"CloseSwapCompleted"}]

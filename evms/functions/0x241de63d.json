@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_pAddr","internalType":"address","type":"address"},{"name":"_pIsWhitelist","internalType":"bool","type":"bool"}],"name":"fSetWhitelist","outputs":[],"stateMutability":"nonpayable"}]

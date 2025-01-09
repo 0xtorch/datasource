@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"tos","internalType":"address[]","type":"address[]"},{"name":"tokenIds","internalType":"uint256[]","type":"uint256[]"},{"name":"isLock","internalType":"bool","type":"bool"}],"name":"mintBySystem","outputs":[],"stateMutability":"nonpayable"}]

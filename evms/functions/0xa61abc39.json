@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_shares","internalType":"uint256","type":"uint256"}],"name":"compoundGlpRewards","outputs":[{"name":"","internalType":"uint256","type":"uint256"}],"stateMutability":"nonpayable"}]

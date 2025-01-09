@@ -1,0 +1,1 @@
+[{"type":"function","constant":true,"inputs":[{"name":"_guildTokenId","type":"uint256"}],"name":"getGuildStockWithdrawnAmount","outputs":[{"name":"","type":"uint256"}],"payable":false,"stateMutability":"view"}]

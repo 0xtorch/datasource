@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_tokenContract","internalType":"address","type":"address"}],"name":"nftManager","outputs":[{"name":"","internalType":"address","type":"address"}],"stateMutability":"view"}]

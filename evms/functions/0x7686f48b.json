@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"","internalType":"enum NFes2State.SalePhase","type":"uint8"},{"name":"","internalType":"address","type":"address"}],"name":"allowLists","outputs":[{"name":"","internalType":"uint16","type":"uint16"}],"stateMutability":"view"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_poolId1","internalType":"uint256","type":"uint256"},{"name":"_poolId2","internalType":"uint256","type":"uint256"}],"name":"quoteFeeForPriceUpdate","outputs":[{"name":"","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

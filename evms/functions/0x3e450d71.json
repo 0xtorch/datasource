@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_grant","internalType":"contract IGrant","type":"address"}],"name":"setGrant","outputs":[],"stateMutability":"nonpayable"}]

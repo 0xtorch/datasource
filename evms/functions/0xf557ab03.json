@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[],"name":"locks","outputs":[{"name":"baseURILocked","internalType":"bool","type":"bool"},{"name":"contractURILocked","internalType":"bool","type":"bool"},{"name":"royaltyParamsLocked","internalType":"bool","type":"bool"}],"stateMutability":"view"}]

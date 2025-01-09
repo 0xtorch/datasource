@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_projectId","internalType":"uint256","type":"uint256"}],"name":"checkYourAllowanceOfProjectERC20","outputs":[{"name":"remaining","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

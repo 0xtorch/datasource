@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"lockStatus","internalType":"enum IERC721Lockable.LockStatus","type":"uint8"}],"name":"setContractLock","outputs":[],"stateMutability":"nonpayable"}]

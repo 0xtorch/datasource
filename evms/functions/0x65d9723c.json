@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"token","internalType":"address","type":"address"},{"name":"spender","internalType":"address","type":"address"},{"name":"newNonce","internalType":"uint48","type":"uint48"}],"name":"invalidateNonces","outputs":[],"stateMutability":"nonpayable"}]

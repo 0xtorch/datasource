@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"editionId","internalType":"uint256","type":"uint256"},{"name":"active","internalType":"bool","type":"bool"}],"name":"setEditionActive","outputs":[],"stateMutability":"nonpayable"}]

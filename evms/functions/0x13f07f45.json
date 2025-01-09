@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"perpetualIndex","internalType":"uint256","type":"uint256"},{"name":"begin","internalType":"uint256","type":"uint256"},{"name":"end","internalType":"uint256","type":"uint256"}],"name":"listActiveAccounts","outputs":[{"name":"result","internalType":"address[]","type":"address[]"}],"stateMutability":"view"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_user","internalType":"address","type":"address"},{"name":"_voteDelta","internalType":"int256","type":"int256"}],"name":"vote","outputs":[],"stateMutability":"nonpayable"}]

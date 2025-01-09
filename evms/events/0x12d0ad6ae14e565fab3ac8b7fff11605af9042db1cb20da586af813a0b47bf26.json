@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"vaultId","internalType":"bytes12","type":"bytes12","indexed":true},{"name":"receiver","internalType":"address","type":"address","indexed":true}],"name":"VaultGiven"}]

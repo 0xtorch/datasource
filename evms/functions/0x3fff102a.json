@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_poolIndex","internalType":"uint256","type":"uint256"},{"name":"_endDay","internalType":"uint32","type":"uint32"}],"name":"setPoolEndDay","outputs":[],"stateMutability":"nonpayable"}]

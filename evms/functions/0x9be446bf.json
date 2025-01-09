@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"msgHash","internalType":"bytes32","type":"bytes32"}],"name":"l1ToL2MessageCancellations","outputs":[{"name":"","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

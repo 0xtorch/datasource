@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"tokenURI","internalType":"string[]","type":"string[]"},{"name":"mintedImg","internalType":"uint256[]","type":"uint256[]"},{"name":"_to","internalType":"address","type":"address"}],"name":"mintPack","outputs":[{"name":"","internalType":"uint256","type":"uint256"}],"stateMutability":"payable"}]

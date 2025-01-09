@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_bluePillStartTime","internalType":"uint256","type":"uint256"},{"name":"_bluePillPeriod","internalType":"uint256","type":"uint256"},{"name":"_redPillStartTime","internalType":"uint256","type":"uint256"},{"name":"_startRatio","internalType":"uint256","type":"uint256"}],"name":"updatePillInfo","outputs":[],"stateMutability":"nonpayable"}]

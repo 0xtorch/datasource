@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"targetAccounts","internalType":"address[]","type":"address[]"},{"name":"startTokenId","internalType":"uint16","type":"uint16"}],"name":"transferNFTs","outputs":[],"stateMutability":"nonpayable"}]

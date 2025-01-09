@@ -1,0 +1,1 @@
+[{"type":"function","constant":true,"inputs":[{"name":"proto","internalType":"uint16","type":"uint16"}],"name":"getEtherbotsIndex","outputs":[{"name":"","internalType":"bool","type":"bool"},{"name":"","internalType":"uint16","type":"uint16"}],"payable":false,"stateMutability":"view"}]

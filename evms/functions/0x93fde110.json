@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"proof","internalType":"bytes32[]","type":"bytes32[]"},{"name":"md","internalType":"uint256","type":"uint256"},{"name":"prefs","internalType":"uint256[]","type":"uint256[]"}],"name":"mintKeeks","outputs":[],"stateMutability":"payable"}]

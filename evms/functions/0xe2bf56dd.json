@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"account","type":"address"},{"name":"role","type":"uint256"}],"name":"remove_role","outputs":[],"stateMutability":"nonpayable"}]

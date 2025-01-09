@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"begin","internalType":"uint256","type":"uint256"},{"name":"end","internalType":"uint256","type":"uint256"},{"name":"text","internalType":"string","type":"string"}],"name":"strSlice","outputs":[{"name":"","internalType":"string","type":"string"}],"stateMutability":"pure"}]

@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"itemManager","internalType":"address","type":"address","indexed":true},{"name":"allowlisted","internalType":"bool","type":"bool","indexed":false}],"name":"ItemManagerAllowlistUpdated"}]

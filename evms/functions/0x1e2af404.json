@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"minimum","internalType":"uint256","type":"uint256"},{"name":"maximum","internalType":"uint256","type":"uint256"}],"name":"setNameLengthLimit","outputs":[],"stateMutability":"nonpayable"}]

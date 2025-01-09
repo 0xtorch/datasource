@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"validator","internalType":"address","type":"address","indexed":true},{"name":"oldBLSPublicKey","internalType":"bytes","type":"bytes","indexed":false},{"name":"newBLSPublicKey","internalType":"bytes","type":"bytes","indexed":false}],"name":"BLSPublicKeyUpdated"}]

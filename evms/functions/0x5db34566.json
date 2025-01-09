@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_teamId","internalType":"uint256","type":"uint256"},{"name":"_teamName","internalType":"string","type":"string"},{"name":"_teamDescription","internalType":"string","type":"string"}],"name":"renameTeam","outputs":[],"stateMutability":"nonpayable"}]

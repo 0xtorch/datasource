@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"currentPrice","internalType":"uint256","type":"uint256"}],"name":"setDCAUPricePerDollar","outputs":[],"stateMutability":"nonpayable"}]

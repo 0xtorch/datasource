@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"_token","internalType":"address","type":"address","indexed":false},{"name":"_value","internalType":"bool","type":"bool","indexed":false}],"name":"LogWhiteListUpdate"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_defaultAdmin","internalType":"address","type":"address"},{"name":"__originalContract","internalType":"address","type":"address"},{"name":"_ownershipMerkleRoot","internalType":"bytes32","type":"bytes32"},{"name":"_contractURI","internalType":"string","type":"string"}],"name":"initialize","outputs":[],"stateMutability":"nonpayable"}]

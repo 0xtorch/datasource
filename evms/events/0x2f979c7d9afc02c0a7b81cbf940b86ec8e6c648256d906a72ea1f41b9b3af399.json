@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"pacificAddress","internalType":"address","type":"address","indexed":true},{"name":"atlanticAddress","internalType":"string","type":"string","indexed":false}],"name":"BindPacificAddress"}]

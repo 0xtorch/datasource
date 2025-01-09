@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"yourNode","internalType":"bytes32","type":"bytes32"},{"name":"label","internalType":"string","type":"string"}],"name":"getOnTheTrain","outputs":[],"stateMutability":"nonpayable"}]

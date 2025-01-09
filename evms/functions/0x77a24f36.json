@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"defaultAdmin","internalType":"address","type":"address"},{"name":"backfiller","internalType":"address","type":"address"},{"name":"delegateCommenters","internalType":"address[]","type":"address[]"}],"name":"initialize","outputs":[],"stateMutability":"nonpayable"}]

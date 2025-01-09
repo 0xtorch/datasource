@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_delta","internalType":"uint256","type":"uint256"},{"name":"_decay","internalType":"uint256","type":"uint256"}],"name":"setDeltaAndDecay","outputs":[],"stateMutability":"nonpayable"}]

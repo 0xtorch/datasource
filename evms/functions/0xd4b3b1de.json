@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_order","internalType":"uint16[]","type":"uint16[]"},{"name":"_referrer","internalType":"address","type":"address"}],"name":"purchase","outputs":[],"stateMutability":"payable"}]

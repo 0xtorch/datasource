@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"index","internalType":"address","type":"address","indexed":true},{"name":"managementFee","internalType":"uint256","type":"uint256","indexed":false},{"name":"protocolStreamingFee","internalType":"uint256","type":"uint256","indexed":false}],"name":"ManagementFeeCalculated"}]

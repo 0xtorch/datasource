@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_signature","internalType":"bytes4","type":"bytes4"},{"name":"_approval","internalType":"bool","type":"bool"}],"name":"setFunctionApprovalBySignature","outputs":[],"stateMutability":"nonpayable"}]

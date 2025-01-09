@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"tokenAddr","internalType":"address","type":"address","indexed":true},{"name":"owner","internalType":"address","type":"address","indexed":true},{"name":"largeTransferLimit","internalType":"uint256","type":"uint256","indexed":false}],"name":"LargeTransferLimitSet"}]

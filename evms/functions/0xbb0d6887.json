@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"xyFee","internalType":"uint256","type":"uint256"}],"name":"calculateReserves","outputs":[{"name":"","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

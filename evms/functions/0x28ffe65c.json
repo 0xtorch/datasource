@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_newRouterAddress","internalType":"address","type":"address"},{"name":"_migrate","internalType":"bool","type":"bool"}],"name":"setRouterAddress","outputs":[],"stateMutability":"nonpayable"}]

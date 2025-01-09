@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"nftContract","internalType":"address","type":"address"}],"name":"getCreatorPayoutAddress","outputs":[{"name":"","internalType":"address","type":"address"}],"stateMutability":"view"}]

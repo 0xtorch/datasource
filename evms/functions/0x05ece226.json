@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"","internalType":"address","type":"address"}],"name":"addressPosition","outputs":[{"name":"stakedAmount","internalType":"uint256","type":"uint256"},{"name":"rewardsDebt","internalType":"int256","type":"int256"}],"stateMutability":"view"}]

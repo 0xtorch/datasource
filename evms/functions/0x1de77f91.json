@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"amountRequested","internalType":"uint16","type":"uint16"},{"name":"bonusCriteria","internalType":"uint16","type":"uint16"}],"name":"mint","outputs":[{"name":"tokenIdsMinted","internalType":"uint16[]","type":"uint16[]"}],"stateMutability":"payable"}]

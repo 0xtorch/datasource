@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_masterHummus","internalType":"contract IMasterHummus","type":"address"}],"name":"setMasterHummus","outputs":[],"stateMutability":"nonpayable"}]

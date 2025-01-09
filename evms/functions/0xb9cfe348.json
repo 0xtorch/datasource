@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"","internalType":"address","type":"address"},{"name":"","internalType":"uint256","type":"uint256"}],"name":"lockedLiquidity","outputs":[{"name":"amount","internalType":"uint256","type":"uint256"},{"name":"premium","internalType":"uint256","type":"uint256"},{"name":"locked","internalType":"bool","type":"bool"}],"stateMutability":"view"}]

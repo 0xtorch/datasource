@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_owner","internalType":"address","type":"address"},{"name":"_mentor","internalType":"uint256","type":"uint256"},{"name":"_mentor2","internalType":"uint256","type":"uint256"}],"name":"startMentor","outputs":[{"name":"","internalType":"uint256","type":"uint256"}],"stateMutability":"nonpayable"}]

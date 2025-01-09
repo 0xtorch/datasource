@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"","internalType":"bytes12","type":"bytes12"}],"name":"balances","outputs":[{"name":"art","internalType":"uint128","type":"uint128"},{"name":"ink","internalType":"uint128","type":"uint128"}],"stateMutability":"view"}]

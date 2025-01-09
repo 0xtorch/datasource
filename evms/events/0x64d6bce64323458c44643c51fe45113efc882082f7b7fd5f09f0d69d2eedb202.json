@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"typeHash","internalType":"bytes32","type":"bytes32","indexed":true},{"name":"typeStr","internalType":"string","type":"string","indexed":false}],"name":"RequestTypeRegistered"}]

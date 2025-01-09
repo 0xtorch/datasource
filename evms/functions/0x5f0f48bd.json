@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_bizNo","internalType":"uint256","type":"uint256"},{"name":"_srcAsset","internalType":"address","type":"address"},{"name":"_assetAmt","internalType":"uint256","type":"uint256"},{"name":"_toUser","internalType":"address","type":"address"}],"name":"withdraw","outputs":[],"stateMutability":"nonpayable"}]

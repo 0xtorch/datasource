@@ -1,0 +1,1 @@
+[{"type":"function","constant":false,"inputs":[{"name":"addr","internalType":"address","type":"address"}],"name":"updateStakeTokenizerAddress","outputs":[],"payable":false,"stateMutability":"nonpayable"}]

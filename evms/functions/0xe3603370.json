@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"addresses","internalType":"address[]","type":"address[]"},{"name":"count","internalType":"uint256[]","type":"uint256[]"}],"name":"addToFreeList","outputs":[],"stateMutability":"nonpayable"}]

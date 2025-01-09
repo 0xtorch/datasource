@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"newVault","internalType":"address","type":"address"}],"name":"changeMPCOwner","outputs":[{"name":"","internalType":"bool","type":"bool"}],"stateMutability":"nonpayable"}]

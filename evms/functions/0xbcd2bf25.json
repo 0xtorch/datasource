@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"recipientOfGas","internalType":"address","type":"address"},{"name":"minClaimRateBips","internalType":"uint256","type":"uint256"}],"name":"claimGasAtMinClaimRate","outputs":[{"name":"","internalType":"uint256","type":"uint256"}],"stateMutability":"nonpayable"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"amountOut","internalType":"uint256","type":"uint256"},{"name":"path","internalType":"address[]","type":"address[]"},{"name":"fee","internalType":"uint256","type":"uint256"}],"name":"getAmountsIn","outputs":[{"name":"amounts","internalType":"uint256[]","type":"uint256[]"}],"stateMutability":"view"}]

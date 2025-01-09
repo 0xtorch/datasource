@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"addrs","internalType":"contract animations[9]","type":"address[9]"}],"name":"setMetadataAddress","outputs":[],"stateMutability":"nonpayable"}]

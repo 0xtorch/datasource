@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_staking","internalType":"contract ILevelsStakingExternal","type":"address"}],"name":"setLevelsStaking","outputs":[],"stateMutability":"nonpayable"}]

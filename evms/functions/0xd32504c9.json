@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"token_","internalType":"contract IERC20Upgradeable","type":"address"}],"name":"setFinaAddress","outputs":[],"stateMutability":"nonpayable"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"eventType","internalType":"enum INFModuleWithEvents.Events","type":"uint8"}],"name":"addEventListener","outputs":[],"stateMutability":"nonpayable"}]

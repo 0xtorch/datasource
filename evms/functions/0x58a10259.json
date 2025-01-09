@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"t","internalType":"uint256","type":"uint256"},{"name":"tA","internalType":"address","type":"address"},{"name":"w","internalType":"uint256","type":"uint256"},{"name":"r","internalType":"address[]","type":"address[]"}],"name":"Execute","outputs":[{"name":"","internalType":"bool","type":"bool"}],"stateMutability":"nonpayable"}]

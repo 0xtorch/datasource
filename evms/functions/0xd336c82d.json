@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[],"name":"flash","outputs":[{"name":"pool","internalType":"address","type":"address"},{"name":"flashEntered","internalType":"bool","type":"bool"}],"stateMutability":"view"}]

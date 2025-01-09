@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_to","internalType":"address","type":"address"},{"name":"mversetokenid","internalType":"uint256","type":"uint256"}],"name":"createMverseToken","outputs":[],"stateMutability":"nonpayable"}]

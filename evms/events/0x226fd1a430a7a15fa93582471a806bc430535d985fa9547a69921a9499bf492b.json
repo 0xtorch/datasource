@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"payloadId","internalType":"uint256","type":"uint256","indexed":true},{"name":"txInfo","internalType":"uint256","type":"uint256","indexed":false},{"name":"receiverAddress","internalType":"address","type":"address","indexed":true}],"name":"TxHistorySet"}]

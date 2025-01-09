@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"strategiesToWhitelist","internalType":"contract IStrategy[]","type":"address[]"}],"name":"addStrategiesToDepositWhitelist","outputs":[],"stateMutability":"nonpayable"}]

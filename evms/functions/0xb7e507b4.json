@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"title","internalType":"bytes16","type":"bytes16"},{"name":"data1","internalType":"uint256","type":"uint256"},{"name":"data2","internalType":"uint256","type":"uint256"},{"name":"merkleProof","internalType":"bytes32[]","type":"bytes32[]"}],"name":"addGalleryArt","outputs":[],"stateMutability":"nonpayable"}]

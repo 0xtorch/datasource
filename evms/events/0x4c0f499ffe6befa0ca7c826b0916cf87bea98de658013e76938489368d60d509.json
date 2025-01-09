@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"profit","internalType":"uint256","type":"uint256","indexed":false},{"name":"loss","internalType":"uint256","type":"uint256","indexed":false},{"name":"debtPayment","internalType":"uint256","type":"uint256","indexed":false},{"name":"debtOutstanding","internalType":"uint256","type":"uint256","indexed":false}],"name":"Harvested"}]

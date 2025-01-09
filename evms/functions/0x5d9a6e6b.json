@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_momaVault","internalType":"address","type":"address"},{"name":"_momaPerBlock","internalType":"uint256","type":"uint256"},{"name":"_startBlock","internalType":"uint256","type":"uint256"},{"name":"_rateParameters","internalType":"uint256[]","type":"uint256[]"}],"name":"initialize","outputs":[],"stateMutability":"nonpayable"}]

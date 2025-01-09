@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_contents","internalType":"struct Airdrop.AirdropContentERC20[]","type":"tuple[]","components":[{"name":"recipient","internalType":"address","type":"address"},{"name":"amount","internalType":"uint256","type":"uint256"}]}],"name":"airdropNativeToken","outputs":[],"stateMutability":"payable"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"tokenIn","internalType":"address","type":"address"},{"name":"tokenOut","internalType":"address","type":"address"}],"name":"getSpotPrice","outputs":[{"name":"spotPrice","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

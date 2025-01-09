@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_pid","internalType":"uint256","type":"uint256"},{"name":"_percentReward","internalType":"uint256","type":"uint256"}],"name":"setPair","outputs":[],"stateMutability":"nonpayable"}]

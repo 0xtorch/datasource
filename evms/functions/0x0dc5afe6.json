@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"addresses","internalType":"address[]","type":"address[]"},{"name":"approved","internalType":"bool","type":"bool"}],"name":"approveMinter","outputs":[],"stateMutability":"nonpayable"}]

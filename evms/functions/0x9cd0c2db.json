@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[],"name":"getCurrentIssue","outputs":[{"name":"_currentIssue","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

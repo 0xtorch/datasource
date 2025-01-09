@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"consumer","internalType":"contract ICatamotoTaxConsumer","type":"address"}],"name":"updateTax0Consumer","outputs":[],"stateMutability":"nonpayable"}]

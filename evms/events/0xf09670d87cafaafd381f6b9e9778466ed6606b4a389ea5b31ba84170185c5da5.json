@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"permission","internalType":"PermissionId","type":"bytes4","indexed":false}],"name":"PermissionUninstalled"}]

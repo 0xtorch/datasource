@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"allowlist","internalType":"address[]","type":"address[]"},{"name":"knob","internalType":"bool","type":"bool"}],"name":"setRecipientAllowlist","outputs":[],"stateMutability":"nonpayable"}]

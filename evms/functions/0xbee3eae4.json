@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_distributorgas","internalType":"uint256","type":"uint256"},{"name":"_walletgas","internalType":"uint256","type":"uint256"}],"name":"changeContractGas","outputs":[],"stateMutability":"nonpayable"}]

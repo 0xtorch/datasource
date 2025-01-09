@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_devAdd","internalType":"address","type":"address"},{"name":"_devAddPayable","internalType":"address payable","type":"address"}],"name":"updateDevAddress","outputs":[],"stateMutability":"nonpayable"}]

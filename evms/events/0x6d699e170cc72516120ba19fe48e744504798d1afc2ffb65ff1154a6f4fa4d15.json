@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"_tokenId","type":"uint256","indexed":true},{"name":"_currentOwner","type":"address","indexed":true},{"name":"_bidder","type":"address","indexed":true},{"name":"_amount","type":"uint256","indexed":false}],"name":"BidRejected"}]

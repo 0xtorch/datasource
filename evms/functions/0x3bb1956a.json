@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"inputToken","internalType":"address","type":"address"},{"name":"maxInputAmount","internalType":"uint256","type":"uint256"},{"name":"outputToken","internalType":"address","type":"address"}],"name":"bootstrapNewToken","outputs":[{"name":"fractionBootstrapped","internalType":"uint64","type":"uint64"}],"stateMutability":"nonpayable"}]

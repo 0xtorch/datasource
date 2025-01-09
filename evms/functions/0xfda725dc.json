@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"to","internalType":"address","type":"address"},{"name":"amount","internalType":"uint256","type":"uint256"},{"name":"extraData_","internalType":"uint24","type":"uint24"}],"name":"mintTo","outputs":[],"stateMutability":"nonpayable"}]

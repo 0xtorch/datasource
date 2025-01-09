@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"amount","internalType":"uint256","type":"uint256"},{"name":"slotIndex","internalType":"uint256","type":"uint256"}],"name":"addToUnlock","outputs":[],"stateMutability":"nonpayable"}]

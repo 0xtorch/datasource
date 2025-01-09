@@ -1,0 +1,1 @@
+[{"type":"function","constant":false,"inputs":[{"name":"borrower","internalType":"address","type":"address"}],"name":"repayBorrowBehalf","outputs":[],"payable":true,"stateMutability":"payable"}]

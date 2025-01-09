@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"bridgeFunctionType","type":"uint8","indexed":false},{"name":"chainId","type":"uint16","indexed":false},{"name":"srcAddress","type":"bytes","indexed":false},{"name":"nonce","type":"uint256","indexed":false}],"name":"Revert"}]

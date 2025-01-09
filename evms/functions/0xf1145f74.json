@@ -1,0 +1,1 @@
+[{"type":"function","gas":1545,"inputs":[{"name":"_address","type":"address"}],"name":"LAST_TX_LONGTERM_BURN_COUNTER","outputs":[{"name":"","type":"uint256"}],"stateMutability":"view"}]

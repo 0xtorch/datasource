@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"ethToken","internalType":"address","type":"address"},{"name":"amount","internalType":"uint256","type":"uint256"},{"name":"accountId","internalType":"string","type":"string"}],"name":"lockToken","outputs":[],"stateMutability":"nonpayable"}]

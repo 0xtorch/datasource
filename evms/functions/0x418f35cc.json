@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[],"name":"getCurrentPosition","outputs":[{"name":"deposits","internalType":"uint256","type":"uint256"},{"name":"borrows","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

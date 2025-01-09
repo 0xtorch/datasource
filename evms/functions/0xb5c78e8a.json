@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"tg_user_chan","internalType":"string","type":"string"},{"name":"_isChannel","internalType":"bool","type":"bool"}],"name":"getAmtPaid","outputs":[{"name":"","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

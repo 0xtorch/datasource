@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"deus_address","internalType":"address","type":"address","indexed":false}],"name":"DEUSAddressSet"}]

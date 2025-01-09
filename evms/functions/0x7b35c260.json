@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_srcPoolId","internalType":"uint256","type":"uint256"},{"name":"_amountSD","internalType":"uint256","type":"uint256"},{"name":"_whitelisted","internalType":"bool","type":"bool"}],"name":"getEqReward","outputs":[{"name":"","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

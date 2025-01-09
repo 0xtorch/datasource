@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_treasuryAccount","internalType":"address","type":"address"},{"name":"_treasuryBountyBps","internalType":"uint256","type":"uint256"}],"name":"setTreasuryConfig","outputs":[],"stateMutability":"nonpayable"}]

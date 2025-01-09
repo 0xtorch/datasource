@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"tFeePercent","internalType":"uint256","type":"uint256"}],"name":"setTransferFeePercent","outputs":[],"stateMutability":"nonpayable"}]

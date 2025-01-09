@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"oldOrderId","internalType":"bytes32","type":"bytes32","indexed":false},{"name":"newOrderId","internalType":"bytes32","type":"bytes32","indexed":false},{"name":"data","internalType":"bytes","type":"bytes","indexed":false}],"name":"OrderUpdated"}]

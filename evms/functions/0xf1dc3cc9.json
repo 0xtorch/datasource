@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_token_amount","type":"uint256"},{"name":"i","type":"uint256"},{"name":"_min_amount","type":"uint256"}],"name":"remove_liquidity_one_coin","outputs":[],"stateMutability":"nonpayable"}]

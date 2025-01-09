@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"dropper","internalType":"address","type":"address"}],"name":"authorizedDroppers","outputs":[{"name":"authorized","internalType":"bool","type":"bool"}],"stateMutability":"view"}]

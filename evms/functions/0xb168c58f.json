@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"account","internalType":"address","type":"address"},{"name":"collaterals","internalType":"address[]","type":"address[]"}],"name":"checkAccountStatus","outputs":[{"name":"","internalType":"bytes4","type":"bytes4"}],"stateMutability":"view"}]

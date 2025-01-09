@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_protocolId","internalType":"bytes32","type":"bytes32"},{"name":"_executor","internalType":"address","type":"address"}],"name":"addExecutor","outputs":[],"stateMutability":"nonpayable"}]

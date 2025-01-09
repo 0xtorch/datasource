@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"","internalType":"address","type":"address"}],"name":"withdrawalReceipts","outputs":[{"name":"epoch","internalType":"uint128","type":"uint128"},{"name":"shares","internalType":"uint128","type":"uint128"}],"stateMutability":"view"}]

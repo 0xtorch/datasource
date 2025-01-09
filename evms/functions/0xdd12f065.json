@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"sig","internalType":"bytes","type":"bytes"}],"name":"getRsv","outputs":[{"name":"","internalType":"bytes32","type":"bytes32"},{"name":"","internalType":"bytes32","type":"bytes32"},{"name":"","internalType":"uint8","type":"uint8"}],"stateMutability":"pure"}]

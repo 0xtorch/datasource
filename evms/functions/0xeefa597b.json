@@ -1,0 +1,1 @@
+[{"type":"function","constant":true,"inputs":[],"name":"isToken","outputs":[{"name":"weAre","type":"bool"}],"payable":false,"stateMutability":"view"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"channelAddr","internalType":"address","type":"address"},{"name":"status","internalType":"bool","type":"bool"}],"name":"changeChannelAuthorizedStatus","outputs":[],"stateMutability":"nonpayable"}]

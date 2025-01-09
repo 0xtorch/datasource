@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"recipientOfGas","internalType":"address","type":"address"},{"name":"gasToClaim","internalType":"uint256","type":"uint256"},{"name":"gasSecondsToConsume","internalType":"uint256","type":"uint256"}],"name":"claimGas","outputs":[{"name":"","internalType":"uint256","type":"uint256"}],"stateMutability":"nonpayable"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"t","internalType":"address","type":"address"},{"name":"_amount","internalType":"uint256","type":"uint256"}],"name":"encodeData","outputs":[{"name":"","internalType":"bytes","type":"bytes"}],"stateMutability":"nonpayable"}]

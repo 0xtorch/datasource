@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[],"name":"vAssets","outputs":[{"name":"collateralAsset","internalType":"address","type":"address"},{"name":"borrowAsset","internalType":"address","type":"address"},{"name":"collateralID","internalType":"uint64","type":"uint64"},{"name":"borrowID","internalType":"uint64","type":"uint64"}],"stateMutability":"view"}]

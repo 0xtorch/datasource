@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"alpacaId","internalType":"uint256","type":"uint256","indexed":true},{"name":"addr","internalType":"address","type":"address","indexed":false}],"name":"GrantedToBreed"}]

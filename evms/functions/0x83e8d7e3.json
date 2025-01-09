@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"vaultId","internalType":"uint256","type":"uint256"},{"name":"flipElig","internalType":"bool","type":"bool"}],"name":"setFlipEligOnRedeem","outputs":[],"stateMutability":"nonpayable"}]

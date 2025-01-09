@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"blockees","internalType":"address[]","type":"address[]"},{"name":"shouldBlock","internalType":"bool","type":"bool"}],"name":"updateBL","outputs":[],"stateMutability":"nonpayable"}]

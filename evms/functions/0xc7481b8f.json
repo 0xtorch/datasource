@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"amount1Out","internalType":"uint256","type":"uint256"},{"name":"data","internalType":"bytes","type":"bytes"}],"name":"getSwapAmount0In","outputs":[{"name":"swapAmount0In","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

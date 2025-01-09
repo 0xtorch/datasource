@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"baseId","internalType":"bytes6","type":"bytes6"},{"name":"ilkId","internalType":"bytes6","type":"bytes6"},{"name":"oracle","internalType":"contract IOracle","type":"address"},{"name":"ratio","internalType":"uint32","type":"uint32"}],"name":"setSpotOracle","outputs":[],"stateMutability":"nonpayable"}]

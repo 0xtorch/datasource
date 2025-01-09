@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_priceOracle","internalType":"contract ISidPriceOracle","type":"address"}],"name":"setNewPriceOracle","outputs":[],"stateMutability":"nonpayable"}]

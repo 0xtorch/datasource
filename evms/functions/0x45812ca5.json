@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_data","internalType":"bytes","type":"bytes"},{"name":"_proxyType","internalType":"uint8","type":"uint8"}],"name":"deploy","outputs":[{"name":"","internalType":"address","type":"address"}],"stateMutability":"nonpayable"}]

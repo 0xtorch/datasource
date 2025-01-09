@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"_user","internalType":"address","type":"address","indexed":true},{"name":"_pair","internalType":"address","type":"address","indexed":true},{"name":"_flag","internalType":"bool","type":"bool","indexed":false}],"name":"ToggleV2Pair"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[],"name":"parameters","outputs":[{"name":"dataStorage","internalType":"address","type":"address"},{"name":"factory","internalType":"address","type":"address"},{"name":"token0","internalType":"address","type":"address"},{"name":"token1","internalType":"address","type":"address"}],"stateMutability":"view"}]

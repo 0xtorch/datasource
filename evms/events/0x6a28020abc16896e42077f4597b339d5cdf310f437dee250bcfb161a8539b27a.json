@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"positionId","internalType":"uint256","type":"uint256","indexed":true},{"name":"assetAddress","internalType":"address","type":"address","indexed":false},{"name":"usdcEquivalent","internalType":"uint256","type":"uint256","indexed":false}],"name":"CapitalPositionAdjustment"}]

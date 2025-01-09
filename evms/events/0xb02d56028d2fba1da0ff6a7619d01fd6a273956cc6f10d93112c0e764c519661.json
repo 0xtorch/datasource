@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"newAllocations","internalType":"struct Allocation[]","type":"tuple[]","components":[{"name":"index","internalType":"uint256","type":"uint256"},{"name":"amount","internalType":"uint256","type":"uint256"}],"indexed":false}],"name":"StrategyAllocationsChanged"}]

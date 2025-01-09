@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"_controller","internalType":"address","type":"address","indexed":true},{"name":"_approved","internalType":"bool","type":"bool","indexed":false}],"name":"ControllerApprovalForAll"}]

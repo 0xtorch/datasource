@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_easyTierOdds","internalType":"uint256[5]","type":"uint256[5]"},{"name":"_mediumTierOdds","internalType":"uint256[5]","type":"uint256[5]"},{"name":"_hardTierOdds","internalType":"uint256[5]","type":"uint256[5]"}],"name":"setTierOddsForDifficulty","outputs":[],"stateMutability":"nonpayable"}]

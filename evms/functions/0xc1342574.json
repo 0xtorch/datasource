@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"violator","internalType":"address","type":"address"},{"name":"collateral","internalType":"address","type":"address"},{"name":"repayAssets","internalType":"uint256","type":"uint256"},{"name":"minYieldBalance","internalType":"uint256","type":"uint256"}],"name":"liquidate","outputs":[],"stateMutability":"nonpayable"}]

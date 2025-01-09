@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"beneficiary","internalType":"address","type":"address","indexed":true},{"name":"caller","internalType":"address","type":"address","indexed":true}],"name":"OperatorRoleRemoved"}]

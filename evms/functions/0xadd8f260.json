@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_token","internalType":"address","type":"address"},{"name":"_priceId","internalType":"bytes32","type":"bytes32"}],"name":"updateTokenIdMapping","outputs":[],"stateMutability":"nonpayable"}]

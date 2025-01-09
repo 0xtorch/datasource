@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"allowedAddress","type":"address","indexed":false},{"name":"allowedStatus","type":"bool","indexed":false}],"name":"AllowedAddressSet"}]

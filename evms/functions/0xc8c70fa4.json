@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"fxTokenAddress","internalType":"address","type":"address"},{"name":"peggedTokenAddress","internalType":"address","type":"address"},{"name":"isPegged","internalType":"bool","type":"bool"}],"name":"setFxTokenPeg","outputs":[],"stateMutability":"nonpayable"}]

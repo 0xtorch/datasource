@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"Indexes","internalType":"uint256[]","type":"uint256[]"},{"name":"ArtistIDs","internalType":"uint256[]","type":"uint256[]"}],"name":"__OverwriteArtistIDs","outputs":[],"stateMutability":"nonpayable"}]

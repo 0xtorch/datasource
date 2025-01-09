@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"newPrefix","internalType":"string","type":"string","indexed":true}],"name":"TokenUriPrefixChanged"}]

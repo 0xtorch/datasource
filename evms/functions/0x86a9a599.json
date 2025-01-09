@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_who","internalType":"address","type":"address"}],"name":"isMemberOfOldMultisender","outputs":[{"name":"","internalType":"bool","type":"bool"}],"stateMutability":"view"}]

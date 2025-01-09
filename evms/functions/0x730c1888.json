@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_frequencyInSeconds","internalType":"uint256","type":"uint256"},{"name":"_percent","internalType":"uint256","type":"uint256"},{"name":"_Enabled","internalType":"bool","type":"bool"}],"name":"setAutoLPBurnSettings","outputs":[],"stateMutability":"nonpayable"}]

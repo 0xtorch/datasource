@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[],"name":"swapbackInfo","outputs":[{"name":"_swapbackEnabled","internalType":"bool","type":"bool"},{"name":"_swapBackValueMin","internalType":"uint256","type":"uint256"},{"name":"_swapBackValueMax","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

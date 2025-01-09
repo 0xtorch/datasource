@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_index","internalType":"uint256","type":"uint256"}],"name":"getTokenAtIndex","outputs":[{"name":"tokenId_response","internalType":"uint256","type":"uint256"},{"name":"rarityId_response","internalType":"uint8","type":"uint8"}],"stateMutability":"view"}]

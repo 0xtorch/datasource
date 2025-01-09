@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"identifier","internalType":"bytes32","type":"bytes32"},{"name":"isActive","internalType":"bool","type":"bool"}],"name":"setMarketplaceStatus","outputs":[],"stateMutability":"nonpayable"}]

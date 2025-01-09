@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[],"name":"getSaleStage","outputs":[{"name":"","internalType":"enum PublicSale.SaleStage","type":"uint8"}],"stateMutability":"view"}]

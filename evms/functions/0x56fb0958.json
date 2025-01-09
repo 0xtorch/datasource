@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_implementation","internalType":"address","type":"address"},{"name":"_toApprove","internalType":"bool","type":"bool"}],"name":"approveImplementation","outputs":[],"stateMutability":"nonpayable"}]

@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"sender","internalType":"address","type":"address","indexed":false},{"name":"lockKey","internalType":"bytes32","type":"bytes32","indexed":false},{"name":"lptoken","internalType":"address","type":"address","indexed":false}],"name":"LockedERC20"}]

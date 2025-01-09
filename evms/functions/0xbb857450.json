@@ -1,0 +1,1 @@
+[{"type":"function","constant":false,"inputs":[{"name":"newLiquidatorContract_","internalType":"address","type":"address"}],"name":"_setLiquidatorContract","outputs":[],"payable":false,"stateMutability":"nonpayable"}]

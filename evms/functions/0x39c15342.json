@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"bracketId","internalType":"uint16","type":"uint16"},{"name":"bracketTokenCount","internalType":"uint16","type":"uint16"}],"name":"changeGSBrackets","outputs":[],"stateMutability":"nonpayable"}]

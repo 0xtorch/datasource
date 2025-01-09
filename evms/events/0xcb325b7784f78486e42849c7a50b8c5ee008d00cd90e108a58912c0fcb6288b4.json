@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"approver","internalType":"address","type":"address","indexed":true},{"name":"delegate","internalType":"address","type":"address","indexed":true},{"name":"approved","internalType":"bool","type":"bool","indexed":false}],"name":"DelegateUpdated"}]

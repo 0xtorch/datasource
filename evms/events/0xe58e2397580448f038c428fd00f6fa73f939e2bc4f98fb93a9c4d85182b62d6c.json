@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"deposit","internalType":"uint256","type":"uint256","indexed":false},{"name":"payout","internalType":"uint256","type":"uint256","indexed":false},{"name":"expires","internalType":"uint256","type":"uint256","indexed":false},{"name":"billId","internalType":"uint256","type":"uint256","indexed":true}],"name":"BillCreated"}]

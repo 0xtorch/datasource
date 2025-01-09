@@ -1,0 +1,1 @@
+[{"type":"function","constant":false,"inputs":[{"name":"_reserve","internalType":"address","type":"address"},{"name":"_stableBorrowRateEnabled","internalType":"bool","type":"bool"}],"name":"enableBorrowingOnReserve","outputs":[],"payable":false,"stateMutability":"nonpayable"}]

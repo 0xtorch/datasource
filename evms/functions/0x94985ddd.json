@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"requestId","internalType":"bytes32","type":"bytes32"},{"name":"randomness","internalType":"uint256","type":"uint256"}],"name":"rawFulfillRandomness","outputs":[],"stateMutability":"nonpayable"}]

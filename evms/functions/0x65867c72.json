@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_owner","internalType":"address","type":"address"}],"name":"isPassUsed","outputs":[{"name":"","internalType":"bool","type":"bool"}],"stateMutability":"view"}]

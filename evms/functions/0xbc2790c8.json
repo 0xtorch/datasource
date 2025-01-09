@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"newTokenReceiver","internalType":"address","type":"address"}],"name":"changeTokenReceiver","outputs":[],"stateMutability":"nonpayable"}]

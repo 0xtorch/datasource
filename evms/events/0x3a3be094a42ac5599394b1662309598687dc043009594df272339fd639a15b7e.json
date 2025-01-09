@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"_round","internalType":"uint32","type":"uint32","indexed":false},{"name":"_ticketNo","internalType":"uint32","type":"uint32","indexed":false}],"name":"RoundEndTag"}]

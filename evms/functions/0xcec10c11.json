@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_withdrawalFee","internalType":"uint256","type":"uint256"},{"name":"_operationalFee","internalType":"uint256","type":"uint256"},{"name":"_profitFee","internalType":"uint256","type":"uint256"}],"name":"setFees","outputs":[],"stateMutability":"nonpayable"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_id","internalType":"uint256","type":"uint256"}],"name":"getItemInfo","outputs":[{"name":"","internalType":"struct CustomPunks.ItemInfo","type":"tuple","components":[{"name":"appliedLayers","internalType":"uint256","type":"uint256"}]}],"stateMutability":"view"}]

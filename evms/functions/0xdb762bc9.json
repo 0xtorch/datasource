@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[],"name":"lockInfo","outputs":[{"name":"endTime","internalType":"uint256","type":"uint256"},{"name":"secondsRemaining","internalType":"uint256","type":"uint256"},{"name":"shouldIncreaseLock","internalType":"bool","type":"bool"}],"stateMutability":"view"}]

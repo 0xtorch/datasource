@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_tethysAmount","internalType":"uint256","type":"uint256"}],"name":"TETHYSForxTETHYS","outputs":[{"name":"xTETHYSAmount_","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

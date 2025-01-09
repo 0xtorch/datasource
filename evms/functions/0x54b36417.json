@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_maxReward","internalType":"uint256","type":"uint256"},{"name":"_maxRound","internalType":"uint256","type":"uint256"}],"name":"updateSetting","outputs":[],"stateMutability":"nonpayable"}]

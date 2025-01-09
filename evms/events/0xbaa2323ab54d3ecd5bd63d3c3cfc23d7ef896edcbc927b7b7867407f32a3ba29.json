@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"claimer","internalType":"address","type":"address","indexed":true},{"name":"whitelist","internalType":"bool","type":"bool","indexed":true}],"name":"WhitelistedClaimer"}]

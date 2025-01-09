@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"From","internalType":"address","type":"address","indexed":true},{"name":"Token","internalType":"address","type":"address","indexed":true},{"name":"RecipientsLength","internalType":"uint256","type":"uint256","indexed":false}],"name":"Erc721Airdrop"}]

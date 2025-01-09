@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"account","internalType":"address","type":"address"},{"name":"_status","internalType":"bool","type":"bool"}],"name":"updatePriceAdjuster","outputs":[],"stateMutability":"nonpayable"}]

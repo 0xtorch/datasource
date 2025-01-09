@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"lifiChainId","internalType":"uint256","type":"uint256","indexed":true},{"name":"wormholeChainId","internalType":"uint256","type":"uint256","indexed":true}],"name":"MayanChainIdMapped"}]

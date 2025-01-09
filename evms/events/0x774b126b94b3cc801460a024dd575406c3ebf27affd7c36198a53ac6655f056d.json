@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"oldSetter","internalType":"address","type":"address","indexed":true},{"name":"newSetter","internalType":"address","type":"address","indexed":true}],"name":"FeeSetterChanged"}]

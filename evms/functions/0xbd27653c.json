@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"rewards","internalType":"struct LostPoetPages.Reward[]","type":"tuple[]","components":[{"name":"recipient","internalType":"address","type":"address"},{"name":"amount","internalType":"uint256","type":"uint256"}]}],"name":"rewardPages","outputs":[],"stateMutability":"nonpayable"}]

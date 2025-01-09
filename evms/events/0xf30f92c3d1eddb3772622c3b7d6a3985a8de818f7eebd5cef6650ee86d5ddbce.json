@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"newAffiliate","internalType":"address","type":"address","indexed":true},{"name":"affiliateCode","internalType":"string","type":"string","indexed":true}],"name":"NewAffiliatePartnership"}]

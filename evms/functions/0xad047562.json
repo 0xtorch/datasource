@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_orgAddress","internalType":"address","type":"address"},{"name":"_deployerAddress","internalType":"address","type":"address"},{"name":"_orgWalletAddress","internalType":"address","type":"address"},{"name":"_metadata","internalType":"string","type":"string"}],"name":"addTokenOrg","outputs":[],"stateMutability":"nonpayable"}]

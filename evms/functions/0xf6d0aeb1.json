@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"cid","internalType":"string","type":"string"},{"name":"to","internalType":"address","type":"address"},{"name":"secret","internalType":"bytes32","type":"bytes32"},{"name":"middlewareData","internalType":"bytes","type":"bytes"}],"name":"register","outputs":[],"stateMutability":"payable"}]

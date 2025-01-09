@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"blobOneInteractions","internalType":"uint16","type":"uint16"},{"name":"blobTwoInteractions","internalType":"uint16","type":"uint16"},{"name":"finalFormInteractions","internalType":"uint16","type":"uint16"}],"name":"setStageInteractions","outputs":[],"stateMutability":"nonpayable"}]

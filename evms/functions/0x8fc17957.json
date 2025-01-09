@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"executions","internalType":"struct Batch.ExecutionWithETH[]","type":"tuple[]","components":[{"name":"target","internalType":"address","type":"address"},{"name":"callData","internalType":"bytes","type":"bytes"},{"name":"value","internalType":"uint256","type":"uint256"}]}],"name":"atomicBatchWithETH","outputs":[],"stateMutability":"payable"}]

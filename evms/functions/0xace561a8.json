@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_assetContract","internalType":"address","type":"address"},{"name":"_spender","internalType":"address","type":"address"},{"name":"_amount","internalType":"uint256","type":"uint256"}],"name":"erc20Approve","outputs":[],"stateMutability":"nonpayable"}]

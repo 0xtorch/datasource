@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"ticket","internalType":"contract ITicket","type":"address","indexed":true}],"name":"TicketSet"}]

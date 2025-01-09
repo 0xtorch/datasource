@@ -1,0 +1,1 @@
+[{"type":"function","constant":false,"inputs":[{"name":"newPendingAdmin","internalType":"address payable","type":"address"}],"name":"_setPendingAdmin","outputs":[{"name":"","internalType":"uint256","type":"uint256"}],"payable":false,"stateMutability":"nonpayable"}]

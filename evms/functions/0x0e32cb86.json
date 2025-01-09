@@ -1,0 +1,1 @@
+[{"type":"function","constant":false,"inputs":[{"name":"newAccessControlManagerAddress","internalType":"address","type":"address"}],"name":"setAccessControlManager","outputs":[{"name":"","internalType":"uint256","type":"uint256"}],"payable":false,"stateMutability":"nonpayable"}]

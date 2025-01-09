@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_protocolRewardRatio","internalType":"uint256","type":"uint256"},{"name":"_pikaRewardRatio","internalType":"uint256","type":"uint256"}],"name":"setRewardRatio","outputs":[],"stateMutability":"nonpayable"}]

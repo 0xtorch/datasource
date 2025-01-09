@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"withdrawnToken","internalType":"uint256","type":"uint256"},{"name":"burnAmount","internalType":"uint256","type":"uint256"}],"name":"withdrawGivenInputAmount","outputs":[{"name":"withdrawnAmount","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

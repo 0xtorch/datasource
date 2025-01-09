@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_srcChainId","internalType":"uint16","type":"uint16"},{"name":"_srcBlockHash","internalType":"bytes32","type":"bytes32"},{"name":"_logIndex","internalType":"uint256","type":"uint256"},{"name":"_mptProof","internalType":"bytes","type":"bytes"}],"name":"validateTransactionProof","outputs":[],"stateMutability":"nonpayable"}]

@@ -1,0 +1,1 @@
+[{"type":"function","gas":5633,"inputs":[{"name":"arg0","type":"address"},{"name":"arg1","type":"uint256"}],"name":"user_point_history","outputs":[{"name":"bias","type":"int128"},{"name":"slope","type":"int128"},{"name":"ts","type":"uint256"},{"name":"blk","type":"uint256"}],"stateMutability":"view"}]

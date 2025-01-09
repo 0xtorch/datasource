@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"pos","internalType":"address","type":"address"},{"name":"version","internalType":"uint8","type":"uint8"}],"name":"addPosition","outputs":[],"stateMutability":"nonpayable"}]

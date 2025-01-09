@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"account","internalType":"address","type":"address"},{"name":"pToken","internalType":"contract PToken","type":"address"}],"name":"checkMembership","outputs":[{"name":"","internalType":"bool","type":"bool"}],"stateMutability":"view"}]

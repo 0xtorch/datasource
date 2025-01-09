@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_ticket","internalType":"contract ITicket","type":"address"}],"name":"setTicket","outputs":[{"name":"","internalType":"bool","type":"bool"}],"stateMutability":"nonpayable"}]

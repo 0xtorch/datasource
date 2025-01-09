@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"baseWidth","internalType":"int24","type":"int24","indexed":false},{"name":"limitWidth","internalType":"int24","type":"int24","indexed":false}],"name":"BaseAndLimitUpdated"}]

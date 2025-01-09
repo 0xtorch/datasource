@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_pMintableNFT","internalType":"address","type":"address"},{"name":"_pRoundIndex","internalType":"uint8","type":"uint8"}],"name":"__MaviaPresaleRounds_init","outputs":[],"stateMutability":"nonpayable"}]

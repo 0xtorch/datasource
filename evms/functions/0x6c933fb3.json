@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_oracle","internalType":"address","type":"address"},{"name":"_jobId","internalType":"bytes32","type":"bytes32"},{"name":"_fee","internalType":"uint256","type":"uint256"}],"name":"updateOracle","outputs":[],"stateMutability":"nonpayable"}]

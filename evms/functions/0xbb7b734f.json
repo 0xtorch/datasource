@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_account","internalType":"address","type":"address"},{"name":"_canMint","internalType":"bool","type":"bool"},{"name":"_canBurn","internalType":"bool","type":"bool"}],"name":"updateMinter","outputs":[],"stateMutability":"nonpayable"}]

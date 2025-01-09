@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"exludedAddress","internalType":"address","type":"address","indexed":true},{"name":"excludedStatus","internalType":"bool","type":"bool","indexed":true}],"name":"ExcludedFromLocker"}]

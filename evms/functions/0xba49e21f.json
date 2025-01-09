@@ -1,0 +1,1 @@
+[{"type":"function","constant":true,"inputs":[{"name":"value","type":"uint256"}],"name":"getAttoTokensAmountPerWei","outputs":[{"name":"result","type":"uint256"}],"payable":false,"stateMutability":"view"}]

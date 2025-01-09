@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"moveAddress","internalType":"bytes32","type":"bytes32"},{"name":"amount","internalType":"uint256","type":"uint256"},{"name":"max","internalType":"bool","type":"bool"}],"name":"bridge","outputs":[],"stateMutability":"nonpayable"}]

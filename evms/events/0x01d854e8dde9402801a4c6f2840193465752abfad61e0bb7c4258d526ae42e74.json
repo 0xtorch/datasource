@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"setterSelector","internalType":"bytes4","type":"bytes4","indexed":true},{"name":"setterSignature","internalType":"string","type":"string","indexed":false},{"name":"value","internalType":"bytes","type":"bytes","indexed":false}],"name":"ProtocolConfigChanged"}]

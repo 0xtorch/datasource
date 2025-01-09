@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_quoteAsset","internalType":"contract IERC20","type":"address"}],"name":"addQuoteAsset","outputs":[],"stateMutability":"nonpayable"}]

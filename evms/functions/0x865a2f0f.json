@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"market","internalType":"address","type":"address"},{"name":"valueInWei","internalType":"uint256","type":"uint256"}],"name":"soldInWorldBySplit","outputs":[{"name":"worldPaymentAddress","internalType":"address payable","type":"address"},{"name":"curatorTakeInWei","internalType":"uint256","type":"uint256"}],"stateMutability":"nonpayable"}]

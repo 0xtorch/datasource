@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_lpToken","internalType":"contract IERC20","type":"address"},{"name":"_bribe","internalType":"address","type":"address"}],"name":"setBribe","outputs":[],"stateMutability":"nonpayable"}]

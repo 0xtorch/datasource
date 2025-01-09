@@ -1,0 +1,1 @@
+[{"type":"function","constant":true,"inputs":[],"name":"getTokenWeights","outputs":[{"name":"_tokenWeight0","internalType":"uint32","type":"uint32"},{"name":"_tokenWeight1","internalType":"uint32","type":"uint32"}],"payable":false,"stateMutability":"view"}]

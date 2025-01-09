@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"previousMaxValue","internalType":"uint256","type":"uint256","indexed":false},{"name":"newMaxValue","internalType":"uint256","type":"uint256","indexed":false}],"name":"MaxSupplyChanged"}]

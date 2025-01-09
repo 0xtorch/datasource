@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"oldBatcher","internalType":"address","type":"address","indexed":true},{"name":"newBatcher","internalType":"address","type":"address","indexed":true}],"name":"UpdatedBatcher"}]

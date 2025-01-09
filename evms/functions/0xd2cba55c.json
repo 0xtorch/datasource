@@ -1,0 +1,1 @@
+[{"type":"function","constant":true,"inputs":[],"name":"cTokenManager","outputs":[{"name":"","internalType":"contract ICTokenManager","type":"address"}],"payable":false,"stateMutability":"view"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"data","internalType":"bytes","type":"bytes"}],"name":"mint","outputs":[{"name":"liquidity","internalType":"uint256","type":"uint256"}],"stateMutability":"nonpayable"}]

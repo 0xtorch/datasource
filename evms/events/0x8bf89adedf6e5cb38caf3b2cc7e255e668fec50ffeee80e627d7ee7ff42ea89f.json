@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"dstChainId","internalType":"uint16","type":"uint16","indexed":true},{"name":"toAddress","internalType":"bytes","type":"bytes","indexed":false},{"name":"flag","internalType":"bool","type":"bool","indexed":false}],"name":"SetEnableFor"}]

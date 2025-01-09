@@ -1,0 +1,1 @@
+[{"type":"function","constant":false,"inputs":[{"name":"currentlyInvalid","internalType":"bool","type":"bool"}],"name":"updateDebtCacheValidity","outputs":[],"payable":false,"stateMutability":"nonpayable"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"routers","internalType":"address[]","type":"address[]"},{"name":"functionSelectors","internalType":"bytes4[][]","type":"bytes4[][]"},{"name":"values","internalType":"bool[][]","type":"bool[][]"}],"name":"setExternalRouterSelectorWhitelist","outputs":[],"stateMutability":"nonpayable"}]

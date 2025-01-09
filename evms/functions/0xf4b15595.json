@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_canUserStake","internalType":"bool","type":"bool"},{"name":"_allowPublicLiquidator","internalType":"bool","type":"bool"}],"name":"setCanUserStakeAndAllowPublicLiquidator","outputs":[],"stateMutability":"nonpayable"}]

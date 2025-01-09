@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_clientAddress","internalType":"address","type":"address"},{"name":"_isSnap","internalType":"bool","type":"bool"}],"name":"addClientToWhitelist","outputs":[],"stateMutability":"nonpayable"}]

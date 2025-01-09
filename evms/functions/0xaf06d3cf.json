@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"newCoolOffTime","internalType":"uint16","type":"uint16"}],"name":"setLiquidationCoolOffTime","outputs":[],"stateMutability":"nonpayable"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_transferId","internalType":"bytes32","type":"bytes32"}],"name":"getAavePortalFeeDebt","outputs":[{"name":"","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

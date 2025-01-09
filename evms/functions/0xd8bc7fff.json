@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"vaultId","internalType":"uint256","type":"uint256"},{"name":"account","internalType":"address","type":"address"}],"name":"hasPaid","outputs":[{"name":"paid","internalType":"bool","type":"bool"}],"stateMutability":"view"}]

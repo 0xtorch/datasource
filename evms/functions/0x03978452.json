@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"bridge_token_address","internalType":"address","type":"address"},{"name":"bridge_token_amount","internalType":"uint256","type":"uint256"}],"name":"withdrawBridgeTokens","outputs":[],"stateMutability":"nonpayable"}]

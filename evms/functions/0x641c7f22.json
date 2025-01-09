@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"","internalType":"address","type":"address"}],"name":"mintLimits","outputs":[{"name":"limit","internalType":"uint96","type":"uint96"},{"name":"minted","internalType":"uint96","type":"uint96"},{"name":"lastHour","internalType":"uint64","type":"uint64"}],"stateMutability":"view"}]

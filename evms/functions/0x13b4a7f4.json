@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"router","internalType":"address","type":"address"},{"name":"presale","internalType":"address","type":"address"}],"name":"excludePresaleAddresses","outputs":[],"stateMutability":"nonpayable"}]

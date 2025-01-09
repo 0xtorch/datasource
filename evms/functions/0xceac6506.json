@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_tokenId","internalType":"uint256","type":"uint256"},{"name":"_tokenMetadataIPFSHash","internalType":"string","type":"string"}],"name":"updateMetadataIPFSHash","outputs":[],"stateMutability":"nonpayable"}]

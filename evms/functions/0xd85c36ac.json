@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"tokenId","internalType":"uint256","type":"uint256"},{"name":"colorTokenWord","internalType":"uint256","type":"uint256"}],"name":"updateWordColor","outputs":[],"stateMutability":"nonpayable"}]

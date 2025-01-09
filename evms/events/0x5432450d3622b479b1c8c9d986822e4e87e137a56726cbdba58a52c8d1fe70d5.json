@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"asset","internalType":"contract Asset","type":"address","indexed":true}],"name":"LogAssetSet"}]

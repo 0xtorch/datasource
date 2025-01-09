@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"genesis","internalType":"uint256","type":"uint256"},{"name":"deadline","internalType":"uint256","type":"uint256"},{"name":"period","internalType":"uint256","type":"uint256"}],"name":"getRound","outputs":[{"name":"","internalType":"uint64","type":"uint64"}],"stateMutability":"pure"}]

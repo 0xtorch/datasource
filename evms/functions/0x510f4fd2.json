@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"newLinkedContractAddress","internalType":"address","type":"address"}],"name":"setLinkedContractAddress","outputs":[],"stateMutability":"nonpayable"}]

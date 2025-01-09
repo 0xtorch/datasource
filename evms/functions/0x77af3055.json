@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_hum","internalType":"contract IERC20","type":"address"},{"name":"_veHum","internalType":"contract IVe","type":"address"},{"name":"_humPerSec","internalType":"uint88","type":"uint88"},{"name":"_startTimestamp","internalType":"uint256","type":"uint256"}],"name":"initialize","outputs":[],"stateMutability":"nonpayable"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"sashimonoId","internalType":"uint256","type":"uint256"},{"name":"numberOfBushidos","internalType":"uint256","type":"uint256"}],"name":"mintWithSingleSashimono","outputs":[],"stateMutability":"payable"}]

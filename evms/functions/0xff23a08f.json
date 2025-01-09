@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"bondGroupID","internalType":"uint256","type":"uint256"},{"name":"amountE8","internalType":"uint256","type":"uint256"}],"name":"reverseBondToETH","outputs":[{"name":"","internalType":"bool","type":"bool"}],"stateMutability":"nonpayable"}]

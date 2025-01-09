@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_pools","internalType":"contract IPool[]","type":"address[]"},{"name":"_owner","internalType":"address","type":"address"},{"name":"_receiver","internalType":"address","type":"address"}],"name":"pluginCollectFarmLiquidityRewardBatch","outputs":[{"name":"rewardDebt","internalType":"uint256","type":"uint256"}],"stateMutability":"nonpayable"}]

@@ -1,0 +1,1 @@
+[{"type":"function","constant":false,"inputs":[{"name":"_gymFee","type":"uint256"},{"name":"_maxTrainerLevel","type":"uint8"},{"name":"_maxRandomRound","type":"uint8"},{"name":"_typeBuffPercentage","type":"uint8"},{"name":"_minHpDeducted","type":"uint8"},{"name":"_expPercentage","type":"uint8"}],"name":"setConfig","outputs":[],"payable":false,"stateMutability":"nonpayable"}]

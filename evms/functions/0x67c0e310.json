@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"dynamicAddress","internalType":"address","type":"address"},{"name":"salt","internalType":"bytes32","type":"bytes32"},{"name":"initData","internalType":"bytes","type":"bytes"}],"name":"createNewDynamic","outputs":[],"stateMutability":"payable"}]

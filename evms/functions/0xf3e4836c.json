@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"boolSwapPools","internalType":"address[]","type":"address[]"},{"name":"isAllowed","internalType":"bool[]","type":"bool[]"}],"name":"batchSetBoolAllowedAddresses","outputs":[],"stateMutability":"nonpayable"}]

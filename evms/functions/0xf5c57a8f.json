@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"offset","internalType":"uint256","type":"uint256"},{"name":"limit","internalType":"uint256","type":"uint256"}],"name":"whiteListRange","outputs":[{"name":"whiteList_","internalType":"address[]","type":"address[]"}],"stateMutability":"view"}]

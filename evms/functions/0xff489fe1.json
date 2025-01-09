@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[],"name":"baseSettings","outputs":[{"name":"maxSupply","internalType":"uint64","type":"uint64"},{"name":"maxPerWallet","internalType":"uint64","type":"uint64"},{"name":"amountMinted","internalType":"uint64","type":"uint64"},{"name":"price","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

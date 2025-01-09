@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[],"name":"getLastUpdatedRate","outputs":[{"name":"timestamp","internalType":"uint32","type":"uint32"},{"name":"resultRay","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"sft_","internalType":"address","type":"address"},{"name":"slot_","internalType":"uint256","type":"uint256"},{"name":"erc20_","internalType":"address","type":"address"},{"name":"holdingValueSftId_","internalType":"uint256","type":"uint256"}],"name":"addSftSlotOnlyAdmin","outputs":[],"stateMutability":"nonpayable"}]

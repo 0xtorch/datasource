@@ -1,0 +1,1 @@
+[{"type":"function","constant":true,"inputs":[{"name":"","internalType":"address","type":"address"}],"name":"addressToUserID","outputs":[{"name":"","internalType":"uint48","type":"uint48"}],"payable":false,"stateMutability":"view"}]

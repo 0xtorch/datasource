@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[],"name":"getChainId","outputs":[{"name":"_chainId","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

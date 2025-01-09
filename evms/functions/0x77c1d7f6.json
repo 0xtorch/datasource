@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"delegateContract","internalType":"address","type":"address"},{"name":"spaceId","internalType":"bytes32","type":"bytes32"}],"name":"getDelegate","outputs":[{"name":"","internalType":"address","type":"address"}],"stateMutability":"view"}]

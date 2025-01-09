@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[],"name":"getMetaboltsMintStatus","outputs":[{"name":"","internalType":"bool","type":"bool"},{"name":"","internalType":"bool","type":"bool"},{"name":"","internalType":"bool","type":"bool"},{"name":"","internalType":"bool","type":"bool"},{"name":"","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

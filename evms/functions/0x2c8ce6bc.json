@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[],"name":"readTokens","outputs":[{"name":"_SY","internalType":"contract IStandardizedYield","type":"address"},{"name":"_PT","internalType":"contract IPPrincipalToken","type":"address"},{"name":"_YT","internalType":"contract IPYieldToken","type":"address"}],"stateMutability":"view"}]

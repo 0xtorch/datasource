@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"oldProposalThreshold","internalType":"uint256","type":"uint256","indexed":false},{"name":"newProposalThreshold","internalType":"uint256","type":"uint256","indexed":false}],"name":"ProposalThresholdSet"}]

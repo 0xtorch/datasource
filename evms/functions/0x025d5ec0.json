@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_saleType","internalType":"uint64","type":"uint64"},{"name":"_mintCount","internalType":"uint256","type":"uint256"},{"name":"_maxCount","internalType":"uint256","type":"uint256"},{"name":"_merkleProof","internalType":"bytes32[]","type":"bytes32[]"}],"name":"wlMint","outputs":[],"stateMutability":"payable"}]

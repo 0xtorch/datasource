@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"tokenId","internalType":"uint64","type":"uint64","indexed":true},{"name":"oldTier","internalType":"uint16","type":"uint16","indexed":false},{"name":"newTier","internalType":"uint16","type":"uint16","indexed":false}],"name":"SwitchTier"}]

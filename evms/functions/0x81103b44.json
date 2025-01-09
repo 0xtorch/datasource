@@ -1,0 +1,1 @@
+[{"type":"function","constant":false,"inputs":[{"name":"from","internalType":"address","type":"address"},{"name":"currencyCodes","internalType":"string[]","type":"string[]"},{"name":"amounts","internalType":"uint256[]","type":"uint256[]"}],"name":"withdrawFrom","outputs":[{"name":"","internalType":"uint256[]","type":"uint256[]"}],"payable":false,"stateMutability":"nonpayable"}]

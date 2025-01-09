@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"ssVault","internalType":"address","type":"address"},{"name":"tokenAmountOutMin","internalType":"uint256","type":"uint256"},{"name":"tokenIn","internalType":"address","type":"address"},{"name":"tokenInAmount","internalType":"uint256","type":"uint256"}],"name":"zapIn","outputs":[],"stateMutability":"nonpayable"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"catTokenId","internalType":"uint256","type":"uint256"},{"name":"coinTokenIds","internalType":"uint256[]","type":"uint256[]"}],"name":"batchAddCoins","outputs":[],"stateMutability":"nonpayable"}]

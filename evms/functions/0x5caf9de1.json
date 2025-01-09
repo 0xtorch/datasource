@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"compressedData_","internalType":"bytes","type":"bytes"},{"name":"claimer","internalType":"address","type":"address"}],"name":"claimCompressedRef","outputs":[],"stateMutability":"payable"}]

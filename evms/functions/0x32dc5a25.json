@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"pool","internalType":"address","type":"address"}],"name":"virtualPoolAddresses","outputs":[{"name":"limitVP","internalType":"address","type":"address"},{"name":"eternalVP","internalType":"address","type":"address"}],"stateMutability":"view"}]

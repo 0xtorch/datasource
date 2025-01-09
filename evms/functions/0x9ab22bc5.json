@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_feeNumerator","internalType":"uint96[]","type":"uint96[]"},{"name":"_creators","internalType":"address[]","type":"address[]"}],"name":"setCreatorsfee","outputs":[],"stateMutability":"nonpayable"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[],"name":"getLiquidityState","outputs":[{"name":"baseL","internalType":"uint128","type":"uint128"},{"name":"reinvestL","internalType":"uint128","type":"uint128"},{"name":"reinvestLLast","internalType":"uint128","type":"uint128"}],"stateMutability":"view"}]

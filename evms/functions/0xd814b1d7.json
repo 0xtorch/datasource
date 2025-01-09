@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_tokenFactory","internalType":"address","type":"address"},{"name":"_interestImplementation","internalType":"address","type":"address"}],"name":"migrateTo_3_3_0","outputs":[],"stateMutability":"nonpayable"}]

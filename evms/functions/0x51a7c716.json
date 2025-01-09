@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"idx","internalType":"uint256","type":"uint256"},{"name":"providerAddress","internalType":"address","type":"address"},{"name":"amount","internalType":"uint256","type":"uint256"}],"name":"unstake","outputs":[],"stateMutability":"nonpayable"}]

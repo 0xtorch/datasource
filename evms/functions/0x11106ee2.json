@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"value","internalType":"uint256","type":"uint256"},{"name":"isBuy","internalType":"bool","type":"bool"}],"name":"getAmountOut","outputs":[{"name":"","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

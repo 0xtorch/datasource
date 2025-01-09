@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_registryId","internalType":"uint256","type":"uint256"},{"name":"_sharePriceOracle","internalType":"contract ERC4626SharePriceOracle","type":"address"}],"name":"setSharePriceOracle","outputs":[],"stateMutability":"nonpayable"}]

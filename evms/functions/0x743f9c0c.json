@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"ilkIndex","internalType":"uint8","type":"uint8"},{"name":"user","internalType":"address","type":"address"},{"name":"recipient","internalType":"address","type":"address"},{"name":"amount","internalType":"uint256","type":"uint256"}],"name":"withdrawCollateral","outputs":[],"stateMutability":"nonpayable"}]

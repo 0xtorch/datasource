@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"packedMessage","internalType":"bytes32","type":"bytes32","indexed":false},{"name":"packetCount","internalType":"uint64","type":"uint64","indexed":false},{"name":"newRootHash","internalType":"bytes32","type":"bytes32","indexed":false}],"name":"MessageAdded"}]

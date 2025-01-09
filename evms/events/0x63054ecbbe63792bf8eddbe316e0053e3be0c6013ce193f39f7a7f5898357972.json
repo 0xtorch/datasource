@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"tokenMessenger","internalType":"address","type":"address","indexed":false},{"name":"messageTransmitter","internalType":"address","type":"address","indexed":false}],"name":"InitCCTP"}]

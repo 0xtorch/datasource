@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"borrower","type":"address"},{"name":"amount","type":"uint256"}],"name":"approve_borrow","outputs":[{"name":"","type":"bool"}],"stateMutability":"nonpayable"}]

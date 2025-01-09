@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"creatorContractAddress","internalType":"address","type":"address"},{"name":"soulbound","internalType":"bool","type":"bool"},{"name":"burnable","internalType":"bool","type":"bool"},{"name":"tokenURIPrefix","internalType":"string","type":"string"}],"name":"configureContract","outputs":[],"stateMutability":"nonpayable"}]

@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"freeTrialLength","internalType":"uint256","type":"uint256","indexed":false},{"name":"refundPenaltyBasisPoints","internalType":"uint256","type":"uint256","indexed":false}],"name":"RefundPenaltyChanged"}]

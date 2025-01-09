@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"liquidityProviderAddress","internalType":"address","type":"address"},{"name":"tokenAddress","internalType":"address","type":"address"}],"name":"getLiquidity","outputs":[{"name":"","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

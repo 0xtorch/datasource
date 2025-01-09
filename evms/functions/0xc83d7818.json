@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"planId","internalType":"uint256","type":"uint256"},{"name":"segmentAmounts","internalType":"uint256[]","type":"uint256[]"}],"name":"segmentPlan","outputs":[{"name":"newPlanIds","internalType":"uint256[]","type":"uint256[]"}],"stateMutability":"nonpayable"}]

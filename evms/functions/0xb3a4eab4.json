@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"key","internalType":"bytes32","type":"bytes32"},{"name":"index","internalType":"uint8","type":"uint8"}],"name":"getSwapToken","outputs":[{"name":"","internalType":"contract IERC20","type":"address"}],"stateMutability":"view"}]

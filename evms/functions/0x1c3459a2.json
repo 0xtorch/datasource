@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_phase","internalType":"enum NIJI.Phase","type":"uint8"},{"name":"_cost","internalType":"uint256","type":"uint256"}],"name":"setCost","outputs":[],"stateMutability":"nonpayable"}]

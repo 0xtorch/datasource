@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"user","internalType":"address","type":"address"},{"name":"epoch","internalType":"uint256","type":"uint256"}],"name":"getBoxes","outputs":[{"name":"boxTypes","internalType":"uint256[]","type":"uint256[]"},{"name":"amounts","internalType":"uint256[]","type":"uint256[]"}],"stateMutability":"view"}]

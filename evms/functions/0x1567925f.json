@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"vaultId","internalType":"uint256","type":"uint256"},{"name":"_xTokenAddress","internalType":"address","type":"address"}],"name":"setXTokenAddress","outputs":[],"stateMutability":"nonpayable"}]

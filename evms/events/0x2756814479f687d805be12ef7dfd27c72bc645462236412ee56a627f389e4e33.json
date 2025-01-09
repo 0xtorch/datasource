@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"oldProtocol","internalType":"address","type":"address","indexed":false},{"name":"newProtocol","internalType":"address","type":"address","indexed":false}],"name":"ProtocolAddressUpdated"}]

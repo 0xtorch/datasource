@@ -1,0 +1,1 @@
+[{"type":"function","constant":false,"inputs":[{"name":"accounts","internalType":"address[]","type":"address[]"},{"name":"status","internalType":"enum GraphSale.AllowStatus","type":"uint8"}],"name":"setAllowListMany","outputs":[],"payable":false,"stateMutability":"nonpayable"}]

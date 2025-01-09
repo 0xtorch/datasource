@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_stargateImpl","internalType":"address","type":"address"},{"name":"_assetId","internalType":"uint16","type":"uint16"}],"name":"setAssetId","outputs":[],"stateMutability":"nonpayable"}]

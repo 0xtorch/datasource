@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"collatIn","internalType":"uint256","type":"uint256","indexed":false},{"name":"oruIn","internalType":"uint256","type":"uint256","indexed":false},{"name":"ousdOut","internalType":"uint256","type":"uint256","indexed":false},{"name":"ousdFee","internalType":"uint256","type":"uint256","indexed":false}],"name":"LogMint"}]

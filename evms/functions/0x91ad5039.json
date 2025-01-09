@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"","internalType":"bytes32","type":"bytes32"}],"name":"bridgeProofs","outputs":[{"name":"timestamp","internalType":"uint96","type":"uint96"},{"name":"relayer","internalType":"address","type":"address"}],"stateMutability":"view"}]

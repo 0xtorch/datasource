@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_totalRewardPerSecond","internalType":"uint256","type":"uint256"}],"name":"setTotalRewardPerSecond","outputs":[],"stateMutability":"nonpayable"}]

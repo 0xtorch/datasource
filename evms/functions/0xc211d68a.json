@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_tokenURI","internalType":"string","type":"string"},{"name":"_rule","internalType":"uint256","type":"uint256"},{"name":"_timestamp","internalType":"uint256","type":"uint256"},{"name":"_signature","internalType":"bytes","type":"bytes"}],"name":"mintMenta","outputs":[],"stateMutability":"payable"}]

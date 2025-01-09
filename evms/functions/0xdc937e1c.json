@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"delegatee","internalType":"address","type":"address"},{"name":"delegationType","internalType":"enum IGovernancePowerDelegationToken.DelegationType","type":"uint8"}],"name":"delegateByType","outputs":[],"stateMutability":"nonpayable"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"account","internalType":"bytes","type":"bytes"}],"name":"isOwnerBytes","outputs":[{"name":"","internalType":"bool","type":"bool"}],"stateMutability":"view"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"listAdress","internalType":"address[]","type":"address[]"}],"name":"remove_from_List","outputs":[{"name":"","internalType":"bool","type":"bool"}],"stateMutability":"nonpayable"}]

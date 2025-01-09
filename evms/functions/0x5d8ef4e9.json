@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"recipient","internalType":"address","type":"address"},{"name":"orgFactoryContractAddress","internalType":"address","type":"address"}],"name":"checkRecipient","outputs":[{"name":"","internalType":"bool","type":"bool"}],"stateMutability":"view"}]

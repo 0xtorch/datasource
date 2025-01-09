@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"feeCollector","type":"address","indexed":false},{"name":"fee10000th","type":"uint256","indexed":false}],"name":"FeeSetup"}]

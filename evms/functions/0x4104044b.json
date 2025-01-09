@@ -1,0 +1,1 @@
+[{"type":"function","constant":false,"inputs":[{"name":"_mint_type","type":"uint256"},{"name":"_account","type":"address"},{"name":"_tokens","type":"uint256"},{"name":"_term","type":"uint256"}],"name":"mintTokensLocked","outputs":[],"payable":false,"stateMutability":"nonpayable"}]

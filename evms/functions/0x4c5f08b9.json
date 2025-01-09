@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"paymentToken","internalType":"address","type":"address"},{"name":"whitePrice","internalType":"uint256","type":"uint256"},{"name":"publicPrice","internalType":"uint256","type":"uint256"},{"name":"symbol","internalType":"string","type":"string"}],"name":"addPrice","outputs":[],"stateMutability":"nonpayable"}]

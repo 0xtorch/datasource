@@ -1,0 +1,1 @@
+[{"type":"function","constant":false,"inputs":[{"name":"_reason","type":"bytes32"},{"name":"_time","type":"uint256"}],"name":"extendLock","outputs":[{"name":"","type":"bool"}],"payable":false,"stateMutability":"nonpayable"}]

@@ -1,0 +1,1 @@
+[{"type":"function","constant":true,"inputs":[{"name":"_name","type":"bytes32"}],"name":"register","outputs":[{"name":"","type":"address"}],"payable":false,"stateMutability":"view"}]

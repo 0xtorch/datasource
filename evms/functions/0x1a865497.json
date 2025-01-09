@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_tokens","internalType":"contract IERC20[]","type":"address[]"},{"name":"_spenders","internalType":"address[]","type":"address[]"}],"name":"giveAllowances","outputs":[],"stateMutability":"nonpayable"}]

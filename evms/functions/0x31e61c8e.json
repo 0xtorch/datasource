@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_rescueAddress","internalType":"address","type":"address"}],"name":"emergencyRescue","outputs":[],"stateMutability":"nonpayable"}]

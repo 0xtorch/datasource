@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"recipientOfYield","internalType":"address","type":"address"}],"name":"claimAllYield","outputs":[{"name":"","internalType":"uint256","type":"uint256"}],"stateMutability":"nonpayable"}]

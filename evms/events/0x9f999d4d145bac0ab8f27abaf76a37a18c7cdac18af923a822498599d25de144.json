@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"oldTradingPool","internalType":"address","type":"address","indexed":false},{"name":"newTradingPool","internalType":"address","type":"address","indexed":false}],"name":"TradingPoolChanged"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"","internalType":"uint256","type":"uint256"}],"name":"withdrawalAddresses","outputs":[{"name":"account","internalType":"address","type":"address"},{"name":"percentage","internalType":"uint96","type":"uint96"}],"stateMutability":"view"}]

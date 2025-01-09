@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_addressLock","internalType":"address","type":"address"},{"name":"_arrAmount","internalType":"uint256[]","type":"uint256[]"},{"name":"_arrUnlockTime","internalType":"uint256[]","type":"uint256[]"}],"name":"addScheduleLockByAddress","outputs":[],"stateMutability":"nonpayable"}]

@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"matchAmountAfterFees","internalType":"uint256","type":"uint256","indexed":false},{"name":"protocolFeeAmount","internalType":"uint256","type":"uint256","indexed":false},{"name":"roundFeeAmount","internalType":"uint256","type":"uint256","indexed":false}],"name":"PayFeeAndEscrowFundsToPayoutContract"}]

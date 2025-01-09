@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_user","internalType":"address","type":"address"},{"name":"_beneficiaryType","internalType":"enum TokenVesting.BeneficiaryType","type":"uint8"},{"name":"_totalAllocation","internalType":"uint256","type":"uint256"}],"name":"claimableTokenOf","outputs":[{"name":"","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

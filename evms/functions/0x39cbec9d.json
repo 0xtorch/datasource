@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[],"name":"getRewarderParameter","outputs":[{"name":"rewardPerSecond","internalType":"uint256","type":"uint256"},{"name":"lastUpdateTimestamp","internalType":"uint256","type":"uint256"},{"name":"endTimestamp","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

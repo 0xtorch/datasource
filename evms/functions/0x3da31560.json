@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_buffer","internalType":"uint256","type":"uint256"}],"name":"concurrentCanExec","outputs":[{"name":"","internalType":"bool","type":"bool"}],"stateMutability":"view"}]

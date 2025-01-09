@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"ctx","internalType":"bytes","type":"bytes"},{"name":"appCreditUsedDelta","internalType":"int256","type":"int256"}],"name":"appCallbackPop","outputs":[{"name":"newCtx","internalType":"bytes","type":"bytes"}],"stateMutability":"nonpayable"}]

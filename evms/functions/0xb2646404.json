@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"polyIdA","internalType":"uint256","type":"uint256"},{"name":"polyIdB","internalType":"uint256","type":"uint256"},{"name":"signature","internalType":"bytes","type":"bytes"}],"name":"preSaleOffspring","outputs":[],"stateMutability":"payable"}]

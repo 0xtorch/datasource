@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_tokenId","internalType":"uint256","type":"uint256"},{"name":"_hash","internalType":"bytes32","type":"bytes32"}],"name":"proxySetContent","outputs":[],"stateMutability":"nonpayable"}]

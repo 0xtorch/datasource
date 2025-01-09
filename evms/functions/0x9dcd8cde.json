@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_wallet","internalType":"address","type":"address"}],"name":"getPresaleWalletAmount","outputs":[{"name":"","internalType":"uint8","type":"uint8"}],"stateMutability":"view"}]

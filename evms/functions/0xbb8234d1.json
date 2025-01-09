@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"glpDeposited","internalType":"uint256","type":"uint256"},{"name":"withUpdatedPoolAmounts","internalType":"bool","type":"bool"}],"name":"getOptimalBorrows","outputs":[{"name":"optimalBtcBorrow","internalType":"uint256","type":"uint256"},{"name":"optimalEthBorrow","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

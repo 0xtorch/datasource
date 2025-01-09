@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"royaltyReceiver","internalType":"address","type":"address"}],"name":"setRoyaltyReceiver","outputs":[],"stateMutability":"nonpayable"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"tokenIn","internalType":"address","type":"address"},{"name":"amountIn","internalType":"uint256","type":"uint256"},{"name":"callData","internalType":"bytes","type":"bytes"}],"name":"swapAndDeposit1Inch","outputs":[{"name":"pufETHAmount","internalType":"uint256","type":"uint256"}],"stateMutability":"payable"}]

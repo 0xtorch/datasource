@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"","internalType":"uint256","type":"uint256"},{"name":"tokenYAmount","internalType":"uint256","type":"uint256"},{"name":"","internalType":"bytes","type":"bytes"}],"name":"swapY2XCallback","outputs":[],"stateMutability":"nonpayable"}]

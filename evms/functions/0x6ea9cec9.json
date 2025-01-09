@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_chainIdTo","internalType":"uint256","type":"uint256"},{"name":"_targetContractAddress","internalType":"bytes","type":"bytes"},{"name":"_targetContractCalldata","internalType":"bytes","type":"bytes"}],"name":"sendMessage","outputs":[{"name":"submissionId","internalType":"bytes32","type":"bytes32"}],"stateMutability":"payable"}]

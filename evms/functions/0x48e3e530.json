@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"tid","internalType":"uint256","type":"uint256"},{"name":"lpTokenAmount","internalType":"uint256","type":"uint256"}],"name":"getRedeemByLpTokenAmount","outputs":[{"name":"bTokenAmount","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

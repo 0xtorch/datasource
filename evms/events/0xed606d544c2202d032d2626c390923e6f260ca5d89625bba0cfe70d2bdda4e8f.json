@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"phase","internalType":"enum MafiaNuts.Phase","type":"uint8","indexed":true}],"name":"PhaseChange"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"amount","internalType":"uint256","type":"uint256"}],"name":"getTokenPower","outputs":[{"name":"power","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

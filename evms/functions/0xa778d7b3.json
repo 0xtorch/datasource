@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"ilkIndex","internalType":"uint8","type":"uint8"}],"name":"calculateRewardAndDebtDistributionForIlk","outputs":[{"name":"newRateIncrease","internalType":"uint104","type":"uint104"},{"name":"timestampIncrease","internalType":"uint48","type":"uint48"}],"stateMutability":"view"}]

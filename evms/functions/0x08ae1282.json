@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"users","internalType":"address[]","type":"address[]"},{"name":"airdropType","internalType":"uint256","type":"uint256"}],"name":"gen1Airdrop","outputs":[],"stateMutability":"nonpayable"}]

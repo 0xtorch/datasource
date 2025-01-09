@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"referralId","internalType":"string","type":"string","indexed":false}],"name":"ReferralIdEmitted"}]

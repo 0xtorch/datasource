@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_extensionName","internalType":"string","type":"string"},{"name":"_functionSelector","internalType":"bytes4","type":"bytes4"}],"name":"_disableFunctionInExtension","outputs":[],"stateMutability":"nonpayable"}]

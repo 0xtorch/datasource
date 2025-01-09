@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"id","type":"uint256","indexed":true},{"name":"proto","type":"uint16","indexed":false},{"name":"purity","type":"uint16","indexed":false},{"name":"owner","type":"address","indexed":false}],"name":"CardCreated"}]

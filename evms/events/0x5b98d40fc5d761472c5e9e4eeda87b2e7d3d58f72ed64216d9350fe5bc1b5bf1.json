@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"owner","internalType":"address","type":"address","indexed":true},{"name":"name","internalType":"string","type":"string","indexed":false},{"name":"symbol","internalType":"string","type":"string","indexed":false}],"name":"Initialize"}]

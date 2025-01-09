@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"oldRecipient","internalType":"address","type":"address","indexed":true},{"name":"newRecipient","internalType":"address","type":"address","indexed":true}],"name":"PaymentRecipientUpdated"}]

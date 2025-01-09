@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"oldLiquidityProviderFeeRate","internalType":"uint256","type":"uint256","indexed":false},{"name":"newLiquidityProviderFeeRate","internalType":"uint256","type":"uint256","indexed":false}],"name":"UpdateLiquidityProviderFeeRate"}]

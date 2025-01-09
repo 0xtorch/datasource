@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"role_manager","type":"address","indexed":true}],"name":"UpdateRoleManager"}]

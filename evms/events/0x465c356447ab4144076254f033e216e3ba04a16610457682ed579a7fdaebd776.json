@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"keeper","internalType":"address","type":"address","indexed":false},{"name":"isAlive","internalType":"bool","type":"bool","indexed":false}],"name":"UpdateKeeper"}]

@@ -1,0 +1,1 @@
+[{"type":"function","constant":false,"inputs":[{"name":"newThreshold","internalType":"uint256","type":"uint256"},{"name":"oldThreshold","internalType":"uint256","type":"uint256"}],"name":"logThresholdChange","outputs":[],"payable":false,"stateMutability":"nonpayable"}]

@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"tee","internalType":"address","type":"address","indexed":false},{"name":"grant","internalType":"bool","type":"bool","indexed":false}],"name":"ModifyTeeRole"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"assetId","internalType":"uint256","type":"uint256"}],"name":"getSupportedAsset","outputs":[{"name":"","internalType":"address","type":"address"}],"stateMutability":"view"}]

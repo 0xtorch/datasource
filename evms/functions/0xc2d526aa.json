@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"","internalType":"uint256","type":"uint256"}],"name":"_rank","outputs":[{"name":"next","internalType":"uint256","type":"uint256"},{"name":"prev","internalType":"uint256","type":"uint256"},{"name":"delb","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

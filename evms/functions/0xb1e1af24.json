@@ -1,0 +1,1 @@
+[{"type":"function","constant":false,"inputs":[{"name":"cToken","internalType":"contract CToken","type":"address"},{"name":"state","internalType":"bool","type":"bool"}],"name":"_setFlashloanPaused","outputs":[{"name":"","internalType":"bool","type":"bool"}],"payable":false,"stateMutability":"nonpayable"}]

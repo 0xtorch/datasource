@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_strategy","internalType":"contract IJonesGlpLeverageStrategy","type":"address"}],"name":"setStrategyAddress","outputs":[],"stateMutability":"nonpayable"}]

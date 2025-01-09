@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"","internalType":"uint256","type":"uint256"}],"name":"bids","outputs":[{"name":"bidder","internalType":"address","type":"address"},{"name":"amount","internalType":"uint256","type":"uint256"},{"name":"time","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

@@ -1,0 +1,1 @@
+[{"type":"function","constant":true,"inputs":[],"name":"parlayAMMLiquidityPool","outputs":[{"name":"","internalType":"contract IParlayAMMLiquidityPool","type":"address"}],"payable":false,"stateMutability":"view"}]

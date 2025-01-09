@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"tokenId","internalType":"uint256","type":"uint256","indexed":false},{"name":"valuation","internalType":"uint256","type":"uint256","indexed":false},{"name":"status","internalType":"enum PokPokProtocolV2.STATUS","type":"uint8","indexed":false}],"name":"ChickenHarvested"}]

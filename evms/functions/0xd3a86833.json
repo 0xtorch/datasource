@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"asset","internalType":"address","type":"address"},{"name":"referralId","internalType":"string","type":"string"}],"name":"completeWithdrawal","outputs":[],"stateMutability":"nonpayable"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"tokenIds","internalType":"uint256[]","type":"uint256[]"},{"name":"multipliers","internalType":"uint256[]","type":"uint256[]"}],"name":"setTraitsMultipliers","outputs":[],"stateMutability":"nonpayable"}]

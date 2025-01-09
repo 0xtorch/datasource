@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"weekNum","internalType":"uint256","type":"uint256","indexed":false},{"name":"rewardAmount","internalType":"uint256","type":"uint256","indexed":false}],"name":"NewWeek"}]

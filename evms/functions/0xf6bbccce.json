@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"timeWindow_","internalType":"uint256","type":"uint256"},{"name":"transferLimitPercent_","internalType":"uint256","type":"uint256"}],"name":"setTransferLimit","outputs":[],"stateMutability":"nonpayable"}]

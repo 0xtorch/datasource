@@ -1,0 +1,1 @@
+[{"type":"function","constant":false,"inputs":[{"name":"_add","type":"address[]"},{"name":"_b","type":"bool"}],"name":"setBlacks","outputs":[],"payable":false,"stateMutability":"nonpayable"}]

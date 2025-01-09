@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"payoutManager","internalType":"address","type":"address","indexed":false}],"name":"PayoutManagerUpdated"}]

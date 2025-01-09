@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"merkleRoot","internalType":"bytes32","type":"bytes32","indexed":false},{"name":"ipfsHash","internalType":"bytes32","type":"bytes32","indexed":false},{"name":"endOfDisputePeriod","internalType":"uint48","type":"uint48","indexed":false}],"name":"TreeUpdated"}]

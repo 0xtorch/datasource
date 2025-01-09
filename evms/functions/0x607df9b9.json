@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_lpTokenAddr","internalType":"address","type":"address"},{"name":"_isExists","internalType":"bool","type":"bool"}],"name":"updateLpTokenExists","outputs":[],"stateMutability":"nonpayable"}]

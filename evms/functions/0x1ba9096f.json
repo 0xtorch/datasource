@@ -1,0 +1,1 @@
+[{"type":"function","constant":true,"inputs":[{"name":"_data","internalType":"bytes32","type":"bytes32"}],"name":"ethSignedMessageHash","outputs":[{"name":"","internalType":"bytes32","type":"bytes32"}],"payable":false,"stateMutability":"pure"}]

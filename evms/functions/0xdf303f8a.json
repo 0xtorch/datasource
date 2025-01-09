@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_poolToken","internalType":"address","type":"address"},{"name":"_newReserveFactor","internalType":"uint16","type":"uint16"}],"name":"setReserveFactor","outputs":[],"stateMutability":"nonpayable"}]

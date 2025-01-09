@@ -1,0 +1,1 @@
+[{"type":"function","constant":false,"inputs":[{"name":"_spawnRate","internalType":"uint256","type":"uint256"},{"name":"_withdrawRate","internalType":"uint256","type":"uint256"},{"name":"_timeLock","internalType":"uint256","type":"uint256"}],"name":"setParams","outputs":[],"payable":false,"stateMutability":"nonpayable"}]

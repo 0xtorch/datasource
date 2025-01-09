@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"owner","internalType":"address","type":"address"},{"name":"manager","internalType":"address","type":"address"}],"name":"hasPermission","outputs":[{"name":"","internalType":"bool","type":"bool"}],"stateMutability":"view"}]

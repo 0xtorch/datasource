@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"rootCollectionAddress","internalType":"address","type":"address"},{"name":"rootCollectionTokenIds","internalType":"uint256[]","type":"uint256[]"}],"name":"claimBatch","outputs":[],"stateMutability":"nonpayable"}]

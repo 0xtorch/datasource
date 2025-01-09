@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"account","internalType":"address","type":"address"},{"name":"reinvest","internalType":"bool","type":"bool"},{"name":"amountOutMin","internalType":"uint256","type":"uint256"}],"name":"claim","outputs":[],"stateMutability":"nonpayable"}]

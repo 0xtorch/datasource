@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"sft_","internalType":"address","type":"address"},{"name":"slot_","internalType":"uint256","type":"uint256"}],"name":"isSftSlotWithdrawAllowed","outputs":[{"name":"","internalType":"bool","type":"bool"}],"stateMutability":"view"}]

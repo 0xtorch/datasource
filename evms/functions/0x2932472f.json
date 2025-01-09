@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"prev","internalType":"address","type":"address"},{"name":"creditAccount","internalType":"address","type":"address"},{"name":"to","internalType":"address","type":"address"}],"name":"takeOut","outputs":[],"stateMutability":"nonpayable"}]

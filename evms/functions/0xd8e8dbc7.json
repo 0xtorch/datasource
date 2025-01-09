@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"stargateImpl","internalType":"address","type":"address"}],"name":"assetIds","outputs":[{"name":"assetId","internalType":"uint16","type":"uint16"}],"stateMutability":"view"}]

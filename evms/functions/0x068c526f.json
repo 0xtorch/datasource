@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"account","internalType":"address","type":"address"},{"name":"tokenIds","internalType":"uint256[]","type":"uint256[]"}],"name":"calculateRewards","outputs":[{"name":"rewards","internalType":"uint256[]","type":"uint256[]"}],"stateMutability":"view"}]

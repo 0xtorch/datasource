@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_krAsset","internalType":"address","type":"address"}],"name":"getKrAssetExists","outputs":[{"name":"","internalType":"bool","type":"bool"}],"stateMutability":"view"}]

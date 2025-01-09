@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_positionID","internalType":"uint96","type":"uint96"},{"name":"_feeReceiver","internalType":"address","type":"address"}],"name":"liquidateLiquidityPosition","outputs":[],"stateMutability":"nonpayable"}]

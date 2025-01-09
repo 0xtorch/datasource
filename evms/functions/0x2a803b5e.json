@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"initialToken","internalType":"address","type":"address"},{"name":"wantedToken","internalType":"address","type":"address"}],"name":"quoteMaxInitialAssetWithdrawable","outputs":[{"name":"maxInitialAssetAmount","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

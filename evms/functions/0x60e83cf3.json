@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"merkleRoot","internalType":"bytes32","type":"bytes32"}],"name":"l2MerkleRootsDepths","outputs":[{"name":"treeDepth","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

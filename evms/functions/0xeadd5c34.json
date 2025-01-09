@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_metaRouter","internalType":"contract IMetaRouter","type":"address"}],"name":"setMetaRouter","outputs":[],"stateMutability":"nonpayable"}]

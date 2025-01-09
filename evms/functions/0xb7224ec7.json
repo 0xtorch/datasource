@@ -1,0 +1,1 @@
+[{"type":"function","constant":false,"inputs":[{"name":"prevDebtCache","internalType":"contract IDebtCache","type":"address"},{"name":"prevIssuer","internalType":"contract IIssuer","type":"address"}],"name":"importExcludedIssuedDebts","outputs":[],"payable":false,"stateMutability":"nonpayable"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[],"name":"surge_info","outputs":[{"name":"","type":"tuple","components":[{"name":"last_interest_per_second","type":"uint64"},{"name":"last_elapsed_time","type":"uint64"}]}],"stateMutability":"view"}]

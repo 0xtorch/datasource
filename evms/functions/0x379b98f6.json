@@ -1,0 +1,1 @@
+[{"type":"function","constant":false,"inputs":[{"name":"toChainId","internalType":"uint64","type":"uint64"},{"name":"targetProxyHash","internalType":"bytes","type":"bytes"}],"name":"bindProxyHash","outputs":[{"name":"","internalType":"bool","type":"bool"}],"payable":false,"stateMutability":"nonpayable"}]

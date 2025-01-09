@@ -1,0 +1,1 @@
+[{"type":"function","constant":false,"inputs":[{"name":"dollarAmount","internalType":"uint256","type":"uint256"}],"name":"purchaseCoupons","outputs":[{"name":"","internalType":"uint256","type":"uint256"}],"payable":false,"stateMutability":"nonpayable"}]

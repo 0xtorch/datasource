@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"","internalType":"address","type":"address"}],"name":"liquidityProviders","outputs":[{"name":"claimedUntil","internalType":"uint256","type":"uint256"},{"name":"currentBalance","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

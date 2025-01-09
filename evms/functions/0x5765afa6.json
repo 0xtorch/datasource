@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"ogId","internalType":"uint256","type":"uint256"}],"name":"checkMintedByOg","outputs":[{"name":"","internalType":"bool","type":"bool"}],"stateMutability":"view"}]

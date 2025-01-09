@@ -1,0 +1,1 @@
+[{"type":"function","constant":false,"inputs":[{"name":"newSaleAddress","type":"address"}],"name":"setSaleAddress","outputs":[{"name":"","type":"bool"}],"payable":false,"stateMutability":"nonpayable"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"mechanicVectorId","internalType":"bytes32","type":"bytes32"},{"name":"recipient","internalType":"address","type":"address"},{"name":"numToMint","internalType":"uint32","type":"uint32"},{"name":"data","internalType":"bytes","type":"bytes"}],"name":"mechanicMintNum","outputs":[],"stateMutability":"payable"}]

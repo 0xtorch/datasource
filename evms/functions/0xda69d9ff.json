@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"token","internalType":"address","type":"address"},{"name":"maxAmountPerPeriod","internalType":"uint208","type":"uint208"},{"name":"maxAmountTotal","internalType":"uint256","type":"uint256"}],"name":"setErc20ThrottleWithdrawalsMaxAmount","outputs":[],"stateMutability":"nonpayable"}]

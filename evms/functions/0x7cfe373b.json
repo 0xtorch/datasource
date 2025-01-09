@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_fnft","internalType":"contract FNFT","type":"address"},{"name":"status","internalType":"bool","type":"bool"}],"name":"setStatusFNFT","outputs":[{"name":"","internalType":"contract FNFT","type":"address"}],"stateMutability":"nonpayable"}]

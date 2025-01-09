@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"lockupPeriod","internalType":"enum StakingRewards.LockupPeriod","type":"uint8"},{"name":"leverageMultiplier","internalType":"uint256","type":"uint256"}],"name":"setLeverageMultiplier","outputs":[],"stateMutability":"nonpayable"}]

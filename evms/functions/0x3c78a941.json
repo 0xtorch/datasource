@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_LBPair","internalType":"contract ILBPair","type":"address"}],"name":"forceDecay","outputs":[],"stateMutability":"nonpayable"}]

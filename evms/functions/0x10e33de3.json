@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[],"name":"how_long_more","outputs":[{"name":"Days","internalType":"uint256","type":"uint256"},{"name":"Hours","internalType":"uint256","type":"uint256"},{"name":"Minutes","internalType":"uint256","type":"uint256"},{"name":"Seconds","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

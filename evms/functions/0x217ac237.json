@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[],"name":"getPoolState","outputs":[{"name":"sqrtP","internalType":"uint160","type":"uint160"},{"name":"currentTick","internalType":"int24","type":"int24"},{"name":"nearestCurrentTick","internalType":"int24","type":"int24"},{"name":"locked","internalType":"bool","type":"bool"}],"stateMutability":"view"}]

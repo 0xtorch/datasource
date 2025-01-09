@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"tokenId","internalType":"uint256","type":"uint256"}],"name":"getArtistFor3rdSale","outputs":[{"name":"","internalType":"enum Minter.Artist","type":"uint8"}],"stateMutability":"pure"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"proxies","internalType":"address[]","type":"address[]"},{"name":"acceptAnyTokenFlags","internalType":"bool[]","type":"bool[]"}],"name":"addAnycallProxies","outputs":[],"stateMutability":"nonpayable"}]

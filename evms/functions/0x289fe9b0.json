@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"newLiquidityCooldown","internalType":"uint32","type":"uint32"}],"name":"setLiquidityCooldown","outputs":[],"stateMutability":"nonpayable"}]

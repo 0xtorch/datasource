@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"callerAddress","internalType":"address","type":"address"}],"name":"removeFromCallerWhitelist","outputs":[],"stateMutability":"nonpayable"}]

@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"masterContract","internalType":"address","type":"address","indexed":true},{"name":"data","internalType":"bytes","type":"bytes","indexed":false},{"name":"cloneAddress","internalType":"address","type":"address","indexed":true}],"name":"LogDeploy"}]

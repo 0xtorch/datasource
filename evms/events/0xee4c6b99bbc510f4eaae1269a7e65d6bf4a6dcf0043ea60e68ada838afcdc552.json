@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"customer","type":"address","indexed":false},{"name":"tier","type":"uint256","indexed":false}],"name":"PurchaseVIP"}]

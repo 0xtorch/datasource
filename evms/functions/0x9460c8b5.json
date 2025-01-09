@@ -1,0 +1,1 @@
+[{"type":"function","constant":false,"inputs":[{"name":"_prime","internalType":"contract IPrime","type":"address"}],"name":"_setPrimeToken","outputs":[{"name":"","internalType":"uint256","type":"uint256"}],"payable":false,"stateMutability":"nonpayable"}]

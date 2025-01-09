@@ -1,0 +1,1 @@
+[{"type":"function","gas":41251,"inputs":[{"name":"strategy","type":"address"},{"name":"performanceFee","type":"uint256"}],"name":"updateStrategyPerformanceFee","outputs":[],"stateMutability":"nonpayable"}]

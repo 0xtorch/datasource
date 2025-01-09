@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[],"name":"getWethToken","outputs":[{"name":"wethToken_","internalType":"address","type":"address"}],"stateMutability":"view"}]

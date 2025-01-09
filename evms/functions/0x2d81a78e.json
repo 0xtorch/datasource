@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"wholeVeCHR","internalType":"bool","type":"bool"}],"name":"claim","outputs":[{"name":"_tokenId","internalType":"uint256","type":"uint256"},{"name":"claimed","internalType":"bool","type":"bool"}],"stateMutability":"nonpayable"}]

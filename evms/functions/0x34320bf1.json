@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_assetId","internalType":"uint256","type":"uint256"},{"name":"_tag","internalType":"string","type":"string"}],"name":"generateSVGPart","outputs":[{"name":"","internalType":"string","type":"string"}],"stateMutability":"view"}]

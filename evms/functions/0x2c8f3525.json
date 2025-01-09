@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"stageNum","internalType":"uint256","type":"uint256"},{"name":"addr","internalType":"address","type":"address"},{"name":"merkleProof","internalType":"bytes32[]","type":"bytes32[]"}],"name":"allowance","outputs":[{"name":"","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

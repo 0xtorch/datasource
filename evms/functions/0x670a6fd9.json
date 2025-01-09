@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_admin","internalType":"address","type":"address"},{"name":"_status","internalType":"bool","type":"bool"}],"name":"updateAdmin","outputs":[],"stateMutability":"nonpayable"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_to","internalType":"address","type":"address"},{"name":"_send0","internalType":"bool","type":"bool"},{"name":"_send1","internalType":"bool","type":"bool"}],"name":"withdrawFee","outputs":[],"stateMutability":"nonpayable"}]

@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"amountRequested","internalType":"uint256","type":"uint256","indexed":false},{"name":"amountGiven","internalType":"uint256","type":"uint256","indexed":false},{"name":"deficit","internalType":"bool","type":"bool","indexed":false},{"name":"flashLoan","internalType":"address","type":"address","indexed":false}],"name":"Leverage"}]

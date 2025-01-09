@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"tokenContract","internalType":"address","type":"address"},{"name":"tokenId","internalType":"uint256","type":"uint256"}],"name":"getFirstMinter","outputs":[{"name":"firstMinter","internalType":"address","type":"address"}],"stateMutability":"view"}]

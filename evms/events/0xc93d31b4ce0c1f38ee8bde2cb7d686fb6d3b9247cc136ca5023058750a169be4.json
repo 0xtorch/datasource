@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"feeRecipient","internalType":"address","type":"address","indexed":false},{"name":"isFeeManager","internalType":"bool","type":"bool","indexed":false}],"name":"FeeRecipientChanged"}]

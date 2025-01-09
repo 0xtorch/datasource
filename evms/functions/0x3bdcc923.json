@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_managers","internalType":"address[]","type":"address[]"},{"name":"_values","internalType":"bool[]","type":"bool[]"}],"name":"setManagers","outputs":[],"stateMutability":"nonpayable"}]

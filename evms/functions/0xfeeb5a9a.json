@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"to","internalType":"address[]","type":"address[]"},{"name":"amounts","internalType":"uint256[]","type":"uint256[]"},{"name":"uris","internalType":"string[]","type":"string[]"}],"name":"mintBaseNew","outputs":[{"name":"","internalType":"uint256[]","type":"uint256[]"}],"stateMutability":"nonpayable"}]

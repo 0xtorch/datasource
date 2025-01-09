@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"srcAccount","internalType":"address","type":"address","indexed":false},{"name":"destAccount","internalType":"address","type":"address","indexed":false}],"name":"AccountMerged"}]

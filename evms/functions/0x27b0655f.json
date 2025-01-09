@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"questId_","internalType":"string","type":"string"},{"name":"address_","internalType":"address","type":"address"}],"name":"getAddressMinted","outputs":[{"name":"","internalType":"bool","type":"bool"}],"stateMutability":"view"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_discountCode","internalType":"string","type":"string"},{"name":"_discount","internalType":"uint256","type":"uint256"}],"name":"setAirdropFeeDiscount","outputs":[{"name":"success","internalType":"bool","type":"bool"}],"stateMutability":"nonpayable"}]

@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"poolHedger","internalType":"contract PoolHedger","type":"address","indexed":false}],"name":"PoolHedgerUpdated"}]

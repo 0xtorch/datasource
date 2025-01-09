@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"contractAddress","internalType":"address","type":"address"},{"name":"owner_","internalType":"address","type":"address"},{"name":"creator","internalType":"address","type":"address"},{"name":"_isExternal","internalType":"bool","type":"bool"}],"name":"addToken","outputs":[],"stateMutability":"nonpayable"}]

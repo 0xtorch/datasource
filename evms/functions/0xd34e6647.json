@@ -1,0 +1,1 @@
+[{"type":"function","constant":false,"inputs":[{"name":"buyer","type":"address"},{"name":"isApproved","type":"bool"}],"name":"setUpdateApproval","outputs":[{"name":"","type":"bool"}],"payable":false,"stateMutability":"nonpayable"}]

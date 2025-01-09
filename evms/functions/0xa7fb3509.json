@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"asset","internalType":"address","type":"address"},{"name":"cashAmount","internalType":"uint256","type":"uint256"},{"name":"borrowAmount","internalType":"uint256","type":"uint256"}],"name":"leverageDeposit","outputs":[],"stateMutability":"payable"}]

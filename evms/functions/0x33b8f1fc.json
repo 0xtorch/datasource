@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"lps","internalType":"address[]","type":"address[]"},{"name":"_for","internalType":"address","type":"address"}],"name":"harvestBribeFor","outputs":[],"stateMutability":"nonpayable"}]

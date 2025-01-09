@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_tokenId","internalType":"uint256","type":"uint256"}],"name":"getNFTBody","outputs":[{"name":"","internalType":"struct BraveCatNFT.CatBody[]","type":"tuple[]","components":[{"name":"partId","internalType":"uint256","type":"uint256"},{"name":"partType","internalType":"uint256","type":"uint256"}]}],"stateMutability":"view"}]

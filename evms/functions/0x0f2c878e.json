@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"subaccount","internalType":"bytes32","type":"bytes32"},{"name":"productId","internalType":"uint32","type":"uint32"}],"name":"getFeeRatesX18","outputs":[{"name":"","internalType":"int128","type":"int128"},{"name":"","internalType":"int128","type":"int128"}],"stateMutability":"view"}]

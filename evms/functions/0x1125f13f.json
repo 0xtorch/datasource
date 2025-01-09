@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"amountOut","internalType":"uint256","type":"uint256"},{"name":"tokenOut","internalType":"address","type":"address"}],"name":"getAmountIn","outputs":[{"name":"","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

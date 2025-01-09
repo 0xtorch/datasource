@@ -1,0 +1,1 @@
+[{"type":"function","constant":false,"inputs":[{"name":"_reserve","internalType":"address","type":"address"}],"name":"swapBorrowRateMode","outputs":[],"payable":false,"stateMutability":"nonpayable"}]

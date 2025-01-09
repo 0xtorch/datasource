@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"list","internalType":"uint8","type":"uint8"},{"name":"addrs","internalType":"address[]","type":"address[]"}],"name":"addToList","outputs":[{"name":"","internalType":"bool","type":"bool"}],"stateMutability":"nonpayable"}]

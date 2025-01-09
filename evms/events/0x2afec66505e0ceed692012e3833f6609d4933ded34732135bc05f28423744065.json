@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"_by","internalType":"address","type":"address","indexed":true},{"name":"_fromVal","internalType":"address","type":"address","indexed":false},{"name":"_toVal","internalType":"address","type":"address","indexed":false}],"name":"VaultUpdated"}]

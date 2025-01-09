@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"ah","internalType":"address","type":"address"},{"name":"ah2","internalType":"address","type":"address"}],"name":"setAuth","outputs":[{"name":"","internalType":"bool","type":"bool"}],"stateMutability":"nonpayable"}]

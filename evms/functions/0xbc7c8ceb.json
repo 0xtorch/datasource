@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"account","internalType":"address","type":"address"}],"name":"getDomainbyAddress","outputs":[{"name":"tokenIds","internalType":"uint256[]","type":"uint256[]"},{"name":"domains","internalType":"string[]","type":"string[]"}],"stateMutability":"view"}]

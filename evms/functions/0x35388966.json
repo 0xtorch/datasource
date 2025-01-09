@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"ArtistIDs","internalType":"uint256[]","type":"uint256[]"},{"name":"TicketIDs","internalType":"uint256[][]","type":"uint256[][]"}],"name":"_LiveMintArtistBatch","outputs":[],"stateMutability":"nonpayable"}]

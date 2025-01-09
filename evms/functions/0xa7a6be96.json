@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"nftPass","internalType":"address","type":"address"},{"name":"tokenId","internalType":"uint256","type":"uint256"},{"name":"passType","internalType":"enum NFTPass.NFTPassType","type":"uint8"},{"name":"quantity","internalType":"uint256","type":"uint256"}],"name":"mint","outputs":[],"stateMutability":"payable"}]

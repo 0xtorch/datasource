@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"account","internalType":"address","type":"address"},{"name":"index1","internalType":"uint8","type":"uint8"},{"name":"index2","internalType":"uint8","type":"uint8"}],"name":"reorderCollaterals","outputs":[],"stateMutability":"payable"}]

@@ -1,0 +1,1 @@
+[{"type":"function","gas":3301,"inputs":[{"name":"k","type":"uint256"}],"name":"price_scale","outputs":[{"name":"","type":"uint256"}],"stateMutability":"view"}]

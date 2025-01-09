@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_interestRateModule","internalType":"contract InterestRate","type":"address"}],"name":"updateInterestRateModule","outputs":[],"stateMutability":"nonpayable"}]

@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"_old_voting_escrow","type":"address","indexed":false},{"name":"_new_voting_escrow","type":"address","indexed":false}],"name":"UpdateVotingEscrow"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[],"name":"getParentMarketPositions","outputs":[{"name":"position1","internalType":"contract IPosition","type":"address"},{"name":"position2","internalType":"contract IPosition","type":"address"}],"stateMutability":"view"}]

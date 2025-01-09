@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[],"name":"royaltyInfo","outputs":[{"name":"maxRoyalty","internalType":"uint256","type":"uint256"},{"name":"collectionRoyalties","internalType":"address","type":"address"}],"stateMutability":"view"}]

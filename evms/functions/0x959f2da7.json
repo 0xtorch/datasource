@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"fromOperator","internalType":"address","type":"address"},{"name":"toOperator","internalType":"address","type":"address"},{"name":"amount","internalType":"uint256","type":"uint256"}],"name":"switchOperator","outputs":[],"stateMutability":"nonpayable"}]

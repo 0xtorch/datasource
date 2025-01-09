@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"proof","internalType":"bytes","type":"bytes"},{"name":"pubInputHash","internalType":"uint256","type":"uint256"}],"name":"verifyProof","outputs":[{"name":"","internalType":"bool","type":"bool"}],"stateMutability":"view"}]

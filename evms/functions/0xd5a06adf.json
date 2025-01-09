@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"strategyId","internalType":"uint256","type":"uint256"},{"name":"isActive","internalType":"bool","type":"bool"},{"name":"newStandardProtocolFee","internalType":"uint16","type":"uint16"},{"name":"newMinTotalFee","internalType":"uint16","type":"uint16"}],"name":"updateStrategy","outputs":[],"stateMutability":"nonpayable"}]

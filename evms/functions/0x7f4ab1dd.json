@@ -1,0 +1,1 @@
+[{"type":"function","constant":true,"inputs":[{"name":"restrictionCode","type":"uint8"}],"name":"messageForTransferRestriction","outputs":[{"name":"","type":"string"}],"payable":false,"stateMutability":"view"}]

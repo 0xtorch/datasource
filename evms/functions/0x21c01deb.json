@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[],"name":"allocationConfig","outputs":[{"name":"nftTicketAllocation","internalType":"uint256","type":"uint256"},{"name":"baseAllocationPerWallet","internalType":"uint256","type":"uint256"},{"name":"maxTotalAllocation","internalType":"uint256","type":"uint256"},{"name":"rate","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

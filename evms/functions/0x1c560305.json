@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"other","internalType":"address","type":"address"},{"name":"pct","internalType":"uint256","type":"uint256"}],"name":"claimMintRewardAndShare","outputs":[],"stateMutability":"nonpayable"}]

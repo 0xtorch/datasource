@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"user","internalType":"address","type":"address","indexed":true},{"name":"ballotIndex","internalType":"uint256","type":"uint256","indexed":true},{"name":"squareId","internalType":"uint256","type":"uint256","indexed":true},{"name":"optionIndex","internalType":"uint256","type":"uint256","indexed":false}],"name":"Cast"}]

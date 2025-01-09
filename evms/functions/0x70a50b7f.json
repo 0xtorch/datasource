@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_accessType","internalType":"enum AccessType","type":"uint8"},{"name":"_inputs","internalType":"bytes","type":"bytes"}],"name":"setAccess","outputs":[],"stateMutability":"nonpayable"}]

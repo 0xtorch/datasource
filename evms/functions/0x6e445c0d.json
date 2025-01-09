@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_pCommonPrice","internalType":"uint256","type":"uint256"},{"name":"_pRarePrice","internalType":"uint256","type":"uint256"},{"name":"_pLegendaryPrice","internalType":"uint256","type":"uint256"}],"name":"fUpdatePrice","outputs":[],"stateMutability":"nonpayable"}]

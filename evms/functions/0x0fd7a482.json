@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"oldUser","internalType":"address","type":"address"},{"name":"newUser","internalType":"address","type":"address"},{"name":"stakeId","internalType":"uint256","type":"uint256"}],"name":"updateDataReq","outputs":[],"stateMutability":"nonpayable"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_token","internalType":"address","type":"address"}],"name":"IS_TOKEN_SUPPORTED","outputs":[{"name":"","internalType":"bool","type":"bool"}],"stateMutability":"view"}]

@@ -1,0 +1,1 @@
+[{"type":"function","constant":false,"inputs":[{"name":"_contract","type":"address"},{"name":"_data","type":"bytes"},{"name":"_gas","type":"uint256"}],"name":"requireToPassMessage","outputs":[{"name":"","type":"bytes32"}],"payable":false,"stateMutability":"nonpayable"}]

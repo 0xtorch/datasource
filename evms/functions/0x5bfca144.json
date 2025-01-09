@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"lockDay","internalType":"uint256","type":"uint256"},{"name":"flag","internalType":"bool","type":"bool"}],"name":"setAllowedLockDay","outputs":[],"stateMutability":"nonpayable"}]

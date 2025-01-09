@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"recipient","internalType":"address","type":"address","indexed":false},{"name":"schema","internalType":"bytes32","type":"bytes32","indexed":false},{"name":"attestId","internalType":"bytes32","type":"bytes32","indexed":false}],"name":"AttestSubmit"}]

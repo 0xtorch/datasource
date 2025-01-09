@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"voter","internalType":"address","type":"address"},{"name":"amount","internalType":"uint256","type":"uint256"}],"name":"removeVotes","outputs":[],"stateMutability":"nonpayable"}]

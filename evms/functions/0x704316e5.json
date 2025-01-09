@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_srcChainId","internalType":"uint16","type":"uint16"},{"name":"_lookupHash","internalType":"bytes32","type":"bytes32"},{"name":"_confirmations","internalType":"uint256","type":"uint256"},{"name":"_blockData","internalType":"bytes32","type":"bytes32"}],"name":"updateHash","outputs":[],"stateMutability":"nonpayable"}]

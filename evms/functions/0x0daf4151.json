@@ -1,0 +1,1 @@
+[{"type":"function","constant":true,"inputs":[{"name":"","type":"uint32"}],"name":"gen0Config","outputs":[{"name":"classId","type":"uint32"},{"name":"originalPrice","type":"uint256"},{"name":"returnPrice","type":"uint256"},{"name":"total","type":"uint32"}],"payable":false,"stateMutability":"view"}]

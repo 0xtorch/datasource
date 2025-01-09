@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"vaultId","internalType":"uint256","type":"uint256"},{"name":"params","internalType":"bytes","type":"bytes"}],"name":"adminSetVault","outputs":[],"stateMutability":"nonpayable"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_voter","internalType":"address","type":"address"},{"name":"_isActive","internalType":"bool","type":"bool"}],"name":"setVoter","outputs":[],"stateMutability":"nonpayable"}]

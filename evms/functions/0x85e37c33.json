@@ -1,0 +1,1 @@
+[{"type":"function","constant":false,"gas":3602628,"inputs":[{"name":"addresses","type":"address[100]"},{"name":"amounts","type":"uint256[100]"}],"name":"multiSendEther","outputs":[{"name":"out","type":"bool"}],"payable":true,"stateMutability":"payable"}]

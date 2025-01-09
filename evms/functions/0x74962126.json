@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_tokenIdList","internalType":"uint256[]","type":"uint256[]"},{"name":"_royaltyAddressList","internalType":"address payable[][]","type":"address[][]"},{"name":"_royaltyList","internalType":"uint256[][]","type":"uint256[][]"}],"name":"setCustomRoyality","outputs":[],"stateMutability":"nonpayable"}]

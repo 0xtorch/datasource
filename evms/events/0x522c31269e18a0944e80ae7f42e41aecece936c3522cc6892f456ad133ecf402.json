@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"_oldAddress","internalType":"address","type":"address","indexed":false},{"name":"_newAddress","internalType":"address","type":"address","indexed":false}],"name":"HyphenAddressUpdated"}]

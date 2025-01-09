@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"to","internalType":"address","type":"address"},{"name":"radbroIds","internalType":"uint256[]","type":"uint256[]"},{"name":"n","internalType":"uint256","type":"uint256"},{"name":"maxInput","internalType":"uint256","type":"uint256"}],"name":"mintFromRadcoin","outputs":[],"stateMutability":"nonpayable"}]

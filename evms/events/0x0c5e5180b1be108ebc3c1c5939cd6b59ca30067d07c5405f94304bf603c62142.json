@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"caller","internalType":"address","type":"address","indexed":true},{"name":"addr","internalType":"address","type":"address","indexed":true},{"name":"ok","internalType":"bool","type":"bool","indexed":false}],"name":"SetWhitelistedRedistributors"}]

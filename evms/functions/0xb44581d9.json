@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_wallet","internalType":"address","type":"address"},{"name":"_channel","internalType":"uint128","type":"uint128"}],"name":"getNonce","outputs":[{"name":"","internalType":"uint128","type":"uint128"}],"stateMutability":"view"}]

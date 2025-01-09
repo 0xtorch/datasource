@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"perpetualIndex","internalType":"uint256","type":"uint256"}],"name":"getActiveAccountCount","outputs":[{"name":"activeAccountCount","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"contractAddress","internalType":"address","type":"address"},{"name":"restartRewards","internalType":"bool","type":"bool"}],"name":"setRewardCalculator","outputs":[],"stateMutability":"nonpayable"}]

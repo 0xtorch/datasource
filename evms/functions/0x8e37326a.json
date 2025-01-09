@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_nowPhaseAl","internalType":"uint256","type":"uint256"},{"name":"_address","internalType":"address","type":"address"}],"name":"alIdMinted","outputs":[{"name":"","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

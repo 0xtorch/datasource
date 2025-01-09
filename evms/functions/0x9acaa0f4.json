@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"gauge","internalType":"contract IGauge","type":"address"}],"name":"bribeRates","outputs":[{"name":"","internalType":"uint256[]","type":"uint256[]"}],"stateMutability":"view"}]

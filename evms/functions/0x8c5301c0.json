@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"user","internalType":"address","type":"address"}],"name":"getBalanceData","outputs":[{"name":"amount","internalType":"uint128","type":"uint128"},{"name":"term","internalType":"uint64","type":"uint64"},{"name":"rewardAmount","internalType":"uint64","type":"uint64"}],"stateMutability":"view"}]

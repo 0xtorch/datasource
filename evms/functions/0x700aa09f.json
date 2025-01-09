@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"account_","internalType":"enum IVariableRateTransfers.OperatorAddress","type":"uint8"},{"name":"addr_","internalType":"address","type":"address"}],"name":"setOperatorAddress","outputs":[],"stateMutability":"nonpayable"}]

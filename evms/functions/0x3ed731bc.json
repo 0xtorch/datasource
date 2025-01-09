@@ -1,0 +1,1 @@
+[{"type":"function","constant":false,"inputs":[{"name":"to","type":"address"},{"name":"drawingId","type":"uint256"},{"name":"printIndex","type":"uint256"},{"name":"lastSellValue","type":"uint256"}],"name":"makeCollectibleUnavailableToSale","outputs":[],"payable":false,"stateMutability":"nonpayable"}]

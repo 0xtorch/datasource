@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"tokenId","internalType":"uint256","type":"uint256"},{"name":"fiduAmount","internalType":"uint256","type":"uint256"},{"name":"usdcAmount","internalType":"uint256","type":"uint256"}],"name":"zapStakeToCurve","outputs":[],"stateMutability":"nonpayable"}]

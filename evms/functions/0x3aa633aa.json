@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_limited","internalType":"bool","type":"bool"},{"name":"_uniswapV2Pair","internalType":"address","type":"address"},{"name":"_maxHoldingAmount","internalType":"uint256","type":"uint256"},{"name":"_minHoldingAmount","internalType":"uint256","type":"uint256"}],"name":"setRule","outputs":[],"stateMutability":"nonpayable"}]

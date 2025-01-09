@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"farmBoostContract","internalType":"address","type":"address","indexed":true}],"name":"UpdateFarmBoostContract"}]

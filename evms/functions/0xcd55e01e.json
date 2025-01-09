@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"hashList","internalType":"bytes32[]","type":"bytes32[]"}],"name":"tryBulkCancelOrderByHash","outputs":[{"name":"orderAlreadyFinalized","internalType":"bool[]","type":"bool[]"}],"stateMutability":"nonpayable"}]

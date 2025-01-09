@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"paymentAddress","internalType":"address payable","type":"address"}],"name":"setDefaultRoyaltyPaymentAddress","outputs":[],"stateMutability":"nonpayable"}]

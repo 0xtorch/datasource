@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_tokenId","internalType":"uint256","type":"uint256"},{"name":"_owner","internalType":"address","type":"address"},{"name":"_level","internalType":"enum AlinxNFT.Level","type":"uint8"}],"name":"openChest","outputs":[],"stateMutability":"nonpayable"}]

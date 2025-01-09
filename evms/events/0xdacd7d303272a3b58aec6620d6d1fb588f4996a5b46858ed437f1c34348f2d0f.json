@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"toChainId","internalType":"uint64","type":"uint64","indexed":false},{"name":"targetProxyHash","internalType":"bytes","type":"bytes","indexed":false}],"name":"BindProxyEvent"}]

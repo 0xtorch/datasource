@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_tokenURI","internalType":"string","type":"string"},{"name":"_receiver","internalType":"address","type":"address"}],"name":"mintForAddress","outputs":[],"stateMutability":"nonpayable"}]

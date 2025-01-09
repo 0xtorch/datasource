@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_baseOwnerPercentage","internalType":"uint8","type":"uint8"},{"name":"_masterOwnerPercentage","internalType":"uint8","type":"uint8"}],"name":"updateRewards","outputs":[],"stateMutability":"nonpayable"}]

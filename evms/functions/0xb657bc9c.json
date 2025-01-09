@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"id","internalType":"uint256","type":"uint256"}],"name":"getMinBalanceForUpkeep","outputs":[{"name":"minBalance","internalType":"uint96","type":"uint96"}],"stateMutability":"view"}]

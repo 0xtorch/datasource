@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"_pAddr","internalType":"address","type":"address","indexed":true},{"name":"_pIsWhitelist","internalType":"bool","type":"bool","indexed":false}],"name":"ESetWhitelist"}]

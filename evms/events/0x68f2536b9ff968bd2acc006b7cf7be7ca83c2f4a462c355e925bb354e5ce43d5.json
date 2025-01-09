@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"metaId","type":"string","indexed":false},{"name":"ids","type":"uint256[]","indexed":false}],"name":"BatchBurned"}]

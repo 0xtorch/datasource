@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"postId","internalType":"uint256","type":"uint256"},{"name":"recipients","internalType":"address[]","type":"address[]"}],"name":"rewardErc1155Tokens","outputs":[],"stateMutability":"nonpayable"}]

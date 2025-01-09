@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_assetAddr","internalType":"address","type":"address"},{"name":"_burnAmount","internalType":"uint256","type":"uint256"},{"name":"_ignoreFactors","internalType":"bool","type":"bool"}],"name":"previewSCDPBurn","outputs":[{"name":"shares","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

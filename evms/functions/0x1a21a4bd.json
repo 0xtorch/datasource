@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_service","internalType":"address","type":"address"},{"name":"_data","internalType":"bytes","type":"bytes"}],"name":"prepaidExec","outputs":[{"name":"estimatedGasAmount","internalType":"uint256","type":"uint256"}],"stateMutability":"nonpayable"}]

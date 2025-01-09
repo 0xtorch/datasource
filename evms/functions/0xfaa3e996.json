@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"peer","internalType":"address","type":"address"}],"name":"getPeerRegistryMigrationPermission","outputs":[{"name":"","internalType":"enum KeeperRegistryBase.MigrationPermission","type":"uint8"}],"stateMutability":"view"}]

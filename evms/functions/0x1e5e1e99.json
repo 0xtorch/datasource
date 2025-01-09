@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_type","internalType":"bytes32","type":"bytes32"},{"name":"_data","internalType":"bytes","type":"bytes"},{"name":"_salt","internalType":"bytes32","type":"bytes32"}],"name":"deployProxyDeterministic","outputs":[{"name":"","internalType":"address","type":"address"}],"stateMutability":"nonpayable"}]

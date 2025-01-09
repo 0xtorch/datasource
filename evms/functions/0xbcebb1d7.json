@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_user","internalType":"address","type":"address"},{"name":"_silo","internalType":"contract ISilo","type":"address"}],"name":"executeLiquidation","outputs":[],"stateMutability":"nonpayable"}]

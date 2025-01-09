@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_slot","internalType":"uint256","type":"uint256"},{"name":"_value","internalType":"uint256","type":"uint256"}],"name":"setClassifiedAddressFee","outputs":[],"stateMutability":"nonpayable"}]

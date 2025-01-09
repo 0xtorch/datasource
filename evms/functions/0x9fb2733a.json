@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_token1Amount","internalType":"uint256","type":"uint256"},{"name":"_token2Amount","internalType":"uint256","type":"uint256"},{"name":"proof_","internalType":"bytes32[]","type":"bytes32[]"}],"name":"depositWithWhitelist","outputs":[],"stateMutability":"nonpayable"}]

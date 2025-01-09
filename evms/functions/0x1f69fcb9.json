@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_plps","internalType":"contract IPLPS","type":"address"}],"name":"LiquidityProtection_setLiquidityProtectionService","outputs":[],"stateMutability":"nonpayable"}]

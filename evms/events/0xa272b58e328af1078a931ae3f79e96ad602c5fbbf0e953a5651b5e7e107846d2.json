@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"use_growth_ratio","internalType":"bool","type":"bool","indexed":false}],"name":"UseGrowthRatioSet"}]

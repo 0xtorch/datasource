@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"round","internalType":"uint16","type":"uint16","indexed":true},{"name":"amount","internalType":"uint88","type":"uint88","indexed":false}],"name":"Burn"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"limitAmount","internalType":"uint256","type":"uint256"},{"name":"limitToken","internalType":"address","type":"address"}],"name":"setLimitForPublicSale","outputs":[],"stateMutability":"nonpayable"}]

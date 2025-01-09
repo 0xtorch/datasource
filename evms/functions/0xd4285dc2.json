@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"tableId","internalType":"ResourceId","type":"bytes32"}],"name":"getKeySchema","outputs":[{"name":"keySchema","internalType":"Schema","type":"bytes32"}],"stateMutability":"view"}]

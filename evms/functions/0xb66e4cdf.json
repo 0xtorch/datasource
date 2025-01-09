@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"","internalType":"uint256","type":"uint256"}],"name":"totalSupplyCheckpoints","outputs":[{"name":"fromBlock","internalType":"uint32","type":"uint32"},{"name":"votes","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

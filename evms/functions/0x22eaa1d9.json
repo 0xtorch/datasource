@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_newOperatorDelegator","internalType":"contract IOperatorDelegator","type":"address"},{"name":"_allocationBasisPoints","internalType":"uint256","type":"uint256"}],"name":"addOperatorDelegator","outputs":[],"stateMutability":"nonpayable"}]

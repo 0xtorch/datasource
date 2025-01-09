@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"addr","internalType":"address","type":"address"},{"name":"admin","internalType":"bool","type":"bool"},{"name":"reserves","internalType":"uint256","type":"uint256"}],"name":"setAdmin","outputs":[],"stateMutability":"nonpayable"}]

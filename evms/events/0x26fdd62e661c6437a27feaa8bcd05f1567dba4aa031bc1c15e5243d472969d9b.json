@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"amountQuoteReserved","internalType":"uint256","type":"uint256","indexed":false},{"name":"totalQuoteAmountReserved","internalType":"uint256","type":"uint256","indexed":false}],"name":"QuoteReserved"}]

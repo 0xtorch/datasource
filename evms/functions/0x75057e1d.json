@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"rarity","internalType":"enum IDice.TokenRarity","type":"uint8"}],"name":"getRarityName","outputs":[{"name":"","internalType":"string","type":"string"}],"stateMutability":"pure"}]

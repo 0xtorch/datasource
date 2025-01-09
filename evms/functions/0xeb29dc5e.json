@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"positionId","internalType":"uint256","type":"uint256"}],"name":"getPositionState","outputs":[{"name":"","internalType":"enum OptionToken.PositionState","type":"uint8"}],"stateMutability":"view"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"tokenIds","internalType":"uint256[]","type":"uint256[]"},{"name":"fiduAmounts","internalType":"uint256[]","type":"uint256[]"}],"name":"unstakeAndWithdrawMultipleInFidu","outputs":[],"stateMutability":"nonpayable"}]

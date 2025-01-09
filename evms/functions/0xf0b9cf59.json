@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"communityFee0","internalType":"uint16","type":"uint16"},{"name":"communityFee1","internalType":"uint16","type":"uint16"}],"name":"setCommunityFee","outputs":[],"stateMutability":"nonpayable"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_vaultManagerAddress","internalType":"address","type":"address"},{"name":"_active","internalType":"uint256","type":"uint256"}],"name":"setVaultManagerAddress","outputs":[],"stateMutability":"nonpayable"}]

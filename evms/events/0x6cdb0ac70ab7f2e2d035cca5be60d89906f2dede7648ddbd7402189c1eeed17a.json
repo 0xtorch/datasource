@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"key","internalType":"string","type":"string","indexed":false},{"name":"value","internalType":"bytes","type":"bytes","indexed":false}],"name":"paramChange"}]

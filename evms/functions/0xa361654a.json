@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[],"name":"allMarketsOperations","outputs":[{"name":"marketOps","internalType":"struct RewardsController.MarketOperation[]","type":"tuple[]","components":[{"name":"market","internalType":"contract Market","type":"address"},{"name":"operations","internalType":"bool[]","type":"bool[]"}]}],"stateMutability":"view"}]

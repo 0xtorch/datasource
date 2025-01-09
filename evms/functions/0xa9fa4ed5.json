@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_minBonderBps","internalType":"uint256","type":"uint256"},{"name":"_minBonderFeeAbsolute","internalType":"uint256","type":"uint256"}],"name":"setMinimumBonderFeeRequirements","outputs":[],"stateMutability":"nonpayable"}]

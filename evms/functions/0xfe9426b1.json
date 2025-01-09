@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"hnId","internalType":"uint256","type":"uint256"},{"name":"_name","internalType":"string","type":"string"}],"name":"renameHn","outputs":[],"stateMutability":"nonpayable"}]

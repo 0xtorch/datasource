@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"offsets","internalType":"uint256","type":"uint256"},{"name":"data","internalType":"bytes","type":"bytes"}],"name":"or","outputs":[{"name":"","internalType":"bool","type":"bool"}],"stateMutability":"view"}]

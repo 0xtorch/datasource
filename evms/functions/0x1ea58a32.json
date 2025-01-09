@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"listingId","internalType":"uint40","type":"uint40"},{"name":"initialAmount","internalType":"uint256","type":"uint256"},{"name":"startTime","internalType":"uint48","type":"uint48"},{"name":"endTime","internalType":"uint48","type":"uint48"}],"name":"modifyListing","outputs":[],"stateMutability":"nonpayable"}]

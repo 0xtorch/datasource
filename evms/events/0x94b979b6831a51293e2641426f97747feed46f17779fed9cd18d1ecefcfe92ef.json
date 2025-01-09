@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"newAuthorizer","internalType":"contract IAuthorizer","type":"address","indexed":true}],"name":"AuthorizerChanged"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_owner","internalType":"address","type":"address"},{"name":"_operator","internalType":"address","type":"address"}],"name":"isApprovedForProxy","outputs":[{"name":"","internalType":"bool","type":"bool"}],"stateMutability":"view"}]

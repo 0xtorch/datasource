@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"to","internalType":"address","type":"address"},{"name":"tokenIdRangeStart","internalType":"uint256","type":"uint256"},{"name":"tokenIdRangeEnd","internalType":"uint256","type":"uint256"}],"name":"mintBatch","outputs":[],"stateMutability":"nonpayable"}]

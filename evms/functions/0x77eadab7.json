@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"x","internalType":"uint256","type":"uint256"}],"name":"logarithm2","outputs":[{"name":"y","internalType":"uint256","type":"uint256"}],"stateMutability":"pure"}]

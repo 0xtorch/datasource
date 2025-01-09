@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"","internalType":"contract IPriceProvider","type":"address"}],"name":"swappers","outputs":[{"name":"","internalType":"contract ISwapper","type":"address"}],"stateMutability":"view"}]

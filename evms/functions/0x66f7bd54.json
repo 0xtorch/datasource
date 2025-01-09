@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"network_","internalType":"uint256","type":"uint256"},{"name":"address_","internalType":"address","type":"address"}],"name":"setSideContract","outputs":[],"stateMutability":"nonpayable"}]

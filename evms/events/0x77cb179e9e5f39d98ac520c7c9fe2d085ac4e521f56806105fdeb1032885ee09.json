@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"trainer","type":"address","indexed":true},{"name":"objId","type":"uint64","indexed":false}],"name":"EventCatchMonster"}]

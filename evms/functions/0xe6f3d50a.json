@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"vId","internalType":"ValidationId","type":"bytes21"},{"name":"deinitData","internalType":"bytes","type":"bytes"},{"name":"hookDeinitData","internalType":"bytes","type":"bytes"}],"name":"uninstallValidation","outputs":[],"stateMutability":"payable"}]

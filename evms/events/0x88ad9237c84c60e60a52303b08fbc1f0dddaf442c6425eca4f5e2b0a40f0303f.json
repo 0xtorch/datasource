@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"invitee","internalType":"address","type":"address","indexed":false},{"name":"inviter","internalType":"address","type":"address","indexed":false}],"name":"registered"}]

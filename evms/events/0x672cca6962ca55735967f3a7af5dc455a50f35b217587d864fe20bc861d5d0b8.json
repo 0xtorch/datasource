@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"oldRelativeFee","internalType":"uint16","type":"uint16","indexed":false},{"name":"newRelativeFee","internalType":"uint16","type":"uint16","indexed":false}],"name":"RelativeFeeChanged"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"collectionType","internalType":"enum CollectionType","type":"uint8"}],"name":"getCollectionTypeName","outputs":[{"name":"typeName","internalType":"string","type":"string"}],"stateMutability":"pure"}]

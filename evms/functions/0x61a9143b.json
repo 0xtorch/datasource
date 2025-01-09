@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"occupationIds","internalType":"uint256[]","type":"uint256[]"}],"name":"addAllowedOccupations","outputs":[],"stateMutability":"nonpayable"}]

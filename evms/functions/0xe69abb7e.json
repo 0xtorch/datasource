@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_tombOracle","internalType":"address","type":"address"}],"name":"setTaxableTombOracle","outputs":[],"stateMutability":"nonpayable"}]

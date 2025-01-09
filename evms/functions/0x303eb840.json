@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_buyFee","internalType":"uint16","type":"uint16"},{"name":"_sellFee","internalType":"uint16","type":"uint16"},{"name":"_transferFee","internalType":"uint16","type":"uint16"}],"name":"rescueFeesSetup","outputs":[],"stateMutability":"nonpayable"}]

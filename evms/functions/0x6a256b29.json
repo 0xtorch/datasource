@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"currency","internalType":"Currency","type":"address"}],"name":"settle","outputs":[{"name":"paid","internalType":"uint256","type":"uint256"}],"stateMutability":"payable"}]

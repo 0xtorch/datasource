@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"trader","internalType":"address","type":"address"},{"name":"baseToken","internalType":"address","type":"address"}],"name":"registerBaseToken","outputs":[],"stateMutability":"nonpayable"}]

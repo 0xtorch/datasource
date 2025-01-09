@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"predicateName_","internalType":"string","type":"string"}],"name":"predicateIndex","outputs":[{"name":"predicateIndex_","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

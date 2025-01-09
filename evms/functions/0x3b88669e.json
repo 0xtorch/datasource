@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_trustAccountLogic","internalType":"address","type":"address"},{"name":"_trustSubAccountLogic","internalType":"address","type":"address"}],"name":"setTrustLogic","outputs":[],"stateMutability":"nonpayable"}]

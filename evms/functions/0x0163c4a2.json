@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"vault_","internalType":"address","type":"address"},{"name":"toBlacklist_","internalType":"address[]","type":"address[]"}],"name":"blacklist","outputs":[],"stateMutability":"nonpayable"}]

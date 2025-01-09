@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_artCode","internalType":"string","type":"string"},{"name":"_artCodeDependencies","internalType":"string","type":"string"},{"name":"_artDescription","internalType":"string","type":"string"}],"name":"setArtCode","outputs":[],"stateMutability":"nonpayable"}]

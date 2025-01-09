@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"nftID","internalType":"uint256","type":"uint256"},{"name":"repayAmount","internalType":"uint256","type":"uint256"},{"name":"pineWallet","internalType":"address","type":"address"}],"name":"repay","outputs":[{"name":"","internalType":"bool","type":"bool"}],"stateMutability":"nonpayable"}]

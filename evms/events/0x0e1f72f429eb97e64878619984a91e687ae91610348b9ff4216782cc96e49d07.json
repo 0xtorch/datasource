@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"tableId","internalType":"ResourceId","type":"bytes32","indexed":true},{"name":"keyTuple","internalType":"bytes32[]","type":"bytes32[]","indexed":false}],"name":"Store_DeleteRecord"}]

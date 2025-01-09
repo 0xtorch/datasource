@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"slot","internalType":"uint256[]","type":"uint256[]"},{"name":"amount","internalType":"uint256[]","type":"uint256[]"}],"name":"addFeeUnionBlessing","outputs":[],"stateMutability":"nonpayable"}]

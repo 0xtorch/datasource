@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"orderOwner","internalType":"address","type":"address"},{"name":"orderHash","internalType":"bytes32","type":"bytes32"},{"name":"","internalType":"uint256","type":"uint256"}],"name":"multiLimitOrders","outputs":[{"name":"filledAmounts","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"seasonCode","internalType":"uint256","type":"uint256"},{"name":"tokenIds","internalType":"uint256[]","type":"uint256[]"}],"name":"buyPackage","outputs":[],"stateMutability":"nonpayable"}]

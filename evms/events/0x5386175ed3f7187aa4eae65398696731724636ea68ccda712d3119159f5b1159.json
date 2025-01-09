@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"oldURI","internalType":"string","type":"string","indexed":true},{"name":"newURI","internalType":"string","type":"string","indexed":true},{"name":"frozen","internalType":"bool","type":"bool","indexed":true}],"name":"DynamicURIUpdated"}]

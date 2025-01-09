@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_minPeriod","internalType":"uint256","type":"uint256"},{"name":"_minDistribution","internalType":"uint256","type":"uint256"}],"name":"setDistributionCriteria","outputs":[],"stateMutability":"nonpayable"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"perpetualDEXIndex","internalType":"uint256","type":"uint256"},{"name":"collateralAddress","internalType":"address","type":"address"},{"name":"perpetualDEXWrapperAddress","internalType":"address","type":"address"}],"name":"addPerpetualDEXWrapper","outputs":[],"stateMutability":"nonpayable"}]

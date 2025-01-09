@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_liqFeeP","internalType":"uint256","type":"uint256"},{"name":"_liqTotalFeeP","internalType":"uint256","type":"uint256"},{"name":"_vaultFeeP","internalType":"uint256","type":"uint256"}],"name":"setFeeP","outputs":[],"stateMutability":"nonpayable"}]

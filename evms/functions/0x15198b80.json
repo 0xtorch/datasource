@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"ownersAddress","internalType":"address[]","type":"address[]"}],"name":"toggleAuthorizedOwners","outputs":[],"stateMutability":"nonpayable"}]

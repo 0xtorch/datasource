@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"waveId","internalType":"string","type":"string","indexed":false},{"name":"merkleRoot","internalType":"bytes32","type":"bytes32","indexed":false}],"name":"BeliefToken_EnableAirdropWave"}]

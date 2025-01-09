@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"proxyTrackingContract_","internalType":"contract IProxyTracking","type":"address"}],"name":"setProxyTrackingContract","outputs":[],"stateMutability":"nonpayable"}]

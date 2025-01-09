@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"cleanerType","internalType":"uint8","type":"uint8"},{"name":"amount","internalType":"uint32","type":"uint32"}],"name":"clean","outputs":[],"stateMutability":"nonpayable"}]

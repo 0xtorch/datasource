@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"contractAddress","internalType":"address","type":"address"},{"name":"operatorAddress","internalType":"address","type":"address"}],"name":"configurePointsOperatorOnBehalf","outputs":[],"stateMutability":"nonpayable"}]

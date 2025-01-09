@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"currentDepositId","internalType":"uint256","type":"uint256","indexed":false},{"name":"unlockTime","internalType":"uint256","type":"uint256","indexed":false}],"name":"MineStake"}]

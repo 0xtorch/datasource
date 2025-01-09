@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"maxTickDeviationOld","internalType":"int24","type":"int24","indexed":false},{"name":"maxTickDeviationNew","internalType":"int24","type":"int24","indexed":false}],"name":"UpdateMaxTickDeviation"}]

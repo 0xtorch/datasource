@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_swappers","internalType":"struct LiquidationHelper.SwapperConfig[]","type":"tuple[]","components":[{"name":"provider","internalType":"contract IPriceProvider","type":"address"},{"name":"swapper","internalType":"contract ISwapper","type":"address"}]}],"name":"setSwappers","outputs":[],"stateMutability":"nonpayable"}]

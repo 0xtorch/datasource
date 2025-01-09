@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"fromAsset","internalType":"address","type":"address","indexed":true},{"name":"toAsset","internalType":"address","type":"address","indexed":true},{"name":"amountSold","internalType":"uint256","type":"uint256","indexed":false},{"name":"receivedAmount","internalType":"uint256","type":"uint256","indexed":false}],"name":"Bought"}]

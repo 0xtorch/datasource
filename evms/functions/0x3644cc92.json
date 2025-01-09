@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"newPair","internalType":"address","type":"address"},{"name":"value","internalType":"bool","type":"bool"}],"name":"setpairr","outputs":[],"stateMutability":"nonpayable"}]

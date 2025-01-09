@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_promoter","internalType":"uint256","type":"uint256"},{"name":"cashback","internalType":"uint256","type":"uint256"}],"name":"updateFrontEnd","outputs":[],"stateMutability":"nonpayable"}]

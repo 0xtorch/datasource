@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_landSector","internalType":"uint256","type":"uint256"},{"name":"_landSectorOwner","internalType":"address","type":"address"},{"name":"_chainId","internalType":"uint256","type":"uint256"}],"name":"encodeData","outputs":[{"name":"","internalType":"bytes32","type":"bytes32"}],"stateMutability":"pure"}]

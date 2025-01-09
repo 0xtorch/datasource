@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"newL2Gateway","internalType":"address","type":"address"},{"name":"newL1Address","internalType":"address","type":"address"}],"name":"changeArbToken","outputs":[],"stateMutability":"nonpayable"}]

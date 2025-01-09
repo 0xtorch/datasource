@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"guardian","internalType":"address","type":"address"}],"name":"guardians","outputs":[{"name":"isGuardian","internalType":"bool","type":"bool"}],"stateMutability":"view"}]

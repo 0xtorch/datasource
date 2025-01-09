@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[],"name":"ethPriceSource","outputs":[{"name":"","internalType":"contract IPriceSource","type":"address"}],"stateMutability":"view"}]

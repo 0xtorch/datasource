@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"txn","internalType":"struct IEndpoint.SettlePnl","type":"tuple","components":[{"name":"subaccounts","internalType":"bytes32[]","type":"bytes32[]"},{"name":"productIds","internalType":"uint256[]","type":"uint256[]"}]}],"name":"settlePnl","outputs":[],"stateMutability":"nonpayable"}]

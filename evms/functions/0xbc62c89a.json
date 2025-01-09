@@ -1,0 +1,1 @@
+[{"type":"function","constant":true,"inputs":[{"name":"_trainer","type":"address"}],"name":"getTrainerEarn","outputs":[{"name":"","type":"uint256"}],"payable":false,"stateMutability":"view"}]

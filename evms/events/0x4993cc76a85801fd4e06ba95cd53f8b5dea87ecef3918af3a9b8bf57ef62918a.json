@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"oldTotalStakingCap","internalType":"uint256","type":"uint256","indexed":false},{"name":"newTotalStakingCap","internalType":"uint256","type":"uint256","indexed":false}],"name":"SetStakeAssetCap"}]

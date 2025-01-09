@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"formerWithdrawManager","internalType":"address","type":"address","indexed":false},{"name":"newWithdrawManager","internalType":"address","type":"address","indexed":false}],"name":"WithdrawManagerUpdated"}]

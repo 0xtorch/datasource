@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"oldStakingContract","internalType":"address","type":"address","indexed":false},{"name":"newStakingContract","internalType":"address","type":"address","indexed":false}],"name":"StakingContractUpdated"}]

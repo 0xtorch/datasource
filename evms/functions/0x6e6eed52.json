@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_maxRatio","internalType":"uint256","type":"uint256"},{"name":"_generationRateNumerator","internalType":"uint256","type":"uint256"},{"name":"_generationRateDenominator","internalType":"uint256","type":"uint256"}],"name":"setGenerationDetails","outputs":[],"stateMutability":"nonpayable"}]

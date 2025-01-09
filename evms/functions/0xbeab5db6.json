@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"__gtdAllowlistRoot","internalType":"bytes32","type":"bytes32"},{"name":"__fcfsAllowlistRoot","internalType":"bytes32","type":"bytes32"}],"name":"setAllowlistRoots","outputs":[],"stateMutability":"nonpayable"}]

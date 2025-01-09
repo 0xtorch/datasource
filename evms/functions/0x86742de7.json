@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"id","internalType":"bytes32","type":"bytes32"}],"name":"check_erc721_remain_ids","outputs":[{"name":"bit_status","internalType":"uint256","type":"uint256"},{"name":"erc721_token_ids","internalType":"uint256[]","type":"uint256[]"}],"stateMutability":"view"}]

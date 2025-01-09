@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"GTDAddrs","internalType":"address[]","type":"address[]"},{"name":"GTDTicks","internalType":"uint256[]","type":"uint256[]"}],"name":"setGTDlist","outputs":[],"stateMutability":"nonpayable"}]

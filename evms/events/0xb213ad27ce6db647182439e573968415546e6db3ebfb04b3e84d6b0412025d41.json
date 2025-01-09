@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"_oldFeeTreasury","internalType":"address","type":"address","indexed":true},{"name":"_newFeeTreasury","internalType":"address","type":"address","indexed":true}],"name":"FeeTreasuryUpdated"}]

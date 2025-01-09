@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"_pool","internalType":"contract IERC20StakingPool","type":"address","indexed":false}],"name":"PoolWhitelisted"}]

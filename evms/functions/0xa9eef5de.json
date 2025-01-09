@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"wallet_","internalType":"address","type":"address"},{"name":"referralCode_","internalType":"bytes32[]","type":"bytes32[]"}],"name":"verifyReferralCode","outputs":[{"name":"","internalType":"bool","type":"bool"}],"stateMutability":"view"}]

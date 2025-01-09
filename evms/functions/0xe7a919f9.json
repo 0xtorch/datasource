@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"botBlocks","internalType":"uint256","type":"uint256"},{"name":"_botFees","internalType":"uint256","type":"uint256"}],"name":"openTrading","outputs":[],"stateMutability":"nonpayable"}]

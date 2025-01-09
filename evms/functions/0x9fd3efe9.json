@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"owner","internalType":"address","type":"address"},{"name":"contractAdd","internalType":"address","type":"address"}],"name":"viewDiamondHands721","outputs":[{"name":"","internalType":"bool","type":"bool"}],"stateMutability":"view"}]

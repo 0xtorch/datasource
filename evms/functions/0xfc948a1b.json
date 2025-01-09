@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"source","internalType":"string","type":"string"}],"name":"limitNameLength","outputs":[{"name":"","internalType":"string","type":"string"}],"stateMutability":"pure"}]

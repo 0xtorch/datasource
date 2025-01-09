@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"controllerId","internalType":"uint32","type":"uint32","indexed":true},{"name":"controllerAddress","internalType":"address","type":"address","indexed":true}],"name":"ControllerAdded"}]

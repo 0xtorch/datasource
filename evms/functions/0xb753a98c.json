@@ -1,0 +1,1 @@
+[{"type":"function","constant":false,"inputs":[{"name":"usr","internalType":"address","type":"address"},{"name":"wad","internalType":"uint256","type":"uint256"}],"name":"push","outputs":[],"payable":false,"stateMutability":"nonpayable"}]

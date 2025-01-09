@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_user","internalType":"address","type":"address"},{"name":"_tokens","internalType":"address[]","type":"address[]"}],"name":"manualStopEmissionsFor","outputs":[],"stateMutability":"nonpayable"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[],"name":"config","outputs":[{"name":"metadataRenderer","internalType":"contract IMetadataRenderer","type":"address"},{"name":"editionSize","internalType":"uint64","type":"uint64"},{"name":"royaltyBPS","internalType":"uint16","type":"uint16"},{"name":"fundsRecipient","internalType":"address payable","type":"address"}],"stateMutability":"view"}]

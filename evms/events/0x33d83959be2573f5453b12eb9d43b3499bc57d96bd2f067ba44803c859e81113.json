@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"controller","internalType":"address","type":"address","indexed":true}],"name":"ControllerRemoved"},{"type":"event","anonymous":false,"inputs":[{"name":"controllerRemoved","internalType":"address","type":"address","indexed":false}],"name":"ControllerRemoved"}]

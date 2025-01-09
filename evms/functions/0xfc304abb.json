@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"address_","internalType":"address","type":"address"},{"name":"maxmint_","internalType":"uint256","type":"uint256"},{"name":"proof_","internalType":"bytes32[]","type":"bytes32[]"}],"name":"hasWhitelistedOneWL2","outputs":[{"name":"","internalType":"bool","type":"bool"}],"stateMutability":"view"}]

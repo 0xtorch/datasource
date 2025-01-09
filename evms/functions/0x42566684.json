@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"varieties_","internalType":"address[]","type":"address[]"},{"name":"earlyBirdDuration","internalType":"uint256","type":"uint256"},{"name":"earlyBirdSessionId","internalType":"uint256","type":"uint256"},{"name":"activateVariety","internalType":"bool","type":"bool"}],"name":"activateEarlyBird","outputs":[],"stateMutability":"nonpayable"}]

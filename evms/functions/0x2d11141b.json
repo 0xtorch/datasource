@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"eggId","internalType":"uint256","type":"uint256"}],"name":"incubatingPeriod","outputs":[{"name":"incubating","internalType":"bool","type":"bool"},{"name":"current","internalType":"uint256","type":"uint256"},{"name":"total","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

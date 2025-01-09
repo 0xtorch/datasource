@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"asset","internalType":"address","type":"address","indexed":false},{"name":"minAmountToWithdraw","internalType":"uint256","type":"uint256","indexed":false}],"name":"MinAmountToWithdrawUpdated"}]

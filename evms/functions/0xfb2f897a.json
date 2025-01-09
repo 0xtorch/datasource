@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"spaceIds","internalType":"uint256[]","type":"uint256[]"},{"name":"holder","internalType":"address","type":"address"}],"name":"getRewards","outputs":[{"name":"reward","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

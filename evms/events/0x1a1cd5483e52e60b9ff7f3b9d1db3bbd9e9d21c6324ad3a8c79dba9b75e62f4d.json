@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"reward","internalType":"address","type":"address","indexed":true},{"name":"rewardOracle","internalType":"address","type":"address","indexed":true}],"name":"RewardOracleUpdated"}]

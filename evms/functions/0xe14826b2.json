@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"ArtistIDs","internalType":"uint256[]","type":"uint256[]"},{"name":"Range","internalType":"uint256","type":"uint256"}],"name":"readArtistMintedTicketIDs","outputs":[{"name":"TokenIDs","internalType":"uint256[][]","type":"uint256[][]"}],"stateMutability":"view"}]

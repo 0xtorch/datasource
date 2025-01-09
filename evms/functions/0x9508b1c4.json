@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"inputData","internalType":"bytes","type":"bytes"},{"name":"tokenId","internalType":"uint256","type":"uint256"},{"name":"keys","internalType":"string[]","type":"string[]"},{"name":"values","internalType":"string[]","type":"string[]"}],"name":"withdrawFromPolygon","outputs":[],"stateMutability":"nonpayable"}]

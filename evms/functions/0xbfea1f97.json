@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"network","internalType":"uint256","type":"uint256"},{"name":"feature","internalType":"enum GatewayToken.NetworkFeature","type":"uint8"}],"name":"networkHasFeature","outputs":[{"name":"","internalType":"bool","type":"bool"}],"stateMutability":"view"}]

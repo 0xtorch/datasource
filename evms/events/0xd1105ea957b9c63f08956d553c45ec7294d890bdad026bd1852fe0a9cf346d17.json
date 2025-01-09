@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"previousDelta","internalType":"uint256","type":"uint256","indexed":false},{"name":"newDelta","internalType":"uint256","type":"uint256","indexed":false}],"name":"BalancingDeltaUpdated"}]

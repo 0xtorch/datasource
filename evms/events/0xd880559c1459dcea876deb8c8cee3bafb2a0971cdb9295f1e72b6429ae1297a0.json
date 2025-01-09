@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"defaultNFTOperator","internalType":"contract INFTOperator","type":"address","indexed":true}],"name":"DefaultNFTOperatorSet"}]

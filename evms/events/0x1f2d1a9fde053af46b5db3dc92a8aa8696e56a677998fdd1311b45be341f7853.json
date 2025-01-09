@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"lastRewardTime","internalType":"uint256","type":"uint256","indexed":false},{"name":"nftSupply","internalType":"uint256","type":"uint256","indexed":false},{"name":"accRewardPerShare","internalType":"uint256","type":"uint256","indexed":false}],"name":"LogUpdatePool"}]

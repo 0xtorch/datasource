@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"Investor_ID","internalType":"uint256","type":"uint256","indexed":false},{"name":"Investor_Address","internalType":"address","type":"address","indexed":false},{"name":"LockedDeal_ID","internalType":"uint256","type":"uint256","indexed":false}],"name":"NewInvestorEvent"}]

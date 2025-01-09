@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"mainchainTokens","internalType":"address[]","type":"address[]","indexed":false},{"name":"roninTokens","internalType":"address[]","type":"address[]","indexed":false},{"name":"standards","internalType":"enum Token.Standard[]","type":"uint8[]","indexed":false}],"name":"TokenMapped"}]

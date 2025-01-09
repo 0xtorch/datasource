@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"newOrderManager","internalType":"address","type":"address"},{"name":"_isOrderManager","internalType":"bool","type":"bool"}],"name":"setOrderManager","outputs":[],"stateMutability":"nonpayable"}]

@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"cliffPeriod","internalType":"struct IFVestable.Cliff[]","type":"tuple[]","components":[{"name":"claimTime","internalType":"uint256","type":"uint256"},{"name":"pct","internalType":"uint8","type":"uint8"}],"indexed":true}],"name":"SetCliffVestingPeriod"}]

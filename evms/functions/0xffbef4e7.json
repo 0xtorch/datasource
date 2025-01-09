@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_sender","internalType":"address","type":"address"},{"name":"_allowed","internalType":"bool","type":"bool"}],"name":"setSwapAllowed","outputs":[],"stateMutability":"nonpayable"}]

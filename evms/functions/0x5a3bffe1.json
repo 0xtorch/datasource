@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"genesisTokenId","internalType":"uint256","type":"uint256"}],"name":"recoverOrphanedGenesisToken","outputs":[],"stateMutability":"nonpayable"}]

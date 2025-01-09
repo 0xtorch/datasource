@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_name","internalType":"string","type":"string"},{"name":"_symbol","internalType":"string","type":"string"},{"name":"_version","internalType":"uint8","type":"uint8"}],"name":"reinitializeERC20","outputs":[],"stateMutability":"nonpayable"}]

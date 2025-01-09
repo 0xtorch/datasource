@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[],"name":"feeConfig","outputs":[{"name":"feeCollector","internalType":"address","type":"address"},{"name":"feeLimitPips","internalType":"uint96","type":"uint96"}],"stateMutability":"view"}]

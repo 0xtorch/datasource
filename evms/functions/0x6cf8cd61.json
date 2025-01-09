@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"","internalType":"bytes","type":"bytes"}],"name":"floatyHashToFloaty","outputs":[{"name":"floatyHash","internalType":"bytes","type":"bytes"},{"name":"tokenAddress","internalType":"address","type":"address"},{"name":"tokenPerFloaty","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

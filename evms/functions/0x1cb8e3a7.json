@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_toFees","internalType":"uint8","type":"uint8"},{"name":"_toTreasury","internalType":"uint8","type":"uint8"}],"name":"setFeeSplit","outputs":[],"stateMutability":"nonpayable"}]

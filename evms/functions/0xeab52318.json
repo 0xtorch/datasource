@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"to","internalType":"address","type":"address"},{"name":"claimAmount","internalType":"uint256","type":"uint256"},{"name":"redeemAmount","internalType":"uint256","type":"uint256"}],"name":"claimRewardsAndRedeem","outputs":[],"stateMutability":"nonpayable"}]

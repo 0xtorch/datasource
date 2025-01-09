@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"encodedVotes","internalType":"bytes[]","type":"bytes[]"}],"name":"vote","outputs":[],"stateMutability":"payable"}]

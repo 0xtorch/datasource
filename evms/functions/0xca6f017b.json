@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_padFactory","internalType":"contract IPadFactory","type":"address"}],"name":"setPadFactory","outputs":[],"stateMutability":"nonpayable"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"receiver","internalType":"address","type":"address"},{"name":"twitterIdHash","internalType":"bytes32","type":"bytes32"},{"name":"discordIdHash","internalType":"bytes32","type":"bytes32"},{"name":"credentialURL","internalType":"string","type":"string"}],"name":"issueCredential","outputs":[],"stateMutability":"nonpayable"}]

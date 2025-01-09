@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_asset","internalType":"contract IERC20","type":"address"},{"name":"_name","internalType":"string","type":"string"},{"name":"_symbol","internalType":"string","type":"string"},{"name":"_useNativeAsset","internalType":"bool","type":"bool"}],"name":"__ERC4626_init","outputs":[],"stateMutability":"nonpayable"}]

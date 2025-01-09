@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"account","internalType":"address","type":"address","indexed":false}],"name":"WhitelistAdded"},{"type":"event","anonymous":false,"inputs":[{"name":"operator","type":"address","indexed":true}],"name":"WhitelistAdded"}]

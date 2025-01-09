@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_messageHashes","internalType":"bytes32[]","type":"bytes32[]"}],"name":"addL1L2MessageHashes","outputs":[],"stateMutability":"nonpayable"}]

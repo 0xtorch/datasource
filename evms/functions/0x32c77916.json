@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"clone","internalType":"address","type":"address"},{"name":"oldTributary","internalType":"address","type":"address"},{"name":"newTributary","internalType":"address","type":"address"}],"name":"emitTributarySet","outputs":[],"stateMutability":"nonpayable"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"forgeId","internalType":"uint256","type":"uint256"},{"name":"amount","internalType":"uint256","type":"uint256"},{"name":"redeemToken","internalType":"address","type":"address"},{"name":"minimumAmountOut","internalType":"uint256","type":"uint256"}],"name":"redeemFromWallet","outputs":[],"stateMutability":"nonpayable"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"owner","internalType":"address","type":"address"}],"name":"getSkipNFT","outputs":[{"name":"result","internalType":"bool","type":"bool"}],"stateMutability":"view"}]

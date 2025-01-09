@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"","internalType":"string","type":"string"}],"name":"_onSaleMysterBoxDatas","outputs":[{"name":"nextRenewTime","internalType":"uint64","type":"uint64"},{"name":"countLeft","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

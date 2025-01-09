@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_assetAddr","internalType":"address","type":"address"},{"name":"_newLiqIncentiveSCDP","internalType":"uint16","type":"uint16"}],"name":"setKrAssetLiqIncentiveSCDP","outputs":[],"stateMutability":"nonpayable"}]

@@ -1,0 +1,1 @@
+[{"type":"function","constant":false,"inputs":[{"name":"_fighterId","type":"uint256"},{"name":"_vitality","type":"uint8"}],"name":"updateVitality","outputs":[],"payable":false,"stateMutability":"nonpayable"}]

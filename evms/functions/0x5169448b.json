@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"holders","internalType":"address[]","type":"address[]"},{"name":"pTokens","internalType":"contract PToken[]","type":"address[]"},{"name":"borrowers","internalType":"bool","type":"bool"},{"name":"suppliers","internalType":"bool","type":"bool"}],"name":"claimWpc","outputs":[],"stateMutability":"nonpayable"}]

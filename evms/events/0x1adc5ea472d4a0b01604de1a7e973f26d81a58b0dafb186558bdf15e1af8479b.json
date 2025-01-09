@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"DAO","internalType":"address","type":"address","indexed":true},{"name":"asset","internalType":"address","type":"address","indexed":true},{"name":"claimRate","internalType":"uint256","type":"uint256","indexed":false},{"name":"allocation","internalType":"uint256","type":"uint256","indexed":false}],"name":"ListedAsset"}]

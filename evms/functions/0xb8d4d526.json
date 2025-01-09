@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"domainNames","internalType":"string[]","type":"string[]"},{"name":"isProtectedValues","internalType":"bool[]","type":"bool[]"}],"name":"protectDomains","outputs":[],"stateMutability":"nonpayable"}]

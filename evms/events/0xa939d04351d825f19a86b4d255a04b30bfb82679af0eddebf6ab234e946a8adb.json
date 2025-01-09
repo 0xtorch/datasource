@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"collectionType","internalType":"enum CollectionType","type":"uint8","indexed":true},{"name":"implementation","internalType":"address","type":"address","indexed":true},{"name":"version","internalType":"uint256","type":"uint256","indexed":true}],"name":"CollectionTemplateUpdated"}]

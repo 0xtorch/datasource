@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"lps","internalType":"address[]","type":"address[]"},{"name":"swapForAvax","internalType":"bool","type":"bool"}],"name":"castVotesAndHarvestBribes","outputs":[],"stateMutability":"nonpayable"}]

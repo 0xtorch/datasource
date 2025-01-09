@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_key","internalType":"string","type":"string"},{"name":"_data","internalType":"bytes32","type":"bytes32"}],"name":"setGlobalData","outputs":[],"stateMutability":"nonpayable"}]

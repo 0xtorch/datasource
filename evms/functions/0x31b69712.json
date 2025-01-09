@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"root","internalType":"bytes32","type":"bytes32"},{"name":"baseMetadataURI","internalType":"string","type":"string"}],"name":"addNewRoot","outputs":[],"stateMutability":"nonpayable"}]

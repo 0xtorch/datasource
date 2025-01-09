@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_feeAddress","internalType":"address","type":"address"},{"name":"_feeBasisPoints","internalType":"uint256","type":"uint256"}],"name":"setFeeConfig","outputs":[],"stateMutability":"nonpayable"}]

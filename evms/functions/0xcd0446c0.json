@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"tokens","internalType":"struct TokenWeight[]","type":"tuple[]","components":[{"name":"token","internalType":"address","type":"address"},{"name":"weight","internalType":"uint256","type":"uint256"}]}],"name":"setTargetWeight","outputs":[],"stateMutability":"nonpayable"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_nftAddress","internalType":"address","type":"address"},{"name":"_minter","internalType":"address","type":"address"}],"name":"isMinter","outputs":[{"name":"","internalType":"bool","type":"bool"}],"stateMutability":"view"}]

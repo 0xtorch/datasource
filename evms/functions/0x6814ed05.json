@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"user","internalType":"address","type":"address"}],"name":"userBlocked","outputs":[{"name":"blocked","internalType":"bool","type":"bool"}],"stateMutability":"view"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_royaltyController","internalType":"contract IRoyaltyController","type":"address"}],"name":"setRoyaltyController","outputs":[],"stateMutability":"nonpayable"}]

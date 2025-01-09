@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"amount","internalType":"uint256","type":"uint256"},{"name":"pythPriceUpdates","internalType":"bytes[]","type":"bytes[]"}],"name":"borrow","outputs":[{"name":"borrowed","internalType":"uint256","type":"uint256"}],"stateMutability":"payable"}]

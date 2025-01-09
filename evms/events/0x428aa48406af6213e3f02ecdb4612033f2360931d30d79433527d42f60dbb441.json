@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"_randomizer","internalType":"address","type":"address","indexed":true},{"name":"_tokenId","internalType":"uint256","type":"uint256","indexed":true},{"name":"_seed","internalType":"bytes32","type":"bytes32","indexed":false}],"name":"SeedFulfilled"}]

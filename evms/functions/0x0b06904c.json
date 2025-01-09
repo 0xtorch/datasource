@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"fights","internalType":"uint256","type":"uint256"},{"name":"titans","internalType":"uint256","type":"uint256"},{"name":"sales","internalType":"uint256","type":"uint256"},{"name":"powerups","internalType":"uint256","type":"uint256"}],"name":"migrateStatistics","outputs":[],"stateMutability":"nonpayable"}]

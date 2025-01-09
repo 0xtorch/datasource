@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"_tokenIds","internalType":"uint256[]","type":"uint256[]","indexed":false},{"name":"_landTypes","internalType":"enum LandV2.LandType[]","type":"uint8[]","indexed":false}],"name":"LandTypeUpdated"}]

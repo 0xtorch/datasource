@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"beacon","internalType":"address","type":"address","indexed":true}],"name":"BeaconUpgraded"}]

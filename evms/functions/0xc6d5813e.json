@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"wallet","internalType":"address","type":"address"},{"name":"collection","internalType":"address","type":"address"}],"name":"claimedAmount","outputs":[{"name":"","internalType":"uint16","type":"uint16"}],"stateMutability":"view"}]

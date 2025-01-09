@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_isBunkerModeNow","internalType":"bool","type":"bool"},{"name":"_bunkerStartTimestamp","internalType":"uint256","type":"uint256"},{"name":"_currentReportTimestamp","internalType":"uint256","type":"uint256"}],"name":"onOracleReport","outputs":[],"stateMutability":"nonpayable"}]

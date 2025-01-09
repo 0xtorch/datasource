@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_wethGate","internalType":"contract IWethGate","type":"address"}],"name":"setWethGate","outputs":[],"stateMutability":"nonpayable"}]

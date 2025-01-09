@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"platformFee","internalType":"uint16","type":"uint16","indexed":false}],"name":"UpdatePlatformFee"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_tracker","internalType":"contract IJonesGlpRewardTracker","type":"address"}],"name":"setRewardTracker","outputs":[],"stateMutability":"nonpayable"}]

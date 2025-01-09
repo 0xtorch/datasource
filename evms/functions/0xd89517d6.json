@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"characterIds","internalType":"uint16[]","type":"uint16[]"},{"name":"to","internalType":"address","type":"address"}],"name":"minterMint","outputs":[],"stateMutability":"nonpayable"}]

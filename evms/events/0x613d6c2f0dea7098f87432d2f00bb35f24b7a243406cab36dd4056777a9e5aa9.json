@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"winningKnightId","internalType":"uint256","type":"uint256","indexed":true},{"name":"losingKnightId","internalType":"uint256","type":"uint256","indexed":true},{"name":"penaltyAmount","internalType":"uint256","type":"uint256","indexed":false}],"name":"DuelConcluded"}]

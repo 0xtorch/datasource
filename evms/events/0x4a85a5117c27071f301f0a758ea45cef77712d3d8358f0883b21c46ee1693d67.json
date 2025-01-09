@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"oldMinterAdmin","type":"address","indexed":true},{"name":"newMinterAdmin","type":"address","indexed":true},{"name":"sender","type":"address","indexed":true}],"name":"MinterAdminChanged"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_proposedAggregateRoot","internalType":"bytes32","type":"bytes32"},{"name":"_rootTimestamp","internalType":"uint256","type":"uint256"},{"name":"_endOfDispute","internalType":"uint256","type":"uint256"}],"name":"finalize","outputs":[],"stateMutability":"nonpayable"}]

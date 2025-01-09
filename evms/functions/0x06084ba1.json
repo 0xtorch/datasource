@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"data","internalType":"bytes","type":"bytes"},{"name":"proof","internalType":"bytes32[]","type":"bytes32[]"},{"name":"platformFlatRateFeeRecipient","internalType":"address payable","type":"address"},{"name":"platformFlatRateFeeAmount","internalType":"uint256","type":"uint256"}],"name":"buyWithNative","outputs":[],"stateMutability":"payable"}]

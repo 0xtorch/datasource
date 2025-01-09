@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"strategy","type":"address","indexed":true},{"name":"change_type","type":"uint256","indexed":true}],"name":"StrategyChanged"}]

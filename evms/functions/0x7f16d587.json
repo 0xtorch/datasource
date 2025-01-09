@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"tokenId","internalType":"uint256","type":"uint256"},{"name":"gene","internalType":"bytes32","type":"bytes32"}],"name":"setGene","outputs":[],"stateMutability":"nonpayable"}]

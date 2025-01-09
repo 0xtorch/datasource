@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[],"name":"getAsks","outputs":[{"name":"","internalType":"struct ExchangeNFT.AskEntry[]","type":"tuple[]","components":[{"name":"tokenId","internalType":"uint256","type":"uint256"},{"name":"price","internalType":"uint256","type":"uint256"}]}],"stateMutability":"view"}]

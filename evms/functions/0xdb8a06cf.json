@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"","internalType":"uint256","type":"uint256"}],"name":"accessoryIdToAccessory","outputs":[{"name":"artContract","internalType":"address","type":"address"},{"name":"xpCategory","internalType":"string","type":"string"},{"name":"qualifyingXPScore","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

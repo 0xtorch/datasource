@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"management_fee","type":"uint256","indexed":false},{"name":"performance_fee","type":"uint256","indexed":false},{"name":"strategist_fee","type":"uint256","indexed":false},{"name":"duration","type":"uint256","indexed":false}],"name":"FeeReport"}]

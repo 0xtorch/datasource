@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_wl1Price","internalType":"uint256","type":"uint256"},{"name":"_wl2Price","internalType":"uint256","type":"uint256"},{"name":"_pbPrice","internalType":"uint256","type":"uint256"}],"name":"SetPrice","outputs":[],"stateMutability":"nonpayable"}]

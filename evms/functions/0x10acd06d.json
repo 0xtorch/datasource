@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_action","internalType":"enum IVault.VaultAction","type":"uint8"},{"name":"_actionData","internalType":"bytes","type":"bytes"}],"name":"permissionedVaultAction","outputs":[],"stateMutability":"nonpayable"}]

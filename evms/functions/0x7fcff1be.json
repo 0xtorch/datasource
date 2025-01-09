@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"tokenId","internalType":"uint256","type":"uint256"},{"name":"level","internalType":"uint8","type":"uint8"},{"name":"signature","internalType":"bytes","type":"bytes"}],"name":"upgradeWithSignature","outputs":[],"stateMutability":"nonpayable"}]

@@ -1,0 +1,1 @@
+[{"type":"function","constant":false,"inputs":[{"name":"_objId","type":"uint256"},{"name":"_price","type":"uint256"},{"name":"_releaseTime","type":"uint256"}],"name":"offerBorrowingItem","outputs":[],"payable":false,"stateMutability":"nonpayable"}]

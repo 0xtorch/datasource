@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"tokenId","internalType":"uint256","type":"uint256"}],"name":"getTraversableSeeds","outputs":[{"name":"birthChainSeed","internalType":"uint256","type":"uint256"},{"name":"tokenIdSeed","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

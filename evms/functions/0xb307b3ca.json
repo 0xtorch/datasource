@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"merkleRootForStaking_","internalType":"bytes32","type":"bytes32"}],"name":"changeMerkleRootForStaking","outputs":[],"stateMutability":"nonpayable"}]

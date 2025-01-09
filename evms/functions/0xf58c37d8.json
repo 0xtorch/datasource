@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"ticketIds","internalType":"uint256[]","type":"uint256[]"}],"name":"checkTickets","outputs":[{"name":"res","internalType":"bool[]","type":"bool[]"}],"stateMutability":"view"}]

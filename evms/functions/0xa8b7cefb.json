@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_layerId","internalType":"uint256","type":"uint256"},{"name":"_baseURI","internalType":"string","type":"string"}],"name":"loadGeneration","outputs":[],"stateMutability":"nonpayable"}]

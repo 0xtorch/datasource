@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"mintlistPriceWei","internalType":"uint64","type":"uint64"},{"name":"publicPriceWei","internalType":"uint64","type":"uint64"},{"name":"publicSaleStartTime","internalType":"uint32","type":"uint32"}],"name":"endAuctionAndSetupNonAuctionSaleInfo","outputs":[],"stateMutability":"nonpayable"}]

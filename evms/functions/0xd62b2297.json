@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_tokenId","internalType":"uint256","type":"uint256"},{"name":"_isSoulBound","internalType":"bool","type":"bool"}],"name":"updateTokenIsSoulbound","outputs":[],"stateMutability":"nonpayable"}]

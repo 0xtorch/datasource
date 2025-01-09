@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"secWare","internalType":"address","type":"address"},{"name":"prodId","internalType":"uint24","type":"uint24"},{"name":"to","internalType":"address","type":"address"}],"name":"purchaseWithBNB","outputs":[],"stateMutability":"payable"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"__name","internalType":"string","type":"string"},{"name":"__symbol","internalType":"string","type":"string"},{"name":"__decimals","internalType":"uint8","type":"uint8"}],"name":"setTokenInfo","outputs":[],"stateMutability":"nonpayable"}]

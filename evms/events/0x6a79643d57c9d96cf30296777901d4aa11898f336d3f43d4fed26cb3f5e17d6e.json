@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"tokenIdFrom","internalType":"uint256","type":"uint256","indexed":true},{"name":"tokenIdTo","internalType":"uint256","type":"uint256","indexed":true},{"name":"amount","internalType":"uint256","type":"uint256","indexed":false}],"name":"BalanceTransfered"}]

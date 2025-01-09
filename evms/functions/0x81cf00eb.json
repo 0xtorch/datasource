@@ -1,0 +1,1 @@
+[{"type":"function","constant":false,"inputs":[{"name":"newCollateralCap","internalType":"uint256","type":"uint256"}],"name":"_setCollateralCap","outputs":[],"payable":false,"stateMutability":"nonpayable"}]

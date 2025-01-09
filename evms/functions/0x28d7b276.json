@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_presaleMerkleRoot","internalType":"bytes32","type":"bytes32"}],"name":"setPresaleMerkleRoot","outputs":[],"stateMutability":"nonpayable"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"apy0_","internalType":"uint256","type":"uint256"},{"name":"apy15_","internalType":"uint256","type":"uint256"},{"name":"apy30_","internalType":"uint256","type":"uint256"}],"name":"updateApys","outputs":[],"stateMutability":"nonpayable"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"positionType","internalType":"enum StakedPositionType","type":"uint8"}],"name":"getBaseTokenExchangeRate","outputs":[{"name":"","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

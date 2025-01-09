@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"burnAmount","internalType":"uint256","type":"uint256"},{"name":"minAmounts","internalType":"uint256[2]","type":"uint256[2]"}],"name":"burn","outputs":[{"name":"amountX","internalType":"uint256","type":"uint256"},{"name":"amountY","internalType":"uint256","type":"uint256"}],"stateMutability":"nonpayable"}]

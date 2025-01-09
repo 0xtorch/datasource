@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"minter","internalType":"address","type":"address","indexed":true},{"name":"color","internalType":"string","type":"string","indexed":true},{"name":"signature","internalType":"string","type":"string","indexed":false}],"name":"Mint"}]

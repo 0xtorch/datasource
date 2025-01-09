@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"_isXybk","internalType":"bool","type":"bool","indexed":false},{"name":"_newBoost0","internalType":"uint256","type":"uint256","indexed":false},{"name":"_newBoost1","internalType":"uint256","type":"uint256","indexed":false}],"name":"ChangeInvariant"}]
