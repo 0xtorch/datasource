@@ -12,32 +12,35 @@ for (const filePath of filePathes) {
   console.log(`  ${filePath}`)
 }
 
-const evmAddresses: EvmAddress[] = []
 for (const filePath of filePathes) {
   const chainId = Number(filePath.split('evms/chains/')[1].split('/')[0])
   const json = await Bun.file(filePath).json()
   const evmAddress = evmAddressWithoutChainIdSchema.parse(json)
-  evmAddresses.push({
-    ...evmAddress,
-    chainId,
-  })
-}
 
-if (evmAddresses.length > 0) {
-  const body = stringify(evmAddresses)
-  const response = await fetch(`${API_ENDPOINT}/v1/private/evm`, {
+  // ABI は登録しない
+  const data = stringify({
+    address: evmAddress.address,
+    chainId,
+    label: evmAddress.label,
+    isSpam: evmAddress.isSpam,
+    app: evmAddress.app,
+  } satisfies EvmAddress)
+
+  const response = await fetch(`${API_ENDPOINT}/v1/private/evm/address`, {
     method: 'POST',
     headers: {
       Authorization: `Basic ${btoa(`${USERNAME}:${PASSWORD}`)}`,
       'Content-Type': 'application/json',
     },
-    body,
+    body: JSON.stringify({
+      chainId,
+      address: evmAddress.address,
+      data,
+    }),
   })
   if (!response.ok) {
     throw new Error(
       `Failed to register evm addresses: ${response.status} ${response.statusText}`,
     )
   }
-} else {
-  console.log('No evm address data is selected.')
 }
