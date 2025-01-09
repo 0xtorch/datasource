@@ -91,5 +91,18 @@
         ]
       }
     ]
+  },
+  "symbolAssetMap": {
+    "ASM": "crypto/assemble-protocol",
+    "ASMATCH": "crypto/asmatch",
+    "COM": "crypto/com-ordinals",
+    "EVADORE": "crypto/evadore",
+    "EVADORE_OLD": "crypto/evadore",
+    "MEME": "crypto/memecoin-2",
+    "MEMETOON": "crypto/memetoon",
+    "SMT": "crypto/smartmesh",
+    "SMTX": "crypto/swarm-markets",
+    "STAR": "crypto/filestar",
+    "STARHEROES": "crypto/starheroes"
   }
 }
