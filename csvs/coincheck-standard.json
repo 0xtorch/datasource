@@ -374,5 +374,37 @@
         ]
       }
     ]
+  },
+  "symbolAssetMap": {
+    "BTC": "crypto/bitcoin",
+    "ETH": "crypto/ethereum",
+    "ETC": "crypto/ethereum-classic",
+    "LSK": "crypto/lisk",
+    "XRP": "crypto/ripple",
+    "XEM": "crypto/nem",
+    "LTC": "crypto/litecoin",
+    "BCH": "crypto/bitcoin-cash",
+    "MONA": "crypto/monacoin",
+    "XLM": "crypto/stellar",
+    "QTUM": "crypto/qtum",
+    "BAT": "crypto/basic-attention-token",
+    "IOST": "crypto/iostoken",
+    "ENJ": "crypto/enjincoin",
+    "PLT": "crypto/palette",
+    "SAND": "crypto/the-sandbox",
+    "DOT": "crypto/polkadot",
+    "FNCT": "crypto/financie-token",
+    "CHZ": "crypto/chiliz",
+    "LINK": "crypto/chainlink",
+    "MKR": "crypto/maker",
+    "DAI": "crypto/dai",
+    "POL": "crypto/polygon-ecosystem-token",
+    "IMX": "crypto/immutable-x",
+    "APE": "crypto/apecoin",
+    "WBTC": "crypto/wrapped-bitcoin",
+    "AVAX": "crypto/avalanche-2",
+    "SHIB": "crypto/shiba-inu",
+    "BRIL": "crypto/brilliant-crypto-token",
+    "BC": "crypto/blood-crystal"
   }
 }
