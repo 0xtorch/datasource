@@ -309,7 +309,7 @@
         ]
       },
       {
-        "description": "預入 / 入金 / 出金 / 外部送付",
+        "description": "送付手数料 / 出金手数料 / 支払",
         "conditions": [
           {
             "value": {
@@ -318,7 +318,92 @@
             },
             "pattern": {
               "type": "in",
-              "values": ["預入", "入金", "出金", "外部送付"]
+              "values": ["送付手数料", "出金手数料", "支払"]
+            }
+          }
+        ],
+        "generators": [
+          {
+            "type": "fee",
+            "source": {
+              "type": "join",
+              "values": [
+                { "type": "service" },
+                "_",
+                {
+                  "type": "cell",
+                  "column": "注文 ID"
+                }
+              ]
+            },
+            "timestamp": {
+              "type": "cell",
+              "column": "取引日時"
+            },
+            "comment": {
+              "type": "join",
+              "values": [
+                "取引種別: ",
+                {
+                  "type": "cell",
+                  "column": "取引種別"
+                },
+                " / ",
+                {
+                  "type": "cell",
+                  "column": "通貨1数量"
+                },
+                {
+                  "type": "cell",
+                  "column": "通貨1"
+                },
+                " / 備考: ",
+                {
+                  "type": "cell",
+                  "column": "備考"
+                }
+              ]
+            },
+            "transfers": [
+              {
+                "direction": "out",
+                "amount": {
+                  "type": "text",
+                  "value": {
+                    "type": "cell",
+                    "column": "通貨1数量"
+                  }
+                },
+                "asset": {
+                  "type": "symbol",
+                  "value": {
+                    "type": "cell",
+                    "column": "通貨1"
+                  }
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "description": "預入 / 入金 / 出金 / 外部送付 / 証拠金預入 / 証拠金引出",
+        "conditions": [
+          {
+            "value": {
+              "type": "cell",
+              "column": "取引種別"
+            },
+            "pattern": {
+              "type": "in",
+              "values": [
+                "預入",
+                "入金",
+                "出金",
+                "外部送付",
+                "証拠金預入",
+                "証拠金引出"
+              ]
             }
           }
         ],
