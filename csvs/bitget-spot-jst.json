@@ -1,0 +1,207 @@
+{
+  "id": "bitget-spot-jst",
+  "service": "bitget",
+  "formatter": {
+    "order": ["string"],
+    "date": ["iso8601-jp"],
+    "coin": ["string"],
+    "type": ["string"],
+    "amount": ["big-decimal"],
+    "fee": ["big-decimal"],
+    "available": ["big-decimal"]
+  },
+  "parser": {
+    "parsers": [
+      {
+        "description": "Airdrop Reward-A => airdrop",
+        "conditions": [
+          {
+            "value": { "type": "cell", "column": "type" },
+            "pattern": "Airdrop Reward-A"
+          }
+        ],
+        "generators": [
+          {
+            "type": "airdrop",
+            "source": {
+              "type": "join",
+              "values": [
+                { "type": "service" },
+                "_spot_",
+                { "type": "cell", "column": "order" }
+              ]
+            },
+            "timestamp": { "type": "cell", "column": "date" },
+            "comment": {
+              "type": "join",
+              "values": [
+                "type: ",
+                { "type": "cell", "column": "type" },
+                " / coin: ",
+                { "type": "cell", "column": "coin" },
+                " / amount: ",
+                { "type": "cell", "column": "amount" }
+              ]
+            },
+            "transfers": [
+              {
+                "direction": "in",
+                "amount": {
+                  "type": "text",
+                  "value": { "type": "cell", "column": "amount" }
+                },
+                "asset": {
+                  "type": "symbol",
+                  "value": { "type": "cell", "column": "coin" }
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "description": "Deposit / Ordinary Withdrawal => fee (if fee<0)",
+        "conditions": [
+          {
+            "value": { "type": "cell", "column": "type" },
+            "pattern": {
+              "type": "in",
+              "values": ["Deposit", "Ordinary Withdrawal"]
+            }
+          },
+          {
+            "value": { "type": "cell", "column": "fee" },
+            "pattern": { "type": "negative" }
+          }
+        ],
+        "generators": [
+          {
+            "type": "fee",
+            "source": {
+              "type": "join",
+              "values": [
+                { "type": "service" },
+                "_spot_",
+                { "type": "cell", "column": "order" }
+              ]
+            },
+            "timestamp": { "type": "cell", "column": "date" },
+            "comment": {
+              "type": "join",
+              "values": [
+                "type: ",
+                { "type": "cell", "column": "type" },
+                " / coin: ",
+                { "type": "cell", "column": "coin" },
+                " / amount: ",
+                { "type": "cell", "column": "amount" },
+                " / fee: ",
+                { "type": "cell", "column": "fee" }
+              ]
+            },
+            "transfers": [
+              {
+                "direction": "out",
+                "amount": {
+                  "type": "text",
+                  "value": { "type": "cell", "column": "fee" }
+                },
+                "asset": {
+                  "type": "symbol",
+                  "value": { "type": "cell", "column": "coin" }
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "description": "Deposit / Ordinary Withdrawal => ignore (if fee=0)",
+        "conditions": [
+          {
+            "value": { "type": "cell", "column": "type" },
+            "pattern": {
+              "type": "in",
+              "values": ["Deposit", "Ordinary Withdrawal"]
+            }
+          },
+          {
+            "value": { "type": "cell", "column": "fee" },
+            "pattern": "\"0\""
+          }
+        ],
+        "generators": [
+          {
+            "type": "ignore",
+            "source": {
+              "type": "join",
+              "values": [
+                { "type": "service" },
+                "_spot_",
+                { "type": "cell", "column": "order" }
+              ]
+            },
+            "timestamp": { "type": "cell", "column": "date" },
+            "comment": {
+              "type": "join",
+              "values": [
+                "type: ",
+                { "type": "cell", "column": "type" },
+                " / coin: ",
+                { "type": "cell", "column": "coin" },
+                " / amount: ",
+                { "type": "cell", "column": "amount" }
+              ]
+            },
+            "transfers": []
+          }
+        ]
+      },
+      {
+        "description": "Ignore (Buy, Sell, Financial, Transfer in, Transfer out, 365)",
+        "conditions": [
+          {
+            "value": { "type": "cell", "column": "type" },
+            "pattern": {
+              "type": "in",
+              "values": [
+                "Buy",
+                "Sell",
+                "Financial",
+                "Transfer in",
+                "Transfer out",
+                "365"
+              ]
+            }
+          }
+        ],
+        "generators": [
+          {
+            "type": "ignore",
+            "source": {
+              "type": "join",
+              "values": [
+                { "type": "service" },
+                "_spot_",
+                { "type": "cell", "column": "order" }
+              ]
+            },
+            "timestamp": { "type": "cell", "column": "date" },
+            "comment": {
+              "type": "join",
+              "values": [
+                "type: ",
+                { "type": "cell", "column": "type" },
+                " / coin: ",
+                { "type": "cell", "column": "coin" },
+                " / amount: ",
+                { "type": "cell", "column": "amount" }
+              ]
+            },
+            "transfers": []
+          }
+        ]
+      }
+    ]
+  }
+}
