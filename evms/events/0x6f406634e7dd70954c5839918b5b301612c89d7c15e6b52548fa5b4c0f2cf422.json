@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"swapFeeUnits","internalType":"uint24","type":"uint24","indexed":true},{"name":"tickDistance","internalType":"int24","type":"int24","indexed":true}],"name":"SwapFeeEnabled"}]

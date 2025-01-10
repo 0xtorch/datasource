@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"feeTo","internalType":"address","type":"address","indexed":false},{"name":"governmentFeeUnits","internalType":"uint24","type":"uint24","indexed":false}],"name":"FeeConfigurationUpdated"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"","internalType":"uint24","type":"uint24"}],"name":"feeAmountTickDistance","outputs":[{"name":"","internalType":"int24","type":"int24"}],"stateMutability":"view"}]

@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"oldConfigMaster","internalType":"address","type":"address","indexed":false},{"name":"newConfigMaster","internalType":"address","type":"address","indexed":false}],"name":"ConfigMasterUpdated"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"swapFeeUnits","internalType":"uint24","type":"uint24"},{"name":"tickDistance","internalType":"int24","type":"int24"}],"name":"enableSwapFee","outputs":[],"stateMutability":"nonpayable"}]

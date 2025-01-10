@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_nftManager","internalType":"address","type":"address"}],"name":"addNFTManager","outputs":[{"name":"added","internalType":"bool","type":"bool"}],"stateMutability":"nonpayable"}]
