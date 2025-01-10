@@ -103,6 +103,7 @@
     "SMT": "crypto/smartmesh",
     "SMTX": "crypto/swarm-markets",
     "STAR": "crypto/filestar",
-    "STARHEROES": "crypto/starheroes"
+    "STARHEROES": "crypto/starheroes",
+    "USDTEST": "crypto/0xtorch-gate-usdtest"
   }
 }
