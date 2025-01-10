@@ -1,0 +1,123 @@
+[
+  {
+    "source": "bitget-spot-jst_spot_1162695942164586518",
+    "order": 0,
+    "type": "airdrop",
+    "timestamp": 1713012857000,
+    "evidence": "system-rule",
+    "comment": "type: Airdrop Reward-A / coin: BGB / amount: \"25\"",
+    "transfers": [
+      {
+        "direction": "in",
+        "asset": {
+          "type": "CryptoCurrency",
+          "id": "bitget-token",
+          "name": "Bitget Token",
+          "symbol": "bgb",
+          "icon": "https://coin-images.coingecko.com/coins/images/11610/large/icon_colour.png?1696511504",
+          "market": {
+            "coingeckoId": "bitget-token",
+            "marketCapUsd": 1514754323
+          },
+          "updatedAt": 1728782536762
+        },
+        "amount": "25"
+      }
+    ]
+  },
+  {
+    "source": "bitget-spot-jst_spot_1186586273859248128",
+    "order": 0,
+    "type": "ignore",
+    "timestamp": 1718630134000,
+    "evidence": "system-rule",
+    "comment": "type: Transfer in / coin: USDT / amount: \"4959.28253296\"",
+    "transfers": []
+  },
+  {
+    "source": "bitget-spot-jst_spot_1204279158092464128",
+    "order": 0,
+    "type": "fee",
+    "timestamp": 1722848714000,
+    "evidence": "system-rule",
+    "comment": "type: Ordinary Withdrawal / coin: ASTR / amount: \"-20786\" / fee: \"-2\"",
+    "transfers": [
+      {
+        "direction": "out",
+        "asset": {
+          "type": "CryptoCurrency",
+          "id": "astar",
+          "name": "Astar",
+          "symbol": "astr",
+          "icon": "https://coin-images.coingecko.com/coins/images/22617/large/astr.png?1696521933",
+          "market": { "coingeckoId": "astar", "marketCapUsd": 439610011 },
+          "updatedAt": 1728782536762
+        },
+        "amount": "2"
+      }
+    ]
+  },
+  {
+    "source": "bitget-spot-jst_spot_1234653490861699072",
+    "order": 0,
+    "type": "ignore",
+    "timestamp": 1730090346000,
+    "evidence": "system-rule",
+    "comment": "type: Deposit / coin: RON / amount: \"2517.0005\"",
+    "transfers": []
+  },
+  {
+    "source": "bitget-spot-jst_spot_1234696897798017120",
+    "order": 0,
+    "type": "ignore",
+    "timestamp": 1730100600000,
+    "evidence": "system-rule",
+    "comment": "type: Sell / coin: ETH / amount: \"-0.0596\"",
+    "transfers": []
+  },
+  {
+    "source": "bitget-spot-jst_spot_1234696897798017120",
+    "order": 1,
+    "type": "ignore",
+    "timestamp": 1730100600000,
+    "evidence": "system-rule",
+    "comment": "type: Buy / coin: USDT / amount: \"150.416096\"",
+    "transfers": []
+  },
+  {
+    "source": "bitget-spot-jst_spot_1237661026309238784",
+    "order": 0,
+    "type": "ignore",
+    "timestamp": 1730807452000,
+    "evidence": "system-rule",
+    "comment": "type: Ordinary Withdrawal / coin: USDT / amount: \"-9807.54854164\"",
+    "transfers": []
+  },
+  {
+    "source": "bitget-spot-jst_spot_1245804460815835136",
+    "order": 0,
+    "type": "ignore",
+    "timestamp": 1732748855000,
+    "evidence": "system-rule",
+    "comment": "type: Financial / coin: BGB / amount: \"1\"",
+    "transfers": []
+  },
+  {
+    "source": "bitget-spot-jst_spot_1245803492023926785",
+    "order": 0,
+    "type": "ignore",
+    "timestamp": 1732749392000,
+    "evidence": "system-rule",
+    "comment": "type: 365 / coin: BGB / amount: \"0.00000171\"",
+    "transfers": []
+  },
+  {
+    "source": "bitget-spot-jst_spot_1252103956546416640",
+    "order": 0,
+    "type": "ignore",
+    "timestamp": 1734250766000,
+    "evidence": "system-rule",
+    "comment": "type: Transfer out / coin: USDT / amount: \"-10\"",
+    "transfers": []
+  }
+]
