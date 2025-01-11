@@ -26,7 +26,7 @@
               "values": [
                 { "type": "service" },
                 "_spot-action_",
-                { "type": "cell", "column": "action_data" }
+                { "type": "cell", "column": "time" }
               ]
             },
             "timestamp": {
@@ -100,7 +100,7 @@
               "values": [
                 { "type": "service" },
                 "_spot-action_",
-                { "type": "cell", "column": "action_data" }
+                { "type": "cell", "column": "time" }
               ]
             },
             "timestamp": {
@@ -171,7 +171,7 @@
               "values": [
                 { "type": "service" },
                 "_spot-action_",
-                { "type": "cell", "column": "action_data" }
+                { "type": "cell", "column": "time" }
               ]
             },
             "timestamp": {
@@ -228,7 +228,8 @@
               "type": "in",
               "values": [
                 "ダストスワップ-少額残高の控除",
-                "ダストスワップ-GTを追加"
+                "ダストスワップ-GTを追加",
+                "少額残高交換 - USDT追加"
               ]
             }
           }
@@ -241,7 +242,7 @@
               "values": [
                 { "type": "service" },
                 "_spot-action_",
-                { "type": "cell", "column": "action_data" }
+                { "type": "cell", "column": "time" }
               ]
             },
             "timestamp": {
@@ -343,7 +344,8 @@
               "type": "in",
               "values": [
                 "ダストスワップ-少額残高の控除",
-                "ダストスワップ-GTを追加"
+                "ダストスワップ-GTを追加",
+                "少額残高交換 - USDT追加"
               ]
             }
           }
@@ -356,7 +358,7 @@
               "values": [
                 { "type": "service" },
                 "_spot-action_",
-                { "type": "cell", "column": "action_data" }
+                { "type": "cell", "column": "time" }
               ]
             },
             "timestamp": {
@@ -475,7 +477,7 @@
               "values": [
                 { "type": "service" },
                 "_spot-action_",
-                { "type": "cell", "column": "action_data" }
+                { "type": "cell", "column": "time" }
               ]
             },
             "timestamp": {
