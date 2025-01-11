@@ -1,5 +1,46 @@
 [
   {
+    "source": "okj-deposit-withdrawal_withdrawal_31288234",
+    "order": 0,
+    "type": "ignore",
+    "timestamp": 1728649390000,
+    "evidence": "system-rule",
+    "comment": "売買: \"2231995.59020475\"JPY",
+    "transfers": []
+  },
+  {
+    "source": "okj-deposit-withdrawal_withdrawal_31288231",
+    "order": 0,
+    "type": "ignore",
+    "timestamp": 1728649390000,
+    "evidence": "system-rule",
+    "comment": "売買: \"-7841.44920317\"SUI",
+    "transfers": []
+  },
+  {
+    "source": "okj-deposit-withdrawal_withdrawal_30902091",
+    "order": 0,
+    "type": "staking-reward",
+    "timestamp": 1728286134000,
+    "evidence": "system-rule",
+    "comment": "ステーキング報酬: \"0.03121965\"SUI",
+    "transfers": [
+      {
+        "direction": "in",
+        "asset": {
+          "type": "CryptoCurrency",
+          "id": "sui",
+          "name": "Sui",
+          "symbol": "sui",
+          "icon": "https://coin-images.coingecko.com/coins/images/26375/large/sui-ocean-square.png?1727791290",
+          "market": { "coingeckoId": "sui", "marketCapUsd": 6222595843 },
+          "updatedAt": 1728782536762
+        },
+        "amount": "0.03121965"
+      }
+    ]
+  },
+  {
     "source": "okj-deposit-withdrawal_withdrawal_26410180",
     "order": 0,
     "type": "fee",

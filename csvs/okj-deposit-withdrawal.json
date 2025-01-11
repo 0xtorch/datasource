@@ -12,6 +12,83 @@
   "parser": {
     "parsers": [
       {
+        "description": "ステーキング報酬 > staking-reward (手数料<0)",
+        "conditions": [
+          {
+            "value": {
+              "type": "cell",
+              "column": "入出金内容"
+            },
+            "pattern": "ステーキング報酬"
+          },
+          {
+            "value": {
+              "type": "cell",
+              "column": "手数料"
+            },
+            "pattern": "\"0\""
+          }
+        ],
+        "generators": [
+          {
+            "type": "staking-reward",
+            "source": {
+              "type": "join",
+              "values": [
+                { "type": "service" },
+                "_withdrawal_",
+                {
+                  "type": "cell",
+                  "column": "入出金ID"
+                }
+              ]
+            },
+            "timestamp": {
+              "type": "cell",
+              "column": "日時"
+            },
+            "comment": {
+              "type": "join",
+              "values": [
+                {
+                  "type": "cell",
+                  "column": "入出金内容"
+                },
+                ": ",
+                {
+                  "type": "cell",
+                  "column": "数量"
+                },
+                {
+                  "type": "cell",
+                  "column": "資産"
+                }
+              ]
+            },
+            "transfers": [
+              {
+                "direction": "in",
+                "amount": {
+                  "type": "text",
+                  "value": {
+                    "type": "cell",
+                    "column": "数量"
+                  }
+                },
+                "asset": {
+                  "type": "symbol",
+                  "value": {
+                    "type": "cell",
+                    "column": "資産"
+                  }
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "description": "出金・出庫 > fee (手数料<0)",
         "conditions": [
           {
             "value": {
@@ -89,6 +166,7 @@
         ]
       },
       {
+        "description": "出金・出庫 / 入金・入庫 / 売買 > ignore (手数料=0)",
         "conditions": [
           {
             "value": {
@@ -97,7 +175,7 @@
             },
             "pattern": {
               "type": "in",
-              "values": ["出金・出庫", "入金・入庫"]
+              "values": ["出金・出庫", "入金・入庫", "売買"]
             }
           },
           {
