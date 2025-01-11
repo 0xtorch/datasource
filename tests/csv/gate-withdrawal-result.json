@@ -1,5 +1,14 @@
 [
   {
+    "source": "gate-withdrawal_withdrawal_64215962",
+    "order": 0,
+    "type": "ignore",
+    "timestamp": 1728441729000,
+    "evidence": "system-rule",
+    "comment": "Withdraw to 0x269056b2678e7f708e7932ee8bef8c5c87a611da on BSC Network | Tx: 0x07ed14732357cdadeaac029ce2082b0e6c48973b6cb0bc9ab4662375535682fa",
+    "transfers": []
+  },
+  {
     "source": "gate-withdrawal_withdrawal_56279272",
     "order": 0,
     "type": "fee",

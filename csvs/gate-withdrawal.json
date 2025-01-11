@@ -14,7 +14,7 @@
   "parser": {
     "parsers": [
       {
-        "description": "Withdrawal fee",
+        "description": "Withdrawal fee (Trading Fee > 0)",
         "conditions": [
           {
             "value": {
@@ -89,6 +89,63 @@
             ]
           }
         ]
+      },
+      {
+        "description": "Withdrawal fee (Trading Fee = 0)",
+        "conditions": [
+          {
+            "value": {
+              "type": "cell",
+              "column": "Status"
+            },
+            "pattern": "完了しました"
+          },
+          {
+            "value": {
+              "type": "cell",
+              "column": "Trading Fee"
+            },
+            "pattern": "\"0\""
+          }
+        ],
+        "generators": [
+          {
+            "type": "ignore",
+            "source": {
+              "type": "join",
+              "values": [
+                { "type": "service" },
+                "_withdrawal_",
+                { "type": "cell", "column": "Order ID" }
+              ]
+            },
+            "timestamp": {
+              "type": "cell",
+              "column": "Time"
+            },
+            "comment": {
+              "type": "join",
+              "values": [
+                "Withdraw to ",
+                {
+                  "type": "cell",
+                  "column": "Address"
+                },
+                " on ",
+                {
+                  "type": "cell",
+                  "column": "Network"
+                },
+                " Network | Tx: ",
+                {
+                  "type": "cell",
+                  "column": "TxID"
+                }
+              ]
+            },
+            "transfers": []
+          }
+        ]
       }
     ]
   },
@@ -100,10 +157,12 @@
     "EVADORE_OLD": "crypto/evadore",
     "MEME": "crypto/memecoin-2",
     "MEMETOON": "crypto/memetoon",
+    "PIGCOIN": "crypto/pigcoin-2",
     "SMT": "crypto/smartmesh",
     "SMTX": "crypto/swarm-markets",
     "STAR": "crypto/filestar",
     "STARHEROES": "crypto/starheroes",
+    "UP": "crypto/up",
     "USDTEST": "crypto/0xtorch-gate-usdtest"
   }
 }
