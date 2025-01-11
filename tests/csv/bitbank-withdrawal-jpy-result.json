@@ -1,11 +1,20 @@
 [
   {
+    "source": "bitbank-withdrawal-jpy_withdrawal_jpy_1734923876000",
+    "order": 0,
+    "type": "ignore",
+    "timestamp": 1734923876000,
+    "evidence": "system-rule",
+    "comment": "「三菱ＵＦＪ銀行」に出金 / ステータス: CANCELED",
+    "transfers": []
+  },
+  {
     "source": "bitbank-withdrawal-jpy_withdrawal_jpy_1671892776000",
     "order": 0,
     "type": "fee",
     "timestamp": 1671892776000,
     "evidence": "system-rule",
-    "comment": "「GMOあおぞらネット銀行」に出金",
+    "comment": "「GMOあおぞらネット銀行」に出金 / ステータス: DONE",
     "transfers": [
       {
         "direction": "out",
