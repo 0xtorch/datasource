@@ -22,7 +22,7 @@
             },
             "pattern": {
               "type": "in",
-              "values": ["Buy", "Sell"]
+              "values": ["Buy", "BUY", "Sell", "SELL"]
             }
           }
         ],
@@ -46,7 +46,10 @@
                 "target": [
                   {
                     "column": "Direction",
-                    "pattern": "Buy"
+                    "pattern": {
+                      "type": "in",
+                      "values": ["Buy", "BUY"]
+                    }
                   }
                 ],
                 "direction": "in",
@@ -79,7 +82,10 @@
                 "target": [
                   {
                     "column": "Direction",
-                    "pattern": "Sell"
+                    "pattern": {
+                      "type": "in",
+                      "values": ["Sell", "SELL"]
+                    }
                   }
                 ],
                 "direction": "out",
@@ -112,7 +118,10 @@
                 "target": [
                   {
                     "column": "Direction",
-                    "pattern": "Buy"
+                    "pattern": {
+                      "type": "in",
+                      "values": ["Buy", "BUY"]
+                    }
                   }
                 ],
                 "direction": "out",
@@ -145,7 +154,10 @@
                 "target": [
                   {
                     "column": "Direction",
-                    "pattern": "Sell"
+                    "pattern": {
+                      "type": "in",
+                      "values": ["Sell", "SELL"]
+                    }
                   }
                 ],
                 "direction": "in",

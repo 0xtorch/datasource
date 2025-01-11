@@ -81,5 +81,53 @@
         "amount": "3626.909385"
       }
     ]
+  },
+  {
+    "source": "bybit-spot-trade-before-uta_spot-trade_09037824",
+    "order": 0,
+    "type": "trade",
+    "timestamp": 1723588517000,
+    "evidence": "system-rule",
+    "transfers": [
+      {
+        "direction": "in",
+        "asset": {
+          "type": "CryptoCurrency",
+          "id": "bitcoin",
+          "name": "Bitcoin",
+          "symbol": "btc",
+          "icon": "https://coin-images.coingecko.com/coins/images/1/large/bitcoin.png?1696501400",
+          "market": { "coingeckoId": "bitcoin", "marketCapUsd": 1242823480668 },
+          "updatedAt": 1728782536762
+        },
+        "amount": "0.009904"
+      },
+      {
+        "direction": "out",
+        "asset": {
+          "type": "CryptoCurrency",
+          "id": "tether",
+          "name": "Tether",
+          "symbol": "usdt",
+          "icon": "https://coin-images.coingecko.com/coins/images/325/large/Tether.png?1696501661",
+          "market": { "coingeckoId": "tether", "marketCapUsd": 119675340267 },
+          "updatedAt": 1728782536762
+        },
+        "amount": "600.78347376"
+      },
+      {
+        "direction": "out",
+        "asset": {
+          "type": "CryptoCurrency",
+          "id": "bitcoin",
+          "name": "Bitcoin",
+          "symbol": "btc",
+          "icon": "https://coin-images.coingecko.com/coins/images/1/large/bitcoin.png?1696501400",
+          "market": { "coingeckoId": "bitcoin", "marketCapUsd": 1242823480668 },
+          "updatedAt": 1728782536762
+        },
+        "amount": "0.000009904"
+      }
+    ]
   }
 ]
