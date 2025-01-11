@@ -37,12 +37,10 @@
         "direction": "out",
         "asset": {
           "type": "CryptoCurrency",
-          "id": "upsorber",
-          "name": "Upsorber",
-          "symbol": "up",
-          "icon": "https://coin-images.coingecko.com/coins/images/27650/large/upsorber-2.png?1696526679",
-          "market": { "coingeckoId": "upsorber", "marketCapUsd": 10822 },
-          "updatedAt": 1728782536762
+          "id": "up",
+          "name": "up",
+          "symbol": "UP",
+          "updatedAt": 0
         },
         "amount": "0.00950597"
       },
