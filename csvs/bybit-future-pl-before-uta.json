@@ -116,7 +116,10 @@
           },
           {
             "value": { "type": "cell", "column": "Contracts" },
-            "pattern": { "type": "reg-exp", "pattern": "^[a-zA-Z0-9]+USD$" }
+            "pattern": {
+              "type": "reg-exp",
+              "pattern": "^[a-zA-Z0-9]+USDH?(\\d+)?$"
+            }
           }
         ],
         "generators": [
@@ -174,7 +177,10 @@
           },
           {
             "value": { "type": "cell", "column": "Contracts" },
-            "pattern": { "type": "reg-exp", "pattern": "^[a-zA-Z0-9]+USD$" }
+            "pattern": {
+              "type": "reg-exp",
+              "pattern": "^[a-zA-Z0-9]+USDH?(\\d+)?$"
+            }
           }
         ],
         "generators": [
