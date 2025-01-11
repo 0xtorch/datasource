@@ -100,10 +100,12 @@
     "EVADORE_OLD": "crypto/evadore",
     "MEME": "crypto/memecoin-2",
     "MEMETOON": "crypto/memetoon",
+    "PIGCOIN": "crypto/pigcoin-2",
     "SMT": "crypto/smartmesh",
     "SMTX": "crypto/swarm-markets",
     "STAR": "crypto/filestar",
     "STARHEROES": "crypto/starheroes",
+    "UP": "crypto/up",
     "USDTEST": "crypto/0xtorch-gate-usdtest"
   }
 }
