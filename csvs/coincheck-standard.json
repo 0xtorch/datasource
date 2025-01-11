@@ -273,6 +273,79 @@
               "type": "cell",
               "column": "取引種別"
             },
+            "pattern": "NFT送付"
+          },
+          {
+            "value": {
+              "type": "cell",
+              "column": "手数料通貨"
+            },
+            "pattern": {
+              "type": "defined"
+            }
+          },
+          {
+            "value": {
+              "type": "cell",
+              "column": "手数料数量"
+            },
+            "pattern": {
+              "type": "defined"
+            }
+          }
+        ],
+        "generators": [
+          {
+            "type": "fee",
+            "source": {
+              "type": "join",
+              "values": [
+                { "type": "service" },
+                "_",
+                { "type": "cell", "column": "取引日時" }
+              ]
+            },
+            "timestamp": {
+              "type": "cell",
+              "column": "取引日時"
+            },
+            "comment": {
+              "type": "join",
+              "values": [
+                { "type": "cell", "column": "取引種別" },
+                " / 備考: ",
+                { "type": "cell", "column": "備考" }
+              ]
+            },
+            "transfers": [
+              {
+                "direction": "out",
+                "amount": {
+                  "type": "text",
+                  "value": {
+                    "type": "cell",
+                    "column": "手数料数量"
+                  }
+                },
+                "asset": {
+                  "type": "symbol",
+                  "value": {
+                    "type": "cell",
+                    "column": "手数料通貨"
+                  }
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "conditions": [
+          {
+            "value": {
+              "type": "cell",
+              "column": "取引種別"
+            },
             "pattern": "出金"
           },
           {
@@ -367,6 +440,49 @@
                 ": ",
                 { "type": "cell", "column": "増加数量" },
                 { "type": "cell", "column": "増加通貨名" }
+              ]
+            },
+            "transfers": []
+          }
+        ]
+      },
+      {
+        "conditions": [
+          {
+            "value": {
+              "type": "cell",
+              "column": "取引種別"
+            },
+            "pattern": {
+              "type": "in",
+              "values": ["NFT購入"]
+            }
+          }
+        ],
+        "generators": [
+          {
+            "type": "ignore",
+            "source": {
+              "type": "join",
+              "values": [
+                { "type": "service" },
+                "_",
+                { "type": "cell", "column": "取引日時" }
+              ]
+            },
+            "timestamp": {
+              "type": "cell",
+              "column": "取引日時"
+            },
+            "comment": {
+              "type": "join",
+              "values": [
+                { "type": "cell", "column": "取引種別" },
+                ": ",
+                { "type": "cell", "column": "減少数量" },
+                { "type": "cell", "column": "減少通貨名" },
+                " / 備考: ",
+                { "type": "cell", "column": "備考" }
               ]
             },
             "transfers": []
