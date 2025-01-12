@@ -1,0 +1,170 @@
+{
+  "id": "bittrade-spot-trade",
+  "service": "bittrade",
+  "formatter": {
+    "処理時間": ["iso8601-jp"],
+    "注文ステータス": ["string"],
+    "通貨ペア": ["string"],
+    "方向": ["string"],
+    "約定量": ["big-decimal-positive"],
+    "約定価格": ["big-decimal-positive"],
+    "決済通貨": ["string"],
+    "約定総額": ["big-decimal-positive"],
+    "基軸通貨": ["string"],
+    "手数料": ["big-decimal"],
+    "通貨単位": ["string"],
+    "注文ID": ["string"]
+  },
+  "parser": {
+    "parsers": [
+      {
+        "conditions": [
+          {
+            "value": {
+              "type": "cell",
+              "column": "方向"
+            },
+            "pattern": {
+              "type": "in",
+              "values": ["買い", "売り"]
+            }
+          }
+        ],
+        "generators": [
+          {
+            "type": "trade",
+            "source": {
+              "type": "join",
+              "values": [
+                { "type": "service" },
+                "_spot-trade_",
+                {
+                  "type": "cell",
+                  "column": "処理時間"
+                }
+              ]
+            },
+            "timestamp": {
+              "type": "cell",
+              "column": "処理時間"
+            },
+            "transfers": [
+              {
+                "target": [
+                  {
+                    "column": "方向",
+                    "pattern": "買い"
+                  }
+                ],
+                "direction": "in",
+                "amount": {
+                  "type": "text",
+                  "value": {
+                    "type": "cell",
+                    "column": "約定量"
+                  }
+                },
+                "asset": {
+                  "type": "symbol",
+                  "value": {
+                    "type": "split",
+                    "value": {
+                      "type": "cell",
+                      "column": "通貨ペア"
+                    },
+                    "splitter": "/",
+                    "index": 0
+                  }
+                }
+              },
+              {
+                "target": [
+                  {
+                    "column": "方向",
+                    "pattern": "買い"
+                  }
+                ],
+                "direction": "out",
+                "amount": {
+                  "type": "text",
+                  "value": {
+                    "type": "cell",
+                    "column": "約定総額"
+                  }
+                },
+                "asset": {
+                  "type": "symbol",
+                  "value": {
+                    "type": "split",
+                    "value": {
+                      "type": "cell",
+                      "column": "通貨ペア"
+                    },
+                    "splitter": "/",
+                    "index": 1
+                  }
+                }
+              },
+              {
+                "target": [
+                  {
+                    "column": "方向",
+                    "pattern": "売り"
+                  }
+                ],
+                "direction": "out",
+                "amount": {
+                  "type": "text",
+                  "value": {
+                    "type": "cell",
+                    "column": "約定量"
+                  }
+                },
+                "asset": {
+                  "type": "symbol",
+                  "value": {
+                    "type": "split",
+                    "value": {
+                      "type": "cell",
+                      "column": "通貨ペア"
+                    },
+                    "splitter": "/",
+                    "index": 0
+                  }
+                }
+              },
+              {
+                "target": [
+                  {
+                    "column": "方向",
+                    "pattern": "売り"
+                  }
+                ],
+                "direction": "in",
+                "amount": {
+                  "type": "text",
+                  "value": {
+                    "type": "cell",
+                    "column": "約定総額"
+                  }
+                },
+                "asset": {
+                  "type": "symbol",
+                  "value": {
+                    "type": "split",
+                    "value": {
+                      "type": "cell",
+                      "column": "通貨ペア"
+                    },
+                    "splitter": "/",
+                    "index": 1
+                  }
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}
