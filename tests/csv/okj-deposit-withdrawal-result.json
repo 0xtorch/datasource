@@ -30,11 +30,9 @@
         "asset": {
           "type": "CryptoCurrency",
           "id": "sui",
-          "name": "Sui",
-          "symbol": "sui",
-          "icon": "https://coin-images.coingecko.com/coins/images/26375/large/sui-ocean-square.png?1727791290",
-          "market": { "coingeckoId": "sui", "marketCapUsd": 6222595843 },
-          "updatedAt": 1728782536762
+          "name": "sui",
+          "symbol": "SUI",
+          "updatedAt": 0
         },
         "amount": "0.03121965"
       }
@@ -53,14 +51,9 @@
         "asset": {
           "type": "CryptoCurrency",
           "id": "polygon-ecosystem-token",
-          "name": "POL (ex-MATIC)",
-          "symbol": "pol",
-          "icon": "https://coin-images.coingecko.com/coins/images/32440/large/polygon.png?1698233684",
-          "market": {
-            "coingeckoId": "polygon-ecosystem-token",
-            "marketCapUsd": 2808398709
-          },
-          "updatedAt": 1728782536762
+          "name": "polygon-ecosystem-token",
+          "symbol": "POLYGON-ECOSYSTEM-TOKEN",
+          "updatedAt": 0
         },
         "amount": "0.5"
       }
@@ -74,5 +67,26 @@
     "evidence": "system-rule",
     "comment": "入金・入庫: \"15000\"JPY",
     "transfers": []
+  },
+  {
+    "source": "okj-deposit-withdrawal_withdrawal_19199627",
+    "order": 0,
+    "type": "gift",
+    "timestamp": 1714641109000,
+    "evidence": "system-rule",
+    "comment": "キャンペーン: \"0.084\"AVAX",
+    "transfers": [
+      {
+        "direction": "in",
+        "asset": {
+          "type": "CryptoCurrency",
+          "id": "avalanche-2",
+          "name": "avalanche-2",
+          "symbol": "AVALANCHE-2",
+          "updatedAt": 0
+        },
+        "amount": "0.084"
+      }
+    ]
   }
 ]

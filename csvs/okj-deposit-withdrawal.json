@@ -12,7 +12,7 @@
   "parser": {
     "parsers": [
       {
-        "description": "ステーキング報酬 > staking-reward (手数料<0)",
+        "description": "ステーキング報酬 > staking-reward (手数料=0)",
         "conditions": [
           {
             "value": {
@@ -32,6 +32,82 @@
         "generators": [
           {
             "type": "staking-reward",
+            "source": {
+              "type": "join",
+              "values": [
+                { "type": "service" },
+                "_withdrawal_",
+                {
+                  "type": "cell",
+                  "column": "入出金ID"
+                }
+              ]
+            },
+            "timestamp": {
+              "type": "cell",
+              "column": "日時"
+            },
+            "comment": {
+              "type": "join",
+              "values": [
+                {
+                  "type": "cell",
+                  "column": "入出金内容"
+                },
+                ": ",
+                {
+                  "type": "cell",
+                  "column": "数量"
+                },
+                {
+                  "type": "cell",
+                  "column": "資産"
+                }
+              ]
+            },
+            "transfers": [
+              {
+                "direction": "in",
+                "amount": {
+                  "type": "text",
+                  "value": {
+                    "type": "cell",
+                    "column": "数量"
+                  }
+                },
+                "asset": {
+                  "type": "symbol",
+                  "value": {
+                    "type": "cell",
+                    "column": "資産"
+                  }
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "description": "キャンペーン > gift (手数料=0)",
+        "conditions": [
+          {
+            "value": {
+              "type": "cell",
+              "column": "入出金内容"
+            },
+            "pattern": "キャンペーン"
+          },
+          {
+            "value": {
+              "type": "cell",
+              "column": "手数料"
+            },
+            "pattern": "\"0\""
+          }
+        ],
+        "generators": [
+          {
+            "type": "gift",
             "source": {
               "type": "join",
               "values": [
@@ -227,5 +303,50 @@
         ]
       }
     ]
+  },
+  "symbolAssetMap": {
+    "BTC": "crypto/bitcoin",
+    "ETH": "crypto/ethereum",
+    "ADA": "crypto/cardano",
+    "APE": "crypto/apecoin",
+    "APT": "crypto/aptos",
+    "ARB": "crypto/arbitrum",
+    "ASTR": "crypto/astar",
+    "AVAX": "crypto/avalanche-2",
+    "BAT": "crypto/basic-attention-token",
+    "BCH": "crypto/bitcoin-cash",
+    "DAI": "crypto/dai",
+    "DEP": "crypto/deapcoin",
+    "DOGE": "crypto/dogecoin",
+    "DOT": "crypto/polkadot",
+    "ENJ": "crypto/enjincoin",
+    "ETC": "crypto/ethereum-classic",
+    "FIL": "crypto/filecoin",
+    "FNCT": "crypto/financie-token",
+    "IOST": "crypto/iostoken",
+    "IOTX": "crypto/iotex",
+    "KAIA": "crypto/kaia",
+    "LSK": "crypto/lisk",
+    "LTC": "crypto/litecoin",
+    "MASK": "crypto/mask-network",
+    "MKR": "crypto/maker",
+    "NEO": "crypto/neo",
+    "OAS": "crypto/oasys",
+    "OP": "crypto/optimism",
+    "OKB": "crypto/okb",
+    "PEPE": "crypto/pepe",
+    "PLT": "crypto/palette",
+    "POL": "crypto/polygon-ecosystem-token",
+    "QTUM": "crypto/qtum",
+    "SAND": "crypto/the-sandbox",
+    "SHIB": "crypto/shiba-inu",
+    "SOL": "crypto/solana",
+    "SUI": "crypto/sui",
+    "TON": "crypto/the-open-network",
+    "TRX": "crypto/tron",
+    "XLM": "crypto/stellar",
+    "XRP": "crypto/ripple",
+    "XTZ": "crypto/tezos",
+    "ZIL": "crypto/zilliqa"
   }
 }
