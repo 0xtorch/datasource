@@ -50,6 +50,15 @@
     "transfers": []
   },
   {
+    "source": "cointrade-cashflow_cashflow_1706930435000",
+    "order": 0,
+    "type": "ignore",
+    "timestamp": 1706930435000,
+    "evidence": "system-rule",
+    "comment": "入出金の種別: ロック開始 / 数量: \"-62266\"PLT / 備考: ",
+    "transfers": []
+  },
+  {
     "source": "cointrade-cashflow_cashflow_1709635464000",
     "order": 0,
     "type": "staking-reward",
