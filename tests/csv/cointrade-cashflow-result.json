@@ -21,11 +21,9 @@
         "asset": {
           "type": "CryptoCurrency",
           "id": "ethereum",
-          "name": "Ethereum",
-          "symbol": "eth",
-          "icon": "https://coin-images.coingecko.com/coins/images/279/large/ethereum.png?1696501628",
-          "market": { "coingeckoId": "ethereum", "marketCapUsd": 297208008363 },
-          "updatedAt": 1728782536762
+          "name": "ethereum",
+          "symbol": "ETHEREUM",
+          "updatedAt": 0
         },
         "amount": "0.000205"
       }
@@ -70,15 +68,10 @@
         "direction": "in",
         "asset": {
           "type": "CryptoCurrency",
-          "id": "poollotto-finance",
-          "name": "Poollotto.finance",
-          "symbol": "plt",
-          "icon": "https://coin-images.coingecko.com/coins/images/21425/large/polotto.png?1696520788",
-          "market": {
-            "coingeckoId": "poollotto-finance",
-            "marketCapUsd": 55643056
-          },
-          "updatedAt": 1728782536762
+          "id": "palette",
+          "name": "palette",
+          "symbol": "PALETTE",
+          "updatedAt": 0
         },
         "amount": "206.07286828"
       }
@@ -124,11 +117,9 @@
         "asset": {
           "type": "CryptoCurrency",
           "id": "ethereum",
-          "name": "Ethereum",
-          "symbol": "eth",
-          "icon": "https://coin-images.coingecko.com/coins/images/279/large/ethereum.png?1696501628",
-          "market": { "coingeckoId": "ethereum", "marketCapUsd": 297208008363 },
-          "updatedAt": 1728782536762
+          "name": "ethereum",
+          "symbol": "ETHEREUM",
+          "updatedAt": 0
         },
         "amount": "0.000436"
       }

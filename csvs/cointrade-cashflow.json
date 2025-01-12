@@ -452,5 +452,27 @@
         ]
       }
     ]
+  },
+  "symbolAssetMap": {
+    "BTC": "crypto/bitcoin",
+    "ETH": "crypto/ethereum",
+    "BCH": "crypto/bitcoin-cash",
+    "XRP": "crypto/ripple",
+    "LTC": "crypto/litecoin",
+    "ADA": "crypto/cardano",
+    "IOST": "crypto/iostoken",
+    "PLT": "crypto/palette",
+    "DOT": "crypto/polkadot",
+    "XTZ": "crypto/tezos",
+    "AVAX": "crypto/avalanche-2",
+    "HBAR": "crypto/hedera-hashgraph",
+    "POL": "crypto/polygon-ecosystem-token",
+    "MATIC": "crypto/polygon-ecosystem-token",
+    "NEAR": "crypto/near",
+    "SOL": "crypto/solana",
+    "ZPG": "crypto/0xtorch-zipang-coin",
+    "ZPGAG": "crypto/0xtorch-zipang-coin-silver",
+    "ZPGPT": "crypto/0xtorch-zipang-coin-platinum",
+    "ATOM": "crypto/cosmos"
   }
 }
