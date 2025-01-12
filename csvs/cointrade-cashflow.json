@@ -1,10 +1,10 @@
 {
-  "id": "sbivc-trade-cashflow",
-  "service": "sbivc-trade",
+  "id": "cointrade-cashflow",
+  "service": "cointrade",
   "formatter": {
     "日時": ["datetime-jp"],
     "入出金の種別": ["string"],
-    "暗号資産/通貨": ["string"],
+    "通貨": ["string"],
     "数量": ["big-decimal"],
     "備考": ["string"]
   },
@@ -43,7 +43,7 @@
                 { "type": "cell", "column": "入出金の種別" },
                 " / 数量: ",
                 { "type": "cell", "column": "数量" },
-                { "type": "cell", "column": "暗号資産/通貨" },
+                { "type": "cell", "column": "通貨" },
                 " / 備考: ",
                 { "type": "cell", "column": "備考" }
               ]
@@ -62,7 +62,7 @@
                   "type": "symbol",
                   "value": {
                     "type": "cell",
-                    "column": "暗号資産/通貨"
+                    "column": "通貨"
                   }
                 }
               }
@@ -106,7 +106,7 @@
                 { "type": "cell", "column": "入出金の種別" },
                 " / 数量: ",
                 { "type": "cell", "column": "数量" },
-                { "type": "cell", "column": "暗号資産/通貨" },
+                { "type": "cell", "column": "通貨" },
                 " / 備考: ",
                 { "type": "cell", "column": "備考" }
               ]
@@ -125,7 +125,7 @@
                   "type": "symbol",
                   "value": {
                     "type": "cell",
-                    "column": "暗号資産/通貨"
+                    "column": "通貨"
                   }
                 }
               }
@@ -175,7 +175,7 @@
                 { "type": "cell", "column": "入出金の種別" },
                 " / 数量: ",
                 { "type": "cell", "column": "数量" },
-                { "type": "cell", "column": "暗号資産/通貨" },
+                { "type": "cell", "column": "通貨" },
                 " / 備考: ",
                 { "type": "cell", "column": "備考" }
               ]
@@ -194,7 +194,7 @@
                   "type": "symbol",
                   "value": {
                     "type": "cell",
-                    "column": "暗号資産/通貨"
+                    "column": "通貨"
                   }
                 }
               }
@@ -244,7 +244,7 @@
                 { "type": "cell", "column": "入出金の種別" },
                 " / 数量: ",
                 { "type": "cell", "column": "数量" },
-                { "type": "cell", "column": "暗号資産/通貨" },
+                { "type": "cell", "column": "通貨" },
                 " / 備考: ",
                 { "type": "cell", "column": "備考" }
               ]
@@ -263,7 +263,7 @@
                   "type": "symbol",
                   "value": {
                     "type": "cell",
-                    "column": "暗号資産/通貨"
+                    "column": "通貨"
                   }
                 }
               }
@@ -316,7 +316,7 @@
                 { "type": "cell", "column": "入出金の種別" },
                 " / 数量: ",
                 { "type": "cell", "column": "数量" },
-                { "type": "cell", "column": "暗号資産/通貨" },
+                { "type": "cell", "column": "通貨" },
                 " / 備考: ",
                 { "type": "cell", "column": "備考" }
               ]
@@ -335,7 +335,7 @@
                   "type": "symbol",
                   "value": {
                     "type": "cell",
-                    "column": "暗号資産/通貨"
+                    "column": "通貨"
                   }
                 }
               }
@@ -388,7 +388,7 @@
                 { "type": "cell", "column": "入出金の種別" },
                 " / 数量: ",
                 { "type": "cell", "column": "数量" },
-                { "type": "cell", "column": "暗号資産/通貨" },
+                { "type": "cell", "column": "通貨" },
                 " / 備考: ",
                 { "type": "cell", "column": "備考" }
               ]
@@ -442,7 +442,7 @@
                 { "type": "cell", "column": "入出金の種別" },
                 " / 数量: ",
                 { "type": "cell", "column": "数量" },
-                { "type": "cell", "column": "暗号資産/通貨" },
+                { "type": "cell", "column": "通貨" },
                 " / 備考: ",
                 { "type": "cell", "column": "備考" }
               ]
@@ -456,27 +456,23 @@
   "symbolAssetMap": {
     "BTC": "crypto/bitcoin",
     "ETH": "crypto/ethereum",
+    "BCH": "crypto/bitcoin-cash",
     "XRP": "crypto/ripple",
     "LTC": "crypto/litecoin",
-    "BCH": "crypto/bitcoin-cash",
-    "DOT": "crypto/polkadot",
-    "LINK": "crypto/chainlink",
     "ADA": "crypto/cardano",
-    "DOGE": "crypto/dogecoin",
-    "XLM": "crypto/stellar",
+    "IOST": "crypto/iostoken",
+    "PLT": "crypto/palette",
+    "DOT": "crypto/polkadot",
     "XTZ": "crypto/tezos",
-    "SOL": "crypto/solana",
     "AVAX": "crypto/avalanche-2",
-    "MATIC": "crypto/polygon-ecosystem-token",
-    "FLR": "crypto/flare-networks",
-    "OAS": "crypto/oasys",
-    "XDC": "crypto/xdce-crowd-sale",
-    "SHIB": "crypto/shiba-inu",
-    "DAI": "crypto/dai",
-    "ATOM": "crypto/cosmos",
-    "APT": "crypto/aptos",
     "HBAR": "crypto/hedera-hashgraph",
+    "POL": "crypto/polygon-ecosystem-token",
+    "MATIC": "crypto/polygon-ecosystem-token",
+    "NEAR": "crypto/near",
+    "SOL": "crypto/solana",
     "ZPG": "crypto/0xtorch-zipang-coin",
-    "NEAR": "crypto/near"
+    "ZPGAG": "crypto/0xtorch-zipang-coin-silver",
+    "ZPGPT": "crypto/0xtorch-zipang-coin-platinum",
+    "ATOM": "crypto/cosmos"
   }
 }
