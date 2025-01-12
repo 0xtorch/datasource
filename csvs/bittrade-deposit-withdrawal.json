@@ -1,5 +1,5 @@
 {
-  "id": "bittrade-withdrawal",
+  "id": "bittrade-deposit-withdrawal",
   "service": "bittrade",
   "formatter": {
     "申請日時": ["iso8601-jp"],
