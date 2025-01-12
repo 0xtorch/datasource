@@ -71,14 +71,17 @@
         ]
       },
       {
-        "description": "ステーキング",
+        "description": "ステーキング / ステーキング報酬",
         "conditions": [
           {
             "value": {
               "type": "cell",
               "column": "入出金の種別"
             },
-            "pattern": "ステーキング"
+            "pattern": {
+              "type": "in",
+              "values": ["ステーキング", "ステーキング報酬"]
+            }
           }
         ],
         "generators": [

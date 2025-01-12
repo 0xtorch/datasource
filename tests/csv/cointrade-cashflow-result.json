@@ -50,6 +50,32 @@
     "transfers": []
   },
   {
+    "source": "cointrade-cashflow_cashflow_1709635464000",
+    "order": 0,
+    "type": "staking-reward",
+    "timestamp": 1709635464000,
+    "evidence": "system-rule",
+    "comment": "入出金の種別: ステーキング報酬 / 数量: \"206.07286828\"PLT / 備考: ",
+    "transfers": [
+      {
+        "direction": "in",
+        "asset": {
+          "type": "CryptoCurrency",
+          "id": "poollotto-finance",
+          "name": "Poollotto.finance",
+          "symbol": "plt",
+          "icon": "https://coin-images.coingecko.com/coins/images/21425/large/polotto.png?1696520788",
+          "market": {
+            "coingeckoId": "poollotto-finance",
+            "marketCapUsd": 55643056
+          },
+          "updatedAt": 1728782536762
+        },
+        "amount": "206.07286828"
+      }
+    ]
+  },
+  {
     "source": "cointrade-cashflow_cashflow_1716508754000",
     "order": 0,
     "type": "ignore",
