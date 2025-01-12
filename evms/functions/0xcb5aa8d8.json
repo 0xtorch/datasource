@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"accounts","internalType":"address[]","type":"address[]"},{"name":"state","internalType":"bool","type":"bool"}],"name":"setMultipleBlackList","outputs":[],"stateMutability":"nonpayable"}]

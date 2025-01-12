@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_venusReferral","internalType":"contract IVenusReferral","type":"address"}],"name":"setVenusReferral","outputs":[],"stateMutability":"nonpayable"}]

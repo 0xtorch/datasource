@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_pid","internalType":"uint256","type":"uint256"},{"name":"_isBoostEnabled","internalType":"bool","type":"bool"}],"name":"setPoolBoost","outputs":[],"stateMutability":"nonpayable"}]

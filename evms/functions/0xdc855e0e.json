@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"tokenName","internalType":"string","type":"string"},{"name":"tokenSymbol","internalType":"string","type":"string"},{"name":"defaultAdmin","internalType":"address","type":"address"},{"name":"originChainId","internalType":"bytes4","type":"bytes4"}],"name":"initialize","outputs":[],"stateMutability":"nonpayable"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"token_","internalType":"address","type":"address"},{"name":"user_","internalType":"address","type":"address"},{"name":"earned_","internalType":"uint256","type":"uint256"},{"name":"sold_","internalType":"uint256","type":"uint256"}],"name":"importData","outputs":[],"stateMutability":"nonpayable"}]

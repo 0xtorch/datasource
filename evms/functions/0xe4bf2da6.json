@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_gsnTrustedSigner","internalType":"address","type":"address"},{"name":"_gsnFeeTarget","internalType":"address","type":"address"}],"name":"__ERC777GSNUpgradeable_init","outputs":[],"stateMutability":"nonpayable"}]

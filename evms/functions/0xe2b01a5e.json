@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"i","internalType":"uint256","type":"uint256"},{"name":"_rewardDistribution","internalType":"address","type":"address"}],"name":"setRewardDistribution","outputs":[],"stateMutability":"nonpayable"}]

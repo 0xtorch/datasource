@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_userBoostReferralThreshold","internalType":"uint256","type":"uint256"},{"name":"_userBoostAmountReferral","internalType":"uint256","type":"uint256"}],"name":"setBoostReferralVars","outputs":[],"stateMutability":"nonpayable"}]

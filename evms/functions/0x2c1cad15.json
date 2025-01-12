@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_newOriginChainId","internalType":"bytes4","type":"bytes4"}],"name":"changeOriginChainId","outputs":[{"name":"success","internalType":"bool","type":"bool"}],"stateMutability":"nonpayable"}]

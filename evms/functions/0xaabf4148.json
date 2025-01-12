@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_maxBoostAmount","internalType":"uint256","type":"uint256"},{"name":"_userBoostAmount","internalType":"uint256","type":"uint256"},{"name":"_poolBoostFeeAmount","internalType":"uint256","type":"uint256"}],"name":"setBoostAmounts","outputs":[],"stateMutability":"nonpayable"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"i","internalType":"uint256","type":"uint256"},{"name":"scale","internalType":"uint256","type":"uint256"}],"name":"setScale","outputs":[],"stateMutability":"nonpayable"}]

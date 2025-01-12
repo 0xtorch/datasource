@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"amount","internalType":"uint256","type":"uint256"},{"name":"underlyingAssetRecipient","internalType":"string","type":"string"},{"name":"destinationChainId","internalType":"bytes4","type":"bytes4"}],"name":"redeem","outputs":[{"name":"","internalType":"bool","type":"bool"}],"stateMutability":"nonpayable"}]
