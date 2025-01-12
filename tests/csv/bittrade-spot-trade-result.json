@@ -10,12 +10,10 @@
         "direction": "in",
         "asset": {
           "type": "CryptoCurrency",
-          "id": "speed-star-joc",
-          "name": "Speed Star JOC",
-          "symbol": "joc",
-          "icon": "https://coin-images.coingecko.com/coins/images/24883/large/f2zOnAa4_400x400.jpg?1696524042",
-          "market": { "coingeckoId": "speed-star-joc", "marketCapUsd": 0 },
-          "updatedAt": 1720036911252
+          "id": "japan-open-chain",
+          "name": "japan-open-chain",
+          "symbol": "JAPAN-OPEN-CHAIN",
+          "updatedAt": 0
         },
         "amount": "333"
       },
@@ -42,12 +40,10 @@
         "direction": "out",
         "asset": {
           "type": "CryptoCurrency",
-          "id": "speed-star-joc",
-          "name": "Speed Star JOC",
-          "symbol": "joc",
-          "icon": "https://coin-images.coingecko.com/coins/images/24883/large/f2zOnAa4_400x400.jpg?1696524042",
-          "market": { "coingeckoId": "speed-star-joc", "marketCapUsd": 0 },
-          "updatedAt": 1720036911252
+          "id": "japan-open-chain",
+          "name": "japan-open-chain",
+          "symbol": "JAPAN-OPEN-CHAIN",
+          "updatedAt": 0
         },
         "amount": "333"
       },
