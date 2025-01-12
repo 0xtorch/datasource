@@ -11,11 +11,9 @@
         "asset": {
           "type": "CryptoCurrency",
           "id": "ethereum",
-          "name": "Ethereum",
-          "symbol": "eth",
-          "icon": "https://coin-images.coingecko.com/coins/images/279/large/ethereum.png?1696501628",
-          "market": { "coingeckoId": "ethereum", "marketCapUsd": 297208008363 },
-          "updatedAt": 1728782536762
+          "name": "ethereum",
+          "symbol": "ETHEREUM",
+          "updatedAt": 0
         },
         "amount": "4.0448"
       },
@@ -43,11 +41,9 @@
         "asset": {
           "type": "CryptoCurrency",
           "id": "ethereum",
-          "name": "Ethereum",
-          "symbol": "eth",
-          "icon": "https://coin-images.coingecko.com/coins/images/279/large/ethereum.png?1696501628",
-          "market": { "coingeckoId": "ethereum", "marketCapUsd": 297208008363 },
-          "updatedAt": 1728782536762
+          "name": "ethereum",
+          "symbol": "ETHEREUM",
+          "updatedAt": 0
         },
         "amount": "1.8258"
       },
@@ -75,11 +71,9 @@
         "asset": {
           "type": "CryptoCurrency",
           "id": "ethereum",
-          "name": "Ethereum",
-          "symbol": "eth",
-          "icon": "https://coin-images.coingecko.com/coins/images/279/large/ethereum.png?1696501628",
-          "market": { "coingeckoId": "ethereum", "marketCapUsd": 297208008363 },
-          "updatedAt": 1728782536762
+          "name": "ethereum",
+          "symbol": "ETHEREUM",
+          "updatedAt": 0
         },
         "amount": "0.2"
       },
