@@ -144,5 +144,34 @@
         "amount": "1000"
       }
     ]
+  },
+  {
+    "source": "cointrade-cashflow_cashflow_1732068408000",
+    "order": 0,
+    "type": "ignore",
+    "timestamp": 1732068408000,
+    "evidence": "system-rule",
+    "comment": "入出金の種別: 出金 / 数量: \"-700000\"JPY / 備考: ",
+    "transfers": []
+  },
+  {
+    "source": "cointrade-cashflow_cashflow_1732068408000",
+    "order": 1,
+    "type": "fee",
+    "timestamp": 1732068408000,
+    "evidence": "system-rule",
+    "comment": "入出金の種別: 出金手数料 / 数量: \"-550\"JPY / 備考: ",
+    "transfers": [
+      {
+        "direction": "out",
+        "asset": {
+          "type": "FiatCurrency",
+          "id": "jpy",
+          "symbol": "JPY",
+          "name": "Japanese Yen"
+        },
+        "amount": "550"
+      }
+    ]
   }
 ]
