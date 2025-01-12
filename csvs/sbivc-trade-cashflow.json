@@ -71,14 +71,17 @@
         ]
       },
       {
-        "description": "ステーキング",
+        "description": "ステーキング / ステーキング報酬",
         "conditions": [
           {
             "value": {
               "type": "cell",
               "column": "入出金の種別"
             },
-            "pattern": "ステーキング"
+            "pattern": {
+              "type": "in",
+              "values": ["ステーキング", "ステーキング報酬"]
+            }
           }
         ],
         "generators": [
@@ -269,14 +272,17 @@
         ]
       },
       {
-        "description": "出金・出庫手数料 > negative",
+        "description": "出金・出庫手数料 / 出金手数料 > negative",
         "conditions": [
           {
             "value": {
               "type": "cell",
               "column": "入出金の種別"
             },
-            "pattern": "出金・出庫手数料"
+            "pattern": {
+              "type": "in",
+              "values": ["出金・出庫手数料", "出金手数料"]
+            }
           },
           {
             "value": {
@@ -338,14 +344,17 @@
         ]
       },
       {
-        "description": "出金・出庫手数料 > nonnegative",
+        "description": "出金・出庫手数料 / 出金手数料 > nonnegative",
         "conditions": [
           {
             "value": {
               "type": "cell",
               "column": "入出金の種別"
             },
-            "pattern": "出金・出庫手数料"
+            "pattern": {
+              "type": "in",
+              "values": ["出金・出庫手数料", "出金手数料"]
+            }
           },
           {
             "value": {
@@ -389,7 +398,7 @@
         ]
       },
       {
-        "description": "出金・出庫 / 入金・入庫 / 現物取引 / 取引手数料",
+        "description": "出金・出庫 / 出金 / 入金・入庫 / 入金 / 現物取引 / 取引手数料 / ロック開始 / ロック解除",
         "conditions": [
           {
             "value": {
@@ -398,7 +407,16 @@
             },
             "pattern": {
               "type": "in",
-              "values": ["出金・出庫", "入金・入庫", "現物取引", "取引手数料"]
+              "values": [
+                "出金・出庫",
+                "出金",
+                "入金・入庫",
+                "入金",
+                "現物取引",
+                "取引手数料",
+                "ロック開始",
+                "ロック解除"
+              ]
             }
           }
         ],
