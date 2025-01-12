@@ -32,6 +32,15 @@
     ]
   },
   {
+    "source": "cointrade-cashflow_cashflow_1701829250000",
+    "order": 0,
+    "type": "ignore",
+    "timestamp": 1701829250000,
+    "evidence": "system-rule",
+    "comment": "入出金の種別: 入金 / 数量: \"1000\"JPY / 備考: ",
+    "transfers": []
+  },
+  {
     "source": "cointrade-cashflow_cashflow_1703032198000",
     "order": 0,
     "type": "ignore",
