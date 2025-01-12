@@ -126,6 +126,15 @@
     ]
   },
   {
+    "source": "cointrade-cashflow_cashflow_1723197605000",
+    "order": 0,
+    "type": "ignore",
+    "timestamp": 1723197605000,
+    "evidence": "system-rule",
+    "comment": "入出金の種別: ロック解除 / 数量: \"62266\"PLT / 備考: ",
+    "transfers": []
+  },
+  {
     "source": "cointrade-cashflow_cashflow_1724640411000",
     "order": 0,
     "type": "gift",
