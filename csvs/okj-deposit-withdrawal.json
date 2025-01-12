@@ -12,7 +12,7 @@
   "parser": {
     "parsers": [
       {
-        "description": "ステーキング報酬 > staking-reward (手数料<0)",
+        "description": "ステーキング報酬 > staking-reward (手数料=0)",
         "conditions": [
           {
             "value": {
@@ -32,6 +32,82 @@
         "generators": [
           {
             "type": "staking-reward",
+            "source": {
+              "type": "join",
+              "values": [
+                { "type": "service" },
+                "_withdrawal_",
+                {
+                  "type": "cell",
+                  "column": "入出金ID"
+                }
+              ]
+            },
+            "timestamp": {
+              "type": "cell",
+              "column": "日時"
+            },
+            "comment": {
+              "type": "join",
+              "values": [
+                {
+                  "type": "cell",
+                  "column": "入出金内容"
+                },
+                ": ",
+                {
+                  "type": "cell",
+                  "column": "数量"
+                },
+                {
+                  "type": "cell",
+                  "column": "資産"
+                }
+              ]
+            },
+            "transfers": [
+              {
+                "direction": "in",
+                "amount": {
+                  "type": "text",
+                  "value": {
+                    "type": "cell",
+                    "column": "数量"
+                  }
+                },
+                "asset": {
+                  "type": "symbol",
+                  "value": {
+                    "type": "cell",
+                    "column": "資産"
+                  }
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "description": "キャンペーン > gift (手数料=0)",
+        "conditions": [
+          {
+            "value": {
+              "type": "cell",
+              "column": "入出金内容"
+            },
+            "pattern": "キャンペーン"
+          },
+          {
+            "value": {
+              "type": "cell",
+              "column": "手数料"
+            },
+            "pattern": "\"0\""
+          }
+        ],
+        "generators": [
+          {
+            "type": "gift",
             "source": {
               "type": "join",
               "values": [
