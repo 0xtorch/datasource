@@ -1,0 +1,102 @@
+[
+  {
+    "source": "bybit-statement-account-uta_uta-account_1734697083000",
+    "order": 0,
+    "type": "ignore",
+    "timestamp": 1734697083000,
+    "evidence": "system-rule",
+    "comment": "Type: TRANSFER_OUT / \"-750\" USDT",
+    "transfers": []
+  },
+  {
+    "source": "bybit-statement-account-uta_uta-account_1734695168000",
+    "order": 0,
+    "type": "ignore",
+    "timestamp": 1734695168000,
+    "evidence": "system-rule",
+    "comment": "Type: TRADE / \"-235.76\" USDC",
+    "transfers": []
+  },
+  {
+    "source": "bybit-statement-account-uta_uta-account_1734428387000",
+    "order": 0,
+    "type": "transfer",
+    "timestamp": 1734428387000,
+    "evidence": "system-rule",
+    "comment": "Type: AUTO_DEDUCTION / \"-0.8473\" GGM",
+    "transfers": [
+      {
+        "direction": "out",
+        "asset": {
+          "type": "CryptoCurrency",
+          "id": "monster-galaxy",
+          "name": "Monster Galaxy",
+          "symbol": "ggm",
+          "icon": "https://coin-images.coingecko.com/coins/images/22740/large/izylmhLV_400x400.png?1696522045",
+          "market": { "coingeckoId": "monster-galaxy", "marketCapUsd": 0 },
+          "updatedAt": 1719984459107
+        },
+        "amount": "0.8473"
+      }
+    ]
+  },
+  {
+    "source": "bybit-statement-account-uta_uta-account_1733789113000",
+    "order": 0,
+    "type": "ignore",
+    "timestamp": 1733789113000,
+    "evidence": "system-rule",
+    "comment": "Type: TRANSFER_IN / \"3000\" MOZ",
+    "transfers": []
+  },
+  {
+    "source": "bybit-statement-account-uta_uta-account_1733395978000",
+    "order": 0,
+    "type": "ignore",
+    "timestamp": 1733395978000,
+    "evidence": "system-rule",
+    "comment": "Type: -- / \"749\" ZRC",
+    "transfers": []
+  },
+  {
+    "source": "bybit-statement-account-uta_uta-account_1731081600000",
+    "order": 0,
+    "type": "ignore",
+    "timestamp": 1731081600000,
+    "evidence": "system-rule",
+    "comment": "Type: SETTLEMENT / \"0\" USDT",
+    "transfers": []
+  },
+  {
+    "source": "bybit-statement-account-uta_uta-account_1730880001000",
+    "order": 0,
+    "type": "ignore",
+    "timestamp": 1730880001000,
+    "evidence": "system-rule",
+    "comment": "Type: DELIVERY / \"44.28859773\" USDC",
+    "transfers": []
+  },
+  {
+    "source": "bybit-statement-account-uta_uta-account_1730876700000",
+    "order": 0,
+    "type": "interest-fee",
+    "timestamp": 1730876700000,
+    "evidence": "system-rule",
+    "comment": "Type: INTEREST / \"-0.000736807350132681\" USDC",
+    "transfers": [
+      {
+        "direction": "out",
+        "asset": {
+          "type": "CryptoCurrency",
+          "id": "usd-coin",
+          "name": "USDC",
+          "symbol": "usdc",
+          "icon": "https://coin-images.coingecko.com/coins/images/6319/large/usdc.png?1696506694",
+          "market": { "coingeckoId": "usd-coin", "marketCapUsd": 35031669445 },
+          "updatedAt": 1728782536762
+        },
+        "amount": "0.000736807350132681"
+      }
+    ]
+  }
+]
