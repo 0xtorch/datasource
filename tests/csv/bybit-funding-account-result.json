@@ -121,5 +121,46 @@
         "amount": "0.0194"
       }
     ]
+  },
+  {
+    "source": "bybit-funding-account_funding-account_1683765445000",
+    "order": 0,
+    "type": "interest",
+    "timestamp": 1683765445000,
+    "evidence": "system-rule",
+    "comment": "Type:Earn / Description: Fixed Savings Interest Distribution",
+    "transfers": [
+      {
+        "direction": "in",
+        "asset": {
+          "type": "CryptoCurrency",
+          "id": "sui",
+          "name": "Sui",
+          "symbol": "sui",
+          "icon": "https://coin-images.coingecko.com/coins/images/26375/large/sui-ocean-square.png?1727791290",
+          "market": { "coingeckoId": "sui", "marketCapUsd": 6222595843 },
+          "updatedAt": 1728782536762
+        },
+        "amount": "13.492931"
+      }
+    ]
+  },
+  {
+    "source": "bybit-funding-account_funding-account_1683765445000",
+    "order": 1,
+    "type": "ignore",
+    "timestamp": 1683765445000,
+    "evidence": "system-rule",
+    "comment": "Type:Earn / Description: Fixed Savings Principal Redemption / \"799.5\"SUI",
+    "transfers": []
+  },
+  {
+    "source": "bybit-funding-account_funding-account_1683133052000",
+    "order": 0,
+    "type": "ignore",
+    "timestamp": 1683133052000,
+    "evidence": "system-rule",
+    "comment": "Type:Earn / Description: Fixed Savings Subscription / \"-799.5\"SUI",
+    "transfers": []
   }
 ]

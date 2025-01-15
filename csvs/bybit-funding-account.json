@@ -68,7 +68,7 @@
         ]
       },
       {
-        "description": "Earn: Flexible Savings Interest Distribution",
+        "description": "Earn: Flexible Savings Interest Distribution / Fixed Savings Interest Distribution > interest",
         "conditions": [
           {
             "value": {
@@ -82,7 +82,13 @@
               "type": "cell",
               "column": "Description"
             },
-            "pattern": "Flexible Savings Interest Distribution"
+            "pattern": {
+              "type": "in",
+              "values": [
+                "Flexible Savings Interest Distribution",
+                "Fixed Savings Interest Distribution"
+              ]
+            }
           }
         ],
         "generators": [
@@ -132,7 +138,7 @@
         ]
       },
       {
-        "description": "ignore > Earn",
+        "description": "Earn: / Flexible Savings Subscription / Fixed Savings Subscription / Fixed Savings Principal Redemption > ignore",
         "conditions": [
           {
             "value": {
@@ -148,7 +154,12 @@
             },
             "pattern": {
               "type": "in",
-              "values": ["", "Flexible Savings Subscription"]
+              "values": [
+                "",
+                "Flexible Savings Subscription",
+                "Fixed Savings Subscription",
+                "Fixed Savings Principal Redemption"
+              ]
             }
           }
         ],
