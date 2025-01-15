@@ -1,5 +1,5 @@
 {
-  "id": "bybit-spot-trade",
+  "id": "bybit-spot-trade-2",
   "service": "bybit",
   "formatter": {
     "Spot Pairs": ["string"],
@@ -9,7 +9,7 @@
     "Fees": ["big-decimal"],
     "Transaction ID": ["string"],
     "Order No.": ["string"],
-    "Timestamp (UTC)": ["iso8601"]
+    "Timestamp (UTC+0)": ["iso8601"]
   },
   "parser": {
     "parsers": [
@@ -23,7 +23,7 @@
             },
             "pattern": {
               "type": "in",
-              "values": ["BUY", "SELL"]
+              "values": ["BUY", "buy", "SELL", "sell"]
             }
           }
         ],
@@ -40,14 +40,17 @@
             },
             "timestamp": {
               "type": "cell",
-              "column": "Timestamp (UTC)"
+              "column": "Timestamp (UTC+0)"
             },
             "transfers": [
               {
                 "target": [
                   {
                     "column": "Direction",
-                    "pattern": "BUY"
+                    "pattern": {
+                      "type": "in",
+                      "values": ["BUY", "buy"]
+                    }
                   },
                   {
                     "column": "Spot Pairs",
@@ -82,7 +85,10 @@
                 "target": [
                   {
                     "column": "Direction",
-                    "pattern": "BUY"
+                    "pattern": {
+                      "type": "in",
+                      "values": ["BUY", "buy"]
+                    }
                   },
                   {
                     "column": "Spot Pairs",
@@ -117,7 +123,10 @@
                 "target": [
                   {
                     "column": "Direction",
-                    "pattern": "BUY"
+                    "pattern": {
+                      "type": "in",
+                      "values": ["BUY", "buy"]
+                    }
                   },
                   {
                     "column": "Spot Pairs",
@@ -152,7 +161,10 @@
                 "target": [
                   {
                     "column": "Direction",
-                    "pattern": "BUY"
+                    "pattern": {
+                      "type": "in",
+                      "values": ["BUY", "buy"]
+                    }
                   },
                   {
                     "column": "Spot Pairs",
@@ -187,7 +199,10 @@
                 "target": [
                   {
                     "column": "Direction",
-                    "pattern": "BUY"
+                    "pattern": {
+                      "type": "in",
+                      "values": ["BUY", "buy"]
+                    }
                   },
                   {
                     "column": "Spot Pairs",
@@ -222,7 +237,10 @@
                 "target": [
                   {
                     "column": "Direction",
-                    "pattern": "BUY"
+                    "pattern": {
+                      "type": "in",
+                      "values": ["BUY", "buy"]
+                    }
                   },
                   {
                     "column": "Spot Pairs",
@@ -257,7 +275,10 @@
                 "target": [
                   {
                     "column": "Direction",
-                    "pattern": "BUY"
+                    "pattern": {
+                      "type": "in",
+                      "values": ["BUY", "buy"]
+                    }
                   },
                   {
                     "column": "Spot Pairs",
@@ -292,7 +313,10 @@
                 "target": [
                   {
                     "column": "Direction",
-                    "pattern": "SELL"
+                    "pattern": {
+                      "type": "in",
+                      "values": ["SELL", "sell"]
+                    }
                   },
                   {
                     "column": "Spot Pairs",
@@ -327,7 +351,10 @@
                 "target": [
                   {
                     "column": "Direction",
-                    "pattern": "SELL"
+                    "pattern": {
+                      "type": "in",
+                      "values": ["SELL", "sell"]
+                    }
                   },
                   {
                     "column": "Spot Pairs",
@@ -362,7 +389,10 @@
                 "target": [
                   {
                     "column": "Direction",
-                    "pattern": "SELL"
+                    "pattern": {
+                      "type": "in",
+                      "values": ["SELL", "sell"]
+                    }
                   },
                   {
                     "column": "Spot Pairs",
@@ -397,7 +427,10 @@
                 "target": [
                   {
                     "column": "Direction",
-                    "pattern": "SELL"
+                    "pattern": {
+                      "type": "in",
+                      "values": ["SELL", "sell"]
+                    }
                   },
                   {
                     "column": "Spot Pairs",
@@ -432,7 +465,10 @@
                 "target": [
                   {
                     "column": "Direction",
-                    "pattern": "SELL"
+                    "pattern": {
+                      "type": "in",
+                      "values": ["SELL", "sell"]
+                    }
                   },
                   {
                     "column": "Spot Pairs",
@@ -467,7 +503,10 @@
                 "target": [
                   {
                     "column": "Direction",
-                    "pattern": "SELL"
+                    "pattern": {
+                      "type": "in",
+                      "values": ["SELL", "sell"]
+                    }
                   },
                   {
                     "column": "Spot Pairs",
@@ -502,7 +541,10 @@
                 "target": [
                   {
                     "column": "Direction",
-                    "pattern": "SELL"
+                    "pattern": {
+                      "type": "in",
+                      "values": ["SELL", "sell"]
+                    }
                   },
                   {
                     "column": "Spot Pairs",
@@ -537,7 +579,10 @@
                 "target": [
                   {
                     "column": "Direction",
-                    "pattern": "BUY"
+                    "pattern": {
+                      "type": "in",
+                      "values": ["BUY", "buy"]
+                    }
                   },
                   {
                     "column": "Spot Pairs",
@@ -564,7 +609,10 @@
                 "target": [
                   {
                     "column": "Direction",
-                    "pattern": "BUY"
+                    "pattern": {
+                      "type": "in",
+                      "values": ["BUY", "buy"]
+                    }
                   },
                   {
                     "column": "Spot Pairs",
@@ -591,7 +639,10 @@
                 "target": [
                   {
                     "column": "Direction",
-                    "pattern": "BUY"
+                    "pattern": {
+                      "type": "in",
+                      "values": ["BUY", "buy"]
+                    }
                   },
                   {
                     "column": "Spot Pairs",
@@ -618,7 +669,10 @@
                 "target": [
                   {
                     "column": "Direction",
-                    "pattern": "BUY"
+                    "pattern": {
+                      "type": "in",
+                      "values": ["BUY", "buy"]
+                    }
                   },
                   {
                     "column": "Spot Pairs",
@@ -645,7 +699,10 @@
                 "target": [
                   {
                     "column": "Direction",
-                    "pattern": "BUY"
+                    "pattern": {
+                      "type": "in",
+                      "values": ["BUY", "buy"]
+                    }
                   },
                   {
                     "column": "Spot Pairs",
@@ -672,7 +729,10 @@
                 "target": [
                   {
                     "column": "Direction",
-                    "pattern": "BUY"
+                    "pattern": {
+                      "type": "in",
+                      "values": ["BUY", "buy"]
+                    }
                   },
                   {
                     "column": "Spot Pairs",
@@ -699,7 +759,10 @@
                 "target": [
                   {
                     "column": "Direction",
-                    "pattern": "BUY"
+                    "pattern": {
+                      "type": "in",
+                      "values": ["BUY", "buy"]
+                    }
                   },
                   {
                     "column": "Spot Pairs",
@@ -726,7 +789,10 @@
                 "target": [
                   {
                     "column": "Direction",
-                    "pattern": "SELL"
+                    "pattern": {
+                      "type": "in",
+                      "values": ["SELL", "sell"]
+                    }
                   },
                   {
                     "column": "Spot Pairs",
@@ -753,7 +819,10 @@
                 "target": [
                   {
                     "column": "Direction",
-                    "pattern": "SELL"
+                    "pattern": {
+                      "type": "in",
+                      "values": ["SELL", "sell"]
+                    }
                   },
                   {
                     "column": "Spot Pairs",
@@ -780,7 +849,10 @@
                 "target": [
                   {
                     "column": "Direction",
-                    "pattern": "SELL"
+                    "pattern": {
+                      "type": "in",
+                      "values": ["SELL", "sell"]
+                    }
                   },
                   {
                     "column": "Spot Pairs",
@@ -807,7 +879,10 @@
                 "target": [
                   {
                     "column": "Direction",
-                    "pattern": "SELL"
+                    "pattern": {
+                      "type": "in",
+                      "values": ["SELL", "sell"]
+                    }
                   },
                   {
                     "column": "Spot Pairs",
@@ -834,7 +909,10 @@
                 "target": [
                   {
                     "column": "Direction",
-                    "pattern": "SELL"
+                    "pattern": {
+                      "type": "in",
+                      "values": ["SELL", "sell"]
+                    }
                   },
                   {
                     "column": "Spot Pairs",
@@ -861,7 +939,10 @@
                 "target": [
                   {
                     "column": "Direction",
-                    "pattern": "SELL"
+                    "pattern": {
+                      "type": "in",
+                      "values": ["SELL", "sell"]
+                    }
                   },
                   {
                     "column": "Spot Pairs",
@@ -888,7 +969,10 @@
                 "target": [
                   {
                     "column": "Direction",
-                    "pattern": "SELL"
+                    "pattern": {
+                      "type": "in",
+                      "values": ["SELL", "sell"]
+                    }
                   },
                   {
                     "column": "Spot Pairs",
@@ -915,7 +999,10 @@
                 "target": [
                   {
                     "column": "Direction",
-                    "pattern": "BUY"
+                    "pattern": {
+                      "type": "in",
+                      "values": ["BUY", "buy"]
+                    }
                   },
                   {
                     "column": "Spot Pairs",
@@ -956,7 +1043,10 @@
                 "target": [
                   {
                     "column": "Direction",
-                    "pattern": "BUY"
+                    "pattern": {
+                      "type": "in",
+                      "values": ["BUY", "buy"]
+                    }
                   },
                   {
                     "column": "Spot Pairs",
@@ -997,7 +1087,10 @@
                 "target": [
                   {
                     "column": "Direction",
-                    "pattern": "BUY"
+                    "pattern": {
+                      "type": "in",
+                      "values": ["BUY", "buy"]
+                    }
                   },
                   {
                     "column": "Spot Pairs",
@@ -1038,7 +1131,10 @@
                 "target": [
                   {
                     "column": "Direction",
-                    "pattern": "BUY"
+                    "pattern": {
+                      "type": "in",
+                      "values": ["BUY", "buy"]
+                    }
                   },
                   {
                     "column": "Spot Pairs",
@@ -1079,7 +1175,10 @@
                 "target": [
                   {
                     "column": "Direction",
-                    "pattern": "BUY"
+                    "pattern": {
+                      "type": "in",
+                      "values": ["BUY", "buy"]
+                    }
                   },
                   {
                     "column": "Spot Pairs",
@@ -1120,7 +1219,10 @@
                 "target": [
                   {
                     "column": "Direction",
-                    "pattern": "BUY"
+                    "pattern": {
+                      "type": "in",
+                      "values": ["BUY", "buy"]
+                    }
                   },
                   {
                     "column": "Spot Pairs",
@@ -1161,7 +1263,10 @@
                 "target": [
                   {
                     "column": "Direction",
-                    "pattern": "BUY"
+                    "pattern": {
+                      "type": "in",
+                      "values": ["BUY", "buy"]
+                    }
                   },
                   {
                     "column": "Spot Pairs",
@@ -1202,7 +1307,10 @@
                 "target": [
                   {
                     "column": "Direction",
-                    "pattern": "SELL"
+                    "pattern": {
+                      "type": "in",
+                      "values": ["SELL", "sell"]
+                    }
                   },
                   {
                     "column": "Spot Pairs",
@@ -1235,7 +1343,10 @@
                 "target": [
                   {
                     "column": "Direction",
-                    "pattern": "SELL"
+                    "pattern": {
+                      "type": "in",
+                      "values": ["SELL", "sell"]
+                    }
                   },
                   {
                     "column": "Spot Pairs",
@@ -1268,7 +1379,10 @@
                 "target": [
                   {
                     "column": "Direction",
-                    "pattern": "SELL"
+                    "pattern": {
+                      "type": "in",
+                      "values": ["SELL", "sell"]
+                    }
                   },
                   {
                     "column": "Spot Pairs",
@@ -1301,7 +1415,10 @@
                 "target": [
                   {
                     "column": "Direction",
-                    "pattern": "SELL"
+                    "pattern": {
+                      "type": "in",
+                      "values": ["SELL", "sell"]
+                    }
                   },
                   {
                     "column": "Spot Pairs",
@@ -1334,7 +1451,10 @@
                 "target": [
                   {
                     "column": "Direction",
-                    "pattern": "SELL"
+                    "pattern": {
+                      "type": "in",
+                      "values": ["SELL", "sell"]
+                    }
                   },
                   {
                     "column": "Spot Pairs",
@@ -1367,7 +1487,10 @@
                 "target": [
                   {
                     "column": "Direction",
-                    "pattern": "SELL"
+                    "pattern": {
+                      "type": "in",
+                      "values": ["SELL", "sell"]
+                    }
                   },
                   {
                     "column": "Spot Pairs",
@@ -1400,7 +1523,10 @@
                 "target": [
                   {
                     "column": "Direction",
-                    "pattern": "SELL"
+                    "pattern": {
+                      "type": "in",
+                      "values": ["SELL", "sell"]
+                    }
                   },
                   {
                     "column": "Spot Pairs",

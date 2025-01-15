@@ -1,0 +1,98 @@
+[
+  {
+    "source": "bybit-spot-trade-2_spot-trade_1809861109692793344",
+    "order": 0,
+    "type": "trade",
+    "timestamp": 1730488257068,
+    "evidence": "system-rule",
+    "transfers": [
+      {
+        "direction": "in",
+        "asset": {
+          "type": "CryptoCurrency",
+          "id": "celestia",
+          "name": "Celestia",
+          "symbol": "tia",
+          "icon": "https://coin-images.coingecko.com/coins/images/31967/large/tia.jpg?1696530772",
+          "market": { "coingeckoId": "celestia", "marketCapUsd": 1170688494 },
+          "updatedAt": 1728782536762
+        },
+        "amount": "99.77"
+      },
+      {
+        "direction": "out",
+        "asset": {
+          "type": "CryptoCurrency",
+          "id": "tether",
+          "name": "Tether",
+          "symbol": "usdt",
+          "icon": "https://coin-images.coingecko.com/coins/images/325/large/Tether.png?1696501661",
+          "market": { "coingeckoId": "tether", "marketCapUsd": 119675340267 },
+          "updatedAt": 1728782536762
+        },
+        "amount": "449.9627"
+      },
+      {
+        "direction": "out",
+        "asset": {
+          "type": "CryptoCurrency",
+          "id": "celestia",
+          "name": "Celestia",
+          "symbol": "tia",
+          "icon": "https://coin-images.coingecko.com/coins/images/31967/large/tia.jpg?1696530772",
+          "market": { "coingeckoId": "celestia", "marketCapUsd": 1170688494 },
+          "updatedAt": 1728782536762
+        },
+        "amount": "0.09977"
+      }
+    ]
+  },
+  {
+    "source": "bybit-spot-trade-2_spot-trade_1793584254622925312",
+    "order": 0,
+    "type": "trade",
+    "timestamp": 1728547904741,
+    "evidence": "system-rule",
+    "transfers": [
+      {
+        "direction": "out",
+        "asset": {
+          "type": "CryptoCurrency",
+          "id": "carv",
+          "name": "CARV",
+          "symbol": "carv",
+          "icon": "missing_large.png",
+          "market": { "coingeckoId": "carv" },
+          "updatedAt": 1720036911252
+        },
+        "amount": "146.18"
+      },
+      {
+        "direction": "in",
+        "asset": {
+          "type": "CryptoCurrency",
+          "id": "tether",
+          "name": "Tether",
+          "symbol": "usdt",
+          "icon": "https://coin-images.coingecko.com/coins/images/325/large/Tether.png?1696501661",
+          "market": { "coingeckoId": "tether", "marketCapUsd": 119675340267 },
+          "updatedAt": 1728782536762
+        },
+        "amount": "56.35239000000001"
+      },
+      {
+        "direction": "out",
+        "asset": {
+          "type": "CryptoCurrency",
+          "id": "tether",
+          "name": "Tether",
+          "symbol": "usdt",
+          "icon": "https://coin-images.coingecko.com/coins/images/325/large/Tether.png?1696501661",
+          "market": { "coingeckoId": "tether", "marketCapUsd": 119675340267 },
+          "updatedAt": 1728782536762
+        },
+        "amount": "0.05635239"
+      }
+    ]
+  }
+]

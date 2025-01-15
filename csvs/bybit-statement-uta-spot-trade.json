@@ -1,5 +1,5 @@
 {
-  "id": "bybit-spot-trade",
+  "id": "bybit-statement-uta-spot-trade",
   "service": "bybit",
   "formatter": {
     "Spot Pairs": ["string"],
@@ -9,7 +9,7 @@
     "Fees": ["big-decimal"],
     "Transaction ID": ["string"],
     "Order No.": ["string"],
-    "Timestamp (UTC)": ["iso8601"]
+    "Timestamp (UTC+0)": ["iso8601"]
   },
   "parser": {
     "parsers": [
@@ -40,7 +40,7 @@
             },
             "timestamp": {
               "type": "cell",
-              "column": "Timestamp (UTC)"
+              "column": "Timestamp (UTC+0)"
             },
             "transfers": [
               {

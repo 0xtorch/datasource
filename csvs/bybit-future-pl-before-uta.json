@@ -230,5 +230,8 @@
         ]
       }
     ]
+  },
+  "symbolAssetMap": {
+    "RNDR": "crypto/render-token"
   }
 }

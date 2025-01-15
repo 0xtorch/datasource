@@ -11,7 +11,64 @@
   "parser": {
     "parsers": [
       {
-        "description": "Earn: Flexible Savings Interest Distribution",
+        "description": "Airdrop > airdrop",
+        "conditions": [
+          {
+            "value": {
+              "type": "cell",
+              "column": "Type"
+            },
+            "pattern": "Airdrop"
+          }
+        ],
+        "generators": [
+          {
+            "type": "airdrop",
+            "source": {
+              "type": "join",
+              "values": [
+                { "type": "service" },
+                "_funding-account_",
+                { "type": "cell", "column": "Date & Time(UTC)" }
+              ]
+            },
+            "timestamp": {
+              "type": "cell",
+              "column": "Date & Time(UTC)"
+            },
+            "comment": {
+              "type": "join",
+              "values": [
+                "Type:",
+                { "type": "cell", "column": "Type" },
+                " / Description: ",
+                { "type": "cell", "column": "Description" }
+              ]
+            },
+            "transfers": [
+              {
+                "direction": "in",
+                "amount": {
+                  "type": "text",
+                  "value": {
+                    "type": "cell",
+                    "column": "QTY"
+                  }
+                },
+                "asset": {
+                  "type": "symbol",
+                  "value": {
+                    "type": "cell",
+                    "column": "Coin"
+                  }
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "description": "Earn: Flexible Savings Interest Distribution / Fixed Savings Interest Distribution > interest",
         "conditions": [
           {
             "value": {
@@ -25,7 +82,13 @@
               "type": "cell",
               "column": "Description"
             },
-            "pattern": "Flexible Savings Interest Distribution"
+            "pattern": {
+              "type": "in",
+              "values": [
+                "Flexible Savings Interest Distribution",
+                "Fixed Savings Interest Distribution"
+              ]
+            }
           }
         ],
         "generators": [
@@ -75,7 +138,7 @@
         ]
       },
       {
-        "description": "ignore > Earn",
+        "description": "Earn: / Flexible Savings Subscription / Fixed Savings Subscription / Fixed Savings Principal Redemption > ignore",
         "conditions": [
           {
             "value": {
@@ -91,7 +154,12 @@
             },
             "pattern": {
               "type": "in",
-              "values": ["", "Flexible Savings Subscription"]
+              "values": [
+                "",
+                "Flexible Savings Subscription",
+                "Fixed Savings Subscription",
+                "Fixed Savings Principal Redemption"
+              ]
             }
           }
         ],
@@ -172,5 +240,8 @@
         ]
       }
     ]
+  },
+  "symbolAssetMap": {
+    "RNDR": "crypto/render-token"
   }
 }
