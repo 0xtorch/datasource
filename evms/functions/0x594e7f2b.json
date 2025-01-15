@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"feePerRecipient_","internalType":"uint256","type":"uint256"}],"name":"updateFeePerRecipient","outputs":[],"stateMutability":"nonpayable"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_granter","internalType":"address","type":"address"}],"name":"revokeKeyGranter","outputs":[],"stateMutability":"nonpayable"}]
