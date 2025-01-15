@@ -3,9 +3,9 @@
   "type": "module",
   "module": "index.ts",
   "dependencies": {
-    "@0xtorch/core": "^0.0.57",
-    "@0xtorch/csv": "^0.0.50",
-    "@0xtorch/evm": "^0.0.121",
+    "@0xtorch/core": "^0.0.60",
+    "@0xtorch/csv": "^0.0.51",
+    "@0xtorch/evm": "^0.0.122",
     "@0xtorch/solana": "^0.0.43",
     "abitype": "^1.0.6",
     "viem": "2.21.18",
