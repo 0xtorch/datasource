@@ -23,6 +23,52 @@
     ]
   },
   {
+    "source": "bybit-future-pl_future-pl_1734582115000",
+    "order": 0,
+    "type": "realize-profit",
+    "timestamp": 1734582115000,
+    "evidence": "system-rule",
+    "comment": "Close \"3\"OPPERP / Side: SELL",
+    "transfers": [
+      {
+        "direction": "in",
+        "asset": {
+          "type": "CryptoCurrency",
+          "id": "usd-coin",
+          "name": "USDC",
+          "symbol": "usdc",
+          "icon": "https://coin-images.coingecko.com/coins/images/6319/large/usdc.png?1696506694",
+          "market": { "coingeckoId": "usd-coin", "marketCapUsd": 35031669445 },
+          "updatedAt": 1728782536762
+        },
+        "amount": "0.02704777"
+      }
+    ]
+  },
+  {
+    "source": "bybit-future-pl_future-pl_1734566400000",
+    "order": 0,
+    "type": "realize-loss",
+    "timestamp": 1734566400000,
+    "evidence": "system-rule",
+    "comment": "Close \"3\"OPPERP / Side: BUY",
+    "transfers": [
+      {
+        "direction": "out",
+        "asset": {
+          "type": "CryptoCurrency",
+          "id": "usd-coin",
+          "name": "USDC",
+          "symbol": "usdc",
+          "icon": "https://coin-images.coingecko.com/coins/images/6319/large/usdc.png?1696506694",
+          "market": { "coingeckoId": "usd-coin", "marketCapUsd": 35031669445 },
+          "updatedAt": 1728782536762
+        },
+        "amount": "0.5451471"
+      }
+    ]
+  },
+  {
     "source": "bybit-future-pl_future-pl_1730101500000",
     "order": 0,
     "type": "realize-profit",
