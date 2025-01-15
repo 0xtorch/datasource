@@ -5,6 +5,9 @@ import { evmAddressWithoutChainIdSchema } from '../scripts/schemas'
 describe('Should valid evm chain address json', async () => {
   const chainDirs = await readdir('./evms/chains')
   for (const chainDir of chainDirs) {
+    if (chainDir.includes('.')) {
+      continue
+    }
     const filenames = await readdir(`./evms/chains/${chainDir}`)
     for (const filename of filenames) {
       if (!filename.endsWith('.json')) {
