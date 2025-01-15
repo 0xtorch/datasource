@@ -1,5 +1,14 @@
 [
   {
+    "source": "bybit-funding-account_funding-account_1734524237000",
+    "order": 0,
+    "type": "ignore",
+    "timestamp": 1734524237000,
+    "evidence": "system-rule",
+    "comment": "Type:Earn / Description: Flexible Savings Principal Redemption / \"100\"USDT",
+    "transfers": []
+  },
+  {
     "source": "bybit-funding-account_funding-account_1734430749000",
     "order": 0,
     "type": "ignore",
