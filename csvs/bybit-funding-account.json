@@ -138,7 +138,7 @@
         ]
       },
       {
-        "description": "Earn: / Flexible Savings Subscription / Fixed Savings Subscription / Fixed Savings Principal Redemption > ignore",
+        "description": "Earn: / Flexible Savings Subscription / Flexible Savings Principal Redemption / Fixed Savings Subscription / Fixed Savings Principal Redemption > ignore",
         "conditions": [
           {
             "value": {
@@ -157,6 +157,7 @@
               "values": [
                 "",
                 "Flexible Savings Subscription",
+                "Flexible Savings Principal Redemption",
                 "Fixed Savings Subscription",
                 "Fixed Savings Principal Redemption"
               ]
