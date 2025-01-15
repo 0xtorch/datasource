@@ -12,44 +12,13 @@
     "参考単価": ["blank", "big-decimal"],
     "数量": ["blank", "big-decimal"],
     "約定番号": ["blank", "big-decimal"],
-    "BNB": ["blank", "big-decimal"],
-    "BTC": ["blank", "big-decimal"],
-    "ETH": ["blank", "big-decimal"],
-    "PEPE": ["blank", "big-decimal"],
-    "XRP": ["blank", "big-decimal"],
-    "SHIB": ["blank", "big-decimal"],
-    "DOGE": ["blank", "big-decimal"],
-    "SOL": ["blank", "big-decimal"],
-    "SUI": ["blank", "big-decimal"],
-    "ADA": ["blank", "big-decimal"],
-    "TRX": ["blank", "big-decimal"],
-    "AVAX": ["blank", "big-decimal"],
-    "TON": ["blank", "big-decimal"],
-    "JMY": ["blank", "big-decimal"],
-    "DEP": ["blank", "big-decimal"],
-    "DOT": ["blank", "big-decimal"],
-    "ATOM": ["blank", "big-decimal"],
-    "IOST": ["blank", "big-decimal"],
-    "FLR": ["blank", "big-decimal"],
-    "POL": ["blank", "big-decimal"],
-    "LTC": ["blank", "big-decimal"],
-    "BCH": ["blank", "big-decimal"],
-    "KLAY": ["blank", "big-decimal"],
-    "LNK": ["blank", "big-decimal"],
-    "BAT": ["blank", "big-decimal"],
-    "TSUGT": ["blank", "big-decimal"],
-    "OSHI": ["blank", "big-decimal"],
-    "GXE": ["blank", "big-decimal"],
     "円": ["blank", "big-decimal"],
-    "米ドル": ["blank", "big-decimal"],
-    "ユーロ": ["blank", "big-decimal"],
-    "香港ドル": ["blank", "big-decimal"],
     "手数料": ["blank", "big-decimal"]
   },
   "parser": {
     "parsers": [
       {
-        "description": "現物取引(買)",
+        "description": "現物取引",
         "conditions": [
           {
             "value": {
@@ -63,7 +32,9 @@
               "type": "cell",
               "column": "売買"
             },
-            "pattern": "買"
+            "pattern": {
+              "type": "defined"
+            }
           },
           {
             "value": {
@@ -79,9 +50,7 @@
               "type": "cell",
               "column": "通貨コード２"
             },
-            "pattern": {
-              "type": "defined"
-            }
+            "pattern": "JPY"
           },
           {
             "value": {
@@ -163,81 +132,7 @@
                     "column": "通貨コード２"
                   }
                 }
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "description": "現物取引(売)",
-        "conditions": [
-          {
-            "value": {
-              "type": "cell",
-              "column": "取引種類"
-            },
-            "pattern": "現物取引"
-          },
-          {
-            "value": {
-              "type": "cell",
-              "column": "売買"
-            },
-            "pattern": "売"
-          },
-          {
-            "value": {
-              "type": "cell",
-              "column": "通貨コード１"
-            },
-            "pattern": {
-              "type": "defined"
-            }
-          },
-          {
-            "value": {
-              "type": "cell",
-              "column": "通貨コード２"
-            },
-            "pattern": {
-              "type": "defined"
-            }
-          },
-          {
-            "value": {
-              "type": "cell",
-              "column": "数量"
-            },
-            "pattern": {
-              "type": "defined"
-            }
-          },
-          {
-            "value": {
-              "type": "cell",
-              "column": "円"
-            },
-            "pattern": {
-              "type": "defined"
-            }
-          }
-        ],
-        "generators": [
-          {
-            "type": "trade",
-            "source": {
-              "type": "join",
-              "values": [
-                { "type": "service" },
-                "_",
-                { "type": "cell", "column": "約定日時" }
-              ]
-            },
-            "timestamp": {
-              "type": "cell",
-              "column": "約定日時"
-            },
-            "transfers": [
+              },
               {
                 "target": [
                   {
