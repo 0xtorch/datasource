@@ -53,6 +53,15 @@
     ]
   },
   {
+    "source": "bybit-statement-account-spot_spot-account_1705671434000",
+    "order": 0,
+    "type": "ignore",
+    "timestamp": 1705671434000,
+    "evidence": "system-rule",
+    "comment": "Type:  / \"-1361.65497\" PYTH",
+    "transfers": []
+  },
+  {
     "source": "bybit-statement-account-spot_spot-account_1687831026000",
     "order": 0,
     "type": "ignore",

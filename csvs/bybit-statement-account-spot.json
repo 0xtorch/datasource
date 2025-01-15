@@ -144,7 +144,8 @@
                 "trade",
                 "tradingFee",
                 "userDeposit",
-                "userWithdrawal"
+                "userWithdrawal",
+                ""
               ]
             }
           }
