@@ -1,0 +1,526 @@
+{
+  "id": "bitpoint-spot",
+  "service": "bitpoint",
+  "formatter": {
+    "No": ["big-decimal"],
+    "受渡日": ["blank", "datetime-jp"],
+    "約定日時": ["blank", "datetime-jp"],
+    "取引種類": ["string"],
+    "通貨コード１": ["blank", "string"],
+    "通貨コード２": ["blank", "string"],
+    "売買": ["blank", "string"],
+    "参考単価": ["blank", "big-decimal"],
+    "数量": ["blank", "big-decimal"],
+    "約定番号": ["blank", "big-decimal"],
+    "BNB": ["blank", "big-decimal"],
+    "BTC": ["blank", "big-decimal"],
+    "ETH": ["blank", "big-decimal"],
+    "PEPE": ["blank", "big-decimal"],
+    "XRP": ["blank", "big-decimal"],
+    "SHIB": ["blank", "big-decimal"],
+    "DOGE": ["blank", "big-decimal"],
+    "SOL": ["blank", "big-decimal"],
+    "SUI": ["blank", "big-decimal"],
+    "ADA": ["blank", "big-decimal"],
+    "TRX": ["blank", "big-decimal"],
+    "AVAX": ["blank", "big-decimal"],
+    "TON": ["blank", "big-decimal"],
+    "JMY": ["blank", "big-decimal"],
+    "DEP": ["blank", "big-decimal"],
+    "DOT": ["blank", "big-decimal"],
+    "ATOM": ["blank", "big-decimal"],
+    "IOST": ["blank", "big-decimal"],
+    "FLR": ["blank", "big-decimal"],
+    "POL": ["blank", "big-decimal"],
+    "LTC": ["blank", "big-decimal"],
+    "BCH": ["blank", "big-decimal"],
+    "KLAY": ["blank", "big-decimal"],
+    "LNK": ["blank", "big-decimal"],
+    "BAT": ["blank", "big-decimal"],
+    "TSUGT": ["blank", "big-decimal"],
+    "OSHI": ["blank", "big-decimal"],
+    "GXE": ["blank", "big-decimal"],
+    "円": ["blank", "big-decimal"],
+    "米ドル": ["blank", "big-decimal"],
+    "ユーロ": ["blank", "big-decimal"],
+    "香港ドル": ["blank", "big-decimal"],
+    "手数料": ["blank", "big-decimal"]
+  },
+  "parser": {
+    "parsers": [
+      {
+        "description": "現物取引(買)",
+        "conditions": [
+          {
+            "value": {
+              "type": "cell",
+              "column": "取引種類"
+            },
+            "pattern": "現物取引"
+          },
+          {
+            "value": {
+              "type": "cell",
+              "column": "売買"
+            },
+            "pattern": "買"
+          },
+          {
+            "value": {
+              "type": "cell",
+              "column": "通貨コード１"
+            },
+            "pattern": {
+              "type": "defined"
+            }
+          },
+          {
+            "value": {
+              "type": "cell",
+              "column": "通貨コード２"
+            },
+            "pattern": {
+              "type": "defined"
+            }
+          },
+          {
+            "value": {
+              "type": "cell",
+              "column": "数量"
+            },
+            "pattern": {
+              "type": "defined"
+            }
+          },
+          {
+            "value": {
+              "type": "cell",
+              "column": "円"
+            },
+            "pattern": {
+              "type": "defined"
+            }
+          }
+        ],
+        "generators": [
+          {
+            "type": "trade",
+            "source": {
+              "type": "join",
+              "values": [
+                { "type": "service" },
+                "_",
+                { "type": "cell", "column": "約定日時" }
+              ]
+            },
+            "timestamp": {
+              "type": "cell",
+              "column": "約定日時"
+            },
+            "transfers": [
+              {
+                "target": [
+                  {
+                    "column": "売買",
+                    "pattern": "買"
+                  }
+                ],
+                "direction": "in",
+                "amount": {
+                  "type": "text",
+                  "value": {
+                    "type": "cell",
+                    "column": "数量"
+                  }
+                },
+                "asset": {
+                  "type": "symbol",
+                  "value": {
+                    "type": "cell",
+                    "column": "通貨コード１"
+                  }
+                }
+              },
+              {
+                "target": [
+                  {
+                    "column": "売買",
+                    "pattern": "買"
+                  }
+                ],
+                "direction": "out",
+                "amount": {
+                  "type": "text",
+                  "value": {
+                    "type": "cell",
+                    "column": "円"
+                  }
+                },
+                "asset": {
+                  "type": "symbol",
+                  "value": {
+                    "type": "cell",
+                    "column": "通貨コード２"
+                  }
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "description": "現物取引(売)",
+        "conditions": [
+          {
+            "value": {
+              "type": "cell",
+              "column": "取引種類"
+            },
+            "pattern": "現物取引"
+          },
+          {
+            "value": {
+              "type": "cell",
+              "column": "売買"
+            },
+            "pattern": "売"
+          },
+          {
+            "value": {
+              "type": "cell",
+              "column": "通貨コード１"
+            },
+            "pattern": {
+              "type": "defined"
+            }
+          },
+          {
+            "value": {
+              "type": "cell",
+              "column": "通貨コード２"
+            },
+            "pattern": {
+              "type": "defined"
+            }
+          },
+          {
+            "value": {
+              "type": "cell",
+              "column": "数量"
+            },
+            "pattern": {
+              "type": "defined"
+            }
+          },
+          {
+            "value": {
+              "type": "cell",
+              "column": "円"
+            },
+            "pattern": {
+              "type": "defined"
+            }
+          }
+        ],
+        "generators": [
+          {
+            "type": "trade",
+            "source": {
+              "type": "join",
+              "values": [
+                { "type": "service" },
+                "_",
+                { "type": "cell", "column": "約定日時" }
+              ]
+            },
+            "timestamp": {
+              "type": "cell",
+              "column": "約定日時"
+            },
+            "transfers": [
+              {
+                "target": [
+                  {
+                    "column": "売買",
+                    "pattern": "売"
+                  }
+                ],
+                "direction": "in",
+                "amount": {
+                  "type": "text",
+                  "value": {
+                    "type": "cell",
+                    "column": "円"
+                  }
+                },
+                "asset": {
+                  "type": "symbol",
+                  "value": {
+                    "type": "cell",
+                    "column": "通貨コード２"
+                  }
+                }
+              },
+              {
+                "target": [
+                  {
+                    "column": "売買",
+                    "pattern": "売"
+                  }
+                ],
+                "direction": "out",
+                "amount": {
+                  "type": "text",
+                  "value": {
+                    "type": "cell",
+                    "column": "数量"
+                  }
+                },
+                "asset": {
+                  "type": "symbol",
+                  "value": {
+                    "type": "cell",
+                    "column": "通貨コード１"
+                  }
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "description": "ステーキング報酬",
+        "conditions": [
+          {
+            "value": {
+              "type": "cell",
+              "column": "取引種類"
+            },
+            "pattern": "ステーキング報酬"
+          },
+          {
+            "value": {
+              "type": "cell",
+              "column": "受渡日"
+            },
+            "pattern": {
+              "type": "defined"
+            }
+          },
+          {
+            "value": {
+              "type": "cell",
+              "column": "通貨コード１"
+            },
+            "pattern": {
+              "type": "defined"
+            }
+          },
+          {
+            "value": {
+              "type": "cell",
+              "column": "数量"
+            },
+            "pattern": {
+              "type": "defined"
+            }
+          }
+        ],
+        "generators": [
+          {
+            "type": "staking-reward",
+            "source": {
+              "type": "join",
+              "values": [
+                { "type": "service" },
+                "_",
+                { "type": "cell", "column": "受渡日" }
+              ]
+            },
+            "timestamp": {
+              "type": "cell",
+              "column": "受渡日"
+            },
+            "transfers": [
+              {
+                "direction": "in",
+                "amount": {
+                  "type": "text",
+                  "value": {
+                    "type": "cell",
+                    "column": "数量"
+                  }
+                },
+                "asset": {
+                  "type": "symbol",
+                  "value": {
+                    "type": "cell",
+                    "column": "通貨コード１"
+                  }
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "description": "入金 / 出金",
+        "conditions": [
+          {
+            "value": {
+              "type": "cell",
+              "column": "取引種類"
+            },
+            "pattern": {
+              "type": "in",
+              "values": ["入金", "出金"]
+            }
+          },
+          {
+            "value": {
+              "type": "cell",
+              "column": "受渡日"
+            },
+            "pattern": {
+              "type": "defined"
+            }
+          },
+          {
+            "value": {
+              "type": "cell",
+              "column": "通貨コード１"
+            },
+            "pattern": {
+              "type": "defined"
+            }
+          },
+          {
+            "value": {
+              "type": "cell",
+              "column": "円"
+            },
+            "pattern": {
+              "type": "defined"
+            }
+          }
+        ],
+        "generators": [
+          {
+            "type": "ignore",
+            "source": {
+              "type": "join",
+              "values": [
+                { "type": "service" },
+                "_",
+                { "type": "cell", "column": "受渡日" }
+              ]
+            },
+            "timestamp": {
+              "type": "cell",
+              "column": "受渡日"
+            },
+            "comment": {
+              "type": "join",
+              "values": [
+                "取引種類: ",
+                {
+                  "type": "cell",
+                  "column": "取引種類"
+                },
+                " / ",
+                {
+                  "type": "cell",
+                  "column": "円"
+                },
+                {
+                  "type": "cell",
+                  "column": "通貨コード１"
+                }
+              ]
+            },
+            "transfers": []
+          }
+        ]
+      },
+      {
+        "description": "預入 / 送付",
+        "conditions": [
+          {
+            "value": {
+              "type": "cell",
+              "column": "取引種類"
+            },
+            "pattern": {
+              "type": "in",
+              "values": ["預入", "送付"]
+            }
+          },
+          {
+            "value": {
+              "type": "cell",
+              "column": "受渡日"
+            },
+            "pattern": {
+              "type": "defined"
+            }
+          },
+          {
+            "value": {
+              "type": "cell",
+              "column": "通貨コード１"
+            },
+            "pattern": {
+              "type": "defined"
+            }
+          },
+          {
+            "value": {
+              "type": "cell",
+              "column": "数量"
+            },
+            "pattern": {
+              "type": "defined"
+            }
+          }
+        ],
+        "generators": [
+          {
+            "type": "ignore",
+            "source": {
+              "type": "join",
+              "values": [
+                { "type": "service" },
+                "_",
+                { "type": "cell", "column": "受渡日" }
+              ]
+            },
+            "timestamp": {
+              "type": "cell",
+              "column": "受渡日"
+            },
+            "comment": {
+              "type": "join",
+              "values": [
+                "取引種類: ",
+                {
+                  "type": "cell",
+                  "column": "取引種類"
+                },
+                " / ",
+                {
+                  "type": "cell",
+                  "column": "数量"
+                },
+                {
+                  "type": "cell",
+                  "column": "通貨コード１"
+                }
+              ]
+            },
+            "transfers": []
+          }
+        ]
+      }
+    ]
+  }
+}
