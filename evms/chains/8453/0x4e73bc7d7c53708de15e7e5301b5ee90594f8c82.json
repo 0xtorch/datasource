@@ -1,0 +1,5 @@
+{
+  "address": "0x4e73bc7d7c53708de15e7e5301b5ee90594f8c82",
+  "label": "Slakfldkdkdmdmdmdmdmdmddmdmdmdmdmf",
+  "abi": "[{\"inputs\":[],\"stateMutability\":\"nonpayable\",\"type\":\"constructor\"},{\"stateMutability\":\"payable\",\"type\":\"fallback\"},{\"inputs\":[],\"name\":\"implementation\",\"outputs\":[{\"internalType\":\"address\",\"name\":\"\",\"type\":\"address\"}],\"stateMutability\":\"view\",\"type\":\"function\"},{\"stateMutability\":\"payable\",\"type\":\"receive\"}]"
+}
