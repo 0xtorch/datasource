@@ -31,13 +31,13 @@
         ],
         "generators": [
           {
-            "type": "staking-reward",
+            "type": "interest",
             "source": {
               "type": "join",
               "values": [
                 { "type": "service" },
                 "_",
-                { "type": "cell", "column": "Date / Time (UTC)" }
+                { "type": "cell", "column": "Transaction" }
               ]
             },
             "timestamp": {
@@ -107,7 +107,7 @@
               "values": [
                 { "type": "service" },
                 "_",
-                { "type": "cell", "column": "Date / Time (UTC)" }
+                { "type": "cell", "column": "Transaction" }
               ]
             },
             "timestamp": {
@@ -155,7 +155,7 @@
               "values": [
                 { "type": "service" },
                 "_",
-                { "type": "cell", "column": "Date / Time (UTC)" }
+                { "type": "cell", "column": "Transaction" }
               ]
             },
             "timestamp": {
@@ -229,7 +229,7 @@
               "values": [
                 { "type": "service" },
                 "_",
-                { "type": "cell", "column": "Date / Time (UTC)" }
+                { "type": "cell", "column": "Transaction" }
               ]
             },
             "timestamp": {
@@ -285,13 +285,13 @@
         ],
         "generators": [
           {
-            "type": "gift",
+            "type": "cash-back",
             "source": {
               "type": "join",
               "values": [
                 { "type": "service" },
                 "_",
-                { "type": "cell", "column": "Date / Time (UTC)" }
+                { "type": "cell", "column": "Transaction" }
               ]
             },
             "timestamp": {
