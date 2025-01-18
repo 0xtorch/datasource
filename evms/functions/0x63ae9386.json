@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"contractAddress","internalType":"address payable","type":"address"},{"name":"data","internalType":"bytes","type":"bytes"}],"name":"dynamicCall","outputs":[],"stateMutability":"payable"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"masterCopy","internalType":"address","type":"address"},{"name":"initializer","internalType":"bytes","type":"bytes"},{"name":"saltNonce","internalType":"uint256","type":"uint256"}],"name":"deployModule","outputs":[{"name":"proxy","internalType":"address","type":"address"}],"stateMutability":"nonpayable"}]

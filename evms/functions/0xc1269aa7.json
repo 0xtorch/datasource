@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"controllerFrom","internalType":"address","type":"address"},{"name":"controllerTo","internalType":"address","type":"address"},{"name":"nftRecipient","internalType":"address","type":"address"}],"name":"changeController","outputs":[{"name":"","internalType":"uint256","type":"uint256"}],"stateMutability":"nonpayable"}]

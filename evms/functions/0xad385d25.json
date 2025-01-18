@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"maxPrice","internalType":"uint256","type":"uint256"},{"name":"midpoint","internalType":"uint256","type":"uint256"},{"name":"steepness","internalType":"uint256","type":"uint256"}],"name":"setCustomCurve","outputs":[],"stateMutability":"nonpayable"}]

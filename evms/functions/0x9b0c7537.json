@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"newAddress","internalType":"contract IZkLink","type":"address"}],"name":"changeZkLinkInstance","outputs":[],"stateMutability":"nonpayable"}]

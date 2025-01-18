@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"controller","internalType":"address","type":"address"}],"name":"getNftOwnerFromController","outputs":[{"name":"","internalType":"address","type":"address"}],"stateMutability":"view"}]

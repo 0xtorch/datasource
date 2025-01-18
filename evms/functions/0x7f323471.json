@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"data","internalType":"bytes[]","type":"bytes[]"},{"name":"signature","internalType":"bytes","type":"bytes"}],"name":"batchAcceptERC20","outputs":[],"stateMutability":"nonpayable"}]
