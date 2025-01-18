@@ -27,33 +27,6 @@
               "type": "in",
               "values": ["Interest", "Fixed Term Interest"]
             }
-          },
-          {
-            "value": {
-              "type": "cell",
-              "column": "Output Currency"
-            },
-            "pattern": {
-              "type": "defined"
-            }
-          },
-          {
-            "value": {
-              "type": "cell",
-              "column": "Output Amount"
-            },
-            "pattern": {
-              "type": "defined"
-            }
-          },
-          {
-            "value": {
-              "type": "cell",
-              "column": "Date / Time (UTC)"
-            },
-            "pattern": {
-              "type": "defined"
-            }
           }
         ],
         "generators": [
@@ -113,42 +86,6 @@
                 "Transfer To Pro Wallet"
               ]
             }
-          },
-          {
-            "value": {
-              "type": "cell",
-              "column": "Output Currency"
-            },
-            "pattern": {
-              "type": "defined"
-            }
-          },
-          {
-            "value": {
-              "type": "cell",
-              "column": "Output Amount"
-            },
-            "pattern": {
-              "type": "defined"
-            }
-          },
-          {
-            "value": {
-              "type": "cell",
-              "column": "Details"
-            },
-            "pattern": {
-              "type": "defined"
-            }
-          },
-          {
-            "value": {
-              "type": "cell",
-              "column": "Date / Time (UTC)"
-            },
-            "pattern": {
-              "type": "defined"
-            }
           }
         ],
         "generators": [
@@ -196,51 +133,6 @@
                 "Exchange Deposited On",
                 "Exchange Collateral"
               ]
-            }
-          },
-          {
-            "value": {
-              "type": "cell",
-              "column": "Input Currency"
-            },
-            "pattern": {
-              "type": "defined"
-            }
-          },
-          {
-            "value": {
-              "type": "cell",
-              "column": "Input Amount"
-            },
-            "pattern": {
-              "type": "defined"
-            }
-          },
-          {
-            "value": {
-              "type": "cell",
-              "column": "Output Currency"
-            },
-            "pattern": {
-              "type": "defined"
-            }
-          },
-          {
-            "value": {
-              "type": "cell",
-              "column": "Output Amount"
-            },
-            "pattern": {
-              "type": "defined"
-            }
-          },
-          {
-            "value": {
-              "type": "cell",
-              "column": "Date / Time (UTC)"
-            },
-            "pattern": {
-              "type": "defined"
             }
           }
         ],
@@ -308,50 +200,13 @@
             },
             "pattern": "Deposit To Exchange"
           },
-
-          {
-            "value": {
-              "type": "cell",
-              "column": "Input Currency"
-            },
-            "pattern": {
-              "type": "defined"
-            }
-          },
-          {
-            "value": {
-              "type": "cell",
-              "column": "Input Amount"
-            },
-            "pattern": {
-              "type": "defined"
-            }
-          },
           {
             "value": {
               "type": "cell",
               "column": "Fee"
             },
             "pattern": {
-              "type": "defined"
-            }
-          },
-          {
-            "value": {
-              "type": "cell",
-              "column": "Fee Currency"
-            },
-            "pattern": {
-              "type": "defined"
-            }
-          },
-          {
-            "value": {
-              "type": "cell",
-              "column": "Date / Time (UTC)"
-            },
-            "pattern": {
-              "type": "defined"
+              "type": "positive"
             }
           }
         ],
@@ -401,33 +256,6 @@
               "column": "Type"
             },
             "pattern": "Exchange Cashback"
-          },
-          {
-            "value": {
-              "type": "cell",
-              "column": "Output Currency"
-            },
-            "pattern": {
-              "type": "defined"
-            }
-          },
-          {
-            "value": {
-              "type": "cell",
-              "column": "Output Amount"
-            },
-            "pattern": {
-              "type": "defined"
-            }
-          },
-          {
-            "value": {
-              "type": "cell",
-              "column": "Date / Time (UTC)"
-            },
-            "pattern": {
-              "type": "defined"
-            }
           }
         ],
         "generators": [
