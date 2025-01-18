@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"sharesSubject","internalType":"address","type":"address"},{"name":"recipient","internalType":"address","type":"address"},{"name":"nftRecipient","internalType":"address","type":"address"},{"name":"initalMonths","internalType":"uint256","type":"uint256"}],"name":"startSubscription","outputs":[],"stateMutability":"payable"}]

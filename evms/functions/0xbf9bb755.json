@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"sharesSubject","internalType":"address","type":"address"},{"name":"subscriber","internalType":"address","type":"address"},{"name":"months","internalType":"uint256","type":"uint256"}],"name":"getSubPaymentPriceAfterFee","outputs":[{"name":"","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

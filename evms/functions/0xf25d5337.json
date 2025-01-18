@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"sharesSubject","internalType":"address","type":"address"},{"name":"newSubscriber","internalType":"address","type":"address"},{"name":"nftRecipient","internalType":"address","type":"address"}],"name":"transferSubscription","outputs":[],"stateMutability":"nonpayable"}]
