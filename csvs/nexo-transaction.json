@@ -44,6 +44,17 @@
               "type": "cell",
               "column": "Date / Time (UTC)"
             },
+            "comment": {
+              "type": "join",
+              "values": [
+                { "type": "cell", "column": "Type" },
+                ": ",
+                { "type": "cell", "column": "Output Amount" },
+                { "type": "cell", "column": "Output Currency" },
+                " / ",
+                { "type": "cell", "column": "Details" }
+              ]
+            },
             "transfers": [
               {
                 "direction": "in",
@@ -224,6 +235,20 @@
             "timestamp": {
               "type": "cell",
               "column": "Date / Time (UTC)"
+            },
+            "comment": {
+              "type": "join",
+              "values": [
+                { "type": "cell", "column": "Type" },
+                ": ",
+                { "type": "cell", "column": "Output Amount" },
+                { "type": "cell", "column": "Output Currency" },
+                " / Fee: ",
+                { "type": "cell", "column": "Fee" },
+                { "type": "cell", "column": "Fee Currency" },
+                " / ",
+                { "type": "cell", "column": "Details" }
+              ]
             },
             "transfers": [
               {

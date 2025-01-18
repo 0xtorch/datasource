@@ -5,6 +5,7 @@
     "type": "staking-reward",
     "timestamp": 1706940000000,
     "evidence": "system-rule",
+    "comment": "Interest: \"0.15900773\"NEXO / approved / 0.078299439032557460 ARB",
     "transfers": [
       {
         "direction": "in",
@@ -89,6 +90,7 @@
     "type": "fee",
     "timestamp": 1683604502000,
     "evidence": "system-rule",
+    "comment": "Deposit To Exchange: \"100\"USDX / Fee: 3.49000000USD / approved / USD Top Up",
     "transfers": [
       {
         "direction": "out",
@@ -152,6 +154,7 @@
     "type": "staking-reward",
     "timestamp": 1703916000000,
     "evidence": "system-rule",
+    "comment": "Fixed Term Interest: \"0.00136855\"BTC / approved / Term Deposit Interest",
     "transfers": [
       {
         "direction": "in",
