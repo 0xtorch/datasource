@@ -9,9 +9,9 @@
     "通貨コード１": ["blank", "string"],
     "通貨コード２": ["blank", "string"],
     "売買": ["blank", "string"],
-    "参考単価": ["blank", "big-decimal"],
-    "数量": ["blank", "big-decimal"],
-    "約定番号": ["blank", "big-decimal"],
+    "参考単価": ["blank", "big-decimal-positive"],
+    "数量": ["blank", "big-decimal-positive"],
+    "約定番号": ["blank", "big-decimal-positive"],
     "円": ["blank", "big-decimal"],
     "手数料": ["blank", "big-decimal"]
   },
@@ -20,6 +20,15 @@
       {
         "description": "現物取引",
         "conditions": [
+          {
+            "value": {
+              "type": "cell",
+              "column": "約定日時"
+            },
+            "pattern": {
+              "type": "defined"
+            }
+          },
           {
             "value": {
               "type": "cell",
@@ -33,24 +42,9 @@
               "column": "売買"
             },
             "pattern": {
-              "type": "defined"
+              "type": "in",
+              "values": ["買", "売"]
             }
-          },
-          {
-            "value": {
-              "type": "cell",
-              "column": "通貨コード１"
-            },
-            "pattern": {
-              "type": "defined"
-            }
-          },
-          {
-            "value": {
-              "type": "cell",
-              "column": "通貨コード２"
-            },
-            "pattern": "JPY"
           },
           {
             "value": {
@@ -58,7 +52,7 @@
               "column": "数量"
             },
             "pattern": {
-              "type": "defined"
+              "type": "positive"
             }
           },
           {
@@ -196,28 +190,10 @@
           {
             "value": {
               "type": "cell",
-              "column": "受渡日"
-            },
-            "pattern": {
-              "type": "defined"
-            }
-          },
-          {
-            "value": {
-              "type": "cell",
-              "column": "通貨コード１"
-            },
-            "pattern": {
-              "type": "defined"
-            }
-          },
-          {
-            "value": {
-              "type": "cell",
               "column": "数量"
             },
             "pattern": {
-              "type": "defined"
+              "type": "positive"
             }
           }
         ],
@@ -269,24 +245,6 @@
             "pattern": {
               "type": "in",
               "values": ["入金", "出金"]
-            }
-          },
-          {
-            "value": {
-              "type": "cell",
-              "column": "受渡日"
-            },
-            "pattern": {
-              "type": "defined"
-            }
-          },
-          {
-            "value": {
-              "type": "cell",
-              "column": "通貨コード１"
-            },
-            "pattern": {
-              "type": "defined"
             }
           },
           {
@@ -353,28 +311,10 @@
           {
             "value": {
               "type": "cell",
-              "column": "受渡日"
-            },
-            "pattern": {
-              "type": "defined"
-            }
-          },
-          {
-            "value": {
-              "type": "cell",
-              "column": "通貨コード１"
-            },
-            "pattern": {
-              "type": "defined"
-            }
-          },
-          {
-            "value": {
-              "type": "cell",
               "column": "数量"
             },
             "pattern": {
-              "type": "defined"
+              "type": "positive"
             }
           }
         ],
