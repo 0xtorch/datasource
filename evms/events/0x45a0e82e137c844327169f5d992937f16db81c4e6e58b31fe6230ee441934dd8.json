@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"oldSeries","internalType":"string","type":"string","indexed":false},{"name":"newSeries","internalType":"string","type":"string","indexed":false}],"name":"SeriesUpdated"}]

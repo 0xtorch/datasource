@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"tokenId","internalType":"uint256","type":"uint256","indexed":true},{"name":"oldEns","internalType":"string","type":"string","indexed":false},{"name":"newEns","internalType":"string","type":"string","indexed":false}],"name":"EnsUpdated"}]
