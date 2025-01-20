@@ -1,5 +1,5 @@
 {
-  "id": "next-transaction",
+  "id": "nexo-transaction",
   "service": "nexo",
   "formatter": {
     "Transaction": ["string"],
