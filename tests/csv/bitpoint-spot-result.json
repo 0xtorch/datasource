@@ -20,14 +20,10 @@
         "asset": {
           "type": "CryptoCurrency",
           "id": "cardano",
-          "name": "Cardano",
-          "symbol": "ada",
-          "icon": "https://coin-images.coingecko.com/coins/images/975/large/cardano.png?1696502090",
-          "market": {
-            "coingeckoId": "cardano",
-            "marketCapUsd": 12564708683
-          },
-          "updatedAt": 1728782536762
+          "name": "cardano",
+          "symbol": "CARDANO",
+
+          "updatedAt": 0
         },
         "amount": "16337.199803"
       },
@@ -55,14 +51,10 @@
         "asset": {
           "type": "CryptoCurrency",
           "id": "cardano",
-          "name": "Cardano",
-          "symbol": "ada",
-          "icon": "https://coin-images.coingecko.com/coins/images/975/large/cardano.png?1696502090",
-          "market": {
-            "coingeckoId": "cardano",
-            "marketCapUsd": 12564708683
-          },
-          "updatedAt": 1728782536762
+          "name": "cardano",
+          "symbol": "CARDANO",
+
+          "updatedAt": 0
         },
         "amount": "1.559269"
       }
@@ -107,15 +99,10 @@
         "direction": "out",
         "asset": {
           "type": "CryptoCurrency",
-          "id": "oshi",
-          "name": "OSHI",
-          "symbol": "oshi",
-          "icon": "missing_large.png",
-          "market": {
-            "coingeckoId": "oshi",
-            "marketCapUsd": 681532
-          },
-          "updatedAt": 1728782536762
+          "id": "phantom-of-the-kill-alternative-imitation-oshi",
+          "name": "phantom-of-the-kill-alternative-imitation-oshi",
+          "symbol": "PHANTOM-OF-THE-KILL-ALTERNATIVE-IMITATION-OSHI",
+          "updatedAt": 0
         },
         "amount": "1.0"
       }
@@ -129,5 +116,55 @@
     "evidence": "system-rule",
     "comment": "取引種類: 出金 / \"-2577646\"JPY",
     "transfers": []
+  },
+  {
+    "source": "bitpoint-spot_1733721033000",
+    "order": 0,
+    "type": "transfer",
+    "timestamp": 1733721033000,
+    "evidence": "system-rule",
+    "transfers": [
+      {
+        "direction": "out",
+        "asset": {
+          "type": "CryptoCurrency",
+          "id": "captain-tsubasa",
+          "name": "captain-tsubasa",
+          "symbol": "CAPTAIN-TSUBASA",
+          "updatedAt": 0
+        },
+        "amount": "1"
+      }
+    ]
+  },
+  {
+    "source": "bitpoint-spot_1733721049000",
+    "order": 0,
+    "type": "trade",
+    "timestamp": 1733721049000,
+    "evidence": "system-rule",
+    "transfers": [
+      {
+        "direction": "in",
+        "asset": {
+          "type": "FiatCurrency",
+          "id": "jpy",
+          "name": "Japanese Yen",
+          "symbol": "JPY"
+        },
+        "amount": "252"
+      },
+      {
+        "direction": "out",
+        "asset": {
+          "type": "CryptoCurrency",
+          "id": "jasmycoin",
+          "name": "jasmycoin",
+          "symbol": "JASMYCOIN",
+          "updatedAt": 0
+        },
+        "amount": "37.29075226"
+      }
+    ]
   }
 ]
