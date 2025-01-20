@@ -88,14 +88,17 @@
         ]
       },
       {
-        "description": "キャンペーン > gift (手数料=0)",
+        "description": "キャンペーン / 友達紹介 > gift (手数料=0)",
         "conditions": [
           {
             "value": {
               "type": "cell",
               "column": "入出金内容"
             },
-            "pattern": "キャンペーン"
+            "pattern": {
+              "type": "in",
+              "values": ["キャンペーン", "友達紹介"]
+            }
           },
           {
             "value": {
@@ -299,6 +302,162 @@
               ]
             },
             "transfers": []
+          }
+        ]
+      },
+      {
+        "description": "調整 > gift (数量>0)",
+        "conditions": [
+          {
+            "value": {
+              "type": "cell",
+              "column": "入出金内容"
+            },
+            "pattern": "調整"
+          },
+          {
+            "value": {
+              "type": "cell",
+              "column": "数量"
+            },
+            "pattern": {
+              "type": "positive"
+            }
+          }
+        ],
+        "generators": [
+          {
+            "type": "gift",
+            "source": {
+              "type": "join",
+              "values": [
+                { "type": "service" },
+                "_withdrawal_",
+                {
+                  "type": "cell",
+                  "column": "入出金ID"
+                }
+              ]
+            },
+            "timestamp": {
+              "type": "cell",
+              "column": "日時"
+            },
+            "comment": {
+              "type": "join",
+              "values": [
+                {
+                  "type": "cell",
+                  "column": "入出金内容"
+                },
+                ": ",
+                {
+                  "type": "cell",
+                  "column": "数量"
+                },
+                {
+                  "type": "cell",
+                  "column": "資産"
+                }
+              ]
+            },
+            "transfers": [
+              {
+                "direction": "in",
+                "amount": {
+                  "type": "text",
+                  "value": {
+                    "type": "cell",
+                    "column": "数量"
+                  }
+                },
+                "asset": {
+                  "type": "symbol",
+                  "value": {
+                    "type": "cell",
+                    "column": "資産"
+                  }
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "description": "調整 > fee (数量<0)",
+        "conditions": [
+          {
+            "value": {
+              "type": "cell",
+              "column": "入出金内容"
+            },
+            "pattern": "調整"
+          },
+          {
+            "value": {
+              "type": "cell",
+              "column": "数量"
+            },
+            "pattern": {
+              "type": "negative"
+            }
+          }
+        ],
+        "generators": [
+          {
+            "type": "fee",
+            "source": {
+              "type": "join",
+              "values": [
+                { "type": "service" },
+                "_withdrawal_",
+                {
+                  "type": "cell",
+                  "column": "入出金ID"
+                }
+              ]
+            },
+            "timestamp": {
+              "type": "cell",
+              "column": "日時"
+            },
+            "comment": {
+              "type": "join",
+              "values": [
+                {
+                  "type": "cell",
+                  "column": "入出金内容"
+                },
+                ": ",
+                {
+                  "type": "cell",
+                  "column": "数量"
+                },
+                {
+                  "type": "cell",
+                  "column": "資産"
+                }
+              ]
+            },
+            "transfers": [
+              {
+                "direction": "out",
+                "amount": {
+                  "type": "text",
+                  "value": {
+                    "type": "cell",
+                    "column": "数量"
+                  }
+                },
+                "asset": {
+                  "type": "symbol",
+                  "value": {
+                    "type": "cell",
+                    "column": "資産"
+                  }
+                }
+              }
+            ]
           }
         ]
       }
