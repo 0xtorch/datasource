@@ -1,5 +1,28 @@
 [
   {
+    "source": "gate-future-action_future-action_1709136000000",
+    "order": 0,
+    "type": "derivative-fee",
+    "timestamp": 1709136000000,
+    "evidence": "system-rule",
+    "comment": "contacts: ETH_USDT / Action Type: 資金調達 / Change: -0.03861112 USDT",
+    "transfers": [
+      {
+        "direction": "out",
+        "asset": {
+          "type": "CryptoCurrency",
+          "id": "tether",
+          "name": "Tether",
+          "symbol": "usdt",
+          "icon": "https://coin-images.coingecko.com/coins/images/325/large/Tether.png?1696501661",
+          "market": { "coingeckoId": "tether", "marketCapUsd": 119675340267 },
+          "updatedAt": 1728782536762
+        },
+        "amount": "0.03861112"
+      }
+    ]
+  },
+  {
     "source": "gate-future-action_future-action_1709098968000",
     "order": 0,
     "type": "realize-loss",
@@ -42,6 +65,29 @@
           "updatedAt": 1728782536762
         },
         "amount": "0.96300105"
+      }
+    ]
+  },
+  {
+    "source": "gate-future-action_future-action_1708214400000",
+    "order": 0,
+    "type": "derivative-profit",
+    "timestamp": 1708214400000,
+    "evidence": "system-rule",
+    "comment": "contacts: ETH_USDT / Action Type: 資金調達 / Change: 1.39281000 USDT",
+    "transfers": [
+      {
+        "direction": "in",
+        "asset": {
+          "type": "CryptoCurrency",
+          "id": "tether",
+          "name": "Tether",
+          "symbol": "usdt",
+          "icon": "https://coin-images.coingecko.com/coins/images/325/large/Tether.png?1696501661",
+          "market": { "coingeckoId": "tether", "marketCapUsd": 119675340267 },
+          "updatedAt": 1728782536762
+        },
+        "amount": "1.39281"
       }
     ]
   },
@@ -93,6 +139,15 @@
     "timestamp": 1704875405000,
     "evidence": "system-rule",
     "comment": "contacts: 33306934\t / Action Type: 入出金 / Change: 3009.42000000 USDT",
+    "transfers": []
+  },
+  {
+    "source": "gate-future-action_future-action_1704812765000",
+    "order": 0,
+    "type": "ignore",
+    "timestamp": 1704812765000,
+    "evidence": "system-rule",
+    "comment": "contacts: ETH_USDT / Action Type: 先物トライアル資金のクレジット / Change: -0.25939140 USDT",
     "transfers": []
   },
   {
