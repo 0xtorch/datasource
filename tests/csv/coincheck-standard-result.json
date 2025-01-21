@@ -192,5 +192,23 @@
         "amount": "0.01"
       }
     ]
+  },
+  {
+    "source": "coincheck-standard_1731374510000",
+    "order": 0,
+    "type": "ignore",
+    "timestamp": 1731374510000,
+    "evidence": "system-rule",
+    "comment": "Coincheckつみたてから取引アカウントへの振替",
+    "transfers": []
+  },
+  {
+    "source": "coincheck-standard_1731374510000",
+    "order": 1,
+    "type": "ignore",
+    "timestamp": 1731374510000,
+    "evidence": "system-rule",
+    "comment": "Coincheckつみたてから取引アカウントへの振替",
+    "transfers": []
   }
 ]

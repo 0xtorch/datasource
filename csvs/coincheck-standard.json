@@ -131,7 +131,7 @@
             },
             "pattern": {
               "type": "in",
-              "values": ["受取", "ハードフォーク", "受取利息", "その他"]
+              "values": ["受取", "ハードフォーク", "受取利息"]
             }
           },
           {
@@ -484,6 +484,46 @@
                 " / 備考: ",
                 { "type": "cell", "column": "備考" }
               ]
+            },
+            "transfers": []
+          }
+        ]
+      },
+      {
+        "conditions": [
+          {
+            "value": {
+              "type": "cell",
+              "column": "取引種別"
+            },
+            "pattern": "その他"
+          },
+          {
+            "value": {
+              "type": "cell",
+              "column": "備考"
+            },
+            "pattern": "Coincheckつみたてから取引アカウントへの振替"
+          }
+        ],
+        "generators": [
+          {
+            "type": "ignore",
+            "source": {
+              "type": "join",
+              "values": [
+                { "type": "service" },
+                "_",
+                { "type": "cell", "column": "取引日時" }
+              ]
+            },
+            "timestamp": {
+              "type": "cell",
+              "column": "取引日時"
+            },
+            "comment": {
+              "type": "cell",
+              "column": "備考"
             },
             "transfers": []
           }
