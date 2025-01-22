@@ -565,7 +565,9 @@
                 "trans_from_exchange",
                 "trans_to_exchange",
                 "trans_from_otc",
-                "trans_to_otc"
+                "trans_to_otc",
+                "trans_from_contract",
+                "trans_to_contract"
               ]
             }
           }
