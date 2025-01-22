@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"trader","internalType":"address","type":"address"},{"name":"perp","internalType":"address","type":"address"}],"name":"getLiquidationPrice","outputs":[{"name":"liquidationPrice","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

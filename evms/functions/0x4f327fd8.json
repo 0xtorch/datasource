@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_helpers","internalType":"address[]","type":"address[]"},{"name":"_status","internalType":"bool","type":"bool"}],"name":"setWhitelistedHelpers","outputs":[],"stateMutability":"nonpayable"}]

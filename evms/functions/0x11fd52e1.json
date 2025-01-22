@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"liquidatedTrader","internalType":"address","type":"address"}],"name":"handleBadDebt","outputs":[],"stateMutability":"nonpayable"}]

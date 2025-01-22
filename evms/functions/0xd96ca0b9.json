@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"from_","internalType":"address","type":"address"},{"name":"to_","internalType":"address","type":"address"},{"name":"value_","internalType":"uint256","type":"uint256"}],"name":"erc20TransferFrom","outputs":[{"name":"","internalType":"bool","type":"bool"}],"stateMutability":"nonpayable"}]

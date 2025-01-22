@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[],"name":"getPreviousEpoch","outputs":[{"name":"","internalType":"bytes","type":"bytes"},{"name":"","internalType":"uint8","type":"uint8"},{"name":"","internalType":"uint32","type":"uint32"}],"stateMutability":"view"}]

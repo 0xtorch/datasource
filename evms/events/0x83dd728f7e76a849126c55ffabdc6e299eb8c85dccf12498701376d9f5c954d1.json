@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"oldPriorityTxMaxGasLimit","internalType":"uint256","type":"uint256","indexed":false},{"name":"newPriorityTxMaxGasLimit","internalType":"uint256","type":"uint256","indexed":false}],"name":"NewPriorityTxMaxGasLimit"}]

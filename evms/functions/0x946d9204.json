@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_owner","internalType":"address","type":"address"},{"name":"_initialVerifiers","internalType":"address[]","type":"address[]"}],"name":"initialize","outputs":[],"stateMutability":"nonpayable"}]

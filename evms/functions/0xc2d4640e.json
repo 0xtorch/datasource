@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"newLiquidityShare","internalType":"uint256","type":"uint256"},{"name":"newMarketingShare","internalType":"uint256","type":"uint256"},{"name":"newTeamShare","internalType":"uint256","type":"uint256"}],"name":"setDistributionSettings","outputs":[],"stateMutability":"nonpayable"}]

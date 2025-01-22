@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_tokenId","internalType":"uint256","type":"uint256"},{"name":"_mintCost","internalType":"uint256","type":"uint256"},{"name":"_maxSupply","internalType":"uint256","type":"uint256"},{"name":"_mintLimit","internalType":"uint256","type":"uint256"}],"name":"setSalesInfo","outputs":[],"stateMutability":"nonpayable"}]

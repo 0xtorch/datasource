@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"traderList","internalType":"address[]","type":"address[]"}],"name":"isAllSafe","outputs":[{"name":"safe","internalType":"bool","type":"bool"}],"stateMutability":"view"}]

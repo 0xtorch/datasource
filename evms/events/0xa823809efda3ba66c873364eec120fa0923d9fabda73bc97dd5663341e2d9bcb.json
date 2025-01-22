@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"sourceChainSelector","internalType":"uint64","type":"uint64","indexed":true},{"name":"offRamp","internalType":"address","type":"address","indexed":false}],"name":"OffRampRemoved"}]

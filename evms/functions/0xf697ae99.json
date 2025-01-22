@@ -1,0 +1,1 @@
+[{"type":"function","constant":false,"inputs":[{"name":"_caller","internalType":"address","type":"address"},{"name":"_isAuthorized","internalType":"bool","type":"bool"}],"name":"setIsCallerAuthorized","outputs":[],"payable":false,"stateMutability":"nonpayable"}]

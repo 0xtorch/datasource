@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[],"name":"getMintLimitInfo","outputs":[{"name":"currentLimit","internalType":"uint256","type":"uint256"},{"name":"rate","internalType":"uint256","type":"uint256"},{"name":"maximum","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"from","internalType":"address","type":"address"},{"name":"primaryAmount","internalType":"uint256","type":"uint256"},{"name":"secondaryAmount","internalType":"uint256","type":"uint256"}],"name":"getRequestWithdrawCallData","outputs":[{"name":"","internalType":"bytes","type":"bytes"}],"stateMutability":"pure"}]

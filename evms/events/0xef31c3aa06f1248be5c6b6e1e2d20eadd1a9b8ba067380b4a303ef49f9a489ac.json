@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"tokenIn","internalType":"address","type":"address","indexed":false},{"name":"l1TokenIn","internalType":"address","type":"address","indexed":false}],"name":"L1TokenInSet"}]

@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"oldSanctionsList","internalType":"address","type":"address","indexed":false},{"name":"newSanctionsList","internalType":"address","type":"address","indexed":false}],"name":"SanctionsListSet"}]

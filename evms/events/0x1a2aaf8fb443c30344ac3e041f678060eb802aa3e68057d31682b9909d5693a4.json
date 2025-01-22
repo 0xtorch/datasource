@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"tokenConverter","internalType":"address","type":"address","indexed":true},{"name":"isTrusted","internalType":"bool","type":"bool","indexed":false}],"name":"TokenConverterSet"}]

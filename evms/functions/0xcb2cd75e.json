@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"newWhitelistroot","internalType":"bytes32","type":"bytes32"},{"name":"_vipId","internalType":"uint256","type":"uint256"}],"name":"setWhitelistRoot","outputs":[],"stateMutability":"nonpayable"}]

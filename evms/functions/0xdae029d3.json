@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"transaction","internalType":"bytes","type":"bytes"}],"name":"decodeTx","outputs":[{"name":"","internalType":"uint8","type":"uint8"},{"name":"","internalType":"bytes","type":"bytes"}],"stateMutability":"pure"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"users","internalType":"struct GiftToken.Receivers[]","type":"tuple[]","components":[{"name":"wallet","internalType":"address","type":"address"},{"name":"amount","internalType":"uint256","type":"uint256"}]}],"name":"multiSend","outputs":[],"stateMutability":"nonpayable"}]

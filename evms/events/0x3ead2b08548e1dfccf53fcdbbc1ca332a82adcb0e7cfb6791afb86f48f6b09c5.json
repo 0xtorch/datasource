@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"receipttoken","internalType":"address","type":"address","indexed":true},{"name":"_managerRecievedFee","internalType":"uint256","type":"uint256","indexed":false}],"name":"StreamingFeeActualized"}]

@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"batchNumber","internalType":"uint256","type":"uint256","indexed":true},{"name":"batchHash","internalType":"bytes32","type":"bytes32","indexed":true},{"name":"commitment","internalType":"bytes32","type":"bytes32","indexed":true}],"name":"BlockCommit"}]

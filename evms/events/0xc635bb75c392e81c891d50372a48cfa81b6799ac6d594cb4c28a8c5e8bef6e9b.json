@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"state","internalType":"enum IBridgeV2.State","type":"uint8","indexed":false}],"name":"StateSet"}]

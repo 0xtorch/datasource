@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"token","internalType":"address","type":"address"}],"name":"supportedTokenOracle","outputs":[{"name":"oracle","internalType":"address","type":"address"}],"stateMutability":"view"}]

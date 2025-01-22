@@ -1,0 +1,1 @@
+[{"type":"function","constant":false,"inputs":[{"name":"autoTrader","internalType":"address","type":"address"},{"name":"special","internalType":"bool","type":"bool"}],"name":"ownerSetAutoTraderSpecial","outputs":[],"payable":false,"stateMutability":"nonpayable"}]

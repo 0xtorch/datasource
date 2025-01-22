@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"vaultAccountsArray","internalType":"struct VaultAccounts[]","type":"tuple[]","components":[{"name":"vaultAddress","internalType":"address","type":"address"},{"name":"accounts","internalType":"address[]","type":"address[]"}]}],"name":"settleVaultsAccounts","outputs":[],"stateMutability":"nonpayable"}]

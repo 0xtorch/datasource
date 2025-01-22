@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"chain","internalType":"string","type":"string"}],"name":"trustedAddressHash","outputs":[{"name":"trustedAddressHash_","internalType":"bytes32","type":"bytes32"}],"stateMutability":"view"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"target","internalType":"address","type":"address"},{"name":"isValid","internalType":"bool","type":"bool"}],"name":"setFastWithdrawalWhitelist","outputs":[],"stateMutability":"nonpayable"}]

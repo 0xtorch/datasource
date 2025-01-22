@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_newPriorityTxMaxGasLimit","internalType":"uint256","type":"uint256"}],"name":"setPriorityTxMaxGasLimit","outputs":[],"stateMutability":"nonpayable"}]

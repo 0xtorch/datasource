@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"feeMain0","internalType":"uint256","type":"uint256","indexed":false},{"name":"feeMain1","internalType":"uint256","type":"uint256","indexed":false},{"name":"feeAlt0","internalType":"uint256","type":"uint256","indexed":false},{"name":"feeAlt1","internalType":"uint256","type":"uint256","indexed":false}],"name":"ClaimedFees"}]

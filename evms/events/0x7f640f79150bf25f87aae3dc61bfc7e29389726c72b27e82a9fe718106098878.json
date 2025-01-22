@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"_newvlRdp","internalType":"address","type":"address","indexed":false},{"name":"_oldvlRdp","internalType":"address","type":"address","indexed":false}],"name":"vlRdpUpdated"}]

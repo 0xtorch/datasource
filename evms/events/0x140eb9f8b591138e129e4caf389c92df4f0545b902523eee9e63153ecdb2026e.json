@@ -1,1 +1,1 @@
-[{"type":"event","anonymous":false,"inputs":[{"name":"paused","type":"bool","indexed":false}],"name":"SetPause"}]
+[{"type":"event","anonymous":false,"inputs":[{"name":"paused","type":"bool","indexed":false}],"name":"SetPause"},{"type":"event","anonymous":false,"inputs":[{"name":"isPause","internalType":"bool","type":"bool","indexed":true}],"name":"SetPause"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"trader","internalType":"address","type":"address"}],"name":"isSafe","outputs":[{"name":"safe","internalType":"bool","type":"bool"}],"stateMutability":"view"}]

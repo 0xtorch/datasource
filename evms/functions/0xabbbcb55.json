@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_radiantVestingCoolDownDays","internalType":"uint256","type":"uint256"},{"name":"_radinatVestingDays","internalType":"uint256","type":"uint256"}],"name":"updateVestingTimePeriodData","outputs":[],"stateMutability":"nonpayable"}]

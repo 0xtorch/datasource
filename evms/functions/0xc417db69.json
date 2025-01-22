@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"account","internalType":"address","type":"address"}],"name":"getRerferrers","outputs":[{"name":"referrer1","internalType":"address","type":"address"},{"name":"referrer2","internalType":"address","type":"address"}],"stateMutability":"view"}]

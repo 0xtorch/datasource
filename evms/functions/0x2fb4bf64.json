@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_mode","internalType":"uint16","type":"uint16"},{"name":"_viewer","internalType":"address","type":"address"}],"name":"createPos","outputs":[{"name":"posId","internalType":"uint256","type":"uint256"},{"name":"initPosId","internalType":"uint256","type":"uint256"}],"stateMutability":"nonpayable"}]

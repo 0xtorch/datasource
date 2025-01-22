@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"currentPrice","internalType":"uint128","type":"uint128"},{"name":"AIPrice","internalType":"uint128","type":"uint128"}],"name":"genesisLockRound","outputs":[],"stateMutability":"nonpayable"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[],"name":"getBorrowRate_e18","outputs":[{"name":"borrowRate_e18","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

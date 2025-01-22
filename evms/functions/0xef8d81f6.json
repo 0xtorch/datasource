@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"boostedPosition","internalType":"contract IMaverickV2BoostedPosition","type":"address"}],"name":"migrateBoostedPosition","outputs":[],"stateMutability":"payable"}]

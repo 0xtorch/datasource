@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_tokenConverter","internalType":"address","type":"address"},{"name":"_isTrusted","internalType":"bool","type":"bool"}],"name":"ownerSetIsTokenConverterTrusted","outputs":[],"stateMutability":"nonpayable"}]

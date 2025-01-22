@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"vipPassId","internalType":"uint256","type":"uint256"},{"name":"price","internalType":"uint256","type":"uint256"},{"name":"limit","internalType":"uint256","type":"uint256"},{"name":"isWhitelist","internalType":"bool","type":"bool"}],"name":"setVIPPASS","outputs":[],"stateMutability":"nonpayable"}]

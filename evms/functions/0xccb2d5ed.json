@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"account","internalType":"address","type":"address"},{"name":"nToken","internalType":"address","type":"address"},{"name":"accountToNToken","internalType":"int256","type":"int256"},{"name":"cashToReserve","internalType":"uint256","type":"uint256"}],"name":"emitfCashTradeTransfers","outputs":[],"stateMutability":"nonpayable"}]

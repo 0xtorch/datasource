@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_value","internalType":"struct TukuruERC1155.WithdrawSetting[]","type":"tuple[]","components":[{"name":"receiver","internalType":"address","type":"address"},{"name":"ratio","internalType":"uint256","type":"uint256"}]}],"name":"setWithdrawSettings","outputs":[],"stateMutability":"nonpayable"}]

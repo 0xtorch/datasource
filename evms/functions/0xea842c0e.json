@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"apePriceFeed_","internalType":"uint256","type":"uint256"},{"name":"tavaPriceFeed_","internalType":"uint256","type":"uint256"}],"name":"updatePriceFeeds","outputs":[],"stateMutability":"nonpayable"}]

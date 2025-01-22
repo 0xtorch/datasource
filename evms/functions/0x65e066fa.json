@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"baseAddress","internalType":"address","type":"address"},{"name":"quoteAddress","internalType":"address","type":"address"},{"name":"swap","internalType":"address","type":"address"}],"name":"addSwap","outputs":[],"stateMutability":"nonpayable"}]

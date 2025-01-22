@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"imm","internalType":"contract IMoneyMarket","type":"address"}],"name":"registerMoneyMarket","outputs":[],"stateMutability":"nonpayable"}]

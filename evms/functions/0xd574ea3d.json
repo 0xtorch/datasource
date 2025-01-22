@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"","internalType":"uint256","type":"uint256"}],"name":"strategies","outputs":[{"name":"","internalType":"contract IPayBack","type":"address"}],"stateMutability":"view"}]

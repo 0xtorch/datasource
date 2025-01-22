@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"baseAddress","internalType":"address","type":"address"},{"name":"quoteAddress","internalType":"address","type":"address"}],"name":"getSwap","outputs":[{"name":"","internalType":"contract IStableSwap","type":"address"}],"stateMutability":"view"}]

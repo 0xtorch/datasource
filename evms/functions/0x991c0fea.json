@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"transferAdapterAddress","internalType":"address","type":"address"}],"name":"setTransferAdapterAddress","outputs":[],"stateMutability":"nonpayable"}]

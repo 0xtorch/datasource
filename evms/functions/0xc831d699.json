@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"fromLp","internalType":"address","type":"address"},{"name":"toLp","internalType":"address","type":"address"},{"name":"toAmount","internalType":"uint256","type":"uint256"}],"name":"checkRiskProfile","outputs":[{"name":"","internalType":"bool","type":"bool"}],"stateMutability":"view"}]

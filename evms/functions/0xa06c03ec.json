@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"","internalType":"address","type":"address"}],"name":"_addressDetail","outputs":[{"name":"WLBalance","internalType":"uint256","type":"uint256"},{"name":"PBBalance","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

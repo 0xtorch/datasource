@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"amount","internalType":"uint256[]","type":"uint256[]"},{"name":"wallet","internalType":"address[]","type":"address[]"}],"name":"mintAdmin","outputs":[],"stateMutability":"payable"}]

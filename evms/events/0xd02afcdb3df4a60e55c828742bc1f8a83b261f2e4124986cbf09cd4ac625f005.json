@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"symbol","internalType":"Symbol","type":"bytes16","indexed":true},{"name":"base","internalType":"contract IERC20Metadata","type":"address","indexed":false},{"name":"quote","internalType":"contract IERC20Metadata","type":"address","indexed":false}],"name":"InstrumentCreated"}]

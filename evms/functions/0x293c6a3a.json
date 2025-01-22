@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"positionId","internalType":"PositionId","type":"bytes32"},{"name":"to","internalType":"address","type":"address"}],"name":"mint","outputs":[{"name":"positionId_","internalType":"PositionId","type":"bytes32"}],"stateMutability":"nonpayable"}]

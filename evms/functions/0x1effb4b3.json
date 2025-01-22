@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_secondaryChainGateway","internalType":"address","type":"address"},{"name":"_batchNumber","internalType":"uint256","type":"uint256"},{"name":"_forwardEthAmount","internalType":"uint256","type":"uint256"}],"name":"syncBatchRoot","outputs":[],"stateMutability":"payable"}]

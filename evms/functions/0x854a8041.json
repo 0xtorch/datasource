@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"perpList","internalType":"address[]","type":"address[]"},{"name":"rateList","internalType":"int256[]","type":"int256[]"}],"name":"updateFundingRate","outputs":[],"stateMutability":"nonpayable"}]

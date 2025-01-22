@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_stakingTokens","internalType":"address[]","type":"address[]"},{"name":"_rewardTokens","internalType":"address[][]","type":"address[][]"},{"name":"_withRDP","internalType":"bool","type":"bool"}],"name":"multiclaimSpecRDP","outputs":[],"stateMutability":"nonpayable"}]

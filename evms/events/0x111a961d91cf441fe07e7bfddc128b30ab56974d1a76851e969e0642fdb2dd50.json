@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"_oldDistributor","internalType":"contract IDistributor","type":"address","indexed":false},{"name":"_distributor","internalType":"contract IDistributor","type":"address","indexed":false}],"name":"DistributorUpdated"}]

@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"destChainSelector","internalType":"uint64","type":"uint64","indexed":true},{"name":"onRamp","internalType":"address","type":"address","indexed":false}],"name":"OnRampSet"}]

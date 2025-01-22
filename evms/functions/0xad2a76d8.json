@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"pairs","internalType":"struct StargateHelper.TokenConfigPair[]","type":"tuple[]","components":[{"name":"tokenAddr","internalType":"address","type":"address"},{"name":"stargateAddr","internalType":"address","type":"address"}]}],"name":"setTokenConfig","outputs":[],"stateMutability":"nonpayable"}]

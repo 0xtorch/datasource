@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"tokens","internalType":"address[]","type":"address[]"},{"name":"to","internalType":"address","type":"address"}],"name":"withdrawAllTo","outputs":[{"name":"","internalType":"bool","type":"bool"}],"stateMutability":"nonpayable"}]

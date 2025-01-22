@@ -1,1 +1,1 @@
-[{"type":"event","anonymous":false,"inputs":[{"name":"operator","internalType":"address","type":"address","indexed":false}],"name":"NewOperatorAddress"}]
+[{"type":"event","anonymous":false,"inputs":[{"name":"operator","internalType":"address","type":"address","indexed":false}],"name":"NewOperatorAddress"},{"type":"event","anonymous":false,"inputs":[{"name":"operator","internalType":"address","type":"address","indexed":true}],"name":"NewOperatorAddress"}]

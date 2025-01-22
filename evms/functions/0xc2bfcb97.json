@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_token","internalType":"address","type":"address"},{"name":"_newContract","internalType":"address","type":"address"}],"name":"sendTokenToNewContract","outputs":[],"stateMutability":"nonpayable"}]

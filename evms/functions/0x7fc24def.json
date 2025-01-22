@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"facilitatorAddress","internalType":"address","type":"address"},{"name":"facilitatorLabel","internalType":"string","type":"string"},{"name":"bucketCapacity","internalType":"uint128","type":"uint128"}],"name":"addFacilitator","outputs":[],"stateMutability":"nonpayable"}]

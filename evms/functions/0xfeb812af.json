@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"target","internalType":"address","type":"address"},{"name":"swapData","internalType":"bytes","type":"bytes"},{"name":"tokenIn","internalType":"contract IERC20","type":"address"},{"name":"amountIn","internalType":"uint256","type":"uint256"}],"name":"swap","outputs":[],"stateMutability":"nonpayable"}]

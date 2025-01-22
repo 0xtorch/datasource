@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"pool","internalType":"contract IMaverickV2Pool","type":"address"},{"name":"minSqrtPrice","internalType":"uint256","type":"uint256"},{"name":"maxSqrtPrice","internalType":"uint256","type":"uint256"}],"name":"checkSqrtPrice","outputs":[],"stateMutability":"payable"}]

@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"tokenExchangePrice","internalType":"uint256","type":"uint256","indexed":false},{"name":"liquidityExchangePrice","internalType":"uint256","type":"uint256","indexed":false}],"name":"LogUpdateRates"}]

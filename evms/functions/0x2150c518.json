@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[],"name":"getKeys","outputs":[{"name":"keyMain","internalType":"bytes32","type":"bytes32"},{"name":"keyAlt","internalType":"bytes32","type":"bytes32"}],"stateMutability":"view"}]

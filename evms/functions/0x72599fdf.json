@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"amount","internalType":"uint256","type":"uint256"},{"name":"slippageTolerance","internalType":"uint256","type":"uint256"}],"name":"getMinAmount","outputs":[{"name":"","internalType":"uint256","type":"uint256"}],"stateMutability":"pure"}]

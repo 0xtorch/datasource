@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[],"name":"twap","outputs":[{"name":"twapTick","internalType":"int56","type":"int56"}],"stateMutability":"view"}]

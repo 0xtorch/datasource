@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"previousUserVaultImplementation","internalType":"address","type":"address","indexed":true},{"name":"newUserVaultImplementation","internalType":"address","type":"address","indexed":true}],"name":"UserVaultImplementationSet"}]

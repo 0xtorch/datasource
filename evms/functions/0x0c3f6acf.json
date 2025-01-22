@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[],"name":"currentState","outputs":[{"name":"","internalType":"enum Louder.State","type":"uint8"}],"stateMutability":"view"}]

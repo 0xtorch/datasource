@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_token","internalType":"address","type":"address"},{"name":"_isNotRToken","internalType":"bool","type":"bool"}],"name":"setNotRToken","outputs":[],"stateMutability":"nonpayable"}]

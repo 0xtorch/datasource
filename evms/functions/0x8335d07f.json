@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_radpie","internalType":"address","type":"address"},{"name":"_radpiePerSec","internalType":"uint256","type":"uint256"},{"name":"_startTimestamp","internalType":"uint256","type":"uint256"}],"name":"__MasterRadpie_init","outputs":[],"stateMutability":"nonpayable"}]

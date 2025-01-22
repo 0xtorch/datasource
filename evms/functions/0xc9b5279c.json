@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"","internalType":"address","type":"address"},{"name":"","internalType":"address","type":"address"}],"name":"userInfos","outputs":[{"name":"userEntitledPerTokenPaid","internalType":"uint256","type":"uint256"},{"name":"userEntitled","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

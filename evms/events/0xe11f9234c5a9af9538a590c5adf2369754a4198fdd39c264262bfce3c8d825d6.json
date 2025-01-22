@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"_borrowerOperationsAddress","internalType":"address","type":"address","indexed":false},{"name":"_stabilityPoolAddress","internalType":"address","type":"address","indexed":false},{"name":"_vesselManagerAddress","internalType":"address","type":"address","indexed":false}],"name":"GravitaAddressesChanged"}]

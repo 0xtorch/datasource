@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"positionId","internalType":"PositionId","type":"bytes32"}],"name":"lastOwner","outputs":[{"name":"owner","internalType":"address","type":"address"}],"stateMutability":"view"}]

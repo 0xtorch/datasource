@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_allocPoint","internalType":"uint256","type":"uint256"},{"name":"_stakingToken","internalType":"address","type":"address"},{"name":"_rewarder","internalType":"address","type":"address"}],"name":"createNoReceiptPool","outputs":[],"stateMutability":"nonpayable"}]

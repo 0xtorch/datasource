@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"yieldToken","internalType":"address","type":"address"}],"name":"isSupportedYieldToken","outputs":[{"name":"","internalType":"bool","type":"bool"}],"stateMutability":"view"}]

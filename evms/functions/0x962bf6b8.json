@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"t","internalType":"enum InvitationNFT.SaleType","type":"uint8"},{"name":"mintQuantityLimit_","internalType":"uint256","type":"uint256"}],"name":"updateMintQuantityLimit","outputs":[],"stateMutability":"nonpayable"}]

@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"id","internalType":"FlashLoanProvider","type":"uint8","indexed":true},{"name":"provider","internalType":"contract IERC7399","type":"address","indexed":false}],"name":"FlashLoanProviderRegistered"}]

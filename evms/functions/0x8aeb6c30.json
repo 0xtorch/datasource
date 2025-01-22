@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"dexId","internalType":"Dex","type":"uint8"},{"name":"spender","internalType":"address","type":"address"},{"name":"router","internalType":"address","type":"address"}],"name":"registerDex","outputs":[],"stateMutability":"nonpayable"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"from","internalType":"address","type":"address"},{"name":"to","internalType":"address","type":"address"},{"name":"isInternal","internalType":"bool","type":"bool"},{"name":"param","internalType":"bytes","type":"bytes"}],"name":"getExecuteWithdrawCallData","outputs":[{"name":"","internalType":"bytes","type":"bytes"}],"stateMutability":"pure"}]

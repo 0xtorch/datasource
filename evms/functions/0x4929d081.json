@@ -1,0 +1,1 @@
+[{"type":"function","constant":true,"inputs":[{"name":"_caller","internalType":"address","type":"address"}],"name":"isCallerAuthorized","outputs":[{"name":"","internalType":"bool","type":"bool"}],"payable":false,"stateMutability":"view"}]

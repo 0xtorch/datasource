@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_orderId","internalType":"uint256","type":"uint256"},{"name":"_orderOwner","internalType":"address","type":"address"},{"name":"isTTransfer","internalType":"bool","type":"bool"}],"name":"adminCancel","outputs":[],"stateMutability":"nonpayable"}]

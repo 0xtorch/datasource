@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"oldDummyImplementation","internalType":"address","type":"address","indexed":true},{"name":"newDummyImplementation","internalType":"address","type":"address","indexed":true}],"name":"LogSetDummyImplementation"}]

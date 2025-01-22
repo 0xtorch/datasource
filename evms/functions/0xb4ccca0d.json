@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"selector","internalType":"bytes4","type":"bytes4"},{"name":"from","internalType":"address","type":"address"},{"name":"chainIdFrom","internalType":"uint64","type":"uint64"}],"name":"receiveValidatedData","outputs":[{"name":"","internalType":"bool","type":"bool"}],"stateMutability":"nonpayable"}]

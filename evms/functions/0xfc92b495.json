@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"orderSender","internalType":"address","type":"address"}],"name":"isOrderSenderValid","outputs":[{"name":"","internalType":"bool","type":"bool"}],"stateMutability":"view"}]
