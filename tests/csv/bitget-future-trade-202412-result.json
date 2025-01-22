@@ -211,6 +211,15 @@
     "transfers": []
   },
   {
+    "source": "bitget-future-trade-202412_future_1192991256208904192",
+    "order": 0,
+    "type": "ignore",
+    "timestamp": 1720157200000,
+    "evidence": "system-rule",
+    "comment": "trans_to_contract : \"-0.00721217\"BTC",
+    "transfers": []
+  },
+  {
     "source": "bitget-future-trade-202412_future_1186586274073894917",
     "order": 0,
     "type": "fee",
@@ -255,5 +264,14 @@
         "amount": "20"
       }
     ]
+  },
+  {
+    "source": "bitget-future-trade-202412_future_1148330335708782593",
+    "order": 0,
+    "type": "ignore",
+    "timestamp": 1709509207000,
+    "evidence": "system-rule",
+    "comment": "trans_from_contract : \"0.01394252\"BTC",
+    "transfers": []
   }
 ]
