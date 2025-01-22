@@ -158,7 +158,7 @@
         ]
       },
       {
-        "description": "Ignore (Buy, Sell, Financial, Transfer in, Transfer out, 365)",
+        "description": "Ignore (Buy, Sell, Financial, Transfer in, Transfer out, 365, Interest)",
         "conditions": [
           {
             "value": { "type": "cell", "column": "type" },
@@ -170,7 +170,8 @@
                 "Financial",
                 "Transfer in",
                 "Transfer out",
-                "365"
+                "365",
+                "Interest"
               ]
             }
           }

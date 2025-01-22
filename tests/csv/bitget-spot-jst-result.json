@@ -119,5 +119,14 @@
     "evidence": "system-rule",
     "comment": "type: Transfer out / coin: USDT / amount: \"-10\"",
     "transfers": []
+  },
+  {
+    "source": "bitget-spot-jst_spot_1257991967251460099",
+    "order": 0,
+    "type": "ignore",
+    "timestamp": 1735654576000,
+    "evidence": "system-rule",
+    "comment": "type: Interest / coin: BGB / amount: \"0.000016619\"",
+    "transfers": []
   }
 ]
