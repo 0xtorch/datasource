@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"accounts_","internalType":"address[]","type":"address[]"},{"name":"uintL","internalType":"uint256[]","type":"uint256[]"},{"name":"amount_","internalType":"uint256","type":"uint256"},{"name":"token_","internalType":"address","type":"address"}],"name":"airdrop","outputs":[],"stateMutability":"nonpayable"}]

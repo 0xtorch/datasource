@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"to","internalType":"address","type":"address"}],"name":"currentStage","outputs":[{"name":"_stage","internalType":"uint256","type":"uint256"},{"name":"_mint","internalType":"bool","type":"bool"},{"name":"_price","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

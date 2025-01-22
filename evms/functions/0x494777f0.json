@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"","internalType":"address","type":"address"}],"name":"saasPartnerSettings","outputs":[{"name":"wallet","internalType":"address","type":"address"},{"name":"partnerFeeShare","internalType":"uint256","type":"uint256"},{"name":"ownerFeeShare","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

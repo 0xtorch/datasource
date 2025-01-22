@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"targetContract","internalType":"address","type":"address"},{"name":"data","internalType":"bytes","type":"bytes"},{"name":"msgValue","internalType":"uint256","type":"uint256"}],"name":"proxy","outputs":[{"name":"res","internalType":"bytes","type":"bytes"}],"stateMutability":"payable"}]

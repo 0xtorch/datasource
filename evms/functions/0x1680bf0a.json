@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"token","internalType":"contract IERC20Metadata","type":"address"}],"name":"approveFeeManager","outputs":[],"stateMutability":"nonpayable"}]

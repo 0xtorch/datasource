@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"index","internalType":"uint8","type":"uint8"}],"name":"veTokenByIndex","outputs":[{"name":"output","internalType":"contract IMaverickV2VotingEscrow","type":"address"}],"stateMutability":"view"}]

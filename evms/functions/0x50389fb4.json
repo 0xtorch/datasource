@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"packedArray","internalType":"bytes","type":"bytes"}],"name":"unpackUint88Array","outputs":[{"name":"fullArray","internalType":"uint88[]","type":"uint88[]"}],"stateMutability":"pure"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"ve","internalType":"contract IMaverickV2VotingEscrowWSync","type":"address"},{"name":"staker","internalType":"address","type":"address"},{"name":"legacyLockupIndexes","internalType":"uint256[]","type":"uint256[]"}],"name":"sync","outputs":[{"name":"newBalance","internalType":"uint256[]","type":"uint256[]"}],"stateMutability":"nonpayable"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"data","internalType":"bytes","type":"bytes"},{"name":"to","internalType":"address","type":"address"},{"name":"chainIdTo","internalType":"uint64","type":"uint64"},{"name":"payToken","internalType":"address","type":"address"}],"name":"sendData","outputs":[],"stateMutability":"payable"}]

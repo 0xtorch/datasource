@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_poolAssets","internalType":"address[]","type":"address[]"},{"name":"rewardQueuer","internalType":"address","type":"address"}],"name":"updateRewardQueuers","outputs":[],"stateMutability":"nonpayable"}]

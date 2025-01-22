@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"refL1Fee","internalType":"uint16","type":"uint16"},{"name":"refL2Fee","internalType":"uint16","type":"uint16"},{"name":"rewardType","internalType":"enum PortalLib.RewardType","type":"uint8"}],"name":"setReferrerRewardFee","outputs":[],"stateMutability":"nonpayable"}]

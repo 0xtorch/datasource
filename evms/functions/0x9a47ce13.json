@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_stakingTokens","internalType":"address[]","type":"address[]"},{"name":"_allocPoints","internalType":"uint256[]","type":"uint256[]"}],"name":"updatePoolsAlloc","outputs":[],"stateMutability":"nonpayable"}]

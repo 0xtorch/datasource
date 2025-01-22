@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_account","internalType":"address","type":"address"}],"name":"calculateVaultByAccount","outputs":[{"name":"_vault","internalType":"address","type":"address"}],"stateMutability":"view"}]

@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"oldWidth","internalType":"int24","type":"int24","indexed":false},{"name":"width","internalType":"int24","type":"int24","indexed":false}],"name":"SetPositionWidth"}]

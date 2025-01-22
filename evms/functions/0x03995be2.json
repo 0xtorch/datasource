@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"symbol","internalType":"Symbol","type":"bytes16"},{"name":"closingOnly","internalType":"bool","type":"bool"}],"name":"setClosingOnly","outputs":[],"stateMutability":"nonpayable"}]

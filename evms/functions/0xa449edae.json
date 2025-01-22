@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"b0","internalType":"int256","type":"int256"},{"name":"b1","internalType":"int256","type":"int256"}],"name":"_validatePoolState","outputs":[],"stateMutability":"nonpayable"}]

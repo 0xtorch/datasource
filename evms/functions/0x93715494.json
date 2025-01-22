@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"angleMerkleDistributor","internalType":"address","type":"address"},{"name":"_amount","internalType":"uint256[]","type":"uint256[]"},{"name":"proofs","internalType":"bytes32[][]","type":"bytes32[][]"},{"name":"rewardTokensForClaim","internalType":"address","type":"address"}],"name":"claimARBMerkl","outputs":[],"stateMutability":"nonpayable"}]

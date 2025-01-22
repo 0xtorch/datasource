@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_token","internalType":"address","type":"address"}],"name":"getLP","outputs":[{"name":"","internalType":"contract ILP","type":"address"}],"stateMutability":"view"}]

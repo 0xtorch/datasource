@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"targets_","internalType":"address[]","type":"address[]"},{"name":"amounts_","internalType":"uint256[]","type":"uint256[]"},{"name":"destinationDomains_","internalType":"uint32[]","type":"uint32[]"}],"name":"calculateRefuelFeeBatch","outputs":[{"name":"","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

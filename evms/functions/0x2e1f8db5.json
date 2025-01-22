@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"moneyMarketId","internalType":"MoneyMarketId","type":"uint8"}],"name":"moneyMarkets","outputs":[{"name":"moneyMarket","internalType":"contract IMoneyMarket","type":"address"},{"name":"needsAccount","internalType":"bool","type":"bool"}],"stateMutability":"view"}]

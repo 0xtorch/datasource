@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"","internalType":"enum InvitationNFT.SaleType","type":"uint8"}],"name":"mSaleTypeToOpenTime","outputs":[{"name":"","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_assets","internalType":"address[]","type":"address[]"},{"name":"_targetVdBal","internalType":"uint256[]","type":"uint256[]"}],"name":"loop","outputs":[],"stateMutability":"nonpayable"}]

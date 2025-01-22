@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"chain","internalType":"string","type":"string"}],"name":"trustedAddress","outputs":[{"name":"trustedAddress_","internalType":"string","type":"string"}],"stateMutability":"view"}]

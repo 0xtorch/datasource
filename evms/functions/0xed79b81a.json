@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"contractAddr","internalType":"address","type":"address"},{"name":"enabled","internalType":"bool","type":"bool"}],"name":"setContangoContract","outputs":[],"stateMutability":"nonpayable"}]

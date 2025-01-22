@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"token_","internalType":"address","type":"address"},{"name":"wallet","internalType":"address","type":"address"},{"name":"amount_","internalType":"uint256","type":"uint256"}],"name":"safePull","outputs":[],"stateMutability":"nonpayable"}]

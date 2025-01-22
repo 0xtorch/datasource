@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"facilitatorAddress","internalType":"address","type":"address","indexed":true},{"name":"oldCapacity","internalType":"uint256","type":"uint256","indexed":false},{"name":"newCapacity","internalType":"uint256","type":"uint256","indexed":false}],"name":"FacilitatorBucketCapacityUpdated"}]

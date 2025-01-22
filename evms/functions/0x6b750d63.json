@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"requestId","internalType":"bytes32","type":"bytes32"},{"name":"cPos","internalType":"uint8","type":"uint8"},{"name":"operations","internalType":"string[]","type":"string[]"},{"name":"params","internalType":"bytes[]","type":"bytes[]"}],"name":"resume","outputs":[],"stateMutability":"nonpayable"}]

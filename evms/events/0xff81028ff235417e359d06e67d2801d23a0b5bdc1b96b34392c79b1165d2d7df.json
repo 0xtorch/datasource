@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"sender","internalType":"address","type":"address","indexed":false},{"name":"vault","internalType":"address","type":"address","indexed":false},{"name":"salt","internalType":"bytes32","type":"bytes32","indexed":false}],"name":"NewVaultDeploy"}]

@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"positionId","internalType":"PositionId","type":"bytes32","indexed":true},{"name":"to","internalType":"address","type":"address","indexed":true}],"name":"RewardsClaimed"}]

@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"token","internalType":"address","type":"address","indexed":true},{"name":"lpToken","internalType":"address","type":"address","indexed":true},{"name":"_feed","internalType":"address","type":"address","indexed":true}],"name":"AddLP"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_recipients","internalType":"address[]","type":"address[]"},{"name":"_claimableAmount","internalType":"uint256[]","type":"uint256[]"}],"name":"setRecipients","outputs":[],"stateMutability":"nonpayable"}]

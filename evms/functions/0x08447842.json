@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"commandType","internalType":"uint16","type":"uint16"}],"name":"getSelector","outputs":[{"name":"","internalType":"bytes4","type":"bytes4"}],"stateMutability":"view"}]

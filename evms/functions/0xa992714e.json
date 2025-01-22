@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"currencyId_","internalType":"uint16","type":"uint16"},{"name":"underlying_","internalType":"address","type":"address"},{"name":"underlyingName_","internalType":"string","type":"string"},{"name":"underlyingSymbol_","internalType":"string","type":"string"}],"name":"initialize","outputs":[],"stateMutability":"nonpayable"}]

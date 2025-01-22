@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"yieldToken","internalType":"address","type":"address"}],"name":"getYieldTokensPerShare","outputs":[{"name":"","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

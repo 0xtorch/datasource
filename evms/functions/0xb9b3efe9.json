@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[],"name":"getL1BlockNumber","outputs":[{"name":"l1BlockNumber","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

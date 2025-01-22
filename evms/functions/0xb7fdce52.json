@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_radpieReceipt","internalType":"address","type":"address"},{"name":"_rdntAmount","internalType":"uint256","type":"uint256"}],"name":"queueEntitledRDNT","outputs":[],"stateMutability":"nonpayable"}]

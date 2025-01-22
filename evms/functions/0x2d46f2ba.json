@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_token","internalType":"address","type":"address"},{"name":"_liquidity","internalType":"uint256","type":"uint256"}],"name":"calculateETHAndTokensToReceive","outputs":[{"name":"amountToken","internalType":"uint256","type":"uint256"},{"name":"amountETH","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

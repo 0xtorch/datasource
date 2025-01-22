@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"","internalType":"bytes32","type":"bytes32"}],"name":"settlementToStatus","outputs":[{"name":"","internalType":"enum ISpoke.SettlementStatus","type":"uint8"}],"stateMutability":"view"}]

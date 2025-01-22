@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[],"name":"entitledRdntGauge","outputs":[{"name":"totalWeight","internalType":"uint256","type":"uint256"},{"name":"assets","internalType":"address[]","type":"address[]"},{"name":"weights","internalType":"uint256[]","type":"uint256[]"}],"stateMutability":"view"}]

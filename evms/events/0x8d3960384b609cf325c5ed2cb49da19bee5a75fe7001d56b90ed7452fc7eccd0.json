@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"epoch","internalType":"uint256","type":"uint256","indexed":true},{"name":"AIPrice","internalType":"uint128","type":"uint128","indexed":false}],"name":"StartRound"}]

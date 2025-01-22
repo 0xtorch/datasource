@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"actor","internalType":"address","type":"address","indexed":false},{"name":"swapHandler","internalType":"address","type":"address","indexed":false},{"name":"isEnabled","internalType":"bool","type":"bool","indexed":false}],"name":"SwapHandlerUpdate"}]

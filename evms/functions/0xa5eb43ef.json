@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"guardiansStatus_","internalType":"struct Structs.AddressBool[]","type":"tuple[]","components":[{"name":"addr","internalType":"address","type":"address"},{"name":"value","internalType":"bool","type":"bool"}]}],"name":"updateGuardians","outputs":[],"stateMutability":"nonpayable"}]

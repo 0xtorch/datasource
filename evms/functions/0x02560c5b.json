@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"rates_","internalType":"struct GateKeeper.Rate[]","type":"tuple[]","components":[{"name":"chainId","internalType":"uint64","type":"uint64"},{"name":"payToken","internalType":"address","type":"address"},{"name":"rate","internalType":"uint256","type":"uint256"}]}],"name":"setRate","outputs":[],"stateMutability":"nonpayable"}]

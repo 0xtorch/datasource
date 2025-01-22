@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"asset","internalType":"contract IERC20Metadata","type":"address"},{"name":"amountOwed","internalType":"uint256","type":"uint256"},{"name":"params","internalType":"bytes","type":"bytes"}],"name":"completeOpenFromFlashBorrow","outputs":[{"name":"result","internalType":"bytes","type":"bytes"}],"stateMutability":"nonpayable"}]

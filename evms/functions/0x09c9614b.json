@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"","internalType":"address","type":"address"}],"name":"rdntRewardStats","outputs":[{"name":"queuedRewards","internalType":"uint256","type":"uint256"},{"name":"entitledPerTokenStored","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

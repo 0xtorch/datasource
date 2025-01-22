@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"tokenOrderSize","internalType":"uint256","type":"uint256"}],"name":"getTokenSellQuote","outputs":[{"name":"","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

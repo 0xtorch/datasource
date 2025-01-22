@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"ownerToCheck","internalType":"address","type":"address"},{"name":"index","internalType":"uint256","type":"uint256"}],"name":"tokenOfOwnerByIndexExists","outputs":[{"name":"exists","internalType":"bool","type":"bool"}],"stateMutability":"view"}]

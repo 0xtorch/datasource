@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_posId","internalType":"uint256","type":"uint256"}],"name":"getPosHealthCurrent_e18","outputs":[{"name":"health_e18","internalType":"uint256","type":"uint256"}],"stateMutability":"nonpayable"}]

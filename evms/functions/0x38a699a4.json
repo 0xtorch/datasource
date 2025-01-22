@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"positionId","internalType":"PositionId","type":"bytes32"}],"name":"exists","outputs":[{"name":"","internalType":"bool","type":"bool"}],"stateMutability":"view"}]

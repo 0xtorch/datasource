@@ -1,0 +1,1 @@
+[{"type":"function","constant":false,"inputs":[{"name":"_adminAddress","internalType":"address","type":"address"}],"name":"setAudiusProxyAdminAddress","outputs":[],"payable":false,"stateMutability":"nonpayable"}]

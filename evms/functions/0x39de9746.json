@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"minter","internalType":"address","type":"address"},{"name":"burner","internalType":"address","type":"address"},{"name":"mintAmount","internalType":"uint256","type":"uint256"},{"name":"transferAndBurnAmount","internalType":"uint256","type":"uint256"}],"name":"emitMintTransferBurn","outputs":[],"stateMutability":"nonpayable"}]

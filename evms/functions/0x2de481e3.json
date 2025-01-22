@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"baseFees_","internalType":"struct GateKeeper.BaseFee[]","type":"tuple[]","components":[{"name":"chainId","internalType":"uint64","type":"uint64"},{"name":"payToken","internalType":"address","type":"address"},{"name":"fee","internalType":"uint256","type":"uint256"}]}],"name":"setBaseFee","outputs":[],"stateMutability":"nonpayable"}]

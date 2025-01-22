@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"path","internalType":"bytes","type":"bytes","indexed":false}],"name":"SetLpToken0ToNativePath"}]

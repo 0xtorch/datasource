@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_rewardManager","internalType":"address","type":"address"},{"name":"_allowed","internalType":"bool","type":"bool"}],"name":"updateRewardQueuer","outputs":[],"stateMutability":"nonpayable"}]

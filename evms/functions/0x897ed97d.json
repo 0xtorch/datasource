@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_value","internalType":"uint256","type":"uint256"},{"name":"_to","internalType":"address","type":"address"},{"name":"_isForRDNT","internalType":"bool","type":"bool"},{"name":"_isAddress","internalType":"bool","type":"bool"}],"name":"addFee","outputs":[],"stateMutability":"nonpayable"}]

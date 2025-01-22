@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"sig_","internalType":"bytes4","type":"bytes4"}],"name":"getSigsImplementation","outputs":[{"name":"","internalType":"address","type":"address"}],"stateMutability":"view"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_isEthDepositEnabled","internalType":"bool","type":"bool"}],"name":"setIsEthDepositEnabled","outputs":[],"stateMutability":"nonpayable"}]

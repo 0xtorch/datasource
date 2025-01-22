@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"beaconAddress","internalType":"address","type":"address"},{"name":"deploymentSalt","internalType":"bytes32","type":"bytes32"}],"name":"getBeaconVaultAddress","outputs":[{"name":"","internalType":"address","type":"address"}],"stateMutability":"view"}]

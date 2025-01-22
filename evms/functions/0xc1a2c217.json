@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"state_","internalType":"enum Louder.State","type":"uint8"}],"name":"adminChangeState","outputs":[],"stateMutability":"nonpayable"}]

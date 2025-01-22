@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"boostedPosition","internalType":"contract IMaverickV2BoostedPosition","type":"address"},{"name":"recipient","internalType":"address","type":"address"}],"name":"mintBoostedPosition","outputs":[{"name":"mintedLpAmount","internalType":"uint256","type":"uint256"}],"stateMutability":"payable"}]

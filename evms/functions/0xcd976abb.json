@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"wrapToken","internalType":"address","type":"address"},{"name":"recipient","internalType":"address","type":"address"}],"name":"withdrawWrapToken","outputs":[],"stateMutability":"nonpayable"}]

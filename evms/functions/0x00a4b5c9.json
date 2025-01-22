@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[],"name":"balancesOfThis","outputs":[{"name":"token0Bal","internalType":"uint256","type":"uint256"},{"name":"token1Bal","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

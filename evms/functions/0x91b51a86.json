@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"pairs","internalType":"struct LSDSwap.DepositPoolBridgeTokenPair[]","type":"tuple[]","components":[{"name":"depositPoolAddr","internalType":"address","type":"address"},{"name":"bridgeToken","internalType":"address","type":"address"}]}],"name":"setDepositPoolToBridgeToken","outputs":[],"stateMutability":"nonpayable"}]

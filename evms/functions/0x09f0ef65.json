@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"target_","internalType":"address","type":"address"}],"name":"erc721TransferExempt","outputs":[{"name":"","internalType":"bool","type":"bool"}],"stateMutability":"view"}]

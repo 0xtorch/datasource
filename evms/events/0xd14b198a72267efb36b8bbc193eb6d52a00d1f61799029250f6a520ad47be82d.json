@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"rewardsRateModel","internalType":"contract IFluidLendingRewardsRateModel","type":"address","indexed":true}],"name":"LogUpdateRewards"}]

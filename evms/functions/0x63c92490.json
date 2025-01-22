@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"underlyingToken","internalType":"address","type":"address"},{"name":"maximum","internalType":"uint256","type":"uint256"},{"name":"blocks","internalType":"uint256","type":"uint256"}],"name":"configureRepayLimit","outputs":[],"stateMutability":"nonpayable"}]

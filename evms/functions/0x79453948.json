@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_user","internalType":"address","type":"address"},{"name":"_prevLockedAmount","internalType":"int128","type":"int128"},{"name":"_prevLockedEnd","internalType":"uint256","type":"uint256"},{"name":"_withdrawAmount","internalType":"uint256","type":"uint256"}],"name":"unlock","outputs":[],"stateMutability":"nonpayable"}]

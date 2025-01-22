@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"","internalType":"bytes32","type":"bytes32"}],"name":"processedOps","outputs":[{"name":"","internalType":"enum RouterV2.CrossChainOpState","type":"uint8"}],"stateMutability":"view"}]

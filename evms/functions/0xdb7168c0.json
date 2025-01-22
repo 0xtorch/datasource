@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"id","internalType":"FlashLoanProvider","type":"uint8"},{"name":"provider","internalType":"contract IERC7399","type":"address"}],"name":"registerFlashLoanProvider","outputs":[],"stateMutability":"nonpayable"}]

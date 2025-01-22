@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[],"name":"getExecutorAddress","outputs":[{"name":"_executorAddress","internalType":"address","type":"address"}],"stateMutability":"view"}]

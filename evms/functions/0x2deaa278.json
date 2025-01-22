@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"totalAmount","internalType":"uint256","type":"uint256"},{"name":"lpCondition","internalType":"uint256","type":"uint256"}],"name":"lpAward","outputs":[],"stateMutability":"nonpayable"}]

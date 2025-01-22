@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"rewardFactory","internalType":"address","type":"address","indexed":false},{"name":"stashFactory","internalType":"address","type":"address","indexed":false},{"name":"tokenFactory","internalType":"address","type":"address","indexed":false}],"name":"FactoriesUpdated"}]

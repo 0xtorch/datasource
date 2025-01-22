@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[],"name":"incentivesData","outputs":[{"name":"arb","internalType":"address","type":"address"},{"name":"vrtx","internalType":"address","type":"address"},{"name":"arbMerkleRoot","internalType":"bytes32","type":"bytes32"},{"name":"vrtxMerkleRoot","internalType":"bytes32","type":"bytes32"}],"stateMutability":"view"}]

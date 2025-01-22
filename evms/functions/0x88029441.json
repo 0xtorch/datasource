@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_posId","internalType":"uint256","type":"uint256"},{"name":"_mode","internalType":"uint16","type":"uint16"}],"name":"setPosMode","outputs":[],"stateMutability":"nonpayable"}]

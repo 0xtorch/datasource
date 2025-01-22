@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"orderId1","internalType":"OrderId","type":"bytes32"},{"name":"orderId2","internalType":"OrderId","type":"bytes32"}],"name":"cancel","outputs":[],"stateMutability":"nonpayable"}]

@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"symbol","internalType":"Symbol","type":"bytes16","indexed":true},{"name":"closingOnly","internalType":"bool","type":"bool","indexed":false}],"name":"ClosingOnlySet"}]

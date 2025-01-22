@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[],"name":"positionMain","outputs":[{"name":"tickLower","internalType":"int24","type":"int24"},{"name":"tickUpper","internalType":"int24","type":"int24"}],"stateMutability":"view"}]

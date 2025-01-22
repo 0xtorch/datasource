@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"oldMaster","internalType":"address","type":"address","indexed":true},{"name":"newMaster","internalType":"address","type":"address","indexed":true}],"name":"MasterSet"}]

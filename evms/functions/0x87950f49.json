@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_distributor","internalType":"contract IDistributor","type":"address"}],"name":"setDistributorAddress","outputs":[],"stateMutability":"nonpayable"}]

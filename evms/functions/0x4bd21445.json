@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"owner","internalType":"address","type":"address"},{"name":"yieldToken","internalType":"address","type":"address"}],"name":"positions","outputs":[{"name":"shares","internalType":"uint256","type":"uint256"},{"name":"lastAccruedWeight","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

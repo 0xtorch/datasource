@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_tokenConverter","internalType":"address","type":"address"}],"name":"isTokenConverterTrusted","outputs":[{"name":"","internalType":"bool","type":"bool"}],"stateMutability":"view"}]

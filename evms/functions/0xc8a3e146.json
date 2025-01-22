@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"symbol","internalType":"Symbol","type":"bytes16"},{"name":"base","internalType":"contract IERC20Metadata","type":"address"},{"name":"quote","internalType":"contract IERC20Metadata","type":"address"}],"name":"createInstrument","outputs":[],"stateMutability":"nonpayable"}]

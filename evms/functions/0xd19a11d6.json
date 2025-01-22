@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"t","internalType":"enum InvitationNFT.SaleType","type":"uint8"},{"name":"root","internalType":"bytes32","type":"bytes32"}],"name":"updateMerkleRoot","outputs":[],"stateMutability":"nonpayable"}]
