@@ -1,0 +1,356 @@
+{
+  "id": "bitget-spot-jst",
+  "service": "bitget",
+  "formatter": {
+    "order": ["string"],
+    "Date": ["iso8601-jp"],
+    "Coin": ["string"],
+    "Type": ["string"],
+    "Amount": ["big-decimal"],
+    "Fee": ["big-decimal"],
+    "Available": ["big-decimal"]
+  },
+  "parser": {
+    "parsers": [
+      {
+        "description": "Airdrop Reward-A => airdrop",
+        "conditions": [
+          {
+            "value": { "type": "cell", "column": "Type" },
+            "pattern": "Airdrop Reward-A"
+          }
+        ],
+        "generators": [
+          {
+            "type": "airdrop",
+            "source": {
+              "type": "join",
+              "values": [
+                { "type": "service" },
+                "_spot_",
+                { "type": "cell", "column": "order" }
+              ]
+            },
+            "timestamp": { "type": "cell", "column": "Date" },
+            "comment": {
+              "type": "join",
+              "values": [
+                "type: ",
+                { "type": "cell", "column": "Type" },
+                " / coin: ",
+                { "type": "cell", "column": "Coin" },
+                " / amount: ",
+                { "type": "cell", "column": "Amount" }
+              ]
+            },
+            "transfers": [
+              {
+                "direction": "in",
+                "amount": {
+                  "type": "text",
+                  "value": { "type": "cell", "column": "Amount" }
+                },
+                "asset": {
+                  "type": "symbol",
+                  "value": { "type": "cell", "column": "Coin" }
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "description": "Crypto Voucher Distribution",
+        "conditions": [
+          {
+            "value": { "type": "cell", "column": "Type" },
+            "pattern": "Crypto Voucher Distribution"
+          }
+        ],
+        "generators": [
+          {
+            "type": "gift",
+            "source": {
+              "type": "join",
+              "values": [
+                { "type": "service" },
+                "_spot_",
+                { "type": "cell", "column": "order" }
+              ]
+            },
+            "timestamp": { "type": "cell", "column": "Date" },
+            "comment": {
+              "type": "join",
+              "values": [
+                "type: ",
+                { "type": "cell", "column": "Type" },
+                " / coin: ",
+                { "type": "cell", "column": "Coin" },
+                " / amount: ",
+                { "type": "cell", "column": "Amount" }
+              ]
+            },
+            "transfers": [
+              {
+                "direction": "in",
+                "amount": {
+                  "type": "text",
+                  "value": { "type": "cell", "column": "Amount" }
+                },
+                "asset": {
+                  "type": "symbol",
+                  "value": { "type": "cell", "column": "Coin" }
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "description": "Deposit / Ordinary Withdrawal => fee (if fee<0)",
+        "conditions": [
+          {
+            "value": { "type": "cell", "column": "Type" },
+            "pattern": {
+              "type": "in",
+              "values": ["Deposit", "Ordinary Withdrawal"]
+            }
+          },
+          {
+            "value": { "type": "cell", "column": "Fee" },
+            "pattern": { "type": "negative" }
+          }
+        ],
+        "generators": [
+          {
+            "type": "fee",
+            "source": {
+              "type": "join",
+              "values": [
+                { "type": "service" },
+                "_spot_",
+                { "type": "cell", "column": "order" }
+              ]
+            },
+            "timestamp": { "type": "cell", "column": "Date" },
+            "comment": {
+              "type": "join",
+              "values": [
+                "type: ",
+                { "type": "cell", "column": "Type" },
+                " / coin: ",
+                { "type": "cell", "column": "Coin" },
+                " / amount: ",
+                { "type": "cell", "column": "Amount" },
+                " / fee: ",
+                { "type": "cell", "column": "Fee" }
+              ]
+            },
+            "transfers": [
+              {
+                "direction": "out",
+                "amount": {
+                  "type": "text",
+                  "value": { "type": "cell", "column": "Fee" }
+                },
+                "asset": {
+                  "type": "symbol",
+                  "value": { "type": "cell", "column": "Coin" }
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "description": "Deposit / Ordinary Withdrawal => ignore (if fee=0)",
+        "conditions": [
+          {
+            "value": { "type": "cell", "column": "Type" },
+            "pattern": {
+              "type": "in",
+              "values": ["Deposit", "Ordinary Withdrawal"]
+            }
+          },
+          {
+            "value": { "type": "cell", "column": "Fee" },
+            "pattern": "\"0\""
+          }
+        ],
+        "generators": [
+          {
+            "type": "ignore",
+            "source": {
+              "type": "join",
+              "values": [
+                { "type": "service" },
+                "_spot_",
+                { "type": "cell", "column": "order" }
+              ]
+            },
+            "timestamp": { "type": "cell", "column": "Date" },
+            "comment": {
+              "type": "join",
+              "values": [
+                "type: ",
+                { "type": "cell", "column": "Type" },
+                " / coin: ",
+                { "type": "cell", "column": "Coin" },
+                " / amount: ",
+                { "type": "cell", "column": "Amount" }
+              ]
+            },
+            "transfers": []
+          }
+        ]
+      },
+      {
+        "description": "LaunchX income",
+        "conditions": [
+          {
+            "value": { "type": "cell", "column": "Type" },
+            "pattern": "LaunchX income"
+          }
+        ],
+        "generators": [
+          {
+            "type": "gift",
+            "source": {
+              "type": "join",
+              "values": [
+                { "type": "service" },
+                "_spot_",
+                { "type": "cell", "column": "order" }
+              ]
+            },
+            "timestamp": { "type": "cell", "column": "Date" },
+            "comment": {
+              "type": "join",
+              "values": [
+                "type: ",
+                { "type": "cell", "column": "Type" },
+                " / coin: ",
+                { "type": "cell", "column": "Coin" },
+                " / amount: ",
+                { "type": "cell", "column": "Amount" }
+              ]
+            },
+            "transfers": [
+              {
+                "direction": "in",
+                "amount": {
+                  "type": "text",
+                  "value": { "type": "cell", "column": "Amount" }
+                },
+                "asset": {
+                  "type": "symbol",
+                  "value": { "type": "cell", "column": "Coin" }
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "description": "LaunchX expense",
+        "conditions": [
+          {
+            "value": { "type": "cell", "column": "Type" },
+            "pattern": "LaunchX expense"
+          }
+        ],
+        "generators": [
+          {
+            "type": "transfer",
+            "source": {
+              "type": "join",
+              "values": [
+                { "type": "service" },
+                "_spot_",
+                { "type": "cell", "column": "order" }
+              ]
+            },
+            "timestamp": { "type": "cell", "column": "Date" },
+            "comment": {
+              "type": "join",
+              "values": [
+                "type: ",
+                { "type": "cell", "column": "Type" },
+                " / coin: ",
+                { "type": "cell", "column": "Coin" },
+                " / amount: ",
+                { "type": "cell", "column": "Amount" }
+              ]
+            },
+            "transfers": [
+              {
+                "direction": "out",
+                "amount": {
+                  "type": "text",
+                  "value": { "type": "cell", "column": "Amount" }
+                },
+                "asset": {
+                  "type": "symbol",
+                  "value": { "type": "cell", "column": "Coin" }
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "description": "Ignore (Buy, Sell, Financial, Transfer in, Transfer out, 365, Interest, Redeem, Subscribe, Subscription, lock-up)",
+        "conditions": [
+          {
+            "value": { "type": "cell", "column": "Type" },
+            "pattern": {
+              "type": "in",
+              "values": [
+                "Buy",
+                "Sell",
+                "Financial",
+                "Transfer in",
+                "Transfer out",
+                "365",
+                "Interest",
+                "Redeem",
+                "Subscribe",
+                "Subscription",
+                "Unlock locked order",
+                "The locked order is returned to the system",
+                "System lock-up",
+                "User lock-up"
+              ]
+            }
+          }
+        ],
+        "generators": [
+          {
+            "type": "ignore",
+            "source": {
+              "type": "join",
+              "values": [
+                { "type": "service" },
+                "_spot_",
+                { "type": "cell", "column": "order" }
+              ]
+            },
+            "timestamp": { "type": "cell", "column": "Date" },
+            "comment": {
+              "type": "join",
+              "values": [
+                "type: ",
+                { "type": "cell", "column": "Type" },
+                " / coin: ",
+                { "type": "cell", "column": "Coin" },
+                " / amount: ",
+                { "type": "cell", "column": "Amount" }
+              ]
+            },
+            "transfers": []
+          }
+        ]
+      }
+    ]
+  }
+}
