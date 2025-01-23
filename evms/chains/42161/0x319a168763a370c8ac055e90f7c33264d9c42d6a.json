@@ -1,0 +1,5 @@
+{
+  "address": "0x319a168763a370c8ac055e90f7c33264d9c42d6a",
+  "label": "MulticallFacet",
+  "abi": "[{\"inputs\":[],\"name\":\"InvalidMulticall\",\"type\":\"error\"},{\"inputs\":[],\"name\":\"SelectorsLengthInvalid\",\"type\":\"error\"},{\"inputs\":[{\"internalType\":\"bytes4[]\",\"name\":\"selectors\",\"type\":\"bytes4[]\"},{\"internalType\":\"bytes[]\",\"name\":\"data\",\"type\":\"bytes[]\"}],\"name\":\"multicall\",\"outputs\":[],\"stateMutability\":\"nonpayable\",\"type\":\"function\"}]"
+}
