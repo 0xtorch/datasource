@@ -60,6 +60,53 @@
         ]
       },
       {
+        "description": "Crypto Voucher Distribution",
+        "conditions": [
+          {
+            "value": { "type": "cell", "column": "type" },
+            "pattern": "Crypto Voucher Distribution"
+          }
+        ],
+        "generators": [
+          {
+            "type": "gift",
+            "source": {
+              "type": "join",
+              "values": [
+                { "type": "service" },
+                "_spot_",
+                { "type": "cell", "column": "order" }
+              ]
+            },
+            "timestamp": { "type": "cell", "column": "date" },
+            "comment": {
+              "type": "join",
+              "values": [
+                "type: ",
+                { "type": "cell", "column": "type" },
+                " / coin: ",
+                { "type": "cell", "column": "coin" },
+                " / amount: ",
+                { "type": "cell", "column": "amount" }
+              ]
+            },
+            "transfers": [
+              {
+                "direction": "in",
+                "amount": {
+                  "type": "text",
+                  "value": { "type": "cell", "column": "amount" }
+                },
+                "asset": {
+                  "type": "symbol",
+                  "value": { "type": "cell", "column": "coin" }
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
         "description": "Deposit / Ordinary Withdrawal => fee (if fee<0)",
         "conditions": [
           {
@@ -158,7 +205,101 @@
         ]
       },
       {
-        "description": "Ignore (Buy, Sell, Financial, Transfer in, Transfer out, 365, Interest)",
+        "description": "LaunchX income",
+        "conditions": [
+          {
+            "value": { "type": "cell", "column": "type" },
+            "pattern": "LaunchX income"
+          }
+        ],
+        "generators": [
+          {
+            "type": "gift",
+            "source": {
+              "type": "join",
+              "values": [
+                { "type": "service" },
+                "_spot_",
+                { "type": "cell", "column": "order" }
+              ]
+            },
+            "timestamp": { "type": "cell", "column": "date" },
+            "comment": {
+              "type": "join",
+              "values": [
+                "type: ",
+                { "type": "cell", "column": "type" },
+                " / coin: ",
+                { "type": "cell", "column": "coin" },
+                " / amount: ",
+                { "type": "cell", "column": "amount" }
+              ]
+            },
+            "transfers": [
+              {
+                "direction": "in",
+                "amount": {
+                  "type": "text",
+                  "value": { "type": "cell", "column": "amount" }
+                },
+                "asset": {
+                  "type": "symbol",
+                  "value": { "type": "cell", "column": "coin" }
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "description": "LaunchX expense",
+        "conditions": [
+          {
+            "value": { "type": "cell", "column": "type" },
+            "pattern": "LaunchX expense"
+          }
+        ],
+        "generators": [
+          {
+            "type": "transfer",
+            "source": {
+              "type": "join",
+              "values": [
+                { "type": "service" },
+                "_spot_",
+                { "type": "cell", "column": "order" }
+              ]
+            },
+            "timestamp": { "type": "cell", "column": "date" },
+            "comment": {
+              "type": "join",
+              "values": [
+                "type: ",
+                { "type": "cell", "column": "type" },
+                " / coin: ",
+                { "type": "cell", "column": "coin" },
+                " / amount: ",
+                { "type": "cell", "column": "amount" }
+              ]
+            },
+            "transfers": [
+              {
+                "direction": "out",
+                "amount": {
+                  "type": "text",
+                  "value": { "type": "cell", "column": "amount" }
+                },
+                "asset": {
+                  "type": "symbol",
+                  "value": { "type": "cell", "column": "coin" }
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "description": "Ignore (Buy, Sell, Financial, Transfer in, Transfer out, 365, Interest, Redeem, Subscribe, Subscription, lock-up)",
         "conditions": [
           {
             "value": { "type": "cell", "column": "type" },
@@ -171,7 +312,14 @@
                 "Transfer in",
                 "Transfer out",
                 "365",
-                "Interest"
+                "Interest",
+                "Redeem",
+                "Subscribe",
+                "Subscription",
+                "Unlock locked order",
+                "The locked order is returned to the system",
+                "System lock-up",
+                "User lock-up"
               ]
             }
           }
