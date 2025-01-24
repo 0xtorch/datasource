@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"networkIds","internalType":"uint16[]","type":"uint16[]"},{"name":"magpieAggregatorAddresses","internalType":"bytes32[]","type":"bytes32[]"}],"name":"addMagpieAggregatorAddresses","outputs":[],"stateMutability":"nonpayable"}]

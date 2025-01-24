@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"strat1","internalType":"address","type":"address"},{"name":"strat2","internalType":"address","type":"address"}],"name":"swapOnChainStrategies","outputs":[],"stateMutability":"nonpayable"}]

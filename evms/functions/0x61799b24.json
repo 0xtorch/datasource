@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"wormholeSettings","internalType":"struct WormholeSettings","type":"tuple","components":[{"name":"bridgeAddress","internalType":"address","type":"address"},{"name":"consistencyLevel","internalType":"uint8","type":"uint8"}]}],"name":"updateWormholeSettings","outputs":[],"stateMutability":"nonpayable"}]

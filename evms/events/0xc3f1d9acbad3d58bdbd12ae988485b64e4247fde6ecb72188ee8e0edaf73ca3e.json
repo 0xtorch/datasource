@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"previousAdapter","internalType":"address","type":"address","indexed":false},{"name":"newAdapter","internalType":"contract IAdapter","type":"address","indexed":false}],"name":"AdapterChanged"}]

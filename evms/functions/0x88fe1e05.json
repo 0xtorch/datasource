@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"pool","internalType":"address","type":"address"},{"name":"authorized","internalType":"bool","type":"bool"}],"name":"updatePoolAuthorization","outputs":[],"stateMutability":"nonpayable"}]

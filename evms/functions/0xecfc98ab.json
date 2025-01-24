@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"stargateSettings","internalType":"struct StargateSettings","type":"tuple","components":[{"name":"routerAddress","internalType":"address","type":"address"}]}],"name":"updateStargateSettings","outputs":[],"stateMutability":"nonpayable"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"offset","internalType":"uint256","type":"uint256"},{"name":"windowSize","internalType":"uint256","type":"uint256"},{"name":"statuses","internalType":"bool[]","type":"bool[]"}],"name":"getReceiversByStatuses","outputs":[{"name":"indicies","internalType":"uint256[]","type":"uint256[]"}],"stateMutability":"view"}]

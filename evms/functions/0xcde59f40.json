@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"celerBridgeSettings","internalType":"struct CelerBridgeSettings","type":"tuple","components":[{"name":"messageBusAddress","internalType":"address","type":"address"}]}],"name":"updateCelerBridgeSettings","outputs":[],"stateMutability":"nonpayable"}]

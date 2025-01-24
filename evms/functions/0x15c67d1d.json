@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"otherHashflowChainId","internalType":"uint16","type":"uint16"},{"name":"caller","internalType":"bytes32","type":"bytes32"},{"name":"authorized","internalType":"bool","type":"bool"}],"name":"updateXChainCallerAuthorization","outputs":[],"stateMutability":"nonpayable"}]

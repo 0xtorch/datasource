@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"layerZeroSettings","internalType":"struct LayerZeroSettings","type":"tuple","components":[{"name":"routerAddress","internalType":"address","type":"address"}]}],"name":"updateLayerZeroSettings","outputs":[],"stateMutability":"nonpayable"}]

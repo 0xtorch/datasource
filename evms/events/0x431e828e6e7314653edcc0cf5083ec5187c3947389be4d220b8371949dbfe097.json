@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"sender","internalType":"address","type":"address","indexed":true},{"name":"networkIds","internalType":"uint16[]","type":"uint16[]","indexed":false},{"name":"chainIds","internalType":"uint16[]","type":"uint16[]","indexed":false}],"name":"AddLayerZeroChainIds"}]

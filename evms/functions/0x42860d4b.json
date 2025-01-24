@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_core","internalType":"address","type":"address"},{"name":"_uniswapRouter","internalType":"address","type":"address"},{"name":"_oneInch","internalType":"address","type":"address"}],"name":"initializeRouter","outputs":[],"stateMutability":"nonpayable"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_to","internalType":"address","type":"address"},{"name":"_clothes_id","internalType":"uint32","type":"uint32"}],"name":"ownerMintTo","outputs":[],"stateMutability":"nonpayable"}]

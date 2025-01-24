@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"otherHashflowChainId","internalType":"uint16","type":"uint16"},{"name":"otherPool","internalType":"bytes32","type":"bytes32"},{"name":"authorized","internalType":"bool","type":"bool"}],"name":"updateXChainPoolAuthorization","outputs":[],"stateMutability":"nonpayable"}]

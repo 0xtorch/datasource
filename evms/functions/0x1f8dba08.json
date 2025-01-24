@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_bidId","internalType":"uint256","type":"uint256"},{"name":"_price","internalType":"uint256","type":"uint256"},{"name":"_expired","internalType":"uint256","type":"uint256"},{"name":"_paymentToken","internalType":"address","type":"address"}],"name":"updateBid","outputs":[],"stateMutability":"payable"}]

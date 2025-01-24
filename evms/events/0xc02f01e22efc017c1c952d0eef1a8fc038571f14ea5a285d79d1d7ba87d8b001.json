@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"oldFeed","internalType":"address","type":"address","indexed":false},{"name":"newFeed","internalType":"address","type":"address","indexed":false}],"name":"SetPriceFeed"}]

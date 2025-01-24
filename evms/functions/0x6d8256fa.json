@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"distributionReceiver","internalType":"address","type":"address"},{"name":"share","internalType":"uint256","type":"uint256"}],"name":"setReceiverShare","outputs":[],"stateMutability":"nonpayable"}]
