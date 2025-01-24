@@ -1,5 +1,14 @@
 [
   {
+    "source": "bitget-spot-jst-202412_spot_1162593999933341696",
+    "order": 0,
+    "type": "ignore",
+    "timestamp": 1712910822000,
+    "evidence": "system-rule",
+    "comment": "type: Redemption / coin: BGB / amount: \"61\"",
+    "transfers": []
+  },
+  {
     "source": "bitget-spot-jst-202412_spot_1162695942164586518",
     "order": 0,
     "type": "airdrop",
@@ -26,6 +35,32 @@
     ]
   },
   {
+    "source": "bitget-spot-jst-202412_spot_1182468614700277763",
+    "order": 0,
+    "type": "airdrop",
+    "timestamp": 1717654819000,
+    "evidence": "system-rule",
+    "comment": "type: Airdrop Reward-B / coin: BWB / amount: \"36.063414\"",
+    "transfers": [
+      {
+        "direction": "in",
+        "asset": {
+          "type": "CryptoCurrency",
+          "id": "bitget-wallet-token",
+          "name": "Bitget Wallet Token",
+          "symbol": "bwb",
+          "icon": "https://coin-images.coingecko.com/coins/images/37767/large/bwb.png?1715480561",
+          "market": {
+            "coingeckoId": "bitget-wallet-token",
+            "marketCapUsd": 41945521
+          },
+          "updatedAt": 1728782536762
+        },
+        "amount": "36.063414"
+      }
+    ]
+  },
+  {
     "source": "bitget-spot-jst-202412_spot_1186586273859248128",
     "order": 0,
     "type": "ignore",
@@ -33,6 +68,58 @@
     "evidence": "system-rule",
     "comment": "type: Transfer in / coin: USDT / amount: \"4959.28253296\"",
     "transfers": []
+  },
+  {
+    "source": "bitget-spot-jst-202412_spot_1190168099473014938",
+    "order": 0,
+    "type": "gift",
+    "timestamp": 1719484344000,
+    "evidence": "system-rule",
+    "comment": "type: Increase exchange rate / coin: LOVELY / amount: \"0.0000010449725\"",
+    "transfers": [
+      {
+        "direction": "in",
+        "asset": {
+          "type": "CryptoCurrency",
+          "id": "lovely-inu-finance",
+          "name": "Lovely Inu Finance",
+          "symbol": "lovely",
+          "icon": "https://coin-images.coingecko.com/coins/images/19053/large/lovely-inu-logo-new.png?1696518503",
+          "market": {
+            "coingeckoId": "lovely-inu-finance",
+            "marketCapUsd": 10139556
+          },
+          "updatedAt": 1728782536762
+        },
+        "amount": "0.0000010449725"
+      }
+    ]
+  },
+  {
+    "source": "bitget-spot-jst-202412_spot_1190168099473014938",
+    "order": 1,
+    "type": "fee",
+    "timestamp": 1719484344000,
+    "evidence": "system-rule",
+    "comment": "type: Reduce exchange rate / coin: LOVELY / amount: \"-0.32153\"",
+    "transfers": [
+      {
+        "direction": "out",
+        "asset": {
+          "type": "CryptoCurrency",
+          "id": "lovely-inu-finance",
+          "name": "Lovely Inu Finance",
+          "symbol": "lovely",
+          "icon": "https://coin-images.coingecko.com/coins/images/19053/large/lovely-inu-logo-new.png?1696518503",
+          "market": {
+            "coingeckoId": "lovely-inu-finance",
+            "marketCapUsd": 10139556
+          },
+          "updatedAt": 1728782536762
+        },
+        "amount": "0.32153"
+      }
+    ]
   },
   {
     "source": "bitget-spot-jst-202412_spot_1204279158092464128",
@@ -149,7 +236,7 @@
   {
     "source": "bitget-spot-jst-202412_spot_1253465279855771677",
     "order": 0,
-    "type": "transfer",
+    "type": "fee",
     "timestamp": 1734575331000,
     "evidence": "system-rule",
     "comment": "type: LaunchX expense / coin: USDT / amount: \"-68.0086\"",
@@ -173,13 +260,56 @@
     ]
   },
   {
-    "source": "bitget-spot-jst-202412_spot_1257204520942239744",
+    "source": "bitget-spot-jst-202412_spot_2486155",
     "order": 0,
-    "type": "ignore",
-    "timestamp": 1735466840000,
+    "type": "gift",
+    "timestamp": 1734575934000,
     "evidence": "system-rule",
-    "comment": "type: Redeem / coin: FUEL / amount: \"197544.67\"",
-    "transfers": []
+    "comment": "type: 451 / coin: FUEL / amount: \"3400.43\"",
+    "transfers": [
+      {
+        "direction": "in",
+        "asset": {
+          "type": "CryptoCurrency",
+          "id": "etherparty",
+          "name": "Etherparty",
+          "symbol": "fuel",
+          "icon": "https://coin-images.coingecko.com/coins/images/1082/large/etherparty.png?1696502182",
+          "market": {
+            "coingeckoId": "etherparty",
+            "marketCapUsd": 119185
+          },
+          "updatedAt": 1728782536762
+        },
+        "amount": "3400.43"
+      }
+    ]
+  },
+  {
+    "source": "bitget-spot-jst-202412_spot_2486155",
+    "order": 1,
+    "type": "fee",
+    "timestamp": 1734575934000,
+    "evidence": "system-rule",
+    "comment": "type: 447 / coin: USDT / amount: \"-68.0086\"",
+    "transfers": [
+      {
+        "direction": "out",
+        "asset": {
+          "type": "CryptoCurrency",
+          "id": "tether",
+          "name": "Tether",
+          "symbol": "usdt",
+          "icon": "https://coin-images.coingecko.com/coins/images/325/large/Tether.png?1696501661",
+          "market": {
+            "coingeckoId": "tether",
+            "marketCapUsd": 119675340267
+          },
+          "updatedAt": 1728782536762
+        },
+        "amount": "68.0086"
+      }
+    ]
   },
   {
     "source": "bitget-spot-jst-202412_spot_1253867128768323584",
@@ -191,12 +321,12 @@
     "transfers": []
   },
   {
-    "source": "bitget-spot-jst-202412_spot_1257991967251460099",
+    "source": "bitget-spot-jst-202412_spot_1257204520942239744",
     "order": 0,
     "type": "ignore",
-    "timestamp": 1735654576000,
+    "timestamp": 1735466840000,
     "evidence": "system-rule",
-    "comment": "type: Interest / coin: BGB / amount: \"0.000016619\"",
+    "comment": "type: Redeem / coin: FUEL / amount: \"197544.67\"",
     "transfers": []
   },
   {
@@ -226,30 +356,12 @@
     ]
   },
   {
-    "source": "bitget-spot-jst-202412_spot_1265412161544142852",
+    "source": "bitget-spot-jst-202412_spot_1257632437418020967",
     "order": 0,
     "type": "ignore",
-    "timestamp": 1737423690000,
+    "timestamp": 1735570036000,
     "evidence": "system-rule",
-    "comment": "type: Subscription / coin: SOL / amount: \"-0.04\"",
-    "transfers": []
-  },
-  {
-    "source": "bitget-spot-jst-202412_spot_1257680453877837825",
-    "order": 0,
-    "type": "ignore",
-    "timestamp": 1735617629000,
-    "evidence": "system-rule",
-    "comment": "type: Unlock locked order / coin: BGB / amount: \"0\"",
-    "transfers": []
-  },
-  {
-    "source": "bitget-spot-jst-202412_spot_1257637374911266816",
-    "order": 0,
-    "type": "ignore",
-    "timestamp": 1735615045000,
-    "evidence": "system-rule",
-    "comment": "type: The locked order is returned to the system / coin: BWB / amount: \"-40.762614\"",
+    "comment": "type: User lock-up / coin: BWB / amount: \"0\"",
     "transfers": []
   },
   {
@@ -262,12 +374,169 @@
     "transfers": []
   },
   {
-    "source": "bitget-spot-jst-202412_spot_1257632437418020967",
+    "source": "bitget-spot-jst-202412_spot_1257637374911266816",
     "order": 0,
     "type": "ignore",
-    "timestamp": 1735570036000,
+    "timestamp": 1735615045000,
     "evidence": "system-rule",
-    "comment": "type: User lock-up / coin: BWB / amount: \"0\"",
+    "comment": "type: The locked order is returned to the system / coin: BWB / amount: \"-40.762614\"",
+    "transfers": []
+  },
+  {
+    "source": "bitget-spot-jst-202412_spot_1257680453877837825",
+    "order": 0,
+    "type": "ignore",
+    "timestamp": 1735617629000,
+    "evidence": "system-rule",
+    "comment": "type: Unlock locked order / coin: BGB / amount: \"0\"",
+    "transfers": []
+  },
+  {
+    "source": "bitget-spot-jst-202412_spot_1257862807086116873",
+    "order": 0,
+    "type": "gift",
+    "timestamp": 1735623783000,
+    "evidence": "system-rule",
+    "comment": "type: Exchange income / coin: BGB / amount: \"0.03086898\"",
+    "transfers": [
+      {
+        "direction": "in",
+        "asset": {
+          "type": "CryptoCurrency",
+          "id": "bitget-token",
+          "name": "Bitget Token",
+          "symbol": "bgb",
+          "icon": "https://coin-images.coingecko.com/coins/images/11610/large/icon_colour.png?1696511504",
+          "market": {
+            "coingeckoId": "bitget-token",
+            "marketCapUsd": 1514754323
+          },
+          "updatedAt": 1728782536762
+        },
+        "amount": "0.03086898"
+      }
+    ]
+  },
+  {
+    "source": "bitget-spot-jst-202412_spot_1257862807086116873",
+    "order": 1,
+    "type": "fee",
+    "timestamp": 1735623783000,
+    "evidence": "system-rule",
+    "comment": "type: Exchange income Fee / coin: BGB / amount: \"-0.00061738\"",
+    "transfers": [
+      {
+        "direction": "out",
+        "asset": {
+          "type": "CryptoCurrency",
+          "id": "bitget-token",
+          "name": "Bitget Token",
+          "symbol": "bgb",
+          "icon": "https://coin-images.coingecko.com/coins/images/11610/large/icon_colour.png?1696511504",
+          "market": {
+            "coingeckoId": "bitget-token",
+            "marketCapUsd": 1514754323
+          },
+          "updatedAt": 1728782536762
+        },
+        "amount": "0.00061738"
+      }
+    ]
+  },
+  {
+    "source": "bitget-spot-jst-202412_spot_1257862807086116875",
+    "order": 0,
+    "type": "fee",
+    "timestamp": 1735623783000,
+    "evidence": "system-rule",
+    "comment": "type: Exchange spending / coin: VANA / amount: \"-0.005413389863\"",
+    "transfers": [
+      {
+        "direction": "out",
+        "asset": {
+          "type": "CryptoCurrency",
+          "id": "vana-world",
+          "name": "NIRVANA",
+          "symbol": "vana",
+          "icon": "https://coin-images.coingecko.com/coins/images/32469/large/vana.jpg?1698259899",
+          "market": {
+            "coingeckoId": "vana-world",
+            "marketCapUsd": 59
+          },
+          "updatedAt": 1728782536762
+        },
+        "amount": "0.005413389863"
+      }
+    ]
+  },
+  {
+    "source": "bitget-spot-jst-202412_spot_1257863094723096584",
+    "order": 0,
+    "type": "gift",
+    "timestamp": 1735623852000,
+    "evidence": "system-rule",
+    "comment": "type: Gains / coin: USDT / amount: \"0.43400456297802\"",
+    "transfers": [
+      {
+        "direction": "in",
+        "asset": {
+          "type": "CryptoCurrency",
+          "id": "tether",
+          "name": "Tether",
+          "symbol": "usdt",
+          "icon": "https://coin-images.coingecko.com/coins/images/325/large/Tether.png?1696501661",
+          "market": {
+            "coingeckoId": "tether",
+            "marketCapUsd": 119675340267
+          },
+          "updatedAt": 1728782536762
+        },
+        "amount": "0.43400456297802"
+      }
+    ]
+  },
+  {
+    "source": "bitget-spot-jst-202412_spot_1257863094723096584",
+    "order": 1,
+    "type": "fee",
+    "timestamp": 1735623852000,
+    "evidence": "system-rule",
+    "comment": "type: Consumption / coin: BGB / amount: \"-0.07507154\"",
+    "transfers": [
+      {
+        "direction": "out",
+        "asset": {
+          "type": "CryptoCurrency",
+          "id": "bitget-token",
+          "name": "Bitget Token",
+          "symbol": "bgb",
+          "icon": "https://coin-images.coingecko.com/coins/images/11610/large/icon_colour.png?1696511504",
+          "market": {
+            "coingeckoId": "bitget-token",
+            "marketCapUsd": 1514754323
+          },
+          "updatedAt": 1728782536762
+        },
+        "amount": "0.07507154"
+      }
+    ]
+  },
+  {
+    "source": "bitget-spot-jst-202412_spot_1257991967251460099",
+    "order": 0,
+    "type": "ignore",
+    "timestamp": 1735654576000,
+    "evidence": "system-rule",
+    "comment": "type: Interest / coin: BGB / amount: \"0.000016619\"",
+    "transfers": []
+  },
+  {
+    "source": "bitget-spot-jst-202412_spot_1265412161544142852",
+    "order": 0,
+    "type": "ignore",
+    "timestamp": 1737423690000,
+    "evidence": "system-rule",
+    "comment": "type: Subscription / coin: SOL / amount: \"-0.04\"",
     "transfers": []
   }
 ]

@@ -13,11 +13,14 @@
   "parser": {
     "parsers": [
       {
-        "description": "Airdrop Reward-A => airdrop",
+        "description": "Airdrop Reward-A, Reward-B => airdrop",
         "conditions": [
           {
             "value": { "type": "cell", "column": "Type" },
-            "pattern": "Airdrop Reward-A"
+            "pattern": {
+              "type": "in",
+              "values": ["Airdrop Reward-A", "Airdrop Reward-B"]
+            }
           }
         ],
         "generators": [
@@ -205,11 +208,20 @@
         ]
       },
       {
-        "description": "LaunchX income",
+        "description": "LaunchX income (451) / Exchange income / Gains / Increase exchange rate",
         "conditions": [
           {
             "value": { "type": "cell", "column": "Type" },
-            "pattern": "LaunchX income"
+            "pattern": {
+              "type": "in",
+              "values": [
+                "LaunchX income",
+                "451",
+                "Exchange income",
+                "Gains",
+                "Increase exchange rate"
+              ]
+            }
           }
         ],
         "generators": [
@@ -252,16 +264,76 @@
         ]
       },
       {
-        "description": "LaunchX expense",
+        "description": "Exchange income fee",
         "conditions": [
           {
             "value": { "type": "cell", "column": "Type" },
-            "pattern": "LaunchX expense"
+            "pattern": "Exchange income"
+          },
+          {
+            "value": { "type": "cell", "column": "Fee" },
+            "pattern": { "type": "negative" }
           }
         ],
         "generators": [
           {
-            "type": "transfer",
+            "type": "fee",
+            "source": {
+              "type": "join",
+              "values": [
+                { "type": "service" },
+                "_spot_",
+                { "type": "cell", "column": "order" }
+              ]
+            },
+            "timestamp": { "type": "cell", "column": "Date" },
+            "comment": {
+              "type": "join",
+              "values": [
+                "type: ",
+                { "type": "cell", "column": "Type" },
+                " Fee / coin: ",
+                { "type": "cell", "column": "Coin" },
+                " / amount: ",
+                { "type": "cell", "column": "Fee" }
+              ]
+            },
+            "transfers": [
+              {
+                "direction": "out",
+                "amount": {
+                  "type": "text",
+                  "value": { "type": "cell", "column": "Fee" }
+                },
+                "asset": {
+                  "type": "symbol",
+                  "value": { "type": "cell", "column": "Coin" }
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "description": "LaunchX expense (447) / Exchange spending / Consumption / Reduce exchange rate",
+        "conditions": [
+          {
+            "value": { "type": "cell", "column": "Type" },
+            "pattern": {
+              "type": "in",
+              "values": [
+                "LaunchX expense",
+                "447",
+                "Exchange spending",
+                "Consumption",
+                "Reduce exchange rate"
+              ]
+            }
+          }
+        ],
+        "generators": [
+          {
+            "type": "fee",
             "source": {
               "type": "join",
               "values": [
@@ -299,7 +371,7 @@
         ]
       },
       {
-        "description": "Ignore (Buy, Sell, Financial, Transfer in, Transfer out, 365, Interest, Redeem, Subscribe, Subscription, lock-up)",
+        "description": "Ignore (Buy, Sell, Financial, Transfer in, Transfer out, 365, Interest, Redeem, Redemption, Subscribe, Subscription, lock-up)",
         "conditions": [
           {
             "value": { "type": "cell", "column": "Type" },
@@ -314,6 +386,7 @@
                 "365",
                 "Interest",
                 "Redeem",
+                "Redemption",
                 "Subscribe",
                 "Subscription",
                 "Unlock locked order",
