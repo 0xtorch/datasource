@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"fid","internalType":"uint256","type":"uint256"},{"name":"storageUnits","internalType":"uint256","type":"uint256"}],"name":"rentWithCommission","outputs":[],"stateMutability":"payable"}]

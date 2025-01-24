@@ -1,0 +1,1 @@
+[{"type":"function","constant":false,"inputs":[{"name":"_txFee","type":"uint256"},{"name":"_burnFee","type":"uint256"},{"name":"_FeeAddress","type":"address"}],"name":"updateFee","outputs":[],"payable":false,"stateMutability":"nonpayable"}]

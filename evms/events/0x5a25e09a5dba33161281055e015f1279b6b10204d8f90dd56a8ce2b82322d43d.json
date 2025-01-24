@@ -1,1 +1,1 @@
-[{"type":"event","anonymous":false,"inputs":[{"name":"WhiteListed","type":"address","indexed":true},{"name":"value","type":"bool","indexed":false}],"name":"Whitelist"}]
+[{"type":"event","anonymous":false,"inputs":[{"name":"WhiteListed","type":"address","indexed":true},{"name":"value","type":"bool","indexed":false}],"name":"Whitelist"},{"type":"event","anonymous":false,"inputs":[{"name":"_target","internalType":"address","type":"address","indexed":true},{"name":"_status","internalType":"bool","type":"bool","indexed":true}],"name":"Whitelist"}]

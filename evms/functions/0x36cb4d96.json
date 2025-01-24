@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_listOrders","internalType":"uint256[]","type":"uint256[]"},{"name":"_listQuantity","internalType":"uint256[]","type":"uint256[]"}],"name":"buy","outputs":[{"name":"","internalType":"bool","type":"bool"}],"stateMutability":"payable"}]

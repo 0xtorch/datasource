@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"feed","internalType":"contract AggregatorV3Interface","type":"address"}],"name":"setUptimeFeed","outputs":[],"stateMutability":"nonpayable"}]

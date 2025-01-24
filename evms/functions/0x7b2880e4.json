@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_to","internalType":"address","type":"address"},{"name":"_tokenIds","internalType":"uint256[]","type":"uint256[]"},{"name":"_dataArr","internalType":"string[]","type":"string[]"},{"name":"_typeArr","internalType":"enum Monsterra.Type[]","type":"uint8[]"}],"name":"mintBatch","outputs":[],"stateMutability":"nonpayable"}]

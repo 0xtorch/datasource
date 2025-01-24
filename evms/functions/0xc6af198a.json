@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_clothes_id","internalType":"uint32","type":"uint32"},{"name":"_sign","internalType":"bytes","type":"bytes"},{"name":"_tx_id","internalType":"string","type":"string"}],"name":"purchaseWhitelist","outputs":[],"stateMutability":"nonpayable"}]

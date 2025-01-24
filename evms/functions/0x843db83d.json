@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"contracts","internalType":"address[]","type":"address[]"}],"name":"setAllowedContracts","outputs":[],"stateMutability":"nonpayable"}]

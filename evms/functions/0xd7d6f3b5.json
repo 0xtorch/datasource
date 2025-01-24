@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"","internalType":"uint256","type":"uint256"}],"name":"Bundles","outputs":[{"name":"owner","internalType":"address","type":"address"},{"name":"status","internalType":"bool","type":"bool"},{"name":"price","internalType":"uint256","type":"uint256"},{"name":"paymentToken","internalType":"address","type":"address"}],"stateMutability":"view"}]

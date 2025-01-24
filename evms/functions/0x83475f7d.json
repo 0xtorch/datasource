@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"chain","internalType":"bytes32","type":"bytes32"},{"name":"newAdapter","internalType":"contract IAdapter","type":"address"}],"name":"changeAdapter","outputs":[],"stateMutability":"nonpayable"}]

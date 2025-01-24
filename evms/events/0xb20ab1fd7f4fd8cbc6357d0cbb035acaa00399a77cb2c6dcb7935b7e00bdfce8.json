@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"entity","internalType":"address","type":"address","indexed":true},{"name":"selector","internalType":"bytes4","type":"bytes4","indexed":true},{"name":"status","internalType":"bool","type":"bool","indexed":true}],"name":"SelectorUsageStatusSet"}]

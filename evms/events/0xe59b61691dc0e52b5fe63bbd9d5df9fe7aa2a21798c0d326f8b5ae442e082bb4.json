@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"sender","internalType":"address","type":"address","indexed":true},{"name":"celerBridgeSettings","internalType":"struct CelerBridgeSettings","type":"tuple","components":[{"name":"messageBusAddress","internalType":"address","type":"address"}],"indexed":false}],"name":"UpdateCelerBridgeSettings"}]

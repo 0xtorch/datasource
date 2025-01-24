@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"networkId","internalType":"uint16","type":"uint16"},{"name":"senderAddress","internalType":"bytes32","type":"bytes32"},{"name":"swapSequence","internalType":"uint64","type":"uint64"}],"name":"isTransferKeyUsed","outputs":[{"name":"","internalType":"bool","type":"bool"}],"stateMutability":"view"}]

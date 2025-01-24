@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_listTokenAddress","internalType":"address[]","type":"address[]"},{"name":"_listTokenId","internalType":"uint256[]","type":"uint256[]"},{"name":"price","internalType":"uint256","type":"uint256"},{"name":"_paymentToken","internalType":"address","type":"address"}],"name":"createBundle","outputs":[],"stateMutability":"nonpayable"}]

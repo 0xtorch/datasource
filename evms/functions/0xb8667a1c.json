@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"distributionReceiver","internalType":"address","type":"address"},{"name":"status","internalType":"bool","type":"bool"}],"name":"setReceiverStatus","outputs":[],"stateMutability":"nonpayable"}]

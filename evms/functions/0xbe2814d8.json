@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"who","internalType":"address","type":"address"},{"name":"selector","internalType":"bytes4","type":"bytes4"},{"name":"status","internalType":"bool","type":"bool"}],"name":"setStatusOfSelectorUsageTo","outputs":[],"stateMutability":"nonpayable"}]

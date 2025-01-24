@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[],"name":"currentVault","outputs":[{"name":"","internalType":"contract IOnChainVaultPendle","type":"address"}],"stateMutability":"view"}]

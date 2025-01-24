@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"chainIds","internalType":"uint16[]","type":"uint16[]"},{"name":"networkIds","internalType":"uint16[]","type":"uint16[]"}],"name":"addWormholeNetworkIds","outputs":[],"stateMutability":"nonpayable"}]
