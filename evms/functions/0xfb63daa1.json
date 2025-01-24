@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_hooks","internalType":"contract ERC721Hooks","type":"address"}],"name":"setHooks","outputs":[],"stateMutability":"nonpayable"}]

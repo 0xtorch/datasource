@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"to","internalType":"address","type":"address"},{"name":"fidClaimer","internalType":"uint256","type":"uint256"},{"name":"fidCredited","internalType":"uint256","type":"uint256"}],"name":"claimAirdrop","outputs":[],"stateMutability":"nonpayable"}]

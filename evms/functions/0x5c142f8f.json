@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_subjects","internalType":"address[]","type":"address[]"},{"name":"_amounts","internalType":"uint256[]","type":"uint256[]"},{"name":"_lockPeriodInSec","internalType":"uint256","type":"uint256"}],"name":"depositAndLockMultiple","outputs":[{"name":"unlockTimeInSec_","internalType":"uint256","type":"uint256"}],"stateMutability":"nonpayable"}]

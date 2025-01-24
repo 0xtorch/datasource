@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"_swapbackMin","internalType":"uint256","type":"uint256","indexed":false},{"name":"_swapbackMax","internalType":"uint256","type":"uint256","indexed":false}],"name":"SwapbackUpdated"}]

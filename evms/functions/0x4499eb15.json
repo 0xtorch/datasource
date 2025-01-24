@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"bridge","internalType":"address","type":"address"},{"name":"newBufferCap","internalType":"uint256","type":"uint256"}],"name":"setBufferCap","outputs":[],"stateMutability":"nonpayable"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"claimNonce","internalType":"uint256","type":"uint256"}],"name":"nonceIsUsed","outputs":[{"name":"","internalType":"bool","type":"bool"}],"stateMutability":"view"}]

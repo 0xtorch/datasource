@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"subjectToken","internalType":"address","type":"address"},{"name":"moxie","internalType":"address","type":"address"}],"name":"reserves","outputs":[{"name":"amount","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

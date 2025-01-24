@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"_subjectToken","internalType":"address","type":"address","indexed":true},{"name":"_destination","internalType":"address","type":"address","indexed":true}],"name":"SubjectTokenDestinationsApproved"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"subject","internalType":"address","type":"address"}],"name":"platformReferrer","outputs":[{"name":"_platformReferrer","internalType":"address","type":"address"}],"stateMutability":"view"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_to","internalType":"address","type":"address"},{"name":"_amount","internalType":"uint256","type":"uint256"},{"name":"_reason","internalType":"bytes4","type":"bytes4"},{"name":"_comment","internalType":"string","type":"string"}],"name":"deposit","outputs":[],"stateMutability":"nonpayable"}]

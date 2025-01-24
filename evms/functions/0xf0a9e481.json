@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"channelId","internalType":"uint32","type":"uint32"},{"name":"active","internalType":"bool","type":"bool"}],"name":"setReadChannel","outputs":[],"stateMutability":"nonpayable"}]
