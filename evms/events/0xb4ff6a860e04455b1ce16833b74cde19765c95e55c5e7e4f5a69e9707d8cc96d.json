@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"bridge","internalType":"address","type":"address","indexed":true},{"name":"bufferCap","internalType":"uint112","type":"uint112","indexed":false},{"name":"rateLimitPerSecond","internalType":"uint128","type":"uint128","indexed":false}],"name":"ConfigurationChanged"}]

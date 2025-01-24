@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"_lockPeriodInSec","internalType":"uint256","type":"uint256","indexed":true},{"name":"_allowed","internalType":"bool","type":"bool","indexed":true}],"name":"LockPeriodUpdated"}]

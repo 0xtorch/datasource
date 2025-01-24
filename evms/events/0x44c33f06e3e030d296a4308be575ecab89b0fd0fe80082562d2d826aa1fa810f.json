@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"_subject","internalType":"address","type":"address","indexed":false},{"name":"_oldReserveRatio","internalType":"uint32","type":"uint32","indexed":false},{"name":"_newReserveRatio","internalType":"uint32","type":"uint32","indexed":false}],"name":"SubjectReserveRatioUpdated"}]

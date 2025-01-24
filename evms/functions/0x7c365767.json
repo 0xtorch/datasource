@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"subject","internalType":"address","type":"address"}],"name":"lastPaused","outputs":[{"name":"_paused","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"fidClaimer","internalType":"uint256","type":"uint256","indexed":true},{"name":"fidCredited","internalType":"uint256","type":"uint256","indexed":true},{"name":"amount","internalType":"uint256","type":"uint256","indexed":false}],"name":"AirdropClaim"}]

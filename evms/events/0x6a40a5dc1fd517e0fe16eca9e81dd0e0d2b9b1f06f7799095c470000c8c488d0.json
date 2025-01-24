@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"_auctionDuration","internalType":"uint256","type":"uint256","indexed":false},{"name":"_auctionOrderCancellationDuration","internalType":"uint256","type":"uint256","indexed":false}],"name":"UpdateAuctionParam"}]

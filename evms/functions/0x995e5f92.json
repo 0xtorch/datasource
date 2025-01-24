@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"token","internalType":"address","type":"address"}],"name":"getSteps","outputs":[{"name":"","internalType":"struct MCV2_Bond.BondStep[]","type":"tuple[]","components":[{"name":"rangeTo","internalType":"uint128","type":"uint128"},{"name":"price","internalType":"uint128","type":"uint128"}]}],"stateMutability":"view"}]
