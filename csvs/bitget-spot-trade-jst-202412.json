@@ -1,5 +1,5 @@
 {
-  "id": "bitget-spot-trade-jst",
+  "id": "bitget-spot-trade-jst-202412",
   "service": "bitget",
   "formatter": {
     "Date": ["iso8601-jp"],
