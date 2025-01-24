@@ -211,6 +211,52 @@
     "transfers": []
   },
   {
+    "source": "bitget-future-trade-202412_future_1198465761635106860",
+    "order": 0,
+    "type": "derivative-fee",
+    "timestamp": 1721462424000,
+    "evidence": "system-rule",
+    "comment": "contract_margin_settle_fee : BTCUSDT",
+    "transfers": [
+      {
+        "direction": "out",
+        "asset": {
+          "type": "CryptoCurrency",
+          "id": "tether",
+          "name": "Tether",
+          "symbol": "usdt",
+          "icon": "https://coin-images.coingecko.com/coins/images/325/large/Tether.png?1696501661",
+          "market": { "coingeckoId": "tether", "marketCapUsd": 119675340267 },
+          "updatedAt": 1728782536762
+        },
+        "amount": "0.16636175"
+      }
+    ]
+  },
+  {
+    "source": "bitget-future-trade-202412_future_1198344974634745886",
+    "order": 0,
+    "type": "derivative-profit",
+    "timestamp": 1721433626000,
+    "evidence": "system-rule",
+    "comment": "contract_margin_settle_fee : BTCUSDT",
+    "transfers": [
+      {
+        "direction": "in",
+        "asset": {
+          "type": "CryptoCurrency",
+          "id": "tether",
+          "name": "Tether",
+          "symbol": "usdt",
+          "icon": "https://coin-images.coingecko.com/coins/images/325/large/Tether.png?1696501661",
+          "market": { "coingeckoId": "tether", "marketCapUsd": 119675340267 },
+          "updatedAt": 1728782536762
+        },
+        "amount": "0.259943448615"
+      }
+    ]
+  },
+  {
     "source": "bitget-future-trade-202412_future_1192991256208904192",
     "order": 0,
     "type": "ignore",
