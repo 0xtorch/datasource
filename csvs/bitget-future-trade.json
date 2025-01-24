@@ -299,7 +299,13 @@
               "type": "cell",
               "column": "type"
             },
-            "pattern": "contract_main_settle_fee"
+            "pattern": {
+              "type": "in",
+              "values": [
+                "contract_main_settle_fee",
+                "contract_margin_settle_fee"
+              ]
+            }
           },
           {
             "value": {
@@ -364,7 +370,13 @@
               "type": "cell",
               "column": "type"
             },
-            "pattern": "contract_main_settle_fee"
+            "pattern": {
+              "type": "in",
+              "values": [
+                "contract_main_settle_fee",
+                "contract_margin_settle_fee"
+              ]
+            }
           },
           {
             "value": {

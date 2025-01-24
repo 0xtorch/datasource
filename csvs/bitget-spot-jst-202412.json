@@ -1,14 +1,14 @@
 {
-  "id": "bitget-spot-jst",
+  "id": "bitget-spot-jst-202412",
   "service": "bitget",
   "formatter": {
     "order": ["string"],
-    "date": ["iso8601-jp"],
-    "coin": ["string"],
-    "type": ["string"],
-    "amount": ["big-decimal"],
-    "fee": ["big-decimal"],
-    "available": ["big-decimal"]
+    "Date": ["iso8601-jp"],
+    "Coin": ["string"],
+    "Type": ["string"],
+    "Amount": ["big-decimal"],
+    "Fee": ["big-decimal"],
+    "Available": ["big-decimal"]
   },
   "parser": {
     "parsers": [
@@ -16,7 +16,7 @@
         "description": "Airdrop Reward-A, Reward-B => airdrop",
         "conditions": [
           {
-            "value": { "type": "cell", "column": "type" },
+            "value": { "type": "cell", "column": "Type" },
             "pattern": {
               "type": "in",
               "values": ["Airdrop Reward-A", "Airdrop Reward-B"]
@@ -34,16 +34,16 @@
                 { "type": "cell", "column": "order" }
               ]
             },
-            "timestamp": { "type": "cell", "column": "date" },
+            "timestamp": { "type": "cell", "column": "Date" },
             "comment": {
               "type": "join",
               "values": [
                 "type: ",
-                { "type": "cell", "column": "type" },
+                { "type": "cell", "column": "Type" },
                 " / coin: ",
-                { "type": "cell", "column": "coin" },
+                { "type": "cell", "column": "Coin" },
                 " / amount: ",
-                { "type": "cell", "column": "amount" }
+                { "type": "cell", "column": "Amount" }
               ]
             },
             "transfers": [
@@ -51,11 +51,11 @@
                 "direction": "in",
                 "amount": {
                   "type": "text",
-                  "value": { "type": "cell", "column": "amount" }
+                  "value": { "type": "cell", "column": "Amount" }
                 },
                 "asset": {
                   "type": "symbol",
-                  "value": { "type": "cell", "column": "coin" }
+                  "value": { "type": "cell", "column": "Coin" }
                 }
               }
             ]
@@ -66,7 +66,7 @@
         "description": "Crypto Voucher Distribution",
         "conditions": [
           {
-            "value": { "type": "cell", "column": "type" },
+            "value": { "type": "cell", "column": "Type" },
             "pattern": "Crypto Voucher Distribution"
           }
         ],
@@ -81,16 +81,16 @@
                 { "type": "cell", "column": "order" }
               ]
             },
-            "timestamp": { "type": "cell", "column": "date" },
+            "timestamp": { "type": "cell", "column": "Date" },
             "comment": {
               "type": "join",
               "values": [
                 "type: ",
-                { "type": "cell", "column": "type" },
+                { "type": "cell", "column": "Type" },
                 " / coin: ",
-                { "type": "cell", "column": "coin" },
+                { "type": "cell", "column": "Coin" },
                 " / amount: ",
-                { "type": "cell", "column": "amount" }
+                { "type": "cell", "column": "Amount" }
               ]
             },
             "transfers": [
@@ -98,11 +98,11 @@
                 "direction": "in",
                 "amount": {
                   "type": "text",
-                  "value": { "type": "cell", "column": "amount" }
+                  "value": { "type": "cell", "column": "Amount" }
                 },
                 "asset": {
                   "type": "symbol",
-                  "value": { "type": "cell", "column": "coin" }
+                  "value": { "type": "cell", "column": "Coin" }
                 }
               }
             ]
@@ -113,14 +113,14 @@
         "description": "Deposit / Ordinary Withdrawal => fee (if fee<0)",
         "conditions": [
           {
-            "value": { "type": "cell", "column": "type" },
+            "value": { "type": "cell", "column": "Type" },
             "pattern": {
               "type": "in",
               "values": ["Deposit", "Ordinary Withdrawal"]
             }
           },
           {
-            "value": { "type": "cell", "column": "fee" },
+            "value": { "type": "cell", "column": "Fee" },
             "pattern": { "type": "negative" }
           }
         ],
@@ -135,18 +135,18 @@
                 { "type": "cell", "column": "order" }
               ]
             },
-            "timestamp": { "type": "cell", "column": "date" },
+            "timestamp": { "type": "cell", "column": "Date" },
             "comment": {
               "type": "join",
               "values": [
                 "type: ",
-                { "type": "cell", "column": "type" },
+                { "type": "cell", "column": "Type" },
                 " / coin: ",
-                { "type": "cell", "column": "coin" },
+                { "type": "cell", "column": "Coin" },
                 " / amount: ",
-                { "type": "cell", "column": "amount" },
+                { "type": "cell", "column": "Amount" },
                 " / fee: ",
-                { "type": "cell", "column": "fee" }
+                { "type": "cell", "column": "Fee" }
               ]
             },
             "transfers": [
@@ -154,11 +154,11 @@
                 "direction": "out",
                 "amount": {
                   "type": "text",
-                  "value": { "type": "cell", "column": "fee" }
+                  "value": { "type": "cell", "column": "Fee" }
                 },
                 "asset": {
                   "type": "symbol",
-                  "value": { "type": "cell", "column": "coin" }
+                  "value": { "type": "cell", "column": "Coin" }
                 }
               }
             ]
@@ -169,14 +169,14 @@
         "description": "Deposit / Ordinary Withdrawal => ignore (if fee=0)",
         "conditions": [
           {
-            "value": { "type": "cell", "column": "type" },
+            "value": { "type": "cell", "column": "Type" },
             "pattern": {
               "type": "in",
               "values": ["Deposit", "Ordinary Withdrawal"]
             }
           },
           {
-            "value": { "type": "cell", "column": "fee" },
+            "value": { "type": "cell", "column": "Fee" },
             "pattern": "\"0\""
           }
         ],
@@ -191,16 +191,16 @@
                 { "type": "cell", "column": "order" }
               ]
             },
-            "timestamp": { "type": "cell", "column": "date" },
+            "timestamp": { "type": "cell", "column": "Date" },
             "comment": {
               "type": "join",
               "values": [
                 "type: ",
-                { "type": "cell", "column": "type" },
+                { "type": "cell", "column": "Type" },
                 " / coin: ",
-                { "type": "cell", "column": "coin" },
+                { "type": "cell", "column": "Coin" },
                 " / amount: ",
-                { "type": "cell", "column": "amount" }
+                { "type": "cell", "column": "Amount" }
               ]
             },
             "transfers": []
@@ -211,7 +211,7 @@
         "description": "LaunchX income (451) / Exchange income / Gains / Increase exchange rate",
         "conditions": [
           {
-            "value": { "type": "cell", "column": "type" },
+            "value": { "type": "cell", "column": "Type" },
             "pattern": {
               "type": "in",
               "values": [
@@ -235,16 +235,16 @@
                 { "type": "cell", "column": "order" }
               ]
             },
-            "timestamp": { "type": "cell", "column": "date" },
+            "timestamp": { "type": "cell", "column": "Date" },
             "comment": {
               "type": "join",
               "values": [
                 "type: ",
-                { "type": "cell", "column": "type" },
+                { "type": "cell", "column": "Type" },
                 " / coin: ",
-                { "type": "cell", "column": "coin" },
+                { "type": "cell", "column": "Coin" },
                 " / amount: ",
-                { "type": "cell", "column": "amount" }
+                { "type": "cell", "column": "Amount" }
               ]
             },
             "transfers": [
@@ -252,11 +252,11 @@
                 "direction": "in",
                 "amount": {
                   "type": "text",
-                  "value": { "type": "cell", "column": "amount" }
+                  "value": { "type": "cell", "column": "Amount" }
                 },
                 "asset": {
                   "type": "symbol",
-                  "value": { "type": "cell", "column": "coin" }
+                  "value": { "type": "cell", "column": "Coin" }
                 }
               }
             ]
@@ -267,11 +267,11 @@
         "description": "Exchange income fee",
         "conditions": [
           {
-            "value": { "type": "cell", "column": "type" },
+            "value": { "type": "cell", "column": "Type" },
             "pattern": "Exchange income"
           },
           {
-            "value": { "type": "cell", "column": "fee" },
+            "value": { "type": "cell", "column": "Fee" },
             "pattern": { "type": "negative" }
           }
         ],
@@ -286,16 +286,16 @@
                 { "type": "cell", "column": "order" }
               ]
             },
-            "timestamp": { "type": "cell", "column": "date" },
+            "timestamp": { "type": "cell", "column": "Date" },
             "comment": {
               "type": "join",
               "values": [
                 "type: ",
-                { "type": "cell", "column": "type" },
+                { "type": "cell", "column": "Type" },
                 " Fee / coin: ",
-                { "type": "cell", "column": "coin" },
+                { "type": "cell", "column": "Coin" },
                 " / amount: ",
-                { "type": "cell", "column": "fee" }
+                { "type": "cell", "column": "Fee" }
               ]
             },
             "transfers": [
@@ -303,11 +303,11 @@
                 "direction": "out",
                 "amount": {
                   "type": "text",
-                  "value": { "type": "cell", "column": "fee" }
+                  "value": { "type": "cell", "column": "Fee" }
                 },
                 "asset": {
                   "type": "symbol",
-                  "value": { "type": "cell", "column": "coin" }
+                  "value": { "type": "cell", "column": "Coin" }
                 }
               }
             ]
@@ -318,7 +318,7 @@
         "description": "LaunchX expense (447) / Exchange spending / Consumption / Reduce exchange rate",
         "conditions": [
           {
-            "value": { "type": "cell", "column": "type" },
+            "value": { "type": "cell", "column": "Type" },
             "pattern": {
               "type": "in",
               "values": [
@@ -342,16 +342,16 @@
                 { "type": "cell", "column": "order" }
               ]
             },
-            "timestamp": { "type": "cell", "column": "date" },
+            "timestamp": { "type": "cell", "column": "Date" },
             "comment": {
               "type": "join",
               "values": [
                 "type: ",
-                { "type": "cell", "column": "type" },
+                { "type": "cell", "column": "Type" },
                 " / coin: ",
-                { "type": "cell", "column": "coin" },
+                { "type": "cell", "column": "Coin" },
                 " / amount: ",
-                { "type": "cell", "column": "amount" }
+                { "type": "cell", "column": "Amount" }
               ]
             },
             "transfers": [
@@ -359,11 +359,11 @@
                 "direction": "out",
                 "amount": {
                   "type": "text",
-                  "value": { "type": "cell", "column": "amount" }
+                  "value": { "type": "cell", "column": "Amount" }
                 },
                 "asset": {
                   "type": "symbol",
-                  "value": { "type": "cell", "column": "coin" }
+                  "value": { "type": "cell", "column": "Coin" }
                 }
               }
             ]
@@ -374,7 +374,7 @@
         "description": "Ignore (Buy, Sell, Financial, Transfer in, Transfer out, 365, Interest, Redeem, Redemption, Subscribe, Subscription, lock-up)",
         "conditions": [
           {
-            "value": { "type": "cell", "column": "type" },
+            "value": { "type": "cell", "column": "Type" },
             "pattern": {
               "type": "in",
               "values": [
@@ -408,16 +408,16 @@
                 { "type": "cell", "column": "order" }
               ]
             },
-            "timestamp": { "type": "cell", "column": "date" },
+            "timestamp": { "type": "cell", "column": "Date" },
             "comment": {
               "type": "join",
               "values": [
                 "type: ",
-                { "type": "cell", "column": "type" },
+                { "type": "cell", "column": "Type" },
                 " / coin: ",
-                { "type": "cell", "column": "coin" },
+                { "type": "cell", "column": "Coin" },
                 " / amount: ",
-                { "type": "cell", "column": "amount" }
+                { "type": "cell", "column": "Amount" }
               ]
             },
             "transfers": []
