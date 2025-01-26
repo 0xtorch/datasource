@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_token","internalType":"address","type":"address"},{"name":"_target","internalType":"address","type":"address"},{"name":"_targetChainId","internalType":"uint256","type":"uint256"}],"name":"transferFundsFromLegacy","outputs":[],"stateMutability":"nonpayable"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"signature","internalType":"bytes","type":"bytes"},{"name":"daoPower","internalType":"uint32","type":"uint32"},{"name":"contributionAmount","internalType":"uint224","type":"uint224"},{"name":"maxContributionAmount","internalType":"uint256","type":"uint256"}],"name":"register","outputs":[],"stateMutability":"payable"}]

@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"oldCooldown","internalType":"uint48","type":"uint48","indexed":false},{"name":"cooldown","internalType":"uint48","type":"uint48","indexed":false}],"name":"SetCooldown"}]

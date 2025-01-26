@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"oldTransactionFilterer","internalType":"address","type":"address","indexed":false},{"name":"newTransactionFilterer","internalType":"address","type":"address","indexed":false}],"name":"NewTransactionFilterer"}]

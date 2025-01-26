@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_depositApprover","internalType":"address","type":"address"}],"name":"setDepositApprover","outputs":[],"stateMutability":"nonpayable"}]

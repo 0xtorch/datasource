@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"validiumMode","internalType":"enum PubdataPricingMode","type":"uint8","indexed":false}],"name":"ValidiumModeStatusUpdate"}]

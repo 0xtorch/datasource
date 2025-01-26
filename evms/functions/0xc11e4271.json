@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_numberOfTokens","internalType":"uint16","type":"uint16"}],"name":"canMint","outputs":[{"name":"","internalType":"bool","type":"bool"}],"stateMutability":"view"}]

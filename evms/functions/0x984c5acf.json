@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_l2Receiver","internalType":"address","type":"address"},{"name":"_amount","internalType":"uint256","type":"uint256"}],"name":"mintBaseTokenL2","outputs":[],"stateMutability":"nonpayable"}]

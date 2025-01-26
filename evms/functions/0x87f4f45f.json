@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"accountID","internalType":"address","type":"address"}],"name":"getDepositProxyAddress","outputs":[{"name":"","internalType":"address","type":"address"}],"stateMutability":"view"}]
