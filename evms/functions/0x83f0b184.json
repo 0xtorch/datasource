@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[],"name":"calculateMaxContribution","outputs":[{"name":"maxEth","internalType":"uint256","type":"uint256"},{"name":"maxUsd","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

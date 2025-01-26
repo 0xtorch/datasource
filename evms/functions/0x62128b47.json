@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[],"name":"l2DepositProxyAddressDerivationParams","outputs":[{"name":"exchangeAddress","internalType":"address","type":"address"},{"name":"beaconProxyBytecodeHash","internalType":"bytes32","type":"bytes32"},{"name":"depositProxyBeacon","internalType":"address","type":"address"}],"stateMutability":"view"}]

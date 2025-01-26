@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_chainId","internalType":"uint256","type":"uint256"},{"name":"_prevMsgSender","internalType":"address","type":"address"},{"name":"_l1Token","internalType":"address","type":"address"},{"name":"_amount","internalType":"uint256","type":"uint256"}],"name":"bridgehubDepositBaseToken","outputs":[],"stateMutability":"payable"}]

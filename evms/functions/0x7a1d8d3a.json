@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_token","internalType":"address","type":"address"},{"name":"_target","internalType":"address","type":"address"},{"name":"_targetChainId","internalType":"uint256","type":"uint256"},{"name":"_gasPerToken","internalType":"uint256","type":"uint256"}],"name":"safeTransferFundsFromLegacy","outputs":[],"stateMutability":"nonpayable"}]

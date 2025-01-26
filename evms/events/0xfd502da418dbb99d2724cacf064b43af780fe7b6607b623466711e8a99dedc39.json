@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"operator","internalType":"bytes32","type":"bytes32","indexed":true},{"name":"blocked","internalType":"bool","type":"bool","indexed":false}],"name":"OperatorBlocked"}]

@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"mintedTo","internalType":"address","type":"address","indexed":false},{"name":"startTokenId","internalType":"uint256","type":"uint256","indexed":false},{"name":"numberOfTokensMinted","internalType":"uint16","type":"uint16","indexed":false}],"name":"TokensMinted"}]

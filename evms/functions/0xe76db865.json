@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_pricingMode","internalType":"enum PubdataPricingMode","type":"uint8"}],"name":"setPubdataPricingMode","outputs":[],"stateMutability":"nonpayable"}]

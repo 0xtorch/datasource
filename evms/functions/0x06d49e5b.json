@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[],"name":"getPubdataPricingMode","outputs":[{"name":"","internalType":"enum PubdataPricingMode","type":"uint8"}],"stateMutability":"view"}]
