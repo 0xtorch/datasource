@@ -266,6 +266,10 @@
     "XLM": "crypto/stellar",
     "XTZ": "crypto/tezos",
     "XYM": "crypto/symbol",
-    "ZPG": "crypto/0xtorch-zipang-coin"
+    "ZPG": "crypto/0xtorch-zipang-coin",
+    "NIDT": "crypto/0xtorch-nippon-idol-token",
+    "FCR": "crypto/fcr-coin",
+    "FLR": "crypto/flare-networks",
+    "OAS": "crypto/oasys"
   }
 }
