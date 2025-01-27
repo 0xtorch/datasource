@@ -154,11 +154,31 @@
               "column": "口座種別"
             },
             "pattern": "ウォレット"
+          },
+          {
+            "value": {
+              "type": "cell",
+              "column": "数量"
+            },
+            "pattern": {
+              "type": "nonpositive"
+            }
+          },
+          {
+            "value": {
+              "type": "cell",
+              "column": "数量"
+            },
+            "pattern": {
+              "type": "nonnegative"
+            }
           }
         ],
         "generators": [
           {
-            "type": "fee",
+            "type": "ignore",
+            "$comment": "ゼロフィーは表現できなさそう",
+
             "source": {
               "type": "join",
               "values": [
@@ -183,25 +203,7 @@
                 { "type": "cell", "column": "備考" }
               ]
             },
-            "transfers": [
-              {
-                "direction": "out",
-                "amount": {
-                  "type": "text",
-                  "value": {
-                    "type": "cell",
-                    "column": "数量"
-                  }
-                },
-                "asset": {
-                  "type": "symbol",
-                  "value": {
-                    "type": "cell",
-                    "column": ""
-                  }
-                }
-              }
-            ]
+            "transfers": []
           }
         ]
       },

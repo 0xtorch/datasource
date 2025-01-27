@@ -1,1 +1,49 @@
-[]
+[
+  {
+    "comment": "口座種別: ウォレット / 入出金の種別: 日本円入金 / 数量: \"5000\"JPY / 備考: ",
+    "evidence": "system-rule",
+    "order": 0,
+    "source": "dmmbitcoin-cashflow_cashflow_1701668294000",
+    "timestamp": 1701668294000,
+    "transfers": [],
+    "type": "ignore"
+  },
+  {
+    "comment": "口座種別: ウォレット / 入出金の種別: 日本円振替出金 / 数量: \"-5000\"JPY / 備考: ",
+    "evidence": "system-rule",
+    "order": 0,
+    "source": "dmmbitcoin-cashflow_cashflow_1701668302000",
+    "timestamp": 1701668302000,
+    "transfers": [],
+    "type": "ignore"
+  },
+  {
+    "comment": "口座種別: トレード / 入出金の種別: 振替入金 / 数量: \"5000\"JPY / 備考: ",
+    "evidence": "system-rule",
+    "order": 1,
+    "source": "dmmbitcoin-cashflow_cashflow_1701668302000",
+    "timestamp": 1701668302000,
+    "transfers": [],
+    "type": "ignore"
+  },
+  {
+    "comment": "入出金の種別: キャッシュバック / 数量: \"2000\"JPY / 備考: ",
+    "evidence": "system-rule",
+    "order": 0,
+    "source": "dmmbitcoin-cashflow_cashflow_1651660881000",
+    "timestamp": 1651660881000,
+    "transfers": [
+      {
+        "amount": "2000",
+        "asset": {
+          "id": "jpy",
+          "name": "Japanese Yen",
+          "symbol": "JPY",
+          "type": "FiatCurrency"
+        },
+        "direction": "in"
+      }
+    ],
+    "type": "cash-back"
+  }
+]
