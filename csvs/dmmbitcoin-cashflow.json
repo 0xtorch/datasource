@@ -3,7 +3,7 @@
   "service": "dmmbitcoin",
   "formatter": {
     "日時": ["datetime-jp"],
-    "口座種別": "string",
+    "口座種別": ["string"],
     "入出金の種別": ["string"],
     "": ["string"],
     "数量": ["big-decimal"],
@@ -15,7 +15,7 @@
   "parser": {
     "parsers": [
       {
-        "description": "[ウォレ,トレ] x <通貨名> x [振替入金,出金]",
+        "description": "[ウォレ,トレ] x <通貨名> x [振替,<空>] x [入金,出金]",
         "conditions": [
           {
             "value": {
@@ -24,7 +24,7 @@
             },
             "pattern": {
               "type": "reg-exp",
-              "pattern": "(振替入金|出金)$"
+              "pattern": "(振替)?(入金|出金)$"
             }
           },
           {
@@ -58,7 +58,7 @@
               "values": [
                 "口座種別: ",
                 { "type": "cell", "column": "口座種別" },
-                "入出金の種別: ",
+                " / 入出金の種別: ",
                 { "type": "cell", "column": "入出金の種別" },
                 " / 数量: ",
                 { "type": "cell", "column": "数量" },
@@ -91,8 +91,7 @@
         ],
         "generators": [
           {
-            "type": "airdrop",
-            "$comment": "CBはエアドロップでよいか?",
+            "type": "cash-back",
             "source": {
               "type": "join",
               "values": [
@@ -129,7 +128,7 @@
                 },
                 "asset": {
                   "type": "symbol",
-                  "value": "JPY"
+                  "value": { "type": "cell", "column": "" }
                 }
               }
             ]
@@ -146,7 +145,7 @@
             },
             "pattern": {
               "type": "reg-exp",
-              "pattern": "(出金手数料)$"
+              "pattern": "出金手数料$"
             }
           },
           {
@@ -155,17 +154,107 @@
               "column": "口座種別"
             },
             "pattern": "ウォレット"
+          }
+        ],
+        "generators": [
+          {
+            "type": "fee",
+            "source": {
+              "type": "join",
+              "values": [
+                { "type": "service" },
+                "_cashflow_",
+                { "type": "cell", "column": "日時" }
+              ]
+            },
+            "timestamp": {
+              "type": "cell",
+              "column": "日時"
+            },
+            "comment": {
+              "type": "join",
+              "values": [
+                "入出金の種別: ",
+                { "type": "cell", "column": "入出金の種別" },
+                " / 数量: ",
+                { "type": "cell", "column": "数量" },
+                { "type": "cell", "column": "" },
+                " / 備考: ",
+                { "type": "cell", "column": "備考" }
+              ]
+            },
+            "transfers": [
+              {
+                "direction": "out",
+                "amount": {
+                  "type": "text",
+                  "value": {
+                    "type": "cell",
+                    "column": "数量"
+                  }
+                },
+                "asset": {
+                  "type": "symbol",
+                  "value": {
+                    "type": "cell",
+                    "column": ""
+                  }
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "description": "現物取引",
+        "conditions": [
+          {
+            "value": {
+              "type": "cell",
+              "column": "入出金の種別"
+            },
+            "pattern": "現物取引"
           },
           {
             "value": {
               "type": "cell",
-              "column": "数量"
+              "column": "口座種別"
             },
-            "pattern": "0"
+            "pattern": "トレード"
           }
         ],
-        "generators": [],
-        "$comment": "現行では出金手数料はゼロしかないはずだ。それ以外があればアラートを出すべき。"
+        "generators": [
+          {
+            "type": "ignore",
+            "source": {
+              "type": "join",
+              "values": [
+                { "type": "service" },
+                "_cashflow_",
+                { "type": "cell", "column": "日時" }
+              ]
+            },
+            "timestamp": {
+              "type": "cell",
+              "column": "日時"
+            },
+            "comment": {
+              "type": "join",
+              "values": [
+                "口座種別: ",
+                { "type": "cell", "column": "口座種別" },
+                " / 入出金の種別: ",
+                { "type": "cell", "column": "入出金の種別" },
+                " / 数量: ",
+                { "type": "cell", "column": "数量" },
+                { "type": "cell", "column": "" },
+                " / 備考: ",
+                { "type": "cell", "column": "備考" }
+              ]
+            },
+            "transfers": []
+          }
+        ]
       }
     ]
   },
