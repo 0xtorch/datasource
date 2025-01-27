@@ -11,6 +11,7 @@
     "約定レート": ["big-decimal"],
     "取引手数料": ["big-decimal"]
   },
+  "$comment": "レバレッジ対応してません。まずデータがない",
   "parser": {
     "parsers": [
       {
