@@ -98,5 +98,72 @@
         "amount": "0.000736807350132681"
       }
     ]
+  },
+  {
+    "source": "bybit-statement-account-uta_uta-account_1718182429000",
+    "order": 0,
+    "type": "gift",
+    "timestamp": 1718182429000,
+    "evidence": "system-rule",
+    "comment": "Type: TOKENS_REDEMPTION / \"0.0002925456566\" USDT",
+    "transfers": [
+      {
+        "direction": "in",
+        "asset": {
+          "type": "CryptoCurrency",
+          "id": "tether",
+          "name": "Tether",
+          "symbol": "usdt",
+          "icon": "https://coin-images.coingecko.com/coins/images/325/large/Tether.png?1696501661",
+          "market": { "coingeckoId": "tether", "marketCapUsd": 119675340267 },
+          "updatedAt": 1728782536762
+        },
+        "amount": "0.0002925456566"
+      }
+    ]
+  },
+  {
+    "source": "bybit-statement-account-uta_uta-account_1718182184000",
+    "order": 0,
+    "type": "fee",
+    "timestamp": 1718182184000,
+    "evidence": "system-rule",
+    "comment": "Type: TOKENS_REDEMPTION / \"-0.0000693\" DOGE2L",
+    "transfers": [
+      {
+        "direction": "out",
+        "asset": {
+          "type": "CryptoCurrency",
+          "id": "0xtorch-bybit-doge2l",
+          "name": "0xtorch-bybit-doge2l",
+          "symbol": "0XTORCH-BYBIT-DOGE2L",
+          "updatedAt": 0
+        },
+        "amount": "0.0000693"
+      }
+    ]
+  },
+  {
+    "source": "bybit-statement-account-uta_uta-account_1706703000000",
+    "order": 0,
+    "type": "transfer",
+    "timestamp": 1706703000000,
+    "evidence": "system-rule",
+    "comment": "Type: BONUS_RECOLLECT / \"-0.1\" USDT",
+    "transfers": [
+      {
+        "direction": "out",
+        "asset": {
+          "type": "CryptoCurrency",
+          "id": "tether",
+          "name": "Tether",
+          "symbol": "usdt",
+          "icon": "https://coin-images.coingecko.com/coins/images/325/large/Tether.png?1696501661",
+          "market": { "coingeckoId": "tether", "marketCapUsd": 119675340267 },
+          "updatedAt": 1728782536762
+        },
+        "amount": "0.1"
+      }
+    ]
   }
 ]
