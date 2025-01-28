@@ -196,6 +196,138 @@
         ]
       },
       {
+        "description": "Convert (Positive) > gift",
+        "conditions": [
+          {
+            "value": {
+              "type": "cell",
+              "column": "Type"
+            },
+            "pattern": "Convert"
+          },
+          {
+            "value": {
+              "type": "cell",
+              "column": "QTY"
+            },
+            "pattern": {
+              "type": "positive"
+            }
+          }
+        ],
+        "generators": [
+          {
+            "type": "gift",
+            "source": {
+              "type": "join",
+              "values": [
+                { "type": "service" },
+                "_funding-account_",
+                { "type": "cell", "column": "Date & Time(UTC)" }
+              ]
+            },
+            "timestamp": {
+              "type": "cell",
+              "column": "Date & Time(UTC)"
+            },
+            "comment": {
+              "type": "join",
+              "values": [
+                "Type:",
+                { "type": "cell", "column": "Type" },
+                " / Description: ",
+                { "type": "cell", "column": "Description" }
+              ]
+            },
+            "transfers": [
+              {
+                "direction": "in",
+                "amount": {
+                  "type": "text",
+                  "value": {
+                    "type": "cell",
+                    "column": "QTY"
+                  }
+                },
+                "asset": {
+                  "type": "symbol",
+                  "value": {
+                    "type": "cell",
+                    "column": "Coin"
+                  }
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "description": "Convert (Negative) > fee",
+        "conditions": [
+          {
+            "value": {
+              "type": "cell",
+              "column": "Type"
+            },
+            "pattern": "Convert"
+          },
+          {
+            "value": {
+              "type": "cell",
+              "column": "QTY"
+            },
+            "pattern": {
+              "type": "negative"
+            }
+          }
+        ],
+        "generators": [
+          {
+            "type": "fee",
+            "source": {
+              "type": "join",
+              "values": [
+                { "type": "service" },
+                "_funding-account_",
+                { "type": "cell", "column": "Date & Time(UTC)" }
+              ]
+            },
+            "timestamp": {
+              "type": "cell",
+              "column": "Date & Time(UTC)"
+            },
+            "comment": {
+              "type": "join",
+              "values": [
+                "Type:",
+                { "type": "cell", "column": "Type" },
+                " / Description: ",
+                { "type": "cell", "column": "Description" }
+              ]
+            },
+            "transfers": [
+              {
+                "direction": "out",
+                "amount": {
+                  "type": "text",
+                  "value": {
+                    "type": "cell",
+                    "column": "QTY"
+                  }
+                },
+                "asset": {
+                  "type": "symbol",
+                  "value": {
+                    "type": "cell",
+                    "column": "Coin"
+                  }
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
         "description": "ignore",
         "conditions": [
           {

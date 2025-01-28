@@ -109,6 +109,52 @@
     "transfers": []
   },
   {
+    "source": "bybit_funding-account_1728058374000",
+    "order": 0,
+    "type": "gift",
+    "timestamp": 1728058374000,
+    "evidence": "system-rule",
+    "comment": "Type:Convert / Description: Convert",
+    "transfers": [
+      {
+        "direction": "in",
+        "asset": {
+          "type": "CryptoCurrency",
+          "id": "tezos",
+          "name": "Tezos",
+          "symbol": "xtz",
+          "icon": "https://coin-images.coingecko.com/coins/images/976/large/Tezos-logo.png?1696502091",
+          "market": { "coingeckoId": "tezos", "marketCapUsd": 694211348 },
+          "updatedAt": 1728782536762
+        },
+        "amount": "66.056193"
+      }
+    ]
+  },
+  {
+    "source": "bybit_funding-account_1728058373000",
+    "order": 0,
+    "type": "fee",
+    "timestamp": 1728058373000,
+    "evidence": "system-rule",
+    "comment": "Type:Convert / Description: Convert",
+    "transfers": [
+      {
+        "direction": "out",
+        "asset": {
+          "type": "CryptoCurrency",
+          "id": "sui",
+          "name": "Sui",
+          "symbol": "sui",
+          "icon": "https://coin-images.coingecko.com/coins/images/26375/large/sui-ocean-square.png?1727791290",
+          "market": { "coingeckoId": "sui", "marketCapUsd": 6222595843 },
+          "updatedAt": 1728782536762
+        },
+        "amount": "25"
+      }
+    ]
+  },
+  {
     "source": "bybit_funding-account_1707371859000",
     "order": 0,
     "type": "airdrop",
