@@ -1,0 +1,1 @@
+[{"type":"function","constant":false,"inputs":[{"name":"_Code","internalType":"uint256","type":"uint256"},{"name":"_NameAndSurename","internalType":"string","type":"string"}],"name":"BindNameWithCode","outputs":[],"payable":false,"stateMutability":"nonpayable"}]

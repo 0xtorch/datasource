@@ -1,0 +1,1 @@
+[{"type":"function","constant":false,"inputs":[{"name":"_addr1","internalType":"address","type":"address"},{"name":"_addr2","internalType":"address","type":"address"},{"name":"_addr3","internalType":"address","type":"address"}],"name":"SetAdmin","outputs":[],"payable":false,"stateMutability":"nonpayable"}]

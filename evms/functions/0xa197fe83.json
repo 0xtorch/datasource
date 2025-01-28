@@ -1,0 +1,1 @@
+[{"type":"function","constant":true,"inputs":[{"name":"_Code","internalType":"uint256","type":"uint256"}],"name":"GetMemName","outputs":[{"name":"","internalType":"string","type":"string"}],"payable":false,"stateMutability":"view"}]

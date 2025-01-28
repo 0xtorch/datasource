@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"tokenId","internalType":"uint256","type":"uint256"}],"name":"checkTokenStatus","outputs":[{"name":"","internalType":"enum PARKET.TokenState","type":"uint8"}],"stateMutability":"view"}]

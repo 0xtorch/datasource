@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"token","internalType":"address","type":"address","indexed":false},{"name":"epoch","internalType":"uint8","type":"uint8","indexed":false},{"name":"lockLimit","internalType":"uint256","type":"uint256","indexed":false},{"name":"cooldown","internalType":"uint48","type":"uint48","indexed":false}],"name":"UpdateLockConfig"}]
