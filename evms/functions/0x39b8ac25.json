@@ -1,0 +1,1 @@
+[{"type":"function","constant":false,"inputs":[{"name":"_Ref","internalType":"address","type":"address"},{"name":"_RefAmount","internalType":"uint256","type":"uint256"},{"name":"_Mem","internalType":"address","type":"address"},{"name":"_MemAmount","internalType":"uint256","type":"uint256"}],"name":"GiveAndMint","outputs":[],"payable":false,"stateMutability":"nonpayable"}]

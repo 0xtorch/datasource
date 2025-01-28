@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"token","internalType":"address","type":"address"},{"name":"epoch","internalType":"uint8","type":"uint8"},{"name":"lockLimit","internalType":"uint256","type":"uint256"},{"name":"cooldown","internalType":"uint48","type":"uint48"}],"name":"updateLockConfig","outputs":[],"stateMutability":"nonpayable"}]
