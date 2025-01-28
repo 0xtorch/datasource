@@ -1,6 +1,6 @@
 [
   {
-    "source": "bybit-spot-trade-2_spot-trade_1809861109692793344",
+    "source": "bybit_spot-trade_1809861109692793344",
     "order": 0,
     "type": "trade",
     "timestamp": 1730488257068,
@@ -48,7 +48,7 @@
     ]
   },
   {
-    "source": "bybit-spot-trade-2_spot-trade_1793584254622925312",
+    "source": "bybit_spot-trade_1793584254622925312",
     "order": 0,
     "type": "trade",
     "timestamp": 1728547904741,

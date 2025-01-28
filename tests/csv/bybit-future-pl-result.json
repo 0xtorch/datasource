@@ -1,6 +1,6 @@
 [
   {
-    "source": "bybit-future-pl_future-pl_1734694560000",
+    "source": "bybit_future-pl_1734694560000",
     "order": 0,
     "type": "realize-profit",
     "timestamp": 1734694560000,
@@ -23,7 +23,7 @@
     ]
   },
   {
-    "source": "bybit-future-pl_future-pl_1734582115000",
+    "source": "bybit_future-pl_1734582115000",
     "order": 0,
     "type": "realize-profit",
     "timestamp": 1734582115000,
@@ -46,7 +46,7 @@
     ]
   },
   {
-    "source": "bybit-future-pl_future-pl_1734566400000",
+    "source": "bybit_future-pl_1734566400000",
     "order": 0,
     "type": "realize-loss",
     "timestamp": 1734566400000,
@@ -69,7 +69,7 @@
     ]
   },
   {
-    "source": "bybit-future-pl_future-pl_1734486706000",
+    "source": "bybit_future-pl_1734486706000",
     "order": 0,
     "type": "realize-loss",
     "timestamp": 1734486706000,
@@ -92,7 +92,7 @@
     ]
   },
   {
-    "source": "bybit-future-pl_future-pl_1730101500000",
+    "source": "bybit_future-pl_1730101500000",
     "order": 0,
     "type": "realize-profit",
     "timestamp": 1730101500000,
@@ -115,7 +115,7 @@
     ]
   },
   {
-    "source": "bybit-future-pl_future-pl_1721522880000",
+    "source": "bybit_future-pl_1721522880000",
     "order": 0,
     "type": "realize-loss",
     "timestamp": 1721522880000,

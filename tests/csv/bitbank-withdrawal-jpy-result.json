@@ -1,6 +1,6 @@
 [
   {
-    "source": "bitbank-withdrawal-jpy_withdrawal_jpy_1734923876000",
+    "source": "bitbank_withdrawal_jpy_1734923876000",
     "order": 0,
     "type": "ignore",
     "timestamp": 1734923876000,
@@ -9,7 +9,7 @@
     "transfers": []
   },
   {
-    "source": "bitbank-withdrawal-jpy_withdrawal_jpy_1671892776000",
+    "source": "bitbank_withdrawal_jpy_1671892776000",
     "order": 0,
     "type": "fee",
     "timestamp": 1671892776000,

@@ -1,6 +1,6 @@
 [
   {
-    "source": "bybit-statement-account-contract_contract-account_1730864876000",
+    "source": "bybit_contract-account_1730864876000",
     "order": 0,
     "type": "transfer",
     "timestamp": 1730864876000,
@@ -23,7 +23,7 @@
     ]
   },
   {
-    "source": "bybit-statement-account-contract_contract-account_1688027480000",
+    "source": "bybit_contract-account_1688027480000",
     "order": 0,
     "type": "ignore",
     "timestamp": 1688027480000,
@@ -32,7 +32,7 @@
     "transfers": []
   },
   {
-    "source": "bybit-statement-account-contract_contract-account_1687831026000",
+    "source": "bybit_contract-account_1687831026000",
     "order": 0,
     "type": "ignore",
     "timestamp": 1687831026000,
@@ -41,7 +41,7 @@
     "transfers": []
   },
   {
-    "source": "bybit-statement-account-contract_contract-account_1687564800000",
+    "source": "bybit_contract-account_1687564800000",
     "order": 0,
     "type": "ignore",
     "timestamp": 1687564800000,
@@ -50,7 +50,7 @@
     "transfers": []
   },
   {
-    "source": "bybit-statement-account-contract_contract-account_1686376307000",
+    "source": "bybit_contract-account_1686376307000",
     "order": 0,
     "type": "ignore",
     "timestamp": 1686376307000,
@@ -59,7 +59,7 @@
     "transfers": []
   },
   {
-    "source": "bybit-statement-account-contract_contract-account_1686361849000",
+    "source": "bybit_contract-account_1686361849000",
     "order": 0,
     "type": "ignore",
     "timestamp": 1686361849000,

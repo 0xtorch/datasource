@@ -1,6 +1,6 @@
 [
   {
-    "source": "rakuten-wallet-spot_1607685923000",
+    "source": "rakuten-wallet_1607685923000",
     "order": 0,
     "type": "airdrop",
     "timestamp": 1607685923000,
@@ -25,7 +25,7 @@
     ]
   },
   {
-    "source": "rakuten-wallet-spot_1619002751000",
+    "source": "rakuten-wallet_1619002751000",
     "order": 0,
     "type": "trade",
     "timestamp": 1619002751000,
@@ -60,7 +60,7 @@
     ]
   },
   {
-    "source": "rakuten-wallet-spot_1619002786000",
+    "source": "rakuten-wallet_1619002786000",
     "order": 0,
     "type": "trade",
     "timestamp": 1619002786000,
@@ -95,7 +95,7 @@
     ]
   },
   {
-    "source": "rakuten-wallet-spot_1642788142000",
+    "source": "rakuten-wallet_1642788142000",
     "comment": "送付手数料",
     "order": 0,
     "type": "fee",
@@ -121,7 +121,7 @@
     ]
   },
   {
-    "source": "rakuten-wallet-spot_1653995787000",
+    "source": "rakuten-wallet_1653995787000",
     "comment": "取引種別: 預入 / \"0.08\"ETH",
     "order": 0,
     "type": "ignore",
@@ -130,7 +130,7 @@
     "transfers": []
   },
   {
-    "source": "rakuten-wallet-spot_1698226690000",
+    "source": "rakuten-wallet_1698226690000",
     "order": 0,
     "type": "income",
     "timestamp": 1698226690000,
@@ -149,7 +149,7 @@
     ]
   },
   {
-    "source": "rakuten-wallet-spot_1708990515000",
+    "source": "rakuten-wallet_1708990515000",
     "comment": "出金手数料",
     "order": 0,
     "type": "fee",
@@ -169,7 +169,7 @@
     ]
   },
   {
-    "source": "rakuten-wallet-spot_1708990815000",
+    "source": "rakuten-wallet_1708990815000",
     "comment": "取引種別: 入金 / \"300\"JPY",
     "order": 0,
     "type": "ignore",

@@ -1,6 +1,6 @@
 [
   {
-    "source": "bitflyer-trade_REC20240523-072805-212805",
+    "source": "bitflyer_REC20240523-072805-212805",
     "order": 0,
     "type": "gift",
     "timestamp": 1716449285000,
@@ -21,7 +21,7 @@
     ]
   },
   {
-    "source": "bitflyer-trade_CWD20240402-152132-448875F",
+    "source": "bitflyer_CWD20240402-152132-448875F",
     "order": 0,
     "type": "fee",
     "timestamp": 1712071292000,
@@ -42,7 +42,7 @@
     ]
   },
   {
-    "source": "bitflyer-trade_MWD20240304-112049-491421F",
+    "source": "bitflyer_MWD20240304-112049-491421F",
     "order": 0,
     "type": "fee",
     "timestamp": 1709551249000,
@@ -62,7 +62,7 @@
     ]
   },
   {
-    "source": "bitflyer-trade_CAC20240304-111922-038379",
+    "source": "bitflyer_CAC20240304-111922-038379",
     "order": 0,
     "type": "ignore",
     "timestamp": 1709551162000,
@@ -71,7 +71,7 @@
     "transfers": []
   },
   {
-    "source": "bitflyer-trade_POC20240228-180617-648580",
+    "source": "bitflyer_POC20240228-180617-648580",
     "order": 0,
     "type": "ignore",
     "timestamp": 1709143577000,
@@ -80,7 +80,7 @@
     "transfers": []
   },
   {
-    "source": "bitflyer-trade_BFF20221225-184054-340796",
+    "source": "bitflyer_BFF20221225-184054-340796",
     "order": 0,
     "type": "trade",
     "timestamp": 1671993654000,
@@ -110,7 +110,7 @@
     ]
   },
   {
-    "source": "bitflyer-trade_REB20221225-010743-436326",
+    "source": "bitflyer_REB20221225-010743-436326",
     "order": 0,
     "type": "trade",
     "timestamp": 1671930463000,
@@ -140,7 +140,7 @@
     ]
   },
   {
-    "source": "bitflyer-trade_CDP20221220-225243-474312",
+    "source": "bitflyer_CDP20221220-225243-474312",
     "order": 0,
     "type": "ignore",
     "timestamp": 1671576763000,
@@ -149,7 +149,7 @@
     "transfers": []
   },
   {
-    "source": "bitflyer-trade_REC20221018-055233-432356",
+    "source": "bitflyer_REC20221018-055233-432356",
     "order": 0,
     "type": "gift",
     "timestamp": 1666072353000,
@@ -169,7 +169,7 @@
     ]
   },
   {
-    "source": "bitflyer-trade_PAY20190730-052706-123375",
+    "source": "bitflyer_PAY20190730-052706-123375",
     "order": 0,
     "type": "fee",
     "timestamp": 1564464426000,
@@ -190,7 +190,7 @@
     ]
   },
   {
-    "source": "bitflyer-trade_MWD20190207-104456-664271F",
+    "source": "bitflyer_MWD20190207-104456-664271F",
     "order": 0,
     "type": "fee",
     "timestamp": 1549536296000,
@@ -209,7 +209,7 @@
     ]
   },
   {
-    "source": "bitflyer-trade_MWD20190207-104456-664271",
+    "source": "bitflyer_MWD20190207-104456-664271",
     "order": 0,
     "type": "ignore",
     "timestamp": 1549536296000,
@@ -218,7 +218,7 @@
     "transfers": []
   },
   {
-    "source": "bitflyer-trade_CWD20180604-065901-689278F",
+    "source": "bitflyer_CWD20180604-065901-689278F",
     "order": 0,
     "type": "fee",
     "timestamp": 1528095541000,
@@ -238,7 +238,7 @@
     ]
   },
   {
-    "source": "bitflyer-trade_CWD20180604-065901-689278",
+    "source": "bitflyer_CWD20180604-065901-689278",
     "order": 0,
     "type": "ignore",
     "timestamp": 1528095541000,
@@ -247,7 +247,7 @@
     "transfers": []
   },
   {
-    "source": "bitflyer-trade_BFF20180531-084607-398855",
+    "source": "bitflyer_BFF20180531-084607-398855",
     "order": 0,
     "type": "trade",
     "timestamp": 1527756367000,
@@ -277,7 +277,7 @@
     ]
   },
   {
-    "source": "bitflyer-trade_MDP20180531-001416-127402",
+    "source": "bitflyer_MDP20180531-001416-127402",
     "order": 0,
     "type": "ignore",
     "timestamp": 1527725656000,

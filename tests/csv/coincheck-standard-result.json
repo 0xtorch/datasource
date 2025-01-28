@@ -1,6 +1,6 @@
 [
   {
-    "source": "coincheck-standard_1627483014000",
+    "source": "coincheck_1627483014000",
     "order": 0,
     "type": "ignore",
     "timestamp": 1627483014000,
@@ -9,7 +9,7 @@
     "transfers": []
   },
   {
-    "source": "coincheck-standard_1627483094000",
+    "source": "coincheck_1627483094000",
     "order": 0,
     "type": "trade",
     "timestamp": 1627483094000,
@@ -40,7 +40,7 @@
     ]
   },
   {
-    "source": "coincheck-standard_1627483877000",
+    "source": "coincheck_1627483877000",
     "order": 0,
     "type": "fee",
     "timestamp": 1627483877000,
@@ -61,7 +61,7 @@
     ]
   },
   {
-    "source": "coincheck-standard_1633311977000",
+    "source": "coincheck_1633311977000",
     "order": 0,
     "type": "trade",
     "timestamp": 1633311977000,
@@ -92,7 +92,7 @@
     ]
   },
   {
-    "source": "coincheck-standard_1633311977000",
+    "source": "coincheck_1633311977000",
     "order": 1,
     "type": "trade",
     "timestamp": 1633311977000,
@@ -123,7 +123,7 @@
     ]
   },
   {
-    "source": "coincheck-standard_1633315610000",
+    "source": "coincheck_1633315610000",
     "order": 0,
     "type": "fee",
     "timestamp": 1633315610000,
@@ -144,7 +144,7 @@
     ]
   },
   {
-    "source": "coincheck-standard_1667833200000",
+    "source": "coincheck_1667833200000",
     "order": 0,
     "type": "fee",
     "timestamp": 1667833200000,
@@ -164,7 +164,7 @@
     ]
   },
   {
-    "source": "coincheck-standard_1705033088000",
+    "source": "coincheck_1705033088000",
     "order": 0,
     "type": "ignore",
     "timestamp": 1705033088000,
@@ -173,7 +173,7 @@
     "transfers": []
   },
   {
-    "source": "coincheck-standard_1705039166000",
+    "source": "coincheck_1705039166000",
     "order": 0,
     "type": "fee",
     "timestamp": 1705039166000,
@@ -194,7 +194,7 @@
     ]
   },
   {
-    "source": "coincheck-standard_1731374510000",
+    "source": "coincheck_1731374510000",
     "order": 0,
     "type": "ignore",
     "timestamp": 1731374510000,
@@ -203,7 +203,7 @@
     "transfers": []
   },
   {
-    "source": "coincheck-standard_1731374510000",
+    "source": "coincheck_1731374510000",
     "order": 1,
     "type": "ignore",
     "timestamp": 1731374510000,

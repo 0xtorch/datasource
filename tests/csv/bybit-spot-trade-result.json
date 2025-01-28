@@ -1,6 +1,6 @@
 [
   {
-    "source": "bybit-spot-trade_spot-trade_2280000000473965936",
+    "source": "bybit_spot-trade_2280000000473965936",
     "order": 0,
     "type": "trade",
     "timestamp": 1719750420000,
@@ -48,7 +48,7 @@
     ]
   },
   {
-    "source": "bybit-spot-trade_spot-trade_2210000000365830396",
+    "source": "bybit_spot-trade_2210000000365830396",
     "order": 0,
     "type": "trade",
     "timestamp": 1719746040000,
@@ -83,7 +83,7 @@
     ]
   },
   {
-    "source": "bybit-spot-trade_spot-trade_2240000000426894244",
+    "source": "bybit_spot-trade_2240000000426894244",
     "order": 0,
     "type": "trade",
     "timestamp": 1719746040000,
@@ -118,7 +118,7 @@
     ]
   },
   {
-    "source": "bybit-spot-trade_spot-trade_2280000000473910048",
+    "source": "bybit_spot-trade_2280000000473910048",
     "order": 0,
     "type": "trade",
     "timestamp": 1719746040000,

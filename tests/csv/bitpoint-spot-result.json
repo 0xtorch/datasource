@@ -1,6 +1,6 @@
 [
   {
-    "source": "bitpoint-spot_1701702000000",
+    "source": "bitpoint_1701702000000",
     "order": 0,
     "type": "ignore",
     "timestamp": 1701702000000,
@@ -9,7 +9,7 @@
     "transfers": []
   },
   {
-    "source": "bitpoint-spot_1701740062000",
+    "source": "bitpoint_1701740062000",
     "order": 0,
     "type": "trade",
     "timestamp": 1701740062000,
@@ -40,7 +40,7 @@
     ]
   },
   {
-    "source": "bitpoint-spot_1703430000000",
+    "source": "bitpoint_1703430000000",
     "order": 0,
     "type": "staking-reward",
     "timestamp": 1703430000000,
@@ -61,7 +61,7 @@
     ]
   },
   {
-    "source": "bitpoint-spot_1706194800000",
+    "source": "bitpoint_1706194800000",
     "order": 0,
     "type": "ignore",
     "timestamp": 1706194800000,
@@ -70,7 +70,7 @@
     "transfers": []
   },
   {
-    "source": "bitpoint-spot_1725721200000",
+    "source": "bitpoint_1725721200000",
     "order": 0,
     "type": "ignore",
     "timestamp": 1725721200000,
@@ -79,7 +79,7 @@
     "transfers": []
   },
   {
-    "source": "bitpoint-spot_1726724526000",
+    "source": "bitpoint_1726724526000",
     "order": 0,
     "type": "trade",
     "timestamp": 1726724526000,
@@ -109,7 +109,7 @@
     ]
   },
   {
-    "source": "bitpoint-spot_1733324400000",
+    "source": "bitpoint_1733324400000",
     "order": 0,
     "type": "ignore",
     "timestamp": 1733324400000,
@@ -118,7 +118,7 @@
     "transfers": []
   },
   {
-    "source": "bitpoint-spot_1733721033000",
+    "source": "bitpoint_1733721033000",
     "order": 0,
     "type": "transfer",
     "timestamp": 1733721033000,
@@ -138,7 +138,7 @@
     ]
   },
   {
-    "source": "bitpoint-spot_1733721049000",
+    "source": "bitpoint_1733721049000",
     "order": 0,
     "type": "trade",
     "timestamp": 1733721049000,

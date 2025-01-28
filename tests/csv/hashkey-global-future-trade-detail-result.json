@@ -1,6 +1,6 @@
 [
   {
-    "source": "hashkey-global-future-trade-detail_future-trade_1722465236307433728",
+    "source": "hashkey-global_future-trade_1722465236307433728",
     "order": 0,
     "type": "fee",
     "timestamp": 1720069857000,
@@ -23,7 +23,7 @@
     ]
   },
   {
-    "source": "hashkey-global-future-trade-detail_future-trade_1726919937337881856",
+    "source": "hashkey-global_future-trade_1726919937337881856",
     "order": 0,
     "type": "realize-loss",
     "timestamp": 1720600898000,
@@ -46,7 +46,7 @@
     ]
   },
   {
-    "source": "hashkey-global-future-trade-detail_future-trade_1726919937337881856",
+    "source": "hashkey-global_future-trade_1726919937337881856",
     "order": 1,
     "type": "fee",
     "timestamp": 1720600898000,
@@ -69,7 +69,7 @@
     ]
   },
   {
-    "source": "hashkey-global-future-trade-detail_future-trade_1787488778123756288",
+    "source": "hashkey-global_future-trade_1787488778123756288",
     "order": 0,
     "type": "ignore",
     "timestamp": 1727821267000,
@@ -78,7 +78,7 @@
     "transfers": []
   },
   {
-    "source": "hashkey-global-future-trade-detail_future-trade_1787548859725022464",
+    "source": "hashkey-global_future-trade_1787548859725022464",
     "order": 0,
     "type": "realize-profit",
     "timestamp": 1727828429000,

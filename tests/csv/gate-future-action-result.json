@@ -1,6 +1,6 @@
 [
   {
-    "source": "gate-future-action_future-action_1709136000000",
+    "source": "gate_future-action_1709136000000",
     "order": 0,
     "type": "derivative-fee",
     "timestamp": 1709136000000,
@@ -23,7 +23,7 @@
     ]
   },
   {
-    "source": "gate-future-action_future-action_1709098968000",
+    "source": "gate_future-action_1709098968000",
     "order": 0,
     "type": "realize-loss",
     "timestamp": 1709098968000,
@@ -46,7 +46,7 @@
     ]
   },
   {
-    "source": "gate-future-action_future-action_1709098968000",
+    "source": "gate_future-action_1709098968000",
     "order": 1,
     "type": "fee",
     "timestamp": 1709098968000,
@@ -69,7 +69,7 @@
     ]
   },
   {
-    "source": "gate-future-action_future-action_1708214400000",
+    "source": "gate_future-action_1708214400000",
     "order": 0,
     "type": "derivative-profit",
     "timestamp": 1708214400000,
@@ -92,7 +92,7 @@
     ]
   },
   {
-    "source": "gate-future-action_future-action_1707838189000",
+    "source": "gate_future-action_1707838189000",
     "order": 0,
     "type": "realize-profit",
     "timestamp": 1707838189000,
@@ -115,7 +115,7 @@
     ]
   },
   {
-    "source": "gate-future-action_future-action_1704887337000",
+    "source": "gate_future-action_1704887337000",
     "order": 0,
     "type": "ignore",
     "timestamp": 1704887337000,
@@ -124,7 +124,7 @@
     "transfers": []
   },
   {
-    "source": "gate-future-action_future-action_1704887337000",
+    "source": "gate_future-action_1704887337000",
     "order": 1,
     "type": "ignore",
     "timestamp": 1704887337000,
@@ -133,7 +133,7 @@
     "transfers": []
   },
   {
-    "source": "gate-future-action_future-action_1704875405000",
+    "source": "gate_future-action_1704875405000",
     "order": 0,
     "type": "ignore",
     "timestamp": 1704875405000,
@@ -142,7 +142,7 @@
     "transfers": []
   },
   {
-    "source": "gate-future-action_future-action_1704812765000",
+    "source": "gate_future-action_1704812765000",
     "order": 0,
     "type": "ignore",
     "timestamp": 1704812765000,
@@ -151,7 +151,7 @@
     "transfers": []
   },
   {
-    "source": "gate-future-action_future-action_1704799081000",
+    "source": "gate_future-action_1704799081000",
     "order": 0,
     "type": "ignore",
     "timestamp": 1704799081000,
@@ -160,7 +160,7 @@
     "transfers": []
   },
   {
-    "source": "gate-future-action_future-action_1704799081000",
+    "source": "gate_future-action_1704799081000",
     "order": 1,
     "type": "ignore",
     "timestamp": 1704799081000,

@@ -1,6 +1,6 @@
 [
   {
-    "source": "bybit-statement-account-spot_spot-account_1730864873000",
+    "source": "bybit_spot-account_1730864873000",
     "order": 0,
     "type": "ignore",
     "timestamp": 1730864873000,
@@ -9,7 +9,7 @@
     "transfers": []
   },
   {
-    "source": "bybit-statement-account-spot_spot-account_1724551366000",
+    "source": "bybit_spot-account_1724551366000",
     "order": 0,
     "type": "airdrop",
     "timestamp": 1724551366000,
@@ -32,7 +32,7 @@
     ]
   },
   {
-    "source": "bybit-statement-account-spot_spot-account_1722260469000",
+    "source": "bybit_spot-account_1722260469000",
     "order": 0,
     "type": "transfer",
     "timestamp": 1722260469000,
@@ -53,7 +53,7 @@
     ]
   },
   {
-    "source": "bybit-statement-account-spot_spot-account_1705671434000",
+    "source": "bybit_spot-account_1705671434000",
     "order": 0,
     "type": "ignore",
     "timestamp": 1705671434000,
@@ -62,7 +62,7 @@
     "transfers": []
   },
   {
-    "source": "bybit-statement-account-spot_spot-account_1687831026000",
+    "source": "bybit_spot-account_1687831026000",
     "order": 0,
     "type": "ignore",
     "timestamp": 1687831026000,
@@ -71,7 +71,7 @@
     "transfers": []
   },
   {
-    "source": "bybit-statement-account-spot_spot-account_1687765552000",
+    "source": "bybit_spot-account_1687765552000",
     "order": 0,
     "type": "ignore",
     "timestamp": 1687765552000,
@@ -80,7 +80,7 @@
     "transfers": []
   },
   {
-    "source": "bybit-statement-account-spot_spot-account_1687765552000",
+    "source": "bybit_spot-account_1687765552000",
     "order": 1,
     "type": "ignore",
     "timestamp": 1687765552000,
@@ -89,7 +89,7 @@
     "transfers": []
   },
   {
-    "source": "bybit-statement-account-spot_spot-account_1687765552000",
+    "source": "bybit_spot-account_1687765552000",
     "order": 2,
     "type": "ignore",
     "timestamp": 1687765552000,
@@ -98,7 +98,7 @@
     "transfers": []
   },
   {
-    "source": "bybit-statement-account-spot_spot-account_1677561700000",
+    "source": "bybit_spot-account_1677561700000",
     "order": 0,
     "type": "ignore",
     "timestamp": 1677561700000,
@@ -107,7 +107,7 @@
     "transfers": []
   },
   {
-    "source": "bybit-statement-account-spot_spot-account_1677414837000",
+    "source": "bybit_spot-account_1677414837000",
     "order": 0,
     "type": "ignore",
     "timestamp": 1677414837000,
