@@ -23,6 +23,29 @@
     ]
   },
   {
+    "source": "bybit-statement-account-contract_contract-account_1706365213000",
+    "order": 0,
+    "type": "transfer",
+    "timestamp": 1706365213000,
+    "evidence": "system-rule",
+    "comment": "Type: bonusRecycle / \"-100\" USDT",
+    "transfers": [
+      {
+        "direction": "out",
+        "asset": {
+          "type": "CryptoCurrency",
+          "id": "tether",
+          "name": "Tether",
+          "symbol": "usdt",
+          "icon": "https://coin-images.coingecko.com/coins/images/325/large/Tether.png?1696501661",
+          "market": { "coingeckoId": "tether", "marketCapUsd": 119675340267 },
+          "updatedAt": 1728782536762
+        },
+        "amount": "100"
+      }
+    ]
+  },
+  {
     "source": "bybit-statement-account-contract_contract-account_1688027480000",
     "order": 0,
     "type": "ignore",
