@@ -1,6 +1,6 @@
 [
   {
-    "source": "bybit-statement-account-uta_uta-account_1734697083000",
+    "source": "bybit_uta-account_1734697083000",
     "order": 0,
     "type": "ignore",
     "timestamp": 1734697083000,
@@ -9,7 +9,7 @@
     "transfers": []
   },
   {
-    "source": "bybit-statement-account-uta_uta-account_1734695168000",
+    "source": "bybit_uta-account_1734695168000",
     "order": 0,
     "type": "ignore",
     "timestamp": 1734695168000,
@@ -18,7 +18,7 @@
     "transfers": []
   },
   {
-    "source": "bybit-statement-account-uta_uta-account_1734428387000",
+    "source": "bybit_uta-account_1734428387000",
     "order": 0,
     "type": "transfer",
     "timestamp": 1734428387000,
@@ -41,7 +41,7 @@
     ]
   },
   {
-    "source": "bybit-statement-account-uta_uta-account_1733789113000",
+    "source": "bybit_uta-account_1733789113000",
     "order": 0,
     "type": "ignore",
     "timestamp": 1733789113000,
@@ -50,7 +50,7 @@
     "transfers": []
   },
   {
-    "source": "bybit-statement-account-uta_uta-account_1733395978000",
+    "source": "bybit_uta-account_1733395978000",
     "order": 0,
     "type": "ignore",
     "timestamp": 1733395978000,
@@ -59,7 +59,7 @@
     "transfers": []
   },
   {
-    "source": "bybit-statement-account-uta_uta-account_1731081600000",
+    "source": "bybit_uta-account_1731081600000",
     "order": 0,
     "type": "ignore",
     "timestamp": 1731081600000,
@@ -68,7 +68,7 @@
     "transfers": []
   },
   {
-    "source": "bybit-statement-account-uta_uta-account_1730880001000",
+    "source": "bybit_uta-account_1730880001000",
     "order": 0,
     "type": "ignore",
     "timestamp": 1730880001000,
@@ -77,7 +77,7 @@
     "transfers": []
   },
   {
-    "source": "bybit-statement-account-uta_uta-account_1730876700000",
+    "source": "bybit_uta-account_1730876700000",
     "order": 0,
     "type": "interest-fee",
     "timestamp": 1730876700000,
@@ -100,7 +100,7 @@
     ]
   },
   {
-    "source": "bybit-statement-account-uta_uta-account_1718182429000",
+    "source": "bybit_uta-account_1718182429000",
     "order": 0,
     "type": "gift",
     "timestamp": 1718182429000,
@@ -123,7 +123,7 @@
     ]
   },
   {
-    "source": "bybit-statement-account-uta_uta-account_1718182184000",
+    "source": "bybit_uta-account_1718182184000",
     "order": 0,
     "type": "fee",
     "timestamp": 1718182184000,
@@ -144,7 +144,7 @@
     ]
   },
   {
-    "source": "bybit-statement-account-uta_uta-account_1706703000000",
+    "source": "bybit_uta-account_1706703000000",
     "order": 0,
     "type": "transfer",
     "timestamp": 1706703000000,

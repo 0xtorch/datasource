@@ -1,6 +1,6 @@
 [
   {
-    "source": "mexc-future-ja-jst_future-trade_1703401890000",
+    "source": "mexc_future-trade_1703401890000",
     "order": 0,
     "type": "realize-profit",
     "timestamp": 1703401890000,
@@ -22,7 +22,7 @@
     ]
   },
   {
-    "source": "mexc-future-ja-jst_future-trade_1703401890000",
+    "source": "mexc_future-trade_1703401890000",
     "order": 1,
     "type": "fee",
     "timestamp": 1703401890000,
@@ -44,7 +44,7 @@
     ]
   },
   {
-    "source": "mexc-future-ja-jst_future-trade_1703401428000",
+    "source": "mexc_future-trade_1703401428000",
     "order": 0,
     "type": "realize-loss",
     "timestamp": 1703401428000,
@@ -66,7 +66,7 @@
     ]
   },
   {
-    "source": "mexc-future-ja-jst_future-trade_1703401428000",
+    "source": "mexc_future-trade_1703401428000",
     "order": 1,
     "type": "fee",
     "timestamp": 1703401428000,
@@ -88,7 +88,7 @@
     ]
   },
   {
-    "source": "mexc-future-ja-jst_future-trade_1702886305000",
+    "source": "mexc_future-trade_1702886305000",
     "order": 0,
     "type": "fee",
     "timestamp": 1702886305000,
@@ -110,7 +110,7 @@
     ]
   },
   {
-    "source": "mexc-future-ja-jst_future-trade_1692682331000",
+    "source": "mexc_future-trade_1692682331000",
     "order": 0,
     "type": "realize-profit",
     "timestamp": 1692682331000,
@@ -132,7 +132,7 @@
     ]
   },
   {
-    "source": "mexc-future-ja-jst_future-trade_1692864643000",
+    "source": "mexc_future-trade_1692864643000",
     "order": 0,
     "type": "ignore",
     "timestamp": 1692864643000,

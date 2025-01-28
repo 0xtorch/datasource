@@ -1,6 +1,6 @@
 [
   {
-    "source": "hashhub-lending-history_1638316800000",
+    "source": "hashhub-lending_1638316800000",
     "order": 0,
     "type": "ignore",
     "timestamp": 1638316800000,
@@ -9,7 +9,7 @@
     "transfers": []
   },
   {
-    "source": "hashhub-lending-history_1639526400000",
+    "source": "hashhub-lending_1639526400000",
     "order": 0,
     "type": "ignore",
     "timestamp": 1639526400000,
@@ -18,7 +18,7 @@
     "transfers": []
   },
   {
-    "source": "hashhub-lending-history_1640995200000",
+    "source": "hashhub-lending_1640995200000",
     "order": 0,
     "type": "interest",
     "timestamp": 1640995200000,
@@ -41,7 +41,7 @@
     ]
   },
   {
-    "source": "hashhub-lending-history_1733020932000",
+    "source": "hashhub-lending_1733020932000",
     "order": 0,
     "type": "fee",
     "timestamp": 1733020932000,

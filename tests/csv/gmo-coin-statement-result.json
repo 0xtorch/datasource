@@ -1,6 +1,6 @@
 [
   {
-    "source": "gmo-coin-statement_1618503300000",
+    "source": "gmo-coin_1618503300000",
     "order": 0,
     "type": "ignore",
     "timestamp": 1618503300000,
@@ -9,7 +9,7 @@
     "transfers": []
   },
   {
-    "source": "gmo-coin-statement_1673320200000",
+    "source": "gmo-coin_1673320200000",
     "order": 0,
     "type": "staking-reward",
     "timestamp": 1673320200000,
@@ -32,7 +32,7 @@
     ]
   },
   {
-    "source": "gmo-coin-statement_1702291080000",
+    "source": "gmo-coin_1702291080000",
     "order": 0,
     "type": "fee",
     "timestamp": 1702291080000,
@@ -55,7 +55,7 @@
     ]
   },
   {
-    "source": "gmo-coin-statement_1734148380000",
+    "source": "gmo-coin_1734148380000",
     "order": 0,
     "type": "ignore",
     "timestamp": 1734148380000,
@@ -64,7 +64,7 @@
     "transfers": []
   },
   {
-    "source": "gmo-coin-statement_1734245220000",
+    "source": "gmo-coin_1734245220000",
     "order": 0,
     "type": "trade",
     "timestamp": 1734245220000,
@@ -99,7 +99,7 @@
     ]
   },
   {
-    "source": "gmo-coin-statement_1734245280000",
+    "source": "gmo-coin_1734245280000",
     "order": 0,
     "type": "trade",
     "timestamp": 1734245280000,
@@ -134,7 +134,7 @@
     ]
   },
   {
-    "source": "gmo-coin-statement_1734245280000",
+    "source": "gmo-coin_1734245280000",
     "order": 1,
     "type": "trade",
     "timestamp": 1734245280000,
@@ -169,7 +169,7 @@
     ]
   },
   {
-    "source": "gmo-coin-statement_1734245580000",
+    "source": "gmo-coin_1734245580000",
     "order": 0,
     "type": "trade",
     "timestamp": 1734245580000,
@@ -204,7 +204,7 @@
     ]
   },
   {
-    "source": "gmo-coin-statement_1734245640000",
+    "source": "gmo-coin_1734245640000",
     "order": 0,
     "type": "trade",
     "timestamp": 1734245640000,
@@ -246,7 +246,7 @@
     ]
   },
   {
-    "source": "gmo-coin-statement_1734245700000",
+    "source": "gmo-coin_1734245700000",
     "order": 0,
     "type": "trade",
     "timestamp": 1734245700000,
@@ -288,7 +288,7 @@
     ]
   },
   {
-    "source": "gmo-coin-statement_1734296760000",
+    "source": "gmo-coin_1734296760000",
     "order": 0,
     "type": "gift",
     "timestamp": 1734296760000,
@@ -308,7 +308,7 @@
     ]
   },
   {
-    "source": "gmo-coin-statement_1734660780000",
+    "source": "gmo-coin_1734660780000",
     "order": 0,
     "type": "ignore",
     "timestamp": 1734660780000,
@@ -317,7 +317,7 @@
     "transfers": []
   },
   {
-    "source": "gmo-coin-statement_1734662340000",
+    "source": "gmo-coin_1734662340000",
     "order": 0,
     "type": "trade",
     "timestamp": 1734662340000,
@@ -359,7 +359,7 @@
     ]
   },
   {
-    "source": "gmo-coin-statement_1734662460000",
+    "source": "gmo-coin_1734662460000",
     "order": 0,
     "type": "fee",
     "timestamp": 1734662460000,
@@ -379,7 +379,7 @@
     ]
   },
   {
-    "source": "gmo-coin-statement_1734662460000",
+    "source": "gmo-coin_1734662460000",
     "order": 1,
     "type": "realize-loss",
     "timestamp": 1734662460000,
@@ -399,7 +399,7 @@
     ]
   },
   {
-    "source": "gmo-coin-statement_1734662460000",
+    "source": "gmo-coin_1734662460000",
     "order": 2,
     "type": "fee",
     "timestamp": 1734662460000,
@@ -419,7 +419,7 @@
     ]
   },
   {
-    "source": "gmo-coin-statement_1734662520000",
+    "source": "gmo-coin_1734662520000",
     "order": 0,
     "type": "fee",
     "timestamp": 1734662520000,
@@ -439,7 +439,7 @@
     ]
   },
   {
-    "source": "gmo-coin-statement_1734662520000",
+    "source": "gmo-coin_1734662520000",
     "order": 1,
     "type": "realize-loss",
     "timestamp": 1734662520000,
@@ -459,7 +459,7 @@
     ]
   },
   {
-    "source": "gmo-coin-statement_1734662520000",
+    "source": "gmo-coin_1734662520000",
     "order": 2,
     "type": "realize-loss",
     "timestamp": 1734662520000,
@@ -479,7 +479,7 @@
     ]
   },
   {
-    "source": "gmo-coin-statement_1734662520000",
+    "source": "gmo-coin_1734662520000",
     "order": 3,
     "type": "realize-loss",
     "timestamp": 1734662520000,
@@ -499,7 +499,7 @@
     ]
   },
   {
-    "source": "gmo-coin-statement_1734662640000",
+    "source": "gmo-coin_1734662640000",
     "order": 0,
     "type": "ignore",
     "timestamp": 1734662640000,
@@ -508,7 +508,7 @@
     "transfers": []
   },
   {
-    "source": "gmo-coin-statement_1734662640000",
+    "source": "gmo-coin_1734662640000",
     "order": 1,
     "type": "ignore",
     "timestamp": 1734662640000,
@@ -517,7 +517,7 @@
     "transfers": []
   },
   {
-    "source": "gmo-coin-statement_1734662700000",
+    "source": "gmo-coin_1734662700000",
     "order": 0,
     "type": "realize-loss",
     "timestamp": 1734662700000,
@@ -537,7 +537,7 @@
     ]
   },
   {
-    "source": "gmo-coin-statement_1734662700000",
+    "source": "gmo-coin_1734662700000",
     "order": 1,
     "type": "realize-loss",
     "timestamp": 1734662700000,
@@ -557,7 +557,7 @@
     ]
   },
   {
-    "source": "gmo-coin-statement_1734662700000",
+    "source": "gmo-coin_1734662700000",
     "order": 2,
     "type": "realize-loss",
     "timestamp": 1734662700000,

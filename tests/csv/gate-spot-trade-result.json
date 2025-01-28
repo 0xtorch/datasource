@@ -1,6 +1,6 @@
 [
   {
-    "source": "gate-spot-trade_spot-trade_406950140354",
+    "source": "gate_spot-trade_406950140354",
     "order": 0,
     "type": "trade",
     "timestamp": 1695861089000,
@@ -48,7 +48,7 @@
     ]
   },
   {
-    "source": "gate-spot-trade_spot-trade_406949013577",
+    "source": "gate_spot-trade_406949013577",
     "order": 0,
     "type": "trade",
     "timestamp": 1695860916000,

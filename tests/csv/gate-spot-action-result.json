@@ -1,6 +1,6 @@
 [
   {
-    "source": "gate-spot-action_spot-action_1730333515000",
+    "source": "gate_spot-action_1730333515000",
     "order": 0,
     "type": "trade",
     "timestamp": 1730333515000,
@@ -60,7 +60,7 @@
     ]
   },
   {
-    "source": "gate-spot-action_spot-action_1714269076000",
+    "source": "gate_spot-action_1714269076000",
     "order": 0,
     "type": "airdrop",
     "timestamp": 1714269076000,
@@ -83,7 +83,7 @@
     ]
   },
   {
-    "source": "gate-spot-action_spot-action_1713338273000",
+    "source": "gate_spot-action_1713338273000",
     "order": 0,
     "type": "gift",
     "timestamp": 1713338273000,
@@ -106,7 +106,7 @@
     ]
   },
   {
-    "source": "gate-spot-action_spot-action_1713039304000",
+    "source": "gate_spot-action_1713039304000",
     "order": 0,
     "type": "ignore",
     "timestamp": 1713039304000,
@@ -115,7 +115,7 @@
     "transfers": []
   },
   {
-    "source": "gate-spot-action_spot-action_1712810969000",
+    "source": "gate_spot-action_1712810969000",
     "order": 0,
     "type": "ignore",
     "timestamp": 1712810969000,
@@ -124,7 +124,7 @@
     "transfers": []
   },
   {
-    "source": "gate-spot-action_spot-action_1712663007000",
+    "source": "gate_spot-action_1712663007000",
     "order": 0,
     "type": "fee",
     "timestamp": 1712663007000,
@@ -150,7 +150,7 @@
     ]
   },
   {
-    "source": "gate-spot-action_spot-action_1712655848000",
+    "source": "gate_spot-action_1712655848000",
     "order": 0,
     "type": "ignore",
     "timestamp": 1712655848000,
@@ -159,7 +159,7 @@
     "transfers": []
   },
   {
-    "source": "gate-spot-action_spot-action_1712627222000",
+    "source": "gate_spot-action_1712627222000",
     "order": 0,
     "type": "trade",
     "timestamp": 1712627222000,
@@ -1245,7 +1245,7 @@
     ]
   },
   {
-    "source": "gate-spot-action_spot-action_1710842811000",
+    "source": "gate_spot-action_1710842811000",
     "order": 0,
     "type": "ignore",
     "timestamp": 1710842811000,
@@ -1254,7 +1254,7 @@
     "transfers": []
   },
   {
-    "source": "gate-spot-action_spot-action_1705478684000",
+    "source": "gate_spot-action_1705478684000",
     "order": 0,
     "type": "fee",
     "timestamp": 1705478684000,

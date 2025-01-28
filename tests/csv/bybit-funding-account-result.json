@@ -1,6 +1,6 @@
 [
   {
-    "source": "bybit-funding-account_funding-account_1734524237000",
+    "source": "bybit_funding-account_1734524237000",
     "order": 0,
     "type": "ignore",
     "timestamp": 1734524237000,
@@ -9,7 +9,7 @@
     "transfers": []
   },
   {
-    "source": "bybit-funding-account_funding-account_1734430749000",
+    "source": "bybit_funding-account_1734430749000",
     "order": 0,
     "type": "ignore",
     "timestamp": 1734430749000,
@@ -18,7 +18,7 @@
     "transfers": []
   },
   {
-    "source": "bybit-funding-account_funding-account_1734395857000",
+    "source": "bybit_funding-account_1734395857000",
     "order": 0,
     "type": "interest",
     "timestamp": 1734395857000,
@@ -41,7 +41,7 @@
     ]
   },
   {
-    "source": "bybit-funding-account_funding-account_1734145657000",
+    "source": "bybit_funding-account_1734145657000",
     "order": 0,
     "type": "ignore",
     "timestamp": 1734145657000,
@@ -50,7 +50,7 @@
     "transfers": []
   },
   {
-    "source": "bybit-funding-account_funding-account_1734145546000",
+    "source": "bybit_funding-account_1734145546000",
     "order": 0,
     "type": "ignore",
     "timestamp": 1734145546000,
@@ -59,7 +59,7 @@
     "transfers": []
   },
   {
-    "source": "bybit-funding-account_funding-account_1734143644000",
+    "source": "bybit_funding-account_1734143644000",
     "order": 0,
     "type": "ignore",
     "timestamp": 1734143644000,
@@ -68,7 +68,7 @@
     "transfers": []
   },
   {
-    "source": "bybit-funding-account_funding-account_1730807509000",
+    "source": "bybit_funding-account_1730807509000",
     "order": 0,
     "type": "ignore",
     "timestamp": 1730807509000,
@@ -77,7 +77,7 @@
     "transfers": []
   },
   {
-    "source": "bybit-funding-account_funding-account_1730420940000",
+    "source": "bybit_funding-account_1730420940000",
     "order": 0,
     "type": "interest",
     "timestamp": 1730420940000,
@@ -100,7 +100,7 @@
     ]
   },
   {
-    "source": "bybit-funding-account_funding-account_1730110876000",
+    "source": "bybit_funding-account_1730110876000",
     "order": 0,
     "type": "ignore",
     "timestamp": 1730110876000,
@@ -109,7 +109,7 @@
     "transfers": []
   },
   {
-    "source": "bybit-funding-account_funding-account_1728058374000",
+    "source": "bybit_funding-account_1728058374000",
     "order": 0,
     "type": "gift",
     "timestamp": 1728058374000,
@@ -132,7 +132,7 @@
     ]
   },
   {
-    "source": "bybit-funding-account_funding-account_1728058373000",
+    "source": "bybit_funding-account_1728058373000",
     "order": 0,
     "type": "fee",
     "timestamp": 1728058373000,
@@ -155,7 +155,7 @@
     ]
   },
   {
-    "source": "bybit-funding-account_funding-account_1707371859000",
+    "source": "bybit_funding-account_1707371859000",
     "order": 0,
     "type": "airdrop",
     "timestamp": 1707371859000,
@@ -178,7 +178,7 @@
     ]
   },
   {
-    "source": "bybit-funding-account_funding-account_1683765445000",
+    "source": "bybit_funding-account_1683765445000",
     "order": 0,
     "type": "interest",
     "timestamp": 1683765445000,
@@ -201,7 +201,7 @@
     ]
   },
   {
-    "source": "bybit-funding-account_funding-account_1683765445000",
+    "source": "bybit_funding-account_1683765445000",
     "order": 1,
     "type": "ignore",
     "timestamp": 1683765445000,
@@ -210,7 +210,7 @@
     "transfers": []
   },
   {
-    "source": "bybit-funding-account_funding-account_1683133052000",
+    "source": "bybit_funding-account_1683133052000",
     "order": 0,
     "type": "ignore",
     "timestamp": 1683133052000,

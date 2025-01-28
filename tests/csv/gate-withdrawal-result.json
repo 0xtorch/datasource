@@ -1,6 +1,6 @@
 [
   {
-    "source": "gate-withdrawal_withdrawal_64215962",
+    "source": "gate_withdrawal_64215962",
     "order": 0,
     "type": "ignore",
     "timestamp": 1728441729000,
@@ -9,7 +9,7 @@
     "transfers": []
   },
   {
-    "source": "gate-withdrawal_withdrawal_56279272",
+    "source": "gate_withdrawal_56279272",
     "order": 0,
     "type": "fee",
     "timestamp": 1712995202000,
@@ -32,7 +32,7 @@
     ]
   },
   {
-    "source": "gate-withdrawal_withdrawal_56270622",
+    "source": "gate_withdrawal_56270622",
     "order": 0,
     "type": "fee",
     "timestamp": 1712982495000,

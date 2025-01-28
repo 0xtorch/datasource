@@ -1,6 +1,6 @@
 [
   {
-    "source": "okj-deposit-withdrawal_withdrawal_37850722",
+    "source": "okj_withdrawal_37850722",
     "order": 0,
     "type": "gift",
     "timestamp": 1735110618000,
@@ -21,7 +21,7 @@
     ]
   },
   {
-    "source": "okj-deposit-withdrawal_withdrawal_37320804",
+    "source": "okj_withdrawal_37320804",
     "order": 0,
     "type": "gift",
     "timestamp": 1734591926000,
@@ -42,7 +42,7 @@
     ]
   },
   {
-    "source": "okj-deposit-withdrawal_withdrawal_37320801",
+    "source": "okj_withdrawal_37320801",
     "order": 0,
     "type": "fee",
     "timestamp": 1734591926000,
@@ -63,7 +63,7 @@
     ]
   },
   {
-    "source": "okj-deposit-withdrawal_withdrawal_31288234",
+    "source": "okj_withdrawal_31288234",
     "order": 0,
     "type": "ignore",
     "timestamp": 1728649390000,
@@ -72,7 +72,7 @@
     "transfers": []
   },
   {
-    "source": "okj-deposit-withdrawal_withdrawal_31288231",
+    "source": "okj_withdrawal_31288231",
     "order": 0,
     "type": "ignore",
     "timestamp": 1728649390000,
@@ -81,7 +81,7 @@
     "transfers": []
   },
   {
-    "source": "okj-deposit-withdrawal_withdrawal_30902091",
+    "source": "okj_withdrawal_30902091",
     "order": 0,
     "type": "staking-reward",
     "timestamp": 1728286134000,
@@ -102,7 +102,7 @@
     ]
   },
   {
-    "source": "okj-deposit-withdrawal_withdrawal_26410180",
+    "source": "okj_withdrawal_26410180",
     "order": 0,
     "type": "fee",
     "timestamp": 1723628850000,
@@ -123,7 +123,7 @@
     ]
   },
   {
-    "source": "okj-deposit-withdrawal_withdrawal_25120196",
+    "source": "okj_withdrawal_25120196",
     "order": 0,
     "type": "ignore",
     "timestamp": 1722242000000,
@@ -132,7 +132,7 @@
     "transfers": []
   },
   {
-    "source": "okj-deposit-withdrawal_withdrawal_19199627",
+    "source": "okj_withdrawal_19199627",
     "order": 0,
     "type": "gift",
     "timestamp": 1714641109000,

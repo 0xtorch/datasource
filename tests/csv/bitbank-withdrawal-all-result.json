@@ -1,6 +1,6 @@
 [
   {
-    "source": "bitbank-withdrawal-all_withdrawal_1721802830000",
+    "source": "bitbank_withdrawal_1721802830000",
     "order": 0,
     "type": "fee",
     "timestamp": 1721802830000,
@@ -23,7 +23,7 @@
     ]
   },
   {
-    "source": "bitbank-withdrawal-all_withdrawal_1720449115000",
+    "source": "bitbank_withdrawal_1720449115000",
     "order": 0,
     "type": "fee",
     "timestamp": 1720449115000,
@@ -46,7 +46,7 @@
     ]
   },
   {
-    "source": "bitbank-withdrawal-all_withdrawal_1719672110000",
+    "source": "bitbank_withdrawal_1719672110000",
     "order": 0,
     "type": "fee",
     "timestamp": 1719672110000,
@@ -69,7 +69,7 @@
     ]
   },
   {
-    "source": "bitbank-withdrawal-all_withdrawal_1705590638000",
+    "source": "bitbank_withdrawal_1705590638000",
     "order": 0,
     "type": "fee",
     "timestamp": 1705590638000,

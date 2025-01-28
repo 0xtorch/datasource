@@ -1,6 +1,6 @@
 [
   {
-    "source": "mexc-future-flow-ja-jst_future-flow_1703401919000",
+    "source": "mexc_future-flow_1703401919000",
     "order": 0,
     "type": "ignore",
     "timestamp": 1703401919000,
@@ -9,7 +9,7 @@
     "transfers": []
   },
   {
-    "source": "mexc-future-flow-ja-jst_future-flow_1703401890000",
+    "source": "mexc_future-flow_1703401890000",
     "order": 0,
     "type": "ignore",
     "timestamp": 1703401890000,
@@ -18,7 +18,7 @@
     "transfers": []
   },
   {
-    "source": "mexc-future-flow-ja-jst_future-flow_1703401890000",
+    "source": "mexc_future-flow_1703401890000",
     "order": 1,
     "type": "ignore",
     "timestamp": 1703401890000,
@@ -27,7 +27,7 @@
     "transfers": []
   },
   {
-    "source": "mexc-future-flow-ja-jst_future-flow_1703376006000",
+    "source": "mexc_future-flow_1703376006000",
     "order": 0,
     "type": "derivative-profit",
     "timestamp": 1703376006000,
@@ -50,7 +50,7 @@
     ]
   },
   {
-    "source": "mexc-future-flow-ja-jst_future-flow_1703145605000",
+    "source": "mexc_future-flow_1703145605000",
     "order": 0,
     "type": "derivative-fee",
     "timestamp": 1703145605000,
@@ -73,7 +73,7 @@
     ]
   },
   {
-    "source": "mexc-future-flow-ja-jst_future-flow_1702884606000",
+    "source": "mexc_future-flow_1702884606000",
     "order": 0,
     "type": "ignore",
     "timestamp": 1702884606000,
