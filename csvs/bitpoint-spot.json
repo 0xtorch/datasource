@@ -1,6 +1,9 @@
 {
   "id": "bitpoint-spot",
   "service": "bitpoint",
+  "headerStartColumns": ["No"],
+  "headerCheckRowSize": 10,
+  "ignoreStartColumns": [["\\d+", "", "", "(繰り越し|合計)"]],
   "formatter": {
     "No": ["big-decimal"],
     "受渡日": ["blank", "datetime-jp"],
