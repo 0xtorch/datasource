@@ -166,7 +166,7 @@
         ]
       },
       {
-        "description": "income | Small Assets Exchange BNB / Launchpad Subscribe (Change > 0)",
+        "description": "income | Small Assets Exchange BNB / Launchpad Subscribe / Distribution (Change > 0)",
         "conditions": [
           {
             "value": {
@@ -175,7 +175,11 @@
             },
             "pattern": {
               "type": "in",
-              "values": ["Small Assets Exchange BNB", "Launchpad Subscribe"]
+              "values": [
+                "Small Assets Exchange BNB",
+                "Launchpad Subscribe",
+                "Distribution"
+              ]
             }
           },
           {
@@ -241,7 +245,7 @@
         ]
       },
       {
-        "description": "pay | Small Assets Exchange BNB / Launchpad Subscribe (Change < 0)",
+        "description": "pay | Small Assets Exchange BNB / Launchpad Subscribe / Asset Recovery (Change < 0)",
         "conditions": [
           {
             "value": {
@@ -250,7 +254,11 @@
             },
             "pattern": {
               "type": "in",
-              "values": ["Small Assets Exchange BNB", "Launchpad Subscribe"]
+              "values": [
+                "Small Assets Exchange BNB",
+                "Launchpad Subscribe",
+                "Asset Recovery"
+              ]
             }
           },
           {
@@ -431,5 +439,8 @@
         ]
       }
     ]
+  },
+  "symbolAssetMap": {
+    "COCOS": "crypto/cocos-bcx"
   }
 }

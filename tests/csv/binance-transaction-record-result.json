@@ -343,6 +343,50 @@
     ]
   },
   {
+    "source": "binance_transaction_1685623276000",
+    "order": 0,
+    "type": "pay",
+    "timestamp": 1685623276000,
+    "evidence": "system-rule",
+    "comment": "Operation: Asset Recovery / Change: -12.88700000COCOS / Remark: ",
+    "transfers": [
+      {
+        "direction": "out",
+        "asset": {
+          "type": "CryptoCurrency",
+          "id": "cocos-bcx",
+          "name": "cocos-bcx",
+          "symbol": "COCOS-BCX",
+          "updatedAt": 0
+        },
+        "amount": "12.887"
+      }
+    ]
+  },
+  {
+    "source": "binance_transaction_1685626635000",
+    "order": 0,
+    "type": "income",
+    "timestamp": 1685626635000,
+    "evidence": "system-rule",
+    "comment": "Operation: Distribution / Change: 12.88700000COMBO / Remark: Token swap distribution",
+    "transfers": [
+      {
+        "direction": "in",
+        "asset": {
+          "type": "CryptoCurrency",
+          "id": "cocos-bcx",
+          "name": "COMBO",
+          "symbol": "combo",
+          "icon": "https://coin-images.coingecko.com/coins/images/4932/large/COMBO.jpg?1696505472",
+          "market": { "coingeckoId": "cocos-bcx", "marketCapUsd": 29649097 },
+          "updatedAt": 1728782536762
+        },
+        "amount": "12.887"
+      }
+    ]
+  },
+  {
     "source": "binance_transaction_1685805571000",
     "order": 0,
     "type": "ignore",
