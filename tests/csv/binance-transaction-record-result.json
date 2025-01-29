@@ -412,5 +412,28 @@
     "evidence": "system-rule",
     "comment": "Operation: Realized Profit and Loss / Change: 167.69650000USDT / Remark: TradeID - 12189670",
     "transfers": []
+  },
+  {
+    "source": "binance_transaction_1726575669000",
+    "order": 0,
+    "type": "airdrop",
+    "timestamp": 1726575669000,
+    "evidence": "system-rule",
+    "comment": "Operation: Airdrop Assets / Change: 0.00000824BTC / Remark: ",
+    "transfers": [
+      {
+        "direction": "in",
+        "asset": {
+          "type": "CryptoCurrency",
+          "id": "bitcoin",
+          "name": "Bitcoin",
+          "symbol": "btc",
+          "icon": "https://coin-images.coingecko.com/coins/images/1/large/bitcoin.png?1696501400",
+          "market": { "coingeckoId": "bitcoin", "marketCapUsd": 1242823480668 },
+          "updatedAt": 1728782536762
+        },
+        "amount": "0.00000824"
+      }
+    ]
   }
 ]

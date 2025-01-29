@@ -87,6 +87,81 @@
         ]
       },
       {
+        "description": "airdrop | Airdrop Assets (Change > 0)",
+        "conditions": [
+          {
+            "value": {
+              "type": "cell",
+              "column": "Operation"
+            },
+            "pattern": {
+              "type": "in",
+              "values": ["Airdrop Assets"]
+            }
+          },
+          {
+            "value": {
+              "type": "cell",
+              "column": "Change"
+            },
+            "pattern": {
+              "type": "positive"
+            }
+          }
+        ],
+        "generators": [
+          {
+            "type": "airdrop",
+            "source": {
+              "type": "join",
+              "values": [
+                { "type": "service" },
+                "_transaction_",
+                {
+                  "type": "cell",
+                  "column": "UTC_Time"
+                }
+              ]
+            },
+            "timestamp": {
+              "type": "cell",
+              "column": "UTC_Time"
+            },
+            "comment": {
+              "type": "join",
+              "values": [
+                "Operation: ",
+                { "type": "cell", "column": "Operation" },
+                " / Change: ",
+                { "type": "cell", "column": "Change" },
+                { "type": "cell", "column": "Coin" },
+                " / Remark: ",
+                { "type": "cell", "column": "Remark" }
+              ]
+            },
+            "transfers": [
+              {
+                "direction": "in",
+                "amount": {
+                  "type": "text",
+                  "value": {
+                    "type": "cell",
+                    "column": "Change"
+                  }
+                },
+                "asset": {
+                  "type": "symbol",
+                  "value": {
+                    "type": "cell",
+                    "column": "Coin"
+                  }
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
         "description": "gift | Launchpad Token Distribution / BNB Vault Rewards / Launchpool Earnings Withdrawal (Change > 0)",
         "conditions": [
           {
