@@ -1,6 +1,9 @@
 {
   "id": "hashkey-global-withdrawal",
   "service": "hashkey-global",
+  "sheetName": "Sheet1",
+  "headerStartColumns": ["Time"],
+  "headerCheckRowSize": 10,
   "formatter": {
     "Time": ["iso8601"],
     "Order ID": ["string"],
