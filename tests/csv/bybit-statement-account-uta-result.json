@@ -100,6 +100,50 @@
     ]
   },
   {
+    "source": "bybit_uta-account_1718188351000",
+    "order": 0,
+    "type": "gift",
+    "timestamp": 1718188351000,
+    "evidence": "system-rule",
+    "comment": "Type: TOKENS_REDEMPTION / \"0.0000006070208833\" USDT",
+    "transfers": [
+      {
+        "direction": "in",
+        "asset": {
+          "type": "CryptoCurrency",
+          "id": "tether",
+          "name": "Tether",
+          "symbol": "usdt",
+          "icon": "https://coin-images.coingecko.com/coins/images/325/large/Tether.png?1696501661",
+          "market": { "coingeckoId": "tether", "marketCapUsd": 119675340267 },
+          "updatedAt": 1728782536762
+        },
+        "amount": "0.0000006070208833"
+      }
+    ]
+  },
+  {
+    "source": "bybit_uta-account_1718187910000",
+    "order": 0,
+    "type": "fee",
+    "timestamp": 1718187910000,
+    "evidence": "system-rule",
+    "comment": "Type: TOKENS_REDEMPTION / \"-0.0000025\" XRP3L",
+    "transfers": [
+      {
+        "direction": "out",
+        "asset": {
+          "type": "CryptoCurrency",
+          "id": "0xtorch-bybit-xrp3l",
+          "name": "0xtorch-bybit-xrp3l",
+          "symbol": "0XTORCH-BYBIT-XRP3L",
+          "updatedAt": 0
+        },
+        "amount": "0.0000025"
+      }
+    ]
+  },
+  {
     "source": "bybit_uta-account_1718182429000",
     "order": 0,
     "type": "gift",

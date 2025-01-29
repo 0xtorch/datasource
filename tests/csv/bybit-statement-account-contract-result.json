@@ -89,5 +89,28 @@
     "evidence": "system-rule",
     "comment": "Type: transferIn / \"265.3344\" USDT",
     "transfers": []
+  },
+  {
+    "source": "bybit_contract-account_1649734693000",
+    "order": 0,
+    "type": "gift",
+    "timestamp": 1649734693000,
+    "evidence": "system-rule",
+    "comment": "Type: bonusClaimed / \"20\" USDT",
+    "transfers": [
+      {
+        "direction": "in",
+        "asset": {
+          "type": "CryptoCurrency",
+          "id": "tether",
+          "name": "Tether",
+          "symbol": "usdt",
+          "icon": "https://coin-images.coingecko.com/coins/images/325/large/Tether.png?1696501661",
+          "market": { "coingeckoId": "tether", "marketCapUsd": 119675340267 },
+          "updatedAt": 1728782536762
+        },
+        "amount": "20"
+      }
+    ]
   }
 ]
