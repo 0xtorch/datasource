@@ -1,15 +1,15 @@
 {
-  "id": "binance-withdraw",
+  "id": "binance-withdrawal-ja",
   "service": "binance",
   "formatter": {
-    "Date(UTC)": ["iso8601"],
-    "Coin": ["blank", "string"],
-    "Network": ["string"],
-    "Amount": ["big-decimal-positive"],
-    "TransactionFee": ["big-decimal"],
-    "Address": ["string"],
-    "TXID": ["string"],
-    "Status": ["string"]
+    "日付（UTC+0）": ["iso8601"],
+    "暗号資産": ["string"],
+    "ネットワーク": ["string"],
+    "数量": ["big-decimal-positive"],
+    "手数料": ["big-decimal"],
+    "住所": ["string"],
+    "トランザクションID（TXID）": ["string"],
+    "ステータス": ["string"]
   },
   "parser": {
     "parsers": [
@@ -18,14 +18,14 @@
           {
             "value": {
               "type": "cell",
-              "column": "Status"
+              "column": "ステータス"
             },
             "pattern": "Completed"
           },
           {
             "value": {
               "type": "cell",
-              "column": "TransactionFee"
+              "column": "手数料"
             },
             "pattern": {
               "type": "positive"
@@ -39,21 +39,21 @@
               "type": "join",
               "values": [
                 { "type": "service" },
-                "_withdraw_",
+                "_withdrawal_",
                 {
                   "type": "cell",
-                  "column": "Network"
+                  "column": "ネットワーク"
                 },
                 "_",
                 {
                   "type": "cell",
-                  "column": "TXID"
+                  "column": "トランザクションID（TXID）"
                 }
               ]
             },
             "timestamp": {
               "type": "cell",
-              "column": "Date(UTC)"
+              "column": "日付（UTC+0）"
             },
             "comment": {
               "type": "join",
@@ -61,17 +61,17 @@
                 "Withdraw to ",
                 {
                   "type": "cell",
-                  "column": "Address"
+                  "column": "住所"
                 },
                 " on ",
                 {
                   "type": "cell",
-                  "column": "Network"
+                  "column": "ネットワーク"
                 },
-                " Network | TXID: ",
+                " ネットワーク | TXID: ",
                 {
                   "type": "cell",
-                  "column": "TXID"
+                  "column": "トランザクションID（TXID）"
                 }
               ]
             },
@@ -82,14 +82,14 @@
                   "type": "text",
                   "value": {
                     "type": "cell",
-                    "column": "TransactionFee"
+                    "column": "手数料"
                   }
                 },
                 "asset": {
                   "type": "symbol",
                   "value": {
                     "type": "cell",
-                    "column": "Coin"
+                    "column": "暗号資産"
                   }
                 }
               }
@@ -102,14 +102,14 @@
           {
             "value": {
               "type": "cell",
-              "column": "Status"
+              "column": "ステータス"
             },
             "pattern": "Completed"
           },
           {
             "value": {
               "type": "cell",
-              "column": "TransactionFee"
+              "column": "手数料"
             },
             "pattern": "\"0\""
           }
@@ -124,18 +124,18 @@
                 "_withdraw_",
                 {
                   "type": "cell",
-                  "column": "Network"
+                  "column": "ネットワーク"
                 },
                 "_",
                 {
                   "type": "cell",
-                  "column": "TXID"
+                  "column": "トランザクションID（TXID）"
                 }
               ]
             },
             "timestamp": {
               "type": "cell",
-              "column": "Date(UTC)"
+              "column": "日付（UTC+0）"
             },
             "comment": {
               "type": "join",
@@ -143,17 +143,77 @@
                 "Withdraw to ",
                 {
                   "type": "cell",
-                  "column": "Address"
+                  "column": "住所"
                 },
                 " on ",
                 {
                   "type": "cell",
-                  "column": "Network"
+                  "column": "ネットワーク"
                 },
-                " Network | TXID: ",
+                " ネットワーク | TXID: ",
                 {
                   "type": "cell",
-                  "column": "TXID"
+                  "column": "トランザクションID（TXID）"
+                }
+              ]
+            },
+            "transfers": []
+          }
+        ]
+      },
+      {
+        "conditions": [
+          {
+            "value": {
+              "type": "cell",
+              "column": "ステータス"
+            },
+            "pattern": {
+              "type": "not-in",
+              "values": ["Completed"]
+            }
+          }
+        ],
+        "generators": [
+          {
+            "type": "ignore",
+            "source": {
+              "type": "join",
+              "values": [
+                { "type": "service" },
+                "_withdraw_",
+                {
+                  "type": "cell",
+                  "column": "ネットワーク"
+                },
+                "_",
+                {
+                  "type": "cell",
+                  "column": "トランザクションID（TXID）"
+                }
+              ]
+            },
+            "timestamp": {
+              "type": "cell",
+              "column": "日付（UTC+0）"
+            },
+            "comment": {
+              "type": "join",
+              "values": [
+                "Withdraw to ",
+                {
+                  "type": "cell",
+                  "column": "住所"
+                },
+                " on ",
+                {
+                  "type": "cell",
+                  "column": "ネットワーク"
+                },
+                " ネットワーク | TXID: ",
+                {
+                  "type": "cell",
+                  "column": "トランザクションID（TXID）"
                 }
               ]
             },
