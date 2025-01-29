@@ -222,5 +222,8 @@
         ]
       }
     ]
+  },
+  "symbolAssetMap": {
+    "COCOS": "crypto/cocos-bcx"
   }
 }
