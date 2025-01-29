@@ -68,6 +68,63 @@
         ]
       },
       {
+        "description": "Commission (Affiliate) > gift",
+        "conditions": [
+          {
+            "value": {
+              "type": "cell",
+              "column": "Type"
+            },
+            "pattern": "Commission (Affiliate)"
+          }
+        ],
+        "generators": [
+          {
+            "type": "gift",
+            "source": {
+              "type": "join",
+              "values": [
+                { "type": "service" },
+                "_funding-account_",
+                { "type": "cell", "column": "Date & Time(UTC)" }
+              ]
+            },
+            "timestamp": {
+              "type": "cell",
+              "column": "Date & Time(UTC)"
+            },
+            "comment": {
+              "type": "join",
+              "values": [
+                "Type:",
+                { "type": "cell", "column": "Type" },
+                " / Description: ",
+                { "type": "cell", "column": "Description" }
+              ]
+            },
+            "transfers": [
+              {
+                "direction": "in",
+                "amount": {
+                  "type": "text",
+                  "value": {
+                    "type": "cell",
+                    "column": "QTY"
+                  }
+                },
+                "asset": {
+                  "type": "symbol",
+                  "value": {
+                    "type": "cell",
+                    "column": "Coin"
+                  }
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
         "description": "Earn: Flexible Savings Interest Distribution / Fixed Savings Interest Distribution > interest",
         "conditions": [
           {
@@ -337,7 +394,13 @@
             },
             "pattern": {
               "type": "in",
-              "values": ["Deposit", "Transfer in", "Transfer out", "Withdraw"]
+              "values": [
+                "Deposit",
+                "Transfer in",
+                "Transfer out",
+                "Withdraw",
+                "Bot"
+              ]
             }
           }
         ],
@@ -371,10 +434,87 @@
             "transfers": []
           }
         ]
+      },
+      {
+        "description": "undefined (negative) > transfer",
+        "conditions": [
+          {
+            "value": {
+              "type": "cell",
+              "column": "Type"
+            },
+            "pattern": ""
+          },
+          {
+            "value": {
+              "type": "cell",
+              "column": "Description"
+            },
+            "pattern": ""
+          },
+          {
+            "value": {
+              "type": "cell",
+              "column": "QTY"
+            },
+            "pattern": {
+              "type": "negative"
+            }
+          }
+        ],
+        "generators": [
+          {
+            "type": "transfer",
+            "source": {
+              "type": "join",
+              "values": [
+                { "type": "service" },
+                "_funding-account_",
+                { "type": "cell", "column": "Date & Time(UTC)" }
+              ]
+            },
+            "timestamp": {
+              "type": "cell",
+              "column": "Date & Time(UTC)"
+            },
+            "comment": {
+              "type": "join",
+              "values": [
+                "Type: Undefined / Description: Undefined / ",
+                { "type": "cell", "column": "QTY" },
+                { "type": "cell", "column": "Coin" }
+              ]
+            },
+            "transfers": [
+              {
+                "direction": "out",
+                "amount": {
+                  "type": "text",
+                  "value": {
+                    "type": "cell",
+                    "column": "QTY"
+                  }
+                },
+                "asset": {
+                  "type": "symbol",
+                  "value": {
+                    "type": "cell",
+                    "column": "Coin"
+                  }
+                }
+              }
+            ]
+          }
+        ]
       }
     ]
   },
   "symbolAssetMap": {
-    "RNDR": "crypto/render-token"
+    "ATOM2L": "crypto/0xtorch-bybit-atom2l",
+    "DOGE2L": "crypto/0xtorch-bybit-doge2l",
+    "ETH3L": "crypto/0xtorch-bybit-eth3l",
+    "HPOS10I": "crypto/harrypotterobamasonic10in",
+    "RNDR": "crypto/render-token",
+    "XRP3L": "crypto/0xtorch-bybit-xrp3l"
   }
 }

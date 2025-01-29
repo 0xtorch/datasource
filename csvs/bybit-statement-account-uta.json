@@ -382,7 +382,11 @@
     ]
   },
   "symbolAssetMap": {
+    "ATOM2L": "crypto/0xtorch-bybit-atom2l",
+    "DOGE2L": "crypto/0xtorch-bybit-doge2l",
+    "ETH3L": "crypto/0xtorch-bybit-eth3l",
+    "HPOS10I": "crypto/harrypotterobamasonic10in",
     "RNDR": "crypto/render-token",
-    "DOGE2L": "crypto/0xtorch-bybit-doge2l"
+    "XRP3L": "crypto/0xtorch-bybit-xrp3l"
   }
 }
