@@ -1,7 +1,6 @@
 {
   "id": "mexc-future-ja-jst",
   "service": "mexc",
-  "sheetName": "Sheet1",
   "formatter": {
     "時間(UTC+09:00)": ["iso8601-jp"],
     "先物取引ペア": ["string"],

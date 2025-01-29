@@ -1,7 +1,6 @@
 {
   "id": "mexc-withdrawal-ja",
   "service": "mexc",
-  "sheetName": "Sheet1",
   "formatter": {
     "ステータス": ["string"],
     "時間": ["iso8601-jp"],

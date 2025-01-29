@@ -1,7 +1,6 @@
 {
   "id": "mexc-spot-trade",
   "service": "mexc",
-  "sheetName": "Sheet1",
   "formatter": {
     "ペア": ["string"],
     "時間": ["iso8601-jp"],
