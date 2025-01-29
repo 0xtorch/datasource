@@ -1,6 +1,8 @@
 {
   "id": "bybit-statement-account-contract",
   "service": "bybit",
+  "headerStartColumns": ["Time"],
+  "headerCheckRowSize": 4,
   "formatter": {
     "Time": ["iso8601"],
     "Currency": ["string"],

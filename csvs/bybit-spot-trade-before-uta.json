@@ -1,6 +1,8 @@
 {
   "id": "bybit-spot-trade-before-uta",
   "service": "bybit",
+  "headerStartColumns": ["Filled Time (Local Time)"],
+  "headerCheckRowSize": 4,
   "formatter": {
     "Direction": ["string"],
     "Filled Value": ["string"],

@@ -1,6 +1,8 @@
 {
   "id": "bybit-statement-account-uta",
   "service": "bybit",
+  "headerStartColumns": ["Currency"],
+  "headerCheckRowSize": 4,
   "formatter": {
     "Currency": ["string"],
     "Contract": ["string"],

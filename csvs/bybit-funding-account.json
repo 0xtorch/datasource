@@ -1,6 +1,8 @@
 {
   "id": "bybit-funding-account",
   "service": "bybit",
+  "headerStartColumns": ["Date & Time(UTC)"],
+  "headerCheckRowSize": 4,
   "formatter": {
     "Date & Time(UTC)": ["iso8601"],
     "Coin": ["string"],
