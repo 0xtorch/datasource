@@ -1,6 +1,8 @@
 {
   "id": "bybit-statement-uta-spot-trade",
   "service": "bybit",
+  "headerStartColumns": ["Spot Pairs"],
+  "headerCheckRowSize": 4,
   "formatter": {
     "Spot Pairs": ["string"],
     "Direction": ["string"],

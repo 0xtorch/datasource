@@ -1,6 +1,7 @@
 {
   "id": "coincheck-standard",
   "service": "coincheck",
+  "footerStartColumns": [""],
   "formatter": {
     "取引日時": ["datetime-jp"],
     "取引種別": ["string"],

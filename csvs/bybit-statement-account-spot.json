@@ -1,6 +1,8 @@
 {
   "id": "bybit-statement-account-spot",
   "service": "bybit",
+  "headerStartColumns": ["Type"],
+  "headerCheckRowSize": 4,
   "formatter": {
     "Type": ["string"],
     "Coin": ["string"],

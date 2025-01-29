@@ -1,6 +1,8 @@
 {
   "id": "bybit-future-pl",
   "service": "bybit",
+  "headerStartColumns": ["Contracts"],
+  "headerCheckRowSize": 4,
   "formatter": {
     "Contracts": ["string"],
     "Trade Type": ["string"],
