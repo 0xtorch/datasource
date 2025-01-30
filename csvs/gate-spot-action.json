@@ -11,7 +11,7 @@
     "key": ["action_data"],
     "parsers": [
       {
-        "description": "gift | 報酬 / 招待報酬 / アフィリエイトウルトラユーザー報酬による収益 / アフィリエイトユーザーリベート収益 / ボーナス / イベントセンターポイント交換",
+        "description": "gift | 報酬 / 招待報酬 / アフィリエイトウルトラユーザー報酬による収益 / アフィリエイトユーザーリベート収益 / ボーナス / イベントセンターポイント交換 / クーポン- ポイント交換",
         "conditions": [
           {
             "value": { "type": "cell", "column": "action_desc" },
@@ -23,7 +23,8 @@
                 "アフィリエイトウルトラユーザー報酬による収益",
                 "アフィリエイトユーザーリベート収益",
                 "ボーナス",
-                "イベントセンターポイント交換"
+                "イベントセンターポイント交換",
+                "クーポン- ポイント交換"
               ]
             }
           }
@@ -1043,13 +1044,16 @@
     "CBL": "crypto/credbull",
     "COM": "crypto/com-ordinals",
     "CWIF": "crypto/catwifhat-2",
+    "DECENTRALIZED": "crypto/decentralized-runes",
     "EVADORE": "crypto/evadore",
     "EVADORE_OLD": "crypto/evadore",
     "F": "crypto/synfutures",
     "GAMEVIRTUAL": "crypto/game-by-virtuals",
     "GT2": "crypto/0xtorch-gate-gt2",
     "HOLDSTATION": "crypto/holdstation",
+    "HPOS10I": "crypto/harrypotterobamasonic10in",
     "JOC": "crypto/japan-open-chain",
+    "KAI1": "crypto/kinetixfi",
     "LUNAI": "crypto/luna-by-virtuals",
     "MEOWCAT": "crypto/meowcat-3",
     "MEME": "crypto/memecoin-2",
@@ -1060,15 +1064,18 @@
     "MYRO": "crypto/myro",
     "NETMIND": "crypto/netmind-token",
     "NEKTAR": "crypto/nektar-network",
+    "OPN1": "crypto/open-ticketing-ecosystem",
     "PIG": "crypto/pig-finance",
     "PIGCOIN": "crypto/pigcoin-2",
     "PIZABRC": "crypto/pizabrc",
+    "POINT": "crypto/0xtorch-gate-point",
     "SMT": "crypto/smartmesh",
     "SMTX": "crypto/swarm-markets",
     "SQ3": "crypto/0xtorch-squad3",
     "STAR": "crypto/filestar",
     "STARHEROES": "crypto/starheroes",
     "TIMES": "crypto/times",
+    "TRACAI": "crypto/origintrail",
     "UP": "crypto/up",
     "USDTEST": "crypto/0xtorch-gate-usdtest",
     "WATERSOL": "crypto/water-coin"

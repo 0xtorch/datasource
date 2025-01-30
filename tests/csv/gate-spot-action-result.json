@@ -303,6 +303,27 @@
     ]
   },
   {
+    "source": "gate_spot-action_1714529471000",
+    "order": 0,
+    "type": "gift",
+    "timestamp": 1714529471000,
+    "evidence": "system-rule",
+    "comment": "action_desc: クーポン- ポイント交換 / change_amount: 0.30000000 POINT",
+    "transfers": [
+      {
+        "direction": "in",
+        "asset": {
+          "type": "CryptoCurrency",
+          "id": "0xtorch-gate-point",
+          "name": "0xtorch-gate-point",
+          "symbol": "0XTORCH-GATE-POINT",
+          "updatedAt": 0
+        },
+        "amount": "0.3"
+      }
+    ]
+  },
+  {
     "source": "gate_spot-action_1714269076000",
     "order": 0,
     "type": "airdrop",
