@@ -1,5 +1,5 @@
 {
-  "id": "coincheck-standard",
+  "id": "coincheck-standard-2",
   "service": "coincheck",
   "footerStartColumns": [""],
   "formatter": {
@@ -9,7 +9,7 @@
     "増加数量": ["blank", "big-decimal"],
     "減少通貨名": ["string"],
     "減少数量": ["blank", "big-decimal"],
-    "約定価格/数量": ["blank", "big-decimal"],
+    "約定代金": ["blank", "big-decimal"],
     "手数料通貨": ["string"],
     "手数料数量": ["blank", "big-decimal"],
     "送付先アドレス": ["string"],
@@ -136,7 +136,7 @@
           {
             "value": {
               "type": "cell",
-              "column": "約定価格/数量"
+              "column": "約定代金"
             },
             "pattern": {
               "type": "positive"
@@ -186,7 +186,7 @@
                   "type": "text",
                   "value": {
                     "type": "cell",
-                    "column": "約定価格/数量"
+                    "column": "約定代金"
                   }
                 },
                 "asset": {
