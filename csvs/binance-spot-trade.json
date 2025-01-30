@@ -237,7 +237,7 @@
   "symbolAssetMap": {
     "COCOS": "crypto/cocos-bcx",
     "KAIA": "crypto/kaia",
-    "KLAY": "crypto/klaytn",
+    "KLAY": "crypto/klay-token",
     "RNDR": "crypto/render-token",
     "TOMO": "crypto/tomochain"
   }
