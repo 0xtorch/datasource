@@ -18,6 +18,112 @@
     "transfers": []
   },
   {
+    "source": "binance_transaction_1622650936000",
+    "order": 0,
+    "type": "ignore",
+    "timestamp": 1622650936000,
+    "evidence": "system-rule",
+    "comment": "Operation: Dual Savings Purchase / Change: -131.51564628USDT / Remark: ",
+    "transfers": []
+  },
+  {
+    "source": "binance_transaction_1622724474000",
+    "order": 0,
+    "type": "ignore",
+    "timestamp": 1622724474000,
+    "evidence": "system-rule",
+    "comment": "Operation: Staking Purchase / Change: -210.00000000MATIC / Remark: ",
+    "transfers": []
+  },
+  {
+    "source": "binance_transaction_1622872605000",
+    "order": 0,
+    "type": "staking-reward",
+    "timestamp": 1622872605000,
+    "evidence": "system-rule",
+    "comment": "Operation: Staking Rewards / Change: 0.24906630MATIC / Remark: ",
+    "transfers": [
+      {
+        "direction": "in",
+        "asset": {
+          "type": "CryptoCurrency",
+          "id": "matic-network",
+          "name": "Polygon",
+          "symbol": "matic",
+          "icon": "https://coin-images.coingecko.com/coins/images/4713/large/polygon.png?1698233745",
+          "market": {
+            "coingeckoId": "matic-network",
+            "marketCapUsd": 992132330
+          },
+          "updatedAt": 1728782536762
+        },
+        "amount": "0.2490663"
+      }
+    ]
+  },
+  {
+    "source": "binance_transaction_1622949129000",
+    "order": 0,
+    "type": "airdrop",
+    "timestamp": 1622949129000,
+    "evidence": "system-rule",
+    "comment": "Operation: Simple Earn Flexible Airdrop / Change: 0.14450478VTHO / Remark: Binance Earn",
+    "transfers": [
+      {
+        "direction": "in",
+        "asset": {
+          "type": "CryptoCurrency",
+          "id": "vethor-token",
+          "name": "VeThor",
+          "symbol": "vtho",
+          "icon": "https://coin-images.coingecko.com/coins/images/5230/large/VTHO_Token_Icon.png?1696505735",
+          "market": {
+            "coingeckoId": "vethor-token",
+            "marketCapUsd": 149946211
+          },
+          "updatedAt": 1728782536762
+        },
+        "amount": "0.14450478"
+      }
+    ]
+  },
+  {
+    "source": "binance_transaction_1623402616000",
+    "order": 0,
+    "type": "ignore",
+    "timestamp": 1623402616000,
+    "evidence": "system-rule",
+    "comment": "Operation: Dual Savings Settlement / Change: 133.50153254USDT / Remark: ",
+    "transfers": []
+  },
+  {
+    "source": "binance_transaction_1624069394000",
+    "order": 0,
+    "type": "ignore",
+    "timestamp": 1624069394000,
+    "evidence": "system-rule",
+    "comment": "Operation: Liquid Swap Add / Change: -0.04020000ETH / Remark: ",
+    "transfers": []
+  },
+  {
+    "source": "binance_transaction_1624069962000",
+    "order": 0,
+    "type": "ignore",
+    "timestamp": 1624069962000,
+    "evidence": "system-rule",
+    "comment": "Operation: Liquidity Farming Remove / Change: 0.04019998ETH / Remark: ",
+    "transfers": []
+  },
+  {
+    "source": "binance_transaction_1624151975000",
+    "order": 0,
+    "type": "ignore",
+    "timestamp": 1624151975000,
+    "evidence": "system-rule",
+    "comment": "Operation: Staking Redemption / Change: 210.00000000MATIC / Remark: ",
+    "transfers": []
+  },
+  {
     "source": "binance_transaction_1672456989000",
     "order": 0,
     "type": "interest",

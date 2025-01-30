@@ -87,7 +87,7 @@
         ]
       },
       {
-        "description": "staking-reward | ETH 2.0 Staking Rewards (Change > 0)",
+        "description": "staking-reward | ETH 2.0 Staking Rewards / Staking Rewards (Change > 0)",
         "conditions": [
           {
             "value": {
@@ -96,7 +96,7 @@
             },
             "pattern": {
               "type": "in",
-              "values": ["ETH 2.0 Staking Rewards"]
+              "values": ["ETH 2.0 Staking Rewards", "Staking Rewards"]
             }
           },
           {
@@ -162,7 +162,7 @@
         ]
       },
       {
-        "description": "airdrop | Airdrop Assets (Change > 0)",
+        "description": "airdrop | Airdrop Assets / Simple Earn Flexible Airdrop (Change > 0)",
         "conditions": [
           {
             "value": {
@@ -171,7 +171,7 @@
             },
             "pattern": {
               "type": "in",
-              "values": ["Airdrop Assets"]
+              "values": ["Airdrop Assets", "Simple Earn Flexible Airdrop"]
             }
           },
           {
@@ -599,7 +599,7 @@
         ]
       },
       {
-        "description": "ignore | Simple Earn Flexible Subscription / Simple Earn Flexible Redemption / Margin Loan / Margin Repayment / Cross Margin Liquidation - Repayment / Cross Margin Liquidation - Small Assets Takeover / Transaction Buy / Transaction Sold / Transaction Spend / Transaction Revenue / Transaction Fee / Binance Convert / Deposit / Withdraw / Fee / Funding Fee / Realized Profit and Loss / Launchpool Subscription/Redemption / NFT Transaction / ETH 2.0 Staking / Buy / Sell",
+        "description": "ignore | Simple Earn Flexible Subscription / Simple Earn Flexible Redemption / Margin Loan / Margin Repayment / Cross Margin Liquidation - Repayment / Cross Margin Liquidation - Small Assets Takeover / Transaction Buy / Transaction Sold / Transaction Spend / Transaction Revenue / Transaction Fee / Binance Convert / Deposit / Withdraw / Fee / Funding Fee / Realized Profit and Loss / Launchpool Subscription/Redemption / NFT Transaction / ETH 2.0 Staking / Buy / Sell / Dual Savings Purchase / Staking Purchase / Dual Savings Settlement / Staking Redemption / Liquid Swap Add / Liquidity Farming Remove",
         "conditions": [
           {
             "value": {
@@ -630,7 +630,13 @@
                 "NFT Transaction",
                 "ETH 2.0 Staking",
                 "Buy",
-                "Sell"
+                "Sell",
+                "Dual Savings Purchase",
+                "Dual Savings Settlement",
+                "Staking Purchase",
+                "Staking Redemption",
+                "Liquid Swap Add",
+                "Liquidity Farming Remove"
               ]
             }
           }
@@ -673,6 +679,9 @@
   },
   "symbolAssetMap": {
     "COCOS": "crypto/cocos-bcx",
+    "KAIA": "crypto/kaia",
+    "KLAY": "crypto/klaytn",
+    "RNDR": "crypto/render-token",
     "TOMO": "crypto/tomochain"
   }
 }
