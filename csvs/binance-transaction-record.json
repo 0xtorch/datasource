@@ -599,7 +599,7 @@
         ]
       },
       {
-        "description": "ignore | Simple Earn Flexible Subscription / Simple Earn Flexible Redemption / Margin Loan / Margin Repayment / Cross Margin Liquidation - Repayment / Cross Margin Liquidation - Small Assets Takeover / Transaction Buy / Transaction Sold / Transaction Spend / Transaction Revenue / Transaction Fee / Binance Convert / Deposit / Withdraw / Fee / Funding Fee / Realized Profit and Loss / Launchpool Subscription/Redemption / NFT Transaction / ETH 2.0 Staking / Buy / Sell / Dual Savings Purchase / Staking Purchase / Dual Savings Settlement / Staking Redemption / Liquid Swap Add / Liquidity Farming Remove",
+        "description": "ignore | Simple Earn Flexible Subscription / Simple Earn Flexible Redemption / Margin Loan / Margin Repayment / Isolated Margin Loan / Isolated Margin Repayment / Cross Margin Liquidation - Repayment / Cross Margin Liquidation - Small Assets Takeover / Transaction Buy / Transaction Sold / Transaction Spend / Transaction Revenue / Transaction Fee / Binance Convert / Deposit / Withdraw / Fee / Funding Fee / Realized Profit and Loss / Launchpool Subscription/Redemption / NFT Transaction / ETH 2.0 Staking / Buy / Sell / Dual Savings Purchase / Staking Purchase / Dual Savings Settlement / Staking Redemption / Liquid Swap Add / Liquidity Farming Remove",
         "conditions": [
           {
             "value": {
@@ -613,6 +613,8 @@
                 "Simple Earn Flexible Redemption",
                 "Margin Loan",
                 "Margin Repayment",
+                "Isolated Margin Loan",
+                "Isolated Margin Repayment",
                 "Cross Margin Liquidation - Repayment",
                 "Cross Margin Liquidation - Small Assets Takeover",
                 "Transaction Buy",

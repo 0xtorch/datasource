@@ -124,6 +124,24 @@
     "transfers": []
   },
   {
+    "source": "binance_transaction_1666417999000",
+    "order": 0,
+    "type": "ignore",
+    "timestamp": 1666417999000,
+    "evidence": "system-rule",
+    "comment": "Operation: Isolated Margin Loan / Change: 221.00000000BUSD / Remark: ",
+    "transfers": []
+  },
+  {
+    "source": "binance_transaction_1667609012000",
+    "order": 0,
+    "type": "ignore",
+    "timestamp": 1667609012000,
+    "evidence": "system-rule",
+    "comment": "Operation: Isolated Margin Repayment / Change: -221.27290400BUSD / Remark: ",
+    "transfers": []
+  },
+  {
     "source": "binance_transaction_1672456989000",
     "order": 0,
     "type": "interest",
