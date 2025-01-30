@@ -1,4 +1,6 @@
 "User_ID","UTC_Time","Account","Operation","Coin","Change","Remark"
+"234581052","2021-01-11 12:13:08","Spot","Buy","BNB","0.24000000",""
+"234581052","2021-01-11 12:13:08","Spot","Sell","BTC","-0.00030160",""
 "234581052","2022-12-31 03:23:09","Spot","Simple Earn Flexible Interest","BTC","8E-8","Binance Earn"
 "234581052","2023-01-02 06:23:03","Spot","ETH 2.0 Staking Rewards","BETH","1E-8",""
 "234581052","2023-01-05 06:50:39","Spot","Simple Earn Flexible Redemption","BUSD","1000.00000000","Binance Earn"

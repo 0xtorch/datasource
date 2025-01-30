@@ -1,5 +1,23 @@
 [
   {
+    "source": "binance_transaction_1610367188000",
+    "order": 0,
+    "type": "ignore",
+    "timestamp": 1610367188000,
+    "evidence": "system-rule",
+    "comment": "Operation: Buy / Change: 0.24000000BNB / Remark: ",
+    "transfers": []
+  },
+  {
+    "source": "binance_transaction_1610367188000",
+    "order": 1,
+    "type": "ignore",
+    "timestamp": 1610367188000,
+    "evidence": "system-rule",
+    "comment": "Operation: Sell / Change: -0.00030160BTC / Remark: ",
+    "transfers": []
+  },
+  {
     "source": "binance_transaction_1672456989000",
     "order": 0,
     "type": "interest",
