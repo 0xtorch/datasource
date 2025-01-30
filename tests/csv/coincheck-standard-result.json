@@ -1,5 +1,45 @@
 [
   {
+    "source": "coincheck_1486520553000",
+    "order": 0,
+    "type": "trade",
+    "timestamp": 1486520553000,
+    "evidence": "system-rule",
+    "comment": "クレジットカード購入",
+    "transfers": [
+      {
+        "direction": "in",
+        "asset": {
+          "type": "CryptoCurrency",
+          "id": "bitcoin",
+          "name": "bitcoin",
+          "symbol": "BITCOIN",
+          "updatedAt": 0
+        },
+        "amount": "3.30592912"
+      },
+      {
+        "direction": "out",
+        "asset": {
+          "type": "FiatCurrency",
+          "id": "jpy",
+          "symbol": "JPY",
+          "name": "Japanese Yen"
+        },
+        "amount": "500000"
+      }
+    ]
+  },
+  {
+    "source": "coincheck_1499134953000",
+    "order": 0,
+    "type": "ignore",
+    "timestamp": 1499134953000,
+    "evidence": "system-rule",
+    "comment": "Transfer to 1111111111111111111111111111111111",
+    "transfers": []
+  },
+  {
     "source": "coincheck_1627483014000",
     "order": 0,
     "type": "ignore",

@@ -5,18 +5,20 @@
   "formatter": {
     "取引日時": ["datetime-jp"],
     "取引種別": ["string"],
-    "増加通貨名": ["blank", "string"],
-    "増加数量": ["blank", "big-decimal-positive"],
-    "減少通貨名": ["blank", "string"],
-    "減少数量": ["blank", "big-decimal-positive"],
-    "手数料通貨": ["blank", "string"],
-    "手数料数量": ["blank", "big-decimal-positive"],
+    "増加通貨名": ["string"],
+    "増加数量": ["blank", "big-decimal"],
+    "減少通貨名": ["string"],
+    "減少数量": ["blank", "big-decimal"],
+    "約定価格/数量": ["blank", "big-decimal"],
+    "手数料通貨": ["string"],
+    "手数料数量": ["blank", "big-decimal"],
     "送付先アドレス": ["string"],
     "備考": ["string"]
   },
   "parser": {
     "parsers": [
       {
+        "description": "trade | 購入 / 売却 / 交換",
         "conditions": [
           {
             "value": {
@@ -31,28 +33,10 @@
           {
             "value": {
               "type": "cell",
-              "column": "増加通貨名"
-            },
-            "pattern": {
-              "type": "defined"
-            }
-          },
-          {
-            "value": {
-              "type": "cell",
               "column": "増加数量"
             },
             "pattern": {
-              "type": "defined"
-            }
-          },
-          {
-            "value": {
-              "type": "cell",
-              "column": "減少通貨名"
-            },
-            "pattern": {
-              "type": "defined"
+              "type": "positive"
             }
           },
           {
@@ -61,7 +45,7 @@
               "column": "減少数量"
             },
             "pattern": {
-              "type": "defined"
+              "type": "positive"
             }
           }
         ],
@@ -124,6 +108,98 @@
         ]
       },
       {
+        "description": "trade | その他 (クレジットカード購入)",
+        "conditions": [
+          {
+            "value": {
+              "type": "cell",
+              "column": "取引種別"
+            },
+            "pattern": "その他"
+          },
+          {
+            "value": {
+              "type": "cell",
+              "column": "備考"
+            },
+            "pattern": "クレジットカード購入"
+          },
+          {
+            "value": {
+              "type": "cell",
+              "column": "増加数量"
+            },
+            "pattern": {
+              "type": "positive"
+            }
+          },
+          {
+            "value": {
+              "type": "cell",
+              "column": "約定価格/数量"
+            },
+            "pattern": {
+              "type": "positive"
+            }
+          }
+        ],
+        "generators": [
+          {
+            "type": "trade",
+            "source": {
+              "type": "join",
+              "values": [
+                { "type": "service" },
+                "_",
+                { "type": "cell", "column": "取引日時" }
+              ]
+            },
+            "timestamp": {
+              "type": "cell",
+              "column": "取引日時"
+            },
+            "comment": {
+              "type": "cell",
+              "column": "備考"
+            },
+            "transfers": [
+              {
+                "direction": "in",
+                "amount": {
+                  "type": "text",
+                  "value": {
+                    "type": "cell",
+                    "column": "増加数量"
+                  }
+                },
+                "asset": {
+                  "type": "symbol",
+                  "value": {
+                    "type": "cell",
+                    "column": "増加通貨名"
+                  }
+                }
+              },
+              {
+                "direction": "out",
+                "amount": {
+                  "type": "text",
+                  "value": {
+                    "type": "cell",
+                    "column": "約定価格/数量"
+                  }
+                },
+                "asset": {
+                  "type": "symbol",
+                  "value": "JPY"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "description": "income | 受取 / ハードフォーク / 受取利息",
         "conditions": [
           {
             "value": {
@@ -138,19 +214,10 @@
           {
             "value": {
               "type": "cell",
-              "column": "増加通貨名"
-            },
-            "pattern": {
-              "type": "defined"
-            }
-          },
-          {
-            "value": {
-              "type": "cell",
               "column": "増加数量"
             },
             "pattern": {
-              "type": "defined"
+              "type": "positive"
             }
           }
         ],
@@ -196,6 +263,7 @@
         ]
       },
       {
+        "description": "fee | 送付 (手数料数量>0)",
         "conditions": [
           {
             "value": {
@@ -207,19 +275,10 @@
           {
             "value": {
               "type": "cell",
-              "column": "手数料通貨"
-            },
-            "pattern": {
-              "type": "defined"
-            }
-          },
-          {
-            "value": {
-              "type": "cell",
               "column": "手数料数量"
             },
             "pattern": {
-              "type": "defined"
+              "type": "positive"
             }
           }
         ],
@@ -268,6 +327,51 @@
         ]
       },
       {
+        "description": "ignore | 送付 (手数料数量=0)",
+        "conditions": [
+          {
+            "value": {
+              "type": "cell",
+              "column": "取引種別"
+            },
+            "pattern": "送付"
+          },
+          {
+            "value": {
+              "type": "cell",
+              "column": "手数料数量"
+            },
+            "pattern": "\"0\""
+          }
+        ],
+        "generators": [
+          {
+            "type": "ignore",
+            "source": {
+              "type": "join",
+              "values": [
+                { "type": "service" },
+                "_",
+                { "type": "cell", "column": "取引日時" }
+              ]
+            },
+            "timestamp": {
+              "type": "cell",
+              "column": "取引日時"
+            },
+            "comment": {
+              "type": "join",
+              "values": [
+                "Transfer to ",
+                { "type": "cell", "column": "送付先アドレス" }
+              ]
+            },
+            "transfers": []
+          }
+        ]
+      },
+      {
+        "description": "fee | NFT送付 (手数料数量>0)",
         "conditions": [
           {
             "value": {
@@ -279,19 +383,10 @@
           {
             "value": {
               "type": "cell",
-              "column": "手数料通貨"
-            },
-            "pattern": {
-              "type": "defined"
-            }
-          },
-          {
-            "value": {
-              "type": "cell",
               "column": "手数料数量"
             },
             "pattern": {
-              "type": "defined"
+              "type": "positive"
             }
           }
         ],
@@ -341,6 +436,7 @@
         ]
       },
       {
+        "description": "fee | 出金 (手数料数量>0)",
         "conditions": [
           {
             "value": {
@@ -352,19 +448,10 @@
           {
             "value": {
               "type": "cell",
-              "column": "手数料通貨"
-            },
-            "pattern": {
-              "type": "defined"
-            }
-          },
-          {
-            "value": {
-              "type": "cell",
               "column": "手数料数量"
             },
             "pattern": {
-              "type": "defined"
+              "type": "positive"
             }
           }
         ],
@@ -407,6 +494,7 @@
         ]
       },
       {
+        "description": "ignore | 入金 / 預入",
         "conditions": [
           {
             "value": {
@@ -448,6 +536,7 @@
         ]
       },
       {
+        "description": "ignore | NFT購入",
         "conditions": [
           {
             "value": {
@@ -491,6 +580,7 @@
         ]
       },
       {
+        "description": "ignore | その他 (Coincheckつみたてから取引アカウントへの振替)",
         "conditions": [
           {
             "value": {
