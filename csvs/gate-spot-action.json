@@ -11,16 +11,18 @@
     "key": ["action_data"],
     "parsers": [
       {
-        "description": "gift | 招待報酬 / アフィリエイトウルトラユーザー報酬による収益 / アフィリエイトユーザーリベート収益",
+        "description": "gift | 報酬 / 招待報酬 / アフィリエイトウルトラユーザー報酬による収益 / アフィリエイトユーザーリベート収益 / ボーナス",
         "conditions": [
           {
             "value": { "type": "cell", "column": "action_desc" },
             "pattern": {
               "type": "in",
               "values": [
+                "報酬",
                 "招待報酬",
                 "アフィリエイトウルトラユーザー報酬による収益",
-                "アフィリエイトユーザーリベート収益"
+                "アフィリエイトユーザーリベート収益",
+                "ボーナス"
               ]
             }
           }
@@ -28,6 +30,73 @@
         "generators": [
           {
             "type": "gift",
+            "source": {
+              "type": "join",
+              "values": [
+                { "type": "service" },
+                "_spot-action_",
+                { "type": "cell", "column": "time" }
+              ]
+            },
+            "timestamp": {
+              "type": "cell",
+              "column": "time"
+            },
+            "comment": {
+              "type": "join",
+              "values": [
+                "action_desc: ",
+                { "type": "cell", "column": "action_desc" },
+                " / change_amount: ",
+                { "type": "cell", "column": "change_amount" }
+              ]
+            },
+            "transfers": [
+              {
+                "direction": "in",
+                "amount": {
+                  "type": "text",
+                  "value": {
+                    "type": "split",
+                    "value": {
+                      "type": "cell",
+                      "column": "change_amount"
+                    },
+                    "splitter": " ",
+                    "index": 0
+                  }
+                },
+                "asset": {
+                  "type": "symbol",
+                  "value": {
+                    "type": "split",
+                    "value": {
+                      "type": "cell",
+                      "column": "change_amount"
+                    },
+                    "splitter": " ",
+                    "index": 1
+                  }
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "description": "interest | 利息",
+        "conditions": [
+          {
+            "value": { "type": "cell", "column": "action_desc" },
+            "pattern": {
+              "type": "in",
+              "values": ["利息"]
+            }
+          }
+        ],
+        "generators": [
+          {
+            "type": "interest",
             "source": {
               "type": "join",
               "values": [
@@ -972,7 +1041,10 @@
     "EVADORE": "crypto/evadore",
     "EVADORE_OLD": "crypto/evadore",
     "F": "crypto/synfutures",
+    "GAMEVIRTUAL": "crypto/game-by-virtuals",
+    "GT2": "crypto/0xtorch-gate-gt2",
     "JOC": "crypto/japan-open-chain",
+    "MEOWCAT": "crypto/meowcat-3",
     "MEME": "crypto/memecoin-2",
     "MEMEBRC": "crypto/meme-brc-20",
     "MEMETOON": "crypto/memetoon",
