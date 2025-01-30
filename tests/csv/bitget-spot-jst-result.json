@@ -223,10 +223,7 @@
           "name": "Etherparty",
           "symbol": "fuel",
           "icon": "https://coin-images.coingecko.com/coins/images/1082/large/etherparty.png?1696502182",
-          "market": {
-            "coingeckoId": "etherparty",
-            "marketCapUsd": 119185
-          },
+          "market": { "coingeckoId": "etherparty", "marketCapUsd": 119185 },
           "updatedAt": 1728782536762
         },
         "amount": "3400.43"
@@ -249,10 +246,7 @@
           "name": "Tether",
           "symbol": "usdt",
           "icon": "https://coin-images.coingecko.com/coins/images/325/large/Tether.png?1696501661",
-          "market": {
-            "coingeckoId": "tether",
-            "marketCapUsd": 119675340267
-          },
+          "market": { "coingeckoId": "tether", "marketCapUsd": 119675340267 },
           "updatedAt": 1728782536762
         },
         "amount": "68.0086"
@@ -275,10 +269,7 @@
           "name": "Etherparty",
           "symbol": "fuel",
           "icon": "https://coin-images.coingecko.com/coins/images/1082/large/etherparty.png?1696502182",
-          "market": {
-            "coingeckoId": "etherparty",
-            "marketCapUsd": 119185
-          },
+          "market": { "coingeckoId": "etherparty", "marketCapUsd": 119185 },
           "updatedAt": 1728782536762
         },
         "amount": "3400.43"
@@ -301,10 +292,7 @@
           "name": "Tether",
           "symbol": "usdt",
           "icon": "https://coin-images.coingecko.com/coins/images/325/large/Tether.png?1696501661",
-          "market": {
-            "coingeckoId": "tether",
-            "marketCapUsd": 119675340267
-          },
+          "market": { "coingeckoId": "tether", "marketCapUsd": 119675340267 },
           "updatedAt": 1728782536762
         },
         "amount": "68.0086"
@@ -455,15 +443,12 @@
         "direction": "out",
         "asset": {
           "type": "CryptoCurrency",
-          "id": "vana-world",
-          "name": "NIRVANA",
+          "id": "vana",
+          "name": "Vana",
           "symbol": "vana",
-          "icon": "https://coin-images.coingecko.com/coins/images/32469/large/vana.jpg?1698259899",
-          "market": {
-            "coingeckoId": "vana-world",
-            "marketCapUsd": 59
-          },
-          "updatedAt": 1728782536762
+          "icon": "https://coin-images.coingecko.com/coins/images/51404/large/logo.png?1731086679",
+          "market": { "coingeckoId": "vana", "marketCapUsd": 264663582 },
+          "updatedAt": 1738112837364
         },
         "amount": "0.005413389863"
       }
@@ -485,10 +470,7 @@
           "name": "Tether",
           "symbol": "usdt",
           "icon": "https://coin-images.coingecko.com/coins/images/325/large/Tether.png?1696501661",
-          "market": {
-            "coingeckoId": "tether",
-            "marketCapUsd": 119675340267
-          },
+          "market": { "coingeckoId": "tether", "marketCapUsd": 119675340267 },
           "updatedAt": 1728782536762
         },
         "amount": "0.43400456297802"
