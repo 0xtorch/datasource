@@ -1,5 +1,51 @@
 [
   {
+    "source": "bybit_spot-trade_2200000000484905069",
+    "order": 0,
+    "type": "trade",
+    "timestamp": 1733922960000,
+    "evidence": "system-rule",
+    "transfers": [
+      {
+        "direction": "out",
+        "asset": {
+          "type": "CryptoCurrency",
+          "id": "zerebro",
+          "name": "zerebro",
+          "symbol": "ZEREBRO",
+          "updatedAt": 0
+        },
+        "amount": "17.6"
+      },
+      {
+        "direction": "in",
+        "asset": {
+          "type": "CryptoCurrency",
+          "id": "tether",
+          "name": "Tether",
+          "symbol": "usdt",
+          "icon": "https://coin-images.coingecko.com/coins/images/325/large/Tether.png?1696501661",
+          "market": { "coingeckoId": "tether", "marketCapUsd": 119675340267 },
+          "updatedAt": 1728782536762
+        },
+        "amount": "8.25088"
+      },
+      {
+        "direction": "out",
+        "asset": {
+          "type": "CryptoCurrency",
+          "id": "tether",
+          "name": "Tether",
+          "symbol": "usdt",
+          "icon": "https://coin-images.coingecko.com/coins/images/325/large/Tether.png?1696501661",
+          "market": { "coingeckoId": "tether", "marketCapUsd": 119675340267 },
+          "updatedAt": 1728782536762
+        },
+        "amount": "0.010726144"
+      }
+    ]
+  },
+  {
     "source": "bybit_spot-trade_2280000000473965936",
     "order": 0,
     "type": "trade",
