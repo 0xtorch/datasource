@@ -143,6 +143,54 @@
     ]
   },
   {
+    "source": "binance_spot-trade_1692102569000",
+    "order": 0,
+    "type": "trade",
+    "timestamp": 1692102569000,
+    "evidence": "system-rule",
+    "transfers": [
+      {
+        "direction": "out",
+        "asset": {
+          "type": "CryptoCurrency",
+          "id": "coin98",
+          "name": "Coin98",
+          "symbol": "c98",
+          "icon": "https://coin-images.coingecko.com/coins/images/17117/large/logo.png?1696516677",
+          "market": { "coingeckoId": "coin98", "marketCapUsd": 102662946 },
+          "updatedAt": 1728782536762
+        },
+        "amount": "1417.6"
+      },
+      {
+        "direction": "in",
+        "asset": {
+          "type": "CryptoCurrency",
+          "id": "tether",
+          "name": "Tether",
+          "symbol": "usdt",
+          "icon": "https://coin-images.coingecko.com/coins/images/325/large/Tether.png?1696501661",
+          "market": { "coingeckoId": "tether", "marketCapUsd": 119675340267 },
+          "updatedAt": 1728782536762
+        },
+        "amount": "221.8544"
+      },
+      {
+        "direction": "out",
+        "asset": {
+          "type": "CryptoCurrency",
+          "id": "tether",
+          "name": "Tether",
+          "symbol": "usdt",
+          "icon": "https://coin-images.coingecko.com/coins/images/325/large/Tether.png?1696501661",
+          "market": { "coingeckoId": "tether", "marketCapUsd": 119675340267 },
+          "updatedAt": 1728782536762
+        },
+        "amount": "0.2218544"
+      }
+    ]
+  },
+  {
     "source": "binance_spot-trade_1673684640000",
     "order": 0,
     "type": "trade",
