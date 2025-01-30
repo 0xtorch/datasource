@@ -445,6 +445,7 @@
     "COM": "crypto/com-ordinals",
     "EVADORE": "crypto/evadore",
     "EVADORE_OLD": "crypto/evadore",
+    "F": "crypto/synfutures",
     "MEME": "crypto/memecoin-2",
     "MEMETOON": "crypto/memetoon",
     "PIG": "crypto/pig-finance",
