@@ -23,6 +23,29 @@
     ]
   },
   {
+    "source": "binance_transaction_1672640583000",
+    "order": 0,
+    "type": "staking-reward",
+    "timestamp": 1672640583000,
+    "evidence": "system-rule",
+    "comment": "Operation: ETH 2.0 Staking Rewards / Change: 1E-8BETH / Remark: ",
+    "transfers": [
+      {
+        "direction": "in",
+        "asset": {
+          "type": "CryptoCurrency",
+          "id": "binance-eth",
+          "name": "Binance ETH staking",
+          "symbol": "beth",
+          "icon": "https://coin-images.coingecko.com/coins/images/13804/large/Binnace.png?1696513551",
+          "market": { "coingeckoId": "binance-eth", "marketCapUsd": 0 },
+          "updatedAt": 1719984459107
+        },
+        "amount": "0.00000001"
+      }
+    ]
+  },
+  {
     "source": "binance_transaction_1672901439000",
     "order": 0,
     "type": "ignore",
@@ -137,6 +160,41 @@
     "timestamp": 1673266422000,
     "evidence": "system-rule",
     "comment": "Operation: Withdraw / Change: -50.00000000USDC / Remark: Withdraw fee is included",
+    "transfers": []
+  },
+  {
+    "source": "binance_transaction_1673356954000",
+    "order": 0,
+    "type": "transfer",
+    "timestamp": 1673356954000,
+    "evidence": "system-rule",
+    "comment": "Operation: Merchant Acquiring / Change: -190.00000000BUSD / Remark: Binance Pay",
+    "transfers": [
+      {
+        "direction": "out",
+        "asset": {
+          "type": "CryptoCurrency",
+          "id": "binance-peg-busd",
+          "name": "Binance-Peg BUSD",
+          "symbol": "busd",
+          "icon": "https://coin-images.coingecko.com/coins/images/31273/large/new_binance-peg-busd.png?1696530096",
+          "market": {
+            "coingeckoId": "binance-peg-busd",
+            "marketCapUsd": 366653267
+          },
+          "updatedAt": 1728782536762
+        },
+        "amount": "190"
+      }
+    ]
+  },
+  {
+    "source": "binance_transaction_1673943090000",
+    "order": 0,
+    "type": "ignore",
+    "timestamp": 1673943090000,
+    "evidence": "system-rule",
+    "comment": "Operation: NFT Transaction / Change: 144.06000000BUSD / Remark: Binance NFT",
     "transfers": []
   },
   {
@@ -411,6 +469,47 @@
     "timestamp": 1686204776000,
     "evidence": "system-rule",
     "comment": "Operation: Realized Profit and Loss / Change: 167.69650000USDT / Remark: TradeID - 12189670",
+    "transfers": []
+  },
+  {
+    "source": "binance_transaction_1697105077000",
+    "order": 0,
+    "type": "income",
+    "timestamp": 1697105077000,
+    "evidence": "system-rule",
+    "comment": "Operation: Token Swap - Distribution / Change: 0.02800000BEAMX / Remark: ",
+    "transfers": [
+      {
+        "direction": "in",
+        "asset": {
+          "type": "CryptoCurrency",
+          "id": "beamx",
+          "name": "BEAMX",
+          "symbol": "beamx",
+          "icon": "https://coin-images.coingecko.com/coins/images/35364/large/BeamX_Coin_Transparent.png?1708389313",
+          "market": { "coingeckoId": "beamx", "marketCapUsd": 0 },
+          "updatedAt": 1719984459107
+        },
+        "amount": "0.028"
+      }
+    ]
+  },
+  {
+    "source": "binance_transaction_1701693917000",
+    "order": 0,
+    "type": "ignore",
+    "timestamp": 1701693917000,
+    "evidence": "system-rule",
+    "comment": "Operation: ETH 2.0 Staking / Change: -0.00010920BETH / Remark: ",
+    "transfers": []
+  },
+  {
+    "source": "binance_transaction_1701693917000",
+    "order": 1,
+    "type": "ignore",
+    "timestamp": 1701693917000,
+    "evidence": "system-rule",
+    "comment": "Operation: ETH 2.0 Staking / Change: 0.00010920ETH / Remark: ",
     "transfers": []
   },
   {

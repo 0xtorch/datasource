@@ -87,6 +87,81 @@
         ]
       },
       {
+        "description": "staking-reward | ETH 2.0 Staking Rewards (Change > 0)",
+        "conditions": [
+          {
+            "value": {
+              "type": "cell",
+              "column": "Operation"
+            },
+            "pattern": {
+              "type": "in",
+              "values": ["ETH 2.0 Staking Rewards"]
+            }
+          },
+          {
+            "value": {
+              "type": "cell",
+              "column": "Change"
+            },
+            "pattern": {
+              "type": "positive"
+            }
+          }
+        ],
+        "generators": [
+          {
+            "type": "staking-reward",
+            "source": {
+              "type": "join",
+              "values": [
+                { "type": "service" },
+                "_transaction_",
+                {
+                  "type": "cell",
+                  "column": "UTC_Time"
+                }
+              ]
+            },
+            "timestamp": {
+              "type": "cell",
+              "column": "UTC_Time"
+            },
+            "comment": {
+              "type": "join",
+              "values": [
+                "Operation: ",
+                { "type": "cell", "column": "Operation" },
+                " / Change: ",
+                { "type": "cell", "column": "Change" },
+                { "type": "cell", "column": "Coin" },
+                " / Remark: ",
+                { "type": "cell", "column": "Remark" }
+              ]
+            },
+            "transfers": [
+              {
+                "direction": "in",
+                "amount": {
+                  "type": "text",
+                  "value": {
+                    "type": "cell",
+                    "column": "Change"
+                  }
+                },
+                "asset": {
+                  "type": "symbol",
+                  "value": {
+                    "type": "cell",
+                    "column": "Coin"
+                  }
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
         "description": "airdrop | Airdrop Assets (Change > 0)",
         "conditions": [
           {
@@ -241,7 +316,7 @@
         ]
       },
       {
-        "description": "income | Small Assets Exchange BNB / Launchpad Subscribe / Distribution (Change > 0)",
+        "description": "income | Small Assets Exchange BNB / Launchpad Subscribe / Distribution / Token Swap - Distribution (Change > 0)",
         "conditions": [
           {
             "value": {
@@ -253,7 +328,8 @@
               "values": [
                 "Small Assets Exchange BNB",
                 "Launchpad Subscribe",
-                "Distribution"
+                "Distribution",
+                "Token Swap - Distribution"
               ]
             }
           },
@@ -399,6 +475,82 @@
         ]
       },
       {
+        "description": "transfer | Merchant Acquiring (Change < 0)",
+        "$comment": "Merchant Acquiring = Payment by QR code of Binance Pay",
+        "conditions": [
+          {
+            "value": {
+              "type": "cell",
+              "column": "Operation"
+            },
+            "pattern": {
+              "type": "in",
+              "values": ["Merchant Acquiring"]
+            }
+          },
+          {
+            "value": {
+              "type": "cell",
+              "column": "Change"
+            },
+            "pattern": {
+              "type": "negative"
+            }
+          }
+        ],
+        "generators": [
+          {
+            "type": "transfer",
+            "source": {
+              "type": "join",
+              "values": [
+                { "type": "service" },
+                "_transaction_",
+                {
+                  "type": "cell",
+                  "column": "UTC_Time"
+                }
+              ]
+            },
+            "timestamp": {
+              "type": "cell",
+              "column": "UTC_Time"
+            },
+            "comment": {
+              "type": "join",
+              "values": [
+                "Operation: ",
+                { "type": "cell", "column": "Operation" },
+                " / Change: ",
+                { "type": "cell", "column": "Change" },
+                { "type": "cell", "column": "Coin" },
+                " / Remark: ",
+                { "type": "cell", "column": "Remark" }
+              ]
+            },
+            "transfers": [
+              {
+                "direction": "out",
+                "amount": {
+                  "type": "text",
+                  "value": {
+                    "type": "cell",
+                    "column": "Change"
+                  }
+                },
+                "asset": {
+                  "type": "symbol",
+                  "value": {
+                    "type": "cell",
+                    "column": "Coin"
+                  }
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
         "description": "ignore | Transfer Between ~",
         "conditions": [
           {
@@ -447,7 +599,7 @@
         ]
       },
       {
-        "description": "ignore | Simple Earn Flexible Subscription / Simple Earn Flexible Redemption / Margin Loan / Margin Repayment / Cross Margin Liquidation - Repayment / Cross Margin Liquidation - Small Assets Takeover / Transaction Buy / Transaction Sold / Transaction Spend / Transaction Revenue / Transaction Fee / Binance Convert / Deposit / Withdraw / Fee / Funding Fee / Realized Profit and Loss / Launchpool Subscription/Redemption",
+        "description": "ignore | Simple Earn Flexible Subscription / Simple Earn Flexible Redemption / Margin Loan / Margin Repayment / Cross Margin Liquidation - Repayment / Cross Margin Liquidation - Small Assets Takeover / Transaction Buy / Transaction Sold / Transaction Spend / Transaction Revenue / Transaction Fee / Binance Convert / Deposit / Withdraw / Fee / Funding Fee / Realized Profit and Loss / Launchpool Subscription/Redemption / NFT Transaction / ETH 2.0 Staking",
         "conditions": [
           {
             "value": {
@@ -474,7 +626,9 @@
                 "Fee",
                 "Funding Fee",
                 "Realized Profit and Loss",
-                "Launchpool Subscription/Redemption"
+                "Launchpool Subscription/Redemption",
+                "NFT Transaction",
+                "ETH 2.0 Staking"
               ]
             }
           }
@@ -516,6 +670,7 @@
     ]
   },
   "symbolAssetMap": {
-    "COCOS": "crypto/cocos-bcx"
+    "COCOS": "crypto/cocos-bcx",
+    "TOMO": "crypto/tomochain"
   }
 }
