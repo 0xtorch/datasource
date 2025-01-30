@@ -1,0 +1,638 @@
+{
+  "id": "hyperliquid-trade-history-jst",
+  "service": "hyperliquid",
+  "formatter": {
+    "time": ["datetime-jp"],
+    "coin": ["string"],
+    "dir": ["string"],
+    "px": ["big-decimal"],
+    "sz": ["big-decimal"],
+    "ntl": ["big-decimal"],
+    "fee": ["big-decimal"],
+    "closedPnl": ["big-decimal"]
+  },
+  "parser": {
+    "parsers": [
+      {
+        "description": "fee | Open Long / Open Short",
+        "conditions": [
+          {
+            "value": {
+              "type": "cell",
+              "column": "dir"
+            },
+            "pattern": {
+              "type": "in",
+              "values": ["Open Long", "Open Short"]
+            }
+          },
+          {
+            "value": {
+              "type": "cell",
+              "column": "fee"
+            },
+            "pattern": {
+              "type": "positive"
+            }
+          }
+        ],
+        "generators": [
+          {
+            "type": "fee",
+            "source": {
+              "type": "join",
+              "values": [
+                { "type": "service" },
+                "_trade_",
+                { "type": "cell", "column": "time" }
+              ]
+            },
+            "timestamp": {
+              "type": "cell",
+              "column": "time"
+            },
+            "comment": {
+              "type": "join",
+              "values": [
+                "Direction: ",
+                { "type": "cell", "column": "dir" },
+                " / Size: ",
+                { "type": "cell", "column": "sz" },
+                { "type": "cell", "column": "coin" }
+              ]
+            },
+            "transfers": [
+              {
+                "direction": "out",
+                "amount": {
+                  "type": "text",
+                  "value": {
+                    "type": "cell",
+                    "column": "fee"
+                  }
+                },
+                "asset": {
+                  "type": "symbol",
+                  "value": "USDC"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "description": "realize-profit | Close Long / Close Short (closedPnl>0)",
+        "conditions": [
+          {
+            "value": {
+              "type": "cell",
+              "column": "dir"
+            },
+            "pattern": {
+              "type": "in",
+              "values": ["Close Long", "Close Short"]
+            }
+          },
+          {
+            "value": {
+              "type": "cell",
+              "column": "closedPnl"
+            },
+            "pattern": {
+              "type": "positive"
+            }
+          }
+        ],
+        "generators": [
+          {
+            "type": "realize-profit",
+            "source": {
+              "type": "join",
+              "values": [
+                { "type": "service" },
+                "_trade_",
+                { "type": "cell", "column": "time" }
+              ]
+            },
+            "timestamp": {
+              "type": "cell",
+              "column": "time"
+            },
+            "comment": {
+              "type": "join",
+              "values": [
+                "Direction: ",
+                { "type": "cell", "column": "dir" },
+                " / Size: ",
+                { "type": "cell", "column": "sz" },
+                { "type": "cell", "column": "coin" }
+              ]
+            },
+            "transfers": [
+              {
+                "direction": "in",
+                "amount": {
+                  "type": "text",
+                  "value": {
+                    "type": "cell",
+                    "column": "closedPnl"
+                  }
+                },
+                "asset": {
+                  "type": "symbol",
+                  "value": "USDC"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "description": "realize-loss | Close Long / Close Short (closedPnl<0)",
+        "conditions": [
+          {
+            "value": {
+              "type": "cell",
+              "column": "dir"
+            },
+            "pattern": {
+              "type": "in",
+              "values": ["Close Long", "Close Short"]
+            }
+          },
+          {
+            "value": {
+              "type": "cell",
+              "column": "closedPnl"
+            },
+            "pattern": {
+              "type": "negative"
+            }
+          }
+        ],
+        "generators": [
+          {
+            "type": "realize-loss",
+            "source": {
+              "type": "join",
+              "values": [
+                { "type": "service" },
+                "_trade_",
+                { "type": "cell", "column": "time" }
+              ]
+            },
+            "timestamp": {
+              "type": "cell",
+              "column": "time"
+            },
+            "comment": {
+              "type": "join",
+              "values": [
+                "Direction: ",
+                { "type": "cell", "column": "dir" },
+                " / Size: ",
+                { "type": "cell", "column": "sz" },
+                { "type": "cell", "column": "coin" }
+              ]
+            },
+            "transfers": [
+              {
+                "direction": "out",
+                "amount": {
+                  "type": "text",
+                  "value": {
+                    "type": "cell",
+                    "column": "closedPnl"
+                  }
+                },
+                "asset": {
+                  "type": "symbol",
+                  "value": "USDC"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "description": "trade | Buy / Sell",
+        "conditions": [
+          {
+            "value": {
+              "type": "cell",
+              "column": "dir"
+            },
+            "pattern": {
+              "type": "in",
+              "values": ["Buy", "Sell"]
+            }
+          }
+        ],
+        "generators": [
+          {
+            "type": "trade",
+            "source": {
+              "type": "join",
+              "values": [
+                { "type": "service" },
+                "_trade_",
+                { "type": "cell", "column": "time" }
+              ]
+            },
+            "timestamp": {
+              "type": "cell",
+              "column": "time"
+            },
+            "transfers": [
+              {
+                "target": [
+                  {
+                    "column": "dir",
+                    "pattern": "Buy"
+                  },
+                  {
+                    "column": "coin",
+                    "pattern": {
+                      "type": "reg-exp",
+                      "pattern": "^[0-9A-Z]+/[0-9A-Z]+$"
+                    }
+                  }
+                ],
+                "direction": "in",
+                "amount": {
+                  "type": "text",
+                  "value": {
+                    "type": "cell",
+                    "column": "sz"
+                  }
+                },
+                "asset": {
+                  "type": "symbol",
+                  "value": {
+                    "type": "split",
+                    "value": {
+                      "type": "cell",
+                      "column": "coin"
+                    },
+                    "splitter": "/",
+                    "index": 0
+                  }
+                }
+              },
+              {
+                "target": [
+                  {
+                    "column": "dir",
+                    "pattern": "Sell"
+                  },
+                  {
+                    "column": "coin",
+                    "pattern": {
+                      "type": "reg-exp",
+                      "pattern": "^[0-9A-Z]+/[0-9A-Z]+$"
+                    }
+                  }
+                ],
+                "direction": "out",
+                "amount": {
+                  "type": "text",
+                  "value": {
+                    "type": "cell",
+                    "column": "sz"
+                  }
+                },
+                "asset": {
+                  "type": "symbol",
+                  "value": {
+                    "type": "split",
+                    "value": {
+                      "type": "cell",
+                      "column": "coin"
+                    },
+                    "splitter": "/",
+                    "index": 0
+                  }
+                }
+              },
+              {
+                "target": [
+                  {
+                    "column": "dir",
+                    "pattern": "Buy"
+                  },
+                  {
+                    "column": "coin",
+                    "pattern": {
+                      "type": "reg-exp",
+                      "pattern": "^[0-9A-Z]+/[0-9A-Z]+$"
+                    }
+                  }
+                ],
+                "direction": "out",
+                "amount": {
+                  "type": "text",
+                  "value": {
+                    "type": "cell",
+                    "column": "ntl"
+                  }
+                },
+                "asset": {
+                  "type": "symbol",
+                  "value": {
+                    "type": "split",
+                    "value": {
+                      "type": "cell",
+                      "column": "coin"
+                    },
+                    "splitter": "/",
+                    "index": 1
+                  }
+                }
+              },
+              {
+                "target": [
+                  {
+                    "column": "dir",
+                    "pattern": "Sell"
+                  },
+                  {
+                    "column": "coin",
+                    "pattern": {
+                      "type": "reg-exp",
+                      "pattern": "^[0-9A-Z]+/[0-9A-Z]+$"
+                    }
+                  }
+                ],
+                "direction": "in",
+                "amount": {
+                  "type": "text",
+                  "value": {
+                    "type": "cell",
+                    "column": "ntl"
+                  }
+                },
+                "asset": {
+                  "type": "symbol",
+                  "value": {
+                    "type": "split",
+                    "value": {
+                      "type": "cell",
+                      "column": "coin"
+                    },
+                    "splitter": "/",
+                    "index": 1
+                  }
+                }
+              },
+              {
+                "target": [
+                  {
+                    "column": "dir",
+                    "pattern": "Buy"
+                  },
+                  {
+                    "column": "coin",
+                    "pattern": {
+                      "type": "reg-exp",
+                      "pattern": "^[0-9A-Z]+/[0-9A-Z]+$"
+                    }
+                  }
+                ],
+                "direction": "out",
+                "amount": {
+                  "type": "text",
+                  "value": {
+                    "type": "cell",
+                    "column": "fee"
+                  }
+                },
+                "asset": {
+                  "type": "symbol",
+                  "value": {
+                    "type": "split",
+                    "value": {
+                      "type": "cell",
+                      "column": "coin"
+                    },
+                    "splitter": "/",
+                    "index": 0
+                  }
+                }
+              },
+              {
+                "target": [
+                  {
+                    "column": "dir",
+                    "pattern": "Sell"
+                  },
+                  {
+                    "column": "coin",
+                    "pattern": {
+                      "type": "reg-exp",
+                      "pattern": "^[0-9A-Z]+/[0-9A-Z]+$"
+                    }
+                  }
+                ],
+                "direction": "out",
+                "amount": {
+                  "type": "text",
+                  "value": {
+                    "type": "cell",
+                    "column": "fee"
+                  }
+                },
+                "asset": {
+                  "type": "symbol",
+                  "value": {
+                    "type": "split",
+                    "value": {
+                      "type": "cell",
+                      "column": "coin"
+                    },
+                    "splitter": "/",
+                    "index": 1
+                  }
+                }
+              },
+              {
+                "target": [
+                  {
+                    "column": "dir",
+                    "pattern": "Buy"
+                  },
+                  {
+                    "column": "coin",
+                    "pattern": {
+                      "type": "reg-exp",
+                      "pattern": "^@\\d+$"
+                    }
+                  }
+                ],
+                "direction": "in",
+                "amount": {
+                  "type": "text",
+                  "value": {
+                    "type": "cell",
+                    "column": "sz"
+                  }
+                },
+                "asset": {
+                  "type": "symbol",
+                  "value": {
+                    "type": "cell",
+                    "column": "coin"
+                  }
+                }
+              },
+              {
+                "target": [
+                  {
+                    "column": "dir",
+                    "pattern": "Sell"
+                  },
+                  {
+                    "column": "coin",
+                    "pattern": {
+                      "type": "reg-exp",
+                      "pattern": "^@\\d+$"
+                    }
+                  }
+                ],
+                "direction": "out",
+                "amount": {
+                  "type": "text",
+                  "value": {
+                    "type": "cell",
+                    "column": "sz"
+                  }
+                },
+                "asset": {
+                  "type": "symbol",
+                  "value": {
+                    "type": "cell",
+                    "column": "coin"
+                  }
+                }
+              },
+              {
+                "target": [
+                  {
+                    "column": "dir",
+                    "pattern": "Buy"
+                  },
+                  {
+                    "column": "coin",
+                    "pattern": {
+                      "type": "reg-exp",
+                      "pattern": "^@\\d+$"
+                    }
+                  }
+                ],
+                "direction": "out",
+                "amount": {
+                  "type": "text",
+                  "value": {
+                    "type": "cell",
+                    "column": "ntl"
+                  }
+                },
+                "asset": {
+                  "type": "symbol",
+                  "value": "USDC"
+                }
+              },
+              {
+                "target": [
+                  {
+                    "column": "dir",
+                    "pattern": "Sell"
+                  },
+                  {
+                    "column": "coin",
+                    "pattern": {
+                      "type": "reg-exp",
+                      "pattern": "^@\\d+$"
+                    }
+                  }
+                ],
+                "direction": "in",
+                "amount": {
+                  "type": "text",
+                  "value": {
+                    "type": "cell",
+                    "column": "ntl"
+                  }
+                },
+                "asset": {
+                  "type": "symbol",
+                  "value": "USDC"
+                }
+              },
+              {
+                "target": [
+                  {
+                    "column": "dir",
+                    "pattern": "Buy"
+                  },
+                  {
+                    "column": "coin",
+                    "pattern": {
+                      "type": "reg-exp",
+                      "pattern": "^@\\d+$"
+                    }
+                  }
+                ],
+                "direction": "out",
+                "amount": {
+                  "type": "text",
+                  "value": {
+                    "type": "cell",
+                    "column": "fee"
+                  }
+                },
+                "asset": {
+                  "type": "symbol",
+                  "value": {
+                    "type": "cell",
+                    "column": "coin"
+                  }
+                }
+              },
+              {
+                "target": [
+                  {
+                    "column": "dir",
+                    "pattern": "Sell"
+                  },
+                  {
+                    "column": "coin",
+                    "pattern": {
+                      "type": "reg-exp",
+                      "pattern": "^@\\d+$"
+                    }
+                  }
+                ],
+                "direction": "out",
+                "amount": {
+                  "type": "text",
+                  "value": {
+                    "type": "cell",
+                    "column": "fee"
+                  }
+                },
+                "asset": {
+                  "type": "symbol",
+                  "value": "USDC"
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "symbolAssetMap": {
+    "PURR": "crypto/purr-2",
+    "@1": "crypto/hypurr-fun"
+  }
+}
