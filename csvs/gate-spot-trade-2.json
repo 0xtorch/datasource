@@ -1,0 +1,237 @@
+{
+  "id": "gate-spot-trade-2",
+  "service": "gate",
+  "formatter": {
+    "No": ["string"],
+    "Time": ["iso8601-jp"],
+    "Trade type": ["string"],
+    "Market": ["string"],
+    "Deal amount": ["string"],
+    "Total": ["string"],
+    "Fee": ["string"]
+  },
+  "parser": {
+    "parsers": [
+      {
+        "description": "trade",
+        "conditions": [],
+        "generators": [
+          {
+            "type": "trade",
+            "source": {
+              "type": "join",
+              "values": [
+                { "type": "service" },
+                "_spot-trade_",
+                { "type": "cell", "column": "No" }
+              ]
+            },
+            "timestamp": {
+              "type": "cell",
+              "column": "Time"
+            },
+            "transfers": [
+              {
+                "target": [
+                  {
+                    "column": "Trade type",
+                    "pattern": "購入"
+                  }
+                ],
+                "direction": "in",
+                "amount": {
+                  "type": "text",
+                  "value": {
+                    "type": "split",
+                    "value": {
+                      "type": "cell",
+                      "column": "Deal amount"
+                    },
+                    "splitter": {
+                      "type": "reg-exp",
+                      "pattern": "( |\\t)"
+                    },
+                    "index": 0
+                  }
+                },
+                "asset": {
+                  "type": "symbol",
+                  "value": {
+                    "type": "split",
+                    "value": {
+                      "type": "cell",
+                      "column": "Market"
+                    },
+                    "splitter": "/",
+                    "index": 0
+                  }
+                }
+              },
+              {
+                "target": [
+                  {
+                    "column": "Trade type",
+                    "pattern": "売却"
+                  }
+                ],
+                "direction": "out",
+                "amount": {
+                  "type": "text",
+                  "value": {
+                    "type": "split",
+                    "value": {
+                      "type": "cell",
+                      "column": "Deal amount"
+                    },
+                    "splitter": {
+                      "type": "reg-exp",
+                      "pattern": "( |\\t)"
+                    },
+                    "index": 0
+                  }
+                },
+                "asset": {
+                  "type": "symbol",
+                  "value": {
+                    "type": "split",
+                    "value": {
+                      "type": "cell",
+                      "column": "Market"
+                    },
+                    "splitter": "/",
+                    "index": 0
+                  }
+                }
+              },
+              {
+                "target": [
+                  {
+                    "column": "Trade type",
+                    "pattern": "購入"
+                  }
+                ],
+                "direction": "out",
+                "amount": {
+                  "type": "text",
+                  "value": {
+                    "type": "split",
+                    "value": {
+                      "type": "cell",
+                      "column": "Total"
+                    },
+                    "splitter": {
+                      "type": "reg-exp",
+                      "pattern": "( |\\t)"
+                    },
+                    "index": 0
+                  }
+                },
+                "asset": {
+                  "type": "symbol",
+                  "value": {
+                    "type": "split",
+                    "value": {
+                      "type": "cell",
+                      "column": "Market"
+                    },
+                    "splitter": "/",
+                    "index": 1
+                  }
+                }
+              },
+              {
+                "target": [
+                  {
+                    "column": "Trade type",
+                    "pattern": "売却"
+                  }
+                ],
+                "direction": "in",
+                "amount": {
+                  "type": "text",
+                  "value": {
+                    "type": "split",
+                    "value": {
+                      "type": "cell",
+                      "column": "Total"
+                    },
+                    "splitter": {
+                      "type": "reg-exp",
+                      "pattern": "( |\\t)"
+                    },
+                    "index": 0
+                  }
+                },
+                "asset": {
+                  "type": "symbol",
+                  "value": {
+                    "type": "split",
+                    "value": {
+                      "type": "cell",
+                      "column": "Market"
+                    },
+                    "splitter": "/",
+                    "index": 1
+                  }
+                }
+              },
+              {
+                "target": [
+                  {
+                    "column": "Fee",
+                    "pattern": {
+                      "type": "reg-exp",
+                      "pattern": "^\\d+(\\.\\d+)? [A-Z][0-9A-Z]*$"
+                    }
+                  }
+                ],
+                "direction": "out",
+                "amount": {
+                  "type": "text",
+                  "value": {
+                    "type": "split",
+                    "value": {
+                      "type": "cell",
+                      "column": "Fee"
+                    },
+                    "splitter": " ",
+                    "index": 0
+                  }
+                },
+                "asset": {
+                  "type": "symbol",
+                  "value": {
+                    "type": "split",
+                    "value": {
+                      "type": "cell",
+                      "column": "Fee"
+                    },
+                    "splitter": " ",
+                    "index": 1
+                  }
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "symbolAssetMap": {
+    "ASM": "crypto/assemble-protocol",
+    "ASMATCH": "crypto/asmatch",
+    "COM": "crypto/com-ordinals",
+    "EVADORE": "crypto/evadore",
+    "EVADORE_OLD": "crypto/evadore",
+    "MEME": "crypto/memecoin-2",
+    "MEMETOON": "crypto/memetoon",
+    "PIG": "crypto/pig-finance",
+    "PIGCOIN": "crypto/pigcoin-2",
+    "SMT": "crypto/smartmesh",
+    "SMTX": "crypto/swarm-markets",
+    "STAR": "crypto/filestar",
+    "STARHEROES": "crypto/starheroes",
+    "UP": "crypto/up",
+    "USDTEST": "crypto/0xtorch-gate-usdtest"
+  }
+}
