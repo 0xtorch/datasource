@@ -11,11 +11,17 @@
     "key": ["action_data"],
     "parsers": [
       {
-        "description": "招待報酬 -> gift",
+        "description": "gift | 招待報酬 / アフィリエイトウルトラユーザー報酬による収益",
         "conditions": [
           {
             "value": { "type": "cell", "column": "action_desc" },
-            "pattern": "招待報酬"
+            "pattern": {
+              "type": "in",
+              "values": [
+                "招待報酬",
+                "アフィリエイトウルトラユーザー報酬による収益"
+              ]
+            }
           }
         ],
         "generators": [
@@ -75,7 +81,7 @@
         ]
       },
       {
-        "description": "Airdrop/Startup -> plus => airdrop",
+        "description": "airdrop | Airdrop/Startup (change_amount > 0)",
         "conditions": [
           {
             "value": { "type": "cell", "column": "action_desc" },
@@ -149,7 +155,7 @@
         ]
       },
       {
-        "description": "Airdrop -> minus => fee",
+        "description": "fee | Airdrop (change_amount > 0)",
         "conditions": [
           {
             "value": { "type": "cell", "column": "action_desc" },
@@ -220,7 +226,159 @@
         ]
       },
       {
-        "description": "ダストスワップ -> trade",
+        "description": "pay | クイック売り‐売却",
+        "conditions": [
+          {
+            "value": { "type": "cell", "column": "action_desc" },
+            "pattern": {
+              "type": "in",
+              "values": ["クイック売り‐売却"]
+            }
+          }
+        ],
+        "generators": [
+          {
+            "type": "pay",
+            "source": {
+              "type": "join",
+              "values": [
+                { "type": "service" },
+                "_spot-action_",
+                { "type": "cell", "column": "time" }
+              ]
+            },
+            "timestamp": {
+              "type": "cell",
+              "column": "time"
+            },
+            "comment": {
+              "type": "join",
+              "values": [
+                "action_desc: ",
+                { "type": "cell", "column": "action_desc" },
+                " / change_amount: ",
+                { "type": "cell", "column": "change_amount" }
+              ]
+            },
+            "transfers": [
+              {
+                "target": [
+                  {
+                    "column": "change_amount",
+                    "pattern": {
+                      "type": "reg-exp",
+                      "pattern": "^-\\d+(\\.\\d+)? [a-zA-Z0-9]+$"
+                    }
+                  }
+                ],
+                "direction": "out",
+                "amount": {
+                  "type": "text",
+                  "value": {
+                    "type": "split",
+                    "value": {
+                      "type": "cell",
+                      "column": "change_amount"
+                    },
+                    "splitter": " ",
+                    "index": 0
+                  }
+                },
+                "asset": {
+                  "type": "symbol",
+                  "value": {
+                    "type": "split",
+                    "value": {
+                      "type": "cell",
+                      "column": "change_amount"
+                    },
+                    "splitter": " ",
+                    "index": 1
+                  }
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "description": "income | クイック買い‐購入",
+        "conditions": [
+          {
+            "value": { "type": "cell", "column": "action_desc" },
+            "pattern": {
+              "type": "in",
+              "values": ["クイック買い‐購入"]
+            }
+          }
+        ],
+        "generators": [
+          {
+            "type": "income",
+            "source": {
+              "type": "join",
+              "values": [
+                { "type": "service" },
+                "_spot-action_",
+                { "type": "cell", "column": "time" }
+              ]
+            },
+            "timestamp": {
+              "type": "cell",
+              "column": "time"
+            },
+            "comment": {
+              "type": "join",
+              "values": [
+                "action_desc: ",
+                { "type": "cell", "column": "action_desc" },
+                " / change_amount: ",
+                { "type": "cell", "column": "change_amount" }
+              ]
+            },
+            "transfers": [
+              {
+                "target": [
+                  {
+                    "column": "change_amount",
+                    "pattern": {
+                      "type": "reg-exp",
+                      "pattern": "^\\d+(\\.\\d+)? [a-zA-Z0-9]+$"
+                    }
+                  }
+                ],
+                "direction": "in",
+                "amount": {
+                  "type": "text",
+                  "value": {
+                    "type": "split",
+                    "value": {
+                      "type": "cell",
+                      "column": "change_amount"
+                    },
+                    "splitter": " ",
+                    "index": 0
+                  }
+                },
+                "asset": {
+                  "type": "symbol",
+                  "value": {
+                    "type": "split",
+                    "value": {
+                      "type": "cell",
+                      "column": "change_amount"
+                    },
+                    "splitter": " ",
+                    "index": 1
+                  }
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "description": "trade | ダストスワップ",
         "conditions": [
           {
             "value": { "type": "cell", "column": "action_desc" },
@@ -336,7 +494,7 @@
         ]
       },
       {
-        "description": "ダストスワップ -> fee",
+        "description": "fee | ダストスワップ",
         "conditions": [
           {
             "value": { "type": "cell", "column": "action_desc" },
@@ -452,7 +610,7 @@
         ]
       },
       {
-        "description": "ダストスワップ -> income",
+        "description": "income | ダストスワップ",
         "conditions": [
           {
             "value": { "type": "cell", "column": "action_desc" },
@@ -568,7 +726,7 @@
         ]
       },
       {
-        "description": "入金等 -> ignore",
+        "description": "ignore | 入金 / 出金 / スポットからの振込 / 約定済み / 取引手数料 / 注文しました",
         "conditions": [
           {
             "value": { "type": "cell", "column": "action_desc" },
@@ -622,6 +780,7 @@
     "COM": "crypto/com-ordinals",
     "EVADORE": "crypto/evadore",
     "EVADORE_OLD": "crypto/evadore",
+    "F": "crypto/synfutures",
     "MEME": "crypto/memecoin-2",
     "MEMEBRC": "crypto/meme-brc-20",
     "MEMETOON": "crypto/memetoon",

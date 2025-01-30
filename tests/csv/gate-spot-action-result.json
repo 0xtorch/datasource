@@ -1,5 +1,28 @@
 [
   {
+    "source": "gate_spot-action_1733969471000",
+    "order": 0,
+    "type": "gift",
+    "timestamp": 1733969471000,
+    "evidence": "system-rule",
+    "comment": "action_desc: アフィリエイトウルトラユーザー報酬による収益 / change_amount: 0.01482319 USDT",
+    "transfers": [
+      {
+        "direction": "in",
+        "asset": {
+          "type": "CryptoCurrency",
+          "id": "tether",
+          "name": "Tether",
+          "symbol": "usdt",
+          "icon": "https://coin-images.coingecko.com/coins/images/325/large/Tether.png?1696501661",
+          "market": { "coingeckoId": "tether", "marketCapUsd": 119675340267 },
+          "updatedAt": 1728782536762
+        },
+        "amount": "0.01482319"
+      }
+    ]
+  },
+  {
     "source": "gate_spot-action_1730333515000",
     "order": 0,
     "type": "trade",
@@ -56,6 +79,55 @@
           "updatedAt": 1728782536762
         },
         "amount": "0.00636576"
+      }
+    ]
+  },
+  {
+    "source": "gate_spot-action_1725588671000",
+    "order": 0,
+    "type": "pay",
+    "timestamp": 1725588671000,
+    "evidence": "system-rule",
+    "comment": "action_desc: クイック売り‐売却 / change_amount: -0.01731100 GT",
+    "transfers": [
+      {
+        "direction": "out",
+        "asset": {
+          "type": "CryptoCurrency",
+          "id": "gatechain-token",
+          "name": "Gate",
+          "symbol": "gt",
+          "icon": "https://coin-images.coingecko.com/coins/images/8183/large/gate.png?1696508395",
+          "market": {
+            "coingeckoId": "gatechain-token",
+            "marketCapUsd": 1184567627
+          },
+          "updatedAt": 1728782536762
+        },
+        "amount": "0.017311"
+      }
+    ]
+  },
+  {
+    "source": "gate_spot-action_1725588671000",
+    "order": 1,
+    "type": "income",
+    "timestamp": 1725588671000,
+    "evidence": "system-rule",
+    "comment": "action_desc: クイック買い‐購入 / change_amount: 0.15353938 USDT",
+    "transfers": [
+      {
+        "direction": "in",
+        "asset": {
+          "type": "CryptoCurrency",
+          "id": "tether",
+          "name": "Tether",
+          "symbol": "usdt",
+          "icon": "https://coin-images.coingecko.com/coins/images/325/large/Tether.png?1696501661",
+          "market": { "coingeckoId": "tether", "marketCapUsd": 119675340267 },
+          "updatedAt": 1728782536762
+        },
+        "amount": "0.15353938"
       }
     ]
   },
