@@ -70,6 +70,24 @@
     ]
   },
   {
+    "source": "gate_spot-action_1734228671000",
+    "order": 0,
+    "type": "ignore",
+    "timestamp": 1734228671000,
+    "evidence": "system-rule",
+    "comment": "action_desc: ステーキング / change_amount: -10.03221100 GT",
+    "transfers": []
+  },
+  {
+    "source": "gate_spot-action_1734228671000",
+    "order": 1,
+    "type": "ignore",
+    "timestamp": 1734228671000,
+    "evidence": "system-rule",
+    "comment": "action_desc: ステーキング / change_amount: 10.03221100 GT2",
+    "transfers": []
+  },
+  {
     "source": "gate_spot-action_1733969471000",
     "order": 0,
     "type": "gift",
@@ -258,6 +276,29 @@
           "updatedAt": 1728782536762
         },
         "amount": "0.15353938"
+      }
+    ]
+  },
+  {
+    "source": "gate_spot-action_1720663871000",
+    "order": 0,
+    "type": "gift",
+    "timestamp": 1720663871000,
+    "evidence": "system-rule",
+    "comment": "action_desc: イベントセンターポイント交換 / change_amount: 200.00000000 BTT",
+    "transfers": [
+      {
+        "direction": "in",
+        "asset": {
+          "type": "CryptoCurrency",
+          "id": "bittorrent",
+          "name": "BitTorrent",
+          "symbol": "btt",
+          "icon": "https://coin-images.coingecko.com/coins/images/22457/large/btt_logo.png?1696521780",
+          "market": { "coingeckoId": "bittorrent", "marketCapUsd": 885150044 },
+          "updatedAt": 1728782536762
+        },
+        "amount": "200"
       }
     ]
   },

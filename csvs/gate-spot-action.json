@@ -11,7 +11,7 @@
     "key": ["action_data"],
     "parsers": [
       {
-        "description": "gift | 報酬 / 招待報酬 / アフィリエイトウルトラユーザー報酬による収益 / アフィリエイトユーザーリベート収益 / ボーナス",
+        "description": "gift | 報酬 / 招待報酬 / アフィリエイトウルトラユーザー報酬による収益 / アフィリエイトユーザーリベート収益 / ボーナス / イベントセンターポイント交換",
         "conditions": [
           {
             "value": { "type": "cell", "column": "action_desc" },
@@ -22,7 +22,8 @@
                 "招待報酬",
                 "アフィリエイトウルトラユーザー報酬による収益",
                 "アフィリエイトユーザーリベート収益",
-                "ボーナス"
+                "ボーナス",
+                "イベントセンターポイント交換"
               ]
             }
           }
@@ -983,7 +984,7 @@
         ]
       },
       {
-        "description": "ignore | 入金 / 出金 / スポットからの振込 / 約定済み / 取引手数料 / 注文しました / 分離マージン-出金 / 分離マージン‐入金 / 新規オペレーション",
+        "description": "ignore | 入金 / 出金 / スポットからの振込 / 約定済み / 取引手数料 / 注文しました / 分離マージン-出金 / 分離マージン‐入金 / 新規オペレーション / ステーキング",
         "conditions": [
           {
             "value": { "type": "cell", "column": "action_desc" },
@@ -998,7 +999,8 @@
                 "注文しました",
                 "分離マージン-出金",
                 "分離マージン‐入金",
-                "新規オペレーション"
+                "新規オペレーション",
+                "ステーキング"
               ]
             }
           }
@@ -1034,29 +1036,41 @@
     ]
   },
   "symbolAssetMap": {
+    "AIRDROP": "crypto/0xtorch-airdrop2049",
     "ASM": "crypto/assemble-protocol",
     "ASMATCH": "crypto/asmatch",
     "BANKBRC": "crypto/bankbrc",
+    "CBL": "crypto/credbull",
     "COM": "crypto/com-ordinals",
+    "CWIF": "crypto/catwifhat-2",
     "EVADORE": "crypto/evadore",
     "EVADORE_OLD": "crypto/evadore",
     "F": "crypto/synfutures",
     "GAMEVIRTUAL": "crypto/game-by-virtuals",
     "GT2": "crypto/0xtorch-gate-gt2",
+    "HOLDSTATION": "crypto/holdstation",
     "JOC": "crypto/japan-open-chain",
+    "LUNAI": "crypto/luna-by-virtuals",
     "MEOWCAT": "crypto/meowcat-3",
     "MEME": "crypto/memecoin-2",
     "MEMEBRC": "crypto/meme-brc-20",
     "MEMETOON": "crypto/memetoon",
+    "MILADYCULT": "crypto/milady-cult-coin",
+    "MNEMO": "crypto/mnemonics",
     "MYRO": "crypto/myro",
+    "NETMIND": "crypto/netmind-token",
+    "NEKTAR": "crypto/nektar-network",
     "PIG": "crypto/pig-finance",
     "PIGCOIN": "crypto/pigcoin-2",
     "PIZABRC": "crypto/pizabrc",
     "SMT": "crypto/smartmesh",
     "SMTX": "crypto/swarm-markets",
+    "SQ3": "crypto/0xtorch-squad3",
     "STAR": "crypto/filestar",
     "STARHEROES": "crypto/starheroes",
+    "TIMES": "crypto/times",
     "UP": "crypto/up",
-    "USDTEST": "crypto/0xtorch-gate-usdtest"
+    "USDTEST": "crypto/0xtorch-gate-usdtest",
+    "WATERSOL": "crypto/water-coin"
   }
 }
