@@ -62,7 +62,10 @@
                       "type": "cell",
                       "column": "Market"
                     },
-                    "splitter": "/",
+                    "splitter": {
+                      "type": "reg-exp",
+                      "pattern": "[_/]"
+                    },
                     "index": 0
                   }
                 }
@@ -98,7 +101,10 @@
                       "type": "cell",
                       "column": "Market"
                     },
-                    "splitter": "/",
+                    "splitter": {
+                      "type": "reg-exp",
+                      "pattern": "[_/]"
+                    },
                     "index": 0
                   }
                 }
@@ -134,7 +140,10 @@
                       "type": "cell",
                       "column": "Market"
                     },
-                    "splitter": "/",
+                    "splitter": {
+                      "type": "reg-exp",
+                      "pattern": "[_/]"
+                    },
                     "index": 1
                   }
                 }
@@ -170,7 +179,10 @@
                       "type": "cell",
                       "column": "Market"
                     },
-                    "splitter": "/",
+                    "splitter": {
+                      "type": "reg-exp",
+                      "pattern": "[_/]"
+                    },
                     "index": 1
                   }
                 }
@@ -250,6 +262,7 @@
     "PIGCOIN": "crypto/pigcoin-2",
     "PIZABRC": "crypto/pizabrc",
     "POINT": "crypto/0xtorch-gate-point",
+    "RNDR": "crypto/render-token",
     "SMT": "crypto/smartmesh",
     "SMTX": "crypto/swarm-markets",
     "SQ3": "crypto/0xtorch-squad3",
