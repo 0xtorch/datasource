@@ -5,6 +5,7 @@
     "type": "trade",
     "timestamp": 1724674346987,
     "evidence": "system-rule",
+    "comment": "現物sell",
     "transfers": [
       {
         "direction": "out",
@@ -47,6 +48,7 @@
     "type": "trade",
     "timestamp": 1724674346555,
     "evidence": "system-rule",
+    "comment": "現物sell",
     "transfers": [
       {
         "direction": "out",
@@ -89,6 +91,7 @@
     "type": "trade",
     "timestamp": 1709816129523,
     "evidence": "system-rule",
+    "comment": "現物buy",
     "transfers": [
       {
         "direction": "in",
@@ -131,6 +134,7 @@
     "type": "trade",
     "timestamp": 1709200029078,
     "evidence": "system-rule",
+    "comment": "現物sell",
     "transfers": [
       {
         "direction": "out",
@@ -173,6 +177,7 @@
     "type": "trade",
     "timestamp": 1706624727507,
     "evidence": "system-rule",
+    "comment": "現物sell",
     "transfers": [
       {
         "direction": "out",
@@ -213,6 +218,7 @@
     "type": "trade",
     "timestamp": 1704866965430,
     "evidence": "system-rule",
+    "comment": "現物buy",
     "transfers": [
       {
         "direction": "in",

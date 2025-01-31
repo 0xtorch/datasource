@@ -8,10 +8,10 @@
     "売/買": ["string"],
     "数量": ["big-decimal-positive"],
     "価格": ["big-decimal-positive"],
-    "実現損益": ["big-decimal"],
+    "実現損益": ["blank", "big-decimal"],
     "発生手数料": ["big-decimal"],
     "実現手数料": ["big-decimal"],
-    "実現利息": ["big-decimal"],
+    "実現利息": ["blank", "big-decimal"],
     "取引日時": ["iso8601-jp"]
   },
   "parser": {
