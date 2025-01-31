@@ -1,76 +1,76 @@
 [
   {
-    "comment": "口座種別: ウォレット / 入出金の種別: 日本円入金 / 数量: \"5000\"JPY / 備考: ",
-    "evidence": "system-rule",
+    "source": "dmmbitcoin_cashflow_1701668294000",
     "order": 0,
-    "source": "dmmbitcoin-cashflow_cashflow_1701668294000",
+    "type": "ignore",
     "timestamp": 1701668294000,
-    "transfers": [],
-    "type": "ignore"
+    "evidence": "system-rule",
+    "comment": "口座種別: ウォレット / 入出金の種別: 日本円入金 / 数量: \"5000\"JPY / 備考: ",
+    "transfers": []
   },
   {
+    "source": "dmmbitcoin_cashflow_1701668302000",
+    "order": 0,
+    "type": "ignore",
+    "timestamp": 1701668302000,
+    "evidence": "system-rule",
     "comment": "口座種別: ウォレット / 入出金の種別: 日本円振替出金 / 数量: \"-5000\"JPY / 備考: ",
-    "evidence": "system-rule",
-    "order": 0,
-    "source": "dmmbitcoin-cashflow_cashflow_1701668302000",
-    "timestamp": 1701668302000,
-    "transfers": [],
-    "type": "ignore"
+    "transfers": []
   },
   {
-    "comment": "口座種別: トレード / 入出金の種別: 振替入金 / 数量: \"5000\"JPY / 備考: ",
-    "evidence": "system-rule",
+    "source": "dmmbitcoin_cashflow_1701668302000",
     "order": 1,
-    "source": "dmmbitcoin-cashflow_cashflow_1701668302000",
+    "type": "ignore",
     "timestamp": 1701668302000,
-    "transfers": [],
-    "type": "ignore"
+    "evidence": "system-rule",
+    "comment": "口座種別: トレード / 入出金の種別: 振替入金 / 数量: \"5000\"JPY / 備考: ",
+    "transfers": []
   },
   {
-    "comment": "入出金の種別: キャッシュバック / 数量: \"2000\"JPY / 備考: ",
-    "evidence": "system-rule",
+    "source": "dmmbitcoin_cashflow_1651660881000",
     "order": 0,
-    "source": "dmmbitcoin-cashflow_cashflow_1651660881000",
+    "type": "cash-back",
     "timestamp": 1651660881000,
+    "evidence": "system-rule",
+    "comment": "入出金の種別: キャッシュバック / 数量: \"2000\"JPY / 備考: ",
     "transfers": [
       {
-        "amount": "2000",
+        "direction": "in",
         "asset": {
+          "type": "FiatCurrency",
           "id": "jpy",
-          "name": "Japanese Yen",
           "symbol": "JPY",
-          "type": "FiatCurrency"
+          "name": "Japanese Yen"
         },
-        "direction": "in"
+        "amount": "2000"
       }
-    ],
-    "type": "cash-back"
+    ]
   },
   {
-    "comment": "口座種別: トレード / 入出金の種別: 現物取引 / 数量: \"4061.5\"BAT / 備考: 現物取引番号(111000001111111-0)",
-    "evidence": "system-rule",
+    "source": "dmmbitcoin_cashflow_1701829642000",
     "order": 0,
-    "source": "dmmbitcoin-cashflow_cashflow_1701829642000",
+    "type": "ignore",
     "timestamp": 1701829642000,
-    "transfers": [],
-    "type": "ignore"
+    "evidence": "system-rule",
+    "comment": "口座種別: トレード / 入出金の種別: 現物取引 / 数量: \"4061.5\"BAT / 備考: 現物取引番号(111000001111111-0)",
+    "transfers": []
   },
   {
-    "comment": "口座種別: ウォレット / 入出金の種別: ETH出金 / 数量: \"-0.131\"ETH / 備考: ",
-    "evidence": "system-rule",
+    "source": "dmmbitcoin_cashflow_1655364145000",
     "order": 0,
-    "source": "dmmbitcoin-cashflow_cashflow_1655364145000",
+    "type": "ignore",
     "timestamp": 1655364145000,
-    "transfers": [],
-    "type": "ignore"
+    "evidence": "system-rule",
+    "comment": "口座種別: ウォレット / 入出金の種別: ETH出金 / 数量: \"-0.131\"ETH / 備考: ",
+    "transfers": []
   },
   {
-    "comment": "入出金の種別: ETH出金手数料 / 数量: \"0\"ETH / 備考: ",
-    "evidence": "system-rule",
+    "source": "dmmbitcoin_cashflow_1655364145000",
     "order": 1,
-    "source": "dmmbitcoin-cashflow_cashflow_1655364145000",
+    "type": "ignore",
     "timestamp": 1655364145000,
-    "transfers": [],
-    "type": "ignore"
+    "evidence": "system-rule",
+    "comment": "入出金の種別: ETH出金手数料 / 数量: \"0\"ETH / 備考: ",
+    "transfers": []
   }
 ]
