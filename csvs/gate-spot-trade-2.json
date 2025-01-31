@@ -62,7 +62,10 @@
                       "type": "cell",
                       "column": "Market"
                     },
-                    "splitter": "/",
+                    "splitter": {
+                      "type": "reg-exp",
+                      "pattern": "[_/]"
+                    },
                     "index": 0
                   }
                 }
@@ -98,7 +101,10 @@
                       "type": "cell",
                       "column": "Market"
                     },
-                    "splitter": "/",
+                    "splitter": {
+                      "type": "reg-exp",
+                      "pattern": "[_/]"
+                    },
                     "index": 0
                   }
                 }
@@ -134,7 +140,10 @@
                       "type": "cell",
                       "column": "Market"
                     },
-                    "splitter": "/",
+                    "splitter": {
+                      "type": "reg-exp",
+                      "pattern": "[_/]"
+                    },
                     "index": 1
                   }
                 }
@@ -170,7 +179,10 @@
                       "type": "cell",
                       "column": "Market"
                     },
-                    "splitter": "/",
+                    "splitter": {
+                      "type": "reg-exp",
+                      "pattern": "[_/]"
+                    },
                     "index": 1
                   }
                 }
