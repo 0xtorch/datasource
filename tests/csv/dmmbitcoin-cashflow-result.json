@@ -45,5 +45,32 @@
       }
     ],
     "type": "cash-back"
+  },
+  {
+    "comment": "口座種別: トレード / 入出金の種別: 現物取引 / 数量: \"4061.5\"BAT / 備考: 現物取引番号(111000001111111-0)",
+    "evidence": "system-rule",
+    "order": 0,
+    "source": "dmmbitcoin-cashflow_cashflow_1701829642000",
+    "timestamp": 1701829642000,
+    "transfers": [],
+    "type": "ignore"
+  },
+  {
+    "comment": "口座種別: ウォレット / 入出金の種別: ETH出金 / 数量: \"-0.131\"ETH / 備考: ",
+    "evidence": "system-rule",
+    "order": 0,
+    "source": "dmmbitcoin-cashflow_cashflow_1655364145000",
+    "timestamp": 1655364145000,
+    "transfers": [],
+    "type": "ignore"
+  },
+  {
+    "comment": "入出金の種別: ETH出金手数料 / 数量: \"0\"ETH / 備考: ",
+    "evidence": "system-rule",
+    "order": 1,
+    "source": "dmmbitcoin-cashflow_cashflow_1655364145000",
+    "timestamp": 1655364145000,
+    "transfers": [],
+    "type": "ignore"
   }
 ]
