@@ -1,6 +1,8 @@
 {
   "id": "bybit-spot-trade",
   "service": "bybit",
+  "headerStartColumns": ["Spot Pairs"],
+  "headerCheckRowSize": 4,
   "formatter": {
     "Spot Pairs": ["string"],
     "Direction": ["string"],
@@ -1436,6 +1438,11 @@
     ]
   },
   "symbolAssetMap": {
-    "RNDR": "crypto/render-token"
+    "ATOM2L": "crypto/0xtorch-bybit-atom2l",
+    "DOGE2L": "crypto/0xtorch-bybit-doge2l",
+    "ETH3L": "crypto/0xtorch-bybit-eth3l",
+    "HPOS10I": "crypto/harrypotterobamasonic10in",
+    "RNDR": "crypto/render-token",
+    "XRP3L": "crypto/0xtorch-bybit-xrp3l"
   }
 }

@@ -1,6 +1,6 @@
 [
   {
-    "source": "bitget-spot-trade-jst-202412_spot-trade_1730100600000",
+    "source": "bitget_spot-trade_1730100600000",
     "order": 0,
     "type": "trade",
     "timestamp": 1730100600000,
@@ -48,7 +48,7 @@
     ]
   },
   {
-    "source": "bitget-spot-trade-jst-202412_spot-trade_1730100398000",
+    "source": "bitget_spot-trade_1730100398000",
     "order": 0,
     "type": "trade",
     "timestamp": 1730100398000,
@@ -99,7 +99,7 @@
     ]
   },
   {
-    "source": "bitget-spot-trade-jst-202412_spot-trade_1722839306000",
+    "source": "bitget_spot-trade_1722839306000",
     "order": 0,
     "type": "trade",
     "timestamp": 1722839306000,

@@ -1,11 +1,7 @@
 import { describe, expect, test } from 'bun:test'
 import { readdir } from 'node:fs/promises'
-import {
-  csvFormatSchema,
-  formatCsvRows,
-  parseCsvText,
-  parseRowsToActions,
-} from '@0xtorch/csv'
+import { csvFormatSchema, streamCsvToActions } from '@0xtorch/csv'
+import { detect } from 'encoding-japanese'
 import { z } from 'zod'
 import {
   actionSchema,
@@ -13,6 +9,7 @@ import {
   eur,
   jpy,
   usd,
+  type Action,
 } from '@0xtorch/core'
 
 describe('Should valid csv format json', async () => {
@@ -38,7 +35,7 @@ describe('Should valid csv format json', async () => {
       }
 
       // filename に合致する test csv file, result action file を取得
-      const { formatter, parser } = result.data
+      const format = result.data
       const filenameWithoutExt = filename.replace('.json', '')
       const csv = await Bun.file(
         `${import.meta.dir}/csv/${filenameWithoutExt}.csv`,
@@ -51,22 +48,40 @@ describe('Should valid csv format json', async () => {
           ).json(),
         )
 
-      const { actions: parsedActions, ignoreRowCount } = parseRowsToActions({
-        rows: formatCsvRows({
-          rows: parseCsvText(csv),
-          formatter,
-        }),
-        parser,
-        symbolAssetMap: result.data.symbolAssetMap,
-        service: filenameWithoutExt,
+      const detected = detect(csv)
+      const encoding =
+        typeof detected === 'string' ? detected : detected.valueOf().toString()
+      const parsedActions: Action[] = []
+      const { success, ignoreRowCount, ignoreRows } = await streamCsvToActions({
+        file: csv,
+        encoding,
+        format,
         cryptoes,
         fiats: [usd, eur, jpy],
-        errorLogger: (error) => {
-          console.log(error)
+        save: (actions) => {
+          parsedActions.push(...actions)
+          return Promise.resolve()
         },
       })
-      expect(parsedActions).toEqual(actions)
+      const orderedActions = resetActionOrders(parsedActions)
+      expect(success).toBe(true)
+      if (ignoreRows.length > 0) {
+        console.log('ignoreRows:')
+        console.log(JSON.stringify(ignoreRows))
+      }
+      expect(orderedActions).toEqual(actions)
       expect(ignoreRowCount).toBe(0)
     })
   }
 })
+
+const resetActionOrders = (actions: readonly Action[]): readonly Action[] => {
+  const sourceCounts = new Map<string, number>()
+  const orderedActions: Action[] = []
+  for (const action of actions) {
+    const count = sourceCounts.get(action.source) ?? 0
+    orderedActions.push({ ...action, order: count })
+    sourceCounts.set(action.source, count + 1)
+  }
+  return orderedActions
+}

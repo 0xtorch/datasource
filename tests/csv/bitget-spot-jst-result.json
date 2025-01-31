@@ -1,6 +1,6 @@
 [
   {
-    "source": "bitget-spot-jst_spot_1162593999933341696",
+    "source": "bitget_spot_1162593999933341696",
     "order": 0,
     "type": "ignore",
     "timestamp": 1712910822000,
@@ -9,7 +9,7 @@
     "transfers": []
   },
   {
-    "source": "bitget-spot-jst_spot_1162695942164586518",
+    "source": "bitget_spot_1162695942164586518",
     "order": 0,
     "type": "airdrop",
     "timestamp": 1713012857000,
@@ -35,7 +35,7 @@
     ]
   },
   {
-    "source": "bitget-spot-jst_spot_1182468614700277763",
+    "source": "bitget_spot_1182468614700277763",
     "order": 0,
     "type": "airdrop",
     "timestamp": 1717654819000,
@@ -61,7 +61,7 @@
     ]
   },
   {
-    "source": "bitget-spot-jst_spot_1186586273859248128",
+    "source": "bitget_spot_1186586273859248128",
     "order": 0,
     "type": "ignore",
     "timestamp": 1718630134000,
@@ -70,7 +70,7 @@
     "transfers": []
   },
   {
-    "source": "bitget-spot-jst_spot_1190168099473014938",
+    "source": "bitget_spot_1190168099473014938",
     "order": 0,
     "type": "gift",
     "timestamp": 1719484344000,
@@ -96,7 +96,7 @@
     ]
   },
   {
-    "source": "bitget-spot-jst_spot_1190168099473014938",
+    "source": "bitget_spot_1190168099473014938",
     "order": 1,
     "type": "fee",
     "timestamp": 1719484344000,
@@ -122,7 +122,7 @@
     ]
   },
   {
-    "source": "bitget-spot-jst_spot_1204279158092464128",
+    "source": "bitget_spot_1204279158092464128",
     "order": 0,
     "type": "fee",
     "timestamp": 1722848714000,
@@ -145,7 +145,7 @@
     ]
   },
   {
-    "source": "bitget-spot-jst_spot_1234653490861699072",
+    "source": "bitget_spot_1234653490861699072",
     "order": 0,
     "type": "ignore",
     "timestamp": 1730090346000,
@@ -154,7 +154,7 @@
     "transfers": []
   },
   {
-    "source": "bitget-spot-jst_spot_1234696897798017120",
+    "source": "bitget_spot_1234696897798017120",
     "order": 0,
     "type": "ignore",
     "timestamp": 1730100600000,
@@ -163,7 +163,7 @@
     "transfers": []
   },
   {
-    "source": "bitget-spot-jst_spot_1234696897798017120",
+    "source": "bitget_spot_1234696897798017120",
     "order": 1,
     "type": "ignore",
     "timestamp": 1730100600000,
@@ -172,7 +172,7 @@
     "transfers": []
   },
   {
-    "source": "bitget-spot-jst_spot_1237661026309238784",
+    "source": "bitget_spot_1237661026309238784",
     "order": 0,
     "type": "ignore",
     "timestamp": 1730807452000,
@@ -181,7 +181,7 @@
     "transfers": []
   },
   {
-    "source": "bitget-spot-jst_spot_1245804460815835136",
+    "source": "bitget_spot_1245804460815835136",
     "order": 0,
     "type": "ignore",
     "timestamp": 1732748855000,
@@ -190,7 +190,7 @@
     "transfers": []
   },
   {
-    "source": "bitget-spot-jst_spot_1245803492023926785",
+    "source": "bitget_spot_1245803492023926785",
     "order": 0,
     "type": "ignore",
     "timestamp": 1732749392000,
@@ -199,7 +199,7 @@
     "transfers": []
   },
   {
-    "source": "bitget-spot-jst_spot_1252103956546416640",
+    "source": "bitget_spot_1252103956546416640",
     "order": 0,
     "type": "ignore",
     "timestamp": 1734250766000,
@@ -208,7 +208,7 @@
     "transfers": []
   },
   {
-    "source": "bitget-spot-jst_spot_1253465290807099404",
+    "source": "bitget_spot_1253465290807099404",
     "order": 0,
     "type": "gift",
     "timestamp": 1734575331000,
@@ -223,10 +223,7 @@
           "name": "Etherparty",
           "symbol": "fuel",
           "icon": "https://coin-images.coingecko.com/coins/images/1082/large/etherparty.png?1696502182",
-          "market": {
-            "coingeckoId": "etherparty",
-            "marketCapUsd": 119185
-          },
+          "market": { "coingeckoId": "etherparty", "marketCapUsd": 119185 },
           "updatedAt": 1728782536762
         },
         "amount": "3400.43"
@@ -234,7 +231,7 @@
     ]
   },
   {
-    "source": "bitget-spot-jst_spot_1253465279855771677",
+    "source": "bitget_spot_1253465279855771677",
     "order": 0,
     "type": "fee",
     "timestamp": 1734575331000,
@@ -249,10 +246,7 @@
           "name": "Tether",
           "symbol": "usdt",
           "icon": "https://coin-images.coingecko.com/coins/images/325/large/Tether.png?1696501661",
-          "market": {
-            "coingeckoId": "tether",
-            "marketCapUsd": 119675340267
-          },
+          "market": { "coingeckoId": "tether", "marketCapUsd": 119675340267 },
           "updatedAt": 1728782536762
         },
         "amount": "68.0086"
@@ -260,7 +254,7 @@
     ]
   },
   {
-    "source": "bitget-spot-jst_spot_2486155",
+    "source": "bitget_spot_2486155",
     "order": 0,
     "type": "gift",
     "timestamp": 1734575934000,
@@ -275,10 +269,7 @@
           "name": "Etherparty",
           "symbol": "fuel",
           "icon": "https://coin-images.coingecko.com/coins/images/1082/large/etherparty.png?1696502182",
-          "market": {
-            "coingeckoId": "etherparty",
-            "marketCapUsd": 119185
-          },
+          "market": { "coingeckoId": "etherparty", "marketCapUsd": 119185 },
           "updatedAt": 1728782536762
         },
         "amount": "3400.43"
@@ -286,7 +277,7 @@
     ]
   },
   {
-    "source": "bitget-spot-jst_spot_2486155",
+    "source": "bitget_spot_2486155",
     "order": 1,
     "type": "fee",
     "timestamp": 1734575934000,
@@ -301,10 +292,7 @@
           "name": "Tether",
           "symbol": "usdt",
           "icon": "https://coin-images.coingecko.com/coins/images/325/large/Tether.png?1696501661",
-          "market": {
-            "coingeckoId": "tether",
-            "marketCapUsd": 119675340267
-          },
+          "market": { "coingeckoId": "tether", "marketCapUsd": 119675340267 },
           "updatedAt": 1728782536762
         },
         "amount": "68.0086"
@@ -312,7 +300,7 @@
     ]
   },
   {
-    "source": "bitget-spot-jst_spot_1253867128768323584",
+    "source": "bitget_spot_1253867128768323584",
     "order": 0,
     "type": "ignore",
     "timestamp": 1734671139000,
@@ -321,7 +309,7 @@
     "transfers": []
   },
   {
-    "source": "bitget-spot-jst_spot_1257204520942239744",
+    "source": "bitget_spot_1257204520942239744",
     "order": 0,
     "type": "ignore",
     "timestamp": 1735466840000,
@@ -330,7 +318,7 @@
     "transfers": []
   },
   {
-    "source": "bitget-spot-jst_spot_1245496468707229697",
+    "source": "bitget_spot_1245496468707229697",
     "order": 0,
     "type": "gift",
     "timestamp": 1732675416000,
@@ -356,7 +344,7 @@
     ]
   },
   {
-    "source": "bitget-spot-jst_spot_1257632437418020967",
+    "source": "bitget_spot_1257632437418020967",
     "order": 0,
     "type": "ignore",
     "timestamp": 1735570036000,
@@ -365,7 +353,7 @@
     "transfers": []
   },
   {
-    "source": "bitget-spot-jst_spot_1257671158543806508",
+    "source": "bitget_spot_1257671158543806508",
     "order": 0,
     "type": "ignore",
     "timestamp": 1735580307000,
@@ -374,7 +362,7 @@
     "transfers": []
   },
   {
-    "source": "bitget-spot-jst_spot_1257637374911266816",
+    "source": "bitget_spot_1257637374911266816",
     "order": 0,
     "type": "ignore",
     "timestamp": 1735615045000,
@@ -383,7 +371,7 @@
     "transfers": []
   },
   {
-    "source": "bitget-spot-jst_spot_1257680453877837825",
+    "source": "bitget_spot_1257680453877837825",
     "order": 0,
     "type": "ignore",
     "timestamp": 1735617629000,
@@ -392,7 +380,7 @@
     "transfers": []
   },
   {
-    "source": "bitget-spot-jst_spot_1257862807086116873",
+    "source": "bitget_spot_1257862807086116873",
     "order": 0,
     "type": "gift",
     "timestamp": 1735623783000,
@@ -418,7 +406,7 @@
     ]
   },
   {
-    "source": "bitget-spot-jst_spot_1257862807086116873",
+    "source": "bitget_spot_1257862807086116873",
     "order": 1,
     "type": "fee",
     "timestamp": 1735623783000,
@@ -444,7 +432,7 @@
     ]
   },
   {
-    "source": "bitget-spot-jst_spot_1257862807086116875",
+    "source": "bitget_spot_1257862807086116875",
     "order": 0,
     "type": "fee",
     "timestamp": 1735623783000,
@@ -455,22 +443,19 @@
         "direction": "out",
         "asset": {
           "type": "CryptoCurrency",
-          "id": "vana-world",
-          "name": "NIRVANA",
+          "id": "vana",
+          "name": "Vana",
           "symbol": "vana",
-          "icon": "https://coin-images.coingecko.com/coins/images/32469/large/vana.jpg?1698259899",
-          "market": {
-            "coingeckoId": "vana-world",
-            "marketCapUsd": 59
-          },
-          "updatedAt": 1728782536762
+          "icon": "https://coin-images.coingecko.com/coins/images/51404/large/logo.png?1731086679",
+          "market": { "coingeckoId": "vana", "marketCapUsd": 264663582 },
+          "updatedAt": 1738112837364
         },
         "amount": "0.005413389863"
       }
     ]
   },
   {
-    "source": "bitget-spot-jst_spot_1257863094723096584",
+    "source": "bitget_spot_1257863094723096584",
     "order": 0,
     "type": "gift",
     "timestamp": 1735623852000,
@@ -485,10 +470,7 @@
           "name": "Tether",
           "symbol": "usdt",
           "icon": "https://coin-images.coingecko.com/coins/images/325/large/Tether.png?1696501661",
-          "market": {
-            "coingeckoId": "tether",
-            "marketCapUsd": 119675340267
-          },
+          "market": { "coingeckoId": "tether", "marketCapUsd": 119675340267 },
           "updatedAt": 1728782536762
         },
         "amount": "0.43400456297802"
@@ -496,7 +478,7 @@
     ]
   },
   {
-    "source": "bitget-spot-jst_spot_1257863094723096584",
+    "source": "bitget_spot_1257863094723096584",
     "order": 1,
     "type": "fee",
     "timestamp": 1735623852000,
@@ -522,7 +504,7 @@
     ]
   },
   {
-    "source": "bitget-spot-jst_spot_1257991967251460099",
+    "source": "bitget_spot_1257991967251460099",
     "order": 0,
     "type": "ignore",
     "timestamp": 1735654576000,
@@ -531,7 +513,7 @@
     "transfers": []
   },
   {
-    "source": "bitget-spot-jst_spot_1265412161544142852",
+    "source": "bitget_spot_1265412161544142852",
     "order": 0,
     "type": "ignore",
     "timestamp": 1737423690000,

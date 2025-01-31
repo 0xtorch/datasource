@@ -1,6 +1,6 @@
 [
   {
-    "source": "cryptact-ledger-ja_1508389777000",
+    "source": "cryptact_1508389777000",
     "order": 0,
     "type": "trade",
     "timestamp": 1508389777000,
@@ -33,7 +33,7 @@
     ]
   },
   {
-    "source": "cryptact-ledger-ja_1508549173000",
+    "source": "cryptact_1508549173000",
     "order": 0,
     "type": "trade",
     "timestamp": 1508549173000,
@@ -66,7 +66,7 @@
     ]
   },
   {
-    "source": "cryptact-ledger-ja_1508772279000",
+    "source": "cryptact_1508772279000",
     "order": 0,
     "type": "gift",
     "timestamp": 1508772279000,
@@ -89,7 +89,7 @@
     ]
   },
   {
-    "source": "cryptact-ledger-ja_1514727673000",
+    "source": "cryptact_1514727673000",
     "order": 0,
     "type": "fee",
     "timestamp": 1514727673000,
@@ -112,7 +112,7 @@
     ]
   },
   {
-    "source": "cryptact-ledger-ja_1581904632000",
+    "source": "cryptact_1581904632000",
     "order": 0,
     "type": "gift",
     "timestamp": 1581904632000,
@@ -132,7 +132,7 @@
     ]
   },
   {
-    "source": "cryptact-ledger-ja_1603400880000",
+    "source": "cryptact_1603400880000",
     "order": 0,
     "type": "fee",
     "timestamp": 1603400880000,
@@ -152,7 +152,7 @@
     ]
   },
   {
-    "source": "cryptact-ledger-ja_1614693490000",
+    "source": "cryptact_1614693490000",
     "order": 0,
     "type": "fee",
     "timestamp": 1614693490000,
@@ -175,7 +175,7 @@
     ]
   },
   {
-    "source": "cryptact-ledger-ja_1623064568000",
+    "source": "cryptact_1623064568000",
     "order": 0,
     "type": "ignore",
     "timestamp": 1623064568000,
@@ -184,7 +184,7 @@
     "transfers": []
   },
   {
-    "source": "cryptact-ledger-ja_1633948047000",
+    "source": "cryptact_1633948047000",
     "order": 0,
     "type": "pay",
     "timestamp": 1633948047000,
@@ -207,7 +207,7 @@
     ]
   },
   {
-    "source": "cryptact-ledger-ja_1608158940000",
+    "source": "cryptact_1608158940000",
     "order": 0,
     "type": "realize-loss",
     "timestamp": 1608158940000,

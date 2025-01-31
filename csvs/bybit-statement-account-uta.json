@@ -1,6 +1,8 @@
 {
   "id": "bybit-statement-account-uta",
   "service": "bybit",
+  "headerStartColumns": ["Currency"],
+  "headerCheckRowSize": 4,
   "formatter": {
     "Currency": ["string"],
     "Contract": ["string"],
@@ -138,6 +140,197 @@
         ]
       },
       {
+        "description": "BONUS_RECOLLECT(Bonus expired) > transfer",
+        "conditions": [
+          {
+            "value": {
+              "type": "cell",
+              "column": "Type"
+            },
+            "pattern": "BONUS_RECOLLECT"
+          }
+        ],
+        "generators": [
+          {
+            "type": "transfer",
+            "source": {
+              "type": "join",
+              "values": [
+                { "type": "service" },
+                "_uta-account_",
+                { "type": "cell", "column": "Time(UTC)" }
+              ]
+            },
+            "timestamp": {
+              "type": "cell",
+              "column": "Time(UTC)"
+            },
+            "comment": {
+              "type": "join",
+              "values": [
+                "Type: ",
+                { "type": "cell", "column": "Type" },
+                " / ",
+                { "type": "cell", "column": "Cash Flow" },
+                " ",
+                { "type": "cell", "column": "Currency" }
+              ]
+            },
+            "transfers": [
+              {
+                "direction": "out",
+                "amount": {
+                  "type": "text",
+                  "value": {
+                    "type": "cell",
+                    "column": "Cash Flow"
+                  }
+                },
+                "asset": {
+                  "type": "symbol",
+                  "value": {
+                    "type": "cell",
+                    "column": "Currency"
+                  }
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "description": "TOKENS_REDEMPTION(Spot leverage token redemption) (Positive) > gift",
+        "conditions": [
+          {
+            "value": {
+              "type": "cell",
+              "column": "Type"
+            },
+            "pattern": "TOKENS_REDEMPTION"
+          },
+          {
+            "value": {
+              "type": "cell",
+              "column": "Cash Flow"
+            },
+            "pattern": { "type": "positive" }
+          }
+        ],
+        "generators": [
+          {
+            "type": "gift",
+            "source": {
+              "type": "join",
+              "values": [
+                { "type": "service" },
+                "_uta-account_",
+                { "type": "cell", "column": "Time(UTC)" }
+              ]
+            },
+            "timestamp": {
+              "type": "cell",
+              "column": "Time(UTC)"
+            },
+            "comment": {
+              "type": "join",
+              "values": [
+                "Type: ",
+                { "type": "cell", "column": "Type" },
+                " / ",
+                { "type": "cell", "column": "Cash Flow" },
+                " ",
+                { "type": "cell", "column": "Currency" }
+              ]
+            },
+            "transfers": [
+              {
+                "direction": "in",
+                "amount": {
+                  "type": "text",
+                  "value": {
+                    "type": "cell",
+                    "column": "Cash Flow"
+                  }
+                },
+                "asset": {
+                  "type": "symbol",
+                  "value": {
+                    "type": "cell",
+                    "column": "Currency"
+                  }
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "description": "TOKENS_REDEMPTION(Spot leverage token redemption) (Negative) > fee",
+        "conditions": [
+          {
+            "value": {
+              "type": "cell",
+              "column": "Type"
+            },
+            "pattern": "TOKENS_REDEMPTION"
+          },
+          {
+            "value": {
+              "type": "cell",
+              "column": "Cash Flow"
+            },
+            "pattern": { "type": "negative" }
+          }
+        ],
+        "generators": [
+          {
+            "type": "fee",
+            "source": {
+              "type": "join",
+              "values": [
+                { "type": "service" },
+                "_uta-account_",
+                { "type": "cell", "column": "Time(UTC)" }
+              ]
+            },
+            "timestamp": {
+              "type": "cell",
+              "column": "Time(UTC)"
+            },
+            "comment": {
+              "type": "join",
+              "values": [
+                "Type: ",
+                { "type": "cell", "column": "Type" },
+                " / ",
+                { "type": "cell", "column": "Cash Flow" },
+                " ",
+                { "type": "cell", "column": "Currency" }
+              ]
+            },
+            "transfers": [
+              {
+                "direction": "out",
+                "amount": {
+                  "type": "text",
+                  "value": {
+                    "type": "cell",
+                    "column": "Cash Flow"
+                  }
+                },
+                "asset": {
+                  "type": "symbol",
+                  "value": {
+                    "type": "cell",
+                    "column": "Currency"
+                  }
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
         "description": "ignore",
         "conditions": [
           {
@@ -191,6 +384,11 @@
     ]
   },
   "symbolAssetMap": {
-    "RNDR": "crypto/render-token"
+    "ATOM2L": "crypto/0xtorch-bybit-atom2l",
+    "DOGE2L": "crypto/0xtorch-bybit-doge2l",
+    "ETH3L": "crypto/0xtorch-bybit-eth3l",
+    "HPOS10I": "crypto/harrypotterobamasonic10in",
+    "RNDR": "crypto/render-token",
+    "XRP3L": "crypto/0xtorch-bybit-xrp3l"
   }
 }

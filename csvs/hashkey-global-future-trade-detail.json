@@ -1,6 +1,9 @@
 {
   "id": "hashkey-global-future-trade-detail",
   "service": "hashkey-global",
+  "sheetName": "Sheet1",
+  "headerStartColumns": ["Time（UTC+0）"],
+  "headerCheckRowSize": 10,
   "formatter": {
     "Time（UTC+0）": ["iso8601"],
     "Futures": ["string"],

@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"token","internalType":"address","type":"address","indexed":false},{"name":"oldEpoch","internalType":"uint8","type":"uint8","indexed":false},{"name":"newEpoch","internalType":"uint8","type":"uint8","indexed":false}],"name":"SetEpoch"}]

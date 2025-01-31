@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[],"name":"getRoles","outputs":[{"name":"","internalType":"struct RoleAccess.Role[]","type":"tuple[]","components":[{"name":"role","internalType":"bytes32","type":"bytes32"},{"name":"describe","internalType":"string","type":"string"}]}],"stateMutability":"pure"}]

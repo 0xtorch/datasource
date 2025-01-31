@@ -1,6 +1,6 @@
 [
   {
-    "source": "bybit-statement-uta-spot-trade_spot-trade_2210000000571911019",
+    "source": "bybit_spot-trade_2210000000571911019",
     "order": 0,
     "type": "trade",
     "timestamp": 1734486365000,
@@ -35,7 +35,7 @@
     ]
   },
   {
-    "source": "bybit-statement-uta-spot-trade_spot-trade_2210000000566540132",
+    "source": "bybit_spot-trade_2210000000566540132",
     "order": 0,
     "type": "trade",
     "timestamp": 1734145513000,
@@ -89,7 +89,7 @@
     ]
   },
   {
-    "source": "bybit-statement-uta-spot-trade_spot-trade_2280000000744015206",
+    "source": "bybit_spot-trade_2280000000744015206",
     "order": 0,
     "type": "trade",
     "timestamp": 1731427507000,

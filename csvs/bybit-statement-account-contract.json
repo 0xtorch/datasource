@@ -1,6 +1,8 @@
 {
   "id": "bybit-statement-account-contract",
   "service": "bybit",
+  "headerStartColumns": ["Time"],
+  "headerCheckRowSize": 4,
   "formatter": {
     "Time": ["iso8601"],
     "Currency": ["string"],
@@ -30,6 +32,124 @@
               "column": "Type"
             },
             "pattern": "10074"
+          }
+        ],
+        "generators": [
+          {
+            "type": "transfer",
+            "source": {
+              "type": "join",
+              "values": [
+                { "type": "service" },
+                "_contract-account_",
+                { "type": "cell", "column": "Time" }
+              ]
+            },
+            "timestamp": {
+              "type": "cell",
+              "column": "Time"
+            },
+            "comment": {
+              "type": "join",
+              "values": [
+                "Type: ",
+                { "type": "cell", "column": "Type" },
+                " / ",
+                { "type": "cell", "column": "Cash Flow" },
+                " ",
+                { "type": "cell", "column": "Currency" }
+              ]
+            },
+            "transfers": [
+              {
+                "direction": "out",
+                "amount": {
+                  "type": "text",
+                  "value": {
+                    "type": "cell",
+                    "column": "Cash Flow"
+                  }
+                },
+                "asset": {
+                  "type": "symbol",
+                  "value": {
+                    "type": "cell",
+                    "column": "Currency"
+                  }
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "description": "bonusClaimed > gift",
+        "conditions": [
+          {
+            "value": {
+              "type": "cell",
+              "column": "Type"
+            },
+            "pattern": "bonusClaimed"
+          }
+        ],
+        "generators": [
+          {
+            "type": "gift",
+            "source": {
+              "type": "join",
+              "values": [
+                { "type": "service" },
+                "_contract-account_",
+                { "type": "cell", "column": "Time" }
+              ]
+            },
+            "timestamp": {
+              "type": "cell",
+              "column": "Time"
+            },
+            "comment": {
+              "type": "join",
+              "values": [
+                "Type: ",
+                { "type": "cell", "column": "Type" },
+                " / ",
+                { "type": "cell", "column": "Cash Flow" },
+                " ",
+                { "type": "cell", "column": "Currency" }
+              ]
+            },
+            "transfers": [
+              {
+                "direction": "in",
+                "amount": {
+                  "type": "text",
+                  "value": {
+                    "type": "cell",
+                    "column": "Cash Flow"
+                  }
+                },
+                "asset": {
+                  "type": "symbol",
+                  "value": {
+                    "type": "cell",
+                    "column": "Currency"
+                  }
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "description": "bonusRecycle(Bonus expired) > transfer",
+        "conditions": [
+          {
+            "value": {
+              "type": "cell",
+              "column": "Type"
+            },
+            "pattern": "bonusRecycle"
           }
         ],
         "generators": [
@@ -133,6 +253,11 @@
     ]
   },
   "symbolAssetMap": {
-    "RNDR": "crypto/render-token"
+    "ATOM2L": "crypto/0xtorch-bybit-atom2l",
+    "DOGE2L": "crypto/0xtorch-bybit-doge2l",
+    "ETH3L": "crypto/0xtorch-bybit-eth3l",
+    "HPOS10I": "crypto/harrypotterobamasonic10in",
+    "RNDR": "crypto/render-token",
+    "XRP3L": "crypto/0xtorch-bybit-xrp3l"
   }
 }

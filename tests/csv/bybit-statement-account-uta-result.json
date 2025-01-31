@@ -1,6 +1,6 @@
 [
   {
-    "source": "bybit-statement-account-uta_uta-account_1734697083000",
+    "source": "bybit_uta-account_1734697083000",
     "order": 0,
     "type": "ignore",
     "timestamp": 1734697083000,
@@ -9,7 +9,7 @@
     "transfers": []
   },
   {
-    "source": "bybit-statement-account-uta_uta-account_1734695168000",
+    "source": "bybit_uta-account_1734695168000",
     "order": 0,
     "type": "ignore",
     "timestamp": 1734695168000,
@@ -18,7 +18,7 @@
     "transfers": []
   },
   {
-    "source": "bybit-statement-account-uta_uta-account_1734428387000",
+    "source": "bybit_uta-account_1734428387000",
     "order": 0,
     "type": "transfer",
     "timestamp": 1734428387000,
@@ -41,7 +41,7 @@
     ]
   },
   {
-    "source": "bybit-statement-account-uta_uta-account_1733789113000",
+    "source": "bybit_uta-account_1733789113000",
     "order": 0,
     "type": "ignore",
     "timestamp": 1733789113000,
@@ -50,7 +50,7 @@
     "transfers": []
   },
   {
-    "source": "bybit-statement-account-uta_uta-account_1733395978000",
+    "source": "bybit_uta-account_1733395978000",
     "order": 0,
     "type": "ignore",
     "timestamp": 1733395978000,
@@ -59,7 +59,7 @@
     "transfers": []
   },
   {
-    "source": "bybit-statement-account-uta_uta-account_1731081600000",
+    "source": "bybit_uta-account_1731081600000",
     "order": 0,
     "type": "ignore",
     "timestamp": 1731081600000,
@@ -68,7 +68,7 @@
     "transfers": []
   },
   {
-    "source": "bybit-statement-account-uta_uta-account_1730880001000",
+    "source": "bybit_uta-account_1730880001000",
     "order": 0,
     "type": "ignore",
     "timestamp": 1730880001000,
@@ -77,7 +77,7 @@
     "transfers": []
   },
   {
-    "source": "bybit-statement-account-uta_uta-account_1730876700000",
+    "source": "bybit_uta-account_1730876700000",
     "order": 0,
     "type": "interest-fee",
     "timestamp": 1730876700000,
@@ -96,6 +96,117 @@
           "updatedAt": 1728782536762
         },
         "amount": "0.000736807350132681"
+      }
+    ]
+  },
+  {
+    "source": "bybit_uta-account_1718188351000",
+    "order": 0,
+    "type": "gift",
+    "timestamp": 1718188351000,
+    "evidence": "system-rule",
+    "comment": "Type: TOKENS_REDEMPTION / \"0.0000006070208833\" USDT",
+    "transfers": [
+      {
+        "direction": "in",
+        "asset": {
+          "type": "CryptoCurrency",
+          "id": "tether",
+          "name": "Tether",
+          "symbol": "usdt",
+          "icon": "https://coin-images.coingecko.com/coins/images/325/large/Tether.png?1696501661",
+          "market": { "coingeckoId": "tether", "marketCapUsd": 119675340267 },
+          "updatedAt": 1728782536762
+        },
+        "amount": "0.0000006070208833"
+      }
+    ]
+  },
+  {
+    "source": "bybit_uta-account_1718187910000",
+    "order": 0,
+    "type": "fee",
+    "timestamp": 1718187910000,
+    "evidence": "system-rule",
+    "comment": "Type: TOKENS_REDEMPTION / \"-0.0000025\" XRP3L",
+    "transfers": [
+      {
+        "direction": "out",
+        "asset": {
+          "type": "CryptoCurrency",
+          "id": "0xtorch-bybit-xrp3l",
+          "name": "0xtorch-bybit-xrp3l",
+          "symbol": "0XTORCH-BYBIT-XRP3L",
+          "updatedAt": 0
+        },
+        "amount": "0.0000025"
+      }
+    ]
+  },
+  {
+    "source": "bybit_uta-account_1718182429000",
+    "order": 0,
+    "type": "gift",
+    "timestamp": 1718182429000,
+    "evidence": "system-rule",
+    "comment": "Type: TOKENS_REDEMPTION / \"0.0002925456566\" USDT",
+    "transfers": [
+      {
+        "direction": "in",
+        "asset": {
+          "type": "CryptoCurrency",
+          "id": "tether",
+          "name": "Tether",
+          "symbol": "usdt",
+          "icon": "https://coin-images.coingecko.com/coins/images/325/large/Tether.png?1696501661",
+          "market": { "coingeckoId": "tether", "marketCapUsd": 119675340267 },
+          "updatedAt": 1728782536762
+        },
+        "amount": "0.0002925456566"
+      }
+    ]
+  },
+  {
+    "source": "bybit_uta-account_1718182184000",
+    "order": 0,
+    "type": "fee",
+    "timestamp": 1718182184000,
+    "evidence": "system-rule",
+    "comment": "Type: TOKENS_REDEMPTION / \"-0.0000693\" DOGE2L",
+    "transfers": [
+      {
+        "direction": "out",
+        "asset": {
+          "type": "CryptoCurrency",
+          "id": "0xtorch-bybit-doge2l",
+          "name": "0xtorch-bybit-doge2l",
+          "symbol": "0XTORCH-BYBIT-DOGE2L",
+          "updatedAt": 0
+        },
+        "amount": "0.0000693"
+      }
+    ]
+  },
+  {
+    "source": "bybit_uta-account_1706703000000",
+    "order": 0,
+    "type": "transfer",
+    "timestamp": 1706703000000,
+    "evidence": "system-rule",
+    "comment": "Type: BONUS_RECOLLECT / \"-0.1\" USDT",
+    "transfers": [
+      {
+        "direction": "out",
+        "asset": {
+          "type": "CryptoCurrency",
+          "id": "tether",
+          "name": "Tether",
+          "symbol": "usdt",
+          "icon": "https://coin-images.coingecko.com/coins/images/325/large/Tether.png?1696501661",
+          "market": { "coingeckoId": "tether", "marketCapUsd": 119675340267 },
+          "updatedAt": 1728782536762
+        },
+        "amount": "0.1"
       }
     ]
   }

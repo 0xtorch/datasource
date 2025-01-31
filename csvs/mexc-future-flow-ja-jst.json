@@ -197,9 +197,16 @@
     "ASMATCH": "crypto/asmatch",
     "COM": "crypto/com-ordinals",
     "EVADORE": "crypto/evadore",
+    "GAMEVIRTUAL": "crypto/game-by-virtuals",
+    "HOLDSTATION": "crypto/holdstation",
+    "JOC": "crypto/japan-open-chain",
+    "KAI1": "crypto/kinetixfi",
     "MEME": "crypto/memecoin-2",
     "MEMETOON": "crypto/memetoon",
+    "MNEMO": "crypto/mnemonics",
+    "NEKTAR": "crypto/nektar-network",
     "PIG": "crypto/pig-finance",
-    "PIGCOIN": "crypto/pigcoin-2"
+    "PIGCOIN": "crypto/pigcoin-2",
+    "WATERSOL": "crypto/water-coin"
   }
 }

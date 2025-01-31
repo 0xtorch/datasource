@@ -1,6 +1,6 @@
 [
   {
-    "source": "bitbank-withdrawal-btc_withdrawal-btc_bitcoin_266ef82fbef2f2d308f32e5ce869e1b37b6e38aa79f5c4522a7ce9aa545896c4",
+    "source": "bitbank_withdrawal-btc_bitcoin_266ef82fbef2f2d308f32e5ce869e1b37b6e38aa79f5c4522a7ce9aa545896c4",
     "order": 0,
     "type": "fee",
     "timestamp": 1603795970000,
@@ -21,7 +21,7 @@
     ]
   },
   {
-    "source": "bitbank-withdrawal-btc_withdrawal-btc_1603795486000",
+    "source": "bitbank_withdrawal-btc_1603795486000",
     "order": 0,
     "type": "ignore",
     "timestamp": 1603795486000,

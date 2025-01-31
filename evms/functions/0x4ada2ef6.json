@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_vestingAddress","internalType":"address","type":"address"}],"name":"transferToVesting","outputs":[],"stateMutability":"nonpayable"}]
