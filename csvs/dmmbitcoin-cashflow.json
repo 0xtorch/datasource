@@ -160,18 +160,7 @@
               "type": "cell",
               "column": "数量"
             },
-            "pattern": {
-              "type": "nonpositive"
-            }
-          },
-          {
-            "value": {
-              "type": "cell",
-              "column": "数量"
-            },
-            "pattern": {
-              "type": "nonnegative"
-            }
+            "pattern": "\"0\""
           }
         ],
         "generators": [
