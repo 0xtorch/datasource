@@ -92,6 +92,84 @@
     ]
   },
   {
+    "source": "hyperliquid_trade_1708013135000",
+    "order": 0,
+    "type": "income",
+    "timestamp": 1708013135000,
+    "evidence": "system-rule",
+    "comment": "Direction: Open Long / Size: \"5\"ETH",
+    "transfers": [
+      {
+        "direction": "in",
+        "asset": {
+          "type": "CryptoCurrency",
+          "id": "usd-coin",
+          "name": "USDC",
+          "symbol": "usdc",
+          "icon": "https://coin-images.coingecko.com/coins/images/6319/large/usdc.png?1696506694",
+          "market": { "coingeckoId": "usd-coin", "marketCapUsd": 35031669445 },
+          "updatedAt": 1728782536762
+        },
+        "amount": "0.28257"
+      }
+    ]
+  },
+  {
+    "source": "hyperliquid_trade_1711935219000",
+    "order": 0,
+    "type": "realize-profit",
+    "timestamp": 1711935219000,
+    "evidence": "system-rule",
+    "comment": "Direction: Long > Short / Size: \"7.4651\"ETH",
+    "transfers": [
+      {
+        "direction": "in",
+        "asset": {
+          "type": "CryptoCurrency",
+          "id": "usd-coin",
+          "name": "USDC",
+          "symbol": "usdc",
+          "icon": "https://coin-images.coingecko.com/coins/images/6319/large/usdc.png?1696506694",
+          "market": { "coingeckoId": "usd-coin", "marketCapUsd": 35031669445 },
+          "updatedAt": 1728782536762
+        },
+        "amount": "4.983868999999999"
+      }
+    ]
+  },
+  {
+    "source": "hyperliquid_trade_1711950533000",
+    "order": 0,
+    "type": "realize-loss",
+    "timestamp": 1711950533000,
+    "evidence": "system-rule",
+    "comment": "Direction: Market Order Liquidation: Close Long / Size: \"7.9692\"ETH",
+    "transfers": [
+      {
+        "direction": "out",
+        "asset": {
+          "type": "CryptoCurrency",
+          "id": "usd-coin",
+          "name": "USDC",
+          "symbol": "usdc",
+          "icon": "https://coin-images.coingecko.com/coins/images/6319/large/usdc.png?1696506694",
+          "market": { "coingeckoId": "usd-coin", "marketCapUsd": 35031669445 },
+          "updatedAt": 1728782536762
+        },
+        "amount": "682.639201"
+      }
+    ]
+  },
+  {
+    "source": "hyperliquid_trade_1712035216000",
+    "order": 0,
+    "type": "ignore",
+    "timestamp": 1712035216000,
+    "evidence": "system-rule",
+    "comment": "Direction: Open Long / Size: \"5.7736\"ETH",
+    "transfers": []
+  },
+  {
     "source": "hyperliquid_trade_1713502293000",
     "order": 0,
     "type": "trade",
@@ -222,6 +300,29 @@
           "updatedAt": 0
         },
         "amount": "0.1022065"
+      }
+    ]
+  },
+  {
+    "source": "hyperliquid_trade_1734630883000",
+    "order": 0,
+    "type": "fee",
+    "timestamp": 1734630883000,
+    "evidence": "system-rule",
+    "comment": "Direction: Open Long (Price Improved) / Size: \"0.1\"BTC",
+    "transfers": [
+      {
+        "direction": "out",
+        "asset": {
+          "type": "CryptoCurrency",
+          "id": "usd-coin",
+          "name": "USDC",
+          "symbol": "usdc",
+          "icon": "https://coin-images.coingecko.com/coins/images/6319/large/usdc.png?1696506694",
+          "market": { "coingeckoId": "usd-coin", "marketCapUsd": 35031669445 },
+          "updatedAt": 1728782536762
+        },
+        "amount": "0.971"
       }
     ]
   }
