@@ -208,7 +208,7 @@
         ]
       },
       {
-        "description": "LaunchX income (451) / Exchange income / Gains / Increase exchange rate",
+        "description": "LaunchX income (451) / Exchange income / Gains / Increase exchange rate / Receipt / On-chain Elite receipt",
         "conditions": [
           {
             "value": { "type": "cell", "column": "type" },
@@ -219,7 +219,9 @@
                 "451",
                 "Exchange income",
                 "Gains",
-                "Increase exchange rate"
+                "Increase exchange rate",
+                "Receipt",
+                "On-chain Elite receipt"
               ]
             }
           }
@@ -315,7 +317,7 @@
         ]
       },
       {
-        "description": "LaunchX expense (447) / Exchange spending / Consumption / Reduce exchange rate",
+        "description": "LaunchX expense (447) / Exchange spending / Consumption / Reduce exchange rate / Subscription",
         "conditions": [
           {
             "value": { "type": "cell", "column": "type" },
@@ -326,7 +328,8 @@
                 "447",
                 "Exchange spending",
                 "Consumption",
-                "Reduce exchange rate"
+                "Reduce exchange rate",
+                "Subscription"
               ]
             }
           }
@@ -371,7 +374,7 @@
         ]
       },
       {
-        "description": "Ignore (Buy, Sell, Financial, Transfer in, Transfer out, 365, Interest, Redeem, Redemption, Subscribe, Subscription, lock-up)",
+        "description": "Ignore (Buy, Sell, Financial, Transfer in, Transfer out, 365, Interest, Redeem, Redemption, Subscribe, lock-up)",
         "conditions": [
           {
             "value": { "type": "cell", "column": "type" },
@@ -388,7 +391,6 @@
                 "Redeem",
                 "Redemption",
                 "Subscribe",
-                "Subscription",
                 "Unlock locked order",
                 "The locked order is returned to the system",
                 "System lock-up",
@@ -425,5 +427,9 @@
         ]
       }
     ]
+  },
+  "symbolAssetMap": {
+    "BGBTC": "crypto/0xtorch-bitget-bgbtc",
+    "BGSOL": "crypto/0xtorch-bitget-bgsol"
   }
 }
