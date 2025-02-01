@@ -371,7 +371,106 @@
         ]
       },
       {
-        "description": "Ignore (Buy, Sell, Financial, Transfer in, Transfer out, 365, Interest, Redeem, Redemption, Subscribe, Subscription, lock-up)",
+        "description": "On Chain Elite(Stake): Receipt / On-chain Elite receipt > gift(evidence: none)",
+        "conditions": [
+          {
+            "value": { "type": "cell", "column": "type" },
+            "pattern": {
+              "type": "in",
+              "values": ["Receipt", "On-chain Elite receipt"]
+            }
+          }
+        ],
+        "generators": [
+          {
+            "type": "gift",
+            "evidence": "none",
+            "source": {
+              "type": "join",
+              "values": [
+                { "type": "service" },
+                "_spot_",
+                { "type": "cell", "column": "order" }
+              ]
+            },
+            "timestamp": { "type": "cell", "column": "date" },
+            "comment": {
+              "type": "join",
+              "values": [
+                "type: ",
+                { "type": "cell", "column": "type" },
+                " / coin: ",
+                { "type": "cell", "column": "coin" },
+                " / amount: ",
+                { "type": "cell", "column": "amount" }
+              ]
+            },
+            "transfers": [
+              {
+                "direction": "in",
+                "amount": {
+                  "type": "text",
+                  "value": { "type": "cell", "column": "amount" }
+                },
+                "asset": {
+                  "type": "symbol",
+                  "value": { "type": "cell", "column": "coin" }
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "description": "On Chain Elite(Stake): Subscription > fee(evidence: none)",
+        "conditions": [
+          {
+            "value": { "type": "cell", "column": "type" },
+            "pattern": "Subscription"
+          }
+        ],
+        "generators": [
+          {
+            "type": "fee",
+            "evidence": "none",
+            "source": {
+              "type": "join",
+              "values": [
+                { "type": "service" },
+                "_spot_",
+                { "type": "cell", "column": "order" }
+              ]
+            },
+            "timestamp": { "type": "cell", "column": "date" },
+            "comment": {
+              "type": "join",
+              "values": [
+                "type: ",
+                { "type": "cell", "column": "type" },
+                " / coin: ",
+                { "type": "cell", "column": "coin" },
+                " / amount: ",
+                { "type": "cell", "column": "amount" }
+              ]
+            },
+            "transfers": [
+              {
+                "direction": "out",
+                "amount": {
+                  "type": "text",
+                  "value": { "type": "cell", "column": "amount" }
+                },
+                "asset": {
+                  "type": "symbol",
+                  "value": { "type": "cell", "column": "coin" }
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "description": "Ignore (Buy, Sell, Financial, Transfer in, Transfer out, 365, Interest, Redeem, Redemption, Subscribe, lock-up)",
         "conditions": [
           {
             "value": { "type": "cell", "column": "type" },
@@ -388,7 +487,6 @@
                 "Redeem",
                 "Redemption",
                 "Subscribe",
-                "Subscription",
                 "Unlock locked order",
                 "The locked order is returned to the system",
                 "System lock-up",
@@ -425,5 +523,9 @@
         ]
       }
     ]
+  },
+  "symbolAssetMap": {
+    "BGBTC": "crypto/0xtorch-bitget-bgbtc",
+    "BGSOL": "crypto/0xtorch-bitget-bgsol"
   }
 }
