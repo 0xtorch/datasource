@@ -325,5 +325,32 @@
         "amount": "0.971"
       }
     ]
+  },
+
+  {
+    "comment": "Direction: Close Long (Price Improved) / Size: \"11.8\"TRUMP",
+    "evidence": "system-rule",
+    "order": 0,
+    "source": "hyperliquid_trade_1737258662000",
+    "timestamp": 1737258662000,
+    "transfers": [
+      {
+        "amount": "74.824933",
+        "asset": {
+          "icon": "https://coin-images.coingecko.com/coins/images/6319/large/usdc.png?1696506694",
+          "id": "usd-coin",
+          "market": {
+            "coingeckoId": "usd-coin",
+            "marketCapUsd": 35031669445
+          },
+          "name": "USDC",
+          "symbol": "usdc",
+          "type": "CryptoCurrency",
+          "updatedAt": 1728782536762
+        },
+        "direction": "in"
+      }
+    ],
+    "type": "realize-profit"
   }
 ]
