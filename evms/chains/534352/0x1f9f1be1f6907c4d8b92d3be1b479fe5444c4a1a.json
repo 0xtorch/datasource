@@ -1,0 +1,5 @@
+{
+  "address": "0x1f9f1be1f6907c4d8b92d3be1b479fe5444c4a1a",
+  "label": "Counter",
+  "abi": "[{\"inputs\":[],\"name\":\"increaseCounter\",\"outputs\":[],\"stateMutability\":\"nonpayable\",\"type\":\"function\"},{\"inputs\":[],\"name\":\"x\",\"outputs\":[{\"internalType\":\"uint16\",\"name\":\"\",\"type\":\"uint16\"}],\"stateMutability\":\"view\",\"type\":\"function\"}]"
+}
