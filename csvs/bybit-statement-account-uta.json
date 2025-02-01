@@ -13,9 +13,9 @@
     "Filled Price": ["string"],
     "Funding": ["string"],
     "Fee Paid": ["string"],
-    "Cash Flow": ["big-decimal"],
-    "Change": ["big-decimal"],
-    "Wallet Balance": ["big-decimal"],
+    "Cash Flow": ["blank", "big-decimal"],
+    "Change": ["blank", "big-decimal"],
+    "Wallet Balance": ["blank", "big-decimal"],
     "Action": ["string"],
     "Time(UTC)": ["iso8601"]
   },
@@ -81,7 +81,7 @@
         ]
       },
       {
-        "description": "INTEREST",
+        "description": "INTEREST > interest-fee",
         "conditions": [
           {
             "value": {
@@ -89,6 +89,13 @@
               "column": "Type"
             },
             "pattern": "INTEREST"
+          },
+          {
+            "value": {
+              "type": "cell",
+              "column": "Cash Flow"
+            },
+            "pattern": { "type": "negative" }
           }
         ],
         "generators": [
@@ -136,6 +143,52 @@
                 }
               }
             ]
+          }
+        ]
+      },
+      {
+        "description": "INTEREST(Undefined) > ignore",
+        "conditions": [
+          {
+            "value": {
+              "type": "cell",
+              "column": "Type"
+            },
+            "pattern": "INTEREST"
+          },
+          {
+            "value": {
+              "type": "cell",
+              "column": "Quantity"
+            },
+            "pattern": ""
+          }
+        ],
+        "generators": [
+          {
+            "type": "ignore",
+            "source": {
+              "type": "join",
+              "values": [
+                { "type": "service" },
+                "_uta-account_",
+                { "type": "cell", "column": "Time(UTC)" }
+              ]
+            },
+            "timestamp": {
+              "type": "cell",
+              "column": "Time(UTC)"
+            },
+            "comment": {
+              "type": "join",
+              "values": [
+                "Type: ",
+                { "type": "cell", "column": "Type" },
+                " / Undefined ",
+                { "type": "cell", "column": "Currency" }
+              ]
+            },
+            "transfers": []
           }
         ]
       },
@@ -385,10 +438,14 @@
   },
   "symbolAssetMap": {
     "ATOM2L": "crypto/0xtorch-bybit-atom2l",
+    "BTC3L": "crypto/0xtorch-bybit-btc3l",
+    "BTC3S": "crypto/0xtorch-bybit-btc3s",
     "DOGE2L": "crypto/0xtorch-bybit-doge2l",
     "ETH3L": "crypto/0xtorch-bybit-eth3l",
+    "ETH3S": "crypto/0xtorch-bybit-eth3s",
     "HPOS10I": "crypto/harrypotterobamasonic10in",
     "RNDR": "crypto/render-token",
-    "XRP3L": "crypto/0xtorch-bybit-xrp3l"
+    "XRP3L": "crypto/0xtorch-bybit-xrp3l",
+    "ZEREBRO": "crypto/zerebro"
   }
 }
