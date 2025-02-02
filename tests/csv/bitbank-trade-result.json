@@ -1,6 +1,6 @@
 [
   {
-    "source": "bitbank_spot-trade_1346558054",
+    "source": "bitbank_trade_1346558054",
     "order": 0,
     "type": "trade",
     "timestamp": 1724674346987,
@@ -43,7 +43,7 @@
     ]
   },
   {
-    "source": "bitbank_spot-trade_1346558052",
+    "source": "bitbank_trade_1346558052",
     "order": 0,
     "type": "trade",
     "timestamp": 1724674346555,
@@ -86,7 +86,7 @@
     ]
   },
   {
-    "source": "bitbank_spot-trade_1317280944",
+    "source": "bitbank_trade_1317280944",
     "order": 0,
     "type": "trade",
     "timestamp": 1709816129523,
@@ -129,7 +129,7 @@
     ]
   },
   {
-    "source": "bitbank_spot-trade_1313923681",
+    "source": "bitbank_trade_1313923681",
     "order": 0,
     "type": "trade",
     "timestamp": 1709200029078,
@@ -172,7 +172,7 @@
     ]
   },
   {
-    "source": "bitbank_spot-trade_1308183378",
+    "source": "bitbank_trade_1308183378",
     "order": 0,
     "type": "trade",
     "timestamp": 1706624727507,
@@ -213,7 +213,7 @@
     ]
   },
   {
-    "source": "bitbank_spot-trade_1304559399",
+    "source": "bitbank_trade_1304559399",
     "order": 0,
     "type": "trade",
     "timestamp": 1704866965430,
