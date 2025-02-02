@@ -613,5 +613,10 @@
         ]
       }
     ]
+  },
+  "symbolAssetMap": {
+    "BGBTC": "crypto/0xtorch-bitget-bgbtc",
+    "BGSOL": "crypto/0xtorch-bitget-bgsol",
+    "RNDR": "crypto/render-token"
   }
 }
