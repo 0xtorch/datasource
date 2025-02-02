@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_m","internalType":"address","type":"address"},{"name":"_b","internalType":"bool","type":"bool"}],"name":"setListingsManager","outputs":[],"stateMutability":"nonpayable"}]

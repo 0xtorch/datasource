@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"bankType","internalType":"enum IBank.BankType","type":"uint8","indexed":false}],"name":"BankTypeSet"}]

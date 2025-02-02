@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"pool","internalType":"address","type":"address","indexed":true},{"name":"aggregateYieldFeePercentage","internalType":"uint256","type":"uint256","indexed":false}],"name":"AggregateYieldFeePercentageChanged"}]

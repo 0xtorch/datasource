@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_maxlock","internalType":"bool","type":"bool"},{"name":"_ids","internalType":"uint256[]","type":"uint256[]"},{"name":"_poolVote","internalType":"address[]","type":"address[]"},{"name":"_weights","internalType":"uint256[]","type":"uint256[]"}],"name":"voteMultiple","outputs":[],"stateMutability":"nonpayable"}]

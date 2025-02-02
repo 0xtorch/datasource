@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"grantee","internalType":"address","type":"address"},{"name":"newIsGranted","internalType":"bool","type":"bool"}],"name":"setGrantPermission","outputs":[],"stateMutability":"nonpayable"}]

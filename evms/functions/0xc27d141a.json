@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"token","internalType":"address","type":"address"},{"name":"ethAmount","internalType":"uint256","type":"uint256"},{"name":"tokenAmount","internalType":"uint256","type":"uint256"}],"name":"shadow_addLiquidty","outputs":[],"stateMutability":"nonpayable"}]

@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"toggle_flag","type":"bool","indexed":false}],"name":"ToggleAllowCheckpointToken"}]

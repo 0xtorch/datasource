@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"beneficiary","internalType":"address","type":"address"},{"name":"router","internalType":"address","type":"address"},{"name":"token","internalType":"address","type":"address"}],"name":"beneficiarySettlements","outputs":[{"name":"amount","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

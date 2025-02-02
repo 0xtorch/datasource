@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"contra","internalType":"address","type":"address"},{"name":"listed","internalType":"bool","type":"bool"}],"name":"modifyWhitelist","outputs":[],"stateMutability":"nonpayable"}]

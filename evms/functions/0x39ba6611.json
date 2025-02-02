@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"targetChainId","internalType":"uint16","type":"uint16"},{"name":"token","internalType":"address","type":"address"},{"name":"decimals","internalType":"uint8","type":"uint8"}],"name":"calculateRelayerFee","outputs":[{"name":"feeInTokenDenomination","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

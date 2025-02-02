@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"pool","internalType":"address","type":"address","indexed":false},{"name":"feeVault","internalType":"address","type":"address","indexed":false},{"name":"fee","internalType":"uint16","type":"uint16","indexed":false}],"name":"FeeVaultForPool"}]

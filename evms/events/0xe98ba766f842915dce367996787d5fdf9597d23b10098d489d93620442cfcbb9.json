@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"lister","internalType":"address","type":"address","indexed":true},{"name":"status","internalType":"bool","type":"bool","indexed":true}],"name":"ListingsManagerSet"}]

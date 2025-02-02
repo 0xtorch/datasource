@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"burner","internalType":"address","type":"address","indexed":true},{"name":"from","internalType":"address","type":"address","indexed":true},{"name":"ids","internalType":"uint256[]","type":"uint256[]","indexed":false},{"name":"amounts","internalType":"uint256[]","type":"uint256[]","indexed":false}],"name":"BatchBurned"}]

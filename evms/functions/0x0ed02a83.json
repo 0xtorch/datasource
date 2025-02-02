@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_receipt","internalType":"address","type":"address"},{"name":"_amount","internalType":"uint256","type":"uint256"}],"name":"enqueueEntitledRDNT","outputs":[],"stateMutability":"nonpayable"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"","internalType":"address","type":"address"},{"name":"","internalType":"uint256","type":"uint256"}],"name":"accounts","outputs":[{"name":"accountAddress","internalType":"address","type":"address"},{"name":"name","internalType":"string","type":"string"}],"stateMutability":"view"}]

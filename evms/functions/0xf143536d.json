@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"tokenId","internalType":"uint256","type":"uint256"}],"name":"positionsWithdrawalFee","outputs":[{"name":"lastUpdateTimestamp","internalType":"uint32","type":"uint32"},{"name":"withdrawalFeeLiquidity","internalType":"uint128","type":"uint128"}],"stateMutability":"view"}]

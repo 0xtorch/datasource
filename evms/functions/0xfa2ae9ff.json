@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_portfolioManager","internalType":"address","type":"address"},{"name":"_roleManager","internalType":"address","type":"address"},{"name":"_name","internalType":"string","type":"string"}],"name":"setStrategyParams","outputs":[],"stateMutability":"nonpayable"}]

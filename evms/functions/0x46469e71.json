@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"withdrawFee_","internalType":"uint256","type":"uint256"},{"name":"performanceFee_","internalType":"uint256","type":"uint256"}],"name":"_setVaultFees","outputs":[{"name":"","internalType":"uint256","type":"uint256"}],"stateMutability":"nonpayable"}]

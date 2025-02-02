@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"tokenA","internalType":"address","type":"address"},{"name":"tokenB","internalType":"address","type":"address"},{"name":"tickSpacing","internalType":"int24","type":"int24"}],"name":"shadow_getPool","outputs":[{"name":"","internalType":"address","type":"address"}],"stateMutability":"view"}]

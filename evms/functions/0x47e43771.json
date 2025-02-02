@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[],"name":"getBankType","outputs":[{"name":"","internalType":"enum IBank.BankType","type":"uint8"}],"stateMutability":"view"}]

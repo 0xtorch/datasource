@@ -1,0 +1,1 @@
+[{"type":"function","constant":true,"inputs":[{"name":"","internalType":"uint8","type":"uint8"},{"name":"","internalType":"address","type":"address"}],"name":"rewardAccruedSupply","outputs":[{"name":"","internalType":"uint256","type":"uint256"}],"payable":false,"stateMutability":"view"}]

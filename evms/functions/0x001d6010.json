@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_address","internalType":"address[]","type":"address[]"},{"name":"mints","internalType":"uint256[]","type":"uint256[]"},{"name":"bridges","internalType":"uint256[]","type":"uint256[]"}],"name":"addActionsToUsers","outputs":[],"stateMutability":"nonpayable"}]

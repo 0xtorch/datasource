@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"wallet","internalType":"address","type":"address"}],"name":"hasAlreadyMinted","outputs":[{"name":"","internalType":"bool","type":"bool"}],"stateMutability":"view"}]

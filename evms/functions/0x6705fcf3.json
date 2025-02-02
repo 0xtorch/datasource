@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"to","internalType":"address","type":"address"},{"name":"pid","internalType":"uint256","type":"uint256"},{"name":"amount","internalType":"uint256","type":"uint256"}],"name":"createRelicAndDeposit","outputs":[{"name":"id","internalType":"uint256","type":"uint256"}],"stateMutability":"nonpayable"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_tokenId","internalType":"uint256","type":"uint256"},{"name":"_value","internalType":"uint256","type":"uint256"}],"name":"increase_amount_for","outputs":[],"stateMutability":"nonpayable"}]

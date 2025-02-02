@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_token","internalType":"contract IERC20","type":"address"}],"name":"governanceRecoverUnsupported","outputs":[],"stateMutability":"nonpayable"}]

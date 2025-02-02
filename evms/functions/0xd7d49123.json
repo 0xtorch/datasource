@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_data","internalType":"bytes","type":"bytes"}],"name":"participate","outputs":[{"name":"aoTAPTokenID","internalType":"uint256","type":"uint256"}],"stateMutability":"nonpayable"}]

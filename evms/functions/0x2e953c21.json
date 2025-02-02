@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_tokenToDistribute","internalType":"address","type":"address"},{"name":"_amount","internalType":"uint104","type":"uint104"}],"name":"immediateDistribution","outputs":[],"stateMutability":"nonpayable"}]

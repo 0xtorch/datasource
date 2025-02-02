@@ -1,0 +1,1 @@
+[{"type":"function","constant":false,"inputs":[{"name":"rewardType","internalType":"uint8","type":"uint8"},{"name":"newRewardAddress","internalType":"address","type":"address"}],"name":"setRewardAddress","outputs":[],"payable":false,"stateMutability":"nonpayable"}]

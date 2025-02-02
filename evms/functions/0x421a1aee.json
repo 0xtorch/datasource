@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_borrower","internalType":"address","type":"address"}],"name":"maxBorrowShares","outputs":[{"name":"maxShares","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

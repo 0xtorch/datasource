@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_validatorId","internalType":"uint256","type":"uint256"},{"name":"_undelegateAmount","internalType":"uint256","type":"uint256"}],"name":"undelegate","outputs":[{"name":"withdrawId","internalType":"uint256","type":"uint256"}],"stateMutability":"nonpayable"}]

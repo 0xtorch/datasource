@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"minReceived","internalType":"uint256","type":"uint256"}],"name":"depositETHForWrappedTokens","outputs":[{"name":"","internalType":"uint256","type":"uint256"}],"stateMutability":"payable"}]

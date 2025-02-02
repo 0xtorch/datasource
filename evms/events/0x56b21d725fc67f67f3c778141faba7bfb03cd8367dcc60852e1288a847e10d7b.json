@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"owner","internalType":"address","type":"address","indexed":true},{"name":"personalAssetManager","internalType":"address","type":"address","indexed":false}],"name":"PersonalAssetManagerCreated"}]

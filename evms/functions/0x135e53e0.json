@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"pool","internalType":"address","type":"address"},{"name":"fees","internalType":"uint16[]","type":"uint16[]"},{"name":"vaults","internalType":"address[]","type":"address[]"}],"name":"setVaultsForPool","outputs":[],"stateMutability":"nonpayable"}]

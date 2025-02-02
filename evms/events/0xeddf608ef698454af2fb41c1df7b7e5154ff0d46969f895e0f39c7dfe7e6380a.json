@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"hash","internalType":"bytes32","type":"bytes32","indexed":false}],"name":"Claimed"}]

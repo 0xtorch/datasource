@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"withdrawAmount","internalType":"uint256","type":"uint256"}],"name":"_withdrawAdminFees","outputs":[{"name":"","internalType":"uint256","type":"uint256"}],"stateMutability":"nonpayable"}]

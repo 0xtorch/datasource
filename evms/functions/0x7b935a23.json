@@ -1,0 +1,1 @@
+[{"type":"function","gas":185673109,"inputs":[{"name":"_receivers","type":"address[20]"}],"name":"claim_many","outputs":[{"name":"","type":"bool"}],"stateMutability":"nonpayable"}]

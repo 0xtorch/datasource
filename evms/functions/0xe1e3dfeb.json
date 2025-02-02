@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"","internalType":"uint256","type":"uint256"}],"name":"allStrategies","outputs":[{"name":"","internalType":"contract ERC20","type":"address"}],"stateMutability":"view"}]

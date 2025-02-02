@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[],"name":"getAggregateFeePercentages","outputs":[{"name":"aggregateSwapFeePercentage","internalType":"uint256","type":"uint256"},{"name":"aggregateYieldFeePercentage","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

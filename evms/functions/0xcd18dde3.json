@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"eventData","internalType":"bytes","type":"bytes"},{"name":"signature","internalType":"bytes","type":"bytes"}],"name":"finishCollectProtocolFee","outputs":[],"stateMutability":"nonpayable"}]

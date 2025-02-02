@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"_checksum","internalType":"bytes32","type":"bytes32","indexed":false}],"name":"Checksum"}]

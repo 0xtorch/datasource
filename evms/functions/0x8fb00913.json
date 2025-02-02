@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"newFlywheelRewards","internalType":"contract IFlywheelRewards","type":"address"}],"name":"setFlywheelRewards","outputs":[],"stateMutability":"nonpayable"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_ids","internalType":"uint256[]","type":"uint256[]"},{"name":"_tokenIds","internalType":"uint256[]","type":"uint256[]"},{"name":"_owner","internalType":"address","type":"address"},{"name":"_merkleproofs","internalType":"bytes32[][]","type":"bytes32[][]"}],"name":"redeemTickets","outputs":[],"stateMutability":"nonpayable"}]

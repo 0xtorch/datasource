@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_providerAddress","internalType":"contract IAaveProtocolDataProvider","type":"address"}],"name":"setProtocolDataProvider","outputs":[],"stateMutability":"nonpayable"}]

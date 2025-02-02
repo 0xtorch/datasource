@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"client","internalType":"address","type":"address","indexed":true},{"name":"manager","internalType":"address","type":"address","indexed":false},{"name":"when","internalType":"uint256","type":"uint256","indexed":false}],"name":"ManagerSet"}]

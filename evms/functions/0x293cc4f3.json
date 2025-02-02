@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"","internalType":"address","type":"address"}],"name":"streamingFeeInfos","outputs":[{"name":"streamingFeePercentage","internalType":"uint256","type":"uint256"},{"name":"lastStreamingFeeTimestamp","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

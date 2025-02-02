@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"mintAndBurner","internalType":"address","type":"address"}],"name":"revokeMintAndBurnRoles","outputs":[],"stateMutability":"nonpayable"}]

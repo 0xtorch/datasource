@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"sessionIdx","internalType":"uint256","type":"uint256"}],"name":"pauseStatus","outputs":[{"name":"","internalType":"bool","type":"bool"}],"stateMutability":"view"}]

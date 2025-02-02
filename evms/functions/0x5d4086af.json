@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_assets","internalType":"uint256","type":"uint256"},{"name":"_assetType","internalType":"enum ISilo.AssetType","type":"uint8"}],"name":"convertToShares","outputs":[{"name":"shares","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

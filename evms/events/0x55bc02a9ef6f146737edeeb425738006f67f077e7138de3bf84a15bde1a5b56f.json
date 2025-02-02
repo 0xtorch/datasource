@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"messageId","internalType":"bytes32","type":"bytes32","indexed":true},{"name":"reason","internalType":"bytes","type":"bytes","indexed":false}],"name":"MessageFailed"}]

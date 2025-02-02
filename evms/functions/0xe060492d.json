@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_g","internalType":"address[]","type":"address[]"},{"name":"_cg","internalType":"address[]","type":"address[]"}],"name":"setCustomGauge","outputs":[],"stateMutability":"nonpayable"}]

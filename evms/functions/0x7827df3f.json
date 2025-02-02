@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"priceFeed","internalType":"address","type":"address"},{"name":"heartBeat","internalType":"uint256","type":"uint256"}],"name":"setUsdOracle","outputs":[],"stateMutability":"nonpayable"}]

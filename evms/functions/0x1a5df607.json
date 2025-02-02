@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[],"name":"unclaimedDaoFund","outputs":[{"name":"_pending","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_interestRateModel","internalType":"address","type":"address"},{"name":"_daoFee","internalType":"uint256","type":"uint256"},{"name":"_deployerFee","internalType":"uint256","type":"uint256"}],"name":"accrueInterestForConfig","outputs":[],"stateMutability":"nonpayable"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_swapPercentage","internalType":"uint16","type":"uint16"},{"name":"_burnPercentage","internalType":"uint16","type":"uint16"},{"name":"_feePercentage","internalType":"uint16","type":"uint16"}],"name":"setFeePercentages","outputs":[],"stateMutability":"nonpayable"}]

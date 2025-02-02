@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"_asset","internalType":"address","type":"address","indexed":false},{"name":"_feeAmount","internalType":"uint256","type":"uint256","indexed":false}],"name":"EntitledRDNT"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"strategy","internalType":"contract ERC20","type":"address"},{"name":"user","internalType":"address","type":"address"}],"name":"userIndex","outputs":[{"name":"","internalType":"uint224","type":"uint224"}],"stateMutability":"nonpayable"}]

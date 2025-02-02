@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"markets","internalType":"address[]","type":"address[]"},{"name":"accounts","internalType":"address[]","type":"address[]"}],"name":"claimBehalf","outputs":[],"stateMutability":"nonpayable"}]

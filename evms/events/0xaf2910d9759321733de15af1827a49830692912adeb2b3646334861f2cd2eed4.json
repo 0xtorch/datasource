@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"_dripper","internalType":"address","type":"address","indexed":true}],"name":"DripperChanged"}]

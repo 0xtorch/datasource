@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"token","internalType":"address","type":"address"},{"name":"amount","internalType":"uint256","type":"uint256"}],"name":"fakepool_sell","outputs":[{"name":"ethOut","internalType":"uint256","type":"uint256"},{"name":"p","internalType":"uint256","type":"uint256"}],"stateMutability":"nonpayable"}]

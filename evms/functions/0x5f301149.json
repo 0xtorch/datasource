@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_borrower","internalType":"address","type":"address"}],"name":"maxRepay","outputs":[{"name":"assets","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"lTokenId","internalType":"uint256","type":"uint256"},{"name":"bToken","internalType":"address","type":"address"},{"name":"bAmount","internalType":"uint256","type":"uint256"}],"name":"requestAddLiquidity","outputs":[],"stateMutability":"payable"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"chainId_","internalType":"uint16","type":"uint16"},{"name":"token","internalType":"address","type":"address"}],"name":"deregisterToken","outputs":[],"stateMutability":"nonpayable"}]

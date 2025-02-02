@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"stakingToken","internalType":"address","type":"address"},{"name":"_ARBPerSec","internalType":"uint256","type":"uint256"}],"name":"updateEmissionRateFor","outputs":[],"stateMutability":"nonpayable"}]

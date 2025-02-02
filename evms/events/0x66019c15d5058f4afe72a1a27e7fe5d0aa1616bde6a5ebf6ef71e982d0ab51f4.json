@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"swapPercentage","internalType":"uint256","type":"uint256","indexed":false},{"name":"burnPercentage","internalType":"uint256","type":"uint256","indexed":false},{"name":"feePercentage","internalType":"uint256","type":"uint256","indexed":false}],"name":"SetFeePercentages"}]

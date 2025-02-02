@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"lockWallet","internalType":"address","type":"address"},{"name":"receiver","internalType":"address","type":"address"},{"name":"status","internalType":"bool","type":"bool"}],"name":"setLocked","outputs":[],"stateMutability":"nonpayable"}]

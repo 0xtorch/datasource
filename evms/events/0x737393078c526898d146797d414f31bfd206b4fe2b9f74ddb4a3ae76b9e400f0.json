@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"from","internalType":"address","type":"address","indexed":true},{"name":"swapAmount","internalType":"uint256","type":"uint256","indexed":false},{"name":"burnAmount","internalType":"uint256","type":"uint256","indexed":false},{"name":"feeAmount","internalType":"uint256","type":"uint256","indexed":false}],"name":"TakeFee"}]

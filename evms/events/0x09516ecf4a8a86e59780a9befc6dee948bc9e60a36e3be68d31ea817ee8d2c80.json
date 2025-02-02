@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"_to","internalType":"address","type":"address","indexed":false},{"name":"_yield","internalType":"uint256","type":"uint256","indexed":false},{"name":"_fee","internalType":"uint256","type":"uint256","indexed":false}],"name":"YieldDistribution"}]

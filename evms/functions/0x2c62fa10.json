@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_depositor","internalType":"address","type":"address"}],"name":"assetsOf","outputs":[{"name":"","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

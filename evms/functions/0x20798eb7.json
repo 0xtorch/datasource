@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"token","internalType":"address","type":"address"},{"name":"capacity","internalType":"uint256","type":"uint256"}],"name":"registerTransmitterStake","outputs":[],"stateMutability":"payable"}]

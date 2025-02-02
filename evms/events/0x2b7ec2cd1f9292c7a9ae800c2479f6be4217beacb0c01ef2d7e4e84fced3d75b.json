@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"hooksBefore","internalType":"uint24","type":"uint24","indexed":false},{"name":"hooksAfter","internalType":"uint24","type":"uint24","indexed":false}],"name":"HooksUpdated"}]

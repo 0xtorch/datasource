@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"newMarketAllocations","internalType":"struct IBank.MarketAllocation[]","type":"tuple[]","components":[{"name":"id","internalType":"uint256","type":"uint256"},{"name":"allocation","internalType":"uint256","type":"uint256"}],"indexed":false}],"name":"AllocationsUpdated"}]

@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"_oldHarvesterAddress","internalType":"address","type":"address","indexed":false},{"name":"_newHarvesterAddress","internalType":"address","type":"address","indexed":false}],"name":"HarvesterAddressesUpdated"}]

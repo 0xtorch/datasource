@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"borrowRatio","internalType":"uint256","type":"uint256"},{"name":"loopCount","internalType":"uint256","type":"uint256"}],"name":"loopETH","outputs":[],"stateMutability":"payable"}]

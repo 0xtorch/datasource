@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_aoTAPTokenID","internalType":"uint256","type":"uint256"},{"name":"_paymentToken","internalType":"contract ERC20","type":"address"},{"name":"_tapAmount","internalType":"uint256","type":"uint256"}],"name":"exerciseOption","outputs":[],"stateMutability":"nonpayable"}]

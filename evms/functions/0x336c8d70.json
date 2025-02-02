@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_silo","internalType":"contract ISilo","type":"address"},{"name":"_hookReceiver","internalType":"address","type":"address"},{"name":"_tokenType","internalType":"uint24","type":"uint24"}],"name":"initialize","outputs":[],"stateMutability":"nonpayable"}]

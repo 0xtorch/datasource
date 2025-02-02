@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_user","internalType":"address","type":"address"},{"name":"_incentivesProgram","internalType":"string","type":"string"}],"name":"getUserData","outputs":[{"name":"","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

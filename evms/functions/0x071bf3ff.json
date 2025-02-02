@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_owner","internalType":"address","type":"address"},{"name":"_collateralType","internalType":"enum ISilo.CollateralType","type":"uint8"}],"name":"maxRedeem","outputs":[{"name":"maxShares","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

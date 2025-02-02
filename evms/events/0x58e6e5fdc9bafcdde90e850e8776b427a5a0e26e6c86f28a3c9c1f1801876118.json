@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"incentivesProgram","internalType":"string","type":"string","indexed":false},{"name":"newDistributionEnd","internalType":"uint256","type":"uint256","indexed":false}],"name":"DistributionEndUpdated"}]

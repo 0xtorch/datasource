@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_asset","internalType":"address","type":"address"}],"name":"supportsAsset","outputs":[{"name":"","internalType":"bool","type":"bool"}],"stateMutability":"view"}]

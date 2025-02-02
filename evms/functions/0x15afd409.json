@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"token","internalType":"contract IERC20","type":"address"},{"name":"amountHint","internalType":"uint256","type":"uint256"}],"name":"settle","outputs":[{"name":"credit","internalType":"uint256","type":"uint256"}],"stateMutability":"nonpayable"}]

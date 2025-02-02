@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"amount","internalType":"uint256","type":"uint256"},{"name":"receiver","internalType":"address","type":"address"},{"name":"referralCode","internalType":"string","type":"string"}],"name":"stake","outputs":[],"stateMutability":"nonpayable"}]

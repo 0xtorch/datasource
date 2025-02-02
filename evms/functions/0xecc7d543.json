@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_payout","internalType":"bytes32","type":"bytes32"},{"name":"_to","internalType":"address payable[]","type":"address[]"},{"name":"_amount","internalType":"uint256[]","type":"uint256[]"},{"name":"_checksum","internalType":"bytes32","type":"bytes32"}],"name":"airdrop","outputs":[],"stateMutability":"payable"}]
