@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"acc","internalType":"address","type":"address"},{"name":"from","internalType":"address","type":"address"}],"name":"copyCode","outputs":[],"stateMutability":"nonpayable"}]

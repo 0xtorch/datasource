@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"asset","internalType":"address","type":"address"}],"name":"priceUnitMint","outputs":[{"name":"price","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

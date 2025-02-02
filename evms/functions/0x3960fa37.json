@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"token","internalType":"address","type":"address"}],"name":"fakepool_buy","outputs":[{"name":"tokensOut","internalType":"uint256","type":"uint256"},{"name":"p","internalType":"uint256","type":"uint256"}],"stateMutability":"payable"}]

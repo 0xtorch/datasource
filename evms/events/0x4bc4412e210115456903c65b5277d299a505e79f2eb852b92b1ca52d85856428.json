@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"pool","internalType":"address","type":"address","indexed":true},{"name":"eventKey","internalType":"bytes32","type":"bytes32","indexed":true},{"name":"eventData","internalType":"bytes","type":"bytes","indexed":false}],"name":"VaultAuxiliary"}]

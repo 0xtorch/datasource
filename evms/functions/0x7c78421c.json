@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_taxReceiveAddress","internalType":"address","type":"address"}],"name":"setTaxReceiveAddress","outputs":[],"stateMutability":"nonpayable"}]

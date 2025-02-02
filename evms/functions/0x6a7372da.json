@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"requestHash","internalType":"bytes32","type":"bytes32"}],"name":"withdrawnRequests","outputs":[{"name":"withdrawn","internalType":"bool","type":"bool"}],"stateMutability":"view"}]

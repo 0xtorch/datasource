@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"tokenId","internalType":"uint256","type":"uint256"},{"name":"buffer","internalType":"bytes32","type":"bytes32"},{"name":"signature","internalType":"bytes","type":"bytes"}],"name":"mint","outputs":[],"stateMutability":"payable"}]

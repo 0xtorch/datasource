@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_pools","internalType":"address[]","type":"address[]"},{"name":"_b","internalType":"bool[]","type":"bool[]"}],"name":"setUnvotablePools","outputs":[],"stateMutability":"nonpayable"}]

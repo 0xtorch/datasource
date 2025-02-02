@@ -1,1 +1,1 @@
-[{"type":"event","anonymous":false,"inputs":[{"name":"priceProvider","internalType":"contract IPriceProvider","type":"address","indexed":true}],"name":"PriceProviderUpdated"}]
+[{"type":"event","anonymous":false,"inputs":[{"name":"priceProvider","internalType":"contract IPriceProvider","type":"address","indexed":true}],"name":"PriceProviderUpdated"},{"type":"event","anonymous":false,"inputs":[{"name":"_priceProvider","internalType":"address","type":"address","indexed":false}],"name":"PriceProviderUpdated"}]

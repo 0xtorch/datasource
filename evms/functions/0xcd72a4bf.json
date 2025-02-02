@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_incentivesProgram","internalType":"string","type":"string"},{"name":"_distributionEnd","internalType":"uint40","type":"uint40"}],"name":"setDistributionEnd","outputs":[],"stateMutability":"nonpayable"}]

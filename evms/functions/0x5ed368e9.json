@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_from","internalType":"bytes32","type":"bytes32"},{"name":"_to","internalType":"address","type":"address"},{"name":"_amount","internalType":"uint256","type":"uint256"},{"name":"_extraData","internalType":"bytes","type":"bytes"}],"name":"finalizeETHWithdrawal","outputs":[],"stateMutability":"payable"}]

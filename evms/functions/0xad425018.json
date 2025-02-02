@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_pools","internalType":"address[]","type":"address[]"}],"name":"createGaugeMultiple","outputs":[{"name":"","internalType":"address[]","type":"address[]"}],"stateMutability":"nonpayable"}]

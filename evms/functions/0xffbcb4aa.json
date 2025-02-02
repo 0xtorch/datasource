@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"hash","internalType":"bytes32","type":"bytes32"}],"name":"isRegisteredOrderAdditionalDataHash","outputs":[{"name":"isRegistered","internalType":"bool","type":"bool"}],"stateMutability":"view"}]

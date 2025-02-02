@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"recipients","internalType":"address[][]","type":"address[][]"},{"name":"balances","internalType":"uint256[][]","type":"uint256[][]"},{"name":"ids","internalType":"uint256[]","type":"uint256[]"},{"name":"supplies","internalType":"uint256[]","type":"uint256[]"}],"name":"batchMint","outputs":[],"stateMutability":"nonpayable"}]

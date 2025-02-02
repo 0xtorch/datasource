@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"","internalType":"uint256","type":"uint256"}],"name":"marketAllocations","outputs":[{"name":"id","internalType":"uint256","type":"uint256"},{"name":"allocation","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

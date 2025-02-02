@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"token","internalType":"address","type":"address"},{"name":"amount","internalType":"uint256","type":"uint256"},{"name":"ethOut","internalType":"bool","type":"bool"}],"name":"fakepool_quote","outputs":[{"name":"","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

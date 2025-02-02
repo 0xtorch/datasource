@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"destination","internalType":"address","type":"address"},{"name":"amount","internalType":"uint256","type":"uint256"}],"name":"creditUserProfit","outputs":[],"stateMutability":"nonpayable"}]

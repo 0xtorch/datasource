@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"_sessionIdx","internalType":"uint256","type":"uint256","indexed":true},{"name":"_sessionAddress","internalType":"address","type":"address","indexed":true}],"name":"SessionEnded"}]

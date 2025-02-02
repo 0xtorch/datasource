@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_tos","internalType":"address[]","type":"address[]"},{"name":"_amounts","internalType":"uint256[]","type":"uint256[]"}],"name":"OwnerDoMints","outputs":[],"stateMutability":"nonpayable"}]

@@ -1,0 +1,1 @@
+[{"type":"function","constant":false,"inputs":[{"name":"newRewardAddress","internalType":"address","type":"address"}],"name":"addRewardAddress","outputs":[],"payable":false,"stateMutability":"nonpayable"}]

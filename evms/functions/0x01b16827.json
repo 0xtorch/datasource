@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_rewardYield","internalType":"uint256","type":"uint256"},{"name":"_rewardYieldDenominator","internalType":"uint256","type":"uint256"}],"name":"setRewardYield","outputs":[],"stateMutability":"nonpayable"}]

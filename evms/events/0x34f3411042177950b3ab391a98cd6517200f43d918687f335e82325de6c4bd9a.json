@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"who","internalType":"address","type":"address","indexed":true},{"name":"can","internalType":"bool","type":"bool","indexed":false}],"name":"SetExec"}]

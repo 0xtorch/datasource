@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_rewardTokenAddresses","internalType":"address[]","type":"address[]"}],"name":"setRewardTokenAddresses","outputs":[],"stateMutability":"nonpayable"}]

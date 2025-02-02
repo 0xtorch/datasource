@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"","internalType":"uint256","type":"uint256"}],"name":"rateAtTarget","outputs":[{"name":"","internalType":"int256","type":"int256"}],"stateMutability":"view"}]

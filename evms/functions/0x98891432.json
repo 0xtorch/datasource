@@ -1,0 +1,1 @@
+[{"type":"function","constant":false,"inputs":[{"name":"_controllerFeeAddress","internalType":"address","type":"address"}],"name":"setControllerFeeAddress","outputs":[],"payable":false,"stateMutability":"nonpayable"}]

@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"diff","internalType":"bytes","type":"bytes","indexed":false}],"name":"UpdateNetworkRules"}]

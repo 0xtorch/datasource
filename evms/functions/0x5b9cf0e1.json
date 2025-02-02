@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"chainId_","internalType":"uint16","type":"uint16"},{"name":"amount","internalType":"uint256","type":"uint256"}],"name":"updateRelayerFee","outputs":[],"stateMutability":"nonpayable"}]

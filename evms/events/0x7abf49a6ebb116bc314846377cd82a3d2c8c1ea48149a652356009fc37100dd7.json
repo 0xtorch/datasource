@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"swapRates","internalType":"struct TokenBridgeRelayerStructs.SwapRateUpdate[]","type":"tuple[]","components":[{"name":"token","internalType":"address","type":"address"},{"name":"value","internalType":"uint256","type":"uint256"}],"indexed":true}],"name":"SwapRateUpdated"}]

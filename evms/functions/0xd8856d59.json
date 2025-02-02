@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"id","internalType":"uint256","type":"uint256"},{"name":"assets","internalType":"uint256","type":"uint256"},{"name":"withdrawer","internalType":"address","type":"address"},{"name":"receiver","internalType":"address","type":"address"}],"name":"withdrawCollateralFor","outputs":[],"stateMutability":"nonpayable"}]

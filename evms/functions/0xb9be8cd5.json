@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"fromId","internalType":"uint256","type":"uint256"},{"name":"toId","internalType":"uint256","type":"uint256"},{"name":"amount","internalType":"uint256","type":"uint256"}],"name":"shift","outputs":[],"stateMutability":"nonpayable"}]

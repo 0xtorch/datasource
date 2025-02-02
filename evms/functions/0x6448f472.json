@@ -1,0 +1,1 @@
+[{"type":"function","constant":false,"inputs":[{"name":"cToken","internalType":"address","type":"address"},{"name":"borrower","internalType":"address","type":"address"},{"name":"_marketBorrowIndex","internalType":"uint256","type":"uint256"}],"name":"updateAndDistributeBorrowerRewardsForToken","outputs":[],"payable":false,"stateMutability":"nonpayable"}]

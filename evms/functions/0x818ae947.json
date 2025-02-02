@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"tokenId","internalType":"uint256","type":"uint256"},{"name":"owner","internalType":"address","type":"address"}],"name":"renderTokenURI","outputs":[{"name":"baseRenderURI","internalType":"string","type":"string"},{"name":"parameters","internalType":"string[]","type":"string[]"}],"stateMutability":"view"}]

@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"pool","internalType":"address","type":"address","indexed":true},{"name":"recoveryMode","internalType":"bool","type":"bool","indexed":false}],"name":"PoolRecoveryModeStateChanged"}]

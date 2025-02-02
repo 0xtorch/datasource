@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"sender","internalType":"address","type":"address","indexed":false},{"name":"contractAddress","internalType":"address","type":"address","indexed":false}],"name":"DeployContract"}]

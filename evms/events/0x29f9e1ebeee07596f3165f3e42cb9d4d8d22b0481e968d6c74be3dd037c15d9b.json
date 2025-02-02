@@ -1,1 +1,1 @@
-[{"type":"event","anonymous":false,"inputs":[{"name":"farmingCenter","internalType":"address","type":"address","indexed":true}],"name":"FarmingCenter"}]
+[{"type":"event","anonymous":false,"inputs":[{"name":"farmingCenter","internalType":"address","type":"address","indexed":true}],"name":"FarmingCenter"},{"type":"event","anonymous":false,"inputs":[{"name":"farmingCenterAddress","internalType":"address","type":"address","indexed":false}],"name":"FarmingCenter"}]

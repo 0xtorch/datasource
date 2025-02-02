@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"_stakingToken","internalType":"address","type":"address","indexed":false},{"name":"_arbPersec","internalType":"uint256","type":"uint256","indexed":false},{"name":"_masterChef","internalType":"address","type":"address","indexed":false}],"name":"registeredPool"}]

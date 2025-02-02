@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"messageId","internalType":"bytes32","type":"bytes32"}],"name":"getMessageErrorCode","outputs":[{"name":"errorCode","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

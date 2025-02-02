@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"newFeeRecipient","internalType":"address","type":"address"},{"name":"delay","internalType":"uint256","type":"uint256"}],"name":"scheduleSetFeeRecipient","outputs":[],"stateMutability":"nonpayable"}]

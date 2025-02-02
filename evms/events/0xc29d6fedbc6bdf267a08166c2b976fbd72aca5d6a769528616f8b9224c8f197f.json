@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"_threshold","internalType":"uint256","type":"uint256","indexed":false}],"name":"NetOusdMintForStrategyThresholdChanged"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_tapOracle","internalType":"contract ITapiocaOracle","type":"address"},{"name":"_tapOracleData","internalType":"bytes","type":"bytes"}],"name":"setTapOracle","outputs":[],"stateMutability":"nonpayable"}]

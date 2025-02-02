@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"chainId_","internalType":"uint16","type":"uint16"},{"name":"swapRatePrecision_","internalType":"uint256","type":"uint256"}],"name":"updateSwapRatePrecision","outputs":[],"stateMutability":"nonpayable"}]

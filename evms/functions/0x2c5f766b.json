@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_to","internalType":"bytes32","type":"bytes32"},{"name":"_minGasLimit","internalType":"uint32","type":"uint32"},{"name":"_extraData","internalType":"bytes","type":"bytes"}],"name":"bridgeETHTo","outputs":[],"stateMutability":"payable"}]

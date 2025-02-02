@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"messageId","internalType":"bytes32","type":"bytes32"},{"name":"receiver","internalType":"address","type":"address"}],"name":"retryFailedMessage","outputs":[],"stateMutability":"nonpayable"}]

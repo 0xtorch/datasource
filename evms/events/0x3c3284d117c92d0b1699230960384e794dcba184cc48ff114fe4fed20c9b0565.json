@@ -1,1 +1,1 @@
-[{"type":"event","anonymous":false,"inputs":[{"name":"_to","internalType":"address","type":"address","indexed":false}],"name":"Mint"}]
+[{"type":"event","anonymous":false,"inputs":[{"name":"_to","internalType":"address","type":"address","indexed":false}],"name":"Mint"},{"type":"event","anonymous":false,"inputs":[{"name":"to","internalType":"address","type":"address","indexed":true}],"name":"Mint"}]

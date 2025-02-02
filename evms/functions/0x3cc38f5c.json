@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"owner","internalType":"address","type":"address"},{"name":"_threshold","internalType":"uint256","type":"uint256"}],"name":"addOwner","outputs":[],"stateMutability":"nonpayable"}]

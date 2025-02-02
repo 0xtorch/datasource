@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"domain","internalType":"uint32","type":"uint32"},{"name":"gas","internalType":"uint256","type":"uint256"}],"name":"setGas","outputs":[],"stateMutability":"nonpayable"}]

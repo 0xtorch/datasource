@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[],"name":"getCollateralAndDebtTotalsStorage","outputs":[{"name":"totalCollateralAssets","internalType":"uint256","type":"uint256"},{"name":"totalDebtAssets","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

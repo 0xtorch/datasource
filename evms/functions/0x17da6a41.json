@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"numberOfTokens","internalType":"uint256","type":"uint256"},{"name":"merkleProof","internalType":"bytes32[]","type":"bytes32[]"}],"name":"TGmayaListMint","outputs":[],"stateMutability":"payable"}]

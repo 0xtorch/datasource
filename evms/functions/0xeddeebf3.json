@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"user","internalType":"address","type":"address"},{"name":"poolPrice","internalType":"uint256","type":"uint256"}],"name":"getUserValueInTokenY","outputs":[{"name":"amountY","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

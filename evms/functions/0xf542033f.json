@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_n","internalType":"string","type":"string"},{"name":"_s","internalType":"string","type":"string"},{"name":"_recipient","internalType":"address","type":"address"},{"name":"_im","internalType":"uint256","type":"uint256"}],"name":"initialize","outputs":[],"stateMutability":"nonpayable"}]

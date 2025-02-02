@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"degen","internalType":"address","type":"address"}],"name":"pfp","outputs":[{"name":"","internalType":"string","type":"string"}],"stateMutability":"view"}]

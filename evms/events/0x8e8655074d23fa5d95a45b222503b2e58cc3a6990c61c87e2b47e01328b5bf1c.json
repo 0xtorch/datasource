@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"degen","internalType":"address","type":"address","indexed":false},{"name":"xp","internalType":"uint256","type":"uint256","indexed":false},{"name":"totalXp","internalType":"uint256","type":"uint256","indexed":false}],"name":"XP"}]

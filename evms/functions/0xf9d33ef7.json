@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_gifter","internalType":"address","type":"address"},{"name":"_status","internalType":"bool","type":"bool"}],"name":"allowETHGifter","outputs":[],"stateMutability":"nonpayable"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_performanceFee","internalType":"uint256","type":"uint256"},{"name":"_feeRecipient","internalType":"address","type":"address"}],"name":"updateFeeSettings","outputs":[],"stateMutability":"nonpayable"}]

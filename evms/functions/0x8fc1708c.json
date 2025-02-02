@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_storage","internalType":"address","type":"address"},{"name":"_underlying","internalType":"address","type":"address"},{"name":"_toInvestNumerator","internalType":"uint256","type":"uint256"},{"name":"_toInvestDenominator","internalType":"uint256","type":"uint256"}],"name":"initializeVault","outputs":[],"stateMutability":"nonpayable"}]

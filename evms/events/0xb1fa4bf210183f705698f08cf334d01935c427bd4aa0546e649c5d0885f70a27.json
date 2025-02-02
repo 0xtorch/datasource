@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"withdrawalHash","internalType":"bytes32","type":"bytes32","indexed":true},{"name":"from","internalType":"bytes32","type":"bytes32","indexed":true},{"name":"to","internalType":"address","type":"address","indexed":true}],"name":"WithdrawalProven"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_poolTokenList","internalType":"address[]","type":"address[]"},{"name":"_lastSeenClaimableRDNT","internalType":"uint256","type":"uint256"},{"name":"_updatedClamable","internalType":"uint256","type":"uint256"}],"name":"enqueueRDNT","outputs":[],"stateMutability":"nonpayable"}]

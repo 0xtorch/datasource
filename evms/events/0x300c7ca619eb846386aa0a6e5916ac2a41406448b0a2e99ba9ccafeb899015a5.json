@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"paused","internalType":"bool","type":"bool","indexed":false}],"name":"VaultBuffersPausedStateChanged"}]

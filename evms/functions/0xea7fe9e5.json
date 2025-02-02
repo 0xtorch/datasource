@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"newFeeRate","internalType":"uint256","type":"uint256"}],"name":"setFlashLoanFeeRate","outputs":[],"stateMutability":"nonpayable"}]

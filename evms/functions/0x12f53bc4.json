@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_taskId","internalType":"uint256","type":"uint256"}],"name":"hasDeposited","outputs":[{"name":"","internalType":"bool","type":"bool"}],"stateMutability":"view"}]

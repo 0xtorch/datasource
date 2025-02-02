@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"newAuxTwapPeriod","internalType":"uint32","type":"uint32"}],"name":"setAuxTwapPeriod","outputs":[],"stateMutability":"nonpayable"}]

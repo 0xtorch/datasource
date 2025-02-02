@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"amount","internalType":"uint256","type":"uint256"},{"name":"isDecrease","internalType":"bool","type":"bool"}],"name":"updateOpenInterest","outputs":[],"stateMutability":"nonpayable"}]

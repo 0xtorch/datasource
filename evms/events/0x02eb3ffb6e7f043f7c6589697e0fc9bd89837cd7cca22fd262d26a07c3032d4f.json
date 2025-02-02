@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"account","internalType":"address","type":"address","indexed":false},{"name":"status","internalType":"bool","type":"bool","indexed":false},{"name":"operationId","internalType":"bytes32","type":"bytes32","indexed":true}],"name":"WhitelistUpdateCancelled"}]

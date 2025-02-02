@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"walletAddress","internalType":"address","type":"address","indexed":true}],"name":"KeyChanged"}]

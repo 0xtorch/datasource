@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_minDepositTime","internalType":"uint256","type":"uint256"},{"name":"_utilizationMultiplier","internalType":"uint256","type":"uint256"},{"name":"_maxCap","internalType":"uint256","type":"uint256"},{"name":"_withdrawFee","internalType":"uint256","type":"uint256"}],"name":"setParams","outputs":[],"stateMutability":"nonpayable"}]

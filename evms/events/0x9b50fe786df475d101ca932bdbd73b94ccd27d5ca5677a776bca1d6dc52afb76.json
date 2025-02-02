@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"oracle","internalType":"contract ITapiocaOracle","type":"address","indexed":false},{"name":"oracleData","internalType":"bytes","type":"bytes","indexed":false}],"name":"SetTapOracle"}]

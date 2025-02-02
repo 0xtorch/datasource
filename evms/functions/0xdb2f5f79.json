@@ -1,0 +1,1 @@
+[{"type":"function","gas":6881,"inputs":[{"name":"_coin","type":"address"}],"name":"recover_balance","outputs":[{"name":"","type":"bool"}],"stateMutability":"nonpayable"}]

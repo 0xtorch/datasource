@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_hooksBefore","internalType":"uint24","type":"uint24"},{"name":"_hooksAfter","internalType":"uint24","type":"uint24"}],"name":"synchronizeHooks","outputs":[],"stateMutability":"nonpayable"}]

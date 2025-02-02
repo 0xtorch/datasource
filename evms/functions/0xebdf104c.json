@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"offlineTimes","internalType":"uint256[]","type":"uint256[]"},{"name":"offlineBlocks","internalType":"uint256[]","type":"uint256[]"},{"name":"uptimes","internalType":"uint256[]","type":"uint256[]"},{"name":"originatedTxsFee","internalType":"uint256[]","type":"uint256[]"}],"name":"sealEpoch","outputs":[],"stateMutability":"nonpayable"}]

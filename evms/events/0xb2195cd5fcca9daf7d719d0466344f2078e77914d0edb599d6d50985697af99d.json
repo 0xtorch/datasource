@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"feeAmount","internalType":"uint256","type":"uint256","indexed":false},{"name":"feeShares","internalType":"uint256","type":"uint256","indexed":false}],"name":"FeeAccrued"}]

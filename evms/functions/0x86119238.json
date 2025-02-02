@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_userAddress","internalType":"address","type":"address"}],"name":"getClaimAmt","outputs":[{"name":"","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

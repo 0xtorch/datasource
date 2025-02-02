@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_vPrimeController","internalType":"contract IVPrimeController","type":"address"}],"name":"setVPrimeControllerAddress","outputs":[],"stateMutability":"nonpayable"}]

@@ -1,0 +1,1 @@
+[{"type":"function","gas":1906,"inputs":[{"name":"arg0","type":"address"}],"name":"user_epoch_of","outputs":[{"name":"","type":"uint256"}],"stateMutability":"view"}]

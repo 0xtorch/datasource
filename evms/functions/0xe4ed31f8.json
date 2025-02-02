@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_paymentToken","internalType":"contract ERC20","type":"address"},{"name":"_oracle","internalType":"contract ITapiocaOracle","type":"address"},{"name":"_oracleData","internalType":"bytes","type":"bytes"}],"name":"setPaymentToken","outputs":[],"stateMutability":"nonpayable"}]

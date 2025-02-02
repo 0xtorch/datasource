@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"pTokenId","internalType":"uint256","type":"uint256"},{"name":"symbolId","internalType":"bytes32","type":"bytes32"},{"name":"tradeParams","internalType":"int256[]","type":"int256[]"}],"name":"requestTrade","outputs":[],"stateMutability":"payable"}]

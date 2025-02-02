@@ -1,1 +1,1 @@
-[{"type":"event","anonymous":false,"inputs":[{"name":"newAdmin","internalType":"address","type":"address","indexed":false}],"name":"AdminUpdated"}]
+[{"type":"event","anonymous":false,"inputs":[{"name":"newAdmin","internalType":"address","type":"address","indexed":false}],"name":"AdminUpdated"},{"type":"event","anonymous":false,"inputs":[{"name":"_configurator","internalType":"address","type":"address","indexed":true}],"name":"AdminUpdated"}]

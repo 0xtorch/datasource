@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"who","internalType":"address","type":"address"},{"name":"can","internalType":"bool","type":"bool"}],"name":"setExec","outputs":[],"stateMutability":"nonpayable"}]

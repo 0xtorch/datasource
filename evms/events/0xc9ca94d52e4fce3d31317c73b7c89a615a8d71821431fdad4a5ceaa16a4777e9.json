@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"message","internalType":"string","type":"string","indexed":false}],"name":"LogException"}]

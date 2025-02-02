@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"from","internalType":"address","type":"address","indexed":true},{"name":"claimed0","internalType":"uint256","type":"uint256","indexed":false},{"name":"claimed1","internalType":"uint256","type":"uint256","indexed":false}],"name":"ClaimVotingFees"}]

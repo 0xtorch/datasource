@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"factory","internalType":"contract ILiquidityGaugeFactory","type":"address"}],"name":"addGaugeFactory","outputs":[],"stateMutability":"nonpayable"}]

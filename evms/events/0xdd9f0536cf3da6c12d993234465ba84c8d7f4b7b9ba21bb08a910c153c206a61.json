@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"daoFees","internalType":"uint256","type":"uint256","indexed":false},{"name":"deployerFees","internalType":"uint256","type":"uint256","indexed":false}],"name":"WithdrawnFeed"}]

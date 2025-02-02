@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"toAdd","internalType":"address[]","type":"address[]"},{"name":"toRemove","internalType":"address[]","type":"address[]"}],"name":"updateApprovalAddresses","outputs":[],"stateMutability":"nonpayable"}]

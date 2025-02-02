@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_owner","internalType":"address","type":"address"},{"name":"tokens","internalType":"address[]","type":"address[]"}],"name":"getRewardForAddress","outputs":[],"stateMutability":"nonpayable"}]

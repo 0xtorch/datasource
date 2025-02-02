@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_strategy","internalType":"address","type":"address"},{"name":"_cap","internalType":"uint256","type":"uint256"}],"name":"setStrategyCap","outputs":[],"stateMutability":"nonpayable"}]
