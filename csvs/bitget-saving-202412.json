@@ -81,5 +81,9 @@
         ]
       }
     ]
+  },
+  "symbolAssetMap": {
+    "BGBTC": "crypto/0xtorch-bitget-bgbtc",
+    "BGSOL": "crypto/0xtorch-bitget-bgsol"
   }
 }
