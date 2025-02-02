@@ -1,5 +1,5 @@
 {
-  "id": "bitbank-spot-trade-rev2",
+  "id": "bitbank-trade",
   "service": "bitbank",
   "formatter": {
     "取引id": ["string"],
@@ -44,7 +44,7 @@
               "type": "join",
               "values": [
                 { "type": "service" },
-                "_spot-trade_",
+                "_trade_",
                 {
                   "type": "cell",
                   "column": "取引id"
