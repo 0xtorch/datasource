@@ -353,6 +353,15 @@
     "transfers": []
   },
   {
+    "source": "bitget_spot_1257705174698098688",
+    "order": 0,
+    "type": "ignore",
+    "timestamp": 1735586266000,
+    "evidence": "system-rule",
+    "comment": "type: Deposit frozen / coin: ETH / amount: \"0.004986554449\"",
+    "transfers": []
+  },
+  {
     "source": "bitget_spot_1257671158543806508",
     "order": 0,
     "type": "ignore",
@@ -504,6 +513,49 @@
     ]
   },
   {
+    "source": "bitget_spot_1257971342523850752",
+    "order": 0,
+    "type": "gift",
+    "timestamp": 1735649664000,
+    "evidence": "none",
+    "comment": "type: Fiat / coin: USDT / amount: \"35.0993\"",
+    "transfers": [
+      {
+        "direction": "in",
+        "asset": {
+          "type": "CryptoCurrency",
+          "id": "tether",
+          "name": "Tether",
+          "symbol": "usdt",
+          "icon": "https://coin-images.coingecko.com/coins/images/325/large/Tether.png?1696501661",
+          "market": { "coingeckoId": "tether", "marketCapUsd": 119675340267 },
+          "updatedAt": 1728782536762
+        },
+        "amount": "35.0993"
+      }
+    ]
+  },
+  {
+    "source": "bitget_spot_1257971342523850752",
+    "order": 1,
+    "type": "fee",
+    "timestamp": 1735649660000,
+    "evidence": "none",
+    "comment": "type: Fiat / coin: EUR / amount: \"-34.26\"",
+    "transfers": [
+      {
+        "direction": "out",
+        "asset": {
+          "type": "FiatCurrency",
+          "id": "eur",
+          "symbol": "EUR",
+          "name": "Euro"
+        },
+        "amount": "34.26"
+      }
+    ]
+  },
+  {
     "source": "bitget_spot_1257991967251460099",
     "order": 0,
     "type": "ignore",
@@ -549,10 +601,7 @@
           "name": "Solana",
           "symbol": "sol",
           "icon": "https://coin-images.coingecko.com/coins/images/4128/large/solana.png?1718769756",
-          "market": {
-            "coingeckoId": "solana",
-            "marketCapUsd": 68524624957
-          },
+          "market": { "coingeckoId": "solana", "marketCapUsd": 68524624957 },
           "updatedAt": 1728782536762
         },
         "amount": "0.04"
@@ -596,10 +645,7 @@
           "name": "Bitcoin",
           "symbol": "btc",
           "icon": "https://coin-images.coingecko.com/coins/images/1/large/bitcoin.png?1696501400",
-          "market": {
-            "coingeckoId": "bitcoin",
-            "marketCapUsd": 1242823480668
-          },
+          "market": { "coingeckoId": "bitcoin", "marketCapUsd": 1242823480668 },
           "updatedAt": 1728782536762
         },
         "amount": "0.001"
