@@ -1,0 +1,5 @@
+{
+  "address": "0xf831b87ae48fda069c370c9d0f563aae9081ed85",
+  "label": "N2MERC721Upgradeable",
+  "abi": "[{\"inputs\":[{\"internalType\":\"address\",\"name\":\"factoryAddress\",\"type\":\"address\"}],\"stateMutability\":\"nonpayable\",\"type\":\"constructor\"},{\"stateMutability\":\"payable\",\"type\":\"fallback\"},{\"inputs\":[],\"name\":\"n2mVersions\",\"outputs\":[{\"internalType\":\"uint256\",\"name\":\"implementationVersion\",\"type\":\"uint256\"},{\"internalType\":\"uint256\",\"name\":\"beaconVersion\",\"type\":\"uint256\"}],\"stateMutability\":\"view\",\"type\":\"function\"},{\"stateMutability\":\"payable\",\"type\":\"receive\"}]"
+}

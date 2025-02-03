@@ -1,0 +1,5 @@
+{
+  "address": "0xe7d96684a56e60ffbaae0fc0683879da48dab383",
+  "label": "PoolDiamond",
+  "abi": "[{\"inputs\":[{\"internalType\":\"address\",\"name\":\"diamondCutFacet\",\"type\":\"address\"},{\"internalType\":\"contract PLP\",\"name\":\"plp\",\"type\":\"address\"},{\"internalType\":\"contract PoolOracle\",\"name\":\"poolOracle\",\"type\":\"address\"}],\"stateMutability\":\"payable\",\"type\":\"constructor\"},{\"stateMutability\":\"payable\",\"type\":\"fallback\"},{\"stateMutability\":\"payable\",\"type\":\"receive\"}]"
+}
