@@ -1,0 +1,5 @@
+{
+  "address": "0xfb3b755be8647589f03c5f647556d7e35db9438b",
+  "label": "FundingRateFacet",
+  "abi": "[{\"anonymous\":false,\"inputs\":[{\"indexed\":false,\"internalType\":\"address\",\"name\":\"token\",\"type\":\"address\"},{\"indexed\":false,\"internalType\":\"uint256\",\"name\":\"sumBorrowingRate\",\"type\":\"uint256\"}],\"name\":\"UpdateBorrowingRate\",\"type\":\"event\"},{\"anonymous\":false,\"inputs\":[{\"indexed\":false,\"internalType\":\"address\",\"name\":\"token\",\"type\":\"address\"},{\"indexed\":false,\"internalType\":\"int256\",\"name\":\"sumRateLong\",\"type\":\"int256\"},{\"indexed\":false,\"internalType\":\"int256\",\"name\":\"sumRateShort\",\"type\":\"int256\"}],\"name\":\"UpdateFundingRate\",\"type\":\"event\"},{\"inputs\":[{\"internalType\":\"address\",\"name\":\"collateralToken\",\"type\":\"address\"},{\"internalType\":\"address\",\"name\":\"indexToken\",\"type\":\"address\"}],\"name\":\"updateFundingRate\",\"outputs\":[],\"stateMutability\":\"nonpayable\",\"type\":\"function\"}]"
+}
