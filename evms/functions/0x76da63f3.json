@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"fnftId","internalType":"uint256","type":"uint256"},{"name":"proportions","internalType":"uint256[]","type":"uint256[]"},{"name":"quantity","internalType":"uint256","type":"uint256"},{"name":"caller","internalType":"address","type":"address"}],"name":"handleSplitOperation","outputs":[],"stateMutability":"nonpayable"}]

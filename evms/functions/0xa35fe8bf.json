@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_to","internalType":"address","type":"address"},{"name":"_data","internalType":"bytes","type":"bytes"}],"name":"anyFallback","outputs":[],"stateMutability":"nonpayable"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"token","internalType":"address","type":"address"}],"name":"shortSizeOf","outputs":[{"name":"","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

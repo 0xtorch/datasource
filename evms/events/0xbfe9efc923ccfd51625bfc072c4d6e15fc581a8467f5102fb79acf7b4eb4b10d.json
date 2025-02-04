@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"_tokenAddress","internalType":"address","type":"address","indexed":false},{"name":"_amt","internalType":"uint256","type":"uint256","indexed":false},{"name":"_adr","internalType":"address","type":"address","indexed":false}],"name":"AdminTokenRecovery"}]

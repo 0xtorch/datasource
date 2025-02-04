@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_callers","internalType":"address[]","type":"address[]"},{"name":"_chainIds","internalType":"uint256[]","type":"uint256[]"},{"name":"_areAllowed","internalType":"bool[]","type":"bool[]"}],"name":"setupAllowedCallers","outputs":[],"stateMutability":"nonpayable"}]

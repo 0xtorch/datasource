@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"newPoolOracle","internalType":"contract PoolOracle","type":"address"}],"name":"setPoolOracle","outputs":[],"stateMutability":"nonpayable"}]

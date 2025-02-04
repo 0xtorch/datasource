@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"newWallet","internalType":"address","type":"address"}],"name":"updateStakingWallet","outputs":[],"stateMutability":"nonpayable"}]

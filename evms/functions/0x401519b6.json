@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_pid","internalType":"uint256","type":"uint256"},{"name":"_allocPoint","internalType":"uint64","type":"uint64"},{"name":"_update","internalType":"bool","type":"bool"}],"name":"set","outputs":[],"stateMutability":"nonpayable"}]

@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"account","internalType":"address","type":"address","indexed":true},{"name":"amount","internalType":"uint256","type":"uint256","indexed":false},{"name":"bindaddr","internalType":"string","type":"string","indexed":false}],"name":"LogSwapout"}]

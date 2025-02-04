@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_maxActiveOfferCount","internalType":"uint256","type":"uint256"},{"name":"_minVaultVersion","internalType":"uint256","type":"uint256"}],"name":"setMaxActiveOfferCountAndMinVaultVersion","outputs":[],"stateMutability":"nonpayable"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_marketplaceId","internalType":"uint256","type":"uint256"},{"name":"_bid","internalType":"uint128","type":"uint128"}],"name":"makeBid","outputs":[],"stateMutability":"payable"}]

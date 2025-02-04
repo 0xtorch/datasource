@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_maxBundleNumber","internalType":"uint128","type":"uint128"},{"name":"_enable","internalType":"bool","type":"bool"}],"name":"setBundles","outputs":[],"stateMutability":"nonpayable"}]

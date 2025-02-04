@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_minDuration","internalType":"uint256","type":"uint256"},{"name":"_maxDuration","internalType":"uint256","type":"uint256"}],"name":"setOfferDuration","outputs":[],"stateMutability":"nonpayable"}]

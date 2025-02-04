@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"fnftId","internalType":"uint256","type":"uint256"},{"name":"","internalType":"address","type":"address"},{"name":"owner","internalType":"address payable","type":"address"},{"name":"","internalType":"uint256","type":"uint256"}],"name":"receiveRevestOutput","outputs":[],"stateMutability":"nonpayable"}]

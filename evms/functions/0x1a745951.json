@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_marketplaceIds","internalType":"uint256[]","type":"uint256[]"}],"name":"cancelSaleBatch","outputs":[],"stateMutability":"nonpayable"}]

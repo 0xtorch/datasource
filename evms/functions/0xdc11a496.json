@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_admin","internalType":"address","type":"address"},{"name":"validAdmin","internalType":"bool","type":"bool"}],"name":"changeAdmin","outputs":[],"stateMutability":"nonpayable"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"liquidator","internalType":"address","type":"address"}],"name":"isAllowedLiquidators","outputs":[{"name":"","internalType":"bool","type":"bool"}],"stateMutability":"view"}]

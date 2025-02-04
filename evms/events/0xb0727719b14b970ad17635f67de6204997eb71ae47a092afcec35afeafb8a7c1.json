@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"prevIsDynamicFeeEnable","internalType":"bool","type":"bool","indexed":false},{"name":"newIsDynamicFeeEnable","internalType":"bool","type":"bool","indexed":false}],"name":"SetIsDynamicFeeEnable"}]

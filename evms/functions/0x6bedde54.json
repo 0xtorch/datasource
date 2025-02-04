@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_categoryId","internalType":"uint32","type":"uint32"},{"name":"_tokenAddress","internalType":"address","type":"address"}],"name":"getTokenConfig","outputs":[{"name":"","internalType":"bool","type":"bool"},{"name":"","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

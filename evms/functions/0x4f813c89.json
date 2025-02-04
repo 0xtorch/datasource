@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"owners","internalType":"address[]","type":"address[]"},{"name":"smartWallet","internalType":"address[]","type":"address[]"}],"name":"setFNFTOwners","outputs":[],"stateMutability":"nonpayable"}]

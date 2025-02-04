@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"user","internalType":"address","type":"address"},{"name":"asset","internalType":"address","type":"address"},{"name":"reward","internalType":"address","type":"address"}],"name":"getUserAssetData","outputs":[{"name":"","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

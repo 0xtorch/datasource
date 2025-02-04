@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"prevMaxLeverage","internalType":"uint256","type":"uint256","indexed":false},{"name":"newMaxLeverage","internalType":"uint256","type":"uint256","indexed":false}],"name":"SetMaxLeverage"}]

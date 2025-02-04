@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"endTime","internalType":"uint256","type":"uint256"},{"name":"amountToLock","internalType":"uint256","type":"uint256"}],"name":"lockLiquidDriverTokens","outputs":[{"name":"fnftId","internalType":"uint256","type":"uint256"}],"stateMutability":"payable"}]

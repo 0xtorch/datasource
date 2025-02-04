@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_campaignId","internalType":"uint256","type":"uint256"}],"name":"destroyProxy","outputs":[{"name":"","internalType":"bool","type":"bool"}],"stateMutability":"nonpayable"}]

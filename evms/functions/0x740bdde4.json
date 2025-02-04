@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"newSwapFeeBps","internalType":"uint64","type":"uint64"},{"name":"newStableSwapFeeBps","internalType":"uint64","type":"uint64"}],"name":"setSwapFeeBps","outputs":[],"stateMutability":"nonpayable"}]

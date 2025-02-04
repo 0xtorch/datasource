@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_nfts","internalType":"address[]","type":"address[]"},{"name":"_tokenIds","internalType":"uint256[]","type":"uint256[]"},{"name":"_user","internalType":"address","type":"address"}],"name":"hasExistingActiveOffers","outputs":[{"name":"","internalType":"bool[]","type":"bool[]"}],"stateMutability":"view"}]

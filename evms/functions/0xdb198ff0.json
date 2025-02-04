@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[],"name":"n2mVersions","outputs":[{"name":"implementationVersion","internalType":"uint256","type":"uint256"},{"name":"beaconVersion","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

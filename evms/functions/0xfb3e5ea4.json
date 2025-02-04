@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_swapPoolFee","internalType":"uint24","type":"uint24"}],"name":"setSwapPoolFee","outputs":[],"stateMutability":"nonpayable"}]

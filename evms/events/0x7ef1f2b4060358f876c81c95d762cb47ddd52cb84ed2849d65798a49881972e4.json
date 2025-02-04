@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"prevIsSwapEnable","internalType":"bool","type":"bool","indexed":false},{"name":"newIsSwapEnable","internalType":"bool","type":"bool","indexed":false}],"name":"SetIsSwapEnable"}]

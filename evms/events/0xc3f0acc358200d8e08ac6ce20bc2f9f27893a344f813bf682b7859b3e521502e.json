@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"feeCache","internalType":"bytes32","type":"bytes32","indexed":false}],"name":"ProtocolFeePercentageCacheUpdated"}]

@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"text","internalType":"string","type":"string","indexed":false},{"name":"account","internalType":"address","type":"address","indexed":true}],"name":"AuditLog"}]

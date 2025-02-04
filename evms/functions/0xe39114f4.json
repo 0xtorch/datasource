@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"","internalType":"address","type":"address"}],"name":"demos","outputs":[{"name":"lastSnapshotIndex","internalType":"uint256","type":"uint256"},{"name":"rewardEarned","internalType":"uint256","type":"uint256"},{"name":"epochTimerStart","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

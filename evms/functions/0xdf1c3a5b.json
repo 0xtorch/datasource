@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"data","internalType":"bytes","type":"bytes"}],"name":"extractNonEVMAddress","outputs":[{"name":"nonEVMAddress","internalType":"bytes32","type":"bytes32"}],"stateMutability":"pure"}]

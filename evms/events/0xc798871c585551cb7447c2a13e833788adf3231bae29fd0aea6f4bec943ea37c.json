@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"prevPoolOracle","internalType":"contract PoolOracle","type":"address","indexed":false},{"name":"newPoolOracle","internalType":"contract PoolOracle","type":"address","indexed":false}],"name":"SetPoolOracle"}]

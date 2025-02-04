@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"token","internalType":"address","type":"address","indexed":false},{"name":"strategy","internalType":"contract StrategyInterface","type":"address","indexed":false}],"name":"SetPendingStrategy"}]

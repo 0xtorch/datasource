@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[],"name":"mirrorEscrow","outputs":[{"name":"","internalType":"contract IMirroredVotingEscrow","type":"address"}],"stateMutability":"view"}]

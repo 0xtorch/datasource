@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"vault","internalType":"address","type":"address"},{"name":"reward","internalType":"address","type":"address"}],"name":"setRewardsVault","outputs":[],"stateMutability":"nonpayable"}]

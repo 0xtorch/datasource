@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"","internalType":"uint256","type":"uint256"},{"name":"","internalType":"address","type":"address"},{"name":"","internalType":"contract ERC20","type":"address"}],"name":"userInfos","outputs":[{"name":"amount","internalType":"uint256","type":"uint256"},{"name":"rewardDebt","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

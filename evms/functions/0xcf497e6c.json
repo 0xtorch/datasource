@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_masterCopy","internalType":"address payable","type":"address"}],"name":"setMasterCopy","outputs":[{"name":"","internalType":"bool","type":"bool"}],"stateMutability":"nonpayable"}]

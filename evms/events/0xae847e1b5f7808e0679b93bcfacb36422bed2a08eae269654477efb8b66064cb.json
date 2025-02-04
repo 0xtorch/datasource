@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"rewardToken","internalType":"contract IERC20","type":"address","indexed":true},{"name":"accTokenPrecision","internalType":"uint256","type":"uint256","indexed":false}],"name":"LogSetRewardToken"}]

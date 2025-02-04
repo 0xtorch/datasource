@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"prevIsLeverageEnable","internalType":"bool","type":"bool","indexed":false},{"name":"newIsLeverageEnable","internalType":"bool","type":"bool","indexed":false}],"name":"SetIsLeverageEnable"}]

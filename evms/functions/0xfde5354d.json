@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"smartAccount","internalType":"address","type":"address"}],"name":"getSessionKeys","outputs":[{"name":"","internalType":"struct SessionStorage","type":"tuple","components":[{"name":"merkleRoot","internalType":"bytes32","type":"bytes32"}]}],"stateMutability":"view"}]

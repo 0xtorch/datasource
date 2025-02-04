@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"plugin","internalType":"address","type":"address","indexed":false},{"name":"oldAllow","internalType":"bool","type":"bool","indexed":false},{"name":"newAllow","internalType":"bool","type":"bool","indexed":false}],"name":"SetPlugin"}]

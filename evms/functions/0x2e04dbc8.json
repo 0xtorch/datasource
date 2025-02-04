@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_stepPrice","internalType":"uint256","type":"uint256"},{"name":"_stepPower","internalType":"uint256","type":"uint256"},{"name":"_step","internalType":"uint256","type":"uint256"},{"name":"_stepSkullToken","internalType":"uint256","type":"uint256"}],"name":"setIncreaseInfo","outputs":[],"stateMutability":"nonpayable"}]

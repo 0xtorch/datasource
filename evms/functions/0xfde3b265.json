@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"account","internalType":"address","type":"address"},{"name":"token","internalType":"address","type":"address"},{"name":"receiver","internalType":"address","type":"address"}],"name":"addLiquidity","outputs":[{"name":"","internalType":"uint256","type":"uint256"}],"stateMutability":"nonpayable"}]

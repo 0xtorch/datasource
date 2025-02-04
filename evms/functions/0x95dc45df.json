@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[],"name":"getCurrentPP","outputs":[{"name":"_sonPrice","internalType":"uint256","type":"uint256"},{"name":"_sonPower","internalType":"uint256","type":"uint256"},{"name":"_skullTokenBonus","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

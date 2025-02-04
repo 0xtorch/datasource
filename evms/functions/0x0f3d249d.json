@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_roi","internalType":"int256","type":"int256"},{"name":"_repayment","internalType":"uint256","type":"uint256"}],"name":"report","outputs":[{"name":"","internalType":"uint256","type":"uint256"}],"stateMutability":"nonpayable"}]

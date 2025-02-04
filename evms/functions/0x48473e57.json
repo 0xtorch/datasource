@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"nft","internalType":"address","type":"address"}],"name":"isNftWhitelisted","outputs":[{"name":"isWhitelisted","internalType":"bool","type":"bool"}],"stateMutability":"view"}]

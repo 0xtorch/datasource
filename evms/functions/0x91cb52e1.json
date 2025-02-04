@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"numberOfTokens","internalType":"uint256","type":"uint256"}],"name":"mintSkullOrder","outputs":[{"name":"_totalPrice","internalType":"uint256","type":"uint256"},{"name":"_totalPower","internalType":"uint256","type":"uint256"},{"name":"_totalBonus","internalType":"uint256","type":"uint256"}],"stateMutability":"payable"}]

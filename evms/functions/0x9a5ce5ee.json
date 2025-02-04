@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"withdrawals","internalType":"struct BatchSaver.Withdraw[]","type":"tuple[]","components":[{"name":"isNative","internalType":"bool","type":"bool"},{"name":"payload","internalType":"bytes","type":"bytes"},{"name":"signatures","internalType":"bytes[]","type":"bytes[]"}]}],"name":"saveWithdrawals","outputs":[],"stateMutability":"nonpayable"}]

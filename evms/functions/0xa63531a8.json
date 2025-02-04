@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"newTaxBps","internalType":"uint64","type":"uint64"},{"name":"newStableTaxBps","internalType":"uint64","type":"uint64"}],"name":"setTaxBps","outputs":[],"stateMutability":"nonpayable"}]

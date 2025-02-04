@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"by","internalType":"address","type":"address","indexed":true},{"name":"to","internalType":"address","type":"address","indexed":true}],"name":"RevokeAuth"}]

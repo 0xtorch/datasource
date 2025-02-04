@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_tokenId","internalType":"uint256","type":"uint256"},{"name":"_timestamp","internalType":"uint256","type":"uint256"}],"name":"ve_for_at","outputs":[{"name":"","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

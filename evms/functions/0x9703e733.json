@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_rewardToken","internalType":"contract IERC20Ext","type":"address"},{"name":"_rewardPerSecond","internalType":"uint256","type":"uint256"}],"name":"createChild","outputs":[],"stateMutability":"nonpayable"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_dev","internalType":"address","type":"address"},{"name":"_salesFee","internalType":"address","type":"address"}],"name":"setFeeAddresses","outputs":[],"stateMutability":"nonpayable"}]

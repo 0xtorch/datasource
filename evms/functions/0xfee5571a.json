@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"timestamp","internalType":"uint256","type":"uint256"},{"name":"surplus","internalType":"uint8","type":"uint8"}],"name":"getSecondSurplus","outputs":[{"name":"","internalType":"uint8","type":"uint8"}],"stateMutability":"pure"}]

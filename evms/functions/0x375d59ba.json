@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"fnftId","internalType":"uint256","type":"uint256"},{"name":"newFNFTId","internalType":"uint256","type":"uint256"},{"name":"amount","internalType":"uint256","type":"uint256"}],"name":"handleMultipleDeposits","outputs":[],"stateMutability":"nonpayable"}]

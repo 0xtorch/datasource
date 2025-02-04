@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"referrer","internalType":"address","type":"address","indexed":true},{"name":"referral","internalType":"address","type":"address","indexed":true},{"name":"level","internalType":"uint256","type":"uint256","indexed":true},{"name":"amount","internalType":"uint256","type":"uint256","indexed":false}],"name":"RefBonus"}]

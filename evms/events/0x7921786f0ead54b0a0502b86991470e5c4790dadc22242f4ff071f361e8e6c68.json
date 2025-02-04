@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"from","internalType":"address","type":"address","indexed":false},{"name":"chains","internalType":"uint256","type":"uint256","indexed":false},{"name":"amount","internalType":"uint256","type":"uint256","indexed":false},{"name":"to","internalType":"bytes32","type":"bytes32","indexed":false}],"name":"Deposit"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"nft","internalType":"address","type":"address"},{"name":"onBehalfOf","internalType":"address","type":"address"}],"name":"addNftBonus","outputs":[],"stateMutability":"nonpayable"}]
