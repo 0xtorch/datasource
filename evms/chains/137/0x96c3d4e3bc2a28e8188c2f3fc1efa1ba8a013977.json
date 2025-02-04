@@ -1,0 +1,5 @@
+{
+  "address": "0x96c3d4e3bc2a28e8188c2f3fc1efa1ba8a013977",
+  "label": "RoyaltyEnforcementOwnable",
+  "abi": "[{\"inputs\":[{\"internalType\":\"address\",\"name\":\"operator\",\"type\":\"address\"}],\"name\":\"OperatorNotAllowed\",\"type\":\"error\"},{\"anonymous\":false,\"inputs\":[{\"indexed\":true,\"internalType\":\"address\",\"name\":\"previousOwner\",\"type\":\"address\"},{\"indexed\":true,\"internalType\":\"address\",\"name\":\"newOwner\",\"type\":\"address\"}],\"name\":\"OwnershipTransferred\",\"type\":\"event\"},{\"inputs\":[{\"internalType\":\"address\",\"name\":\"subscriptionOrRegistrantToCopy\",\"type\":\"address\"},{\"internalType\":\"bool\",\"name\":\"subscribe\",\"type\":\"bool\"}],\"name\":\"registerRoyaltyEnforcement\",\"outputs\":[],\"stateMutability\":\"nonpayable\",\"type\":\"function\"},{\"inputs\":[{\"internalType\":\"bool\",\"name\":\"enforce\",\"type\":\"bool\"}],\"name\":\"toggleRoyaltyEnforcement\",\"outputs\":[],\"stateMutability\":\"nonpayable\",\"type\":\"function\"}]"
+}
