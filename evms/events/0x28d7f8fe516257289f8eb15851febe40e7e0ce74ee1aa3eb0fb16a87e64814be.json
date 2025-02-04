@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"positionId","internalType":"bytes32","type":"bytes32","indexed":false},{"name":"isProfit","internalType":"bool","type":"bool","indexed":false},{"name":"delta","internalType":"uint256","type":"uint256","indexed":false}],"name":"UpdatePnL"}]

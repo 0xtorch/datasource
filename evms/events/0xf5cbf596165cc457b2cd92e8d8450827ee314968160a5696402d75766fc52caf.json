@@ -1,1 +1,1 @@
-[{"type":"event","anonymous":false,"inputs":[{"name":"_account","internalType":"address","type":"address","indexed":false}],"name":"EmergencyUnpaused"}]
+[{"type":"event","anonymous":false,"inputs":[{"name":"_account","internalType":"address","type":"address","indexed":false}],"name":"EmergencyUnpaused"},{"type":"event","anonymous":false,"inputs":[{"name":"msgSender","internalType":"address","type":"address","indexed":true}],"name":"EmergencyUnpaused"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"feeType","internalType":"uint256","type":"uint256"}],"name":"getProviderFeeId","outputs":[{"name":"","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

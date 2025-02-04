@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_price","internalType":"uint256","type":"uint256"},{"name":"_power","internalType":"uint256","type":"uint256"},{"name":"_skullTokenBonus","internalType":"uint256","type":"uint256"}],"name":"setSaleInfo","outputs":[],"stateMutability":"nonpayable"}]

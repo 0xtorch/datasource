@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_method","internalType":"enum NexfiNftStaking.WithdrawLockProperty","type":"uint8"},{"name":"_period","internalType":"uint256","type":"uint256"},{"name":"_fee","internalType":"uint16","type":"uint16"}],"name":"configureWithdrawLock","outputs":[],"stateMutability":"nonpayable"}]

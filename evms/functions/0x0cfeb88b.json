@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"tokenIn","internalType":"address","type":"address"},{"name":"tokenOut","internalType":"address","type":"address"},{"name":"usdDebt","internalType":"uint256","type":"uint256"}],"name":"getSwapFeeBps","outputs":[{"name":"","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

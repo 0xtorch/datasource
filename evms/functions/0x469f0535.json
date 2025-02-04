@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_minStakingPerUser","internalType":"uint256","type":"uint256"},{"name":"_maxStakingPerUser","internalType":"uint256","type":"uint256"}],"name":"updateStakingLimitPerUser","outputs":[],"stateMutability":"nonpayable"}]

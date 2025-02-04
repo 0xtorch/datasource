@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"amount","internalType":"uint256","type":"uint256","indexed":false},{"name":"redeemed","internalType":"uint256","type":"uint256","indexed":false},{"name":"tokenId","internalType":"uint256","type":"uint256","indexed":false}],"name":"Redeemed"}]

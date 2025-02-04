@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_pid","internalType":"uint256","type":"uint256"},{"name":"stakeTokenIDs","internalType":"uint256[]","type":"uint256[]"},{"name":"unstakeTokenIDs","internalType":"uint256[]","type":"uint256[]"}],"name":"stakeAndUnstakeMagicats","outputs":[],"stateMutability":"nonpayable"}]

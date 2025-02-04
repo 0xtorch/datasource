@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"oldLimit","internalType":"uint256","type":"uint256","indexed":false},{"name":"newLimit","internalType":"uint256","type":"uint256","indexed":false}],"name":"MaxWalletLimitChanged"}]

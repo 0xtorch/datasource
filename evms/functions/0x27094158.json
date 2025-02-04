@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[],"name":"withdrawLockMethod","outputs":[{"name":"","internalType":"enum NexfiNftStaking.WithdrawLockProperty","type":"uint8"}],"stateMutability":"view"}]

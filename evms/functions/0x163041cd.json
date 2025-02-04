@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"tokenIDs","internalType":"uint256[]","type":"uint256[]"}],"name":"rarityOfBatch","outputs":[{"name":"rarities","internalType":"uint256[]","type":"uint256[]"}],"stateMutability":"view"}]

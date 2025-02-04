@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"","internalType":"uint256","type":"uint256"}],"name":"acropolisHistory","outputs":[{"name":"time","internalType":"uint256","type":"uint256"},{"name":"rewardReceived","internalType":"uint256","type":"uint256"},{"name":"rewardPerShare","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

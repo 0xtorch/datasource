@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[],"name":"funds","outputs":[{"name":"sender","internalType":"address","type":"address"},{"name":"fromInternalBalance","internalType":"bool","type":"bool"},{"name":"recipient","internalType":"address","type":"address"},{"name":"toInternalBalance","internalType":"bool","type":"bool"}],"stateMutability":"view"}]

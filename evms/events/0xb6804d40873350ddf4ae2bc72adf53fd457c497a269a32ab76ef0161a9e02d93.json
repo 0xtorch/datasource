@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"prevMinProfitDuration","internalType":"uint64","type":"uint64","indexed":false},{"name":"newMinProfitDuration","internalType":"uint64","type":"uint64","indexed":false}],"name":"SetMinProfitDuration"}]

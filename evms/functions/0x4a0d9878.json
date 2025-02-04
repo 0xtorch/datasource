@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"takerAddress","internalType":"address","type":"address"},{"name":"orderType","internalType":"enum IBebopBlend.BlendOrderType","type":"uint8"},{"name":"data","internalType":"bytes","type":"bytes"},{"name":"hooksData","internalType":"bytes","type":"bytes"}],"name":"settleBebopBlend","outputs":[],"stateMutability":"payable"}]

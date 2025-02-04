@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"account","internalType":"address","type":"address","indexed":false},{"name":"tokenId","internalType":"uint256","type":"uint256","indexed":false},{"name":"power","internalType":"uint256","type":"uint256","indexed":false},{"name":"bonus","internalType":"uint256","type":"uint256","indexed":false}],"name":"AssetMinted"}]

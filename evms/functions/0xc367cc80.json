@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"token","type":"address"},{"name":"recipient","type":"address"},{"name":"amount","type":"uint256"},{"name":"vesting_duration","type":"uint256"},{"name":"vesting_start","type":"uint256"},{"name":"cliff_length","type":"uint256"}],"name":"deploy_vesting_contract","outputs":[{"name":"","type":"address"}],"stateMutability":"nonpayable"}]

@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"rewardTokens","internalType":"contract ERC20[]","type":"address[]","indexed":false},{"name":"rewardsPerSecond","internalType":"uint256[]","type":"uint256[]","indexed":false}],"name":"LogRewardsPerSecond"}]

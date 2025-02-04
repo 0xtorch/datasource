@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"","internalType":"uint256","type":"uint256"},{"name":"","internalType":"contract ERC20","type":"address"}],"name":"tokenRewardInfos","outputs":[{"name":"accRewardTokenPerShare","internalType":"uint256","type":"uint256"},{"name":"lastRewardTime","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

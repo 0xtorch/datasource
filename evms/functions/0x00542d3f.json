@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_extraCooldownDuration","internalType":"uint256","type":"uint256"}],"name":"setExtraCooldownDuration","outputs":[],"stateMutability":"nonpayable"}]

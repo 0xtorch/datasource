@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"prevLiquidationFeeUsd","internalType":"uint256","type":"uint256","indexed":false},{"name":"newLiquidationFeeUsd","internalType":"uint256","type":"uint256","indexed":false}],"name":"SetLiquidationFeeUsd"}]

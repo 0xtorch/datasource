@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[],"name":"getCreationTime","outputs":[{"name":"timestamp","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

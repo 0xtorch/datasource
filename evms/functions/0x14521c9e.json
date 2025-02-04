@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"newMaxLeverage","internalType":"uint64","type":"uint64"}],"name":"setMaxLeverage","outputs":[],"stateMutability":"nonpayable"}]

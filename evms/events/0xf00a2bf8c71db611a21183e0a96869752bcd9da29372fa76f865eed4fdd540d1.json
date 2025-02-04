@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"token","internalType":"contract IERC20","type":"address","indexed":true},{"name":"provider","internalType":"contract IRateProvider","type":"address","indexed":true},{"name":"cacheDuration","internalType":"uint256","type":"uint256","indexed":false}],"name":"TokenRateProviderSet"}]

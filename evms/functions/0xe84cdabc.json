@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"referrer","internalType":"address","type":"address"},{"name":"plan","internalType":"uint8","type":"uint8"},{"name":"amount","internalType":"uint256","type":"uint256"}],"name":"invest","outputs":[],"stateMutability":"nonpayable"}]

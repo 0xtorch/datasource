@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_shadowChef","internalType":"address","type":"address"},{"name":"allocPoint","internalType":"uint256","type":"uint256"}],"name":"add","outputs":[],"stateMutability":"nonpayable"}]

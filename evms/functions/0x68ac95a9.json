@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_addresses_","internalType":"address[]","type":"address[]"},{"name":"_out","internalType":"uint256","type":"uint256"}],"name":"swapTokensSingleNativeeToERC20","outputs":[],"stateMutability":"nonpayable"}]

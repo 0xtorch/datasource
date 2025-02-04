@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_address","internalType":"address","type":"address"},{"name":"_on","internalType":"bool","type":"bool"}],"name":"updateDepositWhitelist","outputs":[],"stateMutability":"nonpayable"}]

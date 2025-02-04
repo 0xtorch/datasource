@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"numString","internalType":"string","type":"string"}],"name":"stringToUint","outputs":[{"name":"result","internalType":"uint256","type":"uint256"}],"stateMutability":"pure"}]

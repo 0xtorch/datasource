@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"plugin","internalType":"address","type":"address"},{"name":"allow","internalType":"bool","type":"bool"}],"name":"setPlugin","outputs":[],"stateMutability":"nonpayable"}]

@@ -1,0 +1,1 @@
+[{"type":"function","gas":1966,"inputs":[{"name":"arg0","type":"address"}],"name":"blocked_addr","outputs":[{"name":"","type":"bool"}],"stateMutability":"view"}]

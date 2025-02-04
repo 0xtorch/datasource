@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"facetAddress","internalType":"address","type":"address","indexed":true},{"name":"msgSender","internalType":"address","type":"address","indexed":true}],"name":"EmergencyFacetRemoved"}]

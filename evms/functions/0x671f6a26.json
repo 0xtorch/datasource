@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[],"name":"swapKind","outputs":[{"name":"","internalType":"enum IBalancerVault.SwapKind","type":"uint8"}],"stateMutability":"view"}]

@@ -1,0 +1,1 @@
+[{"type":"function","gas":1996,"inputs":[{"name":"arg0","type":"address"}],"name":"fee_receive_addr","outputs":[{"name":"","type":"address"}],"stateMutability":"view"}]

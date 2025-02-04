@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"token","internalType":"address","type":"address"}],"name":"strategyOf","outputs":[{"name":"","internalType":"contract StrategyInterface","type":"address"}],"stateMutability":"view"}]

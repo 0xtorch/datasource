@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_lockOn","internalType":"bool","type":"bool"},{"name":"_interval","internalType":"uint256","type":"uint256"}],"name":"configureHarvestLock","outputs":[],"stateMutability":"nonpayable"}]

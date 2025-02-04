@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"liquidators","internalType":"address[]","type":"address[]"},{"name":"allow","internalType":"bool","type":"bool"}],"name":"setAllowLiquidators","outputs":[],"stateMutability":"nonpayable"}]

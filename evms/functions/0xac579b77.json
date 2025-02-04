@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_withdrawalQueue","internalType":"address[]","type":"address[]"}],"name":"setWithdrawalQueue","outputs":[],"stateMutability":"nonpayable"}]

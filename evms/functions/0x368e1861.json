@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"","internalType":"address","type":"address"}],"name":"whitelistBalance","outputs":[{"name":"","internalType":"uint8","type":"uint8"}],"stateMutability":"view"}]

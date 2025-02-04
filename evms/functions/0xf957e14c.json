@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"gateway","internalType":"address","type":"address"}],"name":"setNativeTokenGateway","outputs":[],"stateMutability":"nonpayable"}]

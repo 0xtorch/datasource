@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"indexToken","internalType":"address","type":"address"},{"name":"nextPrice","internalType":"uint256","type":"uint256"},{"name":"sizeDelta","internalType":"uint256","type":"uint256"}],"name":"getNextShortAveragePrice","outputs":[{"name":"","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

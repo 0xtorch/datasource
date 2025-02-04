@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[],"name":"getVestedTokensWithdrawn","outputs":[{"name":"amount","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"fnftId","internalType":"uint256","type":"uint256"}],"name":"getOutputDisplayValues","outputs":[{"name":"displayData","internalType":"bytes","type":"bytes"}],"stateMutability":"view"}]

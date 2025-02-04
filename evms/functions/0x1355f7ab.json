@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"fnftId","internalType":"uint256","type":"uint256"},{"name":"expiration","internalType":"uint256","type":"uint256"},{"name":"","internalType":"address","type":"address"}],"name":"handleTimelockExtensions","outputs":[],"stateMutability":"nonpayable"}]

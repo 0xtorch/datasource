@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"reward","internalType":"address","type":"address"}],"name":"getRewardsVault","outputs":[{"name":"","internalType":"address","type":"address"}],"stateMutability":"view"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_rewarder","internalType":"contract ISecondRewarder","type":"address"},{"name":"_pid","internalType":"uint256","type":"uint256"}],"name":"setSecondRewarder","outputs":[],"stateMutability":"nonpayable"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"nft","internalType":"address","type":"address"},{"name":"pctBonus","internalType":"uint256","type":"uint256"}],"name":"setWhitelistedBonus","outputs":[],"stateMutability":"nonpayable"}]

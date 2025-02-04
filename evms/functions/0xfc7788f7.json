@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_nftAddress","internalType":"address","type":"address"},{"name":"_nftTokenId","internalType":"uint256","type":"uint256"},{"name":"_percent","internalType":"uint256","type":"uint256"}],"name":"updateExtraBoost","outputs":[],"stateMutability":"nonpayable"}]

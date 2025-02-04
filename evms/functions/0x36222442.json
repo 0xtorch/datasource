@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_categoryId","internalType":"uint32","type":"uint32"},{"name":"_target","internalType":"string","type":"string"},{"name":"_amount","internalType":"uint256","type":"uint256"},{"name":"_tokenAddress","internalType":"address","type":"address"}],"name":"deposit","outputs":[],"stateMutability":"payable"}]

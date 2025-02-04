@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_marketplaceId","internalType":"uint256","type":"uint256"},{"name":"_quantity","internalType":"uint128","type":"uint128"},{"name":"_price","internalType":"uint128","type":"uint128"},{"name":"_duration","internalType":"uint256","type":"uint256"}],"name":"makeOffer","outputs":[],"stateMutability":"payable"}]

@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"account","internalType":"address","type":"address","indexed":false},{"name":"token","internalType":"address","type":"address","indexed":false},{"name":"feeUsd","internalType":"uint256","type":"uint256","indexed":false},{"name":"feeTokens","internalType":"uint256","type":"uint256","indexed":false}],"name":"CollectPositionFee"}]

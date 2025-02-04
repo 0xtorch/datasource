@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"assets","internalType":"address[]","type":"address[]"},{"name":"user","internalType":"address","type":"address"}],"name":"getAllUserRewardsBalance","outputs":[{"name":"rewardTokens","internalType":"address[]","type":"address[]"},{"name":"unclaimedAmounts","internalType":"uint256[]","type":"uint256[]"}],"stateMutability":"view"}]

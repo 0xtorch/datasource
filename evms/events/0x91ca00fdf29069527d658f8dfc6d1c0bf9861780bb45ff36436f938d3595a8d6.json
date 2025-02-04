@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"owner","internalType":"address payable","type":"address","indexed":false},{"name":"proxy","internalType":"address payable","type":"address","indexed":false}],"name":"Destroyed"}]

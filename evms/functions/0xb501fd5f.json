@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"token","internalType":"address","type":"address"},{"name":"amountTokens","internalType":"uint256","type":"uint256"},{"name":"isUseMaxPrice","internalType":"bool","type":"bool"}],"name":"convertTokensToUsde30","outputs":[{"name":"","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

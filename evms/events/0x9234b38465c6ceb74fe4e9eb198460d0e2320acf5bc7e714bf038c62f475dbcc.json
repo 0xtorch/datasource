@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"prevStableSwapFeeBps","internalType":"uint256","type":"uint256","indexed":false},{"name":"newStableSwapFeeBps","internalType":"uint256","type":"uint256","indexed":false}],"name":"SetStableSwapFeeBps"}]

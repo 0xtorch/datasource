@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"category","internalType":"uint32","type":"uint32","indexed":false},{"name":"token","internalType":"address","type":"address","indexed":false}],"name":"TokenUnsetForCategory"}]

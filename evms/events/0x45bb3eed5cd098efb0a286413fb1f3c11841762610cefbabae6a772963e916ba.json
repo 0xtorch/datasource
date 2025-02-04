@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"strategy","internalType":"address","type":"address","indexed":true},{"name":"feeBPS","internalType":"uint256","type":"uint256","indexed":false},{"name":"allocBPS","internalType":"uint256","type":"uint256","indexed":false}],"name":"StrategyAdded"}]

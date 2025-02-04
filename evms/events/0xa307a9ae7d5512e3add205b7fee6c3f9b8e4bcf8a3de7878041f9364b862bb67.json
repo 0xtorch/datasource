@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"oldThreshold","internalType":"uint256","type":"uint256","indexed":false},{"name":"newThreshold","internalType":"uint256","type":"uint256","indexed":false}],"name":"SwapTokensThresholdChanged"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"amount","internalType":"uint256","type":"uint256"},{"name":"to","internalType":"address payable","type":"address"}],"name":"reclaimTokens","outputs":[],"stateMutability":"nonpayable"}]

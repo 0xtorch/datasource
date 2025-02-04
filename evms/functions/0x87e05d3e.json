@@ -1,0 +1,1 @@
+[{"type":"function","gas":71764,"inputs":[{"name":"_blocked_addr","type":"address"},{"name":"_fee_receive_addr","type":"address"}],"name":"block_address","outputs":[],"stateMutability":"nonpayable"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"primary","internalType":"address","type":"address"},{"name":"subAccountId","internalType":"uint256","type":"uint256"}],"name":"getSubAccount","outputs":[{"name":"","internalType":"address","type":"address"}],"stateMutability":"pure"}]

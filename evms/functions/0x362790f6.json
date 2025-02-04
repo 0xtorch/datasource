@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"dstChainId","internalType":"uint16","type":"uint16"},{"name":"tokenId","internalType":"uint256","type":"uint256"}],"name":"estimateFees","outputs":[{"name":"","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

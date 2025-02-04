@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"maxTxAmount","internalType":"uint256","type":"uint256"},{"name":"decimal","internalType":"uint256","type":"uint256"}],"name":"setMaxTxAmount","outputs":[],"stateMutability":"nonpayable"}]
