@@ -1,0 +1,5 @@
+{
+  "address": "0x313e7ef7d52f5c10ac04ebaa4d33cdc68634c212",
+  "label": "PendleSwap",
+  "abi": "[{\"anonymous\":false,\"inputs\":[{\"indexed\":true,\"internalType\":\"enum SwapType\",\"name\":\"swapType\",\"type\":\"uint8\"},{\"indexed\":true,\"internalType\":\"address\",\"name\":\"tokenIn\",\"type\":\"address\"},{\"indexed\":false,\"internalType\":\"uint256\",\"name\":\"amountIn\",\"type\":\"uint256\"}],\"name\":\"SwapSingle\",\"type\":\"event\"},{\"inputs\":[{\"internalType\":\"address\",\"name\":\"tokenIn\",\"type\":\"address\"},{\"internalType\":\"uint256\",\"name\":\"amountIn\",\"type\":\"uint256\"},{\"components\":[{\"internalType\":\"enum SwapType\",\"name\":\"swapType\",\"type\":\"uint8\"},{\"internalType\":\"address\",\"name\":\"extRouter\",\"type\":\"address\"},{\"internalType\":\"bytes\",\"name\":\"extCalldata\",\"type\":\"bytes\"},{\"internalType\":\"bool\",\"name\":\"needScale\",\"type\":\"bool\"}],\"internalType\":\"struct SwapData\",\"name\":\"data\",\"type\":\"tuple\"}],\"name\":\"swap\",\"outputs\":[],\"stateMutability\":\"payable\",\"type\":\"function\"},{\"stateMutability\":\"payable\",\"type\":\"receive\"}]"
+}
