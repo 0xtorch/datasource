@@ -1,0 +1,5 @@
+{
+  "address": "0x9fd97813197377fef180b8e4acdcf5c1f6509aa9",
+  "label": "RoyaltyEnforcement",
+  "abi": "[{\"inputs\":[{\"internalType\":\"address\",\"name\":\"operator\",\"type\":\"address\"}],\"name\":\"OperatorNotAllowed\",\"type\":\"error\"},{\"inputs\":[],\"name\":\"hasRoyaltyEnforcement\",\"outputs\":[{\"internalType\":\"bool\",\"name\":\"\",\"type\":\"bool\"}],\"stateMutability\":\"view\",\"type\":\"function\"}]"
+}
