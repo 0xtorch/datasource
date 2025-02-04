@@ -1,0 +1,5 @@
+{
+  "address": "0x3d7d2ed0e25b1707c163293935f63521954e472d",
+  "label": "ERC165Ownable",
+  "abi": "[{\"anonymous\":false,\"inputs\":[{\"indexed\":true,\"internalType\":\"address\",\"name\":\"previousOwner\",\"type\":\"address\"},{\"indexed\":true,\"internalType\":\"address\",\"name\":\"newOwner\",\"type\":\"address\"}],\"name\":\"OwnershipTransferred\",\"type\":\"event\"},{\"inputs\":[{\"internalType\":\"bytes4[]\",\"name\":\"interfaceIds\",\"type\":\"bytes4[]\"},{\"internalType\":\"bytes4[]\",\"name\":\"interfaceIdsToRemove\",\"type\":\"bytes4[]\"}],\"name\":\"setERC165\",\"outputs\":[],\"stateMutability\":\"nonpayable\",\"type\":\"function\"}]"
+}
