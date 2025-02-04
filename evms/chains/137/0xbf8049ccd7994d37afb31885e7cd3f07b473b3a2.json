@@ -1,0 +1,5 @@
+{
+  "address": "0xbf8049ccd7994d37afb31885e7cd3f07b473b3a2",
+  "label": "ERC165",
+  "abi": "[{\"inputs\":[{\"internalType\":\"bytes4\",\"name\":\"interfaceId\",\"type\":\"bytes4\"}],\"name\":\"supportsInterface\",\"outputs\":[{\"internalType\":\"bool\",\"name\":\"\",\"type\":\"bool\"}],\"stateMutability\":\"view\",\"type\":\"function\"}]"
+}
