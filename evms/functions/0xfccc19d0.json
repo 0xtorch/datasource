@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"fnftId","internalType":"uint256","type":"uint256"},{"name":"proportions","internalType":"uint256[]","type":"uint256[]"},{"name":"quantity","internalType":"uint256","type":"uint256"}],"name":"splitFNFT","outputs":[{"name":"","internalType":"uint256[]","type":"uint256[]"}],"stateMutability":"nonpayable"}]

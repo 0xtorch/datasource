@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"wethAmount","internalType":"uint256","type":"uint256"},{"name":"minReceived","internalType":"uint256","type":"uint256"}],"name":"depositWETHForWrappedTokens","outputs":[{"name":"","internalType":"uint256","type":"uint256"}],"stateMutability":"nonpayable"}]

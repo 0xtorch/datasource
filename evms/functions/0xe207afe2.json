@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"implementation_","internalType":"address","type":"address"},{"name":"becomeImplementationData","internalType":"bytes","type":"bytes"}],"name":"_setImplementationSafe","outputs":[],"stateMutability":"nonpayable"}]

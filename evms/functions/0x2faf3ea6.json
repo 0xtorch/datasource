@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"sessionIdx","internalType":"uint256","type":"uint256"},{"name":"rewardIdx","internalType":"uint8","type":"uint8"}],"name":"claim","outputs":[{"name":"","internalType":"bool","type":"bool"}],"stateMutability":"nonpayable"}]

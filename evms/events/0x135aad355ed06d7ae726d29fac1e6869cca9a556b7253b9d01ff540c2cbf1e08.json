@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"ignore","internalType":"bool","type":"bool","indexed":false}],"name":"Ignore"}]

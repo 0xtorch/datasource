@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"newFeeReceiver","internalType":"address","type":"address","indexed":false},{"name":"newWithdrawalFee","internalType":"uint256","type":"uint256","indexed":false}],"name":"ProtocolFeeParamsSet"}]

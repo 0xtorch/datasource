@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_assetType","internalType":"enum ISilo.AssetType","type":"uint8"}],"name":"getTotalAssetsStorage","outputs":[{"name":"totalAssetsByType","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

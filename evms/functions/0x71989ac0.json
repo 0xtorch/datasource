@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"receiptToken","internalType":"address","type":"address"},{"name":"_feePercentage","internalType":"uint256","type":"uint256"}],"name":"calculateStreamingFeeInflation","outputs":[{"name":"","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

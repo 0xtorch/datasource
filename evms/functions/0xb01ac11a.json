@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_stakingToken","internalType":"address","type":"address"},{"name":"_masterChef","internalType":"address","type":"address"},{"name":"_isActive","internalType":"bool","type":"bool"}],"name":"setPool","outputs":[],"stateMutability":"nonpayable"}]

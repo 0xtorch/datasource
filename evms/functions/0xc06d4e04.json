@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_desc","internalType":"string","type":"string"},{"name":"_image","internalType":"bytes","type":"bytes"},{"name":"_links","internalType":"string[]","type":"string[]"}],"name":"updateMetadata","outputs":[],"stateMutability":"nonpayable"}]

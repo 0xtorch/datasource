@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"user","internalType":"address","type":"address"},{"name":"value","internalType":"bool","type":"bool"}],"name":"setExecuter","outputs":[],"stateMutability":"nonpayable"}]

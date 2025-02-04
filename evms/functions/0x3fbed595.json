@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"petId","internalType":"uint256","type":"uint256"},{"name":"modulo","internalType":"uint256","type":"uint256"}],"name":"commitCost","outputs":[{"name":"","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

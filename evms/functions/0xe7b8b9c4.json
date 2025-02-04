@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_incentivesProgram","internalType":"string","type":"string"}],"name":"getDistributionEnd","outputs":[{"name":"","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

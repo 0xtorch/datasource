@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"borrowers","internalType":"address[]","type":"address[]"},{"name":"amounts","internalType":"uint256[]","type":"uint256[]"}],"name":"initializeBorrows","outputs":[],"stateMutability":"nonpayable"}]

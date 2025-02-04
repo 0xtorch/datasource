@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"walletAddress","internalType":"address","type":"address"}],"name":"getKeys","outputs":[{"name":"opPubKey","internalType":"bytes32[2]","type":"bytes32[2]"},{"name":"encPubKey","internalType":"bytes32[8]","type":"bytes32[8]"},{"name":"opPriKeyCipher","internalType":"bytes32[16]","type":"bytes32[16]"}],"stateMutability":"view"}]

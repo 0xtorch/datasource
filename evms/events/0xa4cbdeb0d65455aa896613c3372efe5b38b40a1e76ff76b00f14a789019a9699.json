@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"from","internalType":"address","type":"address","indexed":true},{"name":"fnftId","internalType":"uint256","type":"uint256","indexed":true},{"name":"newExtendedTime","internalType":"uint256","type":"uint256","indexed":true}],"name":"FNFTMaturityExtended"}]

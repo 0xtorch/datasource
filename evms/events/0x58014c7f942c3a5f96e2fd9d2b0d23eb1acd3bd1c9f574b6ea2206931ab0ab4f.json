@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"_sesssionIdx","internalType":"uint256","type":"uint256","indexed":true},{"name":"_winner","internalType":"address","type":"address","indexed":true},{"name":"_rewardIdx","internalType":"uint256","type":"uint256","indexed":true}],"name":"SessionWinnerEvent"}]

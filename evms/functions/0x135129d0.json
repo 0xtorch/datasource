@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"degen","internalType":"address","type":"address"},{"name":"xpType","internalType":"enum Degen.XpType","type":"uint8"},{"name":"amount","internalType":"uint256","type":"uint256"}],"name":"attributeXp","outputs":[],"stateMutability":"nonpayable"}]

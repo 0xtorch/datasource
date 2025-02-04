@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"_catId","internalType":"uint256","type":"uint256","indexed":true},{"name":"_newOwner","internalType":"address","type":"address","indexed":true}],"name":"NewCatAdopted"}]

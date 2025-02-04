@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"message","internalType":"bytes32","type":"bytes32","indexed":true},{"name":"sequence","internalType":"uint64","type":"uint64","indexed":false}],"name":"MessageSent"}]

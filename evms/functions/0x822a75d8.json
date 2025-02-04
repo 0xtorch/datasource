@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"newTime","internalType":"uint256","type":"uint256"},{"name":"inDays","internalType":"bool","type":"bool"}],"name":"setV1HarvestQueryTime","outputs":[],"stateMutability":"nonpayable"}]

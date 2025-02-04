@@ -225,6 +225,8 @@
               "values": [
                 "Close Long",
                 "Close Short",
+                "Close Long (Price Improved)",
+                "Close Short (Price Improved)",
                 "Long > Short",
                 "Short > Long",
                 "Market Order Liquidation: Close Long",
@@ -299,6 +301,8 @@
               "values": [
                 "Close Long",
                 "Close Short",
+                "Close Long (Price Improved)",
+                "Close Short (Price Improved)",
                 "Long > Short",
                 "Short > Long",
                 "Market Order Liquidation: Close Long",

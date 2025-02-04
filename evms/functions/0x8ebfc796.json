@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_addr","internalType":"address","type":"address"},{"name":"_value","internalType":"bool","type":"bool"}],"name":"setFeeExempt","outputs":[],"stateMutability":"nonpayable"}]

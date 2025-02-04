@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"assets","internalType":"address[]","type":"address[]","indexed":false},{"name":"amounts","internalType":"uint256[]","type":"uint256[]","indexed":false}],"name":"FeesClaimed"}]

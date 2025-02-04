@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"pool","internalType":"address","type":"address"},{"name":"newWithdrawalFee","internalType":"uint16","type":"uint16"}],"name":"setWithdrawalFee","outputs":[],"stateMutability":"nonpayable"}]

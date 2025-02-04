@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"sender","internalType":"address","type":"address","indexed":false},{"name":"newAuxTwapPeriod","internalType":"uint32","type":"uint32","indexed":false}],"name":"SetAuxTwapPeriod"}]

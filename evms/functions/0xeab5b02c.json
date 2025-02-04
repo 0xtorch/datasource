@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_sender","internalType":"address","type":"address"},{"name":"allowed","internalType":"bool","type":"bool"}],"name":"allowlistSender","outputs":[],"stateMutability":"nonpayable"}]

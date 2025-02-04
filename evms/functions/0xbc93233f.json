@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"who","internalType":"address","type":"address"},{"name":"what","internalType":"bool","type":"bool"}],"name":"addToWhitelist","outputs":[],"stateMutability":"nonpayable"}]

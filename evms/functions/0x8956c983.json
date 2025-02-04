@@ -1,0 +1,1 @@
+[{"type":"function","gas":14090,"inputs":[{"name":"token","type":"address"}],"name":"collect_dust","outputs":[],"stateMutability":"nonpayable"}]

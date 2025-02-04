@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_id","internalType":"uint256","type":"uint256"}],"name":"validateLuckyTicket","outputs":[{"name":"","internalType":"bool","type":"bool"}],"stateMutability":"view"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"auth","internalType":"address","type":"address"},{"name":"validatorID","internalType":"uint256","type":"uint256"},{"name":"pubkey","internalType":"bytes","type":"bytes"},{"name":"createdTime","internalType":"uint256","type":"uint256"}],"name":"setGenesisValidator","outputs":[],"stateMutability":"nonpayable"}]

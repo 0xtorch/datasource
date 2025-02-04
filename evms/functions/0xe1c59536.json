@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_tokens","internalType":"address[]","type":"address[]"},{"name":"_gaugables","internalType":"address[]","type":"address[]"},{"name":"_minter","internalType":"address","type":"address"}],"name":"initialSetup","outputs":[],"stateMutability":"nonpayable"}]

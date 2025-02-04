@@ -513,12 +513,97 @@
     "transfers": []
   },
   {
+    "source": "bitget_spot_1265412173447577605",
+    "order": 0,
+    "type": "gift",
+    "timestamp": 1737423690000,
+    "evidence": "none",
+    "comment": "type: Receipt / coin: BGSOL / amount: \"0.03803207\"",
+    "transfers": [
+      {
+        "direction": "in",
+        "asset": {
+          "type": "CryptoCurrency",
+          "id": "0xtorch-bitget-bgsol",
+          "name": "0xtorch-bitget-bgsol",
+          "symbol": "0XTORCH-BITGET-BGSOL",
+          "updatedAt": 0
+        },
+        "amount": "0.03803207"
+      }
+    ]
+  },
+  {
     "source": "bitget_spot_1265412161544142852",
     "order": 0,
-    "type": "ignore",
+    "type": "fee",
     "timestamp": 1737423690000,
-    "evidence": "system-rule",
+    "evidence": "none",
     "comment": "type: Subscription / coin: SOL / amount: \"-0.04\"",
-    "transfers": []
+    "transfers": [
+      {
+        "direction": "out",
+        "asset": {
+          "type": "CryptoCurrency",
+          "id": "solana",
+          "name": "Solana",
+          "symbol": "sol",
+          "icon": "https://coin-images.coingecko.com/coins/images/4128/large/solana.png?1718769756",
+          "market": {
+            "coingeckoId": "solana",
+            "marketCapUsd": 68524624957
+          },
+          "updatedAt": 1728782536762
+        },
+        "amount": "0.04"
+      }
+    ]
+  },
+  {
+    "source": "bitget_spot_1269470791675428873",
+    "order": 0,
+    "type": "gift",
+    "timestamp": 1738391340000,
+    "evidence": "none",
+    "comment": "type: On-chain Elite receipt / coin: BGBTC / amount: \"0.001\"",
+    "transfers": [
+      {
+        "direction": "in",
+        "asset": {
+          "type": "CryptoCurrency",
+          "id": "0xtorch-bitget-bgbtc",
+          "name": "0xtorch-bitget-bgbtc",
+          "symbol": "0XTORCH-BITGET-BGBTC",
+          "updatedAt": 0
+        },
+        "amount": "0.001"
+      }
+    ]
+  },
+  {
+    "source": "bitget_spot_1269470780426305540",
+    "order": 0,
+    "type": "fee",
+    "timestamp": 1738391340000,
+    "evidence": "none",
+    "comment": "type: Subscription / coin: BTC / amount: \"-0.001\"",
+    "transfers": [
+      {
+        "direction": "out",
+        "asset": {
+          "type": "CryptoCurrency",
+          "id": "bitcoin",
+          "name": "Bitcoin",
+          "symbol": "btc",
+          "icon": "https://coin-images.coingecko.com/coins/images/1/large/bitcoin.png?1696501400",
+          "market": {
+            "coingeckoId": "bitcoin",
+            "marketCapUsd": 1242823480668
+          },
+          "updatedAt": 1728782536762
+        },
+        "amount": "0.001"
+      }
+    ]
   }
 ]

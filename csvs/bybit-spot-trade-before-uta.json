@@ -223,10 +223,14 @@
   },
   "symbolAssetMap": {
     "ATOM2L": "crypto/0xtorch-bybit-atom2l",
+    "BTC3L": "crypto/0xtorch-bybit-btc3l",
+    "BTC3S": "crypto/0xtorch-bybit-btc3s",
     "DOGE2L": "crypto/0xtorch-bybit-doge2l",
     "ETH3L": "crypto/0xtorch-bybit-eth3l",
+    "ETH3S": "crypto/0xtorch-bybit-eth3s",
     "HPOS10I": "crypto/harrypotterobamasonic10in",
     "RNDR": "crypto/render-token",
-    "XRP3L": "crypto/0xtorch-bybit-xrp3l"
+    "XRP3L": "crypto/0xtorch-bybit-xrp3l",
+    "ZEREBRO": "crypto/zerebro"
   }
 }

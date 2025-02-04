@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"user","internalType":"address","type":"address"},{"name":"rate","internalType":"int256","type":"int256"},{"name":"newBalanceLimit","internalType":"uint256","type":"uint256"},{"name":"balance","internalType":"uint256","type":"uint256"}],"name":"adjustRateCapAndBalance","outputs":[],"stateMutability":"nonpayable"}]

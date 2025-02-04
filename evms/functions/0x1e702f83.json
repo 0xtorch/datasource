@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"validatorID","internalType":"uint256","type":"uint256"},{"name":"status","internalType":"uint256","type":"uint256"}],"name":"deactivateValidator","outputs":[],"stateMutability":"nonpayable"}]

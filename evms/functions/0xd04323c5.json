@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"tokenAddress","internalType":"address","type":"address"},{"name":"tokenAmount","internalType":"uint256","type":"uint256"},{"name":"to","internalType":"address","type":"address"}],"name":"recoverToken","outputs":[],"stateMutability":"nonpayable"}]

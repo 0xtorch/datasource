@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"epoch","internalType":"uint256","type":"uint256","indexed":true},{"name":"epochTapValuation","internalType":"uint256","type":"uint256","indexed":false},{"name":"epochDuration","internalType":"uint256","type":"uint256","indexed":false}],"name":"NewEpoch"}]

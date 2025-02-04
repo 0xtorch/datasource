@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"oldAddress","internalType":"address","type":"address","indexed":false},{"name":"newAddress","internalType":"address","type":"address","indexed":false}],"name":"SetSymmioAddress"}]

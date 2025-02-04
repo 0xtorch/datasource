@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"comet","internalType":"address","type":"address"},{"name":"token","internalType":"address","type":"address"},{"name":"multiplier","internalType":"uint256","type":"uint256"}],"name":"setRewardConfigWithMultiplier","outputs":[],"stateMutability":"nonpayable"}]

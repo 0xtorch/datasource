@@ -1,0 +1,5 @@
+{
+  "address": "0x2e983700686988ae92f4a404a59f9e04ea92b46e",
+  "label": "SAPRegistry",
+  "abi": "[{\"anonymous\":false,\"inputs\":[{\"indexed\":true,\"internalType\":\"address\",\"name\":\"walletAddress\",\"type\":\"address\"}],\"name\":\"KeyChanged\",\"type\":\"event\"},{\"inputs\":[{\"internalType\":\"address\",\"name\":\"walletAddress\",\"type\":\"address\"}],\"name\":\"getKeys\",\"outputs\":[{\"internalType\":\"bytes32[2]\",\"name\":\"opPubKey\",\"type\":\"bytes32[2]\"},{\"internalType\":\"bytes32[8]\",\"name\":\"encPubKey\",\"type\":\"bytes32[8]\"},{\"internalType\":\"bytes32[16]\",\"name\":\"opPriKeyCipher\",\"type\":\"bytes32[16]\"}],\"stateMutability\":\"view\",\"type\":\"function\"},{\"inputs\":[{\"internalType\":\"bytes32[2]\",\"name\":\"opPubKey\",\"type\":\"bytes32[2]\"},{\"internalType\":\"bytes32[8]\",\"name\":\"encPubKey\",\"type\":\"bytes32[8]\"},{\"internalType\":\"bytes32[16]\",\"name\":\"opPriKeyCipher\",\"type\":\"bytes32[16]\"}],\"name\":\"setKeys\",\"outputs\":[],\"stateMutability\":\"nonpayable\",\"type\":\"function\"}]"
+}

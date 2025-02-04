@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"who","internalType":"address","type":"address","indexed":true},{"name":"amt","internalType":"uint256","type":"uint256","indexed":false},{"name":"amttre","internalType":"uint256","type":"uint256","indexed":false},{"name":"amtava","internalType":"uint256","type":"uint256","indexed":false}],"name":"Loss"}]

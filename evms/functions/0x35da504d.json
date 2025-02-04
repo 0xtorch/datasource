@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"amount","internalType":"uint256","type":"uint256"},{"name":"tokenId","internalType":"uint256","type":"uint256"},{"name":"_vtr","internalType":"address","type":"address"},{"name":"_onr","internalType":"address","type":"address"}],"name":"_deposit","outputs":[],"stateMutability":"nonpayable"}]

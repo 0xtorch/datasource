@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_shouldClaimOpBmx","internalType":"bool","type":"bool"},{"name":"_shouldStakeMultiplierPoints","internalType":"bool","type":"bool"},{"name":"_shouldClaimWeth","internalType":"bool","type":"bool"},{"name":"_shouldConvertWethToEth","internalType":"bool","type":"bool"}],"name":"handleRewards","outputs":[],"stateMutability":"nonpayable"}]

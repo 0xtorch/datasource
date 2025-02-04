@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"whitelistedRouter","internalType":"address","type":"address"}],"name":"registerWhitelistedRouter","outputs":[],"stateMutability":"nonpayable"}]

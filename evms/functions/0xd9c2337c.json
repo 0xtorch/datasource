@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"accountAddress","internalType":"address","type":"address"},{"name":"name","internalType":"string","type":"string"}],"name":"editAccountName","outputs":[],"stateMutability":"nonpayable"}]

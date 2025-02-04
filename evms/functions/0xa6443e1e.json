@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"relicId","internalType":"uint256","type":"uint256"}],"name":"levelOnUpdate","outputs":[{"name":"level","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

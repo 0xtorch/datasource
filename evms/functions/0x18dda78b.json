@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"autoCompoundBlockThreshold_","internalType":"uint256","type":"uint256"}],"name":"_setAutoCompoundBlockThreshold","outputs":[{"name":"","internalType":"uint256","type":"uint256"}],"stateMutability":"nonpayable"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"extensionToAdd","internalType":"contract DiamondExtension","type":"address"},{"name":"extensionToReplace","internalType":"contract DiamondExtension","type":"address"}],"name":"_registerExtension","outputs":[],"stateMutability":"nonpayable"}]

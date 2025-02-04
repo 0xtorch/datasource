@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"delegator","internalType":"address","type":"address"},{"name":"toValidatorID","internalType":"uint256","type":"uint256"},{"name":"stake","internalType":"uint256","type":"uint256"}],"name":"setGenesisDelegation","outputs":[],"stateMutability":"nonpayable"}]

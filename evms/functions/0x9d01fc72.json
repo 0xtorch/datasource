@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_from","internalType":"address","type":"address"},{"name":"_to","internalType":"address","type":"address"}],"name":"delegateYield","outputs":[],"stateMutability":"nonpayable"}]

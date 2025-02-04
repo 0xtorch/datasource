@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"account","internalType":"address","type":"address"},{"name":"excludedIntentAmount","internalType":"uint256","type":"uint256"}],"name":"getNotLockedBalance","outputs":[{"name":"notLockedBalance","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

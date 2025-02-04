@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"newFee","internalType":"uint256","type":"uint256","indexed":false},{"name":"delay","internalType":"uint256","type":"uint256","indexed":false},{"name":"operationId","internalType":"bytes32","type":"bytes32","indexed":false}],"name":"FeeUpdateScheduled"}]

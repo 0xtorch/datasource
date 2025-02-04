@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_user","internalType":"address","type":"address"}],"name":"userLocksData","outputs":[{"name":"lockData","internalType":"struct QLqdr.LockedBalance[]","type":"tuple[]","components":[{"name":"amount","internalType":"uint112","type":"uint112"},{"name":"unlockTime","internalType":"uint32","type":"uint32"}]}],"stateMutability":"view"}]

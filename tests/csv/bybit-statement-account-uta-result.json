@@ -41,6 +41,15 @@
     ]
   },
   {
+    "source": "bybit_uta-account_1734300300000",
+    "order": 0,
+    "type": "ignore",
+    "timestamp": 1734300300000,
+    "evidence": "system-rule",
+    "comment": "Type: INTEREST / Undefined USDT",
+    "transfers": []
+  },
+  {
     "source": "bybit_uta-account_1733789113000",
     "order": 0,
     "type": "ignore",

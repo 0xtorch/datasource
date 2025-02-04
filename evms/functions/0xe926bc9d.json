@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[],"name":"getExecutionFees","outputs":[{"name":"fees","internalType":"uint256[]","type":"uint256[]"}],"stateMutability":"view"}]

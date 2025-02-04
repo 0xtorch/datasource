@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"router","internalType":"address","type":"address"},{"name":"destinationChainId","internalType":"uint256","type":"uint256"}],"name":"getWhitelistedReceiver","outputs":[{"name":"","internalType":"address","type":"address"}],"stateMutability":"view"}]

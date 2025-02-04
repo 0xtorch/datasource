@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_stakingToken","internalType":"address[]","type":"address[]"},{"name":"_arbPerSec","internalType":"uint256[]","type":"uint256[]"},{"name":"_masterChefs","internalType":"address[]","type":"address[]"}],"name":"addPools","outputs":[],"stateMutability":"nonpayable"}]

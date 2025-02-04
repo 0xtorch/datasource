@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_programId","internalType":"bytes32","type":"bytes32"}],"name":"getProgramName","outputs":[{"name":"","internalType":"string","type":"string"}],"stateMutability":"pure"}]

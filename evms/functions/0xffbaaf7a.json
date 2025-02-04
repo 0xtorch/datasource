@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[],"name":"getCollateralAndProtectedTotalsStorage","outputs":[{"name":"totalCollateralAssets","internalType":"uint256","type":"uint256"},{"name":"totalProtectedAssets","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

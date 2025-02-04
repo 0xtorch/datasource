@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"handler","internalType":"address","type":"address"},{"name":"_isHandler","internalType":"bool","type":"bool"}],"name":"_setHandler","outputs":[],"stateMutability":"nonpayable"}]

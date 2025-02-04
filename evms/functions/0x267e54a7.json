@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_assets","internalType":"uint256","type":"uint256"},{"name":"_collateralType","internalType":"enum ISilo.CollateralType","type":"uint8"}],"name":"previewWithdraw","outputs":[{"name":"shares","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"","internalType":"uint256","type":"uint256"}],"name":"options","outputs":[{"name":"expiry","internalType":"uint128","type":"uint128"},{"name":"discount","internalType":"uint128","type":"uint128"},{"name":"amount","internalType":"uint256","type":"uint256"},{"name":"phase","internalType":"uint64","type":"uint64"}],"stateMutability":"view"}]

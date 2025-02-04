@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"account","internalType":"address","type":"address"}],"name":"balanceHistoryOf","outputs":[{"name":"","internalType":"struct IxLAB.BalanceInfo[]","type":"tuple[]","components":[{"name":"balance","internalType":"uint256","type":"uint256"},{"name":"timestamp","internalType":"uint256","type":"uint256"}]}],"stateMutability":"view"}]

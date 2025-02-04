@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"comet","internalType":"address","type":"address"},{"name":"users","internalType":"address[]","type":"address[]"},{"name":"claimedAmounts","internalType":"uint256[]","type":"uint256[]"}],"name":"setRewardsClaimed","outputs":[],"stateMutability":"nonpayable"}]

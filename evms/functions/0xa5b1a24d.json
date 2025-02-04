@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"numerator","internalType":"uint256","type":"uint256"},{"name":"denominator","internalType":"uint256","type":"uint256"}],"name":"setVaultFractionToInvest","outputs":[],"stateMutability":"nonpayable"}]

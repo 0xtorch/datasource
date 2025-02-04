@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_checkpointAddress","internalType":"address","type":"address"},{"name":"status","internalType":"bool","type":"bool"}],"name":"setCheckpointAddress","outputs":[],"stateMutability":"nonpayable"}]

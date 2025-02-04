@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"tokens","internalType":"contract IERC20[]","type":"address[]"},{"name":"tos","internalType":"address[]","type":"address[]"},{"name":"disapprove","internalType":"bool","type":"bool"}],"name":"batchApprove","outputs":[],"stateMutability":"nonpayable"}]

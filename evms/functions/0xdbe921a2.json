@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"","internalType":"address","type":"address"}],"name":"erc20ApprovalAddresses","outputs":[{"name":"","internalType":"bool","type":"bool"}],"stateMutability":"view"}]

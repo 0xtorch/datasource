@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_feeReceiver","internalType":"address","type":"address"},{"name":"_withdrawalFees","internalType":"uint256","type":"uint256"}],"name":"setProtocolFeeReceiver","outputs":[],"stateMutability":"nonpayable"}]

@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"claimStart","internalType":"uint64","type":"uint64","indexed":false},{"name":"claimEnd","internalType":"uint64","type":"uint64","indexed":false},{"name":"merkleRoot","internalType":"bytes32","type":"bytes32","indexed":false}],"name":"ConfigChanged"}]

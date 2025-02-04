@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"user","internalType":"address","type":"address"},{"name":"epoch","internalType":"uint256","type":"uint256"}],"name":"phase4Users","outputs":[{"name":"amount","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

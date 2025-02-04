@@ -1,0 +1,5 @@
+{
+  "address": "0xfc27d898bfc47b617412d1bd1eb9b9b228ae9941",
+  "label": "Migrate",
+  "abi": "[{\"inputs\":[{\"internalType\":\"address\",\"name\":\"account\",\"type\":\"address\"}],\"name\":\"Unauthorized\",\"type\":\"error\"},{\"inputs\":[{\"internalType\":\"address\",\"name\":\"creator\",\"type\":\"address\"},{\"internalType\":\"string\",\"name\":\"name\",\"type\":\"string\"},{\"internalType\":\"string\",\"name\":\"symbol\",\"type\":\"string\"},{\"internalType\":\"string\",\"name\":\"description\",\"type\":\"string\"},{\"internalType\":\"bytes\",\"name\":\"image\",\"type\":\"bytes\"},{\"internalType\":\"string[]\",\"name\":\"links\",\"type\":\"string[]\"},{\"internalType\":\"uint256\",\"name\":\"ethReserve\",\"type\":\"uint256\"},{\"internalType\":\"uint256\",\"name\":\"tokenReserve\",\"type\":\"uint256\"},{\"internalType\":\"uint256\",\"name\":\"fakeEth\",\"type\":\"uint256\"},{\"internalType\":\"address[]\",\"name\":\"holders\",\"type\":\"address[]\"},{\"internalType\":\"uint256[]\",\"name\":\"balances\",\"type\":\"uint256[]\"}],\"name\":\"completeMigration\",\"outputs\":[],\"stateMutability\":\"payable\",\"type\":\"function\"}]"
+}

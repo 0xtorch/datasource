@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"markets","internalType":"address[]","type":"address[]"},{"name":"account","internalType":"address","type":"address"},{"name":"lockDuration","internalType":"uint256","type":"uint256"}],"name":"compound","outputs":[],"stateMutability":"nonpayable"}]

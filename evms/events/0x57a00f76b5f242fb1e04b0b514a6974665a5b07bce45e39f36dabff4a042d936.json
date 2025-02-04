@@ -1,1 +1,1 @@
-[{"type":"event","anonymous":false,"inputs":[{"name":"account","internalType":"address","type":"address","indexed":true}],"name":"ExcludeFromFees"}]
+[{"type":"event","anonymous":false,"inputs":[{"name":"account","internalType":"address","type":"address","indexed":true}],"name":"ExcludeFromFees"},{"type":"event","anonymous":false,"inputs":[{"name":"excludedAddress","internalType":"address","type":"address","indexed":false}],"name":"ExcludeFromFees"}]

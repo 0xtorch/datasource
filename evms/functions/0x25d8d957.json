@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_index","internalType":"uint256","type":"uint256"},{"name":"_isRDNTFee","internalType":"bool","type":"bool"}],"name":"removeFee","outputs":[],"stateMutability":"nonpayable"}]

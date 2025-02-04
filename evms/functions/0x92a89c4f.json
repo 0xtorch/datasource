@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_withdrawId","internalType":"uint256","type":"uint256"}],"name":"isWithdrawnFromSFC","outputs":[{"name":"","internalType":"bool","type":"bool"}],"stateMutability":"view"}]

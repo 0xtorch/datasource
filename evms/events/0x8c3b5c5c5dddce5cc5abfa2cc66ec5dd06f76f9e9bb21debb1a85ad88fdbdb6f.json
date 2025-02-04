@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"requestId","internalType":"uint256","type":"uint256","indexed":false},{"name":"pTokenId","internalType":"uint256","type":"uint256","indexed":false},{"name":"lpPnl","internalType":"int256","type":"int256","indexed":false}],"name":"FinishLiquidate"}]

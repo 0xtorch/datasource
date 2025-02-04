@@ -1,6 +1,9 @@
 {
   "id": "liquid-trade",
   "service": "liquid",
+  "headerStartColumns": ["Quoted currency"],
+  "headerCheckRowSize": 10,
+  "footerStartColumns": ["TRADE CLOSINGS"],
   "formatter": {
     "Quoted currency": ["string"],
     "Base currency": ["string"],

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"stakedLiquidityDelta","internalType":"int128","type":"int128"},{"name":"tickLower","internalType":"int24","type":"int24"},{"name":"tickUpper","internalType":"int24","type":"int24"}],"name":"stake","outputs":[],"stateMutability":"nonpayable"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"tokenId","internalType":"uint256","type":"uint256"},{"name":"tickDesired","internalType":"int24","type":"int24"},{"name":"tickSlippage","internalType":"int24","type":"int24"},{"name":"swapSlippage","internalType":"uint256","type":"uint256"}],"name":"migrateLiquidity","outputs":[],"stateMutability":"nonpayable"}]

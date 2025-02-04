@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_withdrawId","internalType":"uint256","type":"uint256"}],"name":"withdrawFromSFC","outputs":[{"name":"withdrawnAmount","internalType":"uint256","type":"uint256"}],"stateMutability":"nonpayable"}]

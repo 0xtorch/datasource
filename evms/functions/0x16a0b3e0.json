@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"balancesLiveScaled18","internalType":"uint256[]","type":"uint256[]"},{"name":"tokenInIndex","internalType":"uint256","type":"uint256"},{"name":"invariantRatio","internalType":"uint256","type":"uint256"}],"name":"computeBalance","outputs":[{"name":"newBalance","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

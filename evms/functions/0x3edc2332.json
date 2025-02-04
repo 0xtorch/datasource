@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"tokenId","internalType":"uint256","type":"uint256"}],"name":"calculatePendingWithdrawalFeesLiquidity","outputs":[{"name":"pendingWithdrawalFeeLiquidity","internalType":"uint128","type":"uint128"}],"stateMutability":"view"}]

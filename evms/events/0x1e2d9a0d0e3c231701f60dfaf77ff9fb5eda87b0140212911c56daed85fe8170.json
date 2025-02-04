@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"setter","internalType":"address","type":"address","indexed":true},{"name":"owner","internalType":"address","type":"address","indexed":true},{"name":"grantee","internalType":"address","type":"address","indexed":true},{"name":"isGranted","internalType":"bool","type":"bool","indexed":false}],"name":"SetGrantPermission"}]

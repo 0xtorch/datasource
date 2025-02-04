@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_address","internalType":"address","type":"address"},{"name":"ignoreTax","internalType":"bool","type":"bool"}],"name":"setAddressTax","outputs":[],"stateMutability":"nonpayable"}]

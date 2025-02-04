@@ -240,6 +240,24 @@
     "transfers": []
   },
   {
+    "source": "bybit_funding-account_1717566156000",
+    "order": 0,
+    "type": "ignore",
+    "timestamp": 1717566156000,
+    "evidence": "system-rule",
+    "comment": "Type:ByStarter / Description: ByStarter Subscription Refund / \"400\"USDC",
+    "transfers": []
+  },
+  {
+    "source": "bybit_funding-account_1717210780000",
+    "order": 0,
+    "type": "ignore",
+    "timestamp": 1717210780000,
+    "evidence": "system-rule",
+    "comment": "Type:ByStarter / Description: ByStarter Subscription Freeze / \"-400\"USDC",
+    "transfers": []
+  },
+  {
     "source": "bybit_funding-account_1707371859000",
     "order": 0,
     "type": "airdrop",

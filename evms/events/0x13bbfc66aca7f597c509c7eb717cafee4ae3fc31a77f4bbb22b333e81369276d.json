@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"user","internalType":"address","type":"address","indexed":false},{"name":"account","internalType":"address","type":"address","indexed":false},{"name":"newName","internalType":"string","type":"string","indexed":false}],"name":"EditAccountName"}]

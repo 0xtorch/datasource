@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"account","internalType":"address","type":"address"},{"name":"amount","internalType":"uint256","type":"uint256"},{"name":"excludedIntentAmount","internalType":"uint256","type":"uint256"}],"name":"isWithdrawalAmountAvailable","outputs":[{"name":"","internalType":"bool","type":"bool"}],"stateMutability":"view"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"data","internalType":"bytes","type":"bytes"}],"name":"unlock","outputs":[{"name":"result","internalType":"bytes","type":"bytes"}],"stateMutability":"nonpayable"}]

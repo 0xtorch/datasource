@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_amt","internalType":"uint256","type":"uint256"},{"name":"_token","internalType":"address","type":"address"},{"name":"_to","internalType":"address","type":"address"}],"name":"rescue","outputs":[],"stateMutability":"nonpayable"}]

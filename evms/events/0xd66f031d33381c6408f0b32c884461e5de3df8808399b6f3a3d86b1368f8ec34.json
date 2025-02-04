@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"wrappedToken","internalType":"contract IERC4626","type":"address","indexed":true},{"name":"to","internalType":"address","type":"address","indexed":true},{"name":"issuedShares","internalType":"uint256","type":"uint256","indexed":false}],"name":"BufferSharesMinted"}]

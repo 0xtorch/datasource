@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"acc","internalType":"address","type":"address"},{"name":"key","internalType":"bytes32","type":"bytes32"},{"name":"value","internalType":"bytes32","type":"bytes32"}],"name":"setStorage","outputs":[],"stateMutability":"nonpayable"}]

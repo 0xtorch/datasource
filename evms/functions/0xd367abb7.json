@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"newMinLockDuration","internalType":"uint256","type":"uint256"}],"name":"setCompoundMinLockDuration","outputs":[],"stateMutability":"nonpayable"}]

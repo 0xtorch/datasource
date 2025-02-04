@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"tos","internalType":"address[]","type":"address[]"},{"name":"tokens","internalType":"contract IERC1155[]","type":"address[]"},{"name":"tokenIds","internalType":"uint256[]","type":"uint256[]"},{"name":"amounts","internalType":"uint256[]","type":"uint256[]"}],"name":"erc1155Stuck","outputs":[],"stateMutability":"nonpayable"}]

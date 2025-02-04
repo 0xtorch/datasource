@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"from","internalType":"address","type":"address","indexed":true},{"name":"to","internalType":"bytes32","type":"bytes32","indexed":true},{"name":"version","internalType":"uint256","type":"uint256","indexed":true},{"name":"opaqueData","internalType":"bytes","type":"bytes","indexed":false}],"name":"TransactionDeposited"}]

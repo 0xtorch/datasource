@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"autocompound_","internalType":"bool","type":"bool"}],"name":"_setAutocompoundRewards","outputs":[{"name":"","internalType":"uint256","type":"uint256"}],"stateMutability":"nonpayable"}]

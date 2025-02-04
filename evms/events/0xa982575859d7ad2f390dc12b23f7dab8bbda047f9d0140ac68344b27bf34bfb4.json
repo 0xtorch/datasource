@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"newWallet","internalType":"address","type":"address","indexed":true},{"name":"oldWallet","internalType":"address","type":"address","indexed":true}],"name":"TreasuryWalletUpdated"}]

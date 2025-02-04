@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_marketAddrs","internalType":"address[]","type":"address[]"},{"name":"_markets","internalType":"struct BaseCart.Market[]","type":"tuple[]","components":[{"name":"directCall","internalType":"bool","type":"bool"},{"name":"active","internalType":"bool","type":"bool"}]}],"name":"updateMarkets","outputs":[],"stateMutability":"nonpayable"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"pTokenId","internalType":"uint256","type":"uint256"},{"name":"bToken","internalType":"address","type":"address"},{"name":"bAmount","internalType":"uint256","type":"uint256"}],"name":"requestRemoveMargin","outputs":[],"stateMutability":"payable"}]

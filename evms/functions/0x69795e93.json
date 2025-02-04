@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_account","internalType":"address","type":"address"},{"name":"_receiver","internalType":"address","type":"address"},{"name":"_rewardTokens","internalType":"address[]","type":"address[]"}],"name":"getRewards","outputs":[],"stateMutability":"nonpayable"}]

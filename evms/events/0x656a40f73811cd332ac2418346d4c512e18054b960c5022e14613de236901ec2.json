@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"oldFee","internalType":"uint256","type":"uint256","indexed":false},{"name":"newFee","internalType":"uint256","type":"uint256","indexed":false}],"name":"MarketCreationFeeUpdated"}]

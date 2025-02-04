@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"proof","internalType":"bytes32[]","type":"bytes32[]"},{"name":"winner","internalType":"address","type":"address"},{"name":"leafIdx","internalType":"uint256","type":"uint256"}],"name":"verifyMerkleProof","outputs":[{"name":"","internalType":"bool","type":"bool"}],"stateMutability":"view"}]
