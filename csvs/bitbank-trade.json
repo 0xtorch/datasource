@@ -258,6 +258,86 @@
             ]
           }
         ]
+      },
+      {
+        "description": "信用取引",
+        "conditions": [
+          {
+            "value": {
+              "type": "cell",
+              "column": "売/買"
+            },
+            "pattern": {
+              "type": "in",
+              "values": ["buy", "sell"]
+            }
+          },
+          {
+            "value": {
+              "type": "cell",
+              "column": "現物/信用"
+            },
+            "pattern": {
+              "type": "reg-exp",
+              "pattern": "^信用"
+            }
+          }
+        ],
+        "generators": {
+          "type": "trade",
+          "source": {
+            "type": "join",
+            "values": [
+              { "type": "service" },
+              "_trade_",
+              {
+                "type": "cell",
+                "column": "取引id"
+              }
+            ]
+          },
+          "timestamp": {
+            "type": "cell",
+            "column": "取引日時"
+          },
+          "comment": {
+            "type": "join",
+            "values": [
+              { "type": "cell", "column": "現物/信用" },
+              { "type": "cell", "column": "売/買" }
+            ]
+          },
+          "transfers": [
+            {
+              "target": [
+                {
+                  "column": "売/買",
+                  "pattern": "buy"
+                }
+              ],
+              "direction": "in",
+              "amount": {
+                "type": "text",
+                "value": {
+                  "type": "cell",
+                  "column": "数量"
+                }
+              },
+              "asset": {
+                "type": "symbol",
+                "value": {
+                  "type": "split",
+                  "value": {
+                    "type": "cell",
+                    "column": "通貨ペア"
+                  },
+                  "splitter": "_",
+                  "index": 0
+                }
+              }
+            }
+          ]
+        }
       }
     ]
   },
