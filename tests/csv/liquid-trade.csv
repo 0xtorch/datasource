@@ -1,9 +1,0 @@
-""
-SPOT TRADES
-Quoted currency,Base currency,Qex/liquid,Execution,Type,Date,Open qty,Price,Fee,Fee currency,Amount,Trade side
-JPY,SOL,Liquid,486346121,Bought,05/27/2022 15:51:59 JST,8.749637,5242.0,45.8656,JPY,45865.597154,Maker
-JPY,XRP,Liquid,466402775,Bought,01/01/2022 05:23:29,150.0,97.099,14.56485,JPY,14564.85,Taker
-JPY,BTC,Liquid,466405383,Sold,01/01/2022 05:33:50,0.01,5467448.0,0,JPY,54674.48,Taker
-""
-TRADE CLOSINGS
-Funding currency,Product,Trade,Trade origin opened at,Type,Leverage level,Trade closing,Close type,Closed qty,Open price,Opened at,Close price,Closed at,Trade fee,Fee currency,Cfd fee,Close pnl
