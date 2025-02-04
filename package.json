@@ -4,20 +4,17 @@
   "module": "index.ts",
   "dependencies": {
     "@0xtorch/core": "^0.0.61",
-    "@0xtorch/csv": "^0.0.61",
-    "@0xtorch/evm": "^0.0.125",
+    "@0xtorch/evm": "^0.0.126",
     "@0xtorch/solana": "^0.0.43",
     "abitype": "^1.0.6",
-    "encoding-japanese": "^2.2.0",
     "viem": "2.21.18",
-    "zod": "^3.22.4"
+    "zod": "3.22.4"
   },
   "devDependencies": {
-    "@biomejs/biome": "1.9.3",
-    "@types/bun": "^1.1.10",
-    "@types/encoding-japanese": "^2.2.1",
-    "bun-types": "^1.1.30",
-    "prettier": "^3.2.5",
-    "prettier-plugin-packagejson": "^2.4.10"
+    "@biomejs/biome": "1.9.4",
+    "@types/bun": "^1.2.2",
+    "bun-types": "^1.2.2",
+    "prettier": "^3.4.2",
+    "prettier-plugin-packagejson": "^2.5.8"
   }
 }

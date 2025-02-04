@@ -49,16 +49,6 @@ jobs:
           USERNAME: ${{ secrets.USERNAME }}
           PASSWORD: ${{ secrets.PASSWORD }}
 
-      - name: Register CSVs
-        run: |
-          for file in $(git diff ${{github.event.before}}..${{github.event.after}} --name-only --diff-filter=AM -- 'csvs/*.json') ; do
-            FILES=$file bun run scripts/registerCsvs.ts
-          done
-        env:
-          API_ENDPOINT: ${{ secrets.API_ENDPOINT }}
-          USERNAME: ${{ secrets.USERNAME }}
-          PASSWORD: ${{ secrets.PASSWORD }}
-
       - name: Register EVM Chain Address
         run: |
           for file in $(git diff ${{github.event.before}}..${{github.event.after}} --name-only --diff-filter=AM -- 'evms/chains/**/*.json') ; do
