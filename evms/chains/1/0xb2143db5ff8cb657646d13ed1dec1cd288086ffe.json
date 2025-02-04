@@ -1,0 +1,5 @@
+{
+  "address": "0xb2143db5ff8cb657646d13ed1dec1cd288086ffe",
+  "label": "TokenOwnerMetadataWriter",
+  "abi": "[{\"inputs\":[{\"internalType\":\"address\",\"name\":\"_mintableErc1155\",\"type\":\"address\"},{\"internalType\":\"address\",\"name\":\"_metadataRegistry\",\"type\":\"address\"}],\"stateMutability\":\"nonpayable\",\"type\":\"constructor\"},{\"inputs\":[],\"name\":\"metadataRegistry\",\"outputs\":[{\"internalType\":\"contract MetadataRegistry\",\"name\":\"\",\"type\":\"address\"}],\"stateMutability\":\"view\",\"type\":\"function\"},{\"inputs\":[],\"name\":\"mintableErc1155\",\"outputs\":[{\"internalType\":\"contract ERC1155Mintable\",\"name\":\"\",\"type\":\"address\"}],\"stateMutability\":\"view\",\"type\":\"function\"},{\"inputs\":[{\"internalType\":\"uint256\",\"name\":\"tokenId\",\"type\":\"uint256\"},{\"internalType\":\"string[]\",\"name\":\"keys\",\"type\":\"string[]\"},{\"internalType\":\"string[]\",\"name\":\"texts\",\"type\":\"string[]\"}],\"name\":\"writeDocuments\",\"outputs\":[],\"stateMutability\":\"nonpayable\",\"type\":\"function\"}]"
+}
