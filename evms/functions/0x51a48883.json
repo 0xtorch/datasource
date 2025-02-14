@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"cubeToken","internalType":"contract CubeToken","type":"address"},{"name":"depositPaused","internalType":"bool","type":"bool"},{"name":"withdrawPaused","internalType":"bool","type":"bool"},{"name":"updatePaused","internalType":"bool","type":"bool"}],"name":"setPaused","outputs":[],"stateMutability":"nonpayable"}]

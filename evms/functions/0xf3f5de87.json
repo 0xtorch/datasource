@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"poolGroupName","internalType":"enum Governance.PoolGroupName","type":"uint8"},{"name":"newGovernance","internalType":"address","type":"address"}],"name":"proposeUpgradeGovernance","outputs":[],"stateMutability":"nonpayable"}]

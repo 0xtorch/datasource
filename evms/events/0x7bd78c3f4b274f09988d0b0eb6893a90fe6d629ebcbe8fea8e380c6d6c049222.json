@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"sharesNotSold","internalType":"uint256","type":"uint256","indexed":false},{"name":"fundsRaised","internalType":"uint256","type":"uint256","indexed":false},{"name":"feesGenerated","internalType":"uint256","type":"uint256","indexed":false}],"name":"RaiseGoalNotMet"}]

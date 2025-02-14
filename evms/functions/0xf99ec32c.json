@@ -1,0 +1,1 @@
+[{"type":"function","constant":true,"inputs":[{"name":"","type":"uint8"}],"name":"lastFreezeSeq","outputs":[{"name":"","type":"uint32"}],"payable":false,"stateMutability":"view"}]

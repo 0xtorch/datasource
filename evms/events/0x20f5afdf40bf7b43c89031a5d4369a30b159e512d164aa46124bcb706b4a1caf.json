@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"_proposedOwner","type":"address","indexed":true}],"name":"OwnershipTransferInitiated"}]

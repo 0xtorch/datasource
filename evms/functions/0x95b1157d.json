@@ -1,0 +1,1 @@
+[{"type":"function","constant":false,"inputs":[{"name":"target","type":"address"},{"name":"lockenddate","type":"uint256"}],"name":"setLockAccount","outputs":[],"payable":false,"stateMutability":"nonpayable"}]

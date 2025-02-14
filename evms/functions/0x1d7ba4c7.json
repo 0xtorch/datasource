@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"","internalType":"uint256","type":"uint256"}],"name":"airdropGroupings","outputs":[{"name":"startingIndex","internalType":"uint256","type":"uint256"},{"name":"endingIndex","internalType":"uint256","type":"uint256"},{"name":"minted","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

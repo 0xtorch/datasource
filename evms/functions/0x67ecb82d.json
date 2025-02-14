@@ -1,0 +1,1 @@
+[{"type":"function","constant":false,"inputs":[{"name":"_to","type":"address"},{"name":"_value","type":"uint256"},{"name":"_startDate","type":"uint256"},{"name":"_lastDate","type":"uint256"},{"name":"_batches","type":"uint256"}],"name":"transferAndLock","outputs":[],"payable":false,"stateMutability":"nonpayable"}]

@@ -1,0 +1,1 @@
+[{"type":"function","constant":false,"inputs":[{"name":"_startTime","type":"uint256"},{"name":"_endTime","type":"uint256"}],"name":"setupFundingTime","outputs":[],"payable":false,"stateMutability":"nonpayable"}]

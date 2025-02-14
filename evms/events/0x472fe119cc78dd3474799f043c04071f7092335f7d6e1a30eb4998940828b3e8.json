@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"whoRemoved","type":"address","indexed":false},{"name":"admin","type":"address","indexed":false}],"name":"LogRemoveAdmin"}]

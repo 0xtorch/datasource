@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"account_","internalType":"address","type":"address"},{"name":"status_","internalType":"bool","type":"bool"}],"name":"setLockUser","outputs":[],"stateMutability":"nonpayable"}]

@@ -1,0 +1,1 @@
+[{"type":"function","constant":false,"inputs":[{"name":"_address","type":"address"},{"name":"_lockValue","type":"uint256"},{"name":"_releaseTimeS","type":"uint256"}],"name":"setLock","outputs":[],"payable":false,"stateMutability":"nonpayable"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"optionTokens","internalType":"contract OptionToken[]","type":"address[]"}],"name":"getTotalSupplies","outputs":[{"name":"totalSupplies","internalType":"uint256[]","type":"uint256[]"}],"stateMutability":"view"}]

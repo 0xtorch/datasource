@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"newBaseMetadataURI","internalType":"string","type":"string","indexed":true}],"name":"ChangedMetadata"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"feeFraction_","internalType":"uint256","type":"uint256"},{"name":"authority_","internalType":"contract IAuthority","type":"address"},{"name":"supportedContracts_","internalType":"address[]","type":"address[]"}],"name":"initialize","outputs":[],"stateMutability":"nonpayable"}]

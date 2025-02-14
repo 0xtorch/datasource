@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_cubePool","internalType":"address","type":"address"},{"name":"_spotSymbol","internalType":"string","type":"string"},{"name":"_inverse","internalType":"bool","type":"bool"}],"name":"initialize","outputs":[],"stateMutability":"nonpayable"}]

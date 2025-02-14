@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_minAssets","internalType":"uint256","type":"uint256"}],"name":"claimFees","outputs":[{"name":"assets","internalType":"uint256","type":"uint256"}],"stateMutability":"nonpayable"}]

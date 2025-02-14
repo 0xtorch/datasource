@@ -1,0 +1,1 @@
+[{"type":"function","constant":false,"inputs":[{"name":"_startTime","type":"uint256"},{"name":"_deadLine1","type":"uint256"},{"name":"_deadLine2","type":"uint256"}],"name":"setPublicOfferingDate","outputs":[],"payable":false,"stateMutability":"nonpayable"}]

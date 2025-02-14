@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"licenseVersion","internalType":"enum ILicenseInternal.LicenseVersion","type":"uint8","indexed":false}],"name":"LicenseVersionSet"}]

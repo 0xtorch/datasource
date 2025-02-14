@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"fromIds_","internalType":"uint256[]","type":"uint256[]"},{"name":"toId_","internalType":"uint256","type":"uint256"},{"name":"deadline_","internalType":"uint256","type":"uint256"},{"name":"signature_","internalType":"bytes","type":"bytes"}],"name":"merge","outputs":[],"stateMutability":"nonpayable"}]

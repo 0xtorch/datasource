@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"cubeToken","internalType":"contract CubeToken","type":"address"},{"name":"cubeTokensIn","internalType":"uint256","type":"uint256"}],"name":"quoteWithdraw","outputs":[{"name":"","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

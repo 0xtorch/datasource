@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"messageId","internalType":"bytes32","type":"bytes32","indexed":false},{"name":"shareAmount","internalType":"uint256","type":"uint256","indexed":false},{"name":"to","internalType":"address","type":"address","indexed":false}],"name":"MessageSent"}]

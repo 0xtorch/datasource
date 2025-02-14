@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"customLicenseURI","internalType":"string","type":"string","indexed":false},{"name":"customLicenseName","internalType":"string","type":"string","indexed":false}],"name":"CustomLicenseSet"}]

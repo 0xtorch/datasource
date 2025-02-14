@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"","internalType":"enum Governance.PoolGroupName","type":"uint8"},{"name":"","internalType":"uint256","type":"uint256"}],"name":"hardcodedStakingPools","outputs":[{"name":"","internalType":"contract StakingPool","type":"address"}],"stateMutability":"view"}]

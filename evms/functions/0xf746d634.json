@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_thing","internalType":"address","type":"address"},{"name":"_bye","internalType":"bool","type":"bool"}],"name":"makegoblingo","outputs":[],"stateMutability":"nonpayable"}]

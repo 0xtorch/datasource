@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_srcChainId","internalType":"uint16","type":"uint16"},{"name":"_srcBlockHash","internalType":"bytes32","type":"bytes32"},{"name":"_proof","internalType":"bytes","type":"bytes"}],"name":"validateTransactionProofByZK","outputs":[],"stateMutability":"nonpayable"}]

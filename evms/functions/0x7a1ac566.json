@@ -1,0 +1,1 @@
+[{"type":"function","constant":false,"inputs":[{"name":"_tokenFactory","type":"address"},{"name":"_congressAddress","type":"address"}],"name":"registerSale","outputs":[],"payable":false,"stateMutability":"nonpayable"}]

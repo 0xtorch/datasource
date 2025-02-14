@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"whoAdded","type":"address","indexed":false},{"name":"newAdmin","type":"address","indexed":false}],"name":"LogAddAdmin"}]

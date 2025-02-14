@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_market","internalType":"address","type":"address"},{"name":"name","internalType":"string","type":"string"},{"name":"symbol","internalType":"string","type":"string"},{"name":"decimals","internalType":"uint8","type":"uint8"}],"name":"initialize","outputs":[],"stateMutability":"nonpayable"}]

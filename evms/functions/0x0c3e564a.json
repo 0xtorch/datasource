@@ -1,0 +1,1 @@
+[{"type":"function","constant":false,"inputs":[{"name":"_addrs","type":"address[]"},{"name":"_amount","type":"uint256"}],"name":"airDeliverMulti","outputs":[],"payable":false,"stateMutability":"nonpayable"}]

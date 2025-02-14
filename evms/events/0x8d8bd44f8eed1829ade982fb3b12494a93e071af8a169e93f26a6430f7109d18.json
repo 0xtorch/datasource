@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"desc","type":"string","indexed":false},{"name":"contributors","type":"address","indexed":true},{"name":"icoTotalAmount","type":"uint256","indexed":false},{"name":"totalSoldToken","type":"uint256","indexed":false},{"name":"leftAmount","type":"uint256","indexed":false}],"name":"TokenSaleFinished"}]

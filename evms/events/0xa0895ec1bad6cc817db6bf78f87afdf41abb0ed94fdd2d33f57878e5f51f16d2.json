@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"desc","type":"string","indexed":false},{"name":"targetaddress","type":"address","indexed":true},{"name":"unfrozenTokensAmount","type":"uint256","indexed":false}],"name":"LogUnfrozenTokens"}]

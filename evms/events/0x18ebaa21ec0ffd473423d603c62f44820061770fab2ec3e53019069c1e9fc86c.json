@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"","internalType":"contract StakingPool","type":"address","indexed":false},{"name":"","internalType":"string","type":"string","indexed":false}],"name":"PoolCallReverted"}]

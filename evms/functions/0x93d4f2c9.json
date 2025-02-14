@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_amount","internalType":"uint256","type":"uint256"},{"name":"_unlockDelayReduction","internalType":"uint256","type":"uint256"},{"name":"_onBehalfOf","internalType":"address","type":"address"}],"name":"unstake","outputs":[],"stateMutability":"nonpayable"}]

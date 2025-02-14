@@ -1,0 +1,1 @@
+[{"type":"function","constant":false,"inputs":[{"name":"addrs","type":"address[]"},{"name":"amount","type":"uint256"}],"name":"airdropToAddresses","outputs":[],"payable":false,"stateMutability":"nonpayable"}]

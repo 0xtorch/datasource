@@ -1,0 +1,1 @@
+[{"type":"function","constant":false,"inputs":[{"name":"_from","type":"address"},{"name":"_destAddrs","type":"address[]"},{"name":"_values","type":"uint256[]"}],"name":"multiSendFrom","outputs":[{"name":"","type":"uint256"}],"payable":false,"stateMutability":"nonpayable"}]

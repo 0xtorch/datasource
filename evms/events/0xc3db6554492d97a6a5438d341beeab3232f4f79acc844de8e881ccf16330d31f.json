@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"YTs","internalType":"address[]","type":"address[]","indexed":false},{"name":"lnFeeRateRoots","internalType":"uint256[]","type":"uint256[]","indexed":false}],"name":"LnFeeRateRootsSet"}]

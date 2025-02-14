@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"tokenAmount","internalType":"uint256","type":"uint256"},{"name":"recipient","internalType":"address","type":"address"},{"name":"deadline","internalType":"uint64","type":"uint64"}],"name":"getDigest","outputs":[{"name":"","internalType":"bytes32","type":"bytes32"}],"stateMutability":"view"}]

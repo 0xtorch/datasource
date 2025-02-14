@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[],"name":"pointConfig","outputs":[{"name":"campaignId","internalType":"uint256","type":"uint256"},{"name":"numberPoints","internalType":"uint256","type":"uint256"},{"name":"thresholdPoints","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

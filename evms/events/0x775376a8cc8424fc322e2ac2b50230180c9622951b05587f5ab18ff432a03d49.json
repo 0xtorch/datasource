@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"previousKyberRouter","internalType":"address","type":"address","indexed":true},{"name":"newKyberRouter","internalType":"address","type":"address","indexed":true}],"name":"KyberRouterChange"}]

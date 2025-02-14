@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_user","internalType":"address","type":"address"}],"name":"getCurrentYieldOfUserInIBT","outputs":[{"name":"_yieldOfUserInIBT","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

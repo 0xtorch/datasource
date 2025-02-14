@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_receiver","internalType":"address","type":"address"},{"name":"_minIBT","internalType":"uint256","type":"uint256"}],"name":"claimYieldInIBT","outputs":[{"name":"yieldInIBT","internalType":"uint256","type":"uint256"}],"stateMutability":"nonpayable"}]

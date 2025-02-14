@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"payments_","internalType":"address[]","type":"address[]"},{"name":"statuses_","internalType":"bool[]","type":"bool[]"}],"name":"updatePayments","outputs":[{"name":"results","internalType":"bool[]","type":"bool[]"}],"stateMutability":"nonpayable"}]

@@ -1,0 +1,1 @@
+[{"type":"function","constant":false,"inputs":[{"name":"_addr","type":"address"}],"name":"addLock","outputs":[{"name":"success","type":"bool"}],"payable":false,"stateMutability":"nonpayable"}]

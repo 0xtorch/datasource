@@ -1,0 +1,1 @@
+[{"type":"function","constant":false,"inputs":[{"name":"_newOpsAddress","type":"address"}],"name":"setOpsAddress","outputs":[{"name":"","type":"bool"}],"payable":false,"stateMutability":"nonpayable"}]

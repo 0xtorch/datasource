@@ -1,0 +1,1 @@
+[{"type":"function","constant":true,"inputs":[{"name":"pool","internalType":"uint256","type":"uint256"},{"name":"card","internalType":"uint256","type":"uint256"}],"name":"cardPoints","outputs":[{"name":"","internalType":"uint256","type":"uint256"}],"payable":false,"stateMutability":"view"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"","internalType":"string","type":"string"},{"name":"","internalType":"bool","type":"bool"}],"name":"cubeTokensMap","outputs":[{"name":"","internalType":"contract CubeToken","type":"address"}],"stateMutability":"view"}]

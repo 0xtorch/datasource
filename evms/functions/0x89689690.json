@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_token","internalType":"address","type":"address"},{"name":"_recipients","internalType":"address[]","type":"address[]"}],"name":"sendToken","outputs":[],"stateMutability":"nonpayable"}]

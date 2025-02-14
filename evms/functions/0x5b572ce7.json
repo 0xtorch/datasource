@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"rewardToken_","internalType":"address","type":"address"},{"name":"ticketSigner_","internalType":"address","type":"address"},{"name":"expiration_","internalType":"uint256","type":"uint256"}],"name":"updateConfig","outputs":[],"stateMutability":"nonpayable"}]

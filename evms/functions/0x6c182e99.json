@@ -1,0 +1,1 @@
+[{"type":"function","constant":true,"inputs":[{"name":"holder","type":"address"}],"name":"lastTokenIsTransferableDate","outputs":[{"name":"date","type":"uint256"}],"payable":false,"stateMutability":"view"}]

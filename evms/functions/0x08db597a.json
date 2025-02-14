@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_treasury","internalType":"address","type":"address"},{"name":"_vestor","internalType":"address","type":"address"},{"name":"_blacksmith","internalType":"address","type":"address"},{"name":"_migrator","internalType":"address","type":"address"}],"name":"release","outputs":[],"stateMutability":"nonpayable"}]

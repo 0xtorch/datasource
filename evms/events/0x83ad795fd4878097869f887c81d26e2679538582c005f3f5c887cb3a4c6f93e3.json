@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"holder","type":"address","indexed":false},{"name":"shares","type":"uint256","indexed":false},{"name":"price","type":"uint256","indexed":false},{"name":"sell","type":"uint256","indexed":false}],"name":"PRICE_SET"}]

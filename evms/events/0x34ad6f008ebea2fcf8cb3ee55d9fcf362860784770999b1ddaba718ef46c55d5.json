@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"desc","type":"string","indexed":false},{"name":"times","type":"uint256","indexed":false}],"name":"TimePassBy"}]

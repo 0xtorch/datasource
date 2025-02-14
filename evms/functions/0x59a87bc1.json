@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"typeNFT_","internalType":"uint256","type":"uint256"},{"name":"quantity_","internalType":"uint256","type":"uint256"},{"name":"paymentToken_","internalType":"address","type":"address"}],"name":"buy","outputs":[],"stateMutability":"payable"}]

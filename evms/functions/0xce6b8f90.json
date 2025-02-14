@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"typeId_","internalType":"uint256","type":"uint256"},{"name":"tos_","internalType":"address[]","type":"address[]"}],"name":"mintBatch","outputs":[],"stateMutability":"nonpayable"}]

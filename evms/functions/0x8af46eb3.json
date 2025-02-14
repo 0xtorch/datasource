@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"assets","internalType":"contract ERC20[]","type":"address[]"}],"name":"viewOutstandingDebts","outputs":[{"name":"debts","internalType":"uint256[]","type":"uint256[]"}],"stateMutability":"view"}]

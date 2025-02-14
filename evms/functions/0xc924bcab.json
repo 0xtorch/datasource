@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"typeId_","internalType":"uint256","type":"uint256"}],"name":"nextIdFromType","outputs":[{"name":"nextId","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"desc","type":"string","indexed":false},{"name":"target","type":"address","indexed":true},{"name":"value","type":"uint256","indexed":false}],"name":"InitialToken"}]

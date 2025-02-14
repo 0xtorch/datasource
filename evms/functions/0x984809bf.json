@@ -1,0 +1,1 @@
+[{"type":"function","constant":false,"inputs":[{"name":"_minVal","type":"uint256"},{"name":"_maxVal","type":"uint256"}],"name":"setPublicOfferingLimit","outputs":[],"payable":false,"stateMutability":"nonpayable"}]

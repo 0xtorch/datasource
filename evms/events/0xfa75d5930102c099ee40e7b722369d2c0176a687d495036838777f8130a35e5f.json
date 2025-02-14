@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"oldRewardsProxy","internalType":"address","type":"address","indexed":true},{"name":"newRewardsProxy","internalType":"address","type":"address","indexed":true}],"name":"RewardsProxyChange"}]

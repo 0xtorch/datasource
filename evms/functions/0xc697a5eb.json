@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"underlyingAmount","internalType":"uint256","type":"uint256"},{"name":"outgoing","internalType":"bool","type":"bool"}],"name":"assetsMigrationToTargetByUserRedemption","outputs":[],"stateMutability":"nonpayable"}]

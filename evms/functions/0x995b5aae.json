@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[],"name":"feeInfo","outputs":[{"name":"token","internalType":"address","type":"address"},{"name":"royalty","internalType":"uint96","type":"uint96"}],"stateMutability":"view"}]

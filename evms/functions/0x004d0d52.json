@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"proposalId","internalType":"uint256","type":"uint256"},{"name":"option","internalType":"enum Governance.Option","type":"uint8"},{"name":"amount","internalType":"uint256","type":"uint256"}],"name":"addVotes","outputs":[],"stateMutability":"nonpayable"}]

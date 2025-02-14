@@ -1,0 +1,1 @@
+[{"type":"function","constant":true,"inputs":[{"name":"_owner","type":"address"}],"name":"getLockTokens","outputs":[{"name":"value","type":"uint256"},{"name":"blockNumber","type":"uint256"}],"payable":false,"stateMutability":"view"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_method_id","type":"bytes4"},{"name":"_oracle","type":"address"}],"name":"set_oracle","outputs":[],"stateMutability":"nonpayable"}]

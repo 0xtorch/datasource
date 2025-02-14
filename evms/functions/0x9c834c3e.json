@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_preSaleTime","internalType":"uint256","type":"uint256"},{"name":"_preSaleEndTime","internalType":"uint256","type":"uint256"},{"name":"_pledgeTime","internalType":"uint256","type":"uint256"}],"name":"setAllTime","outputs":[],"stateMutability":"nonpayable"}]

@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"msgSender","internalType":"address","type":"address","indexed":true},{"name":"origin","internalType":"uint32","type":"uint32","indexed":true},{"name":"sender","internalType":"bytes32","type":"bytes32","indexed":true},{"name":"data","internalType":"bytes","type":"bytes","indexed":false}],"name":"ReceivedMessage"}]

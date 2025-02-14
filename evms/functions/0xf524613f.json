@@ -1,0 +1,1 @@
+[{"type":"function","constant":false,"inputs":[{"name":"_user","type":"address"},{"name":"_value","type":"uint256"},{"name":"_step","type":"uint8"}],"name":"freeze","outputs":[{"name":"success","type":"bool"}],"payable":false,"stateMutability":"nonpayable"}]

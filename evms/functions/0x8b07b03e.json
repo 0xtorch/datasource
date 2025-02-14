@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"account_","internalType":"address","type":"address"},{"name":"wordPos_","internalType":"uint248","type":"uint248"},{"name":"mask_","internalType":"uint256","type":"uint256"}],"name":"invalidateNonce","outputs":[],"stateMutability":"nonpayable"}]

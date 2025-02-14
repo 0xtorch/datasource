@@ -1,0 +1,1 @@
+[{"type":"function","constant":false,"inputs":[{"name":"_rate1","type":"uint256"},{"name":"_rate2","type":"uint256"}],"name":"setPbulicOfferingPrice","outputs":[],"payable":false,"stateMutability":"nonpayable"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"ibts","internalType":"uint256","type":"uint256"}],"name":"previewWithdrawIBT","outputs":[{"name":"","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

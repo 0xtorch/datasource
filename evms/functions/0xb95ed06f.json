@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"token_","internalType":"address","type":"address"}],"name":"priceOf","outputs":[{"name":"usdPrice","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

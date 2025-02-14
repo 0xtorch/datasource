@@ -1,0 +1,1 @@
+[{"type":"function","constant":false,"inputs":[{"name":"_addrs","type":"address[]"},{"name":"_deliverAmounts","type":"uint256[]"},{"name":"_freezeAmounts","type":"uint256[]"},{"name":"_freezeMonth","type":"uint256"},{"name":"_unfreezeBeginTime","type":"uint256"}],"name":"freezeDeliverMultiStandalone","outputs":[],"payable":false,"stateMutability":"nonpayable"}]

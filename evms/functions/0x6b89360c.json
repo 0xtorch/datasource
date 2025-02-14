@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"fromIds","internalType":"uint256[]","type":"uint256[]"},{"name":"toIds","internalType":"uint256[]","type":"uint256[]"}],"name":"setMintIDs","outputs":[],"stateMutability":"nonpayable"}]

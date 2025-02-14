@@ -1,0 +1,1 @@
+[{"type":"function","constant":true,"inputs":[{"name":"","type":"uint8"},{"name":"","type":"uint32"}],"name":"freezeOf","outputs":[{"name":"user","type":"address"},{"name":"amount","type":"uint256"}],"payable":false,"stateMutability":"view"}]
