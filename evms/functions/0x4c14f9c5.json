@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_target","internalType":"address","type":"address"},{"name":"_currentSaleIndex","internalType":"uint16","type":"uint16"}],"name":"getConsumedAllocation","outputs":[{"name":"","internalType":"uint16","type":"uint16"}],"stateMutability":"view"}]

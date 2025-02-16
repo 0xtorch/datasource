@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_enjoyPassport","internalType":"contract IERC721Pass","type":"address"}],"name":"setEnjoyPassport","outputs":[],"stateMutability":"nonpayable"}]
