@@ -1,0 +1,43 @@
+name: Watch Coingecko New Listings
+
+on:
+  schedule:
+    - cron: '0 0 * * *' # Runs daily at midnight UTC
+  workflow_dispatch: # Allows manual triggering
+
+permissions:
+  contents: write
+  pull-requests: write
+
+jobs:
+  watch-new-listings:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Bun
+        uses: oven-sh/bun@v1
+        with:
+          bun-version: latest
+
+      - name: Install dependencies
+        run: bun install
+
+      - name: Run watchCgNewListings script
+        run: bun run scripts/watchCgNewListings.ts
+
+      - name: Create Pull Request
+        id: cpr
+        uses: peter-evans/create-pull-request@v7
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          commit-message: 'Update token from Coingecko'
+          title: '[bot] Update token from Coingecko'
+          body: 'This PR updates the token from Coingecko.'
+          branch: 'bot/update-token'
+          branch-suffix: timestamp
+          labels: 'automated-pr'
+          reviewers: '0xnekoya'
+          draft: false

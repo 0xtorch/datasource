@@ -1,0 +1,9 @@
+[
+  {
+    "type": "exchange",
+    "cgId": "hyperliquid-spot",
+    "filesToWrite": ["hyperliquid-trade-history-jst"],
+    "excludeSymbols": ["GOD"],
+    "$comment": "example"
+  }
+]
