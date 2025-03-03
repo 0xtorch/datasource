@@ -1,0 +1,9 @@
+[
+  {
+    "type": "exchange",
+    "cgId": "hyperliquid-spot",
+    "filesToWrite": ["hyperliquid"],
+    "excludeSymbols": ["GOD"],
+    "$comment": "example"
+  }
+]
