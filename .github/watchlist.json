@@ -2,7 +2,7 @@
   {
     "type": "exchange",
     "cgId": "hyperliquid-spot",
-    "filesToWrite": ["hyperliquid-trade-history-jst"],
+    "filesToWrite": ["hyperliquid"],
     "excludeSymbols": ["GOD"],
     "$comment": "example"
   }

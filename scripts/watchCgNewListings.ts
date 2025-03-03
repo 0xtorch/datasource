@@ -10,7 +10,7 @@ const watchlistSchema = z.array(
   z.object({
     type: z.union([z.literal('exchange'), z.literal('derivatives')]),
     cgId: z.string(),
-    filesToWrite: z.array(z.string()), // relative to csvs/, without .json extension
+    filesToWrite: z.array(z.string()).optional(), // relative to csvs/, without .json extension. If not provided, it will be identical to cgId
     excludeSymbols: z.array(z.string()).optional(),
   }),
 )
@@ -127,11 +127,11 @@ async function main() {
     }
 
     // update phase start
-    for (const fw of exchange.filesToWrite) {
-      const filename = path.join(__dirname, '..', 'csvs', `${fw}.json`)
+    const fztw = exchange.filesToWrite ?? [exchange.cgId]
+    for (const fw of fztw) {
+      const filename = path.join(__dirname, '..', 'symbols', `${fw}.json`)
       const bunFile = Bun.file(filename)
-      const read = await bunFile.json()
-      const sam = read.symbolAssetMap
+      const sam = await bunFile.json()
       for (const [symbol, assetId] of Object.entries(result)) {
         sam[symbol] = `crypto/${assetId}`
       }
@@ -140,13 +140,12 @@ async function main() {
       const sortedSam = Object.fromEntries(
         Object.entries(sam).sort(([a], [b]) => a.localeCompare(b)),
       )
-      read.symbolAssetMap = sortedSam
 
-      const toBeWritten = await prettier.format(JSON.stringify(read), {
+      const toBeWritten = await prettier.format(JSON.stringify(sortedSam), {
         // JSONは何故かBioneでなくPrettierだったので、踏襲。
         parser: 'json',
       })
-      await bunFile.write(toBeWritten)
+      await Bun.write(filename, toBeWritten)
     }
   }
 }
