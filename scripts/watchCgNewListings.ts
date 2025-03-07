@@ -4,7 +4,7 @@ import * as prettier from 'prettier'
 
 const watchlist = path.join(__dirname, '..', '.github/watchlist.json')
 const cache = path.join(__dirname, '..', '.github/fetch-cache.json')
-const saveCache = false
+const saveCache = process.env.ENABLE_CACHE === 'true' // 開発用
 
 const watchlistSchema = z.array(
   z.object({
