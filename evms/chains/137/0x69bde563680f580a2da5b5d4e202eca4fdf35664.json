@@ -1,0 +1,5 @@
+{
+  "address": "0x69bde563680f580a2da5b5d4e202eca4fdf35664",
+  "label": "DiamondLoveChild",
+  "abi": "[{\"inputs\":[],\"stateMutability\":\"nonpayable\",\"type\":\"constructor\"},{\"stateMutability\":\"payable\",\"type\":\"fallback\"},{\"stateMutability\":\"payable\",\"type\":\"receive\"}]"
+}
