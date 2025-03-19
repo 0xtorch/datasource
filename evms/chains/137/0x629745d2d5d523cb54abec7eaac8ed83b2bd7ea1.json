@@ -1,0 +1,5 @@
+{
+  "address": "0x629745d2d5d523cb54abec7eaac8ed83b2bd7ea1",
+  "label": "Bulksender",
+  "abi": "[{\"constant\":false,\"inputs\":[{\"name\":\"_token\",\"type\":\"address\"},{\"name\":\"_to\",\"type\":\"address[]\"},{\"name\":\"_values\",\"type\":\"uint256[]\"}],\"name\":\"bulksendToken\",\"outputs\":[],\"payable\":false,\"stateMutability\":\"nonpayable\",\"type\":\"function\"}]"
+}
