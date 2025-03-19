@@ -1,53 +1,8 @@
 [
   {
     "type": "exchange",
-    "cgId": "fxgt",
-    "filesToWrite": ["fxgt"]
-  },
-  {
-    "type": "exchange",
-    "cgId": "mexc",
-    "filesToWrite": ["mexc"]
-  },
-  {
-    "type": "exchange",
-    "cgId": "bybit",
-    "filesToWrite": ["bybit"]
-  },
-  {
-    "type": "exchange",
     "cgId": "binance",
     "filesToWrite": ["binance"]
-  },
-  {
-    "type": "exchange",
-    "cgId": "zoomex",
-    "filesToWrite": ["zoomex"]
-  },
-  {
-    "type": "exchange",
-    "cgId": "hashhub",
-    "filesToWrite": ["hashhub"]
-  },
-  {
-    "type": "exchange",
-    "cgId": "bitget",
-    "filesToWrite": ["bitget"]
-  },
-  {
-    "type": "exchange",
-    "cgId": "btcbox",
-    "filesToWrite": ["btcbox"]
-  },
-  {
-    "type": "exchange",
-    "cgId": "htx",
-    "filesToWrite": ["htx"]
-  },
-  {
-    "type": "exchange",
-    "cgId": "cryptorch",
-    "filesToWrite": ["cryptorch"]
   },
   {
     "type": "exchange",
@@ -56,53 +11,28 @@
   },
   {
     "type": "exchange",
-    "cgId": "bitpoint",
-    "filesToWrite": ["bitpoint"]
+    "cgId": "bitflyer",
+    "filesToWrite": ["bitflyer"]
   },
   {
     "type": "exchange",
-    "cgId": "dmmbitcoin",
-    "filesToWrite": ["dmmbitcoin"]
+    "cgId": "bitget",
+    "filesToWrite": ["bitget"]
   },
   {
     "type": "exchange",
-    "cgId": "hyperliquid-spot",
-    "filesToWrite": ["hyperliquid"]
-  },
-  {
-    "type": "exchange",
-    "cgId": "hashkey",
-    "filesToWrite": ["hashkey"]
-  },
-  {
-    "type": "exchange",
-    "cgId": "coinlist",
-    "filesToWrite": ["coinlist"]
-  },
-  {
-    "type": "exchange",
-    "cgId": "bittrade",
+    "cgId": "huobi_japan",
     "filesToWrite": ["bittrade"]
   },
   {
     "type": "exchange",
-    "cgId": "kucoin",
-    "filesToWrite": ["kucoin"]
+    "cgId": "btcbox",
+    "filesToWrite": ["btcbox"]
   },
   {
     "type": "exchange",
-    "cgId": "okx",
-    "filesToWrite": ["okx"]
-  },
-  {
-    "type": "exchange",
-    "cgId": "okj",
-    "filesToWrite": ["okj"]
-  },
-  {
-    "type": "exchange",
-    "cgId": "sbivc",
-    "filesToWrite": ["sbivc"]
+    "cgId": "bybit",
+    "filesToWrite": ["bybit"]
   },
   {
     "type": "exchange",
@@ -111,23 +41,8 @@
   },
   {
     "type": "exchange",
-    "cgId": "zaif",
-    "filesToWrite": ["zaif"]
-  },
-  {
-    "type": "exchange",
-    "cgId": "nexo",
-    "filesToWrite": ["nexo"]
-  },
-  {
-    "type": "exchange",
-    "cgId": "cryptact",
-    "filesToWrite": ["cryptact"]
-  },
-  {
-    "type": "exchange",
-    "cgId": "liquid",
-    "filesToWrite": ["liquid"]
+    "cgId": "coinlist",
+    "filesToWrite": ["coinlist"]
   },
   {
     "type": "exchange",
@@ -136,37 +51,47 @@
   },
   {
     "type": "exchange",
-    "cgId": "gmo",
+    "cgId": "gmo-japan",
     "filesToWrite": ["gmo"]
   },
   {
     "type": "exchange",
-    "cgId": "cointrade",
-    "filesToWrite": ["cointrade"]
+    "cgId": "hashkey-global",
+    "filesToWrite": ["hashkey"]
   },
   {
     "type": "exchange",
-    "cgId": "bitflyer",
-    "filesToWrite": ["bitflyer"]
+    "cgId": "huobi",
+    "filesToWrite": ["htx"]
   },
   {
     "type": "exchange",
-    "cgId": "rakuten",
-    "filesToWrite": ["rakuten"]
+    "cgId": "hyperliquid-spot",
+    "filesToWrite": ["hyperliquid"]
   },
   {
     "type": "exchange",
-    "cgId": "gtax",
-    "filesToWrite": ["gtax"]
+    "cgId": "kucoin",
+    "filesToWrite": ["kucoin"]
   },
   {
     "type": "exchange",
-    "cgId": "ftx",
-    "filesToWrite": ["ftx"]
+    "cgId": "mxc",
+    "filesToWrite": ["mexc"]
   },
   {
     "type": "exchange",
-    "cgId": "spectrocoin",
-    "filesToWrite": ["spectrocoin"]
+    "cgId": "okcoin-japan",
+    "filesToWrite": ["okj"]
+  },
+  {
+    "type": "exchange",
+    "cgId": "okex",
+    "filesToWrite": ["okx"]
+  },
+  {
+    "type": "exchange",
+    "cgId": "zaif",
+    "filesToWrite": ["zaif"]
   }
 ]
