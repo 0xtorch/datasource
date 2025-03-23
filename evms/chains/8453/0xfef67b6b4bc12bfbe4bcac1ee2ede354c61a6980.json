@@ -1,0 +1,5 @@
+{
+  "address": "0xfef67b6b4bc12bfbe4bcac1ee2ede354c61a6980",
+  "label": "VirusDrop",
+  "abi": "[{\"inputs\":[{\"internalType\":\"address\",\"name\":\"_token\",\"type\":\"address\"},{\"internalType\":\"address[]\",\"name\":\"_addresses\",\"type\":\"address[]\"},{\"internalType\":\"uint256[]\",\"name\":\"_amounts\",\"type\":\"uint256[]\"},{\"internalType\":\"uint256\",\"name\":\"_totalAmount\",\"type\":\"uint256\"}],\"name\":\"airdropERC20\",\"outputs\":[],\"stateMutability\":\"payable\",\"type\":\"function\"}]"
+}
