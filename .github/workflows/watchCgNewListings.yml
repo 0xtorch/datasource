@@ -3,6 +3,10 @@ name: Watch Coingecko New Listings
 on:
   schedule:
     - cron: '0 0 * * *' # Runs daily at midnight UTC
+  push: # debug purposes
+    branches:
+      - main
+      - cg-crawl
   workflow_dispatch: # Allows manual triggering
 
 permissions:
@@ -27,6 +31,8 @@ jobs:
 
       - name: Run watchCgNewListings script
         run: bun run scripts/watchCgNewListings.ts
+        env:
+          CG_DEMO_API_KEY: ${{ secrets.CG_DEMO_API_KEY }}
 
       - name: Create Pull Request
         id: cpr
