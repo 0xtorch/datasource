@@ -15,8 +15,11 @@ const watchlistSchema = z.array(
   }),
 )
 
-const CACHE_DURATION = 1000 * 60 * 60 // 1 hour
+const CACHE_DURATION = 1000 * 60 * 60 * 24 // 24 hours
 
+function sleep(ms: number) {
+  return new Promise((resolve) => setTimeout(resolve, ms))
+}
 function log(
   level: 'log' | 'error' | 'debug' | 'info' | 'warn' | 'trace',
   message: string,
@@ -35,7 +38,13 @@ async function get(url: string) {
       'x-cg-demo-api-key': process.env.CG_DEMO_API_KEY ?? '',
     },
   })
-  return await res.json()
+  const tex = await res.text()
+  try {
+    return JSON.parse(tex)
+  } catch (e) {
+    log('error', 'Failed to parse response as JSON', tex)
+    throw e
+  }
 }
 
 async function cachedGet(url: string) {
@@ -59,7 +68,14 @@ async function cachedGet(url: string) {
       log('error', 'Failed to read cache', e)
     }
   }
-  const data = await get(url)
+
+  await sleep(3000) // 1s sleep to avoid rate limit
+  const data = (await get(url)) as any
+  try {
+    if (data.status.error_code === 429) {
+      return data
+    }
+  } catch (e) {}
 
   if (saveCache) {
     log('debug', 'saving cache')
@@ -83,6 +99,12 @@ async function autopage<T>(url: string, extractArray: (data: any) => T[]) {
     try {
       log('debug', `Fetching page ${page} of ${url}`)
       const res = await cachedGet(`${url}&page=${page}`)
+      try {
+        if (res.status.error_code === 429) {
+          log('error', `Rate limit exceeded on page ${page}`)
+          break
+        }
+      } catch (e) {}
       const array = extractArray(res)
       if (array.length === 0) {
         log('debug', 'Aborting autopage due to empty array')
@@ -93,9 +115,9 @@ async function autopage<T>(url: string, extractArray: (data: any) => T[]) {
       mergedResult = [...mergedResult, ...array] // Use the spread operator to merge arrays
     } catch (e) {
       if (page === 1) {
-        log('error', `Error fetching data ${page}:`, e)
+        log('error', `Error fetching data on page ${page}`, e)
       } else {
-        log('debug', `Aborting autopage due to error on page ${page}:`, e)
+        log('debug', `Aborting autopage due to error on page ${page}`)
         break
       }
     }

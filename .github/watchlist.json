@@ -51,7 +51,7 @@
   },
   {
     "type": "exchange",
-    "cgId": "gmo-japan",
+    "cgId": "gmo_japan",
     "filesToWrite": ["gmo"]
   },
   {

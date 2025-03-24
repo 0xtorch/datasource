@@ -1,1 +1,9 @@
-{}
+{
+  "BCH": "crypto/bitcoin-cash",
+  "BTC": "crypto/bitcoin",
+  "DOGE": "crypto/dogecoin",
+  "DOT": "crypto/polkadot",
+  "ETH": "crypto/ethereum",
+  "LTC": "crypto/litecoin",
+  "TRX": "crypto/tron"
+}

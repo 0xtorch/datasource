@@ -1,1 +1,21 @@
-{ "ERC20.CMS": "crypto/0xtorch-zaif-cms" }
+{
+  "BCH": "crypto/bitcoin-cash",
+  "BORA": "crypto/bora",
+  "BTC": "crypto/bitcoin",
+  "CICC": "crypto/caica-coin",
+  "COT": "crypto/cosplay-token-2",
+  "ERC20.CMS": "crypto/0xtorch-zaif-cms",
+  "ETH": "crypto/ethereum",
+  "FSCC": "crypto/fisco",
+  "KLAY": "crypto/klay-token",
+  "MATIC": "crypto/matic-network",
+  "MONA": "crypto/monacoin",
+  "POLYGON.MV": "crypto/gensokishis-metaverse",
+  "POLYGON.ROND": "crypto/rond",
+  "SNPT": "crypto/snpit-token",
+  "TRX": "crypto/tron",
+  "XCP": "crypto/counterparty",
+  "XEM": "crypto/nem",
+  "XYM": "crypto/symbol",
+  "ZAIF": "crypto/zaif-token"
+}

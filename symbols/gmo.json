@@ -1,1 +1,25 @@
-{}
+{
+  "ADA": "crypto/cardano",
+  "ASTR": "crypto/astar",
+  "ATOM": "crypto/cosmos",
+  "BAT": "crypto/basic-attention-token",
+  "BCH": "crypto/bitcoin-cash",
+  "BTC": "crypto/bitcoin",
+  "DAI": "crypto/dai",
+  "DOGE": "crypto/dogecoin",
+  "DOT": "crypto/polkadot",
+  "ENJ": "crypto/enjincoin",
+  "ETH": "crypto/ethereum",
+  "FCR": "crypto/fcr-coin",
+  "LINK": "crypto/chainlink",
+  "LTC": "crypto/litecoin",
+  "MKR": "crypto/maker",
+  "MONA": "crypto/monacoin",
+  "QTUM": "crypto/qtum",
+  "SOL": "crypto/solana",
+  "XEM": "crypto/nem",
+  "XLM": "crypto/stellar",
+  "XRP": "crypto/ripple",
+  "XTZ": "crypto/tezos",
+  "XYM": "crypto/symbol"
+}
