@@ -3,10 +3,6 @@ name: Watch Coingecko New Listings
 on:
   schedule:
     - cron: '0 0 * * *' # Runs daily at midnight UTC
-  push: # debug purposes
-    branches:
-      - main
-      - cg-crawl
   workflow_dispatch: # Allows manual triggering
 
 permissions:
