@@ -1,0 +1,5 @@
+{
+  "address": "0x53eca55b47abf5063536739d9cb1b97354e26521",
+  "label": "RouterProxy",
+  "abi": "[{\"inputs\":[{\"internalType\":\"contract AbstractRouter\",\"name\":\"implementation\",\"type\":\"address\"}],\"stateMutability\":\"nonpayable\",\"type\":\"constructor\"},{\"anonymous\":false,\"inputs\":[{\"indexed\":false,\"internalType\":\"address\",\"name\":\"admin\",\"type\":\"address\"}],\"name\":\"SetAdmin\",\"type\":\"event\"},{\"stateMutability\":\"nonpayable\",\"type\":\"fallback\"},{\"inputs\":[],\"name\":\"IMPLEMENTATION\",\"outputs\":[{\"internalType\":\"contract AbstractRouter\",\"name\":\"\",\"type\":\"address\"}],\"stateMutability\":\"view\",\"type\":\"function\"}]"
+}
