@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"mintConfigId","internalType":"uint256","type":"uint256"},{"name":"fixedPrice","internalType":"uint256","type":"uint256"}],"name":"setFixedPriceForMintConfig","outputs":[],"stateMutability":"nonpayable"}]

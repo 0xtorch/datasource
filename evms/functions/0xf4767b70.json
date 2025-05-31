@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_freshBlocks","internalType":"uint256","type":"uint256"},{"name":"_staleTax","internalType":"uint256","type":"uint256"}],"name":"setFreshConfig","outputs":[],"stateMutability":"nonpayable"}]

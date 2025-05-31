@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"underlying_","internalType":"contract ERC20","type":"address"},{"name":"expiry_","internalType":"uint48","type":"uint48"}],"name":"deploy","outputs":[{"name":"","internalType":"uint256","type":"uint256"}],"stateMutability":"nonpayable"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"batchIdList","internalType":"uint256[]","type":"uint256[]"},{"name":"indexList","internalType":"uint256[]","type":"uint256[]"}],"name":"isClaimed2","outputs":[{"name":"","internalType":"bool[]","type":"bool[]"}],"stateMutability":"view"}]

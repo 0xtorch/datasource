@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"timelockDelay","internalType":"uint256","type":"uint256","indexed":false},{"name":"finalizationForAllDelay","internalType":"uint256","type":"uint256","indexed":false},{"name":"finalizationIncentive","internalType":"uint256","type":"uint256","indexed":false}],"name":"LiquidityPoolRouter__FinalizationParamsUpdated"}]

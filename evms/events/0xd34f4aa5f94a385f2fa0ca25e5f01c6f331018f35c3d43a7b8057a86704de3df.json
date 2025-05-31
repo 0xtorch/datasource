@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"guy","internalType":"address","type":"address","indexed":true},{"name":"isPauser","internalType":"bool","type":"bool","indexed":true}],"name":"SetPauser"}]

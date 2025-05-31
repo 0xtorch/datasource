@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"requestId","internalType":"uint256","type":"uint256","indexed":true},{"name":"client","internalType":"address","type":"address","indexed":true},{"name":"results","internalType":"uint256[]","type":"uint256[]","indexed":false}],"name":"NewResponse"}]

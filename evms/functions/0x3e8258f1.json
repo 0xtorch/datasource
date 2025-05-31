@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"requestId","internalType":"uint256","type":"uint256"},{"name":"results","internalType":"uint256[]","type":"uint256[]"}],"name":"lpnCallback","outputs":[],"stateMutability":"nonpayable"}]

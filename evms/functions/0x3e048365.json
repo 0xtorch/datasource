@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"id","internalType":"uint256","type":"uint256"},{"name":"claimTVL","internalType":"uint256","type":"uint256"}],"name":"setClaimTVL","outputs":[],"stateMutability":"nonpayable"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_protocolProxyChainId","internalType":"uint256","type":"uint256"},{"name":"_protocolProxyAddr","internalType":"address","type":"address"}],"name":"getProtocolAllowedTokens","outputs":[{"name":"","internalType":"address[]","type":"address[]"}],"stateMutability":"view"}]

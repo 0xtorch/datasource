@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"owner","internalType":"address","type":"address"},{"name":"routerImplementation","internalType":"contract AbstractRouter","type":"address"}],"name":"computeProxyAddress","outputs":[{"name":"","internalType":"address payable","type":"address"}],"stateMutability":"view"}]

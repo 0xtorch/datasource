@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"award","type":"uint256","indexed":false},{"name":"totalAward","type":"uint256","indexed":false}],"name":"ClaimTeamAward"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"bunniToken","internalType":"contract IBunniToken","type":"address"}],"name":"poolIdOfBunniToken","outputs":[{"name":"","internalType":"PoolId","type":"bytes32"}],"stateMutability":"view"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"boxTypeId","internalType":"uint256","type":"uint256"},{"name":"probabilities","internalType":"uint256[]","type":"uint256[]"},{"name":"typeIds","internalType":"uint256[]","type":"uint256[]"}],"name":"setBoxOutcomes","outputs":[],"stateMutability":"nonpayable"}]

@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"order","internalType":"bytes32","type":"bytes32","indexed":true},{"name":"seller","internalType":"address","type":"address","indexed":true}],"name":"OrderCanceled"}]

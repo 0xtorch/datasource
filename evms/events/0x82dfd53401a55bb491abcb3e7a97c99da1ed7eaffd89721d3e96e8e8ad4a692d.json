@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"aToken","internalType":"address","type":"address","indexed":true},{"name":"staticATokenName","internalType":"string","type":"string","indexed":false},{"name":"staticATokenSymbol","internalType":"string","type":"string","indexed":false}],"name":"Initialized"}]

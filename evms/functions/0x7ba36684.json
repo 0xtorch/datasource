@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"hookParams","internalType":"bytes","type":"bytes"}],"name":"isValidParams","outputs":[{"name":"","internalType":"bool","type":"bool"}],"stateMutability":"pure"}]

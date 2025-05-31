@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"postClaimHandler","internalType":"contract IPostClaimHandler","type":"address"}],"name":"removePostClaimHandlerToWhitelist","outputs":[],"stateMutability":"nonpayable"}]

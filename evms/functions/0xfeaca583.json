@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_burnRate","internalType":"uint256","type":"uint256"},{"name":"_reserveRate","internalType":"uint256","type":"uint256"}],"name":"setFeeRates","outputs":[],"stateMutability":"nonpayable"}]

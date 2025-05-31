@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"id","internalType":"PoolId","type":"bytes32"}],"name":"vaultSharePricesAtLastSwap","outputs":[{"name":"initialized","internalType":"bool","type":"bool"},{"name":"sharePrice0","internalType":"uint120","type":"uint120"},{"name":"sharePrice1","internalType":"uint120","type":"uint120"}],"stateMutability":"view"}]

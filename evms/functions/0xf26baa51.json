@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"merkleRoot","internalType":"bytes32","type":"bytes32"},{"name":"leafArguments","internalType":"bytes","type":"bytes"},{"name":"proof","internalType":"bytes32[]","type":"bytes32[]"}],"name":"validateLeaf","outputs":[],"stateMutability":"pure"}]

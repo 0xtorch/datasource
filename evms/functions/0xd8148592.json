@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"currency","internalType":"address","type":"address"},{"name":"enabled","internalType":"bool","type":"bool"},{"name":"coefficient","internalType":"uint256","type":"uint256"}],"name":"setCurrency","outputs":[],"stateMutability":"nonpayable"}]

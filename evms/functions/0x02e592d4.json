@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_darksideReferral","internalType":"contract IDarksideReferral","type":"address"}],"name":"setDarksideReferral","outputs":[],"stateMutability":"nonpayable"}]

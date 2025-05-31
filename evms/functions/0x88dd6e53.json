@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"poolId","internalType":"PoolId","type":"bytes32"}],"name":"idleBalance","outputs":[{"name":"","internalType":"IdleBalance","type":"bytes32"}],"stateMutability":"view"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"pairs","internalType":"address[]","type":"address[]"},{"name":"amountsMax","internalType":"uint256[]","type":"uint256[]"},{"name":"recipient","internalType":"address","type":"address"}],"name":"burnV2","outputs":[],"stateMutability":"payable"}]

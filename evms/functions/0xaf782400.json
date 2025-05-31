@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[],"name":"getIsMintLocked","outputs":[{"name":"isMintLocked","internalType":"bool","type":"bool"}],"stateMutability":"view"}]

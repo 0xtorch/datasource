@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"primary","internalType":"address","type":"address"},{"name":"subAccountId","internalType":"uint256","type":"uint256"},{"name":"allowed","internalType":"bool","type":"bool"}],"name":"setSubAccountExtension","outputs":[],"stateMutability":"nonpayable"}]

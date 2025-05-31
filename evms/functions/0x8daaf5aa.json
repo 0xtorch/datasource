@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"rewards","internalType":"address[]","type":"address[]"}],"name":"claimRewardsToSelf","outputs":[],"stateMutability":"nonpayable"}]

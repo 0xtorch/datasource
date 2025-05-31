@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_beneficiary","internalType":"address payable","type":"address"},{"name":"_bnbAmount","internalType":"uint256","type":"uint256"}],"name":"buyTokensByBnb","outputs":[],"stateMutability":"payable"}]

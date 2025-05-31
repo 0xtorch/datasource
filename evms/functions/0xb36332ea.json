@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"vaults","internalType":"address[]","type":"address[]"},{"name":"amountsMax","internalType":"uint256[]","type":"uint256[]"},{"name":"recipient","internalType":"address","type":"address"}],"name":"redeem","outputs":[],"stateMutability":"payable"}]

@@ -1,0 +1,1 @@
+[{"type":"function","constant":false,"inputs":[{"name":"_weth","internalType":"enum IERC20Rebasing.YieldMode","type":"uint8"},{"name":"_usdb","internalType":"enum IERC20Rebasing.YieldMode","type":"uint8"}],"name":"configureYieldModeTokens","outputs":[],"payable":false,"stateMutability":"nonpayable"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_sellMarketingFee","internalType":"uint24","type":"uint24"},{"name":"_buyMarketingFee","internalType":"uint24","type":"uint24"}],"name":"updateMarketingFee","outputs":[],"stateMutability":"nonpayable"}]

@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"_twapOracle","internalType":"contract IDynamicTwapOracle","type":"address","indexed":true},{"name":"_paymentToken","internalType":"address","type":"address","indexed":true}],"name":"SetTwapOracleAndPaymentToken"}]

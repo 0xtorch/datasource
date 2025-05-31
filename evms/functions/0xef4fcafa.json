@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"recipient","internalType":"address","type":"address"},{"name":"minLpAmountOut","internalType":"uint256","type":"uint256"}],"name":"sync","outputs":[{"name":"lpAmountOut","internalType":"uint256","type":"uint256"}],"stateMutability":"nonpayable"}]

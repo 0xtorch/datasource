@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"bunniToken","internalType":"contract IBunniToken","type":"address","indexed":true},{"name":"poolId","internalType":"PoolId","type":"bytes32","indexed":true}],"name":"NewBunni"}]

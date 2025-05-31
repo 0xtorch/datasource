@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"nft_","internalType":"address","type":"address"},{"name":"minter_","internalType":"address","type":"address"},{"name":"count_","internalType":"uint32","type":"uint32"}],"name":"updateMinter","outputs":[],"stateMutability":"nonpayable"}]

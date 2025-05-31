@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"endBlock","internalType":"uint256","type":"uint256"},{"name":"endDarksideEmission","internalType":"uint256","type":"uint256"}],"name":"updateDarksideRelease","outputs":[],"stateMutability":"nonpayable"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"timestamp1","internalType":"uint256","type":"uint256"},{"name":"timestamp2","internalType":"uint256","type":"uint256"}],"name":"compareDates","outputs":[{"name":"","internalType":"bool","type":"bool"}],"stateMutability":"pure"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"currencyList","internalType":"Currency[]","type":"address[]"}],"name":"getClaimableHookFees","outputs":[{"name":"feeAmounts","internalType":"uint256[]","type":"uint256[]"}],"stateMutability":"view"}]

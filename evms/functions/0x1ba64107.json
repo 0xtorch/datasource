@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"tamagoPriceCents","internalType":"uint256","type":"uint256"}],"name":"getEmissionRatePercent","outputs":[{"name":"epr","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

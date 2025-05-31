@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"metadataRenderer","internalType":"address","type":"address","indexed":true}],"name":"MetadataRendererSet"}]

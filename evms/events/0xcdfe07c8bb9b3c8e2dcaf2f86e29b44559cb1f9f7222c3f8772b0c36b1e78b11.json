@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"oldUri","internalType":"string","type":"string","indexed":false},{"name":"newUri","internalType":"string","type":"string","indexed":false}],"name":"IPFSBaseURIUpdated"}]

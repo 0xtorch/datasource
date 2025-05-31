@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"stakeToken","internalType":"address","type":"address"},{"name":"yieldToken","internalType":"address","type":"address"}],"name":"addSupportYieldTokens","outputs":[],"stateMutability":"nonpayable"}]

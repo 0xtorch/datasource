@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"oldFeeReceiver","internalType":"address","type":"address","indexed":true},{"name":"newFeeReceiver","internalType":"address","type":"address","indexed":true}],"name":"FeeReceiverUpdated"}]

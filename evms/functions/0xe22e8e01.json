@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"liquidityPool","internalType":"address","type":"address"},{"name":"minDepositAmount","internalType":"uint256","type":"uint256"},{"name":"maxDepositAmount","internalType":"uint256","type":"uint256"},{"name":"maxBalance","internalType":"uint256","type":"uint256"}],"name":"setDepositLimit","outputs":[],"stateMutability":"nonpayable"}]

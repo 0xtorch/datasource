@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_registerTime","internalType":"uint256","type":"uint256"},{"name":"_registerDuration","internalType":"uint256","type":"uint256"},{"name":"_fcfsDuration","internalType":"uint256","type":"uint256"}],"name":"setTimeline","outputs":[],"stateMutability":"nonpayable"}]

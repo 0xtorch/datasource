@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"nft_","internalType":"address","type":"address"},{"name":"user_","internalType":"address","type":"address"},{"name":"hash_","internalType":"bytes","type":"bytes"}],"name":"mint","outputs":[],"stateMutability":"nonpayable"}]

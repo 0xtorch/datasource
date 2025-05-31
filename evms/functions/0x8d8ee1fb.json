@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"","internalType":"address","type":"address"}],"name":"purchaseInfo","outputs":[{"name":"desiredPurchaseAmount","internalType":"uint256","type":"uint256"},{"name":"claimed","internalType":"bool","type":"bool"}],"stateMutability":"view"}]

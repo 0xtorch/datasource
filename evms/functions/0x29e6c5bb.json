@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_liquidity1","internalType":"address","type":"address"},{"name":"_liquidity2","internalType":"address","type":"address"}],"name":"listLiquidity","outputs":[],"stateMutability":"nonpayable"}]

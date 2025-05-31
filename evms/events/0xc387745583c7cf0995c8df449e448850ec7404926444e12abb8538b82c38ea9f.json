@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"hookFeeModifier","internalType":"uint32","type":"uint32","indexed":true},{"name":"referrerRewardModifier","internalType":"uint32","type":"uint32","indexed":true}],"name":"SetModifiers"}]

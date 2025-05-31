@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"lp","internalType":"address","type":"address"},{"name":"sharesIn","internalType":"uint256","type":"uint256"}],"name":"previewRemoveLiquidity","outputs":[{"name":"baseAmountOut","internalType":"uint256","type":"uint256"},{"name":"quoteAmountOut","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

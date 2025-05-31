@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_holderAddress","internalType":"address","type":"address"},{"name":"_colosAmount","internalType":"uint256","type":"uint256"}],"name":"previewSwapSkillExpectedAmount","outputs":[{"name":"expectedSkill","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

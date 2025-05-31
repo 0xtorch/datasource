@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"user","internalType":"address","type":"address"},{"name":"stakeToken","internalType":"contract IERC20Lockable","type":"address"}],"name":"userPoolCounts","outputs":[{"name":"","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

@@ -1,0 +1,1 @@
+[{"type":"function","constant":false,"inputs":[{"name":"on","internalType":"bool","type":"bool"}],"name":"setTxOn","outputs":[],"payable":false,"stateMutability":"nonpayable"}]

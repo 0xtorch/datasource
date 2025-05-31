@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"txgold","internalType":"address payable","type":"address"}],"name":"setTxgoldAddress","outputs":[],"stateMutability":"nonpayable"}]

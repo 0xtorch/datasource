@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"yieldAPY","internalType":"uint256","type":"uint256"},{"name":"stakeToken","internalType":"address","type":"address"}],"name":"addPool","outputs":[{"name":"poolId","internalType":"uint256","type":"uint256"}],"stateMutability":"nonpayable"}]

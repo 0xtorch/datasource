@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"tierId","internalType":"uint256","type":"uint256","indexed":false},{"name":"feeDiscountPct","internalType":"uint256","type":"uint256","indexed":false},{"name":"refRebatePct","internalType":"uint256","type":"uint256","indexed":false}],"name":"ReferralTierSet"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"fromToken","internalType":"contract IERC20","type":"address"},{"name":"toToken","internalType":"contract IERC20","type":"address"},{"name":"amountOut","internalType":"uint256","type":"uint256"}],"name":"getSwapIn","outputs":[{"name":"amountIn","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

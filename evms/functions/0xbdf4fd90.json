@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_user","internalType":"address","type":"address"}],"name":"isUserInPenaltyPeriod","outputs":[{"name":"penalty","internalType":"bool","type":"bool"}],"stateMutability":"view"}]

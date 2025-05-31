@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"infector","internalType":"address","type":"address"}],"name":"getFirstInfectionCountMulti","outputs":[{"name":"","internalType":"uint256[]","type":"uint256[]"}],"stateMutability":"view"}]

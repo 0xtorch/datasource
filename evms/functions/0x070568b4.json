@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_account","internalType":"address","type":"address"},{"name":"_role","internalType":"uint16","type":"uint16"}],"name":"setAccountManager","outputs":[],"stateMutability":"nonpayable"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"receiver_","internalType":"address","type":"address"},{"name":"editionIds_","internalType":"uint256[]","type":"uint256[]"},{"name":"tierIds_","internalType":"uint256[]","type":"uint256[]"},{"name":"proofs_","internalType":"bytes32[][]","type":"bytes32[][]"}],"name":"batchClaim","outputs":[],"stateMutability":"nonpayable"}]

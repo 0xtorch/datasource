@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"domainID","internalType":"uint8","type":"uint8"},{"name":"nonce","internalType":"uint64","type":"uint64"}],"name":"adminSetDepositNonce","outputs":[],"stateMutability":"nonpayable"}]

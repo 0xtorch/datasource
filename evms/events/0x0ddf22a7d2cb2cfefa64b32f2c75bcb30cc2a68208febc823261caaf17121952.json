@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"id","internalType":"string","type":"string","indexed":false},{"name":"newBeneficiary","internalType":"address","type":"address","indexed":false}],"name":"TransferredBeneficiary"}]

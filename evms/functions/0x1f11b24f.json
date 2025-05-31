@@ -1,0 +1,1 @@
+[{"type":"function","constant":true,"inputs":[{"name":"_nameStr","type":"string"}],"name":"getPlayer","outputs":[{"name":"","type":"address"}],"payable":false,"stateMutability":"view"}]

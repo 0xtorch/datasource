@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"newHookFeeRecipient","internalType":"address","type":"address"}],"name":"setHookFeeRecipient","outputs":[],"stateMutability":"nonpayable"}]

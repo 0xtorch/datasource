@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_halflifeAddress","internalType":"address","type":"address"},{"name":"_addInitialLiquityAddress","internalType":"address","type":"address"},{"name":"_otherLPRerwardsAddressList","internalType":"address[]","type":"address[]"}],"name":"initWhiteList","outputs":[],"stateMutability":"nonpayable"}]

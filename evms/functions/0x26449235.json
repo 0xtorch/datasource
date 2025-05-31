@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"","internalType":"string","type":"string"}],"name":"domains","outputs":[{"name":"name","internalType":"string","type":"string"},{"name":"tokenId","internalType":"uint256","type":"uint256"},{"name":"holder","internalType":"address","type":"address"},{"name":"data","internalType":"string","type":"string"}],"stateMutability":"view"}]

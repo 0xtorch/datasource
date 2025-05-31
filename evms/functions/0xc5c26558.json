@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"id","internalType":"Id","type":"uint256"}],"name":"merkleDistributor","outputs":[{"name":"","internalType":"contract IMerkleDistributorWithDeadline","type":"address"}],"stateMutability":"view"}]

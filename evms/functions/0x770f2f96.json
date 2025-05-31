@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"id","internalType":"RushPoolId","type":"bytes32"},{"name":"incentiveToken","internalType":"address","type":"address"},{"name":"depositor","internalType":"address","type":"address"}],"name":"rushPoolIncentiveDeposits","outputs":[{"name":"","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

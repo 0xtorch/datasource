@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_spaceReferral","internalType":"contract ISpaceReferral","type":"address"}],"name":"setSpaceReferral","outputs":[],"stateMutability":"nonpayable"}]

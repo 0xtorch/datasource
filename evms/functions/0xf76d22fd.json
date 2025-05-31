@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"mintConfigId","internalType":"uint256","type":"uint256"},{"name":"maxPacks","internalType":"uint256","type":"uint256"}],"name":"setMaxPacksForMintConfig","outputs":[],"stateMutability":"nonpayable"}]

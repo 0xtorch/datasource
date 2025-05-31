@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"collection","internalType":"address","type":"address"}],"name":"whitelistedCollections","outputs":[{"name":"","internalType":"bool","type":"bool"}],"stateMutability":"view"}]

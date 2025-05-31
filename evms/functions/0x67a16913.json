@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"requestId","internalType":"uint256","type":"uint256"},{"name":"code","internalType":"enum IAIOracle.AIOracleError","type":"uint8"},{"name":"message","internalType":"bytes","type":"bytes"}],"name":"feedbackError","outputs":[],"stateMutability":"nonpayable"}]

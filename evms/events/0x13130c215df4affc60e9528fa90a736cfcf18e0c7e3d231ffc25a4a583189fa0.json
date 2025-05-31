@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"winnerPotAmount","internalType":"uint256","type":"uint256","indexed":false},{"name":"devAmount","internalType":"uint256","type":"uint256","indexed":false}],"name":"TaxesProcessed"}]

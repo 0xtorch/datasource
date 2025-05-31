@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_lpToken","internalType":"contract IERC20","type":"address"},{"name":"_baseToken","internalType":"contract IERC20","type":"address"},{"name":"_allocPxa","internalType":"uint256","type":"uint256"}],"name":"addContributedLiquidityPair","outputs":[{"name":"","internalType":"bool","type":"bool"}],"stateMutability":"nonpayable"}]

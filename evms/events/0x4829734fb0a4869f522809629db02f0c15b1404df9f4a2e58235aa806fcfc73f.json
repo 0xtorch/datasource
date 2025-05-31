@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"previousSecondOperator","internalType":"address","type":"address","indexed":true},{"name":"newSecondOperator","internalType":"address","type":"address","indexed":true}],"name":"SecondOperatorTransferred"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_actionExecutor","internalType":"contract ILocalActionExecutor","type":"address"}],"name":"setActionExecutor","outputs":[],"stateMutability":"nonpayable"}]

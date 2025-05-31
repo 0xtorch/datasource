@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"which","internalType":"address","type":"address"},{"name":"access","internalType":"bool","type":"bool"}],"name":"updateBlackListedUser","outputs":[],"stateMutability":"nonpayable"}]

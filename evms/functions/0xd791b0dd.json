@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[],"name":"getPostClaimHandlers","outputs":[{"name":"postClaimHandlers","internalType":"address[]","type":"address[]"}],"stateMutability":"view"}]

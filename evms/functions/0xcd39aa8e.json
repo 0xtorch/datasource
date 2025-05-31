@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"newHookFeeModifier","internalType":"uint32","type":"uint32"},{"name":"newReferralRewardModifier","internalType":"uint32","type":"uint32"}],"name":"setModifiers","outputs":[],"stateMutability":"nonpayable"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"mintConfigId","internalType":"uint256","type":"uint256"},{"name":"cardsPerPack","internalType":"uint256","type":"uint256"}],"name":"setCardsPerPackForMintConfig","outputs":[],"stateMutability":"nonpayable"}]

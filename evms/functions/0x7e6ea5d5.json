@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"requesters","internalType":"address[]","type":"address[]"},{"name":"newCanRequest","internalType":"bool","type":"bool"}],"name":"updateRequesterPermissions","outputs":[],"stateMutability":"nonpayable"}]

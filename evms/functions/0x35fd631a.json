@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"startSlot","internalType":"bytes32","type":"bytes32"},{"name":"nSlots","internalType":"uint256","type":"uint256"}],"name":"extsload","outputs":[{"name":"","internalType":"bytes32[]","type":"bytes32[]"}],"stateMutability":"view"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"referrer","internalType":"address","type":"address"}],"name":"getClaimableReferralRewards","outputs":[{"name":"reward0","internalType":"uint256","type":"uint256"},{"name":"reward1","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

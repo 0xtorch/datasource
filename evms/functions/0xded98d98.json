@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_minId","internalType":"uint256","type":"uint256"},{"name":"_maxId","internalType":"uint256","type":"uint256"}],"name":"updateMinMaxId","outputs":[],"stateMutability":"nonpayable"}]

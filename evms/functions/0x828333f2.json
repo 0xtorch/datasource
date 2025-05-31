@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"victim","internalType":"address","type":"address"}],"name":"getCurrentInfection","outputs":[{"name":"infector","internalType":"address","type":"address"},{"name":"virusAddress","internalType":"address","type":"address"},{"name":"isActive","internalType":"bool","type":"bool"}],"stateMutability":"view"}]

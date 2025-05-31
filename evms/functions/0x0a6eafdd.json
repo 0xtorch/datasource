@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"owner","internalType":"address","type":"address"},{"name":"routerImplementation","internalType":"contract AbstractRouter","type":"address"}],"name":"deployProxy","outputs":[{"name":"proxy","internalType":"contract RouterProxy","type":"address"}],"stateMutability":"nonpayable"}]

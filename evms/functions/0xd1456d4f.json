@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"market","internalType":"address","type":"address"},{"name":"aTokenAmount","internalType":"uint256","type":"uint256"},{"name":"recipient","internalType":"address","type":"address"}],"name":"reduceReserves","outputs":[],"stateMutability":"nonpayable"}]

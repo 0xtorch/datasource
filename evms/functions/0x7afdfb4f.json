@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_domainName","internalType":"string","type":"string"}],"name":"getDomainData","outputs":[{"name":"","internalType":"string","type":"string"}],"stateMutability":"view"}]

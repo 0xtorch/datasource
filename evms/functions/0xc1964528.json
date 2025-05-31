@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"editionId_","internalType":"uint256","type":"uint256"},{"name":"root_","internalType":"bytes32","type":"bytes32"}],"name":"setEdition","outputs":[],"stateMutability":"payable"}]

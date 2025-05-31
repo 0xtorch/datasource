@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"id","internalType":"RushPoolId","type":"bytes32"}],"name":"rushPoolStates","outputs":[{"name":"stakeAmount","internalType":"uint256","type":"uint256"},{"name":"stakeXTimeStored","internalType":"uint256","type":"uint256"},{"name":"lastStakeAmountUpdateTimestamp","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]
