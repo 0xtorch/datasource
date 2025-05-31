@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"marketId","internalType":"uint128","type":"uint128","indexed":true},{"name":"minLiquidityRatio","internalType":"uint256","type":"uint256","indexed":false}],"name":"SetMarketMinLiquidityRatio"}]

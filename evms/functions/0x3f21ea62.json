@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_order","internalType":"uint256","type":"uint256"},{"name":"retry","internalType":"bool","type":"bool"}],"name":"closeTradeMarketTimeout","outputs":[],"stateMutability":"nonpayable"}]

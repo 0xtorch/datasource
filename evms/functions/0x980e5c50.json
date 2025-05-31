@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_saleFee","internalType":"uint256","type":"uint256"},{"name":"_refundFee","internalType":"uint256","type":"uint256"}],"name":"setConfigFee","outputs":[],"stateMutability":"nonpayable"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"feature","internalType":"bytes32","type":"bytes32"},{"name":"deniers","internalType":"address[]","type":"address[]"}],"name":"setDeniers","outputs":[],"stateMutability":"nonpayable"}]

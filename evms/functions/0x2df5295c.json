@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_whitelistSettings","internalType":"struct EasySwapperV2.WhitelistSetting[]","type":"tuple[]","components":[{"name":"toWhitelist","internalType":"address","type":"address"},{"name":"whitelisted","internalType":"bool","type":"bool"}]}],"name":"setAuthorizedWithdrawers","outputs":[],"stateMutability":"nonpayable"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"validator","internalType":"address","type":"address"}],"name":"isJailed","outputs":[{"name":"jailed","internalType":"bool","type":"bool"}],"stateMutability":"view"}]

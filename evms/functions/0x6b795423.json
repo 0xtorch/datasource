@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"removes","internalType":"uint64[]","type":"uint64[]"},{"name":"adds","internalType":"uint64[]","type":"uint64[]"}],"name":"updateChainSelectorMechanisms","outputs":[],"stateMutability":"nonpayable"}]

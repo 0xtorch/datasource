@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"pairIndex","internalType":"uint16","type":"uint16"}],"name":"getPendingAccFundingFees","outputs":[{"name":"","internalType":"int256","type":"int256"},{"name":"","internalType":"int256","type":"int256"},{"name":"","internalType":"int64","type":"int64"},{"name":"","internalType":"int256","type":"int256"}],"stateMutability":"view"}]

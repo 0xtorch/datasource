@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_pairIndex","internalType":"uint256","type":"uint256"},{"name":"_long","internalType":"bool","type":"bool"}],"name":"getPriceImpactOi","outputs":[{"name":"activeOi","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

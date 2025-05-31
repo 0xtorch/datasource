@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_pairOpenFeeP","internalType":"uint256","type":"uint256"},{"name":"_volumeReferredUsd","internalType":"uint256","type":"uint256"}],"name":"getReferrerFeeP","outputs":[{"name":"","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

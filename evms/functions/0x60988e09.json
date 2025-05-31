@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"id","internalType":"bytes32","type":"bytes32"}],"name":"getAssociatedSystem","outputs":[{"name":"addr","internalType":"address","type":"address"},{"name":"kind","internalType":"bytes32","type":"bytes32"}],"stateMutability":"view"}]

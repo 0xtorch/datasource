@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"","internalType":"address","type":"address"}],"name":"allowMinting","outputs":[{"name":"allowed","internalType":"bool","type":"bool"},{"name":"dailyLimit","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

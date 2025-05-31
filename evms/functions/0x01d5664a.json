@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_windowsDuration","internalType":"uint48","type":"uint48"},{"name":"_windowsCount","internalType":"uint48","type":"uint48"}],"name":"initializePriceImpact","outputs":[],"stateMutability":"nonpayable"}]

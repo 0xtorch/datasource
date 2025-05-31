@@ -1,0 +1,1 @@
+[{"type":"function","constant":true,"inputs":[],"name":"RemainingTokensReceiverAddress","outputs":[{"name":"remainingTokensReceiverAddress","type":"address"}],"payable":false,"stateMutability":"view"}]

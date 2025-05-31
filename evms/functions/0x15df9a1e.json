@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"trader","internalType":"address","type":"address"},{"name":"withdrawEpoch","internalType":"uint16","type":"uint16"}],"name":"withdrawRequests","outputs":[{"name":"","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

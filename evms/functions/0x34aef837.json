@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"account","internalType":"address","type":"address"},{"name":"initialSupply_","internalType":"uint256","type":"uint256"},{"name":"mintingAllowedAfter_","internalType":"uint256","type":"uint256"},{"name":"transferPaused_","internalType":"bool","type":"bool"}],"name":"initialize","outputs":[],"stateMutability":"nonpayable"}]

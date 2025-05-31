@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"message","internalType":"bytes","type":"bytes"}],"name":"encodeMessageData","outputs":[{"name":"","internalType":"bytes","type":"bytes"}],"stateMutability":"view"}]

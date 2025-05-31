@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"addresses","internalType":"struct IAddressStore.Addresses","type":"tuple","components":[{"name":"gns","internalType":"address","type":"address"},{"name":"gnsStaking","internalType":"address","type":"address"},{"name":"treasury","internalType":"address","type":"address"}],"indexed":false}],"name":"AddressesUpdated"}]

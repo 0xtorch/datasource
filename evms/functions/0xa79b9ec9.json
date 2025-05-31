@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"market","internalType":"address","type":"address"}],"name":"registerMarket","outputs":[{"name":"marketId","internalType":"uint128","type":"uint128"}],"stateMutability":"nonpayable"}]

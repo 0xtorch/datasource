@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"pairIndex","internalType":"uint16","type":"uint16"}],"name":"getVelocity","outputs":[{"name":"velocity","internalType":"int64","type":"int64"}],"stateMutability":"view"}]

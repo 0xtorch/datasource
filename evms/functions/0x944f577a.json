@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_groupIndices","internalType":"uint256[]","type":"uint256[]"},{"name":"_groupVolumeMultipliers","internalType":"uint256[]","type":"uint256[]"}],"name":"setGroupVolumeMultipliers","outputs":[],"stateMutability":"nonpayable"}]

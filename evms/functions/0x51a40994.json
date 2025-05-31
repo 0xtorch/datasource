@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"collateralType","internalType":"address","type":"address"}],"name":"getCollateralPrice","outputs":[{"name":"","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

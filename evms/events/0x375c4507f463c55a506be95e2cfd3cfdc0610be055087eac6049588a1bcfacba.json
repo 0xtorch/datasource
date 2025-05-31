@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"poolId","internalType":"uint128","type":"uint128","indexed":true},{"name":"collateralType","internalType":"address","type":"address","indexed":true},{"name":"distributor","internalType":"address","type":"address","indexed":true}],"name":"RewardsDistributorRemoved"}]

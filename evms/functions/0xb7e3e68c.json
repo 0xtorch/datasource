@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"accountId","internalType":"uint128","type":"uint128"},{"name":"oldPoolId","internalType":"uint128","type":"uint128"},{"name":"collateralType","internalType":"address","type":"address"},{"name":"newPoolId","internalType":"uint128","type":"uint128"}],"name":"migrateDelegation","outputs":[],"stateMutability":"nonpayable"}]

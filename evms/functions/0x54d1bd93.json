@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_accessControlDelay","internalType":"uint48","type":"uint48"},{"name":"_owner","internalType":"address","type":"address"},{"name":"_pauser","internalType":"address","type":"address"}],"name":"initialize","outputs":[],"stateMutability":"nonpayable"}]

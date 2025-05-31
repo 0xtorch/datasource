@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"destChainId","internalType":"uint64","type":"uint64"},{"name":"amount","internalType":"uint256","type":"uint256"}],"name":"transferCrossChain","outputs":[{"name":"gasTokenUsed","internalType":"uint256","type":"uint256"}],"stateMutability":"payable"}]

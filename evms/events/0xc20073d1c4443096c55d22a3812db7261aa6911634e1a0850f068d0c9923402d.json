@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"newCharityWallet","internalType":"address","type":"address","indexed":true},{"name":"oldCharityWallet","internalType":"address","type":"address","indexed":true}],"name":"CharityWalletUpdated"}]

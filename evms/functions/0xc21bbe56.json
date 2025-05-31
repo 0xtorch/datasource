@@ -1,0 +1,1 @@
+[{"type":"function","constant":true,"inputs":[],"name":"SetupDone","outputs":[{"name":"setupDoneFlag","type":"bool"}],"payable":false,"stateMutability":"view"}]

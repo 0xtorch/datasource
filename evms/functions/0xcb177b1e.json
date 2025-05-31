@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_address","internalType":"address","type":"address"},{"name":"_permission","internalType":"bool","type":"bool"}],"name":"setMinterRole","outputs":[],"stateMutability":"nonpayable"}]

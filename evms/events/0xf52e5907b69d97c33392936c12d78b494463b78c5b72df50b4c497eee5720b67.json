@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"rewards","internalType":"struct IRewardManager.FeePayment[]","type":"tuple[]","components":[{"name":"poolId","internalType":"bytes32","type":"bytes32"},{"name":"amount","internalType":"uint192","type":"uint192"}],"indexed":false}],"name":"InsufficientLink"}]

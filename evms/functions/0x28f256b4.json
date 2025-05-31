@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"asset_","internalType":"address","type":"address"},{"name":"active_","internalType":"bool","type":"bool"}],"name":"addAsset","outputs":[],"stateMutability":"nonpayable"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_feedToken0","internalType":"address","type":"address"},{"name":"_feedToken1","internalType":"address","type":"address"}],"name":"proposeFeeds","outputs":[],"stateMutability":"nonpayable"}]

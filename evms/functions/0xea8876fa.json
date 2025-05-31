@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"to","internalType":"address","type":"address"},{"name":"idStart","internalType":"uint256","type":"uint256"},{"name":"idEnd","internalType":"uint256","type":"uint256"}],"name":"mintRange","outputs":[],"stateMutability":"nonpayable"}]

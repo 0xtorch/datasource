@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"maxToken0VolumeToQuote","internalType":"uint256","type":"uint256"},{"name":"maxToken1VolumeToQuote","internalType":"uint256","type":"uint256"}],"name":"setMaxTokenVolumes","outputs":[],"stateMutability":"nonpayable"}]

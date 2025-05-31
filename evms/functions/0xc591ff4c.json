@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"newRequestsStart","internalType":"uint256","type":"uint256"},{"name":"newRequestsEvery","internalType":"uint256","type":"uint256"},{"name":"newRequestsCount","internalType":"uint256","type":"uint256"}],"name":"updateRequestsInfoBatch","outputs":[],"stateMutability":"nonpayable"}]

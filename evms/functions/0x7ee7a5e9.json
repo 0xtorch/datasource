@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_beforeTokenId","internalType":"uint256","type":"uint256"},{"name":"_afterTokenId","internalType":"uint256","type":"uint256"}],"name":"setExchangeTokenIdMap","outputs":[],"stateMutability":"nonpayable"}]

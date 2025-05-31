@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"oldName","internalType":"string","type":"string","indexed":false},{"name":"newName","internalType":"string","type":"string","indexed":false}],"name":"ChangedName"}]

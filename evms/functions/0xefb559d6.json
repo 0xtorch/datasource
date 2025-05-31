@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"account","internalType":"address","type":"address"},{"name":"timestamp","internalType":"uint48","type":"uint48"},{"name":"hints","internalType":"bytes","type":"bytes"}],"name":"activeBalanceOfAt","outputs":[{"name":"","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

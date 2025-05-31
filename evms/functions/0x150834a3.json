@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"marketId","internalType":"uint128","type":"uint128"}],"name":"getMarketCollateral","outputs":[{"name":"","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

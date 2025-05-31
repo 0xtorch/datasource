@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_poolManagerFeeBips","internalType":"uint256","type":"uint256"}],"name":"setPoolManagerFeeBips","outputs":[],"stateMutability":"nonpayable"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"cctpMsg","internalType":"bytes","type":"bytes"},{"name":"cctpSigs","internalType":"bytes","type":"bytes"},{"name":"unlockerAddr","internalType":"bytes32","type":"bytes32"}],"name":"redeemWithLockedFee","outputs":[{"name":"sequence","internalType":"uint64","type":"uint64"}],"stateMutability":"payable"}]

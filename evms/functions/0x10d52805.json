@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"ccipRouter","internalType":"address","type":"address"},{"name":"ccipTokenPool","internalType":"address","type":"address"}],"name":"configureChainlinkCrossChain","outputs":[],"stateMutability":"nonpayable"}]

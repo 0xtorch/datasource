@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"targets","internalType":"address[]","type":"address[]"}],"name":"removeAllowedBridgeTargets","outputs":[],"stateMutability":"nonpayable"}]

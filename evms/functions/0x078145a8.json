@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"poolId","internalType":"uint128","type":"uint128"},{"name":"collateralType","internalType":"address","type":"address"}],"name":"getVaultCollateral","outputs":[{"name":"amount","internalType":"uint256","type":"uint256"},{"name":"value","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

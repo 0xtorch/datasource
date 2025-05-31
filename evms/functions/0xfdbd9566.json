@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"indices","internalType":"uint16[]","type":"uint16[]"},{"name":"values","internalType":"uint256[]","type":"uint256[]"}],"name":"setMaxRolloverFeePerBlockArray","outputs":[],"stateMutability":"nonpayable"}]

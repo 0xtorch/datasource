@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"sbtOwner","internalType":"address","type":"address"},{"name":"circuitId","internalType":"bytes32","type":"bytes32"}],"name":"revokeSBT","outputs":[],"stateMutability":"nonpayable"}]

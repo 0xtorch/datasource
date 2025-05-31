@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_dHedgeVault","internalType":"address","type":"address"}],"name":"isdHedgeVault","outputs":[{"name":"isVault","internalType":"bool","type":"bool"}],"stateMutability":"view"}]

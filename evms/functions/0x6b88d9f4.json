@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"decimals_","internalType":"uint8","type":"uint8"},{"name":"baseWithdrawalFee_","internalType":"uint64","type":"uint64"}],"name":"initializeV2","outputs":[],"stateMutability":"nonpayable"}]

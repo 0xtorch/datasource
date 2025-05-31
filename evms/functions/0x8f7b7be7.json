@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"originDomain_","internalType":"uint256","type":"uint256"},{"name":"destinationDomain_","internalType":"uint256","type":"uint256"}],"name":"isAcrossRefuel","outputs":[{"name":"","internalType":"bool","type":"bool"}],"stateMutability":"view"}]

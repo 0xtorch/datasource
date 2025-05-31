@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"fee0Bips","internalType":"uint16","type":"uint16","indexed":false},{"name":"fee1Bips","internalType":"uint16","type":"uint16","indexed":false}],"name":"HotFeeSet"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"subscriber","internalType":"address","type":"address"},{"name":"feedId","internalType":"bytes32","type":"bytes32"},{"name":"token","internalType":"address","type":"address"},{"name":"discount","internalType":"uint64","type":"uint64"}],"name":"updateSubscriberDiscount","outputs":[],"stateMutability":"nonpayable"}]

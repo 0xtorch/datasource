@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"poolId","internalType":"uint128","type":"uint128"},{"name":"collateralType","internalType":"address","type":"address"}],"name":"getVaultDebt","outputs":[{"name":"","internalType":"int256","type":"int256"}],"stateMutability":"nonpayable"}]

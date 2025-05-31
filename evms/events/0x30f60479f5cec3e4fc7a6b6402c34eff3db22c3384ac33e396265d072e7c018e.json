@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"sqrtPriceLowX96","internalType":"uint160","type":"uint160","indexed":false},{"name":"sqrtPriceHighX96","internalType":"uint160","type":"uint160","indexed":false}],"name":"PriceBoundSet"}]

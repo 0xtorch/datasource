@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"bots","internalType":"address[]","type":"address[]"},{"name":"isBlacklisted","internalType":"bool","type":"bool"}],"name":"setBotsBlacklisting","outputs":[],"stateMutability":"nonpayable"}]

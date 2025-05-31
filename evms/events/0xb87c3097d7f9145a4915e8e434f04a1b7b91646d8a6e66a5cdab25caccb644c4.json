@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"destChainId","internalType":"uint64","type":"uint64","indexed":true},{"name":"amount","internalType":"uint256","type":"uint256","indexed":true},{"name":"sender","internalType":"address","type":"address","indexed":false}],"name":"TransferCrossChainInitiated"}]

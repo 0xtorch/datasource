@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"pairIndex","internalType":"uint16","type":"uint16"},{"name":"index","internalType":"uint8","type":"uint8"},{"name":"topUpAmount","internalType":"uint256","type":"uint256"}],"name":"topUpCollateral","outputs":[],"stateMutability":"nonpayable"}]

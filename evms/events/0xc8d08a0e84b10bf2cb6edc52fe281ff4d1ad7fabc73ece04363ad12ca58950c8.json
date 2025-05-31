@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"sqrtSpotPriceX96","internalType":"uint160","type":"uint160","indexed":false},{"name":"preWithdrawalLiquidity","internalType":"uint128","type":"uint128","indexed":false},{"name":"postWithdrawalLiquidity","internalType":"uint128","type":"uint128","indexed":false}],"name":"PostWithdrawalLiquidityCapped"}]

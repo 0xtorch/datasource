@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"marketId","internalType":"uint128","type":"uint128"}],"name":"getMarketPools","outputs":[{"name":"inRangePoolIds","internalType":"uint128[]","type":"uint128[]"},{"name":"outRangePoolIds","internalType":"uint128[]","type":"uint128[]"}],"stateMutability":"nonpayable"}]

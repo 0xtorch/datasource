@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"trader","internalType":"address","type":"address","indexed":true},{"name":"day","internalType":"uint32","type":"uint32","indexed":true},{"name":"feeMultiplier","internalType":"uint32","type":"uint32","indexed":false}],"name":"TraderFeeMultiplierCached"}]

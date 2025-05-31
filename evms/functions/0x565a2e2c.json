@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[],"name":"getBeneficiary","outputs":[{"name":"currentBeneficiary","internalType":"address","type":"address"}],"stateMutability":"view"}]

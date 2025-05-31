@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"windowsCount","internalType":"uint48","type":"uint48","indexed":true}],"name":"PriceImpactWindowsCountUpdated"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"maxSlippage","internalType":"uint256","type":"uint256"}],"name":"setMaxSlippageForRebalancing","outputs":[],"stateMutability":"nonpayable"}]

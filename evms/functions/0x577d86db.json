@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_volumeReferredUsd","internalType":"uint256","type":"uint256"}],"name":"getReferralsPercentOfOpenFeeP_calc","outputs":[{"name":"resultP","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"feature","internalType":"bytes32","type":"bytes32","indexed":true},{"name":"deniers","internalType":"address[]","type":"address[]","indexed":false}],"name":"FeatureFlagDeniersReset"}]

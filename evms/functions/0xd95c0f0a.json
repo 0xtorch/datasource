@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"forwarderAddresses","internalType":"address[]","type":"address[]"}],"name":"registerForwarders","outputs":[],"stateMutability":"nonpayable"}]

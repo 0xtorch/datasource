@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"escrow","internalType":"address","type":"address","indexed":false},{"name":"hashlock","internalType":"bytes32","type":"bytes32","indexed":false},{"name":"taker","internalType":"Address","type":"uint256","indexed":false}],"name":"DstEscrowCreated"}]

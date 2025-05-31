@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"oldMaxSlippage","internalType":"uint256","type":"uint256","indexed":false},{"name":"newMaxSlippage","internalType":"uint256","type":"uint256","indexed":false}],"name":"MaxSlippageForRebalanceSet"}]

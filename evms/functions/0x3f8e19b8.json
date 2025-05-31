@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"tokenIds","internalType":"uint256[]","type":"uint256[]"},{"name":"seeds","internalType":"string[]","type":"string[]"}],"name":"setSeeds","outputs":[],"stateMutability":"nonpayable"}]

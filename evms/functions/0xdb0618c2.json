@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_cycles","internalType":"uint256[]","type":"uint256[]"},{"name":"_assets","internalType":"address[]","type":"address[]"}],"name":"userClaim","outputs":[],"stateMutability":"nonpayable"}]

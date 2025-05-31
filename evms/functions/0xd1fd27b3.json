@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"k","internalType":"bytes32","type":"bytes32"},{"name":"v","internalType":"bytes32","type":"bytes32"}],"name":"setConfig","outputs":[],"stateMutability":"nonpayable"}]

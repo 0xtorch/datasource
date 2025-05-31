@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"dev","internalType":"address","type":"address","indexed":true},{"name":"newAmount","internalType":"uint256","type":"uint256","indexed":false}],"name":"SetMaxTransfer"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[],"name":"listAdminUser","outputs":[{"name":"_users","internalType":"address[]","type":"address[]"}],"stateMutability":"view"}]

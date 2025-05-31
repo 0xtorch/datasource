@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"poolId","internalType":"uint128","type":"uint128"},{"name":"name","internalType":"string","type":"string"}],"name":"setPoolName","outputs":[],"stateMutability":"nonpayable"}]

@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"oldSwapper","internalType":"address","type":"address","indexed":false},{"name":"newSwapper","internalType":"address","type":"address","indexed":false}],"name":"SwapperSet"}]

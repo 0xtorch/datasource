@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"newMaxPerDeposit","internalType":"uint256","type":"uint256"},{"name":"newMaxTotalDeposits","internalType":"uint256","type":"uint256"}],"name":"setTVLLimits","outputs":[],"stateMutability":"nonpayable"}]

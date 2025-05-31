@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"accountId","internalType":"uint128","type":"uint128"},{"name":"collateralType","internalType":"address","type":"address"},{"name":"tokenAmount","internalType":"uint256","type":"uint256"}],"name":"deposit","outputs":[],"stateMutability":"nonpayable"}]

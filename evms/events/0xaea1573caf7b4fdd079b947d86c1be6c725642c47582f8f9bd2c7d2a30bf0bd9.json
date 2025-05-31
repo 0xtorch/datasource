@@ -1,1 +1,1 @@
-[{"type":"event","anonymous":false,"inputs":[{"name":"cosigner","internalType":"address","type":"address","indexed":false}],"name":"SetCosigner"}]
+[{"type":"event","anonymous":false,"inputs":[{"name":"cosigner","internalType":"address","type":"address","indexed":false}],"name":"SetCosigner"},{"type":"event","anonymous":false,"inputs":[{"name":"cosigner","internalType":"address","type":"address","indexed":true}],"name":"SetCosigner"}]

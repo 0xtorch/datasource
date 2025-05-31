@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"chainId","internalType":"uint16","type":"uint16"},{"name":"emitter","internalType":"bytes32","type":"bytes32"}],"name":"setEmitter","outputs":[],"stateMutability":"nonpayable"}]

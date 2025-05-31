@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"token","internalType":"address","type":"address","indexed":true},{"name":"strategyAdapter","internalType":"address","type":"address","indexed":true},{"name":"maxSlippageInBps","internalType":"uint96","type":"uint96","indexed":false}],"name":"StrategyConfigSet"}]

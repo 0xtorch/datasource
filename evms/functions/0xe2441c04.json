@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"pairIndex","internalType":"uint16","type":"uint16"},{"name":"index","internalType":"uint8","type":"uint8"},{"name":"newSl","internalType":"uint192","type":"uint192"}],"name":"updateSl","outputs":[],"stateMutability":"nonpayable"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_earningReferral","internalType":"contract IEarningsReferral","type":"address"}],"name":"setEarningsReferral","outputs":[],"stateMutability":"nonpayable"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_maxOracleDeviationBipsLower","internalType":"uint16","type":"uint16"},{"name":"_maxOracleDeviationBipsUpper","internalType":"uint16","type":"uint16"}],"name":"setMaxOracleDeviationBips","outputs":[],"stateMutability":"nonpayable"}]

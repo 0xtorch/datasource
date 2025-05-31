@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"depositAddress","internalType":"address","type":"address"}],"name":"checkoutExists","outputs":[{"name":"","internalType":"bool","type":"bool"}],"stateMutability":"view"}]

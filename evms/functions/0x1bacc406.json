@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"token","internalType":"address","type":"address"}],"name":"tokenStrategyConfig","outputs":[{"name":"strategyAdapter","internalType":"address","type":"address"},{"name":"maxSlippageInBps","internalType":"uint96","type":"uint96"}],"stateMutability":"view"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"royaltyReceiver","internalType":"address","type":"address"},{"name":"royaltyPercentage","internalType":"uint96","type":"uint96"}],"name":"setRoyaltyPercentage","outputs":[],"stateMutability":"nonpayable"}]

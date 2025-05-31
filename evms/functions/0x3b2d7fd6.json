@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"target","internalType":"address","type":"address"}],"name":"_ALLOWED_SWAP_TARGETS_","outputs":[{"name":"isAllowed","internalType":"bool","type":"bool"}],"stateMutability":"view"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"key","internalType":"bytes32","type":"bytes32"}],"name":"lastValidated","outputs":[{"name":"index","internalType":"uint256","type":"uint256"},{"name":"leaf","internalType":"bytes32","type":"bytes32"}],"stateMutability":"view"}]

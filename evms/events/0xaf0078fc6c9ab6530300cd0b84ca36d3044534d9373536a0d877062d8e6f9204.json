@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"trader","internalType":"address","type":"address","indexed":true},{"name":"pairIndex","internalType":"uint16","type":"uint16","indexed":true},{"name":"index","internalType":"uint8","type":"uint8","indexed":false}],"name":"OpenLimitCanceled"}]

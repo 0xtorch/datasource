@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"oldPriceProvider","internalType":"address","type":"address","indexed":false},{"name":"newPriceProvider","internalType":"address","type":"address","indexed":false}],"name":"PriceProviderSet"}]

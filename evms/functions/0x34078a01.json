@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"minLiquidityRatio","internalType":"uint256","type":"uint256"}],"name":"setMinLiquidityRatio","outputs":[],"stateMutability":"nonpayable"}]

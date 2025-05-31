@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_allyFeeP","internalType":"uint256","type":"uint256"},{"name":"_startReferrerFeeP","internalType":"uint256","type":"uint256"},{"name":"_openFeeP","internalType":"uint256","type":"uint256"},{"name":"_targetVolumeUsd","internalType":"uint256","type":"uint256"}],"name":"initializeReferrals","outputs":[],"stateMutability":"nonpayable"}]

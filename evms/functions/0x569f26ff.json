@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"l1ERC20","internalType":"address","type":"address"}],"name":"getUserSalt","outputs":[{"name":"","internalType":"bytes32","type":"bytes32"}],"stateMutability":"pure"}]

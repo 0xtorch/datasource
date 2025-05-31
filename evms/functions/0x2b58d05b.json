@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"itemId","internalType":"uint256","type":"uint256"},{"name":"name","internalType":"string","type":"string"}],"name":"updateLandName","outputs":[],"stateMutability":"nonpayable"}]

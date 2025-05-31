@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"__refillRate","internalType":"uint64","type":"uint64"}],"name":"setRefillRatePerSecond","outputs":[],"stateMutability":"nonpayable"}]

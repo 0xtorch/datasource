@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"kind","internalType":"bytes32","type":"bytes32","indexed":true},{"name":"id","internalType":"bytes32","type":"bytes32","indexed":true},{"name":"proxy","internalType":"address","type":"address","indexed":false},{"name":"impl","internalType":"address","type":"address","indexed":false}],"name":"AssociatedSystemSet"}]

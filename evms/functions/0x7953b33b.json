@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"timestamp","internalType":"uint48","type":"uint48"}],"name":"epochAt","outputs":[{"name":"","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

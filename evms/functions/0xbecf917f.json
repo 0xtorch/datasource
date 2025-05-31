@@ -1,0 +1,1 @@
+[{"type":"function","constant":true,"inputs":[],"name":"DistribFundsReceiverAddress","outputs":[{"name":"DistribfundsReceiver","type":"address"}],"payable":false,"stateMutability":"view"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"pairIndex","internalType":"uint16","type":"uint16"}],"name":"getHillFunctionParams","outputs":[{"name":"","internalType":"int256","type":"int256"},{"name":"","internalType":"uint16","type":"uint16"},{"name":"","internalType":"uint16","type":"uint16"}],"stateMutability":"view"}]

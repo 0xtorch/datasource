@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_openInterestUsd","internalType":"uint256","type":"uint256"},{"name":"_pairIndex","internalType":"uint256","type":"uint256"},{"name":"_long","internalType":"bool","type":"bool"}],"name":"addPriceImpactOpenInterest","outputs":[],"stateMutability":"nonpayable"}]

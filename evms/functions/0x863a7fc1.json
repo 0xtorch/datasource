@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"vaultShares","internalType":"uint256","type":"uint256"},{"name":"token","internalType":"address","type":"address"}],"name":"assetForVaultShares","outputs":[{"name":"","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

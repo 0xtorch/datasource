@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"pairIndex","internalType":"uint16","type":"uint16"},{"name":"hillInflectionPoint","internalType":"int256","type":"int256"},{"name":"hillPosScale","internalType":"uint256","type":"uint256"},{"name":"hillNegScale","internalType":"uint256","type":"uint256"}],"name":"setHillFunctionParams","outputs":[],"stateMutability":"nonpayable"}]

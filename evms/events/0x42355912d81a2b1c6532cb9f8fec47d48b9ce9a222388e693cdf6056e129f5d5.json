@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"feed0","internalType":"address","type":"address","indexed":false},{"name":"feed1","internalType":"address","type":"address","indexed":false}],"name":"OracleFeedsProposed"}]

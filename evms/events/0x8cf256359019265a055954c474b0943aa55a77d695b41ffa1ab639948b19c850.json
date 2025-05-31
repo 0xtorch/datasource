@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"feeMaxToken0","internalType":"uint16","type":"uint16","indexed":false},{"name":"feeMaxToken1","internalType":"uint16","type":"uint16","indexed":false}],"name":"AMMFeeSet"}]

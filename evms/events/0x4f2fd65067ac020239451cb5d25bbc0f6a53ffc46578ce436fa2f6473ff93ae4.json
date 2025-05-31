@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"currEpoch","internalType":"uint256","type":"uint256","indexed":true},{"name":"requestId","internalType":"uint256","type":"uint256","indexed":true},{"name":"value","internalType":"int256","type":"int256","indexed":false}],"name":"NextEpochValueRequested"}]

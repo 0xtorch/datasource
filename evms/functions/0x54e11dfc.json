@@ -1,0 +1,1 @@
+[{"type":"function","constant":true,"inputs":[{"name":"","type":"address"},{"name":"","type":"address"}],"name":"offering","outputs":[{"name":"amount","type":"uint256"},{"name":"locktime","type":"uint256"}],"payable":false,"stateMutability":"view"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"holder","internalType":"address","type":"address"},{"name":"rewardTokenAddress","internalType":"address","type":"address"},{"name":"ammContractAddress","internalType":"address","type":"address"}],"name":"setRewardToken","outputs":[],"stateMutability":"nonpayable"}]

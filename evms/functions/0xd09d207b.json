@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"amountOut","internalType":"uint256","type":"uint256"},{"name":"paymentToken","internalType":"address","type":"address"},{"name":"amountInMax","internalType":"uint256","type":"uint256"}],"name":"buyIndexWith","outputs":[],"stateMutability":"nonpayable"}]

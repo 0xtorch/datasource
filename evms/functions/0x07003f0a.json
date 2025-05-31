@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"marketId","internalType":"uint128","type":"uint128"}],"name":"isMarketCapacityLocked","outputs":[{"name":"","internalType":"bool","type":"bool"}],"stateMutability":"view"}]

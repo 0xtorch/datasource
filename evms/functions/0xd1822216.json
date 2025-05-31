@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"","internalType":"uint32","type":"uint32"}],"name":"idToChains","outputs":[{"name":"allowMessagesFrom","internalType":"bool","type":"bool"},{"name":"allowMessagesTo","internalType":"bool","type":"bool"},{"name":"messageGasLimit","internalType":"uint128","type":"uint128"}],"stateMutability":"view"}]

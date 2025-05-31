@@ -1,0 +1,1 @@
+[{"type":"function","constant":false,"inputs":[{"name":"ML1inX","type":"uint256"},{"name":"ML2inX","type":"uint256"},{"name":"LimitML1inWei","type":"uint256"},{"name":"LimitML2inWei","type":"uint256"}],"name":"SetupML","outputs":[],"payable":false,"stateMutability":"nonpayable"}]

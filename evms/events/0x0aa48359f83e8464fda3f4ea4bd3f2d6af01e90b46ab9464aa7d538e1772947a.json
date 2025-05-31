@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"chainId","internalType":"uint256","type":"uint256","indexed":false},{"name":"messageGasLimit","internalType":"uint128","type":"uint128","indexed":false}],"name":"ChainSetGasLimit"}]

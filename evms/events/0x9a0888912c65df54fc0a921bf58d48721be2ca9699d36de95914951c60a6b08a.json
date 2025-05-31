@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"newChain","internalType":"uint32","type":"uint32","indexed":false},{"name":"newMerkleRoot","internalType":"bytes32","type":"bytes32","indexed":false}],"name":"MerkleRootBroadcasted"}]

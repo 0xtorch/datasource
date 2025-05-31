@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"oldProvider","internalType":"address","type":"address","indexed":true},{"name":"newProvider","internalType":"address","type":"address","indexed":true},{"name":"remoteChainSelector","internalType":"uint64","type":"uint64","indexed":true}],"name":"LiquidityProviderSet"}]

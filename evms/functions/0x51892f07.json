@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"newAddress","internalType":"address","type":"address"}],"name":"changeMintingAddress","outputs":[],"stateMutability":"nonpayable"}]

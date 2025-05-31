@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"trader","internalType":"address","type":"address"},{"name":"pairIndex","internalType":"uint16","type":"uint16"},{"name":"index","internalType":"uint8","type":"uint8"}],"name":"getTradeInitialAccRolloverFeesPerCollateral","outputs":[{"name":"","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

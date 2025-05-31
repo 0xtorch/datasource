@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"supportedNetworks","internalType":"uint64[]","type":"uint64[]"},{"name":"ccipSelectors","internalType":"uint64[]","type":"uint64[]"}],"name":"setSupportedCrossChainNetworks","outputs":[{"name":"numRegistered","internalType":"uint256","type":"uint256"}],"stateMutability":"nonpayable"}]

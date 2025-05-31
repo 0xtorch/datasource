@@ -1,1 +1,1 @@
-[{"type":"event","anonymous":false,"inputs":[{"name":"newLiquidityFee","internalType":"uint256","type":"uint256","indexed":true}],"name":"LiquidityFeeUpdated"}]
+[{"type":"event","anonymous":false,"inputs":[{"name":"newLiquidityFee","internalType":"uint256","type":"uint256","indexed":true}],"name":"LiquidityFeeUpdated"},{"type":"event","anonymous":false,"inputs":[{"name":"liquidityFee","internalType":"uint256","type":"uint256","indexed":false}],"name":"LiquidityFeeUpdated"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"info","internalType":"struct CALMinter.ProjectInfo","type":"tuple","components":[{"name":"projectName","internalType":"string","type":"string"},{"name":"stakingCount","internalType":"uint256","type":"uint256"}]}],"name":"addProjectInfo","outputs":[],"stateMutability":"nonpayable"}]

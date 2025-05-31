@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_requestId","internalType":"bytes32","type":"bytes32"},{"name":"_data","internalType":"bytes32","type":"bytes32"}],"name":"fulfillOracleRequestShort","outputs":[{"name":"","internalType":"bool","type":"bool"}],"stateMutability":"nonpayable"}]

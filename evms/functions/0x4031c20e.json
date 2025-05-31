@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"bundler","internalType":"address","type":"address"}],"name":"isBundlerAllowed","outputs":[{"name":"allowed","internalType":"bool","type":"bool"}],"stateMutability":"view"}]

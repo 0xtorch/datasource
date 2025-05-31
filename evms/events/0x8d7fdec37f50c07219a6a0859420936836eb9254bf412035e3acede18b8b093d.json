@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"target","internalType":"address","type":"address","indexed":false},{"name":"role","internalType":"enum IAddressStore.Role","type":"uint8","indexed":false},{"name":"access","internalType":"bool","type":"bool","indexed":false}],"name":"AccessControlUpdated"}]

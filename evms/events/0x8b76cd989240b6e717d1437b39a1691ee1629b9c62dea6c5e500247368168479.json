@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"oldPercentage","internalType":"uint128","type":"uint128","indexed":false},{"name":"newPercentage","internalType":"uint128","type":"uint128","indexed":false}],"name":"PercentageRateLimitUpdated"}]

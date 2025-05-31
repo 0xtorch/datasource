@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"usedClaim","internalType":"bytes32","type":"bytes32"}],"name":"usedClaims","outputs":[{"name":"hasClaimed","internalType":"bool","type":"bool"}],"stateMutability":"view"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_from","internalType":"string","type":"string"},{"name":"_to","internalType":"string","type":"string"}],"name":"isPairListed","outputs":[{"name":"","internalType":"bool","type":"bool"}],"stateMutability":"view"}]

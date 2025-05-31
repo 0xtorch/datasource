@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"swapFeeModule","internalType":"address","type":"address","indexed":false}],"name":"SwapFeeModuleSet"}]

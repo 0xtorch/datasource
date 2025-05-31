@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"newAcrossRefuelSettings_","internalType":"struct ZeroWayGasRefuelV1.AcrossRefuelSettings","type":"tuple","components":[{"name":"minRefuelAmount","internalType":"uint256","type":"uint256"},{"name":"maxRefuelAmount","internalType":"uint256","type":"uint256"}]}],"name":"setAcrossRefuelSettings","outputs":[],"stateMutability":"nonpayable"}]

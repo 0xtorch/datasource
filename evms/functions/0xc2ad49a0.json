@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_hotFeeBipsToken0","internalType":"uint16","type":"uint16"},{"name":"_hotFeeBipsToken1","internalType":"uint16","type":"uint16"}],"name":"setHotFeeInBips","outputs":[],"stateMutability":"nonpayable"}]

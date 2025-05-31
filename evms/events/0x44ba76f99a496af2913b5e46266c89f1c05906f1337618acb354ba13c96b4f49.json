@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"eid","internalType":"uint32","type":"uint32","indexed":false},{"name":"peer","internalType":"bytes32","type":"bytes32","indexed":false},{"name":"singleMessageGasLimit","internalType":"uint128","type":"uint128","indexed":false}],"name":"ChainAdded"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_burnTaxRate","internalType":"uint256","type":"uint256"},{"name":"_poolTaxRate","internalType":"uint256","type":"uint256"},{"name":"_developerTaxRate","internalType":"uint256","type":"uint256"}],"name":"setTaxRates","outputs":[],"stateMutability":"nonpayable"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"user","internalType":"address","type":"address"}],"name":"getClaimEid","outputs":[{"name":"","internalType":"uint32","type":"uint32"}],"stateMutability":"view"}]

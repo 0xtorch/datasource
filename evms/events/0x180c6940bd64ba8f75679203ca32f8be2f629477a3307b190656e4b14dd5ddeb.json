@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"remoteChainSelector","internalType":"uint64","type":"uint64","indexed":false},{"name":"rebalancer","internalType":"address","type":"address","indexed":false}],"name":"ChainSiloed"}]

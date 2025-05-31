@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"pairIndex","internalType":"uint16","type":"uint16","indexed":true},{"name":"lastTradePrice","internalType":"int256","type":"int256","indexed":false}],"name":"LastTradePriceUpdated"}]

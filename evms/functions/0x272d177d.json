@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_tokenAddress","internalType":"address","type":"address"},{"name":"_limit","internalType":"uint256","type":"uint256"}],"name":"setDepositLimit","outputs":[],"stateMutability":"nonpayable"}]

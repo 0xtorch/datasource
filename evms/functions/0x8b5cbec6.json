@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_dHedgeVault","internalType":"address","type":"address"},{"name":"_expectedAmountReceived","internalType":"uint256","type":"uint256"}],"name":"nativeDeposit","outputs":[],"stateMutability":"payable"}]

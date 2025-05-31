@@ -1,0 +1,1 @@
+[{"type":"function","constant":false,"inputs":[{"name":"holder","type":"address"},{"name":"allowApprove","type":"bool"}],"name":"addAllow","outputs":[],"payable":false,"stateMutability":"nonpayable"}]

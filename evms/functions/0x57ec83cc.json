@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"initialVersion","internalType":"uint64","type":"uint64"},{"name":"owner_","internalType":"address","type":"address"},{"name":"data","internalType":"bytes","type":"bytes"}],"name":"initialize","outputs":[],"stateMutability":"nonpayable"}]

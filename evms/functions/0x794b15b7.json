@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"account","internalType":"address","type":"address"}],"name":"isDepositorWhitelisted","outputs":[{"name":"value","internalType":"bool","type":"bool"}],"stateMutability":"view"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_tokens","internalType":"address[]","type":"address[]"},{"name":"_amounts","internalType":"uint256[]","type":"uint256[]"}],"name":"getTokenValuesInEth","outputs":[{"name":"","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

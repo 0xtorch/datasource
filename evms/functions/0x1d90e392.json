@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"marketId","internalType":"uint128","type":"uint128"},{"name":"minDelegateTime","internalType":"uint32","type":"uint32"}],"name":"setMarketMinDelegateTime","outputs":[],"stateMutability":"nonpayable"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"payloads","internalType":"bytes[]","type":"bytes[]"},{"name":"parameterPayload","internalType":"bytes","type":"bytes"},{"name":"subscriber","internalType":"address","type":"address"}],"name":"processFeeBulk","outputs":[],"stateMutability":"payable"}]

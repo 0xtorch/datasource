@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_indices","internalType":"uint256[]","type":"uint256[]"},{"name":"_depthsAboveUsd","internalType":"uint128[]","type":"uint128[]"},{"name":"_depthsBelowUsd","internalType":"uint128[]","type":"uint128[]"}],"name":"setPairDepths","outputs":[],"stateMutability":"nonpayable"}]

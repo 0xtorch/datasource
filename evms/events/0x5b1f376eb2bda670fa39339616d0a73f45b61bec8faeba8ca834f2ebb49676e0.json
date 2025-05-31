@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"configDigest","internalType":"bytes32","type":"bytes32","indexed":true},{"name":"signers","internalType":"address[]","type":"address[]","indexed":false},{"name":"f","internalType":"uint8","type":"uint8","indexed":false}],"name":"ConfigSet"}]

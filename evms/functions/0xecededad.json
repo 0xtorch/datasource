@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"royaltyFraction_","internalType":"uint256","type":"uint256"},{"name":"royaltyDenominator_","internalType":"uint256","type":"uint256"}],"name":"setRoyaltyFraction","outputs":[],"stateMutability":"nonpayable"}]

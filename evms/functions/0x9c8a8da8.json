@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"wallet","internalType":"address","type":"address"},{"name":"players","internalType":"address[]","type":"address[]"},{"name":"amounts","internalType":"uint64[]","type":"uint64[]"}],"name":"transfer","outputs":[],"stateMutability":"nonpayable"}]

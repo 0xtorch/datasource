@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"withdrawalVault","internalType":"address","type":"address","indexed":false},{"name":"depositor","internalType":"address","type":"address","indexed":true}],"name":"WithdrawalVaultCreated"}]

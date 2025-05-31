@@ -1,0 +1,1 @@
+[{"type":"function","constant":false,"inputs":[{"name":"creator","internalType":"address","type":"address"},{"name":"permitted","internalType":"bool","type":"bool"}],"name":"setPermittedEscrowCreator","outputs":[],"payable":false,"stateMutability":"nonpayable"}]

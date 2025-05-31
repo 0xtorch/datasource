@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"fowarderFactory","internalType":"contract Create2ForwarderFactory","type":"address"}],"name":"setForwarderFactory","outputs":[],"stateMutability":"nonpayable"}]
