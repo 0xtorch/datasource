@@ -5,7 +5,7 @@
   "dependencies": {
     "@0xtorch/core": "^0.0.63",
     "@0xtorch/evm": "^0.0.131",
-    "@0xtorch/solana": "^0.0.56",
+    "@0xtorch/solana": "^0.0.43",
     "abitype": "^1.0.8",
     "viem": "^2.29.2",
     "zod": "^3.24.4"
