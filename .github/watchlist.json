@@ -1,0 +1,97 @@
+[
+  {
+    "type": "exchange",
+    "cgId": "binance",
+    "filesToWrite": ["binance"]
+  },
+  {
+    "type": "exchange",
+    "cgId": "bitbank",
+    "filesToWrite": ["bitbank"]
+  },
+  {
+    "type": "exchange",
+    "cgId": "bitflyer",
+    "filesToWrite": ["bitflyer"]
+  },
+  {
+    "type": "exchange",
+    "cgId": "bitget",
+    "filesToWrite": ["bitget"]
+  },
+  {
+    "type": "exchange",
+    "cgId": "huobi_japan",
+    "filesToWrite": ["bittrade"]
+  },
+  {
+    "type": "exchange",
+    "cgId": "btcbox",
+    "filesToWrite": ["btcbox"]
+  },
+  {
+    "type": "exchange",
+    "cgId": "bybit",
+    "filesToWrite": ["bybit"]
+  },
+  {
+    "type": "exchange",
+    "cgId": "coincheck",
+    "filesToWrite": ["coincheck"]
+  },
+  {
+    "type": "exchange",
+    "cgId": "coinlist",
+    "filesToWrite": ["coinlist"]
+  },
+  {
+    "type": "exchange",
+    "cgId": "gate",
+    "filesToWrite": ["gate"]
+  },
+  {
+    "type": "exchange",
+    "cgId": "gmo_japan",
+    "filesToWrite": ["gmo"]
+  },
+  {
+    "type": "exchange",
+    "cgId": "hashkey-global",
+    "filesToWrite": ["hashkey"]
+  },
+  {
+    "type": "exchange",
+    "cgId": "huobi",
+    "filesToWrite": ["htx"]
+  },
+  {
+    "type": "exchange",
+    "cgId": "hyperliquid-spot",
+    "filesToWrite": ["hyperliquid"]
+  },
+  {
+    "type": "exchange",
+    "cgId": "kucoin",
+    "filesToWrite": ["kucoin"]
+  },
+  {
+    "type": "exchange",
+    "cgId": "mxc",
+    "filesToWrite": ["mexc"]
+  },
+  {
+    "type": "exchange",
+    "cgId": "okcoin-japan",
+    "filesToWrite": ["okj"]
+  },
+  {
+    "type": "exchange",
+    "cgId": "okex",
+    "filesToWrite": ["okx"]
+  },
+  {
+    "type": "exchange",
+    "cgId": "zaif",
+    "filesToWrite": ["zaif"]
+  }
+]
