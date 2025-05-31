@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"sender","internalType":"address","type":"address"},{"name":"salt","internalType":"bytes32","type":"bytes32"}],"name":"interchainTokenId","outputs":[{"name":"tokenId","internalType":"bytes32","type":"bytes32"}],"stateMutability":"pure"}]

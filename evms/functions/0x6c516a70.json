@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_mainRouter","internalType":"address","type":"address"},{"name":"_baseTokenForMarket","internalType":"address","type":"address"}],"name":"updateMainPair","outputs":[],"stateMutability":"nonpayable"}]

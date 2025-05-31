@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"id","internalType":"PoolId","type":"bytes32","indexed":true},{"name":"unblocked","internalType":"bool","type":"bool","indexed":false}],"name":"SetWithdrawalUnblocked"}]

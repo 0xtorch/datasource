@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"allocationId","internalType":"string","type":"string"}],"name":"getClaimFee","outputs":[{"name":"","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"baseContractURI","internalType":"string","type":"string","indexed":false}],"name":"NewBaseContractURI"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"account","internalType":"address","type":"address"},{"name":"amount","internalType":"uint256","type":"uint256"},{"name":"lock_","internalType":"bool","type":"bool"},{"name":"lockingDeadline","internalType":"uint256","type":"uint256"}],"name":"stakeFor","outputs":[],"stateMutability":"nonpayable"}]

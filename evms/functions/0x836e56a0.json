@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_otherToken","internalType":"address","type":"address"},{"name":"_rate","internalType":"uint256","type":"uint256"}],"name":"setOtherTokenRate","outputs":[],"stateMutability":"nonpayable"}]

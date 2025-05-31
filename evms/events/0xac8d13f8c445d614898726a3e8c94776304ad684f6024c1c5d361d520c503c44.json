@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"txnFee","internalType":"uint256","type":"uint256","indexed":false},{"name":"extraTxnFee","internalType":"uint256","type":"uint256","indexed":false}],"name":"TransferFeeChanged"}]

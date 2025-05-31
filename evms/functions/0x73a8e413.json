@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_donationFeePercent","internalType":"uint8","type":"uint8"}],"name":"setDonationFeePercent","outputs":[],"stateMutability":"nonpayable"}]

@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"NewFeeToken","internalType":"address","type":"address","indexed":false},{"name":"OldFeeToken","internalType":"address","type":"address","indexed":false}],"name":"NewFeeToken"}]

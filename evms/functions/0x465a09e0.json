@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"tokenIds","internalType":"bytes32[]","type":"bytes32[]"},{"name":"flowLimits","internalType":"uint256[]","type":"uint256[]"}],"name":"setFlowLimits","outputs":[],"stateMutability":"nonpayable"}]

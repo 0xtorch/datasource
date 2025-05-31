@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"marketBorrow","internalType":"address","type":"address"},{"name":"marketCollateral","internalType":"address","type":"address"},{"name":"repayAmount","internalType":"uint256","type":"uint256"}],"name":"calculateLiquidationOpportunity","outputs":[{"name":"","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

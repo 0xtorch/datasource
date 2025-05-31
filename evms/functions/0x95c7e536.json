@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_autoEarnDelaySeconds","internalType":"uint256","type":"uint256"}],"name":"setAutoEarnDelaySeconds","outputs":[],"stateMutability":"nonpayable"}]

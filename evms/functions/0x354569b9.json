@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"v1","internalType":"string","type":"string"},{"name":"v2","internalType":"string","type":"string"},{"name":"v3","internalType":"string","type":"string"}],"name":"setNFTURI","outputs":[],"stateMutability":"nonpayable"}]

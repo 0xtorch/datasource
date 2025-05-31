@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"editionId","internalType":"uint256","type":"uint256"},{"name":"tierId","internalType":"uint256","type":"uint256"}],"name":"editionTiersSupply","outputs":[{"name":"availableToMint","internalType":"uint256","type":"uint256"},{"name":"currentSupply","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

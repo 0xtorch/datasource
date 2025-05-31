@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"newBaseTarget","internalType":"uint112","type":"uint112","indexed":false},{"name":"newQuoteTarget","internalType":"uint112","type":"uint112","indexed":false}],"name":"TargetChanged"}]

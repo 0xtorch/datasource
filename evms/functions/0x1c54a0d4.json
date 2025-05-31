@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_orderID","internalType":"uint256","type":"uint256"},{"name":"_newLockPeriod","internalType":"enum LockPeriod","type":"uint8"}],"name":"restake","outputs":[{"name":"","internalType":"address","type":"address"},{"name":"","internalType":"uint256","type":"uint256"}],"stateMutability":"nonpayable"}]

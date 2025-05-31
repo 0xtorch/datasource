@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[],"name":"getPauseStatus","outputs":[{"name":"pauseFlags","internalType":"uint8","type":"uint8"},{"name":"unpauseFuse","internalType":"bool","type":"bool"}],"stateMutability":"view"}]

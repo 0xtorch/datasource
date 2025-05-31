@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"distributors","internalType":"contract IMerkleDistributorWithDeadline[]","type":"address[]"}],"name":"withdraw","outputs":[{"name":"amounts","internalType":"Amount[]","type":"uint256[]"}],"stateMutability":"nonpayable"}]

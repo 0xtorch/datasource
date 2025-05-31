@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_intervalBlockSize","internalType":"uint256","type":"uint256"},{"name":"update","internalType":"bool","type":"bool"}],"name":"setIntervalBlockSize","outputs":[],"stateMutability":"nonpayable"}]

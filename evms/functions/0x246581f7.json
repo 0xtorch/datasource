@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_vaultManager","internalType":"address","type":"address"},{"name":"","internalType":"address","type":"address"},{"name":"_steer","internalType":"address","type":"address"},{"name":"_params","internalType":"bytes","type":"bytes"}],"name":"initialize","outputs":[],"stateMutability":"nonpayable"}]

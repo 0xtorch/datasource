@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"address_","internalType":"address","type":"address"},{"name":"permission","internalType":"bool","type":"bool"}],"name":"setBlacklistPermission","outputs":[],"stateMutability":"nonpayable"}]

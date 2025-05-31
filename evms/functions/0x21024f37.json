@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_firebirdRouter","internalType":"contract IFirebirdRouter","type":"address"}],"name":"setFirebirdRouter","outputs":[],"stateMutability":"nonpayable"}]

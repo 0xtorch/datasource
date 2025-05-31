@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[],"name":"mintStatus","outputs":[{"name":"","internalType":"enum BlastRocks.MintStatus","type":"uint8"}],"stateMutability":"view"}]

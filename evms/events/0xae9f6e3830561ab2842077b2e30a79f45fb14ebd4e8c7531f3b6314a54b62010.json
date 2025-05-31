@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"token","internalType":"address","type":"address","indexed":false},{"name":"liquidityPool","internalType":"address","type":"address","indexed":false}],"name":"LiquidityPoolRouter__LiquidityPoolAdded"}]

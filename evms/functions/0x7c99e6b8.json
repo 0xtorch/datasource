@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"auth","internalType":"struct Auth","type":"tuple","components":[{"name":"key","internalType":"bytes32","type":"bytes32"},{"name":"proof","internalType":"bytes32[]","type":"bytes32[]"}]},{"name":"tokenIds","internalType":"uint256[]","type":"uint256[]"}],"name":"burnToMint","outputs":[],"stateMutability":"payable"}]

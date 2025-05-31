@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"tokenId","internalType":"bytes32","type":"bytes32"}],"name":"deployedTokenManager","outputs":[{"name":"tokenManager_","internalType":"contract ITokenManager","type":"address"}],"stateMutability":"view"}]

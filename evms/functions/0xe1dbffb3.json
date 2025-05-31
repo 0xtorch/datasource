@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_twapOracle","internalType":"contract IDynamicTwapOracle","type":"address"},{"name":"_paymentToken","internalType":"address","type":"address"}],"name":"setTwapOracleAndPaymentToken","outputs":[],"stateMutability":"nonpayable"}]

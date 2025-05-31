@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"olKeyHash","internalType":"bytes32","type":"bytes32"},{"name":"offerId","internalType":"uint256","type":"uint256"},{"name":"expiryDate","internalType":"uint256","type":"uint256"},{"name":"volume","internalType":"uint256","type":"uint256"}],"name":"setReneging","outputs":[],"stateMutability":"nonpayable"}]

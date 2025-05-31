@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_brainReferral","internalType":"contract IReferral","type":"address"}],"name":"setBrainReferral","outputs":[],"stateMutability":"nonpayable"}]

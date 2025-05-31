@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"yieldMode","internalType":"enum IERC20Rebasing.YieldMode","type":"uint8"}],"name":"configureYieldMode","outputs":[],"stateMutability":"nonpayable"}]

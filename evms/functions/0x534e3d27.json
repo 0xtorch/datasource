@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"lpAmountIn","internalType":"uint256","type":"uint256"}],"name":"getRemoveLiquidityOut","outputs":[{"name":"tokenAmountsOut","internalType":"uint256[]","type":"uint256[]"}],"stateMutability":"view"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_topPrice","internalType":"uint256","type":"uint256"},{"name":"_bottomPrice","internalType":"uint256","type":"uint256"},{"name":"_emissionUpdateInterval","internalType":"uint256","type":"uint256"},{"name":"_curveRate","internalType":"uint256","type":"uint256"}],"name":"updateEmissionParameters","outputs":[],"stateMutability":"nonpayable"}]

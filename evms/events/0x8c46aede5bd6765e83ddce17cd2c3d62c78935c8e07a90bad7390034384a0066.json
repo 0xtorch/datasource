@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"orderType","internalType":"enum EIP712Order.OrderType","type":"uint8","indexed":true},{"name":"buyToken","internalType":"address","type":"address","indexed":true},{"name":"buyTokenIdOrAmount","internalType":"uint256","type":"uint256","indexed":true}],"name":"OrderExecutedP2"}]

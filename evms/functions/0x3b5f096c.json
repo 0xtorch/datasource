@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"p","internalType":"uint256[]","type":"uint256[]"},{"name":"update","internalType":"bool","type":"bool"}],"name":"setPeakHourTaxes","outputs":[],"stateMutability":"nonpayable"}]

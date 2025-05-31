@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"handler_","internalType":"contract ITokenUpdateHandler","type":"address"}],"name":"setTokenUpdateHandler","outputs":[],"stateMutability":"nonpayable"}]

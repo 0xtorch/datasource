@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"state","internalType":"enum BlastOnboardingData.State","type":"uint8","indexed":false}],"name":"LogStateChange"}]

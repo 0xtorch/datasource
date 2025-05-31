@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"remoteChainSelector","internalType":"uint64","type":"uint64"}],"name":"getRemotePools","outputs":[{"name":"","internalType":"bytes[]","type":"bytes[]"}],"stateMutability":"view"}]

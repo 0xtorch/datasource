@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[],"name":"claimTokenYields","outputs":[{"name":"token0Amount","internalType":"uint256","type":"uint256"},{"name":"token1Amount","internalType":"uint256","type":"uint256"}],"stateMutability":"nonpayable"}]

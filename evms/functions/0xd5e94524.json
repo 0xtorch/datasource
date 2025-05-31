@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_address","internalType":"address[]","type":"address[]"},{"name":"_iw","internalType":"bool","type":"bool"}],"name":"setWList","outputs":[],"stateMutability":"nonpayable"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_address","internalType":"address","type":"address"}],"name":"getNativeTokenSpended","outputs":[{"name":"","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

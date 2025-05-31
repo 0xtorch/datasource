@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_isLongPool","internalType":"bool","type":"bool"},{"name":"_addressProvider","internalType":"contract IAddressProvider","type":"address"},{"name":"_manager","internalType":"contract PerpManager","type":"address"}],"name":"__BaseWasabiPool_init","outputs":[],"stateMutability":"nonpayable"}]

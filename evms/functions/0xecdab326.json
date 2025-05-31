@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_mintPriceMATIC","internalType":"uint256","type":"uint256"},{"name":"_mintPriceMATICWhitelist","internalType":"uint256","type":"uint256"}],"name":"setMintPrices","outputs":[],"stateMutability":"nonpayable"}]

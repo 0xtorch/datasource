@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"id","internalType":"PoolId","type":"bytes32","indexed":true},{"name":"protocolFee","internalType":"uint24","type":"uint24","indexed":false}],"name":"ProtocolFeeUpdated"}]

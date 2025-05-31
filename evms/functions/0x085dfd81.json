@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"streams","internalType":"address[]","type":"address[]"},{"name":"recipient","internalType":"address","type":"address"}],"name":"collectAll","outputs":[],"stateMutability":"payable"}]

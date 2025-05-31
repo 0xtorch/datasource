@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"betChoice","internalType":"uint256","type":"uint256"},{"name":"coins","internalType":"uint256","type":"uint256"},{"name":"bonus","internalType":"uint256","type":"uint256"}],"name":"placeBet","outputs":[],"stateMutability":"payable"}]

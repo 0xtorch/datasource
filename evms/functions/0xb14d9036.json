@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"newState","internalType":"enum PMMPricing.RState","type":"uint8"}],"name":"setRState","outputs":[],"stateMutability":"nonpayable"}]

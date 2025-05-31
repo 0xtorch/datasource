@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_traders","internalType":"address[]","type":"address[]"},{"name":"_codes","internalType":"bytes32[]","type":"bytes32[]"}],"name":"migrateTraderReferrals","outputs":[],"stateMutability":"nonpayable"}]

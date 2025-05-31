@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"blockNumber","type":"uint256","indexed":false},{"name":"newBlockAmount","type":"uint256","indexed":false},{"name":"newHalfLife","type":"uint256","indexed":false}],"name":"RefixMining"}]

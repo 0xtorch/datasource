@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_withdrawer","internalType":"address","type":"address"},{"name":"_enabled","internalType":"bool","type":"bool"}],"name":"setWithdrawer","outputs":[],"stateMutability":"nonpayable"}]

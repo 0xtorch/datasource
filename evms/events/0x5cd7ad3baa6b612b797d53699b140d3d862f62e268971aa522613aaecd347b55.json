@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"minterBurner","internalType":"address","type":"address","indexed":false},{"name":"newMinterBurner","internalType":"address","type":"address","indexed":false}],"name":"MinterBurnerChanged"}]

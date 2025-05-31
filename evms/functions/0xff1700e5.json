@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_adminManager","internalType":"contract PerpManager","type":"address"}],"name":"migrateToRoleManager","outputs":[],"stateMutability":"nonpayable"}]

@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"darksideSwapRouter","internalType":"address","type":"address","indexed":false},{"name":"darksideSwapPair","internalType":"address","type":"address","indexed":false}],"name":"SetDarksideRouter"}]

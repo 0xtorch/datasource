@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"poolId","internalType":"PoolId","type":"bytes32"}],"name":"poolBalances","outputs":[{"name":"balance0","internalType":"uint256","type":"uint256"},{"name":"balance1","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

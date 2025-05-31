@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"newFeeDistributor","internalType":"contract IOptionFeeDistributor","type":"address","indexed":true}],"name":"SetFeeDistributor"}]

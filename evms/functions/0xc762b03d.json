@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_tierId","internalType":"uint256","type":"uint256"},{"name":"_feeDiscountPct","internalType":"uint256","type":"uint256"},{"name":"_refRebatePct","internalType":"uint256","type":"uint256"}],"name":"setReferralTier","outputs":[],"stateMutability":"nonpayable"}]

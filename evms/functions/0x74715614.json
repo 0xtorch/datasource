@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"epochBegin","internalType":"uint256","type":"uint256"},{"name":"epochEnd","internalType":"uint256","type":"uint256"},{"name":"_withdrawalFee","internalType":"uint256","type":"uint256"}],"name":"createAssets","outputs":[],"stateMutability":"nonpayable"}]

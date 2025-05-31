@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_token","internalType":"address","type":"address"},{"name":"_addressesAndAmounts","internalType":"bytes32[]","type":"bytes32[]"}],"name":"multiERC20TransferTightlyPacked","outputs":[],"stateMutability":"nonpayable"}]

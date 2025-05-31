@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"txgoldFee","internalType":"uint256","type":"uint256"}],"name":"setTxgoldFeePercent","outputs":[],"stateMutability":"nonpayable"}]

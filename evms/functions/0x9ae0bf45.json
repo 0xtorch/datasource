@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"domainID","internalType":"uint8","type":"uint8"},{"name":"depositNonce","internalType":"uint256","type":"uint256"}],"name":"isProposalExecuted","outputs":[{"name":"","internalType":"bool","type":"bool"}],"stateMutability":"view"}]

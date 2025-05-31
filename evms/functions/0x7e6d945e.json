@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_domainName","internalType":"string","type":"string"},{"name":"_domainHolder","internalType":"address","type":"address"},{"name":"_referrer","internalType":"address","type":"address"}],"name":"mint","outputs":[{"name":"","internalType":"uint256","type":"uint256"}],"stateMutability":"payable"}]

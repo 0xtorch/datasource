@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_slippagePercentage","internalType":"uint256","type":"uint256"}],"name":"setSlippagePercentage","outputs":[],"stateMutability":"nonpayable"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"startBlockIndex","internalType":"uint256","type":"uint256"},{"name":"endBlockIndex","internalType":"uint256","type":"uint256"}],"name":"getFullBlockBonuses","outputs":[{"name":"","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

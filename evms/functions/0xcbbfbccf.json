@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"mintConfigId","internalType":"uint256","type":"uint256"},{"name":"expirationTimestamp","internalType":"uint256","type":"uint256"}],"name":"setExpirationTimestampForMintConfig","outputs":[],"stateMutability":"nonpayable"}]

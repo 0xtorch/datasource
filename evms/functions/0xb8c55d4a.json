@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"tokenOut","internalType":"contract IERC20","type":"address"},{"name":"minAmountOut","internalType":"uint256","type":"uint256"},{"name":"recipient","internalType":"address","type":"address"}],"name":"shift","outputs":[{"name":"amountOut","internalType":"uint256","type":"uint256"}],"stateMutability":"nonpayable"}]

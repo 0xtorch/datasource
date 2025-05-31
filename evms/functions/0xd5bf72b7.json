@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_sellLiquidityFee","internalType":"uint24","type":"uint24"},{"name":"_buyLiquidityFee","internalType":"uint24","type":"uint24"}],"name":"updateLiquidityFee","outputs":[],"stateMutability":"nonpayable"}]

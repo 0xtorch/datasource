@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"by","internalType":"address","type":"address","indexed":true},{"name":"dopAmount","internalType":"uint256","type":"uint256","indexed":false},{"name":"ids","internalType":"uint256[]","type":"uint256[]","indexed":true},{"name":"quantity","internalType":"uint256[]","type":"uint256[]","indexed":true}],"name":"Claimed"}]

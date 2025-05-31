@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_rampUpRate","internalType":"uint256","type":"uint256"},{"name":"_rampDownRate","internalType":"uint256","type":"uint256"}],"name":"setRampRates","outputs":[],"stateMutability":"nonpayable"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"storageContract","internalType":"address","type":"address"}],"name":"indexStart","outputs":[{"name":"genesisBlock","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"_multisigAddressForPUSDReward","internalType":"address","type":"address","indexed":false},{"name":"_multisigAddressForTopDeFi","internalType":"address","type":"address","indexed":false},{"name":"_multisigAddressForLiquidity","internalType":"address","type":"address","indexed":false}],"name":"MultiSigAddressSet"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_token","internalType":"address","type":"address"},{"name":"_protocolProxyChainId","internalType":"uint256","type":"uint256"},{"name":"_protocolProxyAddr","internalType":"address","type":"address"}],"name":"removeAllowedTokenFromProtocol","outputs":[],"stateMutability":"nonpayable"}]

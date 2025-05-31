@@ -1,0 +1,1 @@
+[{"type":"function","constant":false,"inputs":[{"name":"sniper_address","internalType":"address","type":"address"},{"name":"status","internalType":"bool","type":"bool"}],"name":"manageSniper","outputs":[],"payable":false,"stateMutability":"nonpayable"}]

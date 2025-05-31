@@ -1,0 +1,1 @@
+[{"type":"function","constant":true,"inputs":[],"name":"getCirculation","outputs":[{"name":"blockNumber","type":"uint256"},{"name":"nowCirculation","type":"uint256"}],"payable":false,"stateMutability":"view"}]

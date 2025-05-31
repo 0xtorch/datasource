@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"virusAddress","internalType":"address","type":"address"}],"name":"getTopInfectors","outputs":[{"name":"","internalType":"address[3]","type":"address[3]"},{"name":"","internalType":"uint256[3]","type":"uint256[3]"}],"stateMutability":"view"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"currency","internalType":"address","type":"address"},{"name":"typeId","internalType":"uint256","type":"uint256"},{"name":"quantity","internalType":"uint8","type":"uint8"}],"name":"openBoxes","outputs":[],"stateMutability":"nonpayable"}]

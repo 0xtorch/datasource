@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"zone","internalType":"contract IZone","type":"address","indexed":false}],"name":"SetZone"}]

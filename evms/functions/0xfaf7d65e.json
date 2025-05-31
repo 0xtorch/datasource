@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"caveId","internalType":"uint256","type":"uint256"},{"name":"roundId","internalType":"uint256","type":"uint256"}],"name":"cancellable","outputs":[{"name":"","internalType":"bool","type":"bool"}],"stateMutability":"view"}]

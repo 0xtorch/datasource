@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_amountOutMin","internalType":"uint256","type":"uint256"}],"name":"buyExactIn","outputs":[{"name":"collateralToPayWithFee","internalType":"uint256","type":"uint256"},{"name":"helioFee","internalType":"uint256","type":"uint256"},{"name":"dexFee","internalType":"uint256","type":"uint256"}],"stateMutability":"payable"}]

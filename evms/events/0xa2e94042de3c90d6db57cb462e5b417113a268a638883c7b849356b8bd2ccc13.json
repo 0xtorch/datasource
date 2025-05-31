@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"previousPeriod","internalType":"uint24","type":"uint24","indexed":false},{"name":"newPeriod","internalType":"uint24","type":"uint24","indexed":false}],"name":"VestingPeriodUpdated"}]

@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"mainRouter","internalType":"address","type":"address","indexed":false},{"name":"mainPair","internalType":"address","type":"address","indexed":false},{"name":"baseTokenForMarket","internalType":"address","type":"address","indexed":false}],"name":"MainRouterUpdated"}]

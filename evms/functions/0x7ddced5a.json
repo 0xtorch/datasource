@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_pid","internalType":"uint256","type":"uint256"},{"name":"_ulid","internalType":"uint256","type":"uint256"}],"name":"withdrawLiquidity","outputs":[],"stateMutability":"nonpayable"}]

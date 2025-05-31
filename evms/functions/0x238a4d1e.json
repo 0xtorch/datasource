@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_signerAddress","internalType":"address","type":"address"},{"name":"_hash","internalType":"bytes32","type":"bytes32"},{"name":"_rsig","internalType":"bytes","type":"bytes"}],"name":"isValidSignature","outputs":[{"name":"isValid","internalType":"bool","type":"bool"}],"stateMutability":"view"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_tokenId","internalType":"uint256","type":"uint256"}],"name":"getNFTColors","outputs":[{"name":"","internalType":"struct GenesisPetNFT.ColorInfo[]","type":"tuple[]","components":[{"name":"id","internalType":"uint256","type":"uint256"},{"name":"cType","internalType":"uint256","type":"uint256"}]}],"stateMutability":"view"}]

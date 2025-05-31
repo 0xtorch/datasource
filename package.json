@@ -3,18 +3,18 @@
   "type": "module",
   "module": "index.ts",
   "dependencies": {
-    "@0xtorch/core": "^0.0.61",
-    "@0xtorch/evm": "^0.0.126",
+    "@0xtorch/core": "^0.0.63",
+    "@0xtorch/evm": "^0.0.131",
     "@0xtorch/solana": "^0.0.43",
-    "abitype": "^1.0.6",
-    "viem": "2.21.18",
-    "zod": "3.22.4"
+    "abitype": "^1.0.8",
+    "viem": "^2.29.2",
+    "zod": "^3.24.4"
   },
   "devDependencies": {
     "@biomejs/biome": "1.9.4",
-    "@types/bun": "^1.2.2",
-    "bun-types": "^1.2.2",
-    "prettier": "^3.4.2",
-    "prettier-plugin-packagejson": "^2.5.8"
+    "@types/bun": "^1.2.15",
+    "bun-types": "^1.2.15",
+    "prettier": "^3.5.3",
+    "prettier-plugin-packagejson": "^2.5.14"
   }
 }

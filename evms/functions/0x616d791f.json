@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_presaleStart","internalType":"uint256","type":"uint256"},{"name":"_presaleEnd","internalType":"uint256","type":"uint256"},{"name":"_claimStart","internalType":"uint256","type":"uint256"},{"name":"_claimEnd","internalType":"uint256","type":"uint256"}],"name":"initializeConfig","outputs":[],"stateMutability":"nonpayable"}]

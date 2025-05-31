@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_tradingVolume","internalType":"uint256","type":"uint256"},{"name":"_tinyBurn","internalType":"uint256","type":"uint256"}],"name":"addGenesisTradingInfo","outputs":[],"stateMutability":"nonpayable"}]

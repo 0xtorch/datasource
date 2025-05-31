@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"boxTypeId","internalType":"uint256","type":"uint256"},{"name":"canBuyForUtility","internalType":"bool","type":"bool"}],"name":"setCanBuyForUtility","outputs":[],"stateMutability":"nonpayable"}]

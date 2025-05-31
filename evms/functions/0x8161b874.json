@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"recipient","internalType":"address","type":"address"},{"name":"currency","internalType":"Currency","type":"address"},{"name":"amount","internalType":"uint256","type":"uint256"}],"name":"collectProtocolFees","outputs":[{"name":"amountCollected","internalType":"uint256","type":"uint256"}],"stateMutability":"nonpayable"}]

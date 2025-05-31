@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"newBasePATH","internalType":"string","type":"string","indexed":false}],"name":"BasePATHChanged"}]

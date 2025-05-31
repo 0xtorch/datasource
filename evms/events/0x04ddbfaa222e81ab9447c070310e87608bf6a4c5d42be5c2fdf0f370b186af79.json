@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"tokenId","internalType":"bytes32","type":"bytes32","indexed":true},{"name":"deployer","internalType":"address","type":"address","indexed":true},{"name":"salt","internalType":"bytes32","type":"bytes32","indexed":true}],"name":"InterchainTokenIdClaimed"}]

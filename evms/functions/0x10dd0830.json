@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[],"name":"wellFunction","outputs":[{"name":"_wellFunction","internalType":"struct Call","type":"tuple","components":[{"name":"target","internalType":"address","type":"address"},{"name":"data","internalType":"bytes","type":"bytes"}]}],"stateMutability":"pure"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"amount","internalType":"uint256","type":"uint256"},{"name":"_epoch","internalType":"uint256","type":"uint256"}],"name":"calculateWithdrawalFeeValue","outputs":[{"name":"feeValue","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

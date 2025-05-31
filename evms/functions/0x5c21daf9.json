@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"virusAddress","internalType":"address","type":"address"},{"name":"infector","internalType":"address","type":"address"}],"name":"getFirstInfectionCount","outputs":[{"name":"","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]
