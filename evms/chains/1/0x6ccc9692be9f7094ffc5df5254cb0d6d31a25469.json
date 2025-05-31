@@ -1,0 +1,5 @@
+{
+  "address": "0x6ccc9692be9f7094ffc5df5254cb0d6d31a25469",
+  "label": "NftProxy",
+  "abi": "[{\"stateMutability\":\"payable\",\"type\":\"fallback\"}]"
+}
