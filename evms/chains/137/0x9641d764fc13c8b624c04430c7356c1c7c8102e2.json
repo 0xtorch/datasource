@@ -1,0 +1,5 @@
+{
+  "address": "0x9641d764fc13c8b624c04430c7356c1c7c8102e2",
+  "label": "MultiSendCallOnly",
+  "abi": "[{\"inputs\":[{\"internalType\":\"bytes\",\"name\":\"transactions\",\"type\":\"bytes\"}],\"name\":\"multiSend\",\"outputs\":[],\"stateMutability\":\"payable\",\"type\":\"function\"}]"
+}
