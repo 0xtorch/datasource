@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[],"name":"getPairReserves","outputs":[{"name":"SPEM","internalType":"uint112","type":"uint112"},{"name":"MATIC","internalType":"uint112","type":"uint112"}],"stateMutability":"view"}]

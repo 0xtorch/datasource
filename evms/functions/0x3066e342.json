@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_gameId","internalType":"bytes16","type":"bytes16"},{"name":"_localhash","internalType":"bytes32","type":"bytes32"}],"name":"resolveGame","outputs":[],"stateMutability":"nonpayable"}]

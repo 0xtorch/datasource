@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"blacklistAddress","internalType":"address","type":"address"}],"name":"isBlacklistedAddress","outputs":[{"name":"","internalType":"bool","type":"bool"}],"stateMutability":"view"}]

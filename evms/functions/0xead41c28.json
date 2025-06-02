@@ -1,0 +1,1 @@
+[{"type":"function","constant":false,"inputs":[{"name":"_id","internalType":"uint256","type":"uint256"},{"name":"_creatorAddress","internalType":"address","type":"address"}],"name":"updateNftCreator","outputs":[],"payable":false,"stateMutability":"nonpayable"}]

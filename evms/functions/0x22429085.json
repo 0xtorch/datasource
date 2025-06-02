@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_devFee","internalType":"uint256","type":"uint256"},{"name":"_refFee","internalType":"uint256","type":"uint256"},{"name":"_divPoolFee","internalType":"uint256","type":"uint256"}],"name":"updateFees","outputs":[],"stateMutability":"nonpayable"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"multiplierNumber","internalType":"uint256","type":"uint256"},{"name":"date","internalType":"uint256","type":"uint256"}],"name":"updateMultiplierAtDate","outputs":[],"stateMutability":"nonpayable"}]

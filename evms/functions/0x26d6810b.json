@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[],"name":"pairOtoQMatic","outputs":[{"name":"OTOQ","internalType":"uint112","type":"uint112"},{"name":"MATIC","internalType":"uint112","type":"uint112"}],"stateMutability":"view"}]

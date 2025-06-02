@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"poolsId","internalType":"uint256[]","type":"uint256[]","indexed":false},{"name":"withStake","internalType":"bool","type":"bool","indexed":false},{"name":"extraStake","internalType":"uint256","type":"uint256","indexed":false}],"name":"MassHarvestStake"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_whitelistedminting","internalType":"bool","type":"bool"}],"name":"setMintingToWhitelisted","outputs":[],"stateMutability":"nonpayable"}]

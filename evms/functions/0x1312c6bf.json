@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"ids","internalType":"uint256[]","type":"uint256[]"},{"name":"stake","internalType":"bool","type":"bool"},{"name":"extraStake","internalType":"uint256","type":"uint256"}],"name":"massHarvestStake","outputs":[],"stateMutability":"nonpayable"}]

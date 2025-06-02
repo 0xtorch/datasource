@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"nft","internalType":"contract IERC721","type":"address","indexed":false},{"name":"blacklisted","internalType":"bool","type":"bool","indexed":false}],"name":"EvNFTBlacklisted"}]

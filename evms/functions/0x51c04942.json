@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_boostId","internalType":"uint256","type":"uint256"}],"name":"remainingMint","outputs":[{"name":"","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_locktime","internalType":"contract ILocktime","type":"address"}],"name":"changeLocktimeContract","outputs":[],"stateMutability":"nonpayable"}]

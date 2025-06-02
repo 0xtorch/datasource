@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[],"name":"managementInfo","outputs":[{"name":"Operator","internalType":"address","type":"address"},{"name":"TreasuryFund","internalType":"address","type":"address"}],"stateMutability":"view"}]

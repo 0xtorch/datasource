@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"depositAddresses","internalType":"address[]","type":"address[]"}],"name":"addDepositAddress","outputs":[],"stateMutability":"nonpayable"}]

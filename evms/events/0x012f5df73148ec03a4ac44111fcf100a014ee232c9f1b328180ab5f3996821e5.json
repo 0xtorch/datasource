@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"_marketingPercent","internalType":"uint256","type":"uint256","indexed":false},{"name":"_rewardPoolPercent","internalType":"uint256","type":"uint256","indexed":false}],"name":"PercentsUpdated"}]

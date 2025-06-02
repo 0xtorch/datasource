@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"User","internalType":"address","type":"address","indexed":false},{"name":"Referrer","internalType":"address","type":"address","indexed":false}],"name":"Register"}]

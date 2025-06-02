@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"id","internalType":"uint256","type":"uint256"},{"name":"next","internalType":"uint256","type":"uint256"}],"name":"setKindNext","outputs":[],"stateMutability":"nonpayable"}]

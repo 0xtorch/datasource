@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"pair","internalType":"address","type":"address"},{"name":"token","internalType":"address","type":"address"}],"name":"getTokenInPair","outputs":[{"name":"balance","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

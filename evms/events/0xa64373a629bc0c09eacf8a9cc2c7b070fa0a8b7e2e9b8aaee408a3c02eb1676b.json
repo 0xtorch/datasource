@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"previous","internalType":"address","type":"address","indexed":true},{"name":"adr","internalType":"address","type":"address","indexed":true}],"name":"marketingAddressUpdated"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[],"name":"metaSwapStorage","outputs":[{"name":"baseSwap","internalType":"contract ISwap","type":"address"},{"name":"baseVirtualPrice","internalType":"uint256","type":"uint256"},{"name":"baseCacheLastUpdated","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

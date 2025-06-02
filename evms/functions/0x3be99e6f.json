@@ -1,0 +1,1 @@
+[{"type":"function","constant":false,"inputs":[{"name":"_resolver","internalType":"contract AddressResolver","type":"address"}],"name":"setResolverAndSyncCache","outputs":[],"payable":false,"stateMutability":"nonpayable"}]

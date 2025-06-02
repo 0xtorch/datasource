@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"","internalType":"uint256","type":"uint256"}],"name":"ecosystemFunds","outputs":[{"name":"isUnlocked","internalType":"bool","type":"bool"},{"name":"unlockedTime","internalType":"uint256","type":"uint256"},{"name":"amount","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

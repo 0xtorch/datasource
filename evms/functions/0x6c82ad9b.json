@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_withdrawalLockIntervals","internalType":"uint256[]","type":"uint256[]"},{"name":"_withdrawalLockRate","internalType":"uint16[]","type":"uint16[]"}],"name":"setWithdrawLock","outputs":[],"stateMutability":"nonpayable"}]

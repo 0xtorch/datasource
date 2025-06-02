@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"account","internalType":"address","type":"address"},{"name":"isFeeless","internalType":"bool","type":"bool"}],"name":"setFeeless","outputs":[],"stateMutability":"nonpayable"}]

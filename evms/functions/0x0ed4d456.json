@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_mintFeeAddr","internalType":"address","type":"address"}],"name":"transferMintFeeAddress","outputs":[],"stateMutability":"nonpayable"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_pid","internalType":"uint256","type":"uint256"},{"name":"_operatorAddress","internalType":"address","type":"address"},{"name":"_isOperator","internalType":"bool","type":"bool"}],"name":"updateStrategyOperator","outputs":[],"stateMutability":"nonpayable"}]

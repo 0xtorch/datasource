@@ -1,0 +1,1 @@
+[{"type":"function","constant":true,"inputs":[],"name":"getResolverAddressesRequired","outputs":[{"name":"addressesRequired","internalType":"bytes32[24]","type":"bytes32[24]"}],"payable":false,"stateMutability":"view"}]

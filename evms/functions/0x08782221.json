@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"sellTax","internalType":"uint256","type":"uint256"},{"name":"sellLiquidity","internalType":"uint256","type":"uint256"},{"name":"sellBurn","internalType":"uint256","type":"uint256"},{"name":"sellMarketing","internalType":"uint256","type":"uint256"}],"name":"changeSellFee","outputs":[],"stateMutability":"nonpayable"}]

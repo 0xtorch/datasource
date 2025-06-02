@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"interval","internalType":"uint256","type":"uint256"},{"name":"amount","internalType":"uint256","type":"uint256"}],"name":"setCooldown","outputs":[],"stateMutability":"nonpayable"}]

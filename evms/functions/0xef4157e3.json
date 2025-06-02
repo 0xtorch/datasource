@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_vSwapFactory","internalType":"contract IValueLiquidFactory","type":"address"}],"name":"setVSwapFactory","outputs":[],"stateMutability":"nonpayable"}]

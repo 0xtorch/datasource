@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"","internalType":"contract IERC721","type":"address"}],"name":"nftBlacklist","outputs":[{"name":"","internalType":"bool","type":"bool"}],"stateMutability":"view"}]

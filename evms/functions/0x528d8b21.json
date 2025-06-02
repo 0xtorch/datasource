@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_liquidityController","internalType":"address","type":"address"},{"name":"_canControl","internalType":"bool","type":"bool"}],"name":"setLiquidityController","outputs":[],"stateMutability":"nonpayable"}]

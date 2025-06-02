@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"transferTax","internalType":"uint256","type":"uint256"},{"name":"transferLiquidity","internalType":"uint256","type":"uint256"},{"name":"transferBurn","internalType":"uint256","type":"uint256"},{"name":"transferMarketing","internalType":"uint256","type":"uint256"}],"name":"changeTransferFee","outputs":[],"stateMutability":"nonpayable"}]

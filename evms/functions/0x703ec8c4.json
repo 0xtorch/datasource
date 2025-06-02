@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[],"name":"stakingInfo","outputs":[{"name":"PausedDeposit","internalType":"bool","type":"bool"},{"name":"MinLPdeposit","internalType":"uint256","type":"uint256"},{"name":"WithdrawPeriod","internalType":"uint256","type":"uint256"},{"name":"PenaltyFee","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

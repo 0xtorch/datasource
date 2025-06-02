@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"NewTreasuryFee","internalType":"uint256","type":"uint256","indexed":false},{"name":"NewLPStakingReward","internalType":"uint256","type":"uint256","indexed":false}],"name":"UpdateTreasuryFee"}]

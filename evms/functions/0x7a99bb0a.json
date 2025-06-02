@@ -1,0 +1,1 @@
+[{"type":"function","constant":true,"inputs":[{"name":"weiAmount","internalType":"uint256","type":"uint256"}],"name":"_getTokenAmount","outputs":[{"name":"","internalType":"uint256","type":"uint256"}],"payable":false,"stateMutability":"view"}]

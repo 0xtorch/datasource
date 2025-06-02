@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"farmer","internalType":"address","type":"address"}],"name":"getRefFriend","outputs":[{"name":"","internalType":"address","type":"address"}],"stateMutability":"view"}]

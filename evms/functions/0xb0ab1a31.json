@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_newNumberRuneToReactivate","internalType":"uint256","type":"uint256"},{"name":"_newNumberRuneToRegister","internalType":"uint256","type":"uint256"},{"name":"_newNumberRuneToUpdate","internalType":"uint256","type":"uint256"}],"name":"updateNumberRune","outputs":[],"stateMutability":"nonpayable"}]

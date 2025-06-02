@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_amount","internalType":"uint256","type":"uint256"}],"name":"calcSharesFromAmount","outputs":[{"name":"_shares","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

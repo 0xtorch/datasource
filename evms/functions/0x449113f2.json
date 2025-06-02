@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_liquidityPair","internalType":"contract IPancakePair","type":"address"},{"name":"_locked","internalType":"bool","type":"bool"}],"name":"setLiquidityLock","outputs":[],"stateMutability":"nonpayable"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"ids","internalType":"bytes32[]","type":"bytes32[]"},{"name":"supplies","internalType":"uint256[]","type":"uint256[]"},{"name":"prices","internalType":"uint256[]","type":"uint256[]"},{"name":"limits","internalType":"uint256[]","type":"uint256[]"}],"name":"fillInventory","outputs":[],"stateMutability":"nonpayable"}]

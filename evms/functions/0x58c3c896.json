@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_boosterId","internalType":"uint256","type":"uint256"},{"name":"_newBooster","internalType":"contract IERC721","type":"address"}],"name":"changeBooster","outputs":[],"stateMutability":"nonpayable"}]

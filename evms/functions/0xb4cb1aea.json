@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_tokenId","internalType":"uint256","type":"uint256"},{"name":"_breedType","internalType":"uint256","type":"uint256"},{"name":"_pTokenId0","internalType":"uint256","type":"uint256"},{"name":"_pTokenId1","internalType":"uint256","type":"uint256"}],"name":"setParents","outputs":[],"stateMutability":"nonpayable"}]

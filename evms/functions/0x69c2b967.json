@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"tokenPair","internalType":"address","type":"address"}],"name":"setTokenPairAddress","outputs":[],"stateMutability":"nonpayable"}]

@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"NewOperator","internalType":"address","type":"address","indexed":false}],"name":"UpdateOperator"}]

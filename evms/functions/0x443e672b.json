@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_mistReferral","internalType":"contract IMistReferral","type":"address"}],"name":"setMistReferral","outputs":[],"stateMutability":"nonpayable"}]

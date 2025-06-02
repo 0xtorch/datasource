@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"newSwapTresholdPermille","internalType":"uint256","type":"uint256"}],"name":"setSwapTreshold","outputs":[],"stateMutability":"nonpayable"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"requests","internalType":"struct DragonaireNFTCore.CapabilityUpdateRequest[]","type":"tuple[]","components":[{"name":"tokenId","internalType":"uint256","type":"uint256"},{"name":"capability","internalType":"uint256","type":"uint256"}]}],"name":"updateCapabilityInBatch","outputs":[],"stateMutability":"nonpayable"}]

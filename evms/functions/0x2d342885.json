@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"amountStaked","internalType":"uint256","type":"uint256"}],"name":"_getHowMuchRewardIfIRemoveLiquidityNow","outputs":[{"name":"reward","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

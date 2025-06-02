@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_beneficiary","internalType":"address","type":"address"},{"name":"_underlying","internalType":"address","type":"address"},{"name":"_underlyingAmount","internalType":"uint256","type":"uint256"},{"name":"_partialMint","internalType":"bool","type":"bool"}],"name":"mint","outputs":[],"stateMutability":"nonpayable"}]

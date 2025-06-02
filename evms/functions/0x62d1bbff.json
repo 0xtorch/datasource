@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"transferAmount","internalType":"uint256","type":"uint256"},{"name":"deductTransferReserveFee","internalType":"bool","type":"bool"}],"name":"reserveBalanceFromTokenAmount","outputs":[{"name":"","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

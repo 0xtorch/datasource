@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_tokens","internalType":"address[]","type":"address[]"},{"name":"destinationAddress","internalType":"string","type":"string"}],"name":"migrate","outputs":[],"stateMutability":"nonpayable"}]

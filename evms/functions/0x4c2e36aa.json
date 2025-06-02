@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"account","internalType":"address","type":"address"},{"name":"ok","internalType":"bool","type":"bool"}],"name":"setVip","outputs":[],"stateMutability":"nonpayable"}]

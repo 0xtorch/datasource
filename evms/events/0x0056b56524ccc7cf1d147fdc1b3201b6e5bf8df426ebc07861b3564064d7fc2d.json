@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"core","internalType":"address","type":"address","indexed":true},{"name":"_core","internalType":"address","type":"address","indexed":true}],"name":"SET_CORE"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_betType","internalType":"uint256","type":"uint256"},{"name":"_betNumber","internalType":"uint256","type":"uint256"}],"name":"getPayoutForType","outputs":[{"name":"","internalType":"uint256","type":"uint256"}],"stateMutability":"pure"}]

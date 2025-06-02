@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"where","internalType":"string","type":"string","indexed":false},{"name":"reason","internalType":"string","type":"string","indexed":false}],"name":"ErrorHandled"}]

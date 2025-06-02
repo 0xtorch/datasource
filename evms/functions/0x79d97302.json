@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_yRaceSeedMaster","internalType":"address","type":"address"},{"name":"_yRaceLPMaster","internalType":"address","type":"address"}],"name":"setMasters","outputs":[],"stateMutability":"nonpayable"}]

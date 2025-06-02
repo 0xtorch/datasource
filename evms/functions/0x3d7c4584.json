@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_userSellLimitTime","internalType":"uint256","type":"uint256"},{"name":"_userSellLimitPercent","internalType":"uint256","type":"uint256"},{"name":"_userSellMinPermit","internalType":"uint256","type":"uint256"}],"name":"setSellStrategy","outputs":[],"stateMutability":"nonpayable"}]

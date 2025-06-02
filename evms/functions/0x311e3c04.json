@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_pid","internalType":"uint256","type":"uint256"},{"name":"_fee","internalType":"uint16","type":"uint16"}],"name":"changeFee","outputs":[],"stateMutability":"nonpayable"}]

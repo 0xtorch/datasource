@@ -1,0 +1,1 @@
+[{"type":"function","constant":false,"inputs":[{"name":"contentDigest","type":"uint256"},{"name":"amount","type":"uint256"}],"name":"bulkMint","outputs":[{"name":"","type":"bool"}],"payable":false,"stateMutability":"nonpayable"}]

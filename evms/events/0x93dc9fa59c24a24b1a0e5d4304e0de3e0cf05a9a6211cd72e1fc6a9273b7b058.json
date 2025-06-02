@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"_oldExchange","internalType":"address","type":"address","indexed":false},{"name":"_newExchange","internalType":"address","type":"address","indexed":false}],"name":"ChangeExchange"}]

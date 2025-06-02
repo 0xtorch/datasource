@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_farmReferral","internalType":"contract IFarmReferral","type":"address"}],"name":"setFarmReferral","outputs":[],"stateMutability":"nonpayable"}]

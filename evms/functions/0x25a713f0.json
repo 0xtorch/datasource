@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_characterId","internalType":"uint8","type":"uint8"}],"name":"getCharacterName","outputs":[{"name":"","internalType":"string","type":"string"}],"stateMutability":"view"}]

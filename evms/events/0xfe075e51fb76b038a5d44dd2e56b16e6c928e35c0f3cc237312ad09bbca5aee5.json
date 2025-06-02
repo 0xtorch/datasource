@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"role","type":"uint256","indexed":true},{"name":"status","type":"uint256","indexed":true}],"name":"RoleStatusChanged"}]

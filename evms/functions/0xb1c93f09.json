@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[],"name":"Bag","outputs":[{"name":"BAG","internalType":"uint256","type":"uint256"},{"name":"THRESHOLD","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_buyMaxAmount","internalType":"uint256","type":"uint256"},{"name":"_userLimitAccumulateAmount","internalType":"uint256","type":"uint256"}],"name":"setBotGuardAmount","outputs":[],"stateMutability":"nonpayable"}]

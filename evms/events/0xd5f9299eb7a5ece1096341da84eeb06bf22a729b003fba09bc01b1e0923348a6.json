@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"NewPenaltyFee","internalType":"uint256","type":"uint256","indexed":false}],"name":"UpdatePenaltyFee"}]

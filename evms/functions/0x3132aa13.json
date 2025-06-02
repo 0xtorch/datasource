@@ -1,0 +1,1 @@
+[{"type":"function","constant":false,"inputs":[{"name":"treatmodel","internalType":"address","type":"address"},{"name":"referrer","internalType":"address","type":"address"}],"name":"addTreatReferrer","outputs":[],"payable":false,"stateMutability":"nonpayable"}]

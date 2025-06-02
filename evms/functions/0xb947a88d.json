@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"startPool","internalType":"uint256","type":"uint256"},{"name":"endPool","internalType":"uint256","type":"uint256"}],"name":"massUpdatePoolsInRange","outputs":[],"stateMutability":"nonpayable"}]

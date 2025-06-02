@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_referrer","internalType":"address","type":"address"}],"name":"referrersInfo","outputs":[{"name":"ExcludedReferrer","internalType":"bool","type":"bool"},{"name":"ReferredCount","internalType":"uint256","type":"uint256"},{"name":"TotalRewarded","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"airdropper","internalType":"address","type":"address"}],"name":"canAirDrop","outputs":[{"name":"","internalType":"bool","type":"bool"}],"stateMutability":"view"}]

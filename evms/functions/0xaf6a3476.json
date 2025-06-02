@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"tokenId_","internalType":"uint256","type":"uint256"}],"name":"tokenMetaData","outputs":[{"name":"_dna","internalType":"bytes32","type":"bytes32"},{"name":"_artifacts","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

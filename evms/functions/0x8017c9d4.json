@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"rewardPoolAddress","internalType":"address payable","type":"address"}],"name":"updateRewardPoolAddress","outputs":[],"stateMutability":"nonpayable"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_tokenIndex","internalType":"uint256","type":"uint256"},{"name":"_newMaxSquareBet","internalType":"uint256","type":"uint256"}],"name":"changeMaxSquareBet","outputs":[],"stateMutability":"nonpayable"}]

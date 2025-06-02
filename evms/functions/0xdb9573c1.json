@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"referrer","internalType":"address","type":"address"},{"name":"newStatus","internalType":"bool","type":"bool"}],"name":"updateExcludedReferrer","outputs":[],"stateMutability":"nonpayable"}]
