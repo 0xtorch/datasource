@@ -1,0 +1,5 @@
+{
+  "address": "0x7eb4b300d964efe6bed07206305c61d49a51434c",
+  "label": "BlucamonSummoning",
+  "abi": "[{\"inputs\":[{\"internalType\":\"address\",\"name\":\"_ownershipContractAddress\",\"type\":\"address\"},{\"internalType\":\"address\",\"name\":\"_founderAddress\",\"type\":\"address\"}],\"stateMutability\":\"nonpayable\",\"type\":\"constructor\"},{\"inputs\":[{\"internalType\":\"uint256\",\"name\":\"_newSummonFee\",\"type\":\"uint256\"}],\"name\":\"setSummonFee\",\"outputs\":[],\"stateMutability\":\"nonpayable\",\"type\":\"function\"},{\"inputs\":[{\"internalType\":\"uint256\",\"name\":\"_id\",\"type\":\"uint256\"}],\"name\":\"summon\",\"outputs\":[],\"stateMutability\":\"payable\",\"type\":\"function\"},{\"inputs\":[],\"name\":\"summonFee\",\"outputs\":[{\"internalType\":\"uint256\",\"name\":\"\",\"type\":\"uint256\"}],\"stateMutability\":\"view\",\"type\":\"function\"},{\"inputs\":[{\"internalType\":\"uint256\",\"name\":\"_value\",\"type\":\"uint256\"}],\"name\":\"transfer\",\"outputs\":[],\"stateMutability\":\"payable\",\"type\":\"function\"}]"
+}
