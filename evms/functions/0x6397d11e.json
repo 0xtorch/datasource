@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_newRate","internalType":"uint256","type":"uint256"}],"name":"changeManyBnbRate","outputs":[{"name":"","internalType":"bool","type":"bool"}],"stateMutability":"nonpayable"}]

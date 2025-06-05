@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_roulette","internalType":"address","type":"address"},{"name":"_coinflip","internalType":"address","type":"address"},{"name":"_degen","internalType":"address","type":"address"}],"name":"setAddr","outputs":[],"stateMutability":"nonpayable"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_steakReferral","internalType":"contract IBBQReferral","type":"address"}],"name":"setSteakReferral","outputs":[],"stateMutability":"nonpayable"}]

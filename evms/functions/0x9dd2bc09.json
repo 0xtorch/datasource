@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_vPegSwapRouter","internalType":"contract IStableSwapRouter","type":"address"}],"name":"setVPegSwapRouter","outputs":[],"stateMutability":"nonpayable"}]

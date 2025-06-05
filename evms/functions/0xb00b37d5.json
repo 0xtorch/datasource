@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_user","internalType":"address","type":"address"},{"name":"_start","internalType":"uint256","type":"uint256"},{"name":"_end","internalType":"uint256","type":"uint256"}],"name":"getTotalClaimableAmount","outputs":[{"name":"totalClaimableAmount","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

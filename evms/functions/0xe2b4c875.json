@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"newMaxGas","internalType":"uint256","type":"uint256"}],"name":"changeMaxGas","outputs":[],"stateMutability":"nonpayable"}]

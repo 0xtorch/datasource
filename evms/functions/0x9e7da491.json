@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_tradingFeeEnabled","internalType":"bool","type":"bool"},{"name":"_p2eFee","internalType":"uint256","type":"uint256"},{"name":"_operationFee","internalType":"uint256","type":"uint256"},{"name":"_minAmountOperation","internalType":"uint256","type":"uint256"}],"name":"setTradingFee","outputs":[],"stateMutability":"nonpayable"}]

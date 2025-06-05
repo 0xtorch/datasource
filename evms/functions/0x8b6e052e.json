@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_lowerTick_","internalType":"int24","type":"int24"},{"name":"_upperTick_","internalType":"int24","type":"int24"},{"name":"_owner_","internalType":"address","type":"address"}],"name":"initialize","outputs":[],"stateMutability":"nonpayable"}]

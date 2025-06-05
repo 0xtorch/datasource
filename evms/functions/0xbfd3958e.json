@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_item","internalType":"string","type":"string"}],"name":"itemInfo","outputs":[{"name":"_exists","internalType":"bool","type":"bool"},{"name":"_active","internalType":"bool","type":"bool"}],"stateMutability":"view"}]

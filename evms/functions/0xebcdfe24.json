@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_poolAddress","internalType":"address","type":"address"}],"name":"swapOutLimit","outputs":[{"name":"","internalType":"struct ERC20SwapLimit.SwapLimit","type":"tuple","components":[{"name":"enabled","internalType":"bool","type":"bool"},{"name":"limit","internalType":"uint16","type":"uint16"}]}],"stateMutability":"view"}]

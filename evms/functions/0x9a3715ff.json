@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"account","internalType":"address","type":"address"},{"name":"farmingPools","internalType":"address[]","type":"address[]"}],"name":"claims","outputs":[{"name":"amount","internalType":"uint256","type":"uint256"}],"stateMutability":"nonpayable"}]

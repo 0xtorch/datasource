@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_owner","internalType":"address","type":"address"},{"name":"_status","internalType":"bool","type":"bool"}],"name":"updateBanOwnerStatus","outputs":[],"stateMutability":"nonpayable"}]

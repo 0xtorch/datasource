@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_A","internalType":"uint256","type":"uint256"},{"name":"_B","internalType":"uint256","type":"uint256"},{"name":"_C","internalType":"uint256","type":"uint256"}],"name":"setCurve","outputs":[],"stateMutability":"nonpayable"}]

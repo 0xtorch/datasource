@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_from","internalType":"uint256","type":"uint256"},{"name":"_to","internalType":"uint256","type":"uint256"}],"name":"checkForClaims","outputs":[{"name":"","internalType":"bool","type":"bool"}],"stateMutability":"view"}]

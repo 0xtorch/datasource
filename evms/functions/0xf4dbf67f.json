@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"featureId","internalType":"uint256","type":"uint256"},{"name":"id","internalType":"uint256","type":"uint256"},{"name":"value","internalType":"uint256","type":"uint256"},{"name":"param","internalType":"uint256","type":"uint256"}],"name":"addValueToFeature","outputs":[],"stateMutability":"nonpayable"}]

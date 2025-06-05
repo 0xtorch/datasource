@@ -1,0 +1,1 @@
+[{"type":"function","constant":true,"inputs":[{"name":"","internalType":"uint256","type":"uint256"}],"name":"tradingRoutes","outputs":[{"name":"name","internalType":"string","type":"string"},{"name":"enable","internalType":"bool","type":"bool"},{"name":"route","internalType":"contract IWardenTradingRoute","type":"address"}],"payable":false,"stateMutability":"view"}]

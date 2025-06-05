@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[],"name":"transferTaxes","outputs":[{"name":"rfi","internalType":"uint8","type":"uint8"},{"name":"marketing","internalType":"uint8","type":"uint8"},{"name":"liquidity","internalType":"uint8","type":"uint8"},{"name":"burn","internalType":"uint8","type":"uint8"}],"stateMutability":"view"}]

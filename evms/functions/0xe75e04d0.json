@@ -1,0 +1,1 @@
+[{"type":"function","constant":false,"inputs":[{"name":"_farmingPool","internalType":"address","type":"address"}],"name":"setFarmingPool","outputs":[],"payable":false,"stateMutability":"nonpayable"}]

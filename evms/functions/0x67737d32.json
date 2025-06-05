@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_inputtoken","internalType":"address","type":"address"},{"name":"_outputtoken","internalType":"address","type":"address"},{"name":"_tokenprice","internalType":"uint256","type":"uint256"},{"name":"_maxinvestment","internalType":"uint256","type":"uint256"}],"name":"initializeICO","outputs":[],"stateMutability":"nonpayable"}]

@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"chestId","internalType":"uint256","type":"uint256","indexed":true},{"name":"_chest","internalType":"string","type":"string","indexed":false},{"name":"_isOpen","internalType":"bool","type":"bool","indexed":false}],"name":"NewChestSettler"}]

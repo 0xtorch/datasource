@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_devRewardAdrress","internalType":"address","type":"address"}],"name":"updatedevReward","outputs":[{"name":"","internalType":"bool","type":"bool"}],"stateMutability":"nonpayable"}]

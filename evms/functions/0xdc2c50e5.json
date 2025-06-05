@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"classicMratAddress","internalType":"address","type":"address"},{"name":"securedMratAddress","internalType":"address","type":"address"}],"name":"setSwapPair","outputs":[],"stateMutability":"nonpayable"}]

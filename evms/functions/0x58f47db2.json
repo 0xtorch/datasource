@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"","internalType":"uint256","type":"uint256"}],"name":"paymentChannels","outputs":[{"name":"orderSigner","internalType":"address","type":"address"},{"name":"cashier","internalType":"address","type":"address"}],"stateMutability":"view"}]

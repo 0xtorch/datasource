@@ -1,1 +1,1 @@
-[{"type":"event","anonymous":false,"inputs":[{"name":"","internalType":"uint256","type":"uint256","indexed":false}],"name":"NewSeason"}]
+[{"type":"event","anonymous":false,"inputs":[{"name":"","internalType":"uint256","type":"uint256","indexed":false}],"name":"NewSeason"},{"type":"event","anonymous":false,"inputs":[{"name":"_seasonId","internalType":"uint256","type":"uint256","indexed":true}],"name":"NewSeason"}]

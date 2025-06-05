@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_collateral_amount","internalType":"uint256","type":"uint256"},{"name":"_dtoken_out_min","internalType":"uint256","type":"uint256"}],"name":"mintSingle","outputs":[],"stateMutability":"nonpayable"}]

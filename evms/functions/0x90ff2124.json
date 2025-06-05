@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"balance","internalType":"uint256","type":"uint256"},{"name":"amount","internalType":"uint256","type":"uint256"}],"name":"calculateRewardCycleExtension","outputs":[{"name":"","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

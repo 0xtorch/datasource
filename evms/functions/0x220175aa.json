@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_stormReferral","internalType":"contract IStormReferral","type":"address"}],"name":"setStormReferral","outputs":[],"stateMutability":"nonpayable"}]

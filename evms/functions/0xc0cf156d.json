@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"privateSaleParticipants","internalType":"struct RxcToken.PrivateSaleOrder[]","type":"tuple[]","components":[{"name":"participant","internalType":"address","type":"address"},{"name":"amount","internalType":"uint256","type":"uint256"}]}],"name":"addPrivateSaleVestedTokensBulk","outputs":[],"stateMutability":"nonpayable"}]

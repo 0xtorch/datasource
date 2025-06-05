@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"maxTxnAmount","internalType":"uint256","type":"uint256"}],"name":"updateMaxTxn","outputs":[],"stateMutability":"nonpayable"}]

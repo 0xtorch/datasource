@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"_oldTierProvider","internalType":"address","type":"address","indexed":true},{"name":"_newTierProvider","internalType":"address","type":"address","indexed":false}],"name":"TierProviderSet"}]

@@ -1,0 +1,1 @@
+[{"type":"function","constant":false,"inputs":[{"name":"player","internalType":"address","type":"address"},{"name":"amount","internalType":"uint256","type":"uint256"},{"name":"data","internalType":"bytes","type":"bytes"}],"name":"stake","outputs":[],"payable":false,"stateMutability":"nonpayable"}]

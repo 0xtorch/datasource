@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"setId","internalType":"uint256","type":"uint256","indexed":false},{"name":"mintLimit","internalType":"uint64","type":"uint64","indexed":false}],"name":"CardSetAdded"}]

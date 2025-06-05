@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_amount","internalType":"uint256","type":"uint256"}],"name":"getAPRIndex","outputs":[{"name":"_index","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

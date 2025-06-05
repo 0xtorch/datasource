@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_limitTime","internalType":"uint256","type":"uint256"},{"name":"_limitNumber","internalType":"uint256","type":"uint256"}],"name":"setLimitTime","outputs":[],"stateMutability":"nonpayable"}]

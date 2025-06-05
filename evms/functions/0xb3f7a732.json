@@ -1,0 +1,1 @@
+[{"type":"function","constant":true,"inputs":[],"name":"treatMinter","outputs":[{"name":"","internalType":"contract TreatNftMinter","type":"address"}],"payable":false,"stateMutability":"view"}]

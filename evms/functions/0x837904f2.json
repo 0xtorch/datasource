@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_specialAddress","internalType":"address","type":"address"},{"name":"activate","internalType":"bool","type":"bool"}],"name":"updateSpecialAddress","outputs":[],"stateMutability":"nonpayable"}]

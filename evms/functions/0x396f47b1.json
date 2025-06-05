@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_newProvider","internalType":"contract ICWTierProvider","type":"address"}],"name":"setTierProvider","outputs":[],"stateMutability":"nonpayable"}]

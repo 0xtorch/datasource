@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"wNativeAmount","internalType":"uint256","type":"uint256"},{"name":"nativeToToken0Path","internalType":"address[]","type":"address[]"},{"name":"nativeToToken1Path","internalType":"address[]","type":"address[]"}],"name":"getWNativeToLpAmount","outputs":[{"name":"","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

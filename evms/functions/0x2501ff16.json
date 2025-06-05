@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"ammAddress","internalType":"address","type":"address"}],"name":"isAMMWhitelisted","outputs":[{"name":"","internalType":"bool","type":"bool"}],"stateMutability":"view"}]

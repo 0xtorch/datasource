@@ -1,0 +1,1 @@
+[{"type":"function","constant":true,"inputs":[{"name":"nftId","internalType":"uint256","type":"uint256"}],"name":"getOpenOrdersForNft","outputs":[{"name":"","internalType":"address[]","type":"address[]"}],"payable":false,"stateMutability":"view"}]

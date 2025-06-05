@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"new_tranches","internalType":"uint8[5]","type":"uint8[5]"}],"name":"setRewardTaxesTranches","outputs":[],"stateMutability":"nonpayable"}]

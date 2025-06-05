@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"reserver","internalType":"address","type":"address","indexed":true},{"name":"shortcode","internalType":"string","type":"string","indexed":true}],"name":"ReserveRefShortcode"}]

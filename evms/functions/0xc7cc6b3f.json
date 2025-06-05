@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"","internalType":"contract IERC20","type":"address"}],"name":"lpTokensStatus","outputs":[{"name":"","internalType":"bool","type":"bool"}],"stateMutability":"view"}]

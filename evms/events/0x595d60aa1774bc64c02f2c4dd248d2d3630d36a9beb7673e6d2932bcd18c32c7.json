@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"LigerPairWBNB","internalType":"address","type":"address","indexed":false},{"name":"LigerPairBUSD","internalType":"address","type":"address","indexed":false},{"name":"LigerRouter","internalType":"address","type":"address","indexed":false}],"name":"UpdateDEXAddress"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"newTreasuryAddress","internalType":"address","type":"address"}],"name":"setTreasuryManagerAddress","outputs":[],"stateMutability":"nonpayable"}]

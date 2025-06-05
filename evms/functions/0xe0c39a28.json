@@ -1,0 +1,1 @@
+[{"type":"function","constant":true,"inputs":[{"name":"","internalType":"uint8","type":"uint8"}],"name":"stakeOptions","outputs":[{"name":"duration","internalType":"uint32","type":"uint32"},{"name":"bonusPercent","internalType":"uint8","type":"uint8"}],"payable":false,"stateMutability":"view"}]

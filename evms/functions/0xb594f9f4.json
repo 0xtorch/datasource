@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"heroId","internalType":"uint256","type":"uint256"},{"name":"rarity","internalType":"uint8","type":"uint8"}],"name":"adminSetRarity","outputs":[],"stateMutability":"nonpayable"}]

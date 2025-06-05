@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_icebergReferral","internalType":"contract IIcebergReferral","type":"address"}],"name":"setIcebergReferral","outputs":[],"stateMutability":"nonpayable"}]

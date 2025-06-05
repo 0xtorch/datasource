@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"newMinGas","internalType":"uint256","type":"uint256"}],"name":"changeMinGas","outputs":[],"stateMutability":"nonpayable"}]

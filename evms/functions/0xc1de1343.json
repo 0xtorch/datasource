@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"number","internalType":"uint256","type":"uint256"},{"name":"isOver","internalType":"bool","type":"bool"},{"name":"seed","internalType":"uint256","type":"uint256"},{"name":"ref","internalType":"address","type":"address"}],"name":"placeBet","outputs":[],"stateMutability":"payable"}]

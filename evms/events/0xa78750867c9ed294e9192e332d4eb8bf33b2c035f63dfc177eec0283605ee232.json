@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"caller","internalType":"address","type":"address","indexed":true},{"name":"stakingId","internalType":"uint256","type":"uint256","indexed":true},{"name":"date","internalType":"uint256","type":"uint256","indexed":false},{"name":"pyx","internalType":"uint256","type":"uint256","indexed":true}],"name":"UnstakeFullPenalty"}]

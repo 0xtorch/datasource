@@ -1,0 +1,1 @@
+[{"type":"function","constant":true,"inputs":[{"name":"_tokensToSell","type":"uint256"}],"name":"calculatePowerReceived","outputs":[{"name":"","type":"uint256"}],"payable":false,"stateMutability":"view"}]

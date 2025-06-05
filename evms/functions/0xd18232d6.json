@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_startDate","internalType":"uint256","type":"uint256"},{"name":"expectedSteps","internalType":"uint256","type":"uint256"}],"name":"getPenaltyRateWei","outputs":[{"name":"","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

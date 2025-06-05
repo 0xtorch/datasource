@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[],"name":"YracePool","outputs":[{"name":"lpToken","internalType":"contract IBEP20","type":"address"},{"name":"lastRewardBlock","internalType":"uint256","type":"uint256"},{"name":"rewardPerShare","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

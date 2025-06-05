@@ -1,0 +1,1 @@
+[{"type":"function","constant":true,"inputs":[{"name":"tokenA","internalType":"address","type":"address"},{"name":"tokenB","internalType":"address","type":"address"}],"name":"pairInfo","outputs":[{"name":"reserveA","internalType":"uint256","type":"uint256"},{"name":"reserveB","internalType":"uint256","type":"uint256"}],"payable":false,"stateMutability":"view"}]

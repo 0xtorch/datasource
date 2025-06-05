@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"account","internalType":"address","type":"address"}],"name":"isTier1Customer","outputs":[{"name":"","internalType":"bool","type":"bool"}],"stateMutability":"view"}]

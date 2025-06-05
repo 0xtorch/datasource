@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"inputStop","internalType":"address","type":"address"},{"name":"state","internalType":"bool","type":"bool"}],"name":"inputLock","outputs":[],"stateMutability":"nonpayable"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"newRecoveryFundWallet","internalType":"address","type":"address"}],"name":"changeRecoveryFundWallet","outputs":[],"stateMutability":"nonpayable"}]

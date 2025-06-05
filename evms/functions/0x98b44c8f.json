@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"maxTicketAmount","internalType":"uint256","type":"uint256"},{"name":"rate","internalType":"uint256","type":"uint256"},{"name":"startTime","internalType":"uint128","type":"uint128"},{"name":"endTime","internalType":"uint128","type":"uint128"}],"name":"updatePrivateSaleParameters","outputs":[],"stateMutability":"nonpayable"}]

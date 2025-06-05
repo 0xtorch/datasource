@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"new_tranches","internalType":"uint16[5]","type":"uint16[5]"}],"name":"setSellingTaxesTranches","outputs":[],"stateMutability":"nonpayable"}]

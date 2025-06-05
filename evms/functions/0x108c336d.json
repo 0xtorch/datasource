@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"killBlockNumber","internalType":"uint256","type":"uint256"}],"name":"setKillBlock","outputs":[],"stateMutability":"nonpayable"}]

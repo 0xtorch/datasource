@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_sender","internalType":"address","type":"address"}],"name":"expectedRewards","outputs":[{"name":"","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

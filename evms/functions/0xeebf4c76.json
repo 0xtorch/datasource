@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"packId","internalType":"uint256","type":"uint256"},{"name":"running","internalType":"bool","type":"bool"}],"name":"setSaleRunning","outputs":[],"stateMutability":"nonpayable"}]

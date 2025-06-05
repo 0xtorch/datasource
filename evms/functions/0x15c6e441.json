@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_poolAddress","internalType":"address","type":"address"},{"name":"limitRate","internalType":"uint16","type":"uint16"}],"name":"setSwapOutLimit","outputs":[],"stateMutability":"nonpayable"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"nftId1","internalType":"uint256","type":"uint256"},{"name":"nftId2","internalType":"uint256","type":"uint256"}],"name":"depositBreedNFTs","outputs":[],"stateMutability":"nonpayable"}]

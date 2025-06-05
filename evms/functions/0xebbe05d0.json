@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_minWeiAmount","internalType":"uint256","type":"uint256"}],"name":"setMinWeiAmount","outputs":[],"stateMutability":"nonpayable"}]

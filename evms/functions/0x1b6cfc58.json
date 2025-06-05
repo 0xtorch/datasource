@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_tokenContractAddress","internalType":"address","type":"address"},{"name":"_flipTokenContractAddress","internalType":"address","type":"address"},{"name":"_rate","internalType":"uint256","type":"uint256"}],"name":"setTokenContractAddress","outputs":[],"stateMutability":"nonpayable"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_poolAddress","internalType":"address","type":"address"},{"name":"tax","internalType":"uint16","type":"uint16"}],"name":"setSwapOutTax","outputs":[],"stateMutability":"nonpayable"}]

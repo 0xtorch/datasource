@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_lamboReferral","internalType":"contract ILamboReferral","type":"address"}],"name":"setLamboReferral","outputs":[],"stateMutability":"nonpayable"}]

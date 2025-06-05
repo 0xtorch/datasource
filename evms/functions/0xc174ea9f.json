@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"attrId","internalType":"uint8","type":"uint8"},{"name":"name","internalType":"string","type":"string"}],"name":"editAttribute","outputs":[],"stateMutability":"nonpayable"}]

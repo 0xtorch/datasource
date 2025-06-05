@@ -1,1 +1,1 @@
-[{"type":"event","anonymous":false,"inputs":[{"name":"holder","internalType":"address","type":"address","indexed":true}],"name":"Freeze"}]
+[{"type":"event","anonymous":false,"inputs":[{"name":"holder","internalType":"address","type":"address","indexed":true}],"name":"Freeze"},{"type":"event","anonymous":false,"inputs":[{"name":"target","type":"address","indexed":false}],"name":"Freeze"}]

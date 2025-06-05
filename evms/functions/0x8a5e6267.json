@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"","internalType":"address","type":"address"}],"name":"saleRecordOf","outputs":[{"name":"purchasedValue","internalType":"uint256","type":"uint256"},{"name":"claimableAmount","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

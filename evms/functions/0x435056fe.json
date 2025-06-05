@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_blockRewardPercentage","internalType":"uint256","type":"uint256"}],"name":"setBlockRewardPercentage","outputs":[],"stateMutability":"nonpayable"}]

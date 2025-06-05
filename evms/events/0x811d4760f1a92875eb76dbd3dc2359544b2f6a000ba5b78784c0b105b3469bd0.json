@@ -1,1 +1,1 @@
-[{"type":"event","anonymous":false,"inputs":[{"name":"tokenId","internalType":"uint256","type":"uint256","indexed":true}],"name":"Rebalance"}]
+[{"type":"event","anonymous":false,"inputs":[{"name":"tokenId","internalType":"uint256","type":"uint256","indexed":true}],"name":"Rebalance"},{"type":"event","anonymous":false,"inputs":[{"name":"tokenBurnt","internalType":"uint256","type":"uint256","indexed":false}],"name":"Rebalance"}]

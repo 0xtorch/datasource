@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"index","internalType":"uint256","type":"uint256","indexed":true},{"name":"wallet","internalType":"address","type":"address","indexed":true},{"name":"fee","internalType":"uint16","type":"uint16","indexed":false},{"name":"name","internalType":"bytes16","type":"bytes16","indexed":false}],"name":"UpdatePartner"}]

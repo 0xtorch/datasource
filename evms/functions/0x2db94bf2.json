@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_account","internalType":"address","type":"address"},{"name":"noOfDays","internalType":"uint256","type":"uint256"}],"name":"setAddressTimeLock","outputs":[],"stateMutability":"nonpayable"}]

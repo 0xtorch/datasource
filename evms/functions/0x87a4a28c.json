@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"feeAmount","internalType":"uint256","type":"uint256"},{"name":"feeToken","internalType":"address","type":"address"}],"name":"autoWithdrawAdminBalance","outputs":[],"stateMutability":"nonpayable"}]

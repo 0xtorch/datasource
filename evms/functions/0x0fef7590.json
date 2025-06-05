@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_fundingWallet","internalType":"address","type":"address"}],"name":"setFundingWalletAddress","outputs":[],"stateMutability":"nonpayable"}]

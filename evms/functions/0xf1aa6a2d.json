@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_tokenId","internalType":"uint256","type":"uint256"},{"name":"_rare","internalType":"uint256","type":"uint256"},{"name":"_class","internalType":"uint256","type":"uint256"}],"name":"hatch","outputs":[],"stateMutability":"nonpayable"}]

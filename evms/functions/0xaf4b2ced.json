@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"gasMin","internalType":"uint256","type":"uint256"},{"name":"gasMax","internalType":"uint256","type":"uint256"}],"name":"processRewards","outputs":[],"stateMutability":"nonpayable"}]

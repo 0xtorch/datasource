@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"setId","internalType":"uint8","type":"uint8"},{"name":"mintLimit","internalType":"uint64","type":"uint64"}],"name":"editCardSet","outputs":[],"stateMutability":"nonpayable"}]

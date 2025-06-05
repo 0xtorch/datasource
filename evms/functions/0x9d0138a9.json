@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"percentToLiquidity","internalType":"uint256","type":"uint256"},{"name":"percentToMarketing","internalType":"uint256","type":"uint256"},{"name":"percentToDividends","internalType":"uint256","type":"uint256"}],"name":"changeDistribution","outputs":[],"stateMutability":"nonpayable"}]

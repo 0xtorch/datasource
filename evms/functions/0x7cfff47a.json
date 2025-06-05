@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_staker","internalType":"address","type":"address"},{"name":"_termOption","internalType":"uint256","type":"uint256"}],"name":"totalStakerInfoByTermOption","outputs":[{"name":"","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

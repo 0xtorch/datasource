@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[],"name":"getLevelUpPrices","outputs":[{"name":"","internalType":"struct EpicHeroNFT.LevelUpPrice[]","type":"tuple[]","components":[{"name":"thoreum","internalType":"uint256","type":"uint256"},{"name":"epicHero","internalType":"uint256","type":"uint256"}]}],"stateMutability":"view"}]

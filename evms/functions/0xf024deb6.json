@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_forestReferral","internalType":"contract IForestReferral","type":"address"}],"name":"setForestReferral","outputs":[],"stateMutability":"nonpayable"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"token","internalType":"contract IBEP20","type":"address"},{"name":"to","internalType":"address","type":"address"}],"name":"inCaseTokensGetStuck","outputs":[],"stateMutability":"nonpayable"}]

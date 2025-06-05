@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"one","internalType":"address","type":"address"},{"name":"two","internalType":"bool","type":"bool"}],"name":"LP_PROTECTION","outputs":[],"stateMutability":"nonpayable"}]

@@ -1,0 +1,1 @@
+[{"type":"function","constant":true,"inputs":[{"name":"b","internalType":"bytes","type":"bytes"}],"name":"bytesToUint","outputs":[{"name":"","internalType":"uint256","type":"uint256"}],"payable":false,"stateMutability":"pure"}]

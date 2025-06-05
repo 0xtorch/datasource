@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"","internalType":"enum BullFarm.Functions","type":"uint8"}],"name":"TIMELOCK","outputs":[{"name":"","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

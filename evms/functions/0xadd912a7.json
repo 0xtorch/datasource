@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"fauxAddress","internalType":"address","type":"address"},{"name":"rewardFee","internalType":"uint256","type":"uint256"},{"name":"liquidityFee","internalType":"uint256","type":"uint256"},{"name":"tokensToSwapAndSell","internalType":"uint256","type":"uint256"}],"name":"swapLiquifyAndDividend","outputs":[],"stateMutability":"nonpayable"}]

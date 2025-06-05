@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_vestingtime","internalType":"uint256","type":"uint256"},{"name":"_vestingperc","internalType":"uint256","type":"uint256"}],"name":"InitialzeVesting","outputs":[],"stateMutability":"nonpayable"}]

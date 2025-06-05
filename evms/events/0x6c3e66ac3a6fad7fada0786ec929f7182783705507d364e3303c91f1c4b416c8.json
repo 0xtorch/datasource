@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"_previousTaxFee","internalType":"uint256","type":"uint256","indexed":false},{"name":"taxFee","internalType":"uint256","type":"uint256","indexed":false}],"name":"SetTaxFee"}]

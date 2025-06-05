@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"customerAddress","type":"address","indexed":true},{"name":"incomingSTAT","type":"uint256","indexed":false},{"name":"tokensMinted","type":"uint256","indexed":false},{"name":"referredBy","type":"address","indexed":true},{"name":"timestamp","type":"uint256","indexed":false}],"name":"onTokenPurchase"}]

@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"customerAddress","type":"address","indexed":true},{"name":"tokensBurned","type":"uint256","indexed":false},{"name":"statEarned","type":"uint256","indexed":false},{"name":"timestamp","type":"uint256","indexed":false}],"name":"onTokenSell"}]

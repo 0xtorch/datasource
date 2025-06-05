@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_poolAddress","internalType":"address","type":"address"}],"name":"swapInTax","outputs":[{"name":"","internalType":"struct ERC20SwapTax.SwapTax","type":"tuple","components":[{"name":"enabled","internalType":"bool","type":"bool"},{"name":"tax","internalType":"uint16","type":"uint16"}]}],"stateMutability":"view"}]

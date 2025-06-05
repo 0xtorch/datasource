@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"maxUserTxAmountPerDay","internalType":"uint256","type":"uint256"}],"name":"setMaxTxUserAmountPerDay","outputs":[],"stateMutability":"nonpayable"}]

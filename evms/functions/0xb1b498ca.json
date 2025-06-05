@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[],"name":"stratHoldersTax","outputs":[{"name":"tax","internalType":"uint256","type":"uint256"},{"name":"proposedTime","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

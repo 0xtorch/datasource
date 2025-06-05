@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_tokenId","internalType":"uint256","type":"uint256"},{"name":"status","internalType":"bool","type":"bool"}],"name":"updateBanStatus","outputs":[],"stateMutability":"nonpayable"}]

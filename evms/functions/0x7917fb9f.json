@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"fee_","internalType":"contract IFee","type":"address"}],"name":"setFee","outputs":[],"stateMutability":"nonpayable"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"packIds","internalType":"uint8[]","type":"uint8[]"},{"name":"levels","internalType":"uint8[]","type":"uint8[]"},{"name":"rarities","internalType":"uint8[]","type":"uint8[]"},{"name":"recipients","internalType":"address[]","type":"address[]"}],"name":"adminMintMultiple","outputs":[],"stateMutability":"nonpayable"}]

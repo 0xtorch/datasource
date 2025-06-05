@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"to","internalType":"address","type":"address"},{"name":"_item","internalType":"string","type":"string"},{"name":"_info","internalType":"string","type":"string"}],"name":"systemMint","outputs":[],"stateMutability":"nonpayable"}]

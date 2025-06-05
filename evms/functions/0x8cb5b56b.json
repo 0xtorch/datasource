@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_tokenId","internalType":"uint256","type":"uint256"},{"name":"_fingerprint","internalType":"bytes32","type":"bytes32"}],"name":"verifyFingerprint","outputs":[{"name":"","internalType":"bool","type":"bool"}],"stateMutability":"view"}]

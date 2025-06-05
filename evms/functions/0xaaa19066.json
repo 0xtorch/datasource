@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_item","internalType":"string","type":"string"},{"name":"_item_bool","internalType":"bool","type":"bool"}],"name":"addChangeItem","outputs":[],"stateMutability":"nonpayable"}]

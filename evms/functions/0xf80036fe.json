@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_metaLength","internalType":"uint256","type":"uint256"},{"name":"_baseLength","internalType":"uint256","type":"uint256"}],"name":"setStableLength","outputs":[],"stateMutability":"nonpayable"}]

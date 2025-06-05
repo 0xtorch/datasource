@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"claimer","internalType":"address","type":"address"}],"name":"rewardAllowance","outputs":[{"name":"","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

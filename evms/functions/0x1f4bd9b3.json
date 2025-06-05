@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_farmer","internalType":"address","type":"address"},{"name":"_invite","internalType":"address","type":"address"},{"name":"seed_","internalType":"uint256","type":"uint256"}],"name":"datMigration","outputs":[],"stateMutability":"nonpayable"}]

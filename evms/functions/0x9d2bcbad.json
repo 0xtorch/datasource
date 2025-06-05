@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"pool","internalType":"address","type":"address"},{"name":"multiplier","internalType":"uint256","type":"uint256"}],"name":"setPoolMultiplier","outputs":[],"stateMutability":"nonpayable"}]

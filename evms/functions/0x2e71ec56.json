@@ -1,0 +1,1 @@
+[{"type":"function","constant":false,"inputs":[{"name":"id","internalType":"uint256","type":"uint256"},{"name":"unlockEpoch","internalType":"uint128","type":"uint128"},{"name":"stakeBonus","internalType":"uint128","type":"uint128"}],"name":"addStakingOption","outputs":[],"payable":false,"stateMutability":"nonpayable"}]

@@ -1,0 +1,1 @@
+[{"type":"function","constant":true,"inputs":[{"name":"treatModel","internalType":"address","type":"address"}],"name":"getCreatorRefAddress","outputs":[{"name":"","internalType":"address payable","type":"address"}],"payable":false,"stateMutability":"view"}]

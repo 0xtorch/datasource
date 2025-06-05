@@ -1,1 +1,1 @@
-[{"type":"event","anonymous":false,"inputs":[{"name":"_enabled","internalType":"bool","type":"bool","indexed":true}],"name":"BPEnabled"}]
+[{"type":"event","anonymous":false,"inputs":[{"name":"_enabled","internalType":"bool","type":"bool","indexed":true}],"name":"BPEnabled"},{"type":"event","anonymous":false,"inputs":[{"name":"enabled","internalType":"bool","type":"bool","indexed":false}],"name":"BPEnabled"}]

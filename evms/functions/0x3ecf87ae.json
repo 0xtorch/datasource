@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_sustainabilityContract","internalType":"contract SustainabilityContract","type":"address"}],"name":"setSustainabilitContract","outputs":[],"stateMutability":"nonpayable"}]

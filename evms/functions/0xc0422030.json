@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_LPAdrress","internalType":"address","type":"address"}],"name":"updateLPAdrress","outputs":[{"name":"","internalType":"bool","type":"bool"}],"stateMutability":"nonpayable"}]

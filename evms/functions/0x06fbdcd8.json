@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"permissionName","internalType":"string","type":"string"}],"name":"getPermissionNameToIndex","outputs":[{"name":"","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

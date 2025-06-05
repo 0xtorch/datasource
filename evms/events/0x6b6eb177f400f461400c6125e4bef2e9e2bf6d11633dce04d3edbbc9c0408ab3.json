@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"halted","internalType":"bool","type":"bool","indexed":false}],"name":"TradingHalted"}]

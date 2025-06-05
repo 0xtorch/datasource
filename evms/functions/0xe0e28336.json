@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[],"name":"computeReward","outputs":[{"name":"","internalType":"uint256","type":"uint256"},{"name":"tax_to_pay","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

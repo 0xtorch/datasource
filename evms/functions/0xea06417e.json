@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_blucToken","internalType":"contract IERC20","type":"address"},{"name":"_amount","internalType":"uint256","type":"uint256"}],"name":"getBLUCBUSD","outputs":[{"name":"","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"","internalType":"address","type":"address"}],"name":"userLockedInfos","outputs":[{"name":"init","internalType":"bool","type":"bool"},{"name":"lockedAmount","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

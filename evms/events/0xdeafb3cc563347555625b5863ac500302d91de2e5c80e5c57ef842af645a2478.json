@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"lpStakingPool","internalType":"address","type":"address","indexed":true},{"name":"jetsStakingPool","internalType":"address","type":"address","indexed":true}],"name":"StakingPoolUpdated"}]

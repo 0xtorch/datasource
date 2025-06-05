@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_breeder","internalType":"address","type":"address"},{"name":"_isWhitelisted","internalType":"bool","type":"bool"}],"name":"setBreeder","outputs":[],"stateMutability":"nonpayable"}]

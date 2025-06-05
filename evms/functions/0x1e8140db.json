@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"subAmount","internalType":"uint256","type":"uint256"}],"name":"balanceForGame","outputs":[{"name":"_bal","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"newAdmin","internalType":"address","type":"address"},{"name":"level","internalType":"uint256","type":"uint256"}],"name":"setAdminLevel","outputs":[],"stateMutability":"nonpayable"}]

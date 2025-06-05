@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"newProducer","internalType":"address","type":"address"}],"name":"swapInit","outputs":[{"name":"success","internalType":"bool","type":"bool"}],"stateMutability":"nonpayable"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[],"name":"ratePerShare","outputs":[{"name":"lastUpdate","internalType":"uint256","type":"uint256"},{"name":"before","internalType":"uint256","type":"uint256"},{"name":"current","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

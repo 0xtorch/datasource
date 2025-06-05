@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_dwgReferral","internalType":"contract IDarkwingReferral","type":"address"}],"name":"setDwgReferral","outputs":[],"stateMutability":"nonpayable"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[],"name":"ADDRESSES","outputs":[{"name":"PYX_TOKEN","internalType":"contract IPYXToken","type":"address"},{"name":"AUTO_STAKING","internalType":"contract IAutoStaking","type":"address"}],"stateMutability":"view"}]

@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"blacklistAddress","internalType":"address","type":"address","indexed":false},{"name":"toggleBlacklistAddress","internalType":"bool","type":"bool","indexed":false}],"name":"BlacklistAddressUpdate"}]

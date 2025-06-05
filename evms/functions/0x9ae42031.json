@@ -1,0 +1,1 @@
+[{"type":"function","constant":false,"inputs":[{"name":"_treatModel","internalType":"address","type":"address"},{"name":"_creatorRefPercentage","internalType":"uint256","type":"uint256"}],"name":"setCreatorRefPercentage","outputs":[],"payable":false,"stateMutability":"nonpayable"}]

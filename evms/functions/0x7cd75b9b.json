@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"packId","internalType":"uint8","type":"uint8"},{"name":"recipient","internalType":"address","type":"address"}],"name":"adminMintPack","outputs":[],"stateMutability":"nonpayable"}]

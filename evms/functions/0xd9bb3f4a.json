@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_daoAddress","internalType":"address","type":"address"},{"name":"_daoPercent","internalType":"uint256","type":"uint256"},{"name":"_daoStartBlock","internalType":"uint256","type":"uint256"}],"name":"setupDAO","outputs":[],"stateMutability":"nonpayable"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_swapEnabled","internalType":"bool","type":"bool"},{"name":"_isWhitelist","internalType":"bool","type":"bool"}],"name":"updateTradingEnable","outputs":[],"stateMutability":"nonpayable"}]

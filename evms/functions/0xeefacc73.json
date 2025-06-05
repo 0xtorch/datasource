@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_poolSwap","internalType":"address","type":"address"},{"name":"_basePoolSwap","internalType":"address","type":"address"},{"name":"_baseCompoundIndex","internalType":"uint256","type":"uint256"}],"name":"setStableLpInfo","outputs":[],"stateMutability":"nonpayable"}]

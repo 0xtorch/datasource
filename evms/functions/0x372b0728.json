@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[],"name":"rateConfig","outputs":[{"name":"firstCycleRate","internalType":"uint256","type":"uint256"},{"name":"initRate","internalType":"uint256","type":"uint256"},{"name":"reducingRate","internalType":"uint256","type":"uint256"},{"name":"reducingCycle","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

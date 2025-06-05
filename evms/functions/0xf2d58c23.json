@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_buyLiquidityFee","internalType":"uint256","type":"uint256"},{"name":"_sellLiquidityFee","internalType":"uint256","type":"uint256"}],"name":"setLiquidityFeePercent","outputs":[],"stateMutability":"nonpayable"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"p_nftId","internalType":"uint256","type":"uint256"}],"name":"getChestData","outputs":[{"name":"","internalType":"struct SettlerChestProvider.ChestSettler","type":"tuple","components":[{"name":"chest","internalType":"string","type":"string"},{"name":"isOpen","internalType":"bool","type":"bool"}]}],"stateMutability":"view"}]

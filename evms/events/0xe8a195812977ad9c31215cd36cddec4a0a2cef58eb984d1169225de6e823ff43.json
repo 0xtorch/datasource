@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"previousRebaser","internalType":"address","type":"address","indexed":true},{"name":"newRebaser","internalType":"address","type":"address","indexed":true}],"name":"TransferredRebasership"}]

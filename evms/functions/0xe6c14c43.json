@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"index","internalType":"uint256","type":"uint256"},{"name":"secret","internalType":"uint256","type":"uint256"},{"name":"newCommitment","internalType":"uint256","type":"uint256"}],"name":"settleBet","outputs":[],"stateMutability":"nonpayable"}]

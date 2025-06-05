@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"permissionName","internalType":"string","type":"string"}],"name":"isLocked","outputs":[{"name":"","internalType":"bool","type":"bool"}],"stateMutability":"view"}]

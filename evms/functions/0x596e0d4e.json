@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_novaReferral","internalType":"contract INovaReferral","type":"address"}],"name":"setNovaReferral","outputs":[],"stateMutability":"nonpayable"}]

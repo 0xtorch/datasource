@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_uniRouter","internalType":"address","type":"address"},{"name":"_isWhitelist","internalType":"bool","type":"bool"}],"name":"setWhitelistUniRouter","outputs":[],"stateMutability":"nonpayable"}]

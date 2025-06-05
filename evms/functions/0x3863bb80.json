@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"newAntiWhaleEnabled","internalType":"bool","type":"bool"}],"name":"changeAntiWhaleEnabled","outputs":[],"stateMutability":"nonpayable"}]

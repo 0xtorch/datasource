@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"adr","internalType":"address","type":"address"},{"name":"permission","internalType":"enum Permission","type":"uint8"}],"name":"isAuthorizedFor","outputs":[{"name":"","internalType":"bool","type":"bool"}],"stateMutability":"view"}]

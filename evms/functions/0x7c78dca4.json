@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_down","internalType":"bool","type":"bool"},{"name":"_amount","internalType":"uint256","type":"uint256"}],"name":"adjustTotalLockedAmount","outputs":[],"stateMutability":"nonpayable"}]

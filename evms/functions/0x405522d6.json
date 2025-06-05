@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_config","internalType":"struct LootboxGEN.Config","type":"tuple","components":[{"name":"packPrice","internalType":"uint256","type":"uint256"},{"name":"maxPacksPerPurchase","internalType":"uint256","type":"uint256"}]}],"name":"setConfig","outputs":[],"stateMutability":"nonpayable"}]

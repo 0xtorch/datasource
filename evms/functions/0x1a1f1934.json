@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[],"name":"calcCollateralBalance","outputs":[{"name":"_collateral_amount","internalType":"uint256","type":"uint256"},{"name":"_exceeded","internalType":"bool","type":"bool"}],"stateMutability":"view"}]

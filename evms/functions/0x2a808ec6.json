@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_name","internalType":"string","type":"string"},{"name":"_promotedAddress","internalType":"address","type":"address"},{"name":"_promotedMessage","internalType":"string","type":"string"}],"name":"setProfile","outputs":[],"stateMutability":"nonpayable"}]

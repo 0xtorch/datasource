@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_idList","internalType":"uint256[]","type":"uint256[]"},{"name":"_addresses","internalType":"address[]","type":"address[]"},{"name":"_tokenUriList","internalType":"string[]","type":"string[]"},{"name":"_rarityList","internalType":"uint8[]","type":"uint8[]"}],"name":"setWhitelist","outputs":[],"stateMutability":"nonpayable"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"lpStakingPool","internalType":"address","type":"address"},{"name":"jetsStakingPool","internalType":"address","type":"address"}],"name":"_updateStakingPool","outputs":[],"stateMutability":"nonpayable"}]

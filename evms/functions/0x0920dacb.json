@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"bep20","internalType":"address","type":"address"},{"name":"account","internalType":"address","type":"address"}],"name":"withdrawRemainingBEP20Token","outputs":[],"stateMutability":"nonpayable"}]

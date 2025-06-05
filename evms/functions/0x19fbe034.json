@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_buyDeadFee","internalType":"uint256","type":"uint256"},{"name":"_sellDeadFee","internalType":"uint256","type":"uint256"}],"name":"setDeadFeePercent","outputs":[],"stateMutability":"nonpayable"}]

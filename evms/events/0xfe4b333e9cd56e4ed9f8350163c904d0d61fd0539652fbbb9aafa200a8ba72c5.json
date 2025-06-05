@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"prevReferral","internalType":"address","type":"address","indexed":false},{"name":"newReferral","internalType":"address","type":"address","indexed":false}],"name":"BirbReferralUpdated"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_maxBuyamount","internalType":"uint256","type":"uint256"},{"name":"_maxSellAmount","internalType":"uint256","type":"uint256"}],"name":"setMaxBuyAndSellAmount","outputs":[],"stateMutability":"nonpayable"}]

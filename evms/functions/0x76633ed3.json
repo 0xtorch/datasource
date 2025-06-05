@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"","internalType":"address","type":"address"}],"name":"LP_PROTECTED","outputs":[{"name":"","internalType":"bool","type":"bool"}],"stateMutability":"view"}]

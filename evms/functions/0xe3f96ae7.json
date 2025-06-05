@@ -1,0 +1,1 @@
+[{"type":"function","constant":false,"inputs":[{"name":"cToken","internalType":"address","type":"address"},{"name":"marketBorrowIndex_","internalType":"uint256","type":"uint256"}],"name":"updateCompBorrowIndex","outputs":[],"payable":false,"stateMutability":"nonpayable"}]

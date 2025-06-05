@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"poolAddress","internalType":"address","type":"address"},{"name":"pairTokenAddress","internalType":"address","type":"address"}],"name":"_updatePoolAndPairToken","outputs":[],"stateMutability":"nonpayable"}]

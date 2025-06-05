@@ -1,0 +1,1 @@
+[{"type":"function","constant":false,"inputs":[{"name":"_rewardsDistribution","internalType":"address","type":"address"}],"name":"updateRewardsDistribution","outputs":[],"payable":false,"stateMutability":"nonpayable"}]

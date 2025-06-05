@@ -1,0 +1,1 @@
+[{"type":"function","constant":false,"inputs":[{"name":"index","internalType":"uint256","type":"uint256"},{"name":"wallet","internalType":"address","type":"address"},{"name":"fee","internalType":"uint16","type":"uint16"},{"name":"name","internalType":"bytes16","type":"bytes16"}],"name":"updatePartner","outputs":[],"payable":false,"stateMutability":"nonpayable"}]

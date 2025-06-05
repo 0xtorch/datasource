@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"channelId","internalType":"uint256","type":"uint256"},{"name":"newOrderSigner","internalType":"address","type":"address"},{"name":"newCashier","internalType":"address","type":"address"}],"name":"setPaymentChannel","outputs":[],"stateMutability":"nonpayable"}]

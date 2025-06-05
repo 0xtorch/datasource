@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_devfees","internalType":"uint8","type":"uint8"},{"name":"_roulettefees","internalType":"uint8","type":"uint8"},{"name":"_coinflipfees","internalType":"uint8","type":"uint8"},{"name":"_degenfees","internalType":"uint8","type":"uint8"}],"name":"setFees","outputs":[],"stateMutability":"nonpayable"}]

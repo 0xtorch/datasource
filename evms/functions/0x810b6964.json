@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"level","internalType":"uint8","type":"uint8"},{"name":"_thoreum","internalType":"uint256","type":"uint256"},{"name":"_epicHero","internalType":"uint256","type":"uint256"}],"name":"editLevelUpPrice","outputs":[],"stateMutability":"nonpayable"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"","internalType":"uint256","type":"uint256"}],"name":"extraInfoMap","outputs":[{"name":"metaDataURI","internalType":"string","type":"string"},{"name":"metaDataHash","internalType":"bytes32","type":"bytes32"}],"stateMutability":"view"}]

@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"newMessageBridgeAddress","internalType":"address","type":"address","indexed":false},{"name":"performer","internalType":"address","type":"address","indexed":false}],"name":"BridgeAddressChanged"}]

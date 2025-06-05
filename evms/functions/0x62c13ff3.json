@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_tokenTarget","internalType":"uint256","type":"uint256"},{"name":"_stableTarget","internalType":"uint256","type":"uint256"}],"name":"initSale","outputs":[],"stateMutability":"nonpayable"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"channelId","internalType":"uint256","type":"uint256"},{"name":"invoiceNo","internalType":"uint256","type":"uint256"}],"name":"isSettled","outputs":[{"name":"","internalType":"bool","type":"bool"}],"stateMutability":"view"}]

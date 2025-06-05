@@ -1,1 +1,1 @@
-[{"type":"event","anonymous":false,"inputs":[{"name":"blackListed","type":"address","indexed":true},{"name":"value","type":"bool","indexed":false}],"name":"Blacklist"}]
+[{"type":"event","anonymous":false,"inputs":[{"name":"blackListed","type":"address","indexed":true},{"name":"value","type":"bool","indexed":false}],"name":"Blacklist"},{"type":"event","anonymous":false,"inputs":[{"name":"account","internalType":"address","type":"address","indexed":false},{"name":"isBlacklist","internalType":"bool","type":"bool","indexed":false}],"name":"Blacklist"}]
