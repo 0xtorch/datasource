@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"user","internalType":"address","type":"address","indexed":true},{"name":"fromStrategy","internalType":"enum IGrizzly.Strategy","type":"uint8","indexed":true},{"name":"toStrategy","internalType":"enum IGrizzly.Strategy","type":"uint8","indexed":true}],"name":"SwitchStrategyEvent"}]

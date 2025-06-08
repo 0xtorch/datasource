@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"blockdelay","internalType":"uint256","type":"uint256"}],"name":"netTargetForDelay","outputs":[{"name":"","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

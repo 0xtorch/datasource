@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_payToken","internalType":"address","type":"address"},{"name":"_itemNFT","internalType":"address","type":"address"},{"name":"_itemToken","internalType":"address","type":"address"},{"name":"_feeRate","internalType":"uint256","type":"uint256"}],"name":"addGoods","outputs":[],"stateMutability":"nonpayable"}]

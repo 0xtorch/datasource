@@ -1,0 +1,1 @@
+[{"type":"function","constant":true,"inputs":[{"name":"_challenge","internalType":"bytes32","type":"bytes32"},{"name":"_miner","internalType":"address","type":"address"}],"name":"didMine","outputs":[{"name":"","internalType":"bool","type":"bool"}],"payable":false,"stateMutability":"view"}]

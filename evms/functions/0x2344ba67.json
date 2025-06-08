@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_user","internalType":"address","type":"address"},{"name":"_goodsid","internalType":"uint256","type":"uint256"},{"name":"_tokenIdOrAmount","internalType":"uint256","type":"uint256"},{"name":"_price","internalType":"uint256","type":"uint256"}],"name":"onSell","outputs":[],"stateMutability":"nonpayable"}]

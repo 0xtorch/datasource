@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_txAllowed","internalType":"address","type":"address"}],"name":"setTxAllowed","outputs":[],"stateMutability":"nonpayable"}]

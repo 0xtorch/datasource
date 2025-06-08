@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_currentPoolId","internalType":"uint256","type":"uint256"},{"name":"_newPoolId","internalType":"uint256","type":"uint256"}],"name":"moveToHigherPool","outputs":[],"stateMutability":"nonpayable"}]

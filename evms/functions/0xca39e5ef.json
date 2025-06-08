@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_attackingHero","internalType":"uint256","type":"uint256"},{"name":"enemyType","internalType":"uint256","type":"uint256"}],"name":"fight","outputs":[],"stateMutability":"nonpayable"}]

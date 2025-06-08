@@ -1,0 +1,1 @@
+[{"type":"function","constant":true,"inputs":[{"name":"_hash","internalType":"bytes32","type":"bytes32"}],"name":"getDisputeIdByDisputeHash","outputs":[{"name":"","internalType":"uint256","type":"uint256"}],"payable":false,"stateMutability":"view"}]

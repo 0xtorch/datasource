@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"fromBlock","internalType":"uint256","type":"uint256"},{"name":"toBlock","internalType":"uint256","type":"uint256"}],"name":"getHoneyMintRewardsInRange","outputs":[{"name":"","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

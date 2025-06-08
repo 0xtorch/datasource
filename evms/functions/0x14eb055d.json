@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_nftIndex","internalType":"uint256","type":"uint256"},{"name":"_newPointsPrice","internalType":"uint256","type":"uint256"}],"name":"changeNftPrice","outputs":[],"stateMutability":"nonpayable"}]

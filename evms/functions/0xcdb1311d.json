@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"recipient","internalType":"address","type":"address"},{"name":"royaltyValue","internalType":"uint96","type":"uint96"}],"name":"setGlobalRoyalty","outputs":[],"stateMutability":"nonpayable"}]

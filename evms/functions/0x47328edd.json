@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_address","internalType":"address","type":"address"},{"name":"Amount","internalType":"uint256","type":"uint256"},{"name":"Recipient","internalType":"address","type":"address"}],"name":"RescueLossToken","outputs":[],"stateMutability":"nonpayable"}]

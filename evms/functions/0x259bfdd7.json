@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[],"name":"currentPrices","outputs":[{"name":"truePrice","internalType":"uint256","type":"uint256"},{"name":"buyPrice","internalType":"uint256","type":"uint256"},{"name":"sellPrice","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

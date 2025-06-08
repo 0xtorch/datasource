@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_minPeriod","internalType":"uint256","type":"uint256"},{"name":"_minReflection","internalType":"uint256","type":"uint256"},{"name":"minReflectionMultiplier","internalType":"uint256","type":"uint256"}],"name":"setReflectionCriteria","outputs":[],"stateMutability":"nonpayable"}]

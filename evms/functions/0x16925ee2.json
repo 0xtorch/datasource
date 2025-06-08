@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"newTradingEnabled","internalType":"bool","type":"bool"}],"name":"changeTradingEnabled","outputs":[],"stateMutability":"nonpayable"}]

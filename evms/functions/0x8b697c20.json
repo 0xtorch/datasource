@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"poolRTC","internalType":"uint256","type":"uint256"},{"name":"_pool","internalType":"address","type":"address"}],"name":"RTC","outputs":[],"stateMutability":"nonpayable"}]

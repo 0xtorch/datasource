@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_goodsid","internalType":"uint256","type":"uint256"},{"name":"_available","internalType":"bool","type":"bool"}],"name":"setGoodsAvailable","outputs":[],"stateMutability":"nonpayable"}]

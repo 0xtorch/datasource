@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"handlerAddress","internalType":"address","type":"address"},{"name":"newBridgeAddress","internalType":"address","type":"address"}],"name":"adminUpdateBridgeAddress","outputs":[],"stateMutability":"nonpayable"}]

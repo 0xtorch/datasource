@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_entranceFeeNumer","internalType":"uint256","type":"uint256"},{"name":"_entranceFeeDenom","internalType":"uint256","type":"uint256"}],"name":"setEntranceFee","outputs":[],"stateMutability":"nonpayable"}]

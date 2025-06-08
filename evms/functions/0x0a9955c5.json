@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"account","internalType":"address","type":"address"}],"name":"getTownsOfPlayer","outputs":[{"name":"","internalType":"struct HeroLibrary.Town[4]","type":"tuple[4]","components":[{"name":"level","internalType":"uint8","type":"uint8"},{"name":"lastUpgradedTimeStamp","internalType":"uint256","type":"uint256"}]}],"stateMutability":"view"}]

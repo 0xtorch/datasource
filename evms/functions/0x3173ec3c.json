@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"inputAmount","internalType":"uint256","type":"uint256"},{"name":"fromToken","internalType":"address","type":"address"},{"name":"toSynth","internalType":"address","type":"address"}],"name":"swapAssetToSynth","outputs":[],"stateMutability":"payable"}]

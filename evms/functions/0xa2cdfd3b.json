@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_newDiviClaim","internalType":"uint256","type":"uint256"},{"name":"_newDivFee","internalType":"uint256","type":"uint256"}],"name":"changeDiviClaim","outputs":[],"stateMutability":"nonpayable"}]

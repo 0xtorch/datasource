@@ -1,0 +1,1 @@
+[{"type":"function","constant":true,"inputs":[{"name":"_data","internalType":"bytes32","type":"bytes32"}],"name":"getAddressVars","outputs":[{"name":"","internalType":"address","type":"address"}],"payable":false,"stateMutability":"view"}]

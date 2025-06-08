@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_contract","internalType":"address","type":"address"},{"name":"_amount","internalType":"uint256","type":"uint256"},{"name":"_type","internalType":"uint8","type":"uint8"}],"name":"depositTokens","outputs":[{"name":"_opId","internalType":"uint256","type":"uint256"}],"stateMutability":"payable"}]

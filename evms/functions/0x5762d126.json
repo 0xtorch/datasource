@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_orderId","internalType":"bytes32","type":"bytes32"},{"name":"_pathToTokenOut","internalType":"address[]","type":"address[]"},{"name":"_pathToMate","internalType":"address[]","type":"address[]"}],"name":"executeOrder","outputs":[],"stateMutability":"nonpayable"}]

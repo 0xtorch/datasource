@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"pair","internalType":"address","type":"address"}],"name":"getPairVault","outputs":[{"name":"","internalType":"address","type":"address"}],"stateMutability":"view"}]

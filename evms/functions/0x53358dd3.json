@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"byAddress","internalType":"address","type":"address"}],"name":"bnbRewardClaimedAsXLD","outputs":[{"name":"","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

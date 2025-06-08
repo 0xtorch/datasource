@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_guy","internalType":"address","type":"address"}],"name":"getUserAPR","outputs":[{"name":"","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"numOfWeeks","internalType":"uint256","type":"uint256"}],"name":"calcMultiplier","outputs":[{"name":"","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

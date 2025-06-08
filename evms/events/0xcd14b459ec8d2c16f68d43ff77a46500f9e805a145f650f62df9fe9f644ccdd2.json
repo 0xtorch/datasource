@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"_beneficiary","internalType":"address","type":"address","indexed":true},{"name":"_contractAMT","internalType":"address","type":"address","indexed":true},{"name":"_contractAZY","internalType":"address","type":"address","indexed":true}],"name":"ChangeSettings"}]

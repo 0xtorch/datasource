@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_lpTokenAddress","internalType":"address","type":"address"},{"name":"_minLP","internalType":"uint256","type":"uint256"}],"name":"finalizeAuctionWithSuccess","outputs":[],"stateMutability":"nonpayable"}]

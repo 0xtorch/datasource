@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_communityAllocation","internalType":"uint256","type":"uint256"},{"name":"_devAllocation","internalType":"uint256","type":"uint256"},{"name":"_team1Allocation","internalType":"uint256","type":"uint256"}],"name":"setAllocations","outputs":[],"stateMutability":"nonpayable"}]

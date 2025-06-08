@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"","internalType":"address","type":"address"}],"name":"userStrategy","outputs":[{"name":"","internalType":"enum IGrizzly.Strategy","type":"uint8"}],"stateMutability":"view"}]

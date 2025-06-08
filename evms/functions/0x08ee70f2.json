@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[],"name":"nativeLiquidityPair","outputs":[{"name":"","internalType":"contract IUniswapV2Pair","type":"address"}],"stateMutability":"view"}]

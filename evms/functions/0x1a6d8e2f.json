@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_beneficiary","internalType":"address","type":"address"},{"name":"_contractAMT","internalType":"address","type":"address"},{"name":"_contractAZY","internalType":"address","type":"address"}],"name":"changeSettings","outputs":[{"name":"","internalType":"bool","type":"bool"}],"stateMutability":"nonpayable"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"reflection","internalType":"uint256","type":"uint256"},{"name":"liquidity","internalType":"uint256","type":"uint256"},{"name":"marketing","internalType":"uint256","type":"uint256"},{"name":"charity","internalType":"uint256","type":"uint256"}],"name":"setRatios","outputs":[],"stateMutability":"nonpayable"}]

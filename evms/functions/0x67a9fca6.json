@@ -1,0 +1,1 @@
+[{"type":"function","constant":false,"inputs":[{"name":"_liquidityLockDivisor","type":"uint256"}],"name":"setLiquidityLockDivisor","outputs":[],"payable":false,"stateMutability":"nonpayable"}]

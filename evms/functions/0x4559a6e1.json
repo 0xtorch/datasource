@@ -1,0 +1,1 @@
+[{"type":"function","constant":false,"inputs":[{"name":"_cardIds","internalType":"uint256[]","type":"uint256[]"},{"name":"_amount","internalType":"uint256","type":"uint256"},{"name":"_treatmodel","internalType":"address","type":"address"}],"name":"addCard","outputs":[],"payable":false,"stateMutability":"nonpayable"}]

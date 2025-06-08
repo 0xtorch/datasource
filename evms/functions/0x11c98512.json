@@ -1,0 +1,1 @@
+[{"type":"function","constant":true,"inputs":[{"name":"_requestId","internalType":"uint256","type":"uint256"},{"name":"_timestamp","internalType":"uint256","type":"uint256"}],"name":"getSubmissionsByTimestamp","outputs":[{"name":"","internalType":"uint256[5]","type":"uint256[5]"}],"payable":false,"stateMutability":"view"}]

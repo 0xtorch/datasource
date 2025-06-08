@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_orderids","internalType":"uint256[]","type":"uint256[]"},{"name":"_amounts","internalType":"uint256[]","type":"uint256[]"}],"name":"onBuyBatch","outputs":[],"stateMutability":"nonpayable"}]

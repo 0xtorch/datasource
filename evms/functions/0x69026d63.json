@@ -1,0 +1,1 @@
+[{"type":"function","constant":true,"inputs":[{"name":"_requestId","internalType":"uint256","type":"uint256"},{"name":"_timestamp","internalType":"uint256","type":"uint256"}],"name":"getMinersByRequestIdAndTimestamp","outputs":[{"name":"","internalType":"address[5]","type":"address[5]"}],"payable":false,"stateMutability":"view"}]

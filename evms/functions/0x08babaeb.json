@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"byAddress","internalType":"address","type":"address"},{"name":"isApproved","internalType":"bool","type":"bool"}],"name":"approveClaim","outputs":[],"stateMutability":"nonpayable"}]

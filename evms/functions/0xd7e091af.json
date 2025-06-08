@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"account","internalType":"address","type":"address"},{"name":"townType","internalType":"uint8","type":"uint8"}],"name":"getTownLevel","outputs":[{"name":"","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

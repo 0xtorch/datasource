@@ -1,0 +1,1 @@
+[{"type":"function","constant":false,"inputs":[{"name":"_newDeity","internalType":"address","type":"address"}],"name":"changeDeity","outputs":[],"payable":false,"stateMutability":"nonpayable"}]

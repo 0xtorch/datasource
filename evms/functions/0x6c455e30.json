@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"ofAddress","internalType":"address","type":"address"},{"name":"byAddress","internalType":"address","type":"address"}],"name":"isClaimApproved","outputs":[{"name":"","internalType":"bool","type":"bool"}],"stateMutability":"view"}]
