@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"tokenType","internalType":"bytes32","type":"bytes32"},{"name":"predicateAddress","internalType":"address","type":"address"}],"name":"registerPredicate","outputs":[],"stateMutability":"nonpayable"}]

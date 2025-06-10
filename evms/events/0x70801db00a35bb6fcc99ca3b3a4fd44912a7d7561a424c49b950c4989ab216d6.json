@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"newOperatorAddr","internalType":"address","type":"address","indexed":true},{"name":"oldOperatorAddr","internalType":"address","type":"address","indexed":true}],"name":"ChangeOperatorAddress"}]

@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"tokenType","internalType":"bytes32","type":"bytes32","indexed":true},{"name":"predicateAddress","internalType":"address","type":"address","indexed":true}],"name":"PredicateRegistered"}]

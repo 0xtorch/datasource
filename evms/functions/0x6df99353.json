@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"ids","internalType":"uint256[]","type":"uint256[]"},{"name":"owners","internalType":"address[]","type":"address[]"},{"name":"status","internalType":"bool","type":"bool"}],"name":"bulkWhitelistProtectedNames","outputs":[],"stateMutability":"nonpayable"}]

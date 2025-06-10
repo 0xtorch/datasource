@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[],"name":"getCommitmentAgeRange","outputs":[{"name":"minCommitmentAge","internalType":"uint256","type":"uint256"},{"name":"maxCommitmentAge","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

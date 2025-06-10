@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"referralProgram","internalType":"contract IReferralProgram","type":"address"}],"name":"updateReferralProgram","outputs":[],"stateMutability":"nonpayable"}]

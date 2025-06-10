@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"newColdAddr","internalType":"address","type":"address","indexed":true},{"name":"oldColdAddr","internalType":"address","type":"address","indexed":true}],"name":"ChangeColdAddress"}]

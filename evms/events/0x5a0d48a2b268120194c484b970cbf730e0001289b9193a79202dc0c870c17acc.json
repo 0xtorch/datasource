@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"operatorAddr","internalType":"address","type":"address","indexed":true},{"name":"newMinimumEthInput","internalType":"uint256","type":"uint256","indexed":false},{"name":"oldMinimumEthInput","internalType":"uint256","type":"uint256","indexed":false}],"name":"ChangeMinEthInput"}]

@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"rootToken","internalType":"address","type":"address","indexed":true},{"name":"childToken","internalType":"address","type":"address","indexed":true},{"name":"tokenType","internalType":"bytes32","type":"bytes32","indexed":true}],"name":"TokenMapped"}]
