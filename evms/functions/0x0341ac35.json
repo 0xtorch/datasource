@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_implId","internalType":"uint8","type":"uint8"},{"name":"_newImplAddress","internalType":"address","type":"address"}],"name":"addImpl","outputs":[{"name":"","internalType":"uint8","type":"uint8"},{"name":"","internalType":"address","type":"address"}],"stateMutability":"nonpayable"}]

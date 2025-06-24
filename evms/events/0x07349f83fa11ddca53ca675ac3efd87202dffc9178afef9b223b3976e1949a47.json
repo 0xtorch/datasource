@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"requestHash","internalType":"bytes32","type":"bytes32","indexed":true},{"name":"_error","internalType":"bytes4","type":"bytes4","indexed":false}],"name":"RequestSettlementFailed"}]

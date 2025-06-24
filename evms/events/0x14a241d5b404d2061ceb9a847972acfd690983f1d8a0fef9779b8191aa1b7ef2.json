@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"requestHash","internalType":"bytes32","type":"bytes32","indexed":true},{"name":"implId","internalType":"uint8","type":"uint8","indexed":false},{"name":"transmitter","internalType":"address","type":"address","indexed":false},{"name":"execution","internalType":"bytes","type":"bytes","indexed":false}],"name":"RequestExtracted"}]
