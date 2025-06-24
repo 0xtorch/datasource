@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"dstEid","internalType":"uint32","type":"uint32","indexed":false},{"name":"feeBps","internalType":"uint16","type":"uint16","indexed":false},{"name":"enabled","internalType":"bool","type":"bool","indexed":false}],"name":"FeeBpsSet"}]

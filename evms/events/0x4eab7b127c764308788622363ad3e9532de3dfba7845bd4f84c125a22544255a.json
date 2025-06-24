@@ -1,1 +1,1 @@
-[{"type":"event","anonymous":false,"inputs":[{"name":"_rewardToken","internalType":"address","type":"address","indexed":false}],"name":"HookSet"}]
+[{"type":"event","anonymous":false,"inputs":[{"name":"_rewardToken","internalType":"address","type":"address","indexed":false}],"name":"HookSet"},{"type":"event","anonymous":false,"inputs":[{"name":"_newHook","internalType":"address","type":"address","indexed":true}],"name":"HookSet"}]

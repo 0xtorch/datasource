@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"orderHashes","internalType":"bytes32[]","type":"bytes32[]"},{"name":"lzFee","internalType":"uint256","type":"uint256"},{"name":"gasLimit","internalType":"uint128","type":"uint128"},{"name":"provider","internalType":"enum ICoral.Provider","type":"uint8"}],"name":"forwardSettlements","outputs":[],"stateMutability":"payable"}]

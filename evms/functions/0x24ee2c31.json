@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_dstChainId","internalType":"uint16","type":"uint16"},{"name":"_outboundProofType","internalType":"uint16","type":"uint16"}],"name":"setDefaultConfig","outputs":[],"stateMutability":"nonpayable"}]

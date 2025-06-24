@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"pool","internalType":"contract Token","type":"address"}],"name":"disableTrading","outputs":[],"stateMutability":"nonpayable"}]

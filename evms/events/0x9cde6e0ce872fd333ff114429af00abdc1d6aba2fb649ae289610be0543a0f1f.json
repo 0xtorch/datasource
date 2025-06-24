@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"batchId","internalType":"uint256","type":"uint256","indexed":true},{"name":"totalAmount","internalType":"uint256","type":"uint256","indexed":false},{"name":"requestCount","internalType":"uint256","type":"uint256","indexed":false}],"name":"BatchWithdrawRequested"}]

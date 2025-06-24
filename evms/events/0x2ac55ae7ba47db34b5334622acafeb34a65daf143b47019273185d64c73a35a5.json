@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"oldSphereXAdmin","internalType":"address","type":"address","indexed":false},{"name":"newSphereXAdmin","internalType":"address","type":"address","indexed":false}],"name":"ChangedSpherexOperator"}]

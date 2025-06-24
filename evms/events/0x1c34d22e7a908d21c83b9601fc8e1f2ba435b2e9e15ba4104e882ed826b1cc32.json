@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"poolType","internalType":"uint16","type":"uint16","indexed":true},{"name":"prevPoolCollection","internalType":"contract IPoolCollection","type":"address","indexed":true},{"name":"newPoolCollection","internalType":"contract IPoolCollection","type":"address","indexed":true}],"name":"LatestPoolCollectionReplaced"}]

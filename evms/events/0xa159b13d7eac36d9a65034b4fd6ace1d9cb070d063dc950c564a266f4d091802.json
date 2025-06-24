@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"oldRewardsPPM","internalType":"uint32","type":"uint32","indexed":false},{"name":"newRewardsPPM","internalType":"uint32","type":"uint32","indexed":false}],"name":"POLRewardsPPMUpdated"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_gameId","internalType":"uint256","type":"uint256"},{"name":"_action","internalType":"enum PokerGame.ActionType","type":"uint8"},{"name":"_amount","internalType":"uint256","type":"uint256"}],"name":"playerAction","outputs":[],"stateMutability":"nonpayable"}]

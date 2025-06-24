@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"user","internalType":"address","type":"address","indexed":true},{"name":"newBalance","internalType":"uint256","type":"uint256","indexed":false},{"name":"isAddition","internalType":"bool","type":"bool","indexed":false}],"name":"ChipsUpdated"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"soulAddress","internalType":"address","type":"address"}],"name":"soulExists","outputs":[{"name":"","internalType":"bool","type":"bool"}],"stateMutability":"view"}]

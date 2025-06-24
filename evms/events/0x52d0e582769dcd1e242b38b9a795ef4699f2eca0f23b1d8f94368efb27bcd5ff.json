@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"oldBufferCap","internalType":"uint256","type":"uint256","indexed":false},{"name":"newBufferCap","internalType":"uint256","type":"uint256","indexed":false}],"name":"BufferCapUpdate"}]

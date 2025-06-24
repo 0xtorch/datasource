@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"licenseURI","internalType":"string","type":"string"},{"name":"contentHash","internalType":"bytes32","type":"bytes32"}],"name":"setCopyrightLicense","outputs":[{"name":"version","internalType":"uint256","type":"uint256"}],"stateMutability":"nonpayable"}]

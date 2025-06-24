@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"poolType","internalType":"uint16","type":"uint16"},{"name":"tokens","internalType":"contract Token[]","type":"address[]"}],"name":"createPools","outputs":[],"stateMutability":"nonpayable"}]

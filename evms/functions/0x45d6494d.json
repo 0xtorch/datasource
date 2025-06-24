@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"grossAmount","internalType":"uint256","type":"uint256"}],"name":"getBuyFee","outputs":[{"name":"fee","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

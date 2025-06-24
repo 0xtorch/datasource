@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_enableWhitelistMint","internalType":"bool","type":"bool"},{"name":"_totalHoursOpen","internalType":"uint256","type":"uint256"}],"name":"setWhitelistMintConfig","outputs":[],"stateMutability":"nonpayable"}]

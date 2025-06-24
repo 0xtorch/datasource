@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"pool","internalType":"contract Token","type":"address","indexed":true},{"name":"prevFeePPM","internalType":"uint32","type":"uint32","indexed":false},{"name":"newFeePPM","internalType":"uint32","type":"uint32","indexed":false}],"name":"TradingFeePPMUpdated"}]

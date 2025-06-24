@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_shardQuantities","internalType":"uint16[]","type":"uint16[]"},{"name":"_newMultipliers","internalType":"string[]","type":"string[]"}],"name":"batchSetMultipliers","outputs":[],"stateMutability":"nonpayable"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_dstEid","internalType":"uint32","type":"uint32"},{"name":"_feeBps","internalType":"uint16","type":"uint16"},{"name":"_enabled","internalType":"bool","type":"bool"}],"name":"setFeeBps","outputs":[],"stateMutability":"nonpayable"}]

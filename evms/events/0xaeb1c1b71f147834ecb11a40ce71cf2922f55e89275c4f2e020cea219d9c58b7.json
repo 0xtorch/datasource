@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"_oldTreasury","internalType":"address","type":"address","indexed":false},{"name":"_newTreasury","internalType":"address","type":"address","indexed":false}],"name":"LogSetTreasury"}]

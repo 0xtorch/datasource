@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_buyIn","internalType":"uint256","type":"uint256"},{"name":"_smallBlind","internalType":"uint256","type":"uint256"},{"name":"_bigBlind","internalType":"uint256","type":"uint256"}],"name":"createGame","outputs":[],"stateMutability":"nonpayable"}]

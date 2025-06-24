@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_merkleProof","internalType":"bytes32[]","type":"bytes32[]"},{"name":"_wlAddress","internalType":"address","type":"address"},{"name":"_quantity","internalType":"uint16","type":"uint16"},{"name":"_isMaxPack","internalType":"bool","type":"bool"}],"name":"whitelistMint","outputs":[],"stateMutability":"payable"}]

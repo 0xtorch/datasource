@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_shardQuantities","internalType":"uint16[]","type":"uint16[]"},{"name":"_prices","internalType":"uint256[]","type":"uint256[]"},{"name":"_isWhitelistMintEnabled","internalType":"bool","type":"bool"}],"name":"batchSetShardPrices","outputs":[],"stateMutability":"nonpayable"}]

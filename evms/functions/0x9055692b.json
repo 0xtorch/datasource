@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"offset","internalType":"uint256","type":"uint256"},{"name":"size","internalType":"uint256","type":"uint256"}],"name":"getCouponHoldersPaged","outputs":[{"name":"","internalType":"address[]","type":"address[]"}],"stateMutability":"view"}]

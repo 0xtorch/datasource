@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"poolType","internalType":"uint16","type":"uint16"}],"name":"latestPoolCollection","outputs":[{"name":"","internalType":"contract IPoolCollection","type":"address"}],"stateMutability":"view"}]

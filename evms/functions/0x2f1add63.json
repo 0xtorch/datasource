@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"amountVAstr","internalType":"uint256","type":"uint256"},{"name":"receiver","internalType":"address","type":"address"},{"name":"receiverCalldata","internalType":"bytes","type":"bytes"},{"name":"gasLimit","internalType":"uint256","type":"uint256"}],"name":"bridgeVAstr","outputs":[],"stateMutability":"payable"}]

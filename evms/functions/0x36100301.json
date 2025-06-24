@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"data","internalType":"struct CapsuleShopCollection.RecoverInfo","type":"tuple","components":[{"name":"to","internalType":"address","type":"address"},{"name":"tokenId","internalType":"uint256","type":"uint256"}]}],"name":"recoverByOwner","outputs":[],"stateMutability":"nonpayable"}]

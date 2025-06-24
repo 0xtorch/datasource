@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"poolCollection","internalType":"contract IPoolCollection","type":"address"},{"name":"newLatestPoolCollection","internalType":"contract IPoolCollection","type":"address"}],"name":"removePoolCollection","outputs":[],"stateMutability":"nonpayable"}]

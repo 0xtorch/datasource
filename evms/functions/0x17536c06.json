@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"vaultAddress","internalType":"address","type":"address"},{"name":"user","internalType":"address","type":"address"},{"name":"amount","internalType":"uint256","type":"uint256"}],"name":"depositToVault","outputs":[],"stateMutability":"nonpayable"}]

@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"_spender","internalType":"address","type":"address","indexed":true},{"name":"_amountSent","internalType":"uint256","type":"uint256","indexed":false}],"name":"LockedFundsSentBackToL1"}]

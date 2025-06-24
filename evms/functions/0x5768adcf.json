@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"pool","internalType":"contract Token","type":"address"}],"name":"poolToken","outputs":[{"name":"","internalType":"contract IPoolToken","type":"address"}],"stateMutability":"view"}]

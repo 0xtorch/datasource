@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"minLock","internalType":"uint128","type":"uint128"},{"name":"maxLock","internalType":"uint128","type":"uint128"}],"name":"setLockPeriods","outputs":[],"stateMutability":"nonpayable"}]

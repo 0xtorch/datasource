@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"gameId","internalType":"uint256","type":"uint256","indexed":true},{"name":"buyIn","internalType":"uint256","type":"uint256","indexed":false},{"name":"smallBlind","internalType":"uint256","type":"uint256","indexed":false},{"name":"bigBlind","internalType":"uint256","type":"uint256","indexed":false}],"name":"GameCreated"}]

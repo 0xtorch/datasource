@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_address","internalType":"address","type":"address"},{"name":"_maxAmountOfBannersByAddress","internalType":"uint256","type":"uint256"}],"name":"setMaxAmountOfBannersByAddress","outputs":[],"stateMutability":"nonpayable"}]

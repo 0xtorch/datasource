@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"oldMinNetworkFeeBurn","internalType":"uint256","type":"uint256","indexed":false},{"name":"newMinNetworkFeeBurn","internalType":"uint256","type":"uint256","indexed":false}],"name":"MinNetworkFeeBurnUpdated"}]

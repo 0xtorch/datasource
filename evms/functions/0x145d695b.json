@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_gameId","internalType":"uint256","type":"uint256"},{"name":"_player","internalType":"address","type":"address"}],"name":"timeoutPlayer","outputs":[],"stateMutability":"nonpayable"}]

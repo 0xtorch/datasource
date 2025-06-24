@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"pools","internalType":"contract Token[]","type":"address[]"},{"name":"newPoolCollection","internalType":"contract IPoolCollection","type":"address"}],"name":"migratePools","outputs":[],"stateMutability":"nonpayable"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_newAmount","internalType":"uint256","type":"uint256"},{"name":"_newCooldown","internalType":"uint256","type":"uint256"}],"name":"updateFaucetSettings","outputs":[],"stateMutability":"nonpayable"}]
