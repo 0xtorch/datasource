@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_idx","internalType":"uint256","type":"uint256"},{"name":"_typeIdx","internalType":"uint256","type":"uint256"},{"name":"_merkleProof","internalType":"bytes32[]","type":"bytes32[]"}],"name":"validateApostle","outputs":[],"stateMutability":"nonpayable"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"JOYtoyToUpdate","internalType":"uint256","type":"uint256"},{"name":"artworkHash","internalType":"string","type":"string"},{"name":"artworkType","internalType":"string","type":"string"},{"name":"artworkIndex","internalType":"uint256","type":"uint256"}],"name":"addJOYtoyArtwork","outputs":[],"stateMutability":"nonpayable"}]

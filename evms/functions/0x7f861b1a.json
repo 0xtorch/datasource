@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"folderWithIPFSPrefix","internalType":"string","type":"string"},{"name":"orderedIds","internalType":"uint256[]","type":"uint256[]"},{"name":"ipfsFolderIndexOffset","internalType":"uint256","type":"uint256"}],"name":"adminSetMetadataBulk","outputs":[],"stateMutability":"nonpayable"}]

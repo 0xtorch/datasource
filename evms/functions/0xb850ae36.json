@@ -1,0 +1,1 @@
+[{"type":"function","constant":true,"inputs":[{"name":"cType","type":"uint256"}],"name":"isRegular","outputs":[{"name":"","type":"bool"}],"payable":false,"stateMutability":"pure"}]

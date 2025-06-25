@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"data_","internalType":"bytes","type":"bytes"}],"name":"encodeToString","outputs":[{"name":"","internalType":"string","type":"string"}],"stateMutability":"pure"}]

@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"parentRegistrar","internalType":"address","type":"address","indexed":false},{"name":"folderGroupId","internalType":"uint256","type":"uint256","indexed":false},{"name":"baseMetadataUri","internalType":"string","type":"string","indexed":false}],"name":"EEDomainGroupUpdatedV1"}]

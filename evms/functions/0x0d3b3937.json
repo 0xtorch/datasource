@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"JOYtoyId","internalType":"uint256","type":"uint256"},{"name":"joyTokenId","internalType":"uint256","type":"uint256"},{"name":"joyCollectorPercent","internalType":"uint256","type":"uint256"},{"name":"collectorActive","internalType":"bool","type":"bool"}],"name":"addJOYCollector","outputs":[],"stateMutability":"nonpayable"}]

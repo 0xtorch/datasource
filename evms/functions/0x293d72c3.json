@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"x","internalType":"int16","type":"int16"},{"name":"y","internalType":"int16","type":"int16"},{"name":"newName","internalType":"string","type":"string"}],"name":"setName","outputs":[],"stateMutability":"nonpayable"}]

@@ -1,1 +1,1 @@
-[{"type":"event","anonymous":false,"inputs":[{"name":"newSigner","internalType":"address","type":"address","indexed":true}],"name":"SignerUpdated"}]
+[{"type":"event","anonymous":false,"inputs":[{"name":"newSigner","internalType":"address","type":"address","indexed":true}],"name":"SignerUpdated"},{"type":"event","anonymous":false,"inputs":[{"name":"_signer","internalType":"address","type":"address","indexed":false}],"name":"SignerUpdated"}]

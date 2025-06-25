@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_newStage","internalType":"enum Tigerbob.MintStage","type":"uint8"}],"name":"setMintStage","outputs":[],"stateMutability":"nonpayable"}]

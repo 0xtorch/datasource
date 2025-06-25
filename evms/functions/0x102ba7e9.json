@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_operatorAddress","internalType":"address","type":"address"},{"name":"_isBlocked","internalType":"bool","type":"bool"},{"name":"_message","internalType":"string","type":"string"}],"name":"toggleOperatorAccess","outputs":[],"stateMutability":"nonpayable"}]

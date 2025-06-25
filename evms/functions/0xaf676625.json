@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_id","internalType":"uint256","type":"uint256"},{"name":"_tokenAddress","internalType":"address","type":"address"},{"name":"_tokenType","internalType":"bool","type":"bool"},{"name":"_mint","internalType":"bool","type":"bool"}],"name":"editTieredPrize","outputs":[],"stateMutability":"nonpayable"}]

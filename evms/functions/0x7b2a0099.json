@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"x","internalType":"int16","type":"int16"},{"name":"y","internalType":"int16","type":"int16"}],"name":"exists","outputs":[{"name":"","internalType":"bool","type":"bool"}],"stateMutability":"view"}]

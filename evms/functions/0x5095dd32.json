@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_amountToMint","internalType":"uint256","type":"uint256"},{"name":"_levels","internalType":"uint256[]","type":"uint256[]"}],"name":"artistMint","outputs":[],"stateMutability":"nonpayable"}]

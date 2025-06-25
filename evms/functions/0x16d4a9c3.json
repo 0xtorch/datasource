@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"horseID","internalType":"uint256","type":"uint256"}],"name":"checkStableExp","outputs":[{"name":"","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

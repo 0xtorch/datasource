@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"accounts","internalType":"address[]","type":"address[]"},{"name":"listOfNrOfTokensToReserve","internalType":"uint256[]","type":"uint256[]"}],"name":"reserveTokensForAccounts","outputs":[],"stateMutability":"nonpayable"}]

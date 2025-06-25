@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"","internalType":"enum FroggyFriends.HibernationStatus","type":"uint8"}],"name":"hibernationAvailable","outputs":[{"name":"","internalType":"bool","type":"bool"}],"stateMutability":"view"}]

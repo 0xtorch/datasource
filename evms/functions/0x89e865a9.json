@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"editionNr","internalType":"uint256","type":"uint256"},{"name":"contractAddress","internalType":"address","type":"address"}],"name":"setContract","outputs":[],"stateMutability":"nonpayable"}]

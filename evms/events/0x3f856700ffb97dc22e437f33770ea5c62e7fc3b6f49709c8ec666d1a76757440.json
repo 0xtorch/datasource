@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"oldUrl","internalType":"string","type":"string","indexed":true},{"name":"newUrl","internalType":"string","type":"string","indexed":true}],"name":"BaseUrlChanged"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"joyTokenId","internalType":"uint256","type":"uint256"}],"name":"originalJOYOwner","outputs":[{"name":"ownerOfJOY","internalType":"address","type":"address"}],"stateMutability":"view"}]

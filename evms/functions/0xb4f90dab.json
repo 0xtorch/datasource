@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"tokenId","internalType":"uint256","type":"uint256"}],"name":"getPillInfo","outputs":[{"name":"info","internalType":"struct BYOPill.PillInfo","type":"tuple","components":[{"name":"synthesis_date","internalType":"uint256","type":"uint256"}]}],"stateMutability":"view"}]

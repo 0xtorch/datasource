@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"horseID","internalType":"uint256","type":"uint256","indexed":false},{"name":"stableID","internalType":"uint256","type":"uint256","indexed":false},{"name":"stableTerm","internalType":"uint256","type":"uint256","indexed":false}],"name":"HorseStabled"}]

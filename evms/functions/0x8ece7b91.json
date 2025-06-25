@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"name","internalType":"string","type":"string"},{"name":"size","internalType":"uint256","type":"uint256"}],"name":"addTier","outputs":[{"name":"","internalType":"uint16","type":"uint16"}],"stateMutability":"nonpayable"}]

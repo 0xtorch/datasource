@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"","internalType":"uint256","type":"uint256"}],"name":"stables","outputs":[{"name":"farmID","internalType":"uint256","type":"uint256"},{"name":"expDate","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

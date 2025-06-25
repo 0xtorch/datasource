@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_windowOpen","internalType":"uint128","type":"uint128"},{"name":"_windowClose","internalType":"uint128","type":"uint128"}],"name":"setWindow","outputs":[],"stateMutability":"nonpayable"}]

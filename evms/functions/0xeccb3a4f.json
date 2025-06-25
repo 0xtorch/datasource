@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"","internalType":"uint256","type":"uint256"}],"name":"prizes","outputs":[{"name":"tokenType","internalType":"bool","type":"bool"},{"name":"mint","internalType":"bool","type":"bool"},{"name":"tokenAddress","internalType":"address","type":"address"}],"stateMutability":"view"}]

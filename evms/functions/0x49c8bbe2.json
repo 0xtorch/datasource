@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_idx","internalType":"uint256","type":"uint256"}],"name":"getTypeForApostle","outputs":[{"name":"","internalType":"enum IApostle.APOSTLE_TYPE","type":"uint8"}],"stateMutability":"view"}]

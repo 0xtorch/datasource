@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_purchaseWindowOpens","internalType":"uint256","type":"uint256"},{"name":"_purchaseWindowOpensPublic","internalType":"uint256","type":"uint256"}],"name":"setWindows","outputs":[],"stateMutability":"nonpayable"}]

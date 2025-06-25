@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_receivers","internalType":"address[]","type":"address[]"},{"name":"_tokenId","internalType":"uint256","type":"uint256"},{"name":"_amounts","internalType":"uint256[]","type":"uint256[]"}],"name":"ownerMintMany","outputs":[],"stateMutability":"nonpayable"}]

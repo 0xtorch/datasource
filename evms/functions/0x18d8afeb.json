@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_thirdyDayAvailable","internalType":"bool","type":"bool"},{"name":"_sixtyDayAvailable","internalType":"bool","type":"bool"},{"name":"_ninetyDayAvailable","internalType":"bool","type":"bool"}],"name":"setHibernationAvailable","outputs":[],"stateMutability":"nonpayable"}]

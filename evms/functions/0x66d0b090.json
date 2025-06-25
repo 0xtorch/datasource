@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_quantity","internalType":"uint16","type":"uint16"},{"name":"_receiver","internalType":"address","type":"address"}],"name":"mintReserve","outputs":[],"stateMutability":"nonpayable"}]

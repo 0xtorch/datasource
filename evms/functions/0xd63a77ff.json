@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_id","internalType":"uint256","type":"uint256"},{"name":"_direction","internalType":"string","type":"string"},{"name":"_value","internalType":"uint256","type":"uint256"}],"name":"setCounter","outputs":[],"stateMutability":"nonpayable"}]

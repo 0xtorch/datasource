@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"_state","internalType":"enum Burrows.State","type":"uint8","indexed":false}],"name":"StateChanged"}]

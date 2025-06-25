@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[],"name":"getCurrentAuctionPrice","outputs":[{"name":"currentPrice","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

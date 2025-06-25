@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"","internalType":"uint256","type":"uint256"}],"name":"evoData","outputs":[{"name":"numTokensNeeded","internalType":"uint8","type":"uint8"},{"name":"startWindow","internalType":"uint32","type":"uint32"},{"name":"endWindow","internalType":"uint32","type":"uint32"}],"stateMutability":"view"}]

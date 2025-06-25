@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"hub","internalType":"contract IZNSHub","type":"address"}],"name":"setZNSHub","outputs":[],"stateMutability":"nonpayable"}]

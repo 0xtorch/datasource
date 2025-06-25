@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"domainId","internalType":"uint256","type":"uint256"}],"name":"domainExists","outputs":[{"name":"","internalType":"bool","type":"bool"}],"stateMutability":"view"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_merkle","internalType":"bytes32","type":"bytes32"}],"name":"setApostleValidationMerkle","outputs":[],"stateMutability":"nonpayable"}]

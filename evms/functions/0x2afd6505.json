@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_stage","internalType":"uint256","type":"uint256"},{"name":"_windowOpens","internalType":"uint256","type":"uint256"}],"name":"editStageWindows","outputs":[],"stateMutability":"nonpayable"}]

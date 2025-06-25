@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"sha256Hash_","internalType":"bytes32","type":"bytes32"}],"name":"cidv0","outputs":[{"name":"","internalType":"string","type":"string"}],"stateMutability":"pure"}]

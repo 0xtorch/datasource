@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"horseID","internalType":"uint256","type":"uint256"},{"name":"farmID","internalType":"uint256","type":"uint256"},{"name":"stableTerm","internalType":"uint256","type":"uint256"}],"name":"setStable","outputs":[],"stateMutability":"nonpayable"}]

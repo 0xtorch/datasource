@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_purchaseWindowOpens","internalType":"uint256","type":"uint256"},{"name":"_daoWindowOpens","internalType":"uint256","type":"uint256"},{"name":"_holderWindowOpens","internalType":"uint256","type":"uint256"}],"name":"editSaleWindows","outputs":[],"stateMutability":"nonpayable"}]

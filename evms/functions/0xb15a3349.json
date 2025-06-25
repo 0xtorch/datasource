@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"contractAddress","internalType":"address","type":"address"}],"name":"currentContractIsAllowedToMint","outputs":[{"name":"","internalType":"bool","type":"bool"}],"stateMutability":"view"}]

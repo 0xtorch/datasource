@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"vrfKeyHash","internalType":"bytes32","type":"bytes32","indexed":false},{"name":"vrfFee","internalType":"uint256","type":"uint256","indexed":false}],"name":"VrfConfigUpdated"}]

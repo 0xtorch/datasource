@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"supplyLimit_","internalType":"uint256","type":"uint256"},{"name":"canMint_","internalType":"bool","type":"bool"},{"name":"canBurn_","internalType":"bool","type":"bool"}],"name":"addFT","outputs":[{"name":"","internalType":"uint256","type":"uint256"}],"stateMutability":"nonpayable"}]

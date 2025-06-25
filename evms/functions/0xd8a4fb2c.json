@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_claimWindowOpens","internalType":"uint256","type":"uint256"},{"name":"_claimWindowCloses","internalType":"uint256","type":"uint256"}],"name":"editClaimWindows","outputs":[],"stateMutability":"nonpayable"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_evoNums","internalType":"uint256[]","type":"uint256[]"},{"name":"_numTokensNeeded","internalType":"uint256[]","type":"uint256[]"},{"name":"_startWindows","internalType":"uint256[]","type":"uint256[]"},{"name":"_endWindows","internalType":"uint256[]","type":"uint256[]"}],"name":"editEvoDataBatch","outputs":[],"stateMutability":"nonpayable"}]

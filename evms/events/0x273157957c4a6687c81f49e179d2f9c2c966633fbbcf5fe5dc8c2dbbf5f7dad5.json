@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"doer","internalType":"address","type":"address","indexed":false},{"name":"adminTaskId","internalType":"uint256","type":"uint256","indexed":false},{"name":"oldValue","internalType":"int256","type":"int256","indexed":false},{"name":"newValue","internalType":"int256","type":"int256","indexed":false}],"name":"StageChanged"}]

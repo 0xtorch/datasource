@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_startWindow","internalType":"uint256","type":"uint256"},{"name":"_endWindow","internalType":"uint256","type":"uint256"},{"name":"_price","internalType":"uint256","type":"uint256"},{"name":"_tokenUri","internalType":"string","type":"string"}],"name":"addPod","outputs":[],"stateMutability":"nonpayable"}]

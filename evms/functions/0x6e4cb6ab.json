@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_contractAddresses","internalType":"address[]","type":"address[]"},{"name":"_tokens","internalType":"uint256[]","type":"uint256[]"}],"name":"hasTokenMintedBatch","outputs":[{"name":"","internalType":"bool[]","type":"bool[]"}],"stateMutability":"view"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_proofs","internalType":"bytes32[][]","type":"bytes32[][]"},{"name":"_holder","internalType":"address","type":"address"}],"name":"calculateReward","outputs":[{"name":"","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

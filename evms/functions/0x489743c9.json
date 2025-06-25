@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"salt","internalType":"string","type":"string"},{"name":"token","internalType":"bytes","type":"bytes"},{"name":"amount","internalType":"uint16","type":"uint16"}],"name":"publicMint","outputs":[],"stateMutability":"nonpayable"}]

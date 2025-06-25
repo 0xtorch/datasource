@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_requestConfirmations","internalType":"uint16","type":"uint16"}],"name":"setRequestConfirmations","outputs":[],"stateMutability":"nonpayable"}]

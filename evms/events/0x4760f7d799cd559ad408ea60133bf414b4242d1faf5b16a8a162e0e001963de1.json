@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"doer","internalType":"address","type":"address","indexed":false},{"name":"adminTaskId","internalType":"uint256","type":"uint256","indexed":false},{"name":"newValue","internalType":"string","type":"string","indexed":false}],"name":"DefaultTokenURIChanged"}]

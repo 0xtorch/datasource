@@ -1,0 +1,1 @@
+[{"type":"function","constant":false,"inputs":[{"name":"_beneficiaries","internalType":"address[]","type":"address[]"},{"name":"_wearableIds","internalType":"bytes32[]","type":"bytes32[]"}],"name":"issueTokens","outputs":[],"payable":false,"stateMutability":"nonpayable"}]

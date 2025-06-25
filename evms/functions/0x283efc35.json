@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"","internalType":"enum FroggyFriends.Boost","type":"uint8"}],"name":"boostRate","outputs":[{"name":"","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

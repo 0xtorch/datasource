@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"windows","internalType":"struct PunksThreeVRF.Window[]","type":"tuple[]","components":[{"name":"startWindow","internalType":"uint128","type":"uint128"},{"name":"endWindow","internalType":"uint128","type":"uint128"}]}],"name":"addStages","outputs":[],"stateMutability":"nonpayable"}]

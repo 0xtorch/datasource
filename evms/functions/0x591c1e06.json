@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_primaryTokenIds","internalType":"uint256[]","type":"uint256[]"},{"name":"_targetEvoNum","internalType":"uint256","type":"uint256"},{"name":"_tokenIdsToBurn","internalType":"uint256[]","type":"uint256[]"}],"name":"upgradeMultiple","outputs":[],"stateMutability":"nonpayable"}]

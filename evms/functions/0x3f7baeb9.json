@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"rootDomainId","internalType":"uint256","type":"uint256"},{"name":"registrar","internalType":"address","type":"address"}],"name":"addRegistrar","outputs":[],"stateMutability":"nonpayable"}]
