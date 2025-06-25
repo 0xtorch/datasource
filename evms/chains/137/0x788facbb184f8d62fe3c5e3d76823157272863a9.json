@@ -1,0 +1,5 @@
+{
+  "address": "0x788facbb184f8d62fe3c5e3d76823157272863a9",
+  "label": "BeaconProxy",
+  "abi": "[{\"inputs\":[{\"internalType\":\"address\",\"name\":\"beacon\",\"type\":\"address\"},{\"internalType\":\"bytes\",\"name\":\"data\",\"type\":\"bytes\"}],\"stateMutability\":\"payable\",\"type\":\"constructor\"},{\"stateMutability\":\"payable\",\"type\":\"fallback\"},{\"stateMutability\":\"payable\",\"type\":\"receive\"}]"
+}
