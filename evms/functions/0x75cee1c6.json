@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_newBaseURI","internalType":"string","type":"string"},{"name":"_freezeAllTokenUris","internalType":"bool","type":"bool"}],"name":"update","outputs":[],"stateMutability":"nonpayable"}]

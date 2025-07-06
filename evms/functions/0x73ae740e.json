@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"sender","internalType":"address","type":"address"},{"name":"addrRecipients","internalType":"address[]","type":"address[]"},{"name":"vals","internalType":"uint256[]","type":"uint256[]"}],"name":"multisendFrom","outputs":[],"stateMutability":"nonpayable"}]

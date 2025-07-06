@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"wall","internalType":"struct PinLink.TaxWallet","type":"tuple","components":[{"name":"wallet","internalType":"address","type":"address"},{"name":"ratio","internalType":"uint32","type":"uint32"}]}],"name":"addTaxWallet","outputs":[],"stateMutability":"nonpayable"}]

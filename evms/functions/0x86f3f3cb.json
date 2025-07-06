@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[],"name":"getLPPair","outputs":[{"name":"wethAddr","internalType":"address","type":"address"}],"stateMutability":"view"}]
