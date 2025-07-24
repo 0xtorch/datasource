@@ -1,7 +1,7 @@
 import { stringify } from '@0xtorch/core'
-import { API_ENDPOINT, PASSWORD, USERNAME } from './constants'
-import { z } from 'zod'
 import { AbiEvent } from 'abitype/zod'
+import { z } from 'zod'
+import { API_ENDPOINT, PASSWORD, USERNAME } from './constants'
 
 const filePathes = (process.env.FILES ?? '')
   .split(',')
