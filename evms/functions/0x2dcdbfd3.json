@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"tierNumber","internalType":"uint256","type":"uint256"},{"name":"totalPublicNodes","internalType":"uint256","type":"uint256"},{"name":"totalWhiteListNodes","internalType":"uint256","type":"uint256"},{"name":"tierPrice","internalType":"uint256","type":"uint256"}],"name":"setTier","outputs":[],"stateMutability":"nonpayable"}]

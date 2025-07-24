@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"_oldCCManager","internalType":"address","type":"address","indexed":false},{"name":"_newCCManager","internalType":"address","type":"address","indexed":false}],"name":"CCManagerSet"}]

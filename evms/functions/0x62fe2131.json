@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"","internalType":"uint256","type":"uint256"}],"name":"artworkEditions","outputs":[{"name":"editionID","internalType":"uint256","type":"uint256"},{"name":"ipfsCID","internalType":"string","type":"string"}],"stateMutability":"view"}]

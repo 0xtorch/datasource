@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"newAddress","internalType":"address payable","type":"address"},{"name":"newBps","internalType":"uint256","type":"uint256"}],"name":"setRoyaltySplitter","outputs":[],"stateMutability":"nonpayable"}]

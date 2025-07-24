@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"orderID","internalType":"bytes32","type":"bytes32"},{"name":"secret","internalType":"bytes","type":"bytes"}],"name":"redeem","outputs":[],"stateMutability":"nonpayable"}]

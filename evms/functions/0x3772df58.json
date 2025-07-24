@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_eids","internalType":"uint32[]","type":"uint32[]"},{"name":"_peers","internalType":"bytes32[]","type":"bytes32[]"}],"name":"setPeers","outputs":[],"stateMutability":"nonpayable"}]

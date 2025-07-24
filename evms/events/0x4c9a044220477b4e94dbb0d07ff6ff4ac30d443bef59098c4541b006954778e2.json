@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"orderID","internalType":"bytes32","type":"bytes32","indexed":true},{"name":"secretHash","internalType":"bytes32","type":"bytes32","indexed":true},{"name":"secret","internalType":"bytes","type":"bytes","indexed":false}],"name":"Redeemed"}]

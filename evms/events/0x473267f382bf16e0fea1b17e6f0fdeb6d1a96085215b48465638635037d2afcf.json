@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"_transferHash","internalType":"bytes32","type":"bytes32","indexed":true},{"name":"_nonce","internalType":"uint256","type":"uint256","indexed":false},{"name":"_transferHashForNonce","internalType":"bytes32","type":"bytes32","indexed":false}],"name":"BulkTransferExecuted"}]
