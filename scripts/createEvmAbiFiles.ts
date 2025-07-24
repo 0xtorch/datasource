@@ -1,7 +1,7 @@
 import { readdir } from 'node:fs/promises'
 import { AbiEvent, AbiFunction } from 'abitype/zod'
-import type { z } from 'zod'
 import { toEventSelector, toFunctionSelector, toFunctionSignature } from 'viem'
+import type { z } from 'zod'
 
 type AbiEventType = z.infer<typeof AbiEvent>
 

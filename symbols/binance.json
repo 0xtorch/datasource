@@ -1,0 +1,16 @@
+{
+  "1INCH": "crypto/1inch",
+  "BCC": "crypto/0xtorch-binance-bcc",
+  "BCHABC": "crypto/bitcoin-cash",
+  "BCHSV": "crypto/bitcoin-cash-sv",
+  "COCOS": "crypto/cocos-bcx",
+  "GVT": "crypto/0xtorch-binance-gvt",
+  "KAIA": "crypto/kaia",
+  "KLAY": "crypto/klay-token",
+  "PAX": "crypto/paxos-standard",
+  "QSP": "crypto/0xtorch-binance-qsp",
+  "RNDR": "crypto/render-token",
+  "TOMO": "crypto/tomochain",
+  "TRIG": "crypto/0xtorch-binance-trig",
+  "VEN": "crypto/vechain"
+}

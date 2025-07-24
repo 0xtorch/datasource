@@ -2,6 +2,9 @@
   "name": "datasource",
   "type": "module",
   "module": "index.ts",
+  "scripts": {
+    "check": "biome check --write"
+  },
   "dependencies": {
     "@0xtorch/core": "^0.0.63",
     "@0xtorch/evm": "^0.0.131",
