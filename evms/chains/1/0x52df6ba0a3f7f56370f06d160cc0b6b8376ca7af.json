@@ -1,0 +1,5 @@
+{
+  "address": "0x52df6ba0a3f7f56370f06d160cc0b6b8376ca7af",
+  "label": "RecipientNFT",
+  "abi": "[{\"inputs\":[],\"stateMutability\":\"nonpayable\",\"type\":\"constructor\"},{\"stateMutability\":\"payable\",\"type\":\"fallback\"},{\"stateMutability\":\"payable\",\"type\":\"receive\"}]"
+}
