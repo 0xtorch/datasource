@@ -1,0 +1,5 @@
+{
+  "address": "0xcb84d512f0c9943d3bc6b4be8801ac8aa6621a54",
+  "label": "Rubyscore_Vote",
+  "abi": "[{\"stateMutability\":\"payable\",\"type\":\"fallback\"},{\"inputs\":[],\"name\":\"vote\",\"outputs\":[],\"stateMutability\":\"payable\",\"type\":\"function\"}]"
+}
