@@ -1,0 +1,5 @@
+{
+  "address": "0x8d5cc3db88b700e951b50cad479216ca7389a00e",
+  "label": "SimpleProxy",
+  "abi": "[{\"inputs\":[{\"internalType\":\"address\",\"name\":\"implementation_\",\"type\":\"address\"}],\"stateMutability\":\"nonpayable\",\"type\":\"constructor\"},{\"stateMutability\":\"payable\",\"type\":\"fallback\"},{\"stateMutability\":\"payable\",\"type\":\"receive\"}]"
+}
