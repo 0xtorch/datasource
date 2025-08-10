@@ -1,0 +1,5 @@
+{
+  "address": "0x3dc10fdc795ddbe4ff97b6305b2dc90deabc9f1f",
+  "label": "RandomNumberGenerator",
+  "abi": "[{\"inputs\":[],\"name\":\"getRandomNumber\",\"outputs\":[{\"internalType\":\"uint256\",\"name\":\"\",\"type\":\"uint256\"}],\"stateMutability\":\"nonpayable\",\"type\":\"function\"}]"
+}
