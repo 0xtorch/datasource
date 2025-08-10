@@ -1,0 +1,5 @@
+{
+  "address": "0x864eda9aedae4900cf09c8f3138118ca7e61eb4e",
+  "label": "UnisocksFi",
+  "abi": "[{\"inputs\":[],\"stateMutability\":\"nonpayable\",\"type\":\"constructor\"},{\"stateMutability\":\"payable\",\"type\":\"fallback\"},{\"stateMutability\":\"payable\",\"type\":\"receive\"}]"
+}
