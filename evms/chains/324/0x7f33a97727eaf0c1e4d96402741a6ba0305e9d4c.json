@@ -1,0 +1,5 @@
+{
+  "address": "0x7f33a97727eaf0c1e4d96402741a6ba0305e9d4c",
+  "label": "GnosisSafeProxy",
+  "abi": "[{\"inputs\":[{\"internalType\":\"address\",\"name\":\"_singleton\",\"type\":\"address\"}],\"stateMutability\":\"nonpayable\",\"type\":\"constructor\"},{\"stateMutability\":\"payable\",\"type\":\"fallback\"}]"
+}
