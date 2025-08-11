@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_tokenId","internalType":"uint256","type":"uint256"},{"name":"_amount","internalType":"uint256","type":"uint256"}],"name":"Split","outputs":[{"name":"_tokenId1","internalType":"uint256","type":"uint256"},{"name":"_tokenId2","internalType":"uint256","type":"uint256"}],"stateMutability":"nonpayable"}]

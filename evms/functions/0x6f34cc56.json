@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"referrer","internalType":"address","type":"address"}],"name":"checkReferrerActive","outputs":[{"name":"","internalType":"bool","type":"bool"}],"stateMutability":"view"}]

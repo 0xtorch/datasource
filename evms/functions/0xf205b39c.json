@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_stableRateSlope1","internalType":"uint256","type":"uint256"},{"name":"_stableRateSlope2","internalType":"uint256","type":"uint256"}],"name":"setStableRateSlope","outputs":[],"stateMutability":"nonpayable"}]

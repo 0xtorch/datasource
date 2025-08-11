@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_tokenId","internalType":"uint256","type":"uint256"},{"name":"_permission","internalType":"enum IProjectToken.EvolutionPermission","type":"uint8"}],"name":"setEvolutionPermission","outputs":[],"stateMutability":"nonpayable"}]

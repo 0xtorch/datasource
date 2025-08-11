@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_zns","internalType":"contract ZNS","type":"address"},{"name":"wrapperAddress","internalType":"contract INameWrapper","type":"address"}],"name":"__PublicResolver_i","outputs":[],"stateMutability":"nonpayable"}]

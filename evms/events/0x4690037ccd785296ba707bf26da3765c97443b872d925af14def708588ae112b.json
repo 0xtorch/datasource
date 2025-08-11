@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"previousStakeLockupPeriod","internalType":"uint256","type":"uint256","indexed":false},{"name":"newStakeLockupPeriod","internalType":"uint256","type":"uint256","indexed":false}],"name":"StakeLockupPeriodSet"}]

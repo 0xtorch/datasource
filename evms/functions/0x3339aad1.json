@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"pool","internalType":"contract IPool","type":"address"},{"name":"binIds","internalType":"uint128[]","type":"uint128[]"},{"name":"maxRecursion","internalType":"uint32","type":"uint32"},{"name":"deadline","internalType":"uint256","type":"uint256"}],"name":"migrateBinsUpStack","outputs":[],"stateMutability":"nonpayable"}]

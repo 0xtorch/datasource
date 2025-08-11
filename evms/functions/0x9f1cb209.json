@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_emergencyRepayEnabled","internalType":"bool","type":"bool"}],"name":"setEmergencyRepay","outputs":[],"stateMutability":"nonpayable"}]

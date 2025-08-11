@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_actionPoolRewards","internalType":"address","type":"address"},{"name":"_piddeposit","internalType":"uint256","type":"uint256"}],"name":"setRewardsDepositPool","outputs":[],"stateMutability":"nonpayable"}]

@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"from","internalType":"address","type":"address","indexed":true},{"name":"nonce","internalType":"uint256","type":"uint256","indexed":false},{"name":"aryTime","internalType":"uint256[]","type":"uint256[]","indexed":false},{"name":"aryAmount","internalType":"uint256[]","type":"uint256[]","indexed":false}],"name":"evStake"}]

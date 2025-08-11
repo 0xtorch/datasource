@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"baseAmt","internalType":"uint256","type":"uint256"},{"name":"rewardAmt","internalType":"uint256","type":"uint256"}],"name":"depositFromStaking","outputs":[],"stateMutability":"payable"}]

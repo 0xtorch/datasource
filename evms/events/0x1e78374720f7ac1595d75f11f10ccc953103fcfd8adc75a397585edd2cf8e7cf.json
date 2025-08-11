@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"metadata","internalType":"contract IPositionMetadata","type":"address","indexed":false}],"name":"SetMetadata"}]

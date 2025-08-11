@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_assetId","internalType":"bytes32","type":"bytes32"},{"name":"_originToken","internalType":"address","type":"address"},{"name":"_data","internalType":"bytes","type":"bytes"}],"name":"bridgeInitialize","outputs":[],"stateMutability":"nonpayable"}]

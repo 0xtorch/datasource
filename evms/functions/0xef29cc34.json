@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"token","internalType":"address","type":"address"},{"name":"capBal","internalType":"uint192","type":"uint192"}],"name":"setCapBal","outputs":[],"stateMutability":"nonpayable"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"node","internalType":"bytes32","type":"bytes32"},{"name":"logo","internalType":"string","type":"string"}],"name":"setLogo","outputs":[],"stateMutability":"nonpayable"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"bases","internalType":"address[]","type":"address[]"},{"name":"newPrices","internalType":"uint128[]","type":"uint128[]"},{"name":"_ts","internalType":"uint256","type":"uint256"}],"name":"postPriceList","outputs":[],"stateMutability":"nonpayable"}]

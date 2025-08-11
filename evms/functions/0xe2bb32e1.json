@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_claimContract","internalType":"address","type":"address"},{"name":"_canClaim","internalType":"bool","type":"bool"}],"name":"updateClaimCapability","outputs":[],"stateMutability":"nonpayable"}]

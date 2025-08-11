@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"githubLeaf","internalType":"bytes32","type":"bytes32"}],"name":"githubLeafClaimed","outputs":[{"name":"isGithubLeafClaimed","internalType":"bool","type":"bool"}],"stateMutability":"view"}]

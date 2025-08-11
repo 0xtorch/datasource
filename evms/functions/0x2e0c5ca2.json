@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"rewardIdx","internalType":"uint256","type":"uint256"},{"name":"provider","internalType":"address","type":"address"}],"name":"modifyProvider","outputs":[],"stateMutability":"nonpayable"}]

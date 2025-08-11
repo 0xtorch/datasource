@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"asset","internalType":"address","type":"address"},{"name":"extraRate","internalType":"uint256","type":"uint256"}],"name":"setLiquidationRate","outputs":[],"stateMutability":"nonpayable"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"tokenToRecover","internalType":"address","type":"address"},{"name":"tokenAmount","internalType":"uint256","type":"uint256"}],"name":"recoverErc20","outputs":[],"stateMutability":"nonpayable"}]

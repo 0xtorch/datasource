@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_users","internalType":"address[]","type":"address[]"},{"name":"_phase","internalType":"enum Frens.MintPhase","type":"uint8"},{"name":"_allowances","internalType":"uint32[]","type":"uint32[]"}],"name":"setUserPhaseAllowances","outputs":[],"stateMutability":"nonpayable"}]

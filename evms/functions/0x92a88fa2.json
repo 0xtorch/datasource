@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"","internalType":"address","type":"address"}],"name":"traders","outputs":[{"name":"leverageUnlocked","internalType":"uint256","type":"uint256"},{"name":"referral","internalType":"address","type":"address"},{"name":"referralRewardsTotal","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

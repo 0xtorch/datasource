@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"user","internalType":"address","type":"address","indexed":true},{"name":"startDecayTime","internalType":"uint64","type":"uint64","indexed":false}],"name":"StartDecayTimeUpdated"}]

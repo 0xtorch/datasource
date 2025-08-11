@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_zns","internalType":"contract ZNS","type":"address"},{"name":"_baseNode","internalType":"bytes32","type":"bytes32"},{"name":"_baseName","internalType":"string","type":"string"}],"name":"__BaseRegistrarImplementation_i","outputs":[],"stateMutability":"nonpayable"}]

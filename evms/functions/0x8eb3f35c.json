@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"token","internalType":"address","type":"address"},{"name":"newManager","internalType":"address","type":"address"}],"name":"updateIncentiveManager","outputs":[],"stateMutability":"nonpayable"}]

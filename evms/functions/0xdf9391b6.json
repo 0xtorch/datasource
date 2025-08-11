@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"tokenIds","internalType":"uint256[]","type":"uint256[]"},{"name":"referralCodes","internalType":"string[]","type":"string[]"},{"name":"referrerCodes","internalType":"string[]","type":"string[]"}],"name":"setScoresWithoutVerificationByTokenIds","outputs":[],"stateMutability":"nonpayable"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"blackhole_","internalType":"address","type":"address"},{"name":"ban_","internalType":"bool","type":"bool"}],"name":"setBlackhole","outputs":[],"stateMutability":"nonpayable"}]

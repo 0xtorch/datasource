@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"sender","internalType":"address","type":"address"}],"name":"approvedSenders","outputs":[{"name":"validUntil","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

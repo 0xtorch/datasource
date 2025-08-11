@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"prevPool","internalType":"contract IPoolPriorTo1_5","type":"address"}],"name":"setPreviousPool","outputs":[],"stateMutability":"nonpayable"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_from","internalType":"address","type":"address"},{"name":"_pairIndex","internalType":"uint256","type":"uint256"},{"name":"_leveragedPosUsdc","internalType":"uint256","type":"uint256"}],"name":"transferLinkToAggregator","outputs":[],"stateMutability":"nonpayable"}]

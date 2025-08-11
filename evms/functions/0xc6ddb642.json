@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"","internalType":"address","type":"address"}],"name":"infos","outputs":[{"name":"price","internalType":"uint128","type":"uint128"},{"name":"coeff","internalType":"uint64","type":"uint64"},{"name":"spread","internalType":"uint64","type":"uint64"}],"stateMutability":"view"}]

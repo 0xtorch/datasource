@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"","internalType":"address","type":"address"},{"name":"","internalType":"uint256","type":"uint256"}],"name":"xTickets","outputs":[{"name":"claimed","internalType":"uint256","type":"uint256"},{"name":"claimable","internalType":"uint256","type":"uint256"},{"name":"claimTime","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

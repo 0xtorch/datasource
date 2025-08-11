@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"tevans","internalType":"address[]","type":"address[]"},{"name":"amounts","internalType":"uint256[]","type":"uint256[]"}],"name":"sync","outputs":[],"stateMutability":"nonpayable"}]

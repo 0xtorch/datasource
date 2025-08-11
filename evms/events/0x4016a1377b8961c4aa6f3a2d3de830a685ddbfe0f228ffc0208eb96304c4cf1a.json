@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"mode","internalType":"enum OperatingMode","type":"uint8","indexed":false}],"name":"OperatingModeChanged"}]

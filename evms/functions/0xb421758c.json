@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"campaignId","internalType":"uint256","type":"uint256"}],"name":"getWinningTickIds","outputs":[{"name":"","internalType":"uint256[]","type":"uint256[]"}],"stateMutability":"view"}]

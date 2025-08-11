@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"receiver","internalType":"address","type":"address"},{"name":"token","internalType":"address","type":"address"},{"name":"indices","internalType":"uint256[]","type":"uint256[]"}],"name":"finaliseQueuedWithdrawalsAggregated","outputs":[],"stateMutability":"nonpayable"}]

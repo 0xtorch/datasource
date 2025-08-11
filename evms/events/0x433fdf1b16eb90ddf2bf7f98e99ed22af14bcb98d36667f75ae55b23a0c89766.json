@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"platformFeeRecipient","internalType":"address","type":"address","indexed":true},{"name":"tevanPlatformFeeBps","internalType":"uint256","type":"uint256","indexed":false},{"name":"nonTevanPlatformFeeBps","internalType":"uint256","type":"uint256","indexed":false}],"name":"PlatformFeeInfoUpdated"}]

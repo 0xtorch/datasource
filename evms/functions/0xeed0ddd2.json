@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_bid","internalType":"uint256","type":"uint256"}],"name":"pendingBorrowRewards","outputs":[{"name":"value","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

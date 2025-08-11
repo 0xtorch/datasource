@@ -1,0 +1,1 @@
+[{"type":"function","constant":false,"inputs":[{"name":"new_bindAddr","internalType":"address","type":"address"}],"name":"setBindAddr","outputs":[],"payable":false,"stateMutability":"nonpayable"}]

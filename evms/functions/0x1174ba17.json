@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"addressLeaf","internalType":"bytes32","type":"bytes32"}],"name":"addressLeafClaimed","outputs":[{"name":"isAddressLeafClaimed","internalType":"bool","type":"bool"}],"stateMutability":"view"}]

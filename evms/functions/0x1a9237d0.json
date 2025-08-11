@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"badgeId","internalType":"uint256","type":"uint256"},{"name":"root","internalType":"bytes32","type":"bytes32"}],"name":"isValidRootForBadgeId","outputs":[{"name":"isSet","internalType":"bool","type":"bool"}],"stateMutability":"view"}]

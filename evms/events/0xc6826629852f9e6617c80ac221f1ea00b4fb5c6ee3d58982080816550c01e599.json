@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"previousReceiver","internalType":"address","type":"address","indexed":true},{"name":"newReceiver","internalType":"address","type":"address","indexed":true}],"name":"EthReceiverUpdated"}]

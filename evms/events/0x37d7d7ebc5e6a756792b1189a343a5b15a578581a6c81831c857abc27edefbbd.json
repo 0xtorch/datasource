@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"oldRootBridge","internalType":"address","type":"address","indexed":true},{"name":"newRootBridge","internalType":"address","type":"address","indexed":true}],"name":"RootBridgeUpdated"}]

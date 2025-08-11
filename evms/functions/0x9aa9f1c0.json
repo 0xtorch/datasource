@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_masterPool","internalType":"address","type":"address"},{"name":"_weth","internalType":"address","type":"address"}],"name":"setMasterPool","outputs":[],"stateMutability":"nonpayable"}]

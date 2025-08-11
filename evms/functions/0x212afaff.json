@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"tokenID","internalType":"uint8","type":"uint8"},{"name":"amount","internalType":"uint256","type":"uint256"},{"name":"recipientAddress","internalType":"bytes","type":"bytes"},{"name":"destinationChainID","internalType":"uint8","type":"uint8"}],"name":"bridgeERC20","outputs":[],"stateMutability":"nonpayable"}]

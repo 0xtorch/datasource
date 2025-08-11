@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"xcpProfit","internalType":"uint256","type":"uint256","indexed":false},{"name":"virtualPrice","internalType":"uint256","type":"uint256","indexed":false}],"name":"UpdatePoolProfit"}]

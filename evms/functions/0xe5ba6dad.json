@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[],"name":"getReservesAndParameters","outputs":[{"name":"_reserve0","internalType":"uint112","type":"uint112"},{"name":"_reserve1","internalType":"uint112","type":"uint112"},{"name":"_swapFee","internalType":"uint16","type":"uint16"}],"stateMutability":"view"}]

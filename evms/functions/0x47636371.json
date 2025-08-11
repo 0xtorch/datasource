@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[],"name":"emissionId","outputs":[{"name":"debt","internalType":"uint16","type":"uint16"},{"name":"minting","internalType":"uint16","type":"uint16"}],"stateMutability":"view"}]

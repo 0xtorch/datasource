@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"troveManager","internalType":"contract ITroveManager","type":"address","indexed":false},{"name":"collateralToken","internalType":"contract IERC20","type":"address","indexed":false}],"name":"CollateralConfigured"}]

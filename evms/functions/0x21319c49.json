@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_max","internalType":"uint8","type":"uint8"}],"name":"setPicMax","outputs":[{"name":"success","internalType":"bool","type":"bool"}],"stateMutability":"nonpayable"}]

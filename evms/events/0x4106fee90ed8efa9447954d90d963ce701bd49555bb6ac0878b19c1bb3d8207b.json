@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"childChain","internalType":"string","type":"string","indexed":true},{"name":"childBridgeAdaptor","internalType":"string","type":"string","indexed":true},{"name":"payload","internalType":"bytes","type":"bytes","indexed":true}],"name":"AxelarMessageSent"}]

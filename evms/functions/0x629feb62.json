@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"collateral","internalType":"address","type":"address"},{"name":"xFee","internalType":"uint64[]","type":"uint64[]"},{"name":"yFee","internalType":"int64[]","type":"int64[]"},{"name":"mint","internalType":"bool","type":"bool"}],"name":"setFees","outputs":[],"stateMutability":"nonpayable"}]

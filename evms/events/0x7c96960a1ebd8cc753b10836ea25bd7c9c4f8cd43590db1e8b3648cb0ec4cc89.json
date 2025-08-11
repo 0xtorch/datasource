@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"agentID","internalType":"bytes32","type":"bytes32","indexed":false},{"name":"agent","internalType":"address","type":"address","indexed":false}],"name":"AgentCreated"}]

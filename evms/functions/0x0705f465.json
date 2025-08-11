@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"channelID","internalType":"ChannelID","type":"bytes32"}],"name":"channelOperatingModeOf","outputs":[{"name":"","internalType":"enum OperatingMode","type":"uint8"}],"stateMutability":"view"}]

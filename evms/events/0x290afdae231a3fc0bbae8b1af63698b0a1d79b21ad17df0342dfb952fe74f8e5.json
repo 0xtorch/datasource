@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"deployerAddress","internalType":"address","type":"address","indexed":true},{"name":"bytecodeHash","internalType":"bytes32","type":"bytes32","indexed":true},{"name":"contractAddress","internalType":"address","type":"address","indexed":true}],"name":"ContractDeployed"}]

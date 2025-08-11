@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[],"name":"rewardRateAll","outputs":[{"name":"cts","internalType":"address[]","type":"address[]"},{"name":"supplies","internalType":"uint256[]","type":"uint256[]"},{"name":"borrows","internalType":"uint256[]","type":"uint256[]"}],"stateMutability":"nonpayable"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_waiveAddr","internalType":"address","type":"address"}],"name":"delWaiveAddr","outputs":[{"name":"","internalType":"bool","type":"bool"}],"stateMutability":"nonpayable"}]

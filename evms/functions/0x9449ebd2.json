@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"recipientAddress","internalType":"bytes","type":"bytes"},{"name":"destinationChainID","internalType":"uint8","type":"uint8"}],"name":"bridgeETH","outputs":[],"stateMutability":"payable"}]

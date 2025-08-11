@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"referrer","internalType":"address","type":"address"},{"name":"ally","internalType":"address","type":"address"}],"name":"whitelistReferrer","outputs":[],"stateMutability":"nonpayable"}]

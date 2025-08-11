@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"actor","internalType":"address","type":"address"}],"name":"canPause","outputs":[{"name":"","internalType":"bool","type":"bool"}],"stateMutability":"view"}]

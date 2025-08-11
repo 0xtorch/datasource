@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"borrower","internalType":"address","type":"address"},{"name":"collSurplus","internalType":"uint256","type":"uint256"}],"name":"addCollateralSurplus","outputs":[],"stateMutability":"nonpayable"}]

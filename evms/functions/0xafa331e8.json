@@ -1,0 +1,1 @@
+[{"type":"function","constant":true,"inputs":[{"name":"indx","type":"uint256"}],"name":"getNFTRecord","outputs":[{"name":"tid","type":"uint256"},{"name":"_from","type":"address"},{"name":"_to","type":"address"},{"name":"_ipfs","type":"string"}],"payable":false,"stateMutability":"view"}]

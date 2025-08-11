@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_amount","internalType":"uint256","type":"uint256"},{"name":"_orderId","internalType":"uint256","type":"uint256"}],"name":"payMainTokenV2","outputs":[],"stateMutability":"payable"}]

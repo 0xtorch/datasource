@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"usdcVaultFeeP","internalType":"uint256","type":"uint256","indexed":false},{"name":"lpFeeP","internalType":"uint256","type":"uint256","indexed":false},{"name":"sssFeeP","internalType":"uint256","type":"uint256","indexed":false}],"name":"ClosingFeeSharesPUpdated"}]

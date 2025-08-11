@@ -1,0 +1,1 @@
+[{"type":"function","constant":false,"inputs":[{"name":"_to","type":"address"},{"name":"male","type":"bool"},{"name":"meta","type":"uint256"},{"name":"param1","type":"string"},{"name":"param2","type":"string"},{"name":"param3","type":"string"},{"name":"_uri","type":"string"}],"name":"mint","outputs":[],"payable":false,"stateMutability":"nonpayable"}]

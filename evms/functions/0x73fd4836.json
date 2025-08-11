@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_nonce","internalType":"uint256","type":"uint256"}],"name":"getSlotKey","outputs":[{"name":"","internalType":"bytes32","type":"bytes32"}],"stateMutability":"pure"}]

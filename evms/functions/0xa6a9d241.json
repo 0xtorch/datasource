@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"blackhole","internalType":"address","type":"address"}],"name":"isBlackhole","outputs":[{"name":"","internalType":"bool","type":"bool"}],"stateMutability":"view"}]

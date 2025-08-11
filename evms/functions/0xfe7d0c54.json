@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"sender","internalType":"address","type":"address"}],"name":"isTrustedSeller","outputs":[{"name":"","internalType":"bool","type":"bool"}],"stateMutability":"view"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"char","internalType":"bytes1","type":"bytes1"},{"name":"isNum","internalType":"bool","type":"bool"}],"name":"exists","outputs":[{"name":"","internalType":"bool","type":"bool"}],"stateMutability":"pure"}]

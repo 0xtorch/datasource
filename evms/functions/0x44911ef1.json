@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[],"name":"superQuestTypeProbs","outputs":[{"name":"uncommon","internalType":"uint256","type":"uint256"},{"name":"rare","internalType":"uint256","type":"uint256"},{"name":"legendary","internalType":"uint256","type":"uint256"},{"name":"mythical","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

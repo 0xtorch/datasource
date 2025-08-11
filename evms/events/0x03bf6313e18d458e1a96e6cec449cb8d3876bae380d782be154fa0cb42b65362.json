@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"fx","internalType":"uint256","type":"uint256","indexed":false},{"name":"creator","internalType":"uint256","type":"uint256","indexed":false}],"name":"FeeSplitUpdated"}]

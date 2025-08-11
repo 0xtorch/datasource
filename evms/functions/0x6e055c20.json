@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"node","internalType":"bytes32","type":"bytes32"},{"name":"logo","internalType":"string","type":"string"},{"name":"twitter","internalType":"string","type":"string"},{"name":"tg","internalType":"string","type":"string"},{"name":"dc","internalType":"string","type":"string"}],"name":"setSocial","outputs":[],"stateMutability":"nonpayable"}]

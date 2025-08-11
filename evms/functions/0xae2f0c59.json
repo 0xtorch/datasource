@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"epoch","internalType":"uint256","type":"uint256"},{"name":"milli","internalType":"uint256","type":"uint256"},{"name":"positive","internalType":"bool","type":"bool"}],"name":"rebaseByMilli","outputs":[{"name":"","internalType":"uint256","type":"uint256"}],"stateMutability":"nonpayable"}]

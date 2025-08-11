@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"troveManager","internalType":"contract ITroveManager","type":"address"}],"name":"removeTroveManager","outputs":[],"stateMutability":"nonpayable"}]

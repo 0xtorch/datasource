@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"nonces","internalType":"string[]","type":"string[]"}],"name":"getNonceUsedMultiple","outputs":[{"name":"","internalType":"bool[]","type":"bool[]"}],"stateMutability":"view"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"week","internalType":"uint256","type":"uint256"}],"name":"getTotalMints","outputs":[{"name":"","internalType":"uint32[7]","type":"uint32[7]"}],"stateMutability":"view"}]

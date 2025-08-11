@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"nfts","internalType":"contract NftInterfaceV5[5]","type":"address[5]","indexed":false}],"name":"NftsUpdated"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"payload","internalType":"bytes","type":"bytes"},{"name":"refundRecipient","internalType":"address","type":"address"}],"name":"sendMessage","outputs":[],"stateMutability":"payable"}]

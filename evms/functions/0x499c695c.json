@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"ethAmount","internalType":"uint256","type":"uint256"},{"name":"maxSlippage","internalType":"uint16","type":"uint16"}],"name":"createLiquidityPool","outputs":[],"stateMutability":"payable"}]

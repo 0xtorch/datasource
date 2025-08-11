@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"user","internalType":"address","type":"address"},{"name":"referrer","internalType":"address","type":"address"}],"name":"updateReferrer","outputs":[],"stateMutability":"nonpayable"}]

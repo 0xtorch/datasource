@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"lastRewardedBlock","internalType":"uint256","type":"uint256","indexed":false},{"name":"stakedAmount","internalType":"uint256","type":"uint256","indexed":false},{"name":"accumulatedRewardsPerShare","internalType":"uint256","type":"uint256","indexed":false}],"name":"UpdatePool"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_receiver","internalType":"address","type":"address"},{"name":"_flag","internalType":"bool","type":"bool"}],"name":"setReceiver","outputs":[],"stateMutability":"nonpayable"}]

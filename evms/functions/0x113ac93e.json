@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"recipient","internalType":"address","type":"address"},{"name":"kpAmount","internalType":"uint256","type":"uint256"}],"name":"buyForAddress","outputs":[],"stateMutability":"payable"}]

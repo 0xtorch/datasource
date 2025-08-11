@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"activeStakers","internalType":"address[]","type":"address[]"},{"name":"stakersAddress","internalType":"address[]","type":"address[]"},{"name":"stakersIndex","internalType":"uint256[]","type":"uint256[]"}],"name":"migrateOtherState","outputs":[],"stateMutability":"nonpayable"}]

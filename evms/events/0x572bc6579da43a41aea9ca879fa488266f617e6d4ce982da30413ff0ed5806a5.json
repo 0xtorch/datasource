@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"user","internalType":"address","type":"address","indexed":true},{"name":"flagAdmin","internalType":"bool","type":"bool","indexed":false},{"name":"flagGasSetter","internalType":"bool","type":"bool","indexed":false},{"name":"flagPauser","internalType":"bool","type":"bool","indexed":false}],"name":"UserPermissionUpdated"}]

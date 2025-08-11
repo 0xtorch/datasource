@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_zkErc20Bridge","internalType":"contract ZkBridgeLike","type":"address"}],"name":"setZkBridge","outputs":[],"stateMutability":"nonpayable"}]

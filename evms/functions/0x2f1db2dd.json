@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_badgeIds","internalType":"uint256[]","type":"uint256[]"},{"name":"_creators","internalType":"address[]","type":"address[]"}],"name":"setCreatorOfBadge","outputs":[],"stateMutability":"nonpayable"}]

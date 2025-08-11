@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"base","internalType":"address","type":"address"}],"name":"woCoeff","outputs":[{"name":"","internalType":"uint64","type":"uint64"}],"stateMutability":"view"}]

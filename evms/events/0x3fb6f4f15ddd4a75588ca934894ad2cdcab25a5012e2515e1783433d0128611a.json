@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"accountAddress","internalType":"address","type":"address","indexed":true},{"name":"aaVersion","internalType":"enumIContractDeployer.AccountAbstractionVersion","type":"uint8","indexed":false}],"name":"AccountVersionUpdated"}]

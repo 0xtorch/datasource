@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"sequenceNumber","internalType":"uint256","type":"uint256","indexed":true},{"name":"currentMerkleRoot","internalType":"bytes32","type":"bytes32","indexed":false},{"name":"updateTimestamp","internalType":"uint256","type":"uint256","indexed":false}],"name":"UpdateMerkleRoot"}]

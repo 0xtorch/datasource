@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_govFee","internalType":"uint256","type":"uint256"},{"name":"_usdc","internalType":"bool","type":"bool"}],"name":"chargeGovFees","outputs":[],"stateMutability":"nonpayable"}]

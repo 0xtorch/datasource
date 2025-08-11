@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"isMint","internalType":"bool","type":"bool"}],"name":"isBasketModeEnabled","outputs":[{"name":"basketMode","internalType":"bool","type":"bool"}],"stateMutability":"view"}]

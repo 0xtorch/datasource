@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"projectName","internalType":"string","type":"string"},{"name":"projectInfoUrl","internalType":"string","type":"string"}],"name":"addProject","outputs":[],"stateMutability":"payable"}]

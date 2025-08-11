@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_chainIds","internalType":"uint8[]","type":"uint8[]"}],"name":"getDestinationChainsValue","outputs":[{"name":"destinationChains","internalType":"uint256","type":"uint256"}],"stateMutability":"pure"}]

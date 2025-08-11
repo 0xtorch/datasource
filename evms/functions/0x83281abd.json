@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_balancerDragon","internalType":"contract BalancerDragonV1","type":"address"}],"name":"setBalancerDragon","outputs":[],"stateMutability":"nonpayable"}]

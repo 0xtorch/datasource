@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"asset","internalType":"address","type":"address"},{"name":"mintRate","internalType":"uint256","type":"uint256"}],"name":"setMintRate","outputs":[],"stateMutability":"nonpayable"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_hasPoolLimit","internalType":"bool","type":"bool"},{"name":"_poolCap","internalType":"uint256","type":"uint256"}],"name":"updatePoolCap","outputs":[],"stateMutability":"nonpayable"}]

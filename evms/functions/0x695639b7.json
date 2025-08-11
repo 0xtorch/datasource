@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[],"name":"getProtocolFeeInfo","outputs":[{"name":"feeRecipient","internalType":"address","type":"address"},{"name":"feeBps","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

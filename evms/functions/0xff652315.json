@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"tier","internalType":"enum ZeekNft.Tier","type":"uint8"},{"name":"newMerkleRoot","internalType":"bytes32","type":"bytes32"}],"name":"setMerkle","outputs":[],"stateMutability":"nonpayable"}]

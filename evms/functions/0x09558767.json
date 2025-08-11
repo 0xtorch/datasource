@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"winningTickets","internalType":"uint256[]","type":"uint256[]"}],"name":"pickWinnersWithArray","outputs":[],"stateMutability":"nonpayable"}]

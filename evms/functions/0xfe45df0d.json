@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"request","internalType":"bytes32","type":"bytes32"}],"name":"getWithdrawalAmounts","outputs":[{"name":"total","internalType":"uint256","type":"uint256"},{"name":"penalty","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"resolver","internalType":"address","type":"address"},{"name":"name","internalType":"string","type":"string"}],"name":"getRecommend","outputs":[{"name":"addr","internalType":"address","type":"address"}],"stateMutability":"view"}]

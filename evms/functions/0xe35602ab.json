@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_index","internalType":"uint256","type":"uint256"},{"name":"_layers","internalType":"struct ZKPENGZ.Layer[]","type":"tuple[]","components":[{"name":"layerName","internalType":"string","type":"string"},{"name":"pixels","internalType":"string","type":"string"}]}],"name":"addLayerType","outputs":[],"stateMutability":"nonpayable"}]

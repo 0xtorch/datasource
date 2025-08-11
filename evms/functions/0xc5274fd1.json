@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_amountAirdrop","internalType":"uint256","type":"uint256"},{"name":"_amountPresale","internalType":"uint256","type":"uint256"},{"name":"_amountSale","internalType":"uint256","type":"uint256"}],"name":"setAirdropSettings","outputs":[],"stateMutability":"nonpayable"}]

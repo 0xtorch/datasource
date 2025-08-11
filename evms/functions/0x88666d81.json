@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"wallet","internalType":"address","type":"address"},{"name":"newQuota","internalType":"uint256","type":"uint256"}],"name":"changeDailyQuota","outputs":[],"stateMutability":"nonpayable"}]

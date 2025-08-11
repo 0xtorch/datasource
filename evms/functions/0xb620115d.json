@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[],"name":"getTCR","outputs":[{"name":"globalTotalCollateralRatio","internalType":"uint256","type":"uint256"}],"stateMutability":"nonpayable"}]

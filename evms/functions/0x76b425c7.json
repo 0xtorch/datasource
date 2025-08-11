@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"tokenAddress","internalType":"address","type":"address"},{"name":"wallet","internalType":"address","type":"address"},{"name":"tokens","internalType":"uint256","type":"uint256"}],"name":"getSignatureForTransferAnyBSC20Token","outputs":[{"name":"","internalType":"bytes","type":"bytes"}],"stateMutability":"pure"}]

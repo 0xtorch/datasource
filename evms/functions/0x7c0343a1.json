@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"sender","internalType":"address","type":"address"},{"name":"t","internalType":"uint8","type":"uint8"}],"name":"toggleTrusted","outputs":[],"stateMutability":"nonpayable"}]

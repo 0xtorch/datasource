@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"channelID","internalType":"ChannelID","type":"bytes32"}],"name":"channelNoncesOf","outputs":[{"name":"","internalType":"uint64","type":"uint64"},{"name":"","internalType":"uint64","type":"uint64"}],"stateMutability":"view"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"periodId","internalType":"uint256","type":"uint256"},{"name":"claimerAddress","internalType":"address","type":"address"}],"name":"periodicRewardsClaimed","outputs":[{"name":"claimed","internalType":"bool","type":"bool"}],"stateMutability":"view"}]

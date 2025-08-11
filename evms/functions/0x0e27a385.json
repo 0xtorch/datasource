@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_blockedUser","internalType":"address","type":"address"}],"name":"destroyBlockedFunds","outputs":[],"stateMutability":"nonpayable"}]

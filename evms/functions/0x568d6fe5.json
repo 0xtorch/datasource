@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"","internalType":"contract ITroveManager","type":"address"}],"name":"troveManagersData","outputs":[{"name":"collateralToken","internalType":"contract IERC20","type":"address"},{"name":"index","internalType":"uint16","type":"uint16"}],"stateMutability":"view"}]

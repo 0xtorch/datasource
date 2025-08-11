@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"validatorId","internalType":"uint256","type":"uint256"},{"name":"claimerAddress","internalType":"address","type":"address"},{"name":"lieutenantAddr","internalType":"address","type":"address"},{"name":"karatScore","internalType":"uint256","type":"uint256"}],"name":"updateClaimerReward","outputs":[],"stateMutability":"nonpayable"}]

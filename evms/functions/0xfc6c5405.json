@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"reward","internalType":"address","type":"address"},{"name":"rewardId","internalType":"uint256","type":"uint256"},{"name":"amount","internalType":"uint256","type":"uint256"},{"name":"rewardsDuration","internalType":"uint256","type":"uint256"}],"name":"depositReward","outputs":[],"stateMutability":"nonpayable"}]

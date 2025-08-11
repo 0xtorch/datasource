@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"previousWithdrawalRequestCooldownPeriod","internalType":"uint256","type":"uint256","indexed":false},{"name":"newWithdrawalRequestCooldownPeriod","internalType":"uint256","type":"uint256","indexed":false}],"name":"WithdrawalRequestCooldownPeriodSet"}]

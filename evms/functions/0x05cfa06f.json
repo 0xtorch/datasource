@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"profileAddress","internalType":"address","type":"address"}],"name":"profileExists","outputs":[{"name":"exists","internalType":"bool","type":"bool"}],"stateMutability":"view"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"wallets","internalType":"string[]","type":"string[]"}],"name":"checkWallets","outputs":[{"name":"","internalType":"bool[]","type":"bool[]"}],"stateMutability":"view"}]

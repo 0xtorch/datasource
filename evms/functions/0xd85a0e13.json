@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_bank","internalType":"address","type":"address"},{"name":"_cToken","internalType":"address","type":"address"},{"name":"_devAddr","internalType":"address","type":"address"}],"name":"__SafeBoxFoxCToken_init","outputs":[],"stateMutability":"nonpayable"}]

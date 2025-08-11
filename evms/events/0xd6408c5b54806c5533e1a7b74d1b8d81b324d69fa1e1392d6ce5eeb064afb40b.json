@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"delManager","type":"address","indexed":true}],"name":"DelManager"}]

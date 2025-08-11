@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[],"name":"viewMetadata","outputs":[{"name":"total_reward","internalType":"uint256","type":"uint256"},{"name":"numer_stakes","internalType":"uint256","type":"uint256"},{"name":"total_dal_staked","internalType":"uint256","type":"uint256"},{"name":"total_lp_staked","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

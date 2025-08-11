@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"pairIndex","internalType":"uint256","type":"uint256"},{"name":"index","internalType":"uint256","type":"uint256"},{"name":"newTp","internalType":"uint256","type":"uint256"},{"name":"newSl","internalType":"uint256","type":"uint256"}],"name":"updateTPSL","outputs":[],"stateMutability":"nonpayable"}]

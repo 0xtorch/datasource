@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"oldPool","internalType":"contract IPoolPriorTo1_5","type":"address","indexed":false},{"name":"newPool","internalType":"contract IPoolPriorTo1_5","type":"address","indexed":false}],"name":"LegacyPoolChanged"}]

@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"totalAllocation","internalType":"uint256","type":"uint256","indexed":false},{"name":"claimStart","internalType":"uint256","type":"uint256","indexed":false}],"name":"AllocationSetupCompleted"}]

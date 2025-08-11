@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_startStakingBlock","internalType":"uint256","type":"uint256"},{"name":"_endStakingBlock","internalType":"uint256","type":"uint256"}],"name":"updateStakingBlocks","outputs":[],"stateMutability":"nonpayable"}]

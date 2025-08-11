@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"erc20Bridge","internalType":"address","type":"address","indexed":true},{"name":"oldErc20Bridge","internalType":"address","type":"address","indexed":true}],"name":"SetZkBridge"}]

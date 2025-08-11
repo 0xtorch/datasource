@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"previousCurrency","internalType":"address","type":"address","indexed":true},{"name":"newCurrency","internalType":"address","type":"address","indexed":true}],"name":"CurrentFeeCurrencyUpdated"}]

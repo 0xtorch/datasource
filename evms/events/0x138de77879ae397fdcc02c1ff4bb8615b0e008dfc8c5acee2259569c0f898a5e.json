@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"oldChildChain","internalType":"string","type":"string","indexed":true},{"name":"newChildChain","internalType":"string","type":"string","indexed":true}],"name":"ChildChainUpdated"}]

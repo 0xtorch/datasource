@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_caller","internalType":"address","type":"address"},{"name":"_wallet","internalType":"string","type":"string"}],"name":"generateTezWalletHash","outputs":[{"name":"","internalType":"bytes32","type":"bytes32"}],"stateMutability":"view"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"acct","internalType":"address","type":"address"},{"name":"isAdm","internalType":"bool","type":"bool"}],"name":"setReserveAdm","outputs":[],"stateMutability":"nonpayable"}]

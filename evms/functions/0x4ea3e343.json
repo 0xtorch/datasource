@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"collateral","internalType":"address","type":"address"}],"name":"getManagerData","outputs":[{"name":"","internalType":"bool","type":"bool"},{"name":"","internalType":"address[]","type":"address[]"},{"name":"","internalType":"bytes","type":"bytes"}],"stateMutability":"view"}]

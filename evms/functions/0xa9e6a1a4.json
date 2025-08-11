@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"collateral","internalType":"address","type":"address"},{"name":"pausedType","internalType":"uint8","type":"uint8"}],"name":"togglePause","outputs":[],"stateMutability":"nonpayable"}]

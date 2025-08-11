@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_hash","internalType":"bytes32","type":"bytes32"}],"name":"getMarker","outputs":[{"name":"marker","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

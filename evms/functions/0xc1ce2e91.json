@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"baseURI1","internalType":"string","type":"string"},{"name":"baseURI2","internalType":"string","type":"string"}],"name":"setBaseURIs","outputs":[],"stateMutability":"nonpayable"}]

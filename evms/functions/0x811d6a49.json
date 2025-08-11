@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_badgeIds","internalType":"uint256[]","type":"uint256[]"}],"name":"claimableRevenueOfBadges","outputs":[{"name":"","internalType":"uint256[]","type":"uint256[]"}],"stateMutability":"view"}]

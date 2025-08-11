@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"account","internalType":"address","type":"address"},{"name":"start","internalType":"uint256","type":"uint256"},{"name":"counts","internalType":"uint256","type":"uint256"}],"name":"indexedPairsRange","outputs":[{"name":"","internalType":"address[]","type":"address[]"}],"stateMutability":"view"}]

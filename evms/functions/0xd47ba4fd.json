@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[],"name":"viewExcessTokens","outputs":[{"name":"excessPandaTokens","internalType":"uint256","type":"uint256"},{"name":"excessBaseTokens","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

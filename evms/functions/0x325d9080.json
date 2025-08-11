@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"userClaimsAddress","internalType":"address","type":"address"}],"name":"userClaimMap","outputs":[{"name":"claimAmount","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[],"name":"emissionRates","outputs":[{"name":"tokens","internalType":"address[]","type":"address[]"},{"name":"rates","internalType":"uint256[]","type":"uint256[]"}],"stateMutability":"nonpayable"}]

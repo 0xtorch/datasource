@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"mintIndex","internalType":"uint256","type":"uint256","indexed":false},{"name":"hash","internalType":"uint256","type":"uint256","indexed":false}],"name":"MintedHash"}]

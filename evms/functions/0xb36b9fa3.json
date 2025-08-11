@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"tokenId","internalType":"uint256","type":"uint256"},{"name":"deltaNIZI","internalType":"uint256","type":"uint256"}],"name":"depositIZI","outputs":[],"stateMutability":"nonpayable"}]

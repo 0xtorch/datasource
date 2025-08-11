@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"nonces","internalType":"string[]","type":"string[]"},{"name":"tags","internalType":"string[]","type":"string[]"},{"name":"probSetNumber","internalType":"uint256","type":"uint256"},{"name":"signatures","internalType":"bytes[]","type":"bytes[]"}],"name":"nonceQuests","outputs":[],"stateMutability":"nonpayable"}]

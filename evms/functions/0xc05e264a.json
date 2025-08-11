@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_tokenId","internalType":"uint256","type":"uint256"},{"name":"_limit","internalType":"uint256","type":"uint256"}],"name":"getTokenLineage","outputs":[{"name":"lineage","internalType":"uint256[]","type":"uint256[]"},{"name":"owners","internalType":"address[]","type":"address[]"}],"stateMutability":"view"}]

@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"tokenId","internalType":"uint256","type":"uint256","indexed":true},{"name":"permission","internalType":"enum IProjectToken.EvolutionPermission","type":"uint8","indexed":false}],"name":"EvolutionPermissionSet"}]

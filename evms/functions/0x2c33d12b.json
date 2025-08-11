@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"rewardsAddress_","internalType":"contract IXKdkTokenUsage","type":"address"}],"name":"updateRewardsAddress","outputs":[],"stateMutability":"nonpayable"}]

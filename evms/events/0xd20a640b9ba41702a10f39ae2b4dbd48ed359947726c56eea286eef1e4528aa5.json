@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"collectionAdd","internalType":"address","type":"address","indexed":false},{"name":"_root","internalType":"bytes32","type":"bytes32","indexed":false}],"name":"AirdropRoot"}]

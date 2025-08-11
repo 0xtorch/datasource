@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_pairIndex","internalType":"uint256","type":"uint256"},{"name":"_newMaxOpenInterest","internalType":"uint256","type":"uint256"}],"name":"setMaxOpenInterestUsdc","outputs":[],"stateMutability":"nonpayable"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"name","internalType":"string","type":"string"}],"name":"getAddressByName","outputs":[{"name":"profileAddress","internalType":"address","type":"address"}],"stateMutability":"view"}]

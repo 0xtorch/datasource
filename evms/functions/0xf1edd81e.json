@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"rewardsEndTimestamp_","internalType":"uint256","type":"uint256"},{"name":"shouldSyncRewardRate","internalType":"bool","type":"bool"}],"name":"setRewardsEndTimestamp","outputs":[],"stateMutability":"nonpayable"}]

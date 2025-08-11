@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"informationSource","internalType":"address","type":"address"},{"name":"kind","internalType":"bytes32","type":"bytes32"}],"name":"slot","outputs":[{"name":"","internalType":"bytes32","type":"bytes32"}],"stateMutability":"pure"}]

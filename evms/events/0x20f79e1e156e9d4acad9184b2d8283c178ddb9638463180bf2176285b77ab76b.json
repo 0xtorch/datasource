@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"oldImxDepositLimit","internalType":"uint256","type":"uint256","indexed":false},{"name":"newImxDepositLimit","internalType":"uint256","type":"uint256","indexed":false}],"name":"NewImxDepositLimit"}]

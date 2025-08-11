@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_hsAgency","internalType":"contract IHSAgency","type":"address"}],"name":"setAgency","outputs":[],"stateMutability":"nonpayable"}]

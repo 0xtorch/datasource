@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"nonces","internalType":"string[]","type":"string[]"},{"name":"tags","internalType":"string[]","type":"string[]"},{"name":"signatures","internalType":"bytes[]","type":"bytes[]"}],"name":"claimMythical","outputs":[],"stateMutability":"nonpayable"}]

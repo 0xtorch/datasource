@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"projectName","internalType":"string","type":"string"},{"name":"newProjectInfoUrl","internalType":"string","type":"string"}],"name":"setProjectInfoUrl","outputs":[],"stateMutability":"nonpayable"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[],"name":"getCollateralRatio","outputs":[{"name":"collatRatio","internalType":"uint64","type":"uint64"},{"name":"stablecoinsIssued","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

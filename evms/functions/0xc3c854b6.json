@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_delegate","internalType":"address","type":"address"},{"name":"_isApproved","internalType":"bool","type":"bool"}],"name":"setDelegateApproval","outputs":[],"stateMutability":"nonpayable"}]

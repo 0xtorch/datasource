@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"projectId","internalType":"uint256","type":"uint256","indexed":false},{"name":"addrs","internalType":"address[]","type":"address[]","indexed":false},{"name":"rates","internalType":"uint256[]","type":"uint256[]","indexed":false}],"name":"UpdateProjectRoyaltyData"}]

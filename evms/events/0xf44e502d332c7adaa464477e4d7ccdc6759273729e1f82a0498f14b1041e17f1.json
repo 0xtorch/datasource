@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"isCustodyVault","internalType":"bool","type":"bool","indexed":true},{"name":"custodyAddress","internalType":"address","type":"address","indexed":true}],"name":"CustodyInfoSet"}]

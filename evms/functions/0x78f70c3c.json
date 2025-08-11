@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_rewardToken","internalType":"address","type":"address"},{"name":"_rewardWallet","internalType":"address","type":"address"},{"name":"_treasury","internalType":"address","type":"address"},{"name":"_router","internalType":"address","type":"address"}],"name":"_init_","outputs":[],"stateMutability":"nonpayable"}]

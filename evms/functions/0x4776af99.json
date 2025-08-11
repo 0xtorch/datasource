@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"campaignId","internalType":"uint256","type":"uint256"},{"name":"tickets","internalType":"uint256[]","type":"uint256[]"}],"name":"claimStakingReward","outputs":[],"stateMutability":"nonpayable"}]

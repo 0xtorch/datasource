@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"previousStakeForSenderAddress","internalType":"address","type":"address","indexed":false},{"name":"newStakeForSenderAddress","internalType":"address","type":"address","indexed":false}],"name":"StakeForSenderAddressSet"}]

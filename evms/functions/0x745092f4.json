@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"tier1Batch","internalType":"uint256","type":"uint256"},{"name":"tier2Batch","internalType":"uint256","type":"uint256"}],"name":"createNewBatch","outputs":[],"stateMutability":"nonpayable"}]

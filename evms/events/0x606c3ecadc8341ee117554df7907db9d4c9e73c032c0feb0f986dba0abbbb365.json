@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"oldV1","internalType":"uint256","type":"uint256","indexed":false},{"name":"oldV2","internalType":"uint256","type":"uint256","indexed":false},{"name":"newV1","internalType":"uint256","type":"uint256","indexed":false},{"name":"newV2","internalType":"uint256","type":"uint256","indexed":false}],"name":"SetOptimalUtilizationRate"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"periodId","internalType":"uint256","type":"uint256"}],"name":"periodicRewardsMerkleRootData","outputs":[{"name":"startTimestamp","internalType":"uint256","type":"uint256"},{"name":"merkleRoot","internalType":"bytes32","type":"bytes32"}],"stateMutability":"view"}]

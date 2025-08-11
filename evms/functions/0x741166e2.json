@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"poolPosition","internalType":"contract IPoolPositionSlim","type":"address"}],"name":"migrateBinLiquidity","outputs":[],"stateMutability":"payable"}]

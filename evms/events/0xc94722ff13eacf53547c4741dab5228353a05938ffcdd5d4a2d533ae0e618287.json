@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"bytecodeHash","internalType":"bytes32","type":"bytes32","indexed":true},{"name":"sendBytecodeToL1","internalType":"bool","type":"bool","indexed":true}],"name":"MarkedAsKnown"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_citizenIdContract","internalType":"contract CitizenIDV1","type":"address"}],"name":"updateCitizenIdContract","outputs":[],"stateMutability":"nonpayable"}]

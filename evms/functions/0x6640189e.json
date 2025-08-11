@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"streak","internalType":"uint16","type":"uint16"},{"name":"validTill","internalType":"uint64","type":"uint64"},{"name":"signature","internalType":"bytes","type":"bytes"}],"name":"completeQuest","outputs":[],"stateMutability":"nonpayable"}]

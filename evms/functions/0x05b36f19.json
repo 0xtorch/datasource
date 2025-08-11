@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_lpAddress","internalType":"address","type":"address"}],"name":"isValidLP","outputs":[{"name":"isValid","internalType":"bool","type":"bool"}],"stateMutability":"view"}]

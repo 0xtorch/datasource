@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"previousRewardsAddress","internalType":"address","type":"address","indexed":false},{"name":"newRewardsAddress","internalType":"address","type":"address","indexed":false}],"name":"UpdateRewardsAddress"}]

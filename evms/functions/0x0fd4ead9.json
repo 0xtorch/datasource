@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_tokens","internalType":"contract ERC20[]","type":"address[]"}],"name":"getAllAccTokenPerShared","outputs":[{"name":"","internalType":"uint256[]","type":"uint256[]"}],"stateMutability":"view"}]

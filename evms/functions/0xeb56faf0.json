@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_firstP","internalType":"uint256","type":"uint256"},{"name":"_sameBlockP","internalType":"uint256","type":"uint256"},{"name":"_poolP","internalType":"uint256","type":"uint256"}],"name":"updatePercentages","outputs":[],"stateMutability":"nonpayable"}]

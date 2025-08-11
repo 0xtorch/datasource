@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_input","internalType":"bytes","type":"bytes"}],"name":"decodeString","outputs":[{"name":"result","internalType":"string","type":"string"}],"stateMutability":"pure"}]

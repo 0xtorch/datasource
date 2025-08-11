@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"previousBridge","internalType":"address","type":"address","indexed":false},{"name":"newBridge","internalType":"address","type":"address","indexed":false}],"name":"BridgeContractChanged"}]

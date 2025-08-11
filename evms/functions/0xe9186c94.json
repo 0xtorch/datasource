@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"account","internalType":"address","type":"address"},{"name":"debt","internalType":"uint256","type":"uint256"},{"name":"coll","internalType":"uint256","type":"uint256"}],"name":"decreaseDebtAndSendCollateral","outputs":[],"stateMutability":"nonpayable"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_stage","internalType":"enum Genify.Stage","type":"uint8"}],"name":"updateStage","outputs":[],"stateMutability":"nonpayable"}]

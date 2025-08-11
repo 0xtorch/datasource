@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"badCollateral","internalType":"address","type":"address"},{"name":"goodCollateral","internalType":"address","type":"address"},{"name":"goodAmount","internalType":"uint256","type":"uint256"}],"name":"liquidate","outputs":[{"name":"badAmount","internalType":"uint256","type":"uint256"}],"stateMutability":"nonpayable"}]

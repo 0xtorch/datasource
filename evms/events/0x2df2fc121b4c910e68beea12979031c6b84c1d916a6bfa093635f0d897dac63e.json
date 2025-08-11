@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"recommend","internalType":"address","type":"address","indexed":false},{"name":"name","internalType":"string","type":"string","indexed":false},{"name":"regAddr","internalType":"address","type":"address","indexed":false},{"name":"rewardEth","internalType":"uint256","type":"uint256","indexed":false}],"name":"recommendReward"}]

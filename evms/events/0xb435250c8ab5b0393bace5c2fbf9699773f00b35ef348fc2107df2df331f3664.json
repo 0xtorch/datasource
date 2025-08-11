@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"wallet","internalType":"address","type":"address","indexed":true},{"name":"by","internalType":"address","type":"address","indexed":false},{"name":"locked","internalType":"bool","type":"bool","indexed":false}],"name":"WalletLocked"}]

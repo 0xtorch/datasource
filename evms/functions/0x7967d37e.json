@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"bases","internalType":"address[]","type":"address[]"},{"name":"newPrices","internalType":"uint128[]","type":"uint128[]"},{"name":"newSpreads","internalType":"uint64[]","type":"uint64[]"},{"name":"newCoeffs","internalType":"uint64[]","type":"uint64[]"}],"name":"postStateList","outputs":[],"stateMutability":"nonpayable"}]

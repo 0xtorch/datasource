@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_emergencyWithdrawEnabled","internalType":"bool","type":"bool"}],"name":"setEmergencyWithdraw","outputs":[],"stateMutability":"nonpayable"}]

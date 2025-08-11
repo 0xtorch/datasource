@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"collateral","internalType":"address","type":"address"}],"name":"getCollateralWhitelistData","outputs":[{"name":"","internalType":"bytes","type":"bytes"}],"stateMutability":"view"}]

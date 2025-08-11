@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_baseNode","internalType":"bytes32","type":"bytes32"},{"name":"resolver","internalType":"address","type":"address"}],"name":"setBaseNode","outputs":[],"stateMutability":"nonpayable"}]

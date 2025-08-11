@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"tier1Batch","internalType":"uint256","type":"uint256","indexed":false},{"name":"tier2Batch","internalType":"uint256","type":"uint256","indexed":false}],"name":"NewBatchCreated"}]

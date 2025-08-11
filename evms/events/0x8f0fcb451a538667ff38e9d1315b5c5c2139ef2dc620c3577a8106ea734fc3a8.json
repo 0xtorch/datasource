@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"sourceChain","internalType":"string","type":"string","indexed":false},{"name":"sourceAddress_","internalType":"string","type":"string","indexed":false},{"name":"payload_","internalType":"bytes","type":"bytes","indexed":false}],"name":"AdaptorExecute"}]

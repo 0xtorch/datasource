@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"up","internalType":"address","type":"address","indexed":true},{"name":"down","internalType":"address","type":"address","indexed":true},{"name":"isWL","internalType":"bool","type":"bool","indexed":true}],"name":"inviterAddRecord"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"addressClaimMerkleRoot_","internalType":"bytes32","type":"bytes32"}],"name":"setAddressClaimMerkleRoot","outputs":[],"stateMutability":"nonpayable"}]

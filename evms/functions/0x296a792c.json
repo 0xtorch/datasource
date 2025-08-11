@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"node","internalType":"bytes32","type":"bytes32"},{"name":"dc","internalType":"string","type":"string"}],"name":"setDc","outputs":[],"stateMutability":"nonpayable"}]

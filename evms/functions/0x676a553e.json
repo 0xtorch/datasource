@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"addrToCheck","internalType":"address","type":"address"}],"name":"isVaultManager","outputs":[{"name":"","internalType":"bool","type":"bool"}],"stateMutability":"view"}]

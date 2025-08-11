@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_amount","internalType":"uint256","type":"uint256"}],"name":"getBaseFee","outputs":[{"name":"feeCurrency","internalType":"address","type":"address"},{"name":"mintFee","internalType":"uint256","type":"uint256"},{"name":"baseFeeAmount","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

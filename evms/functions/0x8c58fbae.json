@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"stakeOwner","internalType":"address","type":"address"},{"name":"stakeId","internalType":"uint256","type":"uint256"}],"name":"userClaimable","outputs":[{"name":"","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

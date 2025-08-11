@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_pricePresale","internalType":"uint256","type":"uint256"},{"name":"_priceSale","internalType":"uint256","type":"uint256"},{"name":"_percentRefRewards","internalType":"uint32","type":"uint32"}],"name":"setPriceSettings","outputs":[],"stateMutability":"nonpayable"}]

@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"firstP","internalType":"uint256","type":"uint256","indexed":false},{"name":"sameBlockP","internalType":"uint256","type":"uint256","indexed":false},{"name":"poolP","internalType":"uint256","type":"uint256","indexed":false}],"name":"PercentagesUpdated"}]

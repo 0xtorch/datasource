@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"contracts","internalType":"address[]","type":"address[]"},{"name":"data","internalType":"bytes[]","type":"bytes[]"},{"name":"msgValues","internalType":"uint256[]","type":"uint256[]"}],"name":"execute","outputs":[],"stateMutability":"nonpayable"}]

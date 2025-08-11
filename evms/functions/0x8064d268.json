@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"amountToWithdraw","internalType":"uint256","type":"uint256"}],"name":"withdrawWithPenalty","outputs":[{"name":"","internalType":"uint256","type":"uint256"}],"stateMutability":"nonpayable"}]

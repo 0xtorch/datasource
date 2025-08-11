@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"orderIdx","internalType":"uint256","type":"uint256"}],"name":"updateOrder","outputs":[{"name":"earn","internalType":"uint256","type":"uint256"}],"stateMutability":"nonpayable"}]

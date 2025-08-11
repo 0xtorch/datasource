@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"oldIncentivesController","internalType":"contract IncentivesControllerInterface","type":"address","indexed":false},{"name":"newIncentivesController","internalType":"contract IncentivesControllerInterface","type":"address","indexed":false}],"name":"NewIncentivesController"}]

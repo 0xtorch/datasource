@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_fx","internalType":"uint256","type":"uint256"},{"name":"_creator","internalType":"uint256","type":"uint256"}],"name":"setFeeSplit","outputs":[],"stateMutability":"nonpayable"}]

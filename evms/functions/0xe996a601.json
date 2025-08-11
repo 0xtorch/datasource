@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_ids","internalType":"bytes32[]","type":"bytes32[]"},{"name":"_weights","internalType":"uint256[]","type":"uint256[]"}],"name":"setWeights","outputs":[],"stateMutability":"nonpayable"}]

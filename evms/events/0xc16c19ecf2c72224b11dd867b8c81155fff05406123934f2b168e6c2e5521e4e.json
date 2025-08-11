@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"oldGasService","internalType":"address","type":"address","indexed":true},{"name":"newGasService","internalType":"address","type":"address","indexed":true}],"name":"GasServiceUpdated"}]

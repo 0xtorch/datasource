@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_min","internalType":"uint8","type":"uint8"},{"name":"_max","internalType":"uint8","type":"uint8"}],"name":"setNameLengths","outputs":[{"name":"success","internalType":"bool","type":"bool"}],"stateMutability":"nonpayable"}]

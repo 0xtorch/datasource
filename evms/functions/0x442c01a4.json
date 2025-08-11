@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_isCustodyVault","internalType":"bool","type":"bool"},{"name":"_custodyAddress","internalType":"address","type":"address"}],"name":"setCustodyInfo","outputs":[],"stateMutability":"nonpayable"}]

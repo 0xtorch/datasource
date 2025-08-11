@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"","internalType":"uint256","type":"uint256"}],"name":"pairFundingFees","outputs":[{"name":"accPerOiLong","internalType":"int256","type":"int256"},{"name":"accPerOiShort","internalType":"int256","type":"int256"},{"name":"lastUpdateBlock","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

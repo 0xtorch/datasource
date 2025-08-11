@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_fromTokenId","internalType":"uint256","type":"uint256"},{"name":"_nextTokenURI","internalType":"string","type":"string"},{"name":"_mintLimit","internalType":"uint256","type":"uint256"}],"name":"setNextTokenURI","outputs":[],"stateMutability":"nonpayable"}]

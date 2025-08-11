@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"token","internalType":"address","type":"address"},{"name":"minIncentiveRate","internalType":"uint256","type":"uint256"},{"name":"manager","internalType":"address","type":"address"}],"name":"whitelistIncentiveToken","outputs":[],"stateMutability":"nonpayable"}]

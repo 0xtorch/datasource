@@ -1,0 +1,1 @@
+[{"type":"function","constant":false,"inputs":[{"name":"newIncentivesController","internalType":"contract IncentivesControllerInterface","type":"address"}],"name":"_setIncentivesController","outputs":[{"name":"","internalType":"uint256","type":"uint256"}],"payable":false,"stateMutability":"nonpayable"}]

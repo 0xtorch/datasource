@@ -1,0 +1,1 @@
+[{"type":"function","constant":false,"inputs":[{"name":"contributors","internalType":"address payable[]","type":"address[]"},{"name":"balances","internalType":"uint256[]","type":"uint256[]"},{"name":"_total","internalType":"uint256","type":"uint256"}],"name":"multisendEth","outputs":[],"payable":true,"stateMutability":"payable"}]

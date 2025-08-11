@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"asset","internalType":"address","type":"address"},{"name":"limit","internalType":"uint256","type":"uint256"}],"name":"setRelativeCap","outputs":[],"stateMutability":"nonpayable"}]

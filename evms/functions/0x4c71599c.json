@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_optimalUtilizationRate1","internalType":"uint256","type":"uint256"},{"name":"_optimalUtilizationRate2","internalType":"uint256","type":"uint256"}],"name":"setOptimalUtilizationRate","outputs":[],"stateMutability":"nonpayable"}]

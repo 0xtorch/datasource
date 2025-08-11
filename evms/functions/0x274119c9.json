@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"ethValue","internalType":"uint256","type":"uint256"},{"name":"usdcValue","internalType":"uint256","type":"uint256"}],"name":"setWithdrawLimit","outputs":[],"stateMutability":"nonpayable"}]

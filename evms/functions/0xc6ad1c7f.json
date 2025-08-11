@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"bribe_","internalType":"contract IBribe","type":"address"},{"name":"gauge_","internalType":"contract IGauge","type":"address"},{"name":"vc_","internalType":"contract IERC20","type":"address"},{"name":"comptroller_","internalType":"contract IComptroller","type":"address"}],"name":"setExternals","outputs":[],"stateMutability":"nonpayable"}]

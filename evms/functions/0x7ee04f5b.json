@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"names","internalType":"string[]","type":"string[]"},{"name":"durations","internalType":"uint256[]","type":"uint256[]"},{"name":"owners","internalType":"address[]","type":"address[]"},{"name":"resolver","internalType":"address","type":"address"}],"name":"batchRegister","outputs":[],"stateMutability":"nonpayable"}]

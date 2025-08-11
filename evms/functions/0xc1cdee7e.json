@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"collateral","internalType":"address","type":"address"},{"name":"amount","internalType":"uint128","type":"uint128"},{"name":"increase","internalType":"bool","type":"bool"}],"name":"adjustStablecoins","outputs":[],"stateMutability":"nonpayable"}]

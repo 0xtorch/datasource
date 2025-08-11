@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[],"name":"debugTS","outputs":[{"name":"n","internalType":"uint256","type":"uint256"},{"name":"bs","internalType":"uint256","type":"uint256"},{"name":"ts","internalType":"uint256","type":"uint256"},{"name":"f","internalType":"bool","type":"bool"}],"stateMutability":"view"}]

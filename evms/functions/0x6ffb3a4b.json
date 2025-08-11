@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"account","internalType":"address","type":"address"}],"name":"accountClaim","outputs":[{"name":"","internalType":"struct IZoraTokenCommunityClaim.AccountClaim","type":"tuple","components":[{"name":"allocation","internalType":"uint96","type":"uint96"},{"name":"claimed","internalType":"bool","type":"bool"}]}],"stateMutability":"view"}]

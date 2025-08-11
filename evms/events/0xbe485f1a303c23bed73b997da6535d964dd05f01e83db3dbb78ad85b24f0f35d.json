@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"src","internalType":"address","type":"address","indexed":true},{"name":"dest","internalType":"address","type":"address","indexed":true},{"name":"kp","internalType":"uint256","type":"uint256","indexed":false},{"name":"kpBalance","internalType":"uint256","type":"uint256","indexed":false}],"name":"kpTransfer"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_sender","internalType":"address","type":"address"},{"name":"_senderNonce","internalType":"uint256","type":"uint256"}],"name":"getNewAddressCreate","outputs":[{"name":"newAddress","internalType":"address","type":"address"}],"stateMutability":"pure"}]

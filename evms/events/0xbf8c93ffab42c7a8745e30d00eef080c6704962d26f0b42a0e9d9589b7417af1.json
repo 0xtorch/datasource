@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"badAsset","internalType":"address","type":"address","indexed":false},{"name":"goodAsset","internalType":"address","type":"address","indexed":false},{"name":"amount","internalType":"uint256","type":"uint256","indexed":false},{"name":"sender","internalType":"address","type":"address","indexed":false}],"name":"Liquidated"}]

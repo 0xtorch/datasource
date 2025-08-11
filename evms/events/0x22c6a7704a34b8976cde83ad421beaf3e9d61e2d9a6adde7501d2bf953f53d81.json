@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"deployer","internalType":"address","type":"address","indexed":true},{"name":"canonicalBridgeV1","internalType":"address","type":"address","indexed":false}],"name":"CanonicalBridgeV1"}]

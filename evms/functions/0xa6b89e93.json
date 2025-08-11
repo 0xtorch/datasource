@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"oldMerkleRoot","internalType":"bytes32","type":"bytes32"},{"name":"newMerkleRoot","internalType":"bytes32","type":"bytes32"},{"name":"newSequenceNumber","internalType":"uint256","type":"uint256"}],"name":"updateMerkleRoot","outputs":[],"stateMutability":"nonpayable"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[],"name":"getGlobalSystemBalances","outputs":[{"name":"totalPricedCollateral","internalType":"uint256","type":"uint256"},{"name":"totalDebt","internalType":"uint256","type":"uint256"}],"stateMutability":"nonpayable"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_sessions","internalType":"uint256[]","type":"uint256[]"},{"name":"_amounts","internalType":"uint256[]","type":"uint256[]"},{"name":"_merkleProofs","internalType":"bytes32[][]","type":"bytes32[][]"}],"name":"batchClaim","outputs":[],"stateMutability":"nonpayable"}]

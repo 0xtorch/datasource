@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"channelID","internalType":"ChannelID","type":"bytes32"},{"name":"data","internalType":"bytes","type":"bytes"}],"name":"mintForeignToken","outputs":[],"stateMutability":"nonpayable"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_cozyTokenIds","internalType":"uint256[]","type":"uint256[]"}],"name":"woofiesClaimedByCozyTokens","outputs":[{"name":"","internalType":"bool[]","type":"bool[]"}],"stateMutability":"view"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"asset","internalType":"address","type":"address"}],"name":"isBadCollateralAsset","outputs":[{"name":"badCollateral","internalType":"bool","type":"bool"}],"stateMutability":"view"}]

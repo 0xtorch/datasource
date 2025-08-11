@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_usdcVaultFeeP","internalType":"uint256","type":"uint256"},{"name":"_lpFeeP","internalType":"uint256","type":"uint256"},{"name":"_sssFeeP","internalType":"uint256","type":"uint256"}],"name":"setClosingFeeSharesP","outputs":[],"stateMutability":"nonpayable"}]

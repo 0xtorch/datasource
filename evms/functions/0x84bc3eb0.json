@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_l1Receiver","internalType":"address","type":"address"},{"name":"_additionalData","internalType":"bytes","type":"bytes"}],"name":"withdrawWithMessage","outputs":[],"stateMutability":"payable"}]

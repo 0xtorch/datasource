@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"validatorId","internalType":"uint256","type":"uint256"}],"name":"getClaimValidatorReward","outputs":[{"name":"","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"channelID","internalType":"ChannelID","type":"bytes32","indexed":true}],"name":"ChannelCreated"}]

@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"_cVal","internalType":"uint8","type":"uint8","indexed":false},{"name":"_rVal","internalType":"uint8","type":"uint8","indexed":false},{"name":"_srVal","internalType":"uint8","type":"uint8","indexed":false},{"name":"_ssrVal","internalType":"uint8","type":"uint8","indexed":false}],"name":"SetMaxBreedTimesEvent"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_tokenId0","internalType":"uint256","type":"uint256"},{"name":"_tokenId1","internalType":"uint256","type":"uint256"}],"name":"Merge","outputs":[{"name":"_newTokenId","internalType":"uint256","type":"uint256"}],"stateMutability":"nonpayable"}]

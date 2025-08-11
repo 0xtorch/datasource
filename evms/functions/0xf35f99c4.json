@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"rewardRate_","internalType":"uint256","type":"uint256"},{"name":"areYouSure","internalType":"bool","type":"bool"}],"name":"dangerouslySetRewardRate","outputs":[],"stateMutability":"nonpayable"}]

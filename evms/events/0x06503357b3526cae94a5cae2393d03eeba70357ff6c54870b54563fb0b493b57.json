@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"token","internalType":"contract ERC20","type":"address","indexed":false},{"name":"rewardPerBlock","internalType":"uint256","type":"uint256","indexed":false},{"name":"p_factor","internalType":"uint256","type":"uint256","indexed":false}],"name":"NewRewardToken"}]

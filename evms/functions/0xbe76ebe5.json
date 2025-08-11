@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_minter","internalType":"address","type":"address"},{"name":"_increasedAmount","internalType":"uint256","type":"uint256"}],"name":"increaseMinterAllowance","outputs":[],"stateMutability":"nonpayable"}]

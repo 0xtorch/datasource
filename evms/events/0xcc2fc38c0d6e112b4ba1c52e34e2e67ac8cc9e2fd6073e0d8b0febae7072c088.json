@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"previousRewardsEndTimestamp","internalType":"uint256","type":"uint256","indexed":false},{"name":"newRewardsEndTimestamp","internalType":"uint256","type":"uint256","indexed":false}],"name":"RewardsEndTimestampSet"}]

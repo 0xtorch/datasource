@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"newRewardVaultManager","internalType":"address","type":"address","indexed":true},{"name":"oldRewardVaultManager","internalType":"address","type":"address","indexed":true}],"name":"RewardVaultManagerSet"}]

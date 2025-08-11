@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"collateral","internalType":"address","type":"address"},{"name":"sender","internalType":"address","type":"address"}],"name":"isWhitelistedForCollateral","outputs":[{"name":"","internalType":"bool","type":"bool"}],"stateMutability":"nonpayable"}]

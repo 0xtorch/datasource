@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"cycleEnd","internalType":"uint256","type":"uint256","indexed":true},{"name":"rewardsAmt","internalType":"uint256","type":"uint256","indexed":false}],"name":"NewRewardsCycle"}]

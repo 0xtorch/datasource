@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_nfts","internalType":"contract NftInterfaceV5[5]","type":"address[5]"}],"name":"updateNfts","outputs":[],"stateMutability":"nonpayable"}]
