@@ -1,0 +1,5 @@
+{
+  "address": "0x0000000000000000000000000000000000000000",
+  "label": "EmptyContract",
+  "abi": "[{\"stateMutability\":\"payable\",\"type\":\"fallback\"},{\"stateMutability\":\"payable\",\"type\":\"receive\"}]"
+}
