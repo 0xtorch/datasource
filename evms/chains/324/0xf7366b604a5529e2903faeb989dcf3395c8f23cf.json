@@ -1,0 +1,5 @@
+{
+  "address": "0xf7366b604a5529e2903faeb989dcf3395c8f23cf",
+  "label": "StandardizedCallFacet",
+  "abi": "[{\"inputs\":[],\"name\":\"FunctionDoesNotExist\",\"type\":\"error\"},{\"inputs\":[{\"internalType\":\"bytes\",\"name\":\"callData\",\"type\":\"bytes\"}],\"name\":\"standardizedBridgeCall\",\"outputs\":[],\"stateMutability\":\"payable\",\"type\":\"function\"},{\"inputs\":[{\"internalType\":\"bytes\",\"name\":\"callData\",\"type\":\"bytes\"}],\"name\":\"standardizedCall\",\"outputs\":[],\"stateMutability\":\"payable\",\"type\":\"function\"},{\"inputs\":[{\"internalType\":\"bytes\",\"name\":\"callData\",\"type\":\"bytes\"}],\"name\":\"standardizedSwapAndBridgeCall\",\"outputs\":[],\"stateMutability\":\"payable\",\"type\":\"function\"},{\"inputs\":[{\"internalType\":\"bytes\",\"name\":\"callData\",\"type\":\"bytes\"}],\"name\":\"standardizedSwapCall\",\"outputs\":[],\"stateMutability\":\"payable\",\"type\":\"function\"}]"
+}
