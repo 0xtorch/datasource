@@ -1,0 +1,5 @@
+{
+  "address": "0x727f8bc53616101519c73ac398cc7f9ffd1b898b",
+  "label": "unisocks",
+  "abi": "[{\"inputs\":[],\"stateMutability\":\"nonpayable\",\"type\":\"constructor\"},{\"stateMutability\":\"payable\",\"type\":\"fallback\"},{\"stateMutability\":\"payable\",\"type\":\"receive\"}]"
+}
