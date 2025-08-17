@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[],"name":"depositInfo2","outputs":[{"name":"whiteListLength","internalType":"uint256","type":"uint256"},{"name":"totalDepositUsr","internalType":"uint256","type":"uint256"},{"name":"totalDepositUSDT","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

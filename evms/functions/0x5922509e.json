@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_treasury","internalType":"address","type":"address"},{"name":"_factory","internalType":"address","type":"address"},{"name":"_hotRouter","internalType":"address","type":"address"},{"name":"_warmRouter","internalType":"address","type":"address"}],"name":"setDEXAddr","outputs":[],"stateMutability":"nonpayable"}]

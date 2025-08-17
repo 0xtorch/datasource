@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"oldOracle","internalType":"address","type":"address","indexed":false},{"name":"newOracle","internalType":"address","type":"address","indexed":false},{"name":"_operator","internalType":"address","type":"address","indexed":true}],"name":"SetOracle"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"min","internalType":"uint256","type":"uint256"},{"name":"max","internalType":"uint256","type":"uint256"}],"name":"setLiquidityFee","outputs":[],"stateMutability":"nonpayable"}]
