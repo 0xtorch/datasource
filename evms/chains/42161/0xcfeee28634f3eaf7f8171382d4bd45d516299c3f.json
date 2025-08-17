@@ -1,0 +1,5 @@
+{
+  "address": "0xcfeee28634f3eaf7f8171382d4bd45d516299c3f",
+  "label": "Router",
+  "abi": "[{\"inputs\":[{\"internalType\":\"address\",\"name\":\"ammModule_\",\"type\":\"address\"},{\"internalType\":\"address\",\"name\":\"authModule_\",\"type\":\"address\"},{\"internalType\":\"address\",\"name\":\"miscModule_\",\"type\":\"address\"},{\"internalType\":\"address\",\"name\":\"tradeModule_\",\"type\":\"address\"}],\"stateMutability\":\"nonpayable\",\"type\":\"constructor\"},{\"stateMutability\":\"payable\",\"type\":\"fallback\"}]"
+}
