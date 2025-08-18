@@ -41,6 +41,7 @@
   "RNDR": "crypto/render-token",
   "SAND": "crypto/the-sandbox",
   "SOL": "crypto/solana",
+  "SUI": "crypto/sui",
   "TRX": "crypto/tron",
   "XLM": "crypto/stellar",
   "XRP": "crypto/ripple",
