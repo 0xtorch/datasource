@@ -63,7 +63,7 @@ const createGeminiPrompt = ({
 }) => {
   return `${explorerUrl}/address/${address}
 
-この address に対して fake , phising のラベルが付いていたら、 'spam' と答えてください。そうでなけれ ば 'normal' と答えてください。`
+上記のWebページを調べて、この address に対して fake , phising のラベルが付いていたら、 'spam' と答えてください。そうでなけれ ば 'normal' と答えてください。`
 }
 
 // 通知音鳴らす
@@ -139,7 +139,7 @@ for (const chainDir of chainDirs) {
     console.log(
       `Start checking address by Gemini CLI | ${explorerUrl}/address/${address.address}`,
     )
-    const result = await $`gemini --yolo -p "${prompt}"`
+    const result = await $`gemini --yolo -m gemini-2.5-flash -p "${prompt}"`
       .text()
       .catch(async (e) => {
         await playNotificationSound()
@@ -149,13 +149,13 @@ for (const chainDir of chainDirs) {
     console.log('====================')
     console.log(trimmed)
     console.log('====================')
-    if (trimmed.endsWith('spam')) {
+    if (trimmed.endsWith('spam') || trimmed.endsWith("spam'")) {
       address.isSpam = true
-    } else if (trimmed.endsWith('normal')) {
+    } else if (trimmed.endsWith('normal') || trimmed.endsWith("normal'")) {
       address.isSpam = false
     } else {
-      await playNotificationSound()
-      throw new Error('Unexpected result from Gemini API')
+      console.log('Unexpected result from Gemini API')
+      continue
     }
 
     // JSON 更新
