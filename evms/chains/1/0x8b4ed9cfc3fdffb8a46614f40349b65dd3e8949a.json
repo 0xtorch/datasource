@@ -1,0 +1,5 @@
+{
+  "address": "0x8b4ed9cfc3fdffb8a46614f40349b65dd3e8949a",
+  "label": "unidistribution",
+  "abi": "[{\"inputs\":[],\"stateMutability\":\"nonpayable\",\"type\":\"constructor\"},{\"stateMutability\":\"payable\",\"type\":\"fallback\"},{\"stateMutability\":\"payable\",\"type\":\"receive\"}]"
+}
