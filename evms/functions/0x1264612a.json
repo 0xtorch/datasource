@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_froms","internalType":"string[]","type":"string[]"},{"name":"_tos","internalType":"address[]","type":"address[]"},{"name":"_amounts","internalType":"uint256[]","type":"uint256[]"}],"name":"bridgedTo","outputs":[{"name":"","internalType":"bool","type":"bool"}],"stateMutability":"nonpayable"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"walletPubKeyHash","internalType":"bytes20","type":"bytes20"}],"name":"notifyWalletClosingPeriodElapsed","outputs":[],"stateMutability":"nonpayable"}]

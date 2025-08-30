@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"ecdsaWalletID","internalType":"bytes32","type":"bytes32"},{"name":"publicKeyX","internalType":"bytes32","type":"bytes32"},{"name":"publicKeyY","internalType":"bytes32","type":"bytes32"}],"name":"__ecdsaWalletCreatedCallback","outputs":[],"stateMutability":"nonpayable"}]

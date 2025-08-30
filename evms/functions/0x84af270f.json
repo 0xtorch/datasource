@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"account_","internalType":"address","type":"address"}],"name":"isEarning","outputs":[{"name":"isEarning_","internalType":"bool","type":"bool"}],"stateMutability":"view"}]

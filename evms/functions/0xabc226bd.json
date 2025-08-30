@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_emergencyRole","internalType":"address","type":"address"},{"name":"_status","internalType":"bool","type":"bool"}],"name":"setEmergencyRole","outputs":[],"stateMutability":"nonpayable"}]

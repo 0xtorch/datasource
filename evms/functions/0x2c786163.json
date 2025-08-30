@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"account_","internalType":"address","type":"address"}],"name":"accruedYieldOf","outputs":[{"name":"yield_","internalType":"uint240","type":"uint240"}],"stateMutability":"view"}]

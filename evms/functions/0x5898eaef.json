@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"aggregator","internalType":"address","type":"address"},{"name":"whitelistStatus","internalType":"bool","type":"bool"}],"name":"whitelistAggregator","outputs":[],"stateMutability":"nonpayable"}]

@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"migrator","internalType":"address","type":"address","indexed":true},{"name":"oldImplementation","internalType":"address","type":"address","indexed":true},{"name":"newImplementation","internalType":"address","type":"address","indexed":true}],"name":"Migrated"}]

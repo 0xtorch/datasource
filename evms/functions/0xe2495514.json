@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"from","internalType":"MarketAcc","type":"bytes26"},{"name":"to","internalType":"MarketAcc","type":"bytes26"}],"name":"cashTransferAll","outputs":[{"name":"amountOut","internalType":"int256","type":"int256"}],"stateMutability":"nonpayable"}]

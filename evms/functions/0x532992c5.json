@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"authorizer_","internalType":"address","type":"address"},{"name":"nonce_","internalType":"bytes32","type":"bytes32"},{"name":"r_","internalType":"bytes32","type":"bytes32"},{"name":"vs_","internalType":"bytes32","type":"bytes32"}],"name":"cancelAuthorization","outputs":[],"stateMutability":"nonpayable"}]

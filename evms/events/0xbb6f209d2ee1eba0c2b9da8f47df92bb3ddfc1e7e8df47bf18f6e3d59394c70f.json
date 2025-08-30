@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"acc","internalType":"MarketAcc","type":"bytes26","indexed":false},{"name":"unscaledAmount","internalType":"uint256","type":"uint256","indexed":false}],"name":"VaultDeposit"}]

@@ -1,0 +1,1 @@
+[{"type":"function","constant":false,"inputs":[{"name":"_decimalShift","internalType":"int256","type":"int256"}],"name":"setDecimalShift","outputs":[],"payable":false,"stateMutability":"nonpayable"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"rescuedAsset","internalType":"contract IERC20","type":"address"},{"name":"to","internalType":"address","type":"address"}],"name":"rescueAsset","outputs":[],"stateMutability":"nonpayable"}]

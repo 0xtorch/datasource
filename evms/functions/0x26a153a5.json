@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_gasCompensation","internalType":"uint256","type":"uint256"},{"name":"_isFinalValue","internalType":"bool","type":"bool"}],"name":"setDebtGasCompensation","outputs":[],"stateMutability":"nonpayable"}]

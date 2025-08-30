@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"from","internalType":"MarketAcc","type":"bytes26","indexed":false},{"name":"to","internalType":"MarketAcc","type":"bytes26","indexed":false},{"name":"amount","internalType":"int256","type":"int256","indexed":false}],"name":"CashTransfer"}]

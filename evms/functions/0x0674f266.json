@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"walletPublicKey","internalType":"bytes","type":"bytes"},{"name":"heartbeatMessage","internalType":"bytes","type":"bytes"}],"name":"defeatFraudChallengeWithHeartbeat","outputs":[],"stateMutability":"nonpayable"}]

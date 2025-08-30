@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"marketId","internalType":"MarketId","type":"uint24"}],"name":"enableStrictHealthCheck","outputs":[],"stateMutability":"nonpayable"}]

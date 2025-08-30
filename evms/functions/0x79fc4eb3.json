@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"walletPublicKey","internalType":"bytes","type":"bytes"},{"name":"walletMembersIDs","internalType":"uint32[]","type":"uint32[]"},{"name":"preimageSha256","internalType":"bytes","type":"bytes"}],"name":"notifyFraudChallengeDefeatTimeout","outputs":[],"stateMutability":"nonpayable"}]

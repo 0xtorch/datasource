@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"marketId","internalType":"MarketId","type":"uint24","indexed":false},{"name":"isEnabled","internalType":"bool","type":"bool","indexed":false}],"name":"StrictHealthCheckUpdated"}]

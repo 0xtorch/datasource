@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"user","internalType":"MarketAcc","type":"bytes26"}],"name":"getEnteredMarkets","outputs":[{"name":"","internalType":"MarketId[]","type":"uint24[]"}],"stateMutability":"view"}]

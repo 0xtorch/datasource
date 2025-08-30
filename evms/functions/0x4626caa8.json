@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"withdrawAssets","internalType":"address[]","type":"address[]"},{"name":"assetAmounts","internalType":"uint256[]","type":"uint256[]"}],"name":"previewWithdraw","outputs":[{"name":"","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

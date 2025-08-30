@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_newOptimisticMintingFeeDivisor","internalType":"uint32","type":"uint32"}],"name":"beginOptimisticMintingFeeUpdate","outputs":[],"stateMutability":"nonpayable"}]

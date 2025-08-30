@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"account","internalType":"address","type":"address","indexed":true},{"name":"recipient","internalType":"address","type":"address","indexed":true},{"name":"yield","internalType":"uint240","type":"uint240","indexed":false}],"name":"Claimed"}]

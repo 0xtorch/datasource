@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"balanceOwner","internalType":"address","type":"address"},{"name":"amount","internalType":"uint256","type":"uint256"},{"name":"redemptionData","internalType":"bytes","type":"bytes"}],"name":"receiveBalanceApproval","outputs":[],"stateMutability":"nonpayable"}]

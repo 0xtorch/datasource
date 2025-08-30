@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"walletPublicKey","internalType":"bytes","type":"bytes"},{"name":"preimage","internalType":"bytes","type":"bytes"},{"name":"witness","internalType":"bool","type":"bool"}],"name":"defeatFraudChallenge","outputs":[],"stateMutability":"nonpayable"}]

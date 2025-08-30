@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"root","internalType":"address","type":"address"},{"name":"tokenId","internalType":"TokenId","type":"uint16"}],"name":"finalizeVaultWithdrawal","outputs":[],"stateMutability":"nonpayable"}]

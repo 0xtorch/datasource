@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"prev","internalType":"address","type":"address"},{"name":"solver","internalType":"address","type":"address"},{"name":"addNotRemove","internalType":"bool","type":"bool"}],"name":"setSolver","outputs":[],"stateMutability":"nonpayable"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"spvMaintainer","internalType":"address","type":"address"},{"name":"isTrusted","internalType":"bool","type":"bool"}],"name":"setSpvMaintainerStatus","outputs":[],"stateMutability":"nonpayable"}]

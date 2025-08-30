@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"protocol","internalType":"address","type":"address"},{"name":"isWhitelisted","internalType":"bool","type":"bool"}],"name":"setWhitelistedSwapProtocols","outputs":[],"stateMutability":"nonpayable"}]

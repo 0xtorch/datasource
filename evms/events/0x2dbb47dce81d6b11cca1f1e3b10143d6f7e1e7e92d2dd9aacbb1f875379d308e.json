@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"ecdsaWalletID","internalType":"bytes32","type":"bytes32","indexed":true},{"name":"walletPubKeyHash","internalType":"bytes20","type":"bytes20","indexed":true}],"name":"NewWalletRegistered"}]

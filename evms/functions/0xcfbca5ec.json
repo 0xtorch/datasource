@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_PSMBond","internalType":"address","type":"address"},{"name":"active","internalType":"bool","type":"bool"}],"name":"whitelistPSMBond","outputs":[],"stateMutability":"nonpayable"}]

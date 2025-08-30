@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"depositAssets","internalType":"address[]","type":"address[]"},{"name":"assetAmounts","internalType":"uint256[]","type":"uint256[]"}],"name":"convertToShares","outputs":[{"name":"","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

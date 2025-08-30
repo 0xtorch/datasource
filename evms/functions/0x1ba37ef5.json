@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"userAddr","internalType":"address","type":"address"}],"name":"getPersonalCooldown","outputs":[{"name":"","internalType":"uint32","type":"uint32"}],"stateMutability":"view"}]

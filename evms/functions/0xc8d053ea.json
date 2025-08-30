@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_liquidStabilityPool","internalType":"address","type":"address"},{"name":"active","internalType":"bool","type":"bool"}],"name":"whitelistLiquidStabilityPoolAddress","outputs":[],"stateMutability":"nonpayable"}]

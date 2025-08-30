@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"marketId","internalType":"MarketId","type":"uint24","indexed":true},{"name":"marketAddress","internalType":"address","type":"address","indexed":true}],"name":"MarketAdded"}]

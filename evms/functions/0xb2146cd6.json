@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"utxoKey","internalType":"uint256","type":"uint256"}],"name":"spentMainUTXOs","outputs":[{"name":"","internalType":"bool","type":"bool"}],"stateMutability":"view"}]

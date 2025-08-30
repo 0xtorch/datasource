@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"tokenIds","internalType":"TokenId[]","type":"uint16[]"}],"name":"withdrawTreasury","outputs":[],"stateMutability":"nonpayable"}]

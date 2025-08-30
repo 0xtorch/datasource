@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"root","internalType":"address","type":"address","indexed":false},{"name":"cooldown","internalType":"uint32","type":"uint32","indexed":false}],"name":"PersonalCooldownSet"}]

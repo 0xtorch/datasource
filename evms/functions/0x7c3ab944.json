@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"account_","internalType":"address","type":"address"}],"name":"lastIndexOf","outputs":[{"name":"lastIndex_","internalType":"uint128","type":"uint128"}],"stateMutability":"view"}]

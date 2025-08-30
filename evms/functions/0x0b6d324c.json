@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"spender","internalType":"address","type":"address"},{"name":"subtractedValue","internalType":"uint256","type":"uint256"}],"name":"decreaseBalanceAllowance","outputs":[],"stateMutability":"nonpayable"}]

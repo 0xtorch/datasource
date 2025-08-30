@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"depositAsset","internalType":"address","type":"address"}],"name":"isSupportedDepositAsset","outputs":[{"name":"","internalType":"bool","type":"bool"}],"stateMutability":"view"}]

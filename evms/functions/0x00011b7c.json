@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"tokenId","internalType":"TokenId","type":"uint16"}],"name":"tokenData","outputs":[{"name":"","internalType":"struct IMarketHubAllEventsAndTypes.TokenData","type":"tuple","components":[{"name":"token","internalType":"address","type":"address"},{"name":"scalingFactor","internalType":"uint96","type":"uint96"}]}],"stateMutability":"view"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"user","internalType":"MarketAcc","type":"bytes26"},{"name":"amount","internalType":"uint256","type":"uint256"}],"name":"payTreasury","outputs":[],"stateMutability":"nonpayable"}]

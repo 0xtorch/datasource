@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"defaultTokenList","internalType":"address[]","type":"address[]","indexed":false}],"name":"SetDefaultTokenList"}]

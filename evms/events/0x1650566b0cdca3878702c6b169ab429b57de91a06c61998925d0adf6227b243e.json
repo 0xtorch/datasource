@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"walletPubKeyHash","internalType":"bytes20","type":"bytes20","indexed":true},{"name":"sweepTxHash","internalType":"bytes32","type":"bytes32","indexed":false}],"name":"MovedFundsSwept"}]

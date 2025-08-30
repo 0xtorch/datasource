@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"cctpMsg","internalType":"bytes","type":"bytes"},{"name":"cctpSigs","internalType":"bytes","type":"bytes"},{"name":"swapProtocol","internalType":"address","type":"address"},{"name":"swapData","internalType":"bytes","type":"bytes"}],"name":"fulfillOrder","outputs":[],"stateMutability":"payable"}]

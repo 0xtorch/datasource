@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"acc","internalType":"MarketAcc","type":"bytes26"},{"name":"unscaled","internalType":"uint256","type":"uint256"}],"name":"vaultDeposit","outputs":[],"stateMutability":"nonpayable"}]
