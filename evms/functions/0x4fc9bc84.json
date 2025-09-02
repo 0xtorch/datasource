@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"","internalType":"uint256","type":"uint256"}],"name":"lock_id_to_user_index","outputs":[{"name":"","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

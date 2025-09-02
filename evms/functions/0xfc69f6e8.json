@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_paused","internalType":"bool","type":"bool"},{"name":"_messageRelayer","internalType":"address","type":"address"}],"name":"initializeWithRelayer","outputs":[],"stateMutability":"nonpayable"}]

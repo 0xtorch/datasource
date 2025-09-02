@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"old_validator","internalType":"address","type":"address","indexed":true},{"name":"new_validator","internalType":"address","type":"address","indexed":true}],"name":"DepositValidatorUpdated"}]

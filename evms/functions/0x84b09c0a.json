@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_contractAddress","internalType":"address","type":"address"},{"name":"_nativeTokenDestinationAddress","internalType":"address","type":"address"},{"name":"_promptDestinationAddress","internalType":"address","type":"address"}],"name":"addWayfinderHandlerContract","outputs":[],"stateMutability":"nonpayable"}]

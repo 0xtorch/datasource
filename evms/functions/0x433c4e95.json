@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_deposit_validator","internalType":"contract IDepositValidator","type":"address"}],"name":"setDepositValidator","outputs":[],"stateMutability":"nonpayable"}]

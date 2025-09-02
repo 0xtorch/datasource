@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"reward_amount","internalType":"uint256","type":"uint256","indexed":false},{"name":"snapshot_id","internalType":"uint256","type":"uint256","indexed":false},{"name":"acc_reward_scaled","internalType":"uint256","type":"uint256","indexed":false}],"name":"RewardsSnapshot"}]

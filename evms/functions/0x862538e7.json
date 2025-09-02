@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"addr","internalType":"address","type":"address"}],"name":"getOriginLockedAmounts","outputs":[{"name":"seedingLocked","internalType":"uint256","type":"uint256"},{"name":"accelerationLocked","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

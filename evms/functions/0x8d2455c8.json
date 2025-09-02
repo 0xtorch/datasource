@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"mint_recipients_","internalType":"address[]","type":"address[]"},{"name":"mint_quantities_","internalType":"uint256[]","type":"uint256[]"}],"name":"tokenGenerationEvent","outputs":[],"stateMutability":"nonpayable"}]

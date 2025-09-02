@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"swapData","internalType":"uint256","type":"uint256","indexed":false},{"name":"dexVariables","internalType":"uint256","type":"uint256","indexed":false}],"name":"LogSwap"}]
