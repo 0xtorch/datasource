@@ -164,6 +164,11 @@ for (const chainDir of chainDirs) {
       JSON.stringify(address, null, 2),
     )
 
+    // isSpam が false の場合は git add する
+    if (address.isSpam === false) {
+      await $`git add ${basePath}/${chainDir}/${file}`
+    }
+
     // チェックカウントを増加
     checkedCount += 1
   }
