@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"id","internalType":"uint8","type":"uint8"},{"name":"kickoff","internalType":"uint256","type":"uint256"},{"name":"periods","internalType":"uint256[]","type":"uint256[]"},{"name":"percentages","internalType":"uint256[]","type":"uint256[]"}],"name":"setPolicy","outputs":[],"stateMutability":"nonpayable"}]
