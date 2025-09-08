@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"packetHash","internalType":"bytes32","type":"bytes32"}],"name":"intentWhitelist","outputs":[{"name":"","internalType":"bool","type":"bool"}],"stateMutability":"view"}]

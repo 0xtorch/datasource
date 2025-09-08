@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"description","internalType":"string","type":"string","indexed":false},{"name":"data","internalType":"bytes","type":"bytes","indexed":false}],"name":"Migrated"}]
