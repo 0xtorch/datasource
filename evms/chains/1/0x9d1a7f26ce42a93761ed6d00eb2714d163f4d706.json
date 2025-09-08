@@ -1,0 +1,5 @@
+{
+  "address": "0x9d1a7f26ce42a93761ed6d00eb2714d163f4d706",
+  "label": "unisocksstake",
+  "abi": "[{\"inputs\":[],\"stateMutability\":\"nonpayable\",\"type\":\"constructor\"},{\"stateMutability\":\"payable\",\"type\":\"fallback\"},{\"stateMutability\":\"payable\",\"type\":\"receive\"}]"
+}
