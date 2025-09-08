@@ -79,8 +79,10 @@ const playNotificationSound = async () => {
 
 // chains 内の directory を取得
 const basePath = 'evms/chains'
-const chainDirs = await readdir(basePath)
-console.log(chainDirs)
+// const chainDirs = await readdir(basePath)
+// console.log(chainDirs)
+// 一時的に Ethereum (1) のみ処理
+const chainDirs = ['1']
 for (const chainDir of chainDirs) {
   // 最大で 100 address 処理したら終了
   if (checkedCount >= 100) {
