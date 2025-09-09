@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"name","internalType":"string","type":"string"},{"name":"symbol","internalType":"string","type":"string"},{"name":"_ticker","internalType":"bytes3","type":"bytes3"},{"name":"_validator","internalType":"address","type":"address"}],"name":"initialize","outputs":[],"stateMutability":"nonpayable"}]

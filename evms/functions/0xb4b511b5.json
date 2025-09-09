@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_user","internalType":"address","type":"address"},{"name":"_type","internalType":"enum IMENToken.TaxType","type":"uint8"},{"name":"_percentage","internalType":"uint256","type":"uint256"},{"name":"_whitelisted","internalType":"bool","type":"bool"}],"name":"updateTaxWhitelist","outputs":[],"stateMutability":"nonpayable"}]

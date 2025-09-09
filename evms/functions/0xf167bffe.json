@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_maxMintingBeMinted","internalType":"uint256","type":"uint256"},{"name":"_maxCLSBeMinted","internalType":"uint256","type":"uint256"}],"name":"updateMaxContractMinting","outputs":[],"stateMutability":"nonpayable"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_type","internalType":"enum IMENToken.TaxType","type":"uint8"},{"name":"_percentage","internalType":"uint256","type":"uint256"}],"name":"updateLSDTaxDiscount","outputs":[],"stateMutability":"nonpayable"}]

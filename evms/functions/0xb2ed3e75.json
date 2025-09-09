@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_address","internalType":"address","type":"address"},{"name":"_waited","internalType":"bool","type":"bool"}],"name":"updateWaitingStatus","outputs":[],"stateMutability":"nonpayable"}]

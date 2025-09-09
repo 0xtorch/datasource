@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_guardian","internalType":"address","type":"address"},{"name":"_status","internalType":"bool","type":"bool"}],"name":"ownerSetGuardian","outputs":[],"stateMutability":"nonpayable"}]

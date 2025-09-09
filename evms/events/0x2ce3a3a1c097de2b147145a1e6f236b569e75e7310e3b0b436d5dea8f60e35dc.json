@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"ticker","internalType":"bytes3","type":"bytes3","indexed":true},{"name":"old","internalType":"address","type":"address","indexed":true},{"name":"current","internalType":"address","type":"address","indexed":true}],"name":"Controller"}]

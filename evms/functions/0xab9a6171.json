@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"","internalType":"address","type":"address"},{"name":"","internalType":"enum IMENToken.TaxType","type":"uint8"}],"name":"whitelistTax","outputs":[{"name":"percentage","internalType":"uint256","type":"uint256"},{"name":"status","internalType":"bool","type":"bool"}],"stateMutability":"view"}]

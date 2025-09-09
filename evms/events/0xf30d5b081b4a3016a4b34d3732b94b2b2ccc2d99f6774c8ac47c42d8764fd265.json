@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"caller","internalType":"address","type":"address","indexed":true},{"name":"oldAccessRegistry","internalType":"address","type":"address","indexed":true},{"name":"newAccessRegistry","internalType":"address","type":"address","indexed":true}],"name":"AccessRegistryUpdated"}]

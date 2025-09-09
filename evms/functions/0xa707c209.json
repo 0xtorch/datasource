@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_category","internalType":"uint8","type":"uint8"}],"name":"getCategoryInfo","outputs":[{"name":"","internalType":"struct IWorldLibertyFinancialVester.CategoryInfo","type":"tuple","components":[{"name":"templateCount","internalType":"uint8","type":"uint8"},{"name":"enabled","internalType":"bool","type":"bool"}]}],"stateMutability":"view"}]

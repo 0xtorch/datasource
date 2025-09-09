@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"token","internalType":"contract IERC20Upgradeable","type":"address"},{"name":"amount","internalType":"uint256","type":"uint256"}],"name":"salvageERC20","outputs":[],"stateMutability":"nonpayable"}]
