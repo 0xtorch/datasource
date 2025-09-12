@@ -1,0 +1,5 @@
+{
+  "address": "0x06f4baf3b725400a64b12ad022a73501fe56cbca",
+  "label": "RidoWithdrawNFT",
+  "abi": "[{\"inputs\":[],\"stateMutability\":\"nonpayable\",\"type\":\"constructor\"},{\"stateMutability\":\"payable\",\"type\":\"fallback\"},{\"stateMutability\":\"payable\",\"type\":\"receive\"}]"
+}
