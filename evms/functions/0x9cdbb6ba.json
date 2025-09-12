@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"","internalType":"address","type":"address"}],"name":"isNonDebasingAddress","outputs":[{"name":"","internalType":"bool","type":"bool"}],"stateMutability":"view"}]

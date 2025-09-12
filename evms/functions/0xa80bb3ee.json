@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"who","internalType":"address","type":"address"},{"name":"checkpoint","internalType":"uint256","type":"uint256"}],"name":"ticketOwnedCheckpoints","outputs":[{"name":"fromTimestamp","internalType":"uint256","type":"uint256"},{"name":"tickets","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

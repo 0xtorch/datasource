@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"daiEfiPairAddress","internalType":"address","type":"address"},{"name":"_router","internalType":"address","type":"address"},{"name":"_dai","internalType":"address","type":"address"}],"name":"setPairData","outputs":[],"stateMutability":"nonpayable"}]

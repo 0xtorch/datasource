@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_ticketNum","internalType":"uint256","type":"uint256"}],"name":"getCurrentIndex","outputs":[{"name":"index","internalType":"uint256","type":"uint256"}],"stateMutability":"view"}]

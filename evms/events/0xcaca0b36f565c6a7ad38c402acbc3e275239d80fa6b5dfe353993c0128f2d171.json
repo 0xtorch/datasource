@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"oldBurn","internalType":"address","type":"address","indexed":false},{"name":"newBurn","internalType":"address","type":"address","indexed":false}],"name":"BurnFeeAddressUpdated"}]

@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"newNonDebasingAddress","internalType":"address","type":"address","indexed":false}],"name":"NondebasingAddressAdded"}]

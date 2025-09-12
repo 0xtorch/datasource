@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"oldFreq","internalType":"uint256","type":"uint256","indexed":false},{"name":"newFreq","internalType":"uint256","type":"uint256","indexed":false}],"name":"DebaseFreqUpdated"}]

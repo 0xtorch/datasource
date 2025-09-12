@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"marketingWallet","internalType":"address","type":"address","indexed":false},{"name":"creatorWallet","internalType":"address","type":"address","indexed":false},{"name":"liquidityWallet","internalType":"address","type":"address","indexed":false}],"name":"WalletContractsUpdated"}]

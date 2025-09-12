@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"str1","type":"string"},{"name":"str2","type":"string"},{"name":"num1","type":"uint256"},{"name":"num2","type":"uint256"}],"name":"showDiv2","outputs":[{"name":"","type":"uint256"}],"stateMutability":"nonpayable"}]

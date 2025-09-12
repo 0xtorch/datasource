@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"oldSplitter","internalType":"address","type":"address","indexed":false},{"name":"newSplitter","internalType":"address","type":"address","indexed":false}],"name":"RaffleSplitterAddressUpdated"}]

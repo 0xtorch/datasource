@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"oldRaffle","internalType":"address","type":"address","indexed":false},{"name":"newRaffle","internalType":"address","type":"address","indexed":false}],"name":"RaffleAddressUpdated"}]
