@@ -1,0 +1,5 @@
+{
+  "address": "0x12d8ce035c5de3ce39b1fdd4c1d5a745eaba3b8c",
+  "label": "InternetBondProxy",
+  "abi": "[{\"stateMutability\":\"nonpayable\",\"type\":\"fallback\"},{\"inputs\":[{\"internalType\":\"address\",\"name\":\"newBeacon\",\"type\":\"address\"}],\"name\":\"setBeacon\",\"outputs\":[],\"stateMutability\":\"nonpayable\",\"type\":\"function\"}]"
+}
