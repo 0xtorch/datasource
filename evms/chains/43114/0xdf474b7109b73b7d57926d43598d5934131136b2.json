@@ -1,0 +1,5 @@
+{
+  "address": "0xdf474b7109b73b7d57926d43598d5934131136b2",
+  "label": "SimpleTokenProxy",
+  "abi": "[{\"stateMutability\":\"nonpayable\",\"type\":\"fallback\"},{\"inputs\":[{\"internalType\":\"address\",\"name\":\"newBeacon\",\"type\":\"address\"}],\"name\":\"setBeacon\",\"outputs\":[],\"stateMutability\":\"nonpayable\",\"type\":\"function\"}]"
+}
