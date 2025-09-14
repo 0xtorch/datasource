@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"chainId","internalType":"uint64","type":"uint64","indexed":false},{"name":"remoteApp","internalType":"bytes32","type":"bytes32","indexed":false}],"name":"AppLinked"}]

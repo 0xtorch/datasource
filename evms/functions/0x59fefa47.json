@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"featureIndex","internalType":"uint8","type":"uint8"},{"name":"enable","internalType":"bool","type":"bool"}],"name":"setFeature","outputs":[],"stateMutability":"nonpayable"}]

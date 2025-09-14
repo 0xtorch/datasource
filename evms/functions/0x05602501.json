@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_periodLength","internalType":"uint256","type":"uint256"},{"name":"_lastTimeFeeApplied","internalType":"uint256","type":"uint256"},{"name":"_feePerPeriod","internalType":"uint256","type":"uint256"}],"name":"initialize_v2","outputs":[],"stateMutability":"nonpayable"}]

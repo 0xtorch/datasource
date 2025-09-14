@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"from","internalType":"string","type":"string"},{"name":"data","internalType":"bytes","type":"bytes"},{"name":"protocols","internalType":"string[]","type":"string[]"}],"name":"handleCallMessage","outputs":[],"stateMutability":"nonpayable"}]

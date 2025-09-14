@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"action","internalType":"enum IInterchainAppV1.GovernorAction","type":"uint8"}],"name":"freezeGovernorAction","outputs":[],"stateMutability":"nonpayable"}]

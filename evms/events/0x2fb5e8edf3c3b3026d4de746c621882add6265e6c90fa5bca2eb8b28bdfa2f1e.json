@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"omnibusWallet","internalType":"address","type":"address","indexed":false},{"name":"externalId","internalType":"string","type":"string","indexed":false}],"name":"OmnibusTBETransfer"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"token","internalType":"address","type":"address"}],"name":"getBondType","outputs":[{"name":"","internalType":"enum ICrossChainBridge.InternetBondType","type":"uint8"}],"stateMutability":"view"}]

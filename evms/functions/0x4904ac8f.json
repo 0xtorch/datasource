@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"newRestrictor","internalType":"contract ITransferRestrictor","type":"address"}],"name":"setTransferRestrictor","outputs":[],"stateMutability":"nonpayable"}]

@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"factory","internalType":"contract InternetBondFactory","type":"address"}],"name":"setBondFactory","outputs":[],"stateMutability":"nonpayable"}]

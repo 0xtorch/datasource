@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_xCall","internalType":"address","type":"address"},{"name":"_iconTokenAddress","internalType":"string","type":"string"},{"name":"_xCallManager","internalType":"address","type":"address"}],"name":"initialize_token","outputs":[],"stateMutability":"nonpayable"}]

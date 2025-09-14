@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"transferRestrictor","internalType":"contract ITransferRestrictor","type":"address","indexed":true}],"name":"TransferRestrictorSet"}]

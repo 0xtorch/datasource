@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"newLastTimeFeeApplied","internalType":"uint256","type":"uint256"}],"name":"setLastTimeFeeApplied","outputs":[],"stateMutability":"nonpayable"}]

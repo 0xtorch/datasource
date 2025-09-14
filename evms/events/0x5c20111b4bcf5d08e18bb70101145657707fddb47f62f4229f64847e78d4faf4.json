@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"requiredResponses","internalType":"uint8","type":"uint8","indexed":false}],"name":"RequiredResponsesSet"}]

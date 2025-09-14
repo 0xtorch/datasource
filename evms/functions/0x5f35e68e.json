@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"toToken","internalType":"address","type":"address"}],"name":"isPeggedToken","outputs":[{"name":"","internalType":"bool","type":"bool"}],"stateMutability":"view"}]

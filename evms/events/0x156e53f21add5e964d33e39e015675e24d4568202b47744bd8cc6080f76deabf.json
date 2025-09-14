@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"requiredResponses","internalType":"uint256","type":"uint256","indexed":false},{"name":"optimisticSeconds","internalType":"uint256","type":"uint256","indexed":false}],"name":"AppConfigV1Set"}]

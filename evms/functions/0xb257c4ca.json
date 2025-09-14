@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[],"name":"getBridgeDetails","outputs":[{"name":"parentToken","internalType":"address","type":"address"},{"name":"parentSourceChainSelector","internalType":"uint64","type":"uint64"}],"stateMutability":"view"}]

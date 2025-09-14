@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_serviceId","internalType":"uint256","type":"uint256"},{"name":"_address","internalType":"address","type":"address"}],"name":"setDSService","outputs":[{"name":"","internalType":"bool","type":"bool"}],"stateMutability":"nonpayable"}]

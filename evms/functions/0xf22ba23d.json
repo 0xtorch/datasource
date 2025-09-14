@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"client","internalType":"address","type":"address"},{"name":"updateLatest","internalType":"bool","type":"bool"}],"name":"addInterchainClient","outputs":[],"stateMutability":"nonpayable"}]

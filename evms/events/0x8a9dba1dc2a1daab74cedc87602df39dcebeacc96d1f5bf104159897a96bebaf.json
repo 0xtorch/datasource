@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"serviceId","internalType":"uint256","type":"uint256","indexed":false},{"name":"serviceAddress","internalType":"address","type":"address","indexed":false}],"name":"DSServiceSet"}]

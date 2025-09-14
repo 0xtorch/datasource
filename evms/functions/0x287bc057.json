@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[],"name":"getReceivingConfig","outputs":[{"name":"appConfig","internalType":"bytes","type":"bytes"},{"name":"modules","internalType":"address[]","type":"address[]"}],"stateMutability":"view"}]

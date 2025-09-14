@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"action","internalType":"enum IInterchainAppV1.GovernorAction","type":"uint8"}],"name":"isGovernorActionFrozen","outputs":[{"name":"","internalType":"bool","type":"bool"}],"stateMutability":"view"}]

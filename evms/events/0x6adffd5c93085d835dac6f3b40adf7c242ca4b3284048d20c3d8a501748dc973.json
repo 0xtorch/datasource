@@ -1,1 +1,1 @@
-[{"type":"event","anonymous":false,"inputs":[{"name":"newMinter","internalType":"address","type":"address","indexed":false}],"name":"NewMinter"}]
+[{"type":"event","anonymous":false,"inputs":[{"name":"newMinter","internalType":"address","type":"address","indexed":false}],"name":"NewMinter"},{"type":"event","anonymous":false,"inputs":[{"name":"newMinter","internalType":"address","type":"address","indexed":true}],"name":"NewMinter"}]

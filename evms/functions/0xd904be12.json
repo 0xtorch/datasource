@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"newMultiplier","internalType":"uint256","type":"uint256"},{"name":"oldMultiplier","internalType":"uint256","type":"uint256"},{"name":"newMultiplierNonce","internalType":"uint256","type":"uint256"}],"name":"updateMultiplierWithNonce","outputs":[],"stateMutability":"nonpayable"}]

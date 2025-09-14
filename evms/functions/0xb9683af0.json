@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"_omnibusWallet","internalType":"address","type":"address"},{"name":"_who","internalType":"address","type":"address"},{"name":"_value","internalType":"uint256","type":"uint256"},{"name":"_reason","internalType":"string","type":"string"}],"name":"omnibusBurn","outputs":[],"stateMutability":"nonpayable"}]

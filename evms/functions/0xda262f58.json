@@ -1,0 +1,1 @@
+[{"type":"function","constant":false,"inputs":[{"name":"tokenName","type":"string"},{"name":"tokenSymbol","type":"string"}],"name":"setTokenInfo","outputs":[],"payable":false,"stateMutability":"nonpayable"}]

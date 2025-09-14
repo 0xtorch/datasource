@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"guardFlag","internalType":"uint8","type":"uint8"},{"name":"guard","internalType":"address","type":"address"},{"name":"optimisticSeconds","internalType":"uint48","type":"uint48"}],"name":"setGuardConfig","outputs":[],"stateMutability":"nonpayable"}]

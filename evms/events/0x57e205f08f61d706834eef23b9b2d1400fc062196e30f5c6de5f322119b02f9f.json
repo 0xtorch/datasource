@@ -1,0 +1,1 @@
+[{"type":"event","anonymous":false,"inputs":[{"name":"currentOwner","internalType":"address","type":"address","indexed":true},{"name":"proposedOwner","internalType":"address","type":"address","indexed":true}],"name":"OwnershipProposalCancelled"}]

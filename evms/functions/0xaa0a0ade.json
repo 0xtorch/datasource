@@ -1,0 +1,1 @@
+[{"type":"function","inputs":[{"name":"allowedContract","internalType":"address","type":"address"},{"name":"toChain","internalType":"uint256","type":"uint256"}],"name":"addAllowedContract","outputs":[],"stateMutability":"nonpayable"}]
