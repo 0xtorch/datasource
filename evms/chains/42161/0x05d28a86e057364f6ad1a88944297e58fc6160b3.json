@@ -1,0 +1,5 @@
+{
+  "address": "0x05d28a86e057364f6ad1a88944297e58fc6160b3",
+  "label": "BeaconProxy",
+  "abi": "[{\"inputs\":[{\"internalType\":\"bytes\",\"name\":\"trailingData\",\"type\":\"bytes\"}],\"stateMutability\":\"nonpayable\",\"type\":\"constructor\"},{\"anonymous\":false,\"inputs\":[],\"name\":\"Genesis\",\"type\":\"event\"},{\"stateMutability\":\"payable\",\"type\":\"fallback\"}]"
+}
