@@ -1,0 +1,5 @@
+{
+  "address": "0xf46c245e3929d90ddb382d2300dbbf4a252593d2",
+  "label": "Automated",
+  "abi": "[{\"inputs\":[{\"internalType\":\"address\",\"name\":\"_token\",\"type\":\"address\"},{\"internalType\":\"address[]\",\"name\":\"_addresses\",\"type\":\"address[]\"},{\"internalType\":\"uint256[]\",\"name\":\"_amounts\",\"type\":\"uint256[]\"},{\"internalType\":\"uint256\",\"name\":\"_totalAmount\",\"type\":\"uint256\"}],\"name\":\"AirdropTokens\",\"outputs\":[],\"stateMutability\":\"payable\",\"type\":\"function\"}]"
+}
