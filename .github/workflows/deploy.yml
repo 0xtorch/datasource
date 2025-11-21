@@ -29,7 +29,7 @@ jobs:
       - name: Run Tests
         run: bun test
 
-      - name: Register Apps
+      - name: Register Apps for Nekoya.bc
         run: |
           for file in $(git diff ${{github.event.before}}..${{github.event.after}} --name-only --diff-filter=AM -- 'apps/*.json') ; do
             FILES=$file bun run scripts/registerApps.ts
@@ -39,7 +39,17 @@ jobs:
           USERNAME: ${{ secrets.USERNAME_NEKOYA }}
           PASSWORD: ${{ secrets.PASSWORD_NEKOYA }}
 
-      - name: Register App Icons
+      - name: Register Apps for kaoria-tax
+        run: |
+          for file in $(git diff ${{github.event.before}}..${{github.event.after}} --name-only --diff-filter=AM -- 'apps/*.json') ; do
+            FILES=$file bun run scripts/registerApps.ts
+          done
+        env:
+          API_ENDPOINT: ${{ secrets.API_ENDPOINT }}
+          USERNAME: ${{ secrets.USERNAME }}
+          PASSWORD: ${{ secrets.PASSWORD }}
+
+      - name: Register App Icons for Nekoya.bc
         run: |
           for file in $(git diff ${{github.event.before}}..${{github.event.after}} --name-only --diff-filter=AM -- 'apps/icons/*') ; do
             FILES=$file bun run scripts/registerAppIcons.ts
@@ -49,7 +59,17 @@ jobs:
           USERNAME: ${{ secrets.USERNAME_NEKOYA }}
           PASSWORD: ${{ secrets.PASSWORD_NEKOYA }}
 
-      - name: Register EVM Chain Address
+      - name: Register App Icons for kaoria-tax
+        run: |
+          for file in $(git diff ${{github.event.before}}..${{github.event.after}} --name-only --diff-filter=AM -- 'apps/icons/*') ; do
+            FILES=$file bun run scripts/registerAppIcons.ts
+          done
+        env:
+          API_ENDPOINT: ${{ secrets.API_ENDPOINT }}
+          USERNAME: ${{ secrets.USERNAME }}
+          PASSWORD: ${{ secrets.PASSWORD }}
+
+      - name: Register EVM Chain Address for Nekoya.bc
         run: |
           for file in $(git diff ${{github.event.before}}..${{github.event.after}} --name-only --diff-filter=AM -- 'evms/chains/**/*.json') ; do
             FILES=$file bun run scripts/registerEvmAddresses.ts
@@ -59,7 +79,17 @@ jobs:
           USERNAME: ${{ secrets.USERNAME_NEKOYA }}
           PASSWORD: ${{ secrets.PASSWORD_NEKOYA }}
 
-      - name: Register EVM Event ABIs
+      - name: Register EVM Chain Address for kaoria-tax
+        run: |
+          for file in $(git diff ${{github.event.before}}..${{github.event.after}} --name-only --diff-filter=AM -- 'evms/chains/**/*.json') ; do
+            FILES=$file bun run scripts/registerEvmAddresses.ts
+          done
+        env:
+          API_ENDPOINT: ${{ secrets.API_ENDPOINT }}
+          USERNAME: ${{ secrets.USERNAME }}
+          PASSWORD: ${{ secrets.PASSWORD }}
+
+      - name: Register EVM Event ABIs for Nekoya.bc
         run: |
           for file in $(git diff ${{github.event.before}}..${{github.event.after}} --name-only --diff-filter=AM -- 'evms/events/*.json') ; do
             FILES=$file bun run scripts/registerEvmEvents.ts
@@ -69,7 +99,17 @@ jobs:
           USERNAME: ${{ secrets.USERNAME_NEKOYA }}
           PASSWORD: ${{ secrets.PASSWORD_NEKOYA }}
 
-      - name: Register EVM Function ABIs
+      - name: Register EVM Event ABIs for kaoria-tax
+        run: |
+          for file in $(git diff ${{github.event.before}}..${{github.event.after}} --name-only --diff-filter=AM -- 'evms/events/*.json') ; do
+            FILES=$file bun run scripts/registerEvmEvents.ts
+          done
+        env:
+          API_ENDPOINT: ${{ secrets.API_ENDPOINT }}
+          USERNAME: ${{ secrets.USERNAME }}
+          PASSWORD: ${{ secrets.PASSWORD }}
+
+      - name: Register EVM Function ABIs for Nekoya.bc
         run: |
           for file in $(git diff ${{github.event.before}}..${{github.event.after}} --name-only --diff-filter=AM -- 'evms/functions/*.json') ; do
             FILES=$file bun run scripts/registerEvmFunctions.ts
@@ -79,7 +119,17 @@ jobs:
           USERNAME: ${{ secrets.USERNAME_NEKOYA }}
           PASSWORD: ${{ secrets.PASSWORD_NEKOYA }}
 
-      - name: Register EVM Chain Analyzer
+      - name: Register EVM Function ABIs for kaoria-tax
+        run: |
+          for file in $(git diff ${{github.event.before}}..${{github.event.after}} --name-only --diff-filter=AM -- 'evms/functions/*.json') ; do
+            FILES=$file bun run scripts/registerEvmFunctions.ts
+          done
+        env:
+          API_ENDPOINT: ${{ secrets.API_ENDPOINT }}
+          USERNAME: ${{ secrets.USERNAME }}
+          PASSWORD: ${{ secrets.PASSWORD }}
+
+      - name: Register EVM Chain Analyzer for Nekoya.bc
         run: |
           for file in $(git diff ${{github.event.before}}..${{github.event.after}} --name-only --diff-filter=AM -- 'evms/analyzers/*.json') ; do
             FILES=$file bun run scripts/registerEvmAnalyzers.ts
@@ -89,7 +139,17 @@ jobs:
           USERNAME: ${{ secrets.USERNAME_NEKOYA }}
           PASSWORD: ${{ secrets.PASSWORD_NEKOYA }}
 
-      - name: Register Solana Analyzer
+      - name: Register EVM Chain Analyzer for kaoria-tax
+        run: |
+          for file in $(git diff ${{github.event.before}}..${{github.event.after}} --name-only --diff-filter=AM -- 'evms/analyzers/*.json') ; do
+            FILES=$file bun run scripts/registerEvmAnalyzers.ts
+          done
+        env:
+          API_ENDPOINT: ${{ secrets.API_ENDPOINT }}
+          USERNAME: ${{ secrets.USERNAME }}
+          PASSWORD: ${{ secrets.PASSWORD }}
+
+      - name: Register Solana Analyzer for Nekoya.bc
         run: |
           for file in $(git diff ${{github.event.before}}..${{github.event.after}} --name-only --diff-filter=AM -- 'solanas/analyzers/*.json') ; do
             FILES=$file bun run scripts/registerSolanaAnalyzers.ts
@@ -99,7 +159,17 @@ jobs:
           USERNAME: ${{ secrets.USERNAME_NEKOYA }}
           PASSWORD: ${{ secrets.PASSWORD_NEKOYA }}
 
-      - name: Register Symbol
+      - name: Register Solana Analyzer for kaoria-tax
+        run: |
+          for file in $(git diff ${{github.event.before}}..${{github.event.after}} --name-only --diff-filter=AM -- 'solanas/analyzers/*.json') ; do
+            FILES=$file bun run scripts/registerSolanaAnalyzers.ts
+          done
+        env:
+          API_ENDPOINT: ${{ secrets.API_ENDPOINT }}
+          USERNAME: ${{ secrets.USERNAME }}
+          PASSWORD: ${{ secrets.PASSWORD }}
+
+      - name: Register Symbol for Nekoya.bc
         run: |
           for file in $(git diff ${{github.event.before}}..${{github.event.after}} --name-only --diff-filter=AM -- 'symbols/*.json') ; do
             FILES=$file bun run scripts/registerSymbols.ts
@@ -108,3 +178,13 @@ jobs:
           API_ENDPOINT: ${{ secrets.API_ENDPOINT_NEKOYA }}
           USERNAME: ${{ secrets.USERNAME_NEKOYA }}
           PASSWORD: ${{ secrets.PASSWORD_NEKOYA }}
+
+      - name: Register Symbol for kaoria-tax
+        run: |
+          for file in $(git diff ${{github.event.before}}..${{github.event.after}} --name-only --diff-filter=AM -- 'symbols/*.json') ; do
+            FILES=$file bun run scripts/registerSymbols.ts
+          done
+        env:
+          API_ENDPOINT: ${{ secrets.API_ENDPOINT }}
+          USERNAME: ${{ secrets.USERNAME }}
+          PASSWORD: ${{ secrets.PASSWORD }}
