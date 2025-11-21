@@ -35,9 +35,9 @@ jobs:
             FILES=$file bun run scripts/registerApps.ts
           done
         env:
-          API_ENDPOINT: ${{ secrets.API_ENDPOINT }}
-          USERNAME: ${{ secrets.USERNAME }}
-          PASSWORD: ${{ secrets.PASSWORD }}
+          API_ENDPOINT: ${{ secrets.API_ENDPOINT_NEKOYA }}
+          USERNAME: ${{ secrets.USERNAME_NEKOYA }}
+          PASSWORD: ${{ secrets.PASSWORD_NEKOYA }}
 
       - name: Register App Icons
         run: |
@@ -45,9 +45,9 @@ jobs:
             FILES=$file bun run scripts/registerAppIcons.ts
           done
         env:
-          API_ENDPOINT: ${{ secrets.API_ENDPOINT }}
-          USERNAME: ${{ secrets.USERNAME }}
-          PASSWORD: ${{ secrets.PASSWORD }}
+          API_ENDPOINT: ${{ secrets.API_ENDPOINT_NEKOYA }}
+          USERNAME: ${{ secrets.USERNAME_NEKOYA }}
+          PASSWORD: ${{ secrets.PASSWORD_NEKOYA }}
 
       - name: Register EVM Chain Address
         run: |
@@ -55,9 +55,9 @@ jobs:
             FILES=$file bun run scripts/registerEvmAddresses.ts
           done
         env:
-          API_ENDPOINT: ${{ secrets.API_ENDPOINT }}
-          USERNAME: ${{ secrets.USERNAME }}
-          PASSWORD: ${{ secrets.PASSWORD }}
+          API_ENDPOINT: ${{ secrets.API_ENDPOINT_NEKOYA }}
+          USERNAME: ${{ secrets.USERNAME_NEKOYA }}
+          PASSWORD: ${{ secrets.PASSWORD_NEKOYA }}
 
       - name: Register EVM Event ABIs
         run: |
@@ -65,9 +65,9 @@ jobs:
             FILES=$file bun run scripts/registerEvmEvents.ts
           done
         env:
-          API_ENDPOINT: ${{ secrets.API_ENDPOINT }}
-          USERNAME: ${{ secrets.USERNAME }}
-          PASSWORD: ${{ secrets.PASSWORD }}
+          API_ENDPOINT: ${{ secrets.API_ENDPOINT_NEKOYA }}
+          USERNAME: ${{ secrets.USERNAME_NEKOYA }}
+          PASSWORD: ${{ secrets.PASSWORD_NEKOYA }}
 
       - name: Register EVM Function ABIs
         run: |
@@ -75,9 +75,9 @@ jobs:
             FILES=$file bun run scripts/registerEvmFunctions.ts
           done
         env:
-          API_ENDPOINT: ${{ secrets.API_ENDPOINT }}
-          USERNAME: ${{ secrets.USERNAME }}
-          PASSWORD: ${{ secrets.PASSWORD }}
+          API_ENDPOINT: ${{ secrets.API_ENDPOINT_NEKOYA }}
+          USERNAME: ${{ secrets.USERNAME_NEKOYA }}
+          PASSWORD: ${{ secrets.PASSWORD_NEKOYA }}
 
       - name: Register EVM Chain Analyzer
         run: |
@@ -85,9 +85,9 @@ jobs:
             FILES=$file bun run scripts/registerEvmAnalyzers.ts
           done
         env:
-          API_ENDPOINT: ${{ secrets.API_ENDPOINT }}
-          USERNAME: ${{ secrets.USERNAME }}
-          PASSWORD: ${{ secrets.PASSWORD }}
+          API_ENDPOINT: ${{ secrets.API_ENDPOINT_NEKOYA }}
+          USERNAME: ${{ secrets.USERNAME_NEKOYA }}
+          PASSWORD: ${{ secrets.PASSWORD_NEKOYA }}
 
       - name: Register Solana Analyzer
         run: |
@@ -95,9 +95,9 @@ jobs:
             FILES=$file bun run scripts/registerSolanaAnalyzers.ts
           done
         env:
-          API_ENDPOINT: ${{ secrets.API_ENDPOINT }}
-          USERNAME: ${{ secrets.USERNAME }}
-          PASSWORD: ${{ secrets.PASSWORD }}
+          API_ENDPOINT: ${{ secrets.API_ENDPOINT_NEKOYA }}
+          USERNAME: ${{ secrets.USERNAME_NEKOYA }}
+          PASSWORD: ${{ secrets.PASSWORD_NEKOYA }}
 
       - name: Register Symbol
         run: |
@@ -105,6 +105,6 @@ jobs:
             FILES=$file bun run scripts/registerSymbols.ts
           done
         env:
-          API_ENDPOINT: ${{ secrets.API_ENDPOINT }}
-          USERNAME: ${{ secrets.USERNAME }}
-          PASSWORD: ${{ secrets.PASSWORD }}
+          API_ENDPOINT: ${{ secrets.API_ENDPOINT_NEKOYA }}
+          USERNAME: ${{ secrets.USERNAME_NEKOYA }}
+          PASSWORD: ${{ secrets.PASSWORD_NEKOYA }}
