@@ -6,9 +6,9 @@
     "check": "biome check --write"
   },
   "dependencies": {
-    "@0xtorch/core": "^0.0.65",
-    "@0xtorch/evm": "^0.0.151",
-    "@0xtorch/solana": "^0.0.43",
+    "@0xtorch/core": "^0.0.67",
+    "@0xtorch/evm": "^0.0.162",
+    "@0xtorch/solana": "^0.0.71",
     "abitype": "^1.0.9",
     "viem": "^2.36.0",
     "zod": "^3.24.4"
