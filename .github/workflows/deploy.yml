@@ -169,16 +169,6 @@ jobs:
           USERNAME: ${{ secrets.USERNAME }}
           PASSWORD: ${{ secrets.PASSWORD }}
 
-      - name: Register Symbol for Nekoya.bc
-        run: |
-          for file in $(git diff ${{github.event.before}}..${{github.event.after}} --name-only --diff-filter=AM -- 'symbols/*.json') ; do
-            FILES=$file bun run scripts/registerSymbols.ts
-          done
-        env:
-          API_ENDPOINT: ${{ secrets.API_ENDPOINT_NEKOYA }}
-          USERNAME: ${{ secrets.USERNAME_NEKOYA }}
-          PASSWORD: ${{ secrets.PASSWORD_NEKOYA }}
-
       - name: Register Symbol for kaoria-tax
         run: |
           for file in $(git diff ${{github.event.before}}..${{github.event.after}} --name-only --diff-filter=AM -- 'symbols/*.json') ; do
