@@ -1,6 +1,7 @@
 {
   "BTC": "crypto/bitcoin",
   "ETH": "crypto/ethereum",
+  "USDC": "crypto/usd-coin",
   "SOL": "crypto/solana",
   "HYPE": "crypto/hyperliquid",
   "BERA": "crypto/berachain-bera",
