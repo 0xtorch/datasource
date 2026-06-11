@@ -1,0 +1,18 @@
+{
+  "BCH": "crypto/bitcoin-cash",
+  "BTC": "crypto/bitcoin",
+  "DGB": "crypto/digibyte",
+  "ETC": "crypto/ethereum-classic",
+  "ETH": "crypto/ethereum",
+  "FCT": "crypto/0xtorch-poloniex-fct",
+  "GNO": "crypto/gnosis",
+  "GNT": "crypto/golem",
+  "LSK": "crypto/lisk",
+  "LTC": "crypto/litecoin",
+  "NEOS": "crypto/0xtorch-poloniex-neos",
+  "OMNI": "crypto/0xtorch-poloniex-omni",
+  "REP": "crypto/augur",
+  "USDT": "crypto/tether",
+  "XEM": "crypto/nem",
+  "XRP": "crypto/ripple"
+}
