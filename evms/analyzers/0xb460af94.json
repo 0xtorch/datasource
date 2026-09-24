@@ -1,0 +1,72 @@
+[
+  {
+    "example": {
+      "chainId": 999,
+      "hash": "0x2773413a6cc4f2b827c77a6e87bfe6f5724aaec0d0c8d38f31c1c531c50f3936",
+      "addresses": ["0x0e61a8fb14f6ac999646212d30b2192cd02080dd"]
+    },
+    "condition": {
+      "chainId": [999],
+      "related": { "type": "array-in", "values": [{ "type": "from" }] },
+      "to": {
+        "type": "array-in",
+        "values": [
+          "0x06fd9d03b3d0f18e4919919b72d30c582f0a97e5",
+          "0xb8fec5f81bc7be9dd5f9bc6de8e34e244a726d2f",
+          "0x78dd09e369f35d033a1d4ec1df39bc8a51c8b6fd",
+          "0x9465c9218668b54939a7e09467d1dff9d8704882"
+        ]
+      },
+      "function": { "id": "0xb460af94" },
+      "logs": {
+        "type": "some",
+        "patterns": [
+          {
+            "address": { "type": "array-in", "values": [{ "type": "to" }] },
+            "signature": "0xfbde797d201c681b91056529119e0b02407c7bb96a4a2c75c01fc9667232c8db",
+            "indexedCount": 3,
+            "count": { "type": "between", "min": "1", "max": "1" }
+          }
+        ]
+      }
+    },
+    "generators": [
+      {
+        "type": "withdraw-with-bond",
+        "comment": "HyperLend isolated pair withdraw",
+        "loanId": {
+          "type": "join",
+          "values": [
+            "evm_",
+            { "type": "chain-id" },
+            "_",
+            {
+              "type": "erc20",
+              "from": { "type": "address-in", "values": ["related"] },
+              "to": {
+                "type": "address-in",
+                "values": ["0x0000000000000000000000000000000000000000"]
+              },
+              "index": 0,
+              "value": "address"
+            }
+          ]
+        },
+        "transfers": [
+          {
+            "type": "erc20",
+            "direction": "in",
+            "from": { "type": "array-in", "not": true, "values": ["related"] },
+            "to": { "type": "array-in", "values": ["related"] }
+          },
+          {
+            "type": "erc20",
+            "direction": "out",
+            "from": { "type": "array-in", "values": ["related"] },
+            "to": { "type": "array-in", "not": true, "values": ["related"] }
+          }
+        ]
+      }
+    ]
+  }
+]

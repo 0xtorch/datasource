@@ -1,0 +1,64 @@
+[
+  {
+    "example": {
+      "chainId": 999,
+      "hash": "0x2eb65c1d290fc0587ede99c84f8445d68965b985a4f372fedde9094d437cf48a",
+      "addresses": ["0x7c614c9da4a195f209ef9e63e5c6f5801db86fab"]
+    },
+    "condition": {
+      "chainId": [999],
+      "related": { "type": "array-in", "values": [{ "type": "from" }] },
+      "to": {
+        "type": "array-in",
+        "values": ["0x00a89d7a5a02160f20150ebea7a2b5e4879a1a8b"]
+      },
+      "function": { "id": "0x573ade81" },
+      "logs": {
+        "type": "some",
+        "patterns": [
+          {
+            "address": {
+              "type": "array-in",
+              "values": ["0x00a89d7a5a02160f20150ebea7a2b5e4879a1a8b"]
+            },
+            "signature": "0xa534c8dbe71f871f9f3530e97a74601fea17b426cae02e1c5aee42c96c784051",
+            "indexedCount": 3,
+            "count": { "type": "between", "min": "1", "max": "1" }
+          }
+        ]
+      }
+    },
+    "generators": [
+      {
+        "type": "repayment",
+        "comment": "HyperLend repay",
+        "loanId": {
+          "type": "join",
+          "values": [
+            "evm_",
+            { "type": "chain-id" },
+            "_",
+            {
+              "type": "erc20",
+              "from": { "type": "address-in", "values": ["related"] },
+              "to": {
+                "type": "address-in",
+                "values": ["0x0000000000000000000000000000000000000000"]
+              },
+              "index": 0,
+              "value": "address"
+            }
+          ]
+        },
+        "transfers": [
+          {
+            "type": "erc20",
+            "direction": "out",
+            "from": { "type": "array-in", "values": ["related"] },
+            "to": { "type": "array-in", "not": true, "values": ["related"] }
+          }
+        ]
+      }
+    ]
+  }
+]
