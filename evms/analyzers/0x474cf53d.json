@@ -1,0 +1,72 @@
+[
+  {
+    "example": {
+      "chainId": 999,
+      "hash": "0x7a7294e4c650b8b8654b6f58e7d303c60b7b13d812bb1e58149d9f870d0544b3",
+      "addresses": ["0xf759c77875d1964a11131de2bc1a415d3dfb27d8"]
+    },
+    "condition": {
+      "chainId": [999],
+      "related": { "type": "array-in", "values": [{ "type": "from" }] },
+      "to": {
+        "type": "array-in",
+        "values": ["0x49558c794ea2ac8974c9f27886ddfaa951e99171"]
+      },
+      "value": { "type": "between", "min": "1" },
+      "function": { "id": "0x474cf53d" },
+      "logs": {
+        "type": "some",
+        "patterns": [
+          {
+            "address": {
+              "type": "array-in",
+              "values": ["0x00a89d7a5a02160f20150ebea7a2b5e4879a1a8b"]
+            },
+            "signature": "0x2b627736bca15cd5381dcf80b0bf11fd197d01a037c52b927a881a10fb73ba61",
+            "indexedCount": 3,
+            "count": { "type": "between", "min": "1", "max": "1" }
+          }
+        ]
+      }
+    },
+    "generators": [
+      {
+        "type": "deposit-with-bond",
+        "comment": "HyperLend supply (native)",
+        "loanId": {
+          "type": "join",
+          "values": [
+            "evm_",
+            { "type": "chain-id" },
+            "_",
+            {
+              "type": "erc20",
+              "from": {
+                "type": "address-in",
+                "values": ["0x0000000000000000000000000000000000000000"]
+              },
+              "to": { "type": "address-in", "values": ["related"] },
+              "index": 0,
+              "value": "address"
+            }
+          ]
+        },
+        "transfers": [
+          {
+            "type": "value",
+            "direction": "out",
+            "from": { "type": "array-in", "values": ["related"] },
+            "to": { "type": "array-in", "not": true, "values": ["related"] },
+            "value": { "type": "between", "min": "1" }
+          },
+          {
+            "type": "erc20",
+            "direction": "in",
+            "from": { "type": "array-in", "not": true, "values": ["related"] },
+            "to": { "type": "array-in", "values": ["related"] }
+          }
+        ]
+      }
+    ]
+  }
+]

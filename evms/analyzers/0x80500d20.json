@@ -1,0 +1,74 @@
+[
+  {
+    "example": {
+      "chainId": 999,
+      "hash": "0xeea0e86d79a8d4164054fc0eb575e26d49b568ccd785cbef40de36f22c4d85b2",
+      "addresses": ["0x2bb9b93baf8fb9562441d511397acf8defffa012"]
+    },
+    "condition": {
+      "chainId": [999],
+      "related": { "type": "array-in", "values": [{ "type": "from" }] },
+      "to": {
+        "type": "array-in",
+        "values": ["0x49558c794ea2ac8974c9f27886ddfaa951e99171"]
+      },
+      "function": { "id": "0x80500d20" },
+      "logs": {
+        "type": "some",
+        "patterns": [
+          {
+            "address": {
+              "type": "array-in",
+              "values": ["0x00a89d7a5a02160f20150ebea7a2b5e4879a1a8b"]
+            },
+            "signature": "0x3115d1449a7b732c986cba18244e897a450f61e1bb8d589cd2e69e6c8924f9f7",
+            "indexedCount": 3,
+            "count": { "type": "between", "min": "1", "max": "1" }
+          }
+        ]
+      }
+    },
+    "generators": [
+      {
+        "type": "withdraw-with-bond",
+        "comment": "HyperLend withdraw (native)",
+        "loanId": {
+          "type": "join",
+          "values": [
+            "evm_",
+            { "type": "chain-id" },
+            "_",
+            {
+              "type": "erc20",
+              "from": { "type": "address-in", "values": ["related"] },
+              "to": { "type": "address-in", "values": ["to"] },
+              "index": 0,
+              "value": "address"
+            }
+          ]
+        },
+        "transfers": [
+          {
+            "type": "internal",
+            "direction": "in",
+            "from": { "type": "array-in", "not": true, "values": ["related"] },
+            "to": { "type": "array-in", "values": ["related"] },
+            "value": { "type": "between", "min": "1" }
+          },
+          {
+            "type": "erc20",
+            "direction": "in",
+            "from": { "type": "array-in", "not": true, "values": ["related"] },
+            "to": { "type": "array-in", "values": ["related"] }
+          },
+          {
+            "type": "erc20",
+            "direction": "out",
+            "from": { "type": "array-in", "values": ["related"] },
+            "to": { "type": "array-in", "not": true, "values": ["related"] }
+          }
+        ]
+      }
+    ]
+  }
+]

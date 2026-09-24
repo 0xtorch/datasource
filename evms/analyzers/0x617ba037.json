@@ -1,0 +1,70 @@
+[
+  {
+    "example": {
+      "chainId": 999,
+      "hash": "0xd8966a3c8fdc2f220d5356e130819e8e51e9904ca59f0d534d642bf7411fad88",
+      "addresses": ["0x83938db24e5bf0458f917694550c5f3cd2c6ce6f"]
+    },
+    "condition": {
+      "chainId": [999],
+      "related": { "type": "array-in", "values": [{ "type": "from" }] },
+      "to": {
+        "type": "array-in",
+        "values": ["0x00a89d7a5a02160f20150ebea7a2b5e4879a1a8b"]
+      },
+      "function": { "id": "0x617ba037" },
+      "logs": {
+        "type": "some",
+        "patterns": [
+          {
+            "address": {
+              "type": "array-in",
+              "values": ["0x00a89d7a5a02160f20150ebea7a2b5e4879a1a8b"]
+            },
+            "signature": "0x2b627736bca15cd5381dcf80b0bf11fd197d01a037c52b927a881a10fb73ba61",
+            "indexedCount": 3,
+            "count": { "type": "between", "min": "1", "max": "1" }
+          }
+        ]
+      }
+    },
+    "generators": [
+      {
+        "type": "deposit-with-bond",
+        "comment": "HyperLend supply",
+        "loanId": {
+          "type": "join",
+          "values": [
+            "evm_",
+            { "type": "chain-id" },
+            "_",
+            {
+              "type": "erc20",
+              "from": {
+                "type": "address-in",
+                "values": ["0x0000000000000000000000000000000000000000"]
+              },
+              "to": { "type": "address-in", "values": ["related"] },
+              "index": 0,
+              "value": "address"
+            }
+          ]
+        },
+        "transfers": [
+          {
+            "type": "erc20",
+            "direction": "out",
+            "from": { "type": "array-in", "values": ["related"] },
+            "to": { "type": "array-in", "not": true, "values": ["related"] }
+          },
+          {
+            "type": "erc20",
+            "direction": "in",
+            "from": { "type": "array-in", "not": true, "values": ["related"] },
+            "to": { "type": "array-in", "values": ["related"] }
+          }
+        ]
+      }
+    ]
+  }
+]

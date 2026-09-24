@@ -17,6 +17,7 @@ import {
   createBscChain,
   createEthereumChain,
   createFantomChain,
+  createHyperEvmChain,
   createLineaChain,
   createMantaPacificChain,
   createMantleChain,
@@ -62,6 +63,9 @@ export const createEvmAnalyzerByTransaction = async () => {
     }),
     createFantomChain({
       explorerApiKey: process.env.FANTOM_API_KEY ?? '',
+    }),
+    createHyperEvmChain({
+      explorerApiKey: process.env.HYPEREVM_API_KEY ?? '',
     }),
     createLineaChain({
       explorerApiKey: process.env.LINEA_API_KEY ?? '',
