@@ -1,5 +1,7 @@
 {
+  "ETH2": "crypto/eth2-staking-by-poolx",
   "KALT": "crypto/altlayer",
+  "KPOL": "crypto/proof-of-liquidity",
   "RNDR": "crypto/render-token",
   "UNIC": "crypto/0xtorch-kucoin-unic"
 }
